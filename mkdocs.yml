@@ -2,7 +2,7 @@
 #dev_addr: '10.142.0.2:80'
 #dev_addr: '0.0.0.0:80'
 site_url: 'http://curriculum.idsucla.org'
-#plugins: []
+plugins: []
 #plugins:
 #  - pdf-export:
 #        verbose: true
