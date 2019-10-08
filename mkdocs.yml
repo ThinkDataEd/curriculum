@@ -2,8 +2,10 @@
 #dev_addr: '10.142.0.2:80'
 #dev_addr: '0.0.0.0:80'
 site_url: 'http://curriculum.idsucla.org'
-plugins: []
-
+#plugins: []
+#plugins:
+#  - pdf-export:
+#        verbose: true
 
 site_name: Introduction to Data Science Curriculum v_5.0
 markdown_extensions:

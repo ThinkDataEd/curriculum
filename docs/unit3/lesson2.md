@@ -8,7 +8,10 @@ learn to distinguish claims of causation from claims of association.
 1. Video: MythBusters’ *Is Yawning Contagious?*   
     [https://www.discovery.com/tv-shows/mythbusters/videos/is-yawning-contagious](https://www.discovery.com/tv-shows/mythbusters/videos/is-yawning-contagious "https://www.discovery.com/tv-shows/mythbusters/videos/is-yawning-contagious")
 
-    <iframe width="320" height="240" src="https://www.youtube.com/embed/GjHFvOzNiCo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" align="right"></iframe>
+    <div align="right"><iframe width="420" height="315"
+    src="https://www.youtube.com/embed/GjHFvOzNiCo" allowfullscreen>
+    </iframe><br><a href="https://www.youtube.com/embed/GjHFvOzNiCo">https://www.youtube.com/embed/GjHFvOzNiCo</a></div>
+
     **<u>Note:</u>** If video is not found using link, please use a search engine (e.g., Google Video)
     and type “MythBusters Is Yawning Contagious” to find it. The clip is a little over 5 minutes
     in length.
