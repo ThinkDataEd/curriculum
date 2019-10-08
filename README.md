@@ -1,2 +1,2 @@
-# curriculum
+# curriculum.mobilizingcs.org
  
