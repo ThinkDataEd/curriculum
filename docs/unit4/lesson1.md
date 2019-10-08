@@ -9,7 +9,7 @@ before the drought.
 ###**Materials:**
 1. *Video: California Drought Crisis Reaches Worst Level as It Spreads North*<br> [https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516")
 
-2. *Webpage: Twitter vs. Heart Disease* Webpage (Found at: <br> [https://www.medicaldaily.com/g00/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830](https://www.medicaldaily.com/g00/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830 "https://www.medicaldaily.com/g00/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830") 
+2. *Webpage: Twitter vs. Heart Disease* Webpage (Found at: <br> [https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830](https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830 "https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830") 
 )
 
 3. Class Created Campaign Information (from [Unit 3](../unit3/overview.md), [Lessons 17](../unit3/lesson17.md)-[19](../unit3/lesson19.md))
