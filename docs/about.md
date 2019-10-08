@@ -2,4 +2,4 @@ If you have any question, please contact us at [support@idsucla.org](mailto:supp
 
 Introduction to Data Science, [http://www.idsucla.org](http://www.idsucla.org)
 
-This website is last updated in Oct 2018
+This website is last updated in Oct 2019
