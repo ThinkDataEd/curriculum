@@ -49,3 +49,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 	1. Commit
 	
 	2. Push (To Publish Your change of source code)
+	
+## Note
+
+This note is available at repo https://github.com/IDSUCLA/curriculum
