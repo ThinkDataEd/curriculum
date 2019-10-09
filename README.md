@@ -13,12 +13,12 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
+    mkdocs.yml    # main config file.
+    docs/         # source code folder
+        XX.md     # a page for a lesson.
         ...       # Other markdown pages, images and other files.
-    site/
-        ...       # Generate website
+    site/         # Generated website folder
+        ...       
 		
 ## Steps for manager
 
