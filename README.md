@@ -24,6 +24,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 * Download and install Visual Studio Code at https://code.visualstudio.com/
 * Start Github Desktop. 
-	** Switch Current Repository at the top left corner to IDSUCLA/curriculum or curriculum
+
+	1. Switch Current Repository at the top left corner to IDSUCLA/curriculum or curriculum
 
 
