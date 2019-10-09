@@ -6,10 +6,10 @@
 
 * `mkdocs build` - Build the documentation site.
 * `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs gh-deploy` - Create a new project.
-* `mkdocs help` - Print this help message.
+* `mkdocs gh-deploy` - deploy the repo to curriculum.idsucla.org
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
+* `mkdocs help` - Print this help message.
 
 ## Project layout
 
