@@ -16,13 +16,7 @@ found at:* [http://www.nytimes.com/interactive/2009/07/31/business/20080801-metr
 
 4. Article: *The Washington Post’s Teens Are Spending More Time Consuming Social Media, on
 Mobile Devices* found at: 
-[https://www.washingtonpost.com/postlive/teens-are-spending-moretime-
-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-
-b3db6b9ac586_story.html](https://www.washingtonpost.com/postlive/teens-are-spending-moretime-
-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-
-b3db6b9ac586_story.html "https://www.washingtonpost.com/postlive/teens-are-spending-moretime-
-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-
-b3db6b9ac586_story.html")
+[https://www.washingtonpost.com/postlive/teens-are-spending-moretime-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-b3db6b9ac586_story.html](https://www.washingtonpost.com/postlive/teens-are-spending-moretime-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-b3db6b9ac586_story.html "https://www.washingtonpost.com/postlive/teens-are-spending-moretime-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-b3db6b9ac586_story.html")
 
 5. K-L-W Graphic Organizer ([LMR_TR_K-L-W Chart](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_K-L-W Chart.pdf))
 
