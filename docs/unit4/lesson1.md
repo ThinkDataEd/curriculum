@@ -9,6 +9,12 @@ before the drought.
 ###**Materials:**
 1. *Video: California Drought Crisis Reaches Worst Level as It Spreads North*<br> [https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516")
 
+    OR [http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516")
+    
+	<div align="right"><iframe width="420" height="315"
+	src="https://www.nbcnews.com/news/embedded-video/mmvo42767429933" allowfullscreen>
+	</iframe><br><a href="https://www.nbcnews.com/news/embedded-video/mmvo42767429933">https://www.nbcnews.com/news/embedded-video/mmvo42767429933</a></div>
+
 2. *Webpage: Twitter vs. Heart Disease* Webpage (Found at: <br> [https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830](https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830 "https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830") 
 )
 
