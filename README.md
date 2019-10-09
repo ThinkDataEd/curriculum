@@ -38,13 +38,15 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 	
 	2. Terminal -> New terminal
 	
-	3. YOUR FILE EDIT
+	3. git pull in Terminal (Alternative to 'Start Github Desktop' Section)
 	
-	4. mkdocs serve in Terminal (To View Your change)
+	4. YOUR FILE EDIT
 	
-	5. mkdocs gh-deploy in Terminal (To Publish Your change of website)
+	5. mkdocs serve in Terminal (To View Your change)
 	
-	5. git push in Terminal (To Publish Your change of source code)
+	6. mkdocs gh-deploy in Terminal (To Publish Your change of website)
+	
+	7. git push in Terminal (To Publish Your change of source code)
 
 * Alternatively, Go Back to Github Desktop. 
 
