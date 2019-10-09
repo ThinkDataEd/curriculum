@@ -22,9 +22,30 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 		
 ## Steps for manager
 
-* Download and install Visual Studio Code at https://code.visualstudio.com/
+* Download and install Visual Studio Code at https://code.visualstudio.com/ also Github Desktop, IDS Tech will do configuration
+
 * Start Github Desktop. 
 
 	1. Switch Current Repository at the top left corner to IDSUCLA/curriculum or curriculum
+	
+	2. Switch Current Branch to master
+	
+	3. Click Refresh Icon/Fetch Origin, then Pull Origin if you see downloadable icon. 
+	
+* Start Visual Studio Code.
+	
+	1. File -> Open -> Documents/Github/Curriculum
+	
+	2. Terminal -> New terminal
+	
+	3. YOUR FILE EDIT
+	
+	4. mkdocs serve in Terminal (To View Your change)
+	
+	5. mkdocs gh-deploy in Terminal (To Publish Your change of website)
 
+* Go Back to Github Desktop. 
 
+	1. Commit
+	
+	2. Push (To Publish Your change of source code)
