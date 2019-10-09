@@ -18,4 +18,12 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
     site/
-        ...
+        ...       # Generate website
+		
+## Steps for manager
+
+* Download and install Visual Studio Code at https://code.visualstudio.com/
+* Start Github Desktop. 
+	** Switch Current Repository at the top left corner to IDSUCLA/curriculum or curriculum
+
+
