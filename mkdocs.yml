@@ -345,6 +345,8 @@ nav:
     - App Downloads: download/app.md
     - About: about.md
 
+google_analytics: ['UA-149684808-1', 'curriculum.idsucla.org']
+
 #plugins:
 #    - search:
 #        lang: en
