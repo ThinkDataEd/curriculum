@@ -43,12 +43,12 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 	4. mkdocs serve in Terminal (To View Your change)
 	
 	5. mkdocs gh-deploy in Terminal (To Publish Your change of website)
-
-* Go Back to Github Desktop. 
-
-	1. Commit
 	
-	2. Push (To Publish Your change of source code)
+	5. git push in Terminal (To Publish Your change of source code)
+
+* Alternatively, Go Back to Github Desktop. 
+
+	1. Commit->Push (To Publish Your change of source code)
 	
 ## Note
 
