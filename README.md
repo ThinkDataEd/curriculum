@@ -15,11 +15,16 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
     mkdocs.yml    # main config file.
     docs/         # source code folder
+	    IDS_Curriculum_v_5.0     		# pdf files	(the same but of bigger size for download)
+		IDS_Curriculum_v_5.0_preview	# pdf files (the same but of smaller size for preview)
+		IDS_Curriculum_v_5.0.zip		# pdf files in a zip 
         XX.md     # a page for a lesson.
         ...       # Other markdown pages, images and other files.
     site/         # Generated website folder
         ...       
 		
+	If to update a pdf file, update IDS_Curriculum_v_5.0 and IDS_Curriculum_v_5.0_preview and IDS_Curriculum_v_5.0.zip
+	
 ## Steps for manager
 
 * Download and install Visual Studio Code at https://code.visualstudio.com/ also Github Desktop, IDS Tech will do configuration
