@@ -13,7 +13,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 ###**So let's get started!**
 
-* The data for our first few labs comes from the Centers for Disease Control (CDC)
+* The data for our first few labs comes from the Centers for Disease Control (CDC).
 
     – The CDC is a federal institution that studies public health.
 
