@@ -97,7 +97,7 @@ by adding the which argument to the ```readHTMLTable()``` function.
 
     – Assign the scraped data the name ```mtns```
 
-###**From scraping to cleaning**
+###**<del>From scraping to cleaning</del>**
 * Data scraped from the web usually needs to be cleaned.
 
 * **Run the following commands and compare the names of the variables. Do you notice any
@@ -113,7 +113,7 @@ variables)?**
 
     – **Which variables are wrong?**
 
-###**Fixing variable types**
+###**<del>Fixing variable types</del>**
 * View the ```mtns``` data and notice the order of the variables.
 
     – Use the order of the variables to fill in the blanks below with either the word ```"factor"```, if
@@ -128,7 +128,7 @@ variables)?**
 
     – Don't forget to save the data as ```mtns``` and specify ```which``` table to scrape
     
-###**Fixing variable names**
+###**<del>Fixing variable names</del>**
 * View the ```mtns``` data and notice the order of the variables.
 
     – Then use the order of the variables and the following code template to change the names
@@ -144,10 +144,10 @@ variables)?**
 
 
 ###**Check, save and use!**
-* After scraping and cleaning the data, the only thing left to do is to save it and use it.
+* After scraping <del>and cleaning</del> the data, the only thing left to do is to save it and use it.
 
-    – Before saving, use the ```names()``` and ```str()``` functions on last time to make sure the
-    variable names and types are correct.
+    – <del>Before saving, use the ```names()``` and ```str()``` functions on last time to make sure the
+    variable names and types are correct.</del>
 
 * Fill in the blanks to save the data and give it a file name
 
