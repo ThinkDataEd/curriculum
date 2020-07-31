@@ -343,6 +343,8 @@ nav:
         - 'Mobilize Algebra I' : download/Algebra.md
         - 'Mobilize Biology' : download/Biology.md
     - App Downloads: download/app.md
+    - How to .. Video: 
+        - 'How to .. Video' :  video.md
     - About: about.md
 
 google_analytics: ['UA-149684808-1', 'curriculum.idsucla.org']
