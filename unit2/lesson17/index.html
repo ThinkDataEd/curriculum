@@ -1407,13 +1407,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#materials" class="md-nav__link">
-    Materials:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#vocabulary" class="md-nav__link">
     Vocabulary:
   </a>
@@ -1430,13 +1423,6 @@
           <li class="md-nav__item">
   <a href="#lesson" class="md-nav__link">
     Lesson:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#class-scribes" class="md-nav__link">
-    Class Scribes:
   </a>
   
 </li>
@@ -2965,13 +2951,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#materials" class="md-nav__link">
-    Materials:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#vocabulary" class="md-nav__link">
     Vocabulary:
   </a>
@@ -2988,13 +2967,6 @@
           <li class="md-nav__item">
   <a href="#lesson" class="md-nav__link">
     Lesson:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#class-scribes" class="md-nav__link">
-    Class Scribes:
   </a>
   
 </li>
@@ -3025,22 +2997,7 @@
                 
                 <h2 id="lesson-17-a-normal-measure-of-spread"><strong><em><u>Lesson 17: A Normal Measure of Spread</u></em></strong></h2>
 <h3 id="objective"><strong>Objective:</strong></h3>
-<p>Students will learn that standard deviation is another way to measure variability.</p>
-<h3 id="materials"><strong>Materials:</strong></h3>
-<ol>
-<li>
-<p><em>How Far Apart?</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf">LMR_2.6_How Far Apart</a>) – completed during <a href="../lesson4/">Lesson 4</a></p>
-</li>
-<li>
-<p><em>How Far Apart? (with standard deviation – SD)</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf">LMR_2.16_How Far Apart SD</a>)</p>
-</li>
-<li>
-<p>Projector to display visuals using RStudio</p>
-</li>
-<li>
-<p>RScript with the functions in this lesson</p>
-</li>
-</ol>
+<p>You will learn that standard deviation is another way to measure variability.</p>
 <h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
 <p>standard deviation (SD)</p>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
@@ -3052,38 +3009,39 @@ statisticians because of its role in common models and distributions, such as th
 <h3 id="lesson"><strong>Lesson:</strong></h3>
 <ol>
 <li>
-<p>In their DS journals, ask students to create a two-column table and label the left-column as
+<p>In your DS journals, <strong style="color: red;">create a two-column table and label the left-column as
 <em>Measures of Center (Central Tendency)</em> and the right column as <em>Measures of Spread
-(Dispersion)</em>.</p>
+(Dispersion)</em>.</strong></p>
 </li>
 <li>
-<p>In pairs, ask students to recall methods they have learned so far for measuring center and
-measuring spread in distributions.</p>
-<p>Measures of Center: <span style="color:grey"><strong><em>mean (average or typical value), median</em></strong></span></p>
-<p>Measures of Spread: <span style="color:grey"><strong><em>mean absolute deviation (MAD), interquartile range (IQR)</em></strong></span></p>
+<p>Review the information below about methods you have learned so far for measuring center and
+measuring spread in distributions. Place those measures in the corresponding column in your table.</p>
 </li>
-<li>
-<p>Share out a pair’s explanation and ask the rest of the pairs to agree or disagree. If there is
-disagreement, hold a class discussion until the lists are correct.</p>
-</li>
-<li>
-<p>Point out that a measure of center or a measure of spread depicts one value for a distribution.
-Ask student pairs to discuss the following question:</p>
+</ol>
+<p>A measure of center tells us the value that is typical, or in the center. A
+    measure of spread tells us how variable, or how spread apart, the data are.
+    Measures of Center: <strong><em>mean (average or typical value), median</em></strong>
+Measures of Spread: <strong><em>mean absolute deviation (MAD), interquartile range (IQR)</em></strong></p>
 <ol>
-<li>What does the value of each measure tell us about the data in the distribution? <span style="color:grey"><strong><em>Possible
-answer: A measure of center tells us the value that is typical, or in the center. A
-measure of spread tells us how variable, or how spread apart, the data are.</em></strong></span></li>
+<li>
+<p>Observe a student's response when asked to place terms in the correct column. Do you agree or disagree.  <strong style="color: blue;"> Insert a sample response </strong></p>
+</li>
+<li>
+<p>A measure of center or a measure of spread depicts one value for a distribution.
+Answer the following question in your DS journal:</p>
+<ol>
+<li><strong style="color: red;">What does the value of each measure tell us about the data in the distribution? </strong></li>
 </ol>
 </li>
 <li>
-<p>Next, ask students to add the term <strong>standard deviation (SD)</strong> to their <em>Measures of Spread</em> column.</p>
+<p>Add the term <strong>standard deviation (SD)</strong> to your <em>Measures of Spread</em> column.</p>
 </li>
 <li>
-<p>Inform students that the standard deviation of a distribution is another way to measure spread, or
+<p>The standard deviation of a distribution is another way to measure spread, or
 variability. The standard deviation is similar to the mean absolute deviation (MAD).</p>
 </li>
 <li>
-<p>Ask students to recall the formula for calculating the MAD:</p>
+<p>Recall the formula for calculating the MAD:</p>
 <p><center><img src="https://latex.codecogs.com/gif.latex?MAD=\frac{\sum_{i=1}^{n}&space;|x_i-\bar{x}|}{n}" title="MAD=\frac{\sum_{i=1}^{n} |x_i-\bar{x}|}{n}" /></center></p>
 </li>
 <li>
@@ -3092,89 +3050,71 @@ deviation squares the distances of each data point from the mean. Both methods r
 measurements because distance is always positive.</p>
 </li>
 <li>
-<p>Ask students to recall that they calculated MAD values in the <em>How Far Apart?</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf">LMR_2.6</a>)
-during <a href="../lesson4/">Lesson 4</a> of this unit.</p>
+<p>Recall that you calculated MAD values in the <em>How Far Apart?</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf">LMR_2.6</a>)
+during <a href="../lesson4/">Lesson 4</a> of this unit. You will need LMR_2.6 in step 12. </p>
 </li>
 <li>
-<p>Show and discuss the formula for calculating the standard deviation of a data set:</p>
+<p>Observe the formula for calculating the standard deviation of a data set:</p>
 <p><center><img src="https://latex.codecogs.com/gif.latex?MAD=\sqrt{\frac{\sum_{i=1}^{n}&space;(x_i-\bar{x})^2}{n}}" title="MAD=\sqrt{\frac{\sum_{i=1}^{n} (x_i-\bar{x})^2}{n}}" /></center></p>
-<p><strong><u>Note to teacher:</u></strong> There are different formulas for the standard deviation. We are presenting the
-simpler one, which divides by n. In AP Statistics (or college introductory statistics), students will
-learn that if they are using a sample of data to estimate the standard deviation for the population,
-then dividing by n−1 is a better estimator than dividing by n. But this technically requires a lot of
-scaffolding and leads to little understanding, and so we will stick with the simpler version. (In
-some books, this is called the “population value of the standard deviation” and the n−1 version
-is called the “sample estimate of the standard deviation.”)</p>
 </li>
 <li>
-<p>Guide the class to complete the <em>How Far Apart? (with standard deviation -- SD)</em> handout
-(<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf">LMR_2.16</a>) to calculate standard deviations of the dotplots using the formula listed above.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf">LMR_2.16</a></div></p>
-<p><span style="color:grey"><strong><em>Answers: Plot (a) – SD = 1.0847 candies; Plot (c) – SD = 1.3770 candies</em></strong></span></p>
+<p>You will now complete the <em>How Far Apart? (with standard deviation -- SD)</em> handout 
+([LMR_2.16].(../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf)) You will calculate standard deviations of the dotplots using the formula listed above. Follow the directions on the handout. When you get to part iii, compute the sd for plot (a) as you follow along the steps in the video.  Then compute the sd for plot (c) on your own.
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf">LMR_2.16</a></div>
+<strong style="color: blue;"> Include a video showing step by step calculation of sd for plot (a) </strong></p>
 </li>
 <li>
-<p>As a whole group, ask students to compare and contrast the standard deviations with the MAD
-values for the two plots in the handout.</p>
-<p><span style="color:grey"><strong><em>Similarities between SD and MAD:</em></strong></span></p>
-<p>• <span style="color:grey"><strong><em>Measure the same idea: variability, or spread</em></strong></span></p>
-<p>• <span style="color:grey"><strong><em>Are based on looking at the "deviations" from the mean: the difference
-between an observation and the mean</em></strong></span></p>
-<p>• <span style="color:grey"><strong><em>Uses the "typical" deviation</em></strong></span></p>
-<p><span style="color:grey"><strong><em>Differences between SD and MAD:</em></strong></span></p>
-<p>• <span style="color:grey"><strong><em>The MAD uses the absolute value and finds the average of the absolute
-deviations from the mean</em></strong></span></p>
-<p>• <span style="color:grey"><strong><em>The SD uses the square of each deviation from the mean, and finds the
-average of the squares</em></strong></span></p>
-<p>• <span style="color:grey"><strong><em>The SD takes the square root of the average of the squares</em></strong></span></p>
+<p>Compare and contrast the standard deviations that you just calculated with the MAD
+values that you obtained in LMR _2.6 from lesson 4. </p>
 </li>
 <li>
-<p>Ask students why they think the SD takes the square root of the average of the squares.
-    <span style="color:grey"><strong><em>Possible response: Taking the square root of the average of the squares returns the
-    measurements to their original units instead of square units.</em></strong></span></p>
+<p>Answer the following in your SD journal. <strong style="color: red;">Why do you think the SD takes the square root of the average of the squares.</strong></p>
 </li>
 <li>
-<p>To reinforce students’ conceptual understanding of standard deviation, student teams will
+<p>To reinforce your conceptual understanding of standard deviation, you will
 estimate the standard deviation for a few numerical distributions and explain the reasoning for
-their estimate. Load and view the atus data, then run the following functions one by one:</p>
+your estimate. You will use RStudio for the next activity. Load and view the atus data, then run the following functions one by one:</p>
 <p><strong>&gt; histogram(~sleep, data=atus, breaks=seq(0,1500,by=100),</strong></p>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;main = “Distribution of sleep in minutes”)</strong></p>
 <p><strong>&gt; sleep_mean&lt;-mean(~sleep, data=atus)</strong></p>
 <p><strong>&gt; add_line(vline=sleep_mean)</strong></p>
-<p><img src="../../img/21714.png" /></p>
 </li>
 <li>
-<p>Zoom in on the visual and give student teams a few minutes to discuss what they estimate the
-standard deviation to be. Have the reporter from each team report their estimate using the
+<p>Observe the visual obtained and estimate the
+standard deviation. In your DS journal, report your estimate using the
 following sentence frame:</p>
-<p>“The time spent sleeping (in minutes) typically varies from the mean by <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>minutes.”</p>
 </li>
+</ol>
+<p><strong style="color: red;">    “The time spent sleeping (in minutes) typically varies from the mean by <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>minutes.”</strong> 
+<strong style="color: red;"> How did you come up with your estimate? </strong></p>
+<ol>
 <li>
-<p>Reveal the actual standard deviation by running the function:</p>
+<p>Obtain the actual standard deviation by running the function:</p>
 <p><strong>&gt; sd(~sleep, data=atus)</strong></p>
 </li>
 <li>
-<p>Choose a reporter from a student team that had a good approximation to explain their reasoning.</p>
+<p>Compare your estimate to the actual standard deviation. </p>
 </li>
 <li>
-<p>Repeat this process with a few more numerical variables. Functions are provided below.</p>
+<p>Repeat this process with the following numerical variables: Household size and Socializing. Functions are provided below.</p>
 <p>Household size</p>
 <p><strong>&gt; histogram(~household_size, data=atus, nint=13)</strong></p>
 <p><strong>&gt; household_mean&lt;-mean(~household_size, data=atus)</strong></p>
 <p><strong>&gt; add_line(vline=household_mean)</strong></p>
-<p>“Household sizes typically vary from the mean by <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>people.”</p>
-<p><strong>&gt; sd(~socializing, data=atus)</strong></p>
-<p>Socializing</p>
-<p><strong>&gt; histogram(~socializing, data=atus, breaks=seq(0,2000,by=100))</strong></p>
-<p><strong>&gt; social_mean&lt;-mean(~socializing, data=atus)</strong></p>
-<p><strong>&gt; add_line(vline=social_mean)</strong></p>
-<p>“The time spent socializing (in minutes) typically varies from the mean by
-<u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>minutes.”</p>
-<p><strong>&gt; sd(~socializing, data=atus)</strong></p>
 </li>
 </ol>
-<h3 id="class-scribes"><strong>Class Scribes:</strong></h3>
-<p>One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.</p>
+<p><strong style="color: red;">   “Household sizes typically vary from the mean by <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>people.” </strong></p>
+<p>Socializing</p>
+<pre><code>**&gt; histogram(~socializing, data=atus, breaks=seq(0,2000,by=100))**
+
+**&gt; social_mean&lt;-mean(~socializing, data=atus)**
+
+**&gt; add_line(vline=social_mean)**
+</code></pre>
+<p><strong style="color: red;">  “The time spent socializing (in minutes) typically varies from the mean by
+    <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>minutes.” </strong></p>
+<pre><code>**&gt; sd(~socializing, data=atus)**
+</code></pre>
                 
                   
                 
