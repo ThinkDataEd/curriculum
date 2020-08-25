@@ -257,7 +257,7 @@
     <li class="md-tabs__item">
       
         <a href="../../video/" class="md-tabs__link">
-          Video Tutorials
+          How to .. Video
         </a>
       
     </li>
@@ -1155,6 +1155,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#materials" class="md-nav__link">
+    Materials:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#vocabulary" class="md-nav__link">
     Vocabulary:
   </a>
@@ -1171,6 +1178,13 @@
           <li class="md-nav__item">
   <a href="#lesson" class="md-nav__link">
     Lesson:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#class-scribes" class="md-nav__link">
+    Class Scribes:
   </a>
   
 </li>
@@ -2886,11 +2900,11 @@
       <input class="md-toggle md-nav__toggle" data-md-toggle="nav-12" type="checkbox" id="nav-12">
     
     <label class="md-nav__link" for="nav-12">
-      Video Tutorials
+      How to .. Video
     </label>
     <nav class="md-nav" data-md-component="collapsible" data-md-level="1">
       <label class="md-nav__title" for="nav-12">
-        Video Tutorials
+        How to .. Video
       </label>
       <ul class="md-nav__list" data-md-scrollfix>
         
@@ -2901,8 +2915,8 @@
 
 
   <li class="md-nav__item">
-    <a href="../../video/" title="Video Tutorials" class="md-nav__link">
-      Video Tutorials
+    <a href="../../video/" title="How to .. Video" class="md-nav__link">
+      How to .. Video
     </a>
   </li>
 
@@ -2958,6 +2972,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#materials" class="md-nav__link">
+    Materials:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#vocabulary" class="md-nav__link">
     Vocabulary:
   </a>
@@ -2974,6 +2995,13 @@
           <li class="md-nav__item">
   <a href="#lesson" class="md-nav__link">
     Lesson:
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#class-scribes" class="md-nav__link">
+    Class Scribes:
   </a>
   
 </li>
@@ -3011,8 +3039,16 @@
                 
                 <h2 id="lesson-10-marbles-marbles"><strong><em><u>Lesson 10: Marbles, Marbles…</u></em></strong></h2>
 <h3 id="objective"><strong>Objective:</strong></h3>
-<p>You will understand that random events vary, so that the percentage predicted by a probability isn't
-exact, but varies. You will practice converting percentages to proportions.</p>
+<p>Students will understand that random events vary, so that the percentage predicted by a probability isn't
+exact, but varies. Students practice converting percentages to proportions.</p>
+<h3 id="materials"><strong>Materials:</strong></h3>
+<ol>
+<li>
+<p>For each student team: 50 marbles – 20 of one color, and 30 of another color</p>
+<p><strong><u>Note:</u></strong> Marbles can be substituted for other materials, such as small blocks, as long as they are
+the same size.</p>
+</li>
+</ol>
 <h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
 <p>proportion, percentage, event, with replacement, without replacement</p>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
@@ -3024,97 +3060,116 @@ and without replacement. Larger samples tend to be closer to the "true" probabil
 <h3 id="lesson"><strong>Lesson:</strong></h3>
 <ol>
 <li>
-<p>Remember in the previous two lessons, you learned how to estimate probabilities
+<p>Remind students that, during the previous two lessons, they learned how to estimate probabilities
 for a population with the help of simulations to create sample data. Both lessons had nice, prepackaged
 functions already available in RStudio, which made the simulations fairly quick and
 easy – in <a href="../lesson8/">Lesson 8</a>, the <strong>rflip()</strong> function was used to simulate flipping a coin; and in <a href="../lesson9/">Lesson 9</a>,
 the <strong>roll_die()</strong> function was used to simulate rolling one of two dice.</p>
 </li>
 <li>
-<p>But what if we don’t have a nice function to perform a simulation for us? Can you create your own
-method? Yes! You will actually learn to create a simulation from scratch during <a href="../lab2c/">Lab 2C</a>.</p>
+<p>But what if we don’t have a nice function to perform a simulation for us? Can we create our own
+method? Yes! We will actually learn to create a simulation from scratch during <a href="../lab2c/">Lab 2C</a>.</p>
 </li>
 <li>
-<p>In your DS Journal respond to the following question:</p>
+<p>Ask students:</p>
 <ol>
-<li><strong style="color:red;"> If you have a bag of 50 marbles, where 20 of them are blue and 30 of them are red, what
-is the probability of drawing a red marble? </strong></li>
+<li>If you have a bag of 50 marbles, where 20 of them are blue and 30 of them are red, what
+is the probability of drawing a red marble? <span style="color:grey"><strong><em>30/50 or 60%.</em></strong></span></li>
 </ol>
 </li>
 <li>
-<p><strong style="color:red;"> How do you convert the <strong>proportion</strong> you calculated in question 3 to a  <strong>percentage</strong>. How do you turn a fraction into a percentage? </strong></p>
+<p>Select a student to answer the question. Ask the class if they agree or disagree. If they agree,
+ask them to raise their hand. If there are students who disagree, lead a class discussion until a
+consensus is reached.</p>
 </li>
 <li>
-<p>Respond to the following in you DS journal:</p>
+<p>Ask students to share their strategies on how to convert the <strong>proportion</strong> into a <strong>percentage</strong>. As
+strategies are being shared, students should take notes in their DS journals. Review how to turn
+fractions into percentages, if necessary.</p>
+</li>
+<li>
+<p>Ask students:</p>
 <ol>
-<li>What if we actually drew out one marble, recorded its color, then replaced it back in the
-bag, and did this 10 times?  <strong style="color:red;"> Would the percentage of red marbles in this sample necessarily be exactly the same as
-the probability? Explain why or why not. </strong>  <span style="color:grey">  (Each time a marble is drawn, you are creating an <strong>event</strong>) <span/></li>
+<li>
+<p>What if we actually drew out one marble, recorded its color, then replaced it back in the
+bag, and did this 10 times? <span style="color:grey"><strong><em>Answers will vary by class.</em></strong></span></p>
+</li>
+<li>
+<p>Would the percentage of red marbles in this sample necessarily be exactly the same as
+the probability? Identify that each time a marble is drawn, we are creating an <strong>event</strong>.
+<span style="color:grey"><strong><em>Answers will vary by class.</em></strong></span></p>
+</li>
 </ol>
 </li>
 <li>
-<p>You will now simulate drawing marbles from a bag by doing an interactive activity. Go to: http://www.shodor.org/interactivate/activities/Marbles/.<br />
-Use the following handout <strong style="color: blue;"> Marbles handout </strong>  to record your work as you complete the following steps:</p>
+<p>Distribute the bags of marbles to each team. Ask each team to:</p>
 <ol>
 <li>
-<p>In the " Marble Info" portion of the screen, input 30 red marbles and 20 blue (set green and purple marbles to 0). Be sure the settings are set to : draw 1 marble at a time,  1 trial,  and replace marbles. </p>
+<p>Shake the bag of marbles.</p>
 </li>
 <li>
-<p>Press the "Run Trials" button to simulate drawing a marble from the bag.</p>
+<p>Draw one marble out of the bag.</p>
 </li>
 <li>
-<p><strong style="color:red;"> Record the marble’s color in your DS journal. </strong></p>
+<p>Record the marble’s color in their DS journal.</p>
 </li>
 <li>
-<p>Replace the marble back into the bag- this is called sampling <strong>with
-replacement</strong>.  <span style="color:grey"><strong><em>“With replacement” means that after you select a marble from the bag, you
+<p>Replace the marble back into the bag. Inform them that this is called sampling <strong>with
+replacement</strong>. Ask them to consider what “with replacement” means and discuss with the
+class. <span style="color:grey"><strong><em>“With replacement” means that after you select a marble from the bag, you
 have to put it back into the bag (replace it) before you select another marble.</em></strong></span></p>
 </li>
 </ol>
+<p>They should draw 10 marbles from the bag and record the observed colors.</p>
 </li>
 <li>
-<p><strong>Change the number of trials to 10 trials</strong>. Press the " Run Trials" button.  <strong style="color:red;">Record the number of red and blue marbles drawn.</strong> Repeat this process 10 times. Record the results.( Be sure to " Clear Trials" after you run each trial) </p>
+<p>Do a <em>Whip Around</em> to find out how many times each team drew a red marble out of their 10 draws.
+Have them calculate the corresponding sample proportions. For example, if one team drew 7 red
+marbles out of their 10 draws, their sample proportion is 7/10 = 0.70 (which is the sample as a
+sample percentage of 70%).</p>
+</li>
+<li>
+<p>Ask students why the proportions are perhaps different from each other and from the “true”
+probability of drawing a red marble?</p>
+</li>
+<li>
+<p>Have the student teams continue drawing marbles, one at a time and with replacement, until they
+have 50 events recorded. Discuss the following questions:</p>
 <ol>
 <li>
-<p><strong style="color:red;">Calculate and record the corresponding sample proportions for the proportion of red and blue         marbles drawn. </strong> <span style="color:grey"> For example, if you drew 7 red marbles out of their 10 draws, your sample proportion is 7/10 = 0.70 (which is the same as a sample percentage of 70%).</span></p>
+<p>How many times did they draw a red marble out of these 50? <span style="color:grey"><strong><em>Answers will vary by
+class.</em></strong></span></p>
 </li>
 <li>
-<p><strong style="color:red;"> Are all of your proportions the same? Are the proportions  different from the “true”
-probability of drawing each color marble? </strong>     </p>
+<p>What’s the corresponding sample proportion? Is it closer to the true probability than when
+you only drew 10 marbles? <span style="color:grey"><strong><em>Answers will vary by class. But, they should notice that,
+as the sample size increases, the sample proportion gets closer to the true
+population proportion.</em></strong></span></p>
 </li>
 </ol>
 </li>
 <li>
-<p><strong>Change the number of trials to 50 trials</strong>. Press the " Run Trials" button.  <strong style="color:red;">Record the number of red and blue marbles drawn.</strong> Repeat this process 10 times. Record the results.( Be sure to " Clear Trials" after you run each trial) </p>
-<ol>
-<li>
-<p><strong style="color:red;">Calculate and record the corresponding sample proportions for the proportion of red and blue         marbles drawn. </strong> </p>
-</li>
-<li>
-<p><strong style="color:red;"> Are all of your proportions the same? Are the proportions  different from the “true”
-probability of drawing each color marble? </strong>  </p>
-</li>
-</ol>
-</li>
-<li>
-<p>How does the sample size affect the sample proportion? <span style="color:grey"> You
-should see that as you draw more marbles, your sample probability gets closer and closer to the
+<p>Engage students in a discussion about how the sample size affects the sample proportion. They
+should see that as they draw more marbles, their sample probability gets closer and closer to the
 true probability. If we were to continue drawing marbles forever, in the long run, our sample
-proportion should equal our true probability.</span></p>
+proportion should equal our true probability.</p>
 </li>
 <li>
-<p>Consider what it might mean to sample <strong>without replacement</strong>. Will you get the same or different results if you do not replace the marble back into the bag? Explain your answer.  </p>
-</li>
-</ol>
-<p><span style="color:grey"><strong><em>“Without replacement” means that after you select a marble
+<p>Have students consider what it might mean to sample <strong>without replacement</strong>. How would they do
+that with their bag of marbles? <span style="color:grey"><strong><em>“Without replacement” means that after you select a marble
 from the bag, you never put it back into the bag (do not replace it). Instead, you simply
-select another marble from the bag immediately. You should recognize that, by not
+select another marble from the bag immediately. Students should recognize that, by not
 replacing the marble each time, the probabilities will change. This means each draw from
 the marble bag is NOT independent from another draw because removing one marble
 impacts the next event.</em></strong></span></p>
-<ol>
-<li>In your DS journal, <strong style="color:red;">describe a sample, an event, with replacement and without replacement.</strong></li>
+</li>
+<li>
+<p><em>Exit Slip</em>: Based on this lesson, ask students to describe a sample, an event, and replacement.</p>
+</li>
 </ol>
+<h3 id="class-scribes"><strong>Class Scribes:</strong></h3>
+<p>One team of students will give a brief talk to discuss what they think the 3 most important topics of the
+day were.</p>
 <h3 id="next-day"><p style="background: black; color: white; text-align: center;"><strong>Next Day</strong></p></h3>
 <p><a href="../lab2c/"><u><strong><em>LAB 2C: Which Song Plays Next?</em></strong></u></a></p>
 <p>Complete <a href="../lab2c/">Lab 2C</a> prior to <a href="../lesson11/">Lesson 11</a>.</p>
