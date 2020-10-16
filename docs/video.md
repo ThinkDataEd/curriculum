@@ -1,3 +1,8 @@
+<div align="center"><a name="Sharing Campaign Responses"></a>
+<h3><strong>Sharing Campaign Responses</strong></h3>
+<div align="center"><a href="https://www.youtube.com/watch?v=RLIOoLhakg8&t=4s" target="_blank" rel="noopener noreferrer">How to share campaign responses</a>
+<div align="center"><iframe width="280" height="158" src="https://www.youtube.com/embed/RLIOoLhakg8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div align="center">A tutorial on sharing campaign responses.
 
 <div align="center"><a name="IDS Class Set-up Tool"></a>
 <h3><strong>IDS Class Set-up Tool</strong></h3>
