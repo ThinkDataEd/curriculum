@@ -3026,6 +3026,32 @@
 if (window.location == window.top.location) {
     document.getElementById("demo").innerHTML="";
     document.getElementById("demo").style.visibility='hidden';
+}else{
+    console.log("Not top level");
+    var xhr = new XMLHttpRequest();
+    xhr.open("GET", window.location.origin+ "/app/user/whoami?client=Curri", true);
+    xhr.onload = function (e) {
+    if (xhr.readyState === 4) {
+        if (xhr.status === 200) {
+        console.log(xhr.responseText);
+            if(xhr.responseText.includes("success") ){
+
+            }else{
+                window.location.href = window.location.origin+ "/#login";
+            }
+        } else {
+        window.location.href = window.location.origin+ "/#login";
+        }ß
+    }
+    };
+    xhr.onerror = function (e) {
+
+
+
+        console.error(xhr.statusText);
+        window.location.href = window.location.origin+ "/#login";
+    };
+    xhr.send(null); 
 }
 </script>
 
