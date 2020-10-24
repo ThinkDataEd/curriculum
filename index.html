@@ -3027,7 +3027,7 @@ if (window.location == window.top.location) {
     document.getElementById("demo").innerHTML="";
     document.getElementById("demo").style.visibility='hidden';
 }else{
-    console.log("Not top level");
+    document.getElementById("demo").innerHTML="https://curriculum.idsucla.org";
     var xhr = new XMLHttpRequest();
     xhr.open("GET", window.location.origin+ "/app/user/whoami?client=Curri", true);
     xhr.onload = function (e) {
