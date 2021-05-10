@@ -113,7 +113,17 @@
     <td class="tg-zv4m">Food Habits – data</td>
     <td class="tg-zv4m">Participatory sensing</td>
     <td class="tg-8jgo"><a href="../unit1/lesson7">43</a></td>
+  
   </tr>
+  <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m">Campaign Guidelines: <a href="../unit1/campaign1">Food Habits Campaign</a></td>
+    <td class="tg-zv4m">Food Habits - Guidelines</td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-8jgo"><a href="../unit1/campaign1"></a></td>
+  </tr> 
+
   <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 2: <a href="../unit1/section2">Visualizing Data</a></td>
@@ -239,6 +249,14 @@
     <td class="tg-zv4m">Time Use – data</td>
     <td class="tg-zv4m">Evaluating claims</td>
     <td class="tg-8jgo"><a href="../unit1/lesson15">90</a></td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m">Campaign Guidelines <a href="../unit1/campaign2">Time Use Campaign</a></td>
+    <td class="tg-zv4m">Time Use – Guideline</td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-8jgo"><a href="../unit1/campaign2">90</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -478,6 +496,14 @@
     <td class="tg-zv4m">Stress/Chill – data</td>
     <td class="tg-zv4m">Introduction to campaign</td>
     <td class="tg-8jgo"><a href="../unit2/lesson12">172</a></td>
+  </tr>
+  <tr>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-zv4m">Campaign Guidelines <a href="../unit2/campaign1">Stress/Chill Campaign</a></td>
+    <td class="tg-zv4m">Stress/Chill – Guideline</td>
+    <td class="tg-zv4m"></td>
+    <td class="tg-8jgo"><a href="../unit2/campaign1">90</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1216,4 +1242,5 @@
     <td class="tg-zv4m">Synthesis of above</td>
     <td class="tg-8jgo"><a href="../unit4/end">403</a></td>
   </tr>
+
 </table>
