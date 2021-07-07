@@ -37,7 +37,7 @@ answered by calculating the mean, median and MAD.
     – **Write down the ```names``` of the 4 variables that contain the point-totals, or
     *scores*, for each personality color.**
 
-    – **Write down the ```names``` of the variables that tell us an observation's a *introvert/extrovert
+    – **Write down the ```names``` of the variables that tell us an observation's *introvert/extrovert designation
     * and whether they participated in playing sports.**
 
     – **How many variables are in the data set?**
@@ -76,12 +76,12 @@ answered by calculating the mean, median and MAD.
 
 ###**Comparing introverts/extroverts**
 * Make a ```dotPlot``` of your *predominant color* again; but this time, facet the plot based on
-introvert/extrovert.
+introvert/extrovert variables. 
 
 * Use a line of code, using similar syntax to how you facet plots, to *calculate* a value that
-describes the *center of each* introverts/extroverts.
+describes the *center of your predominant color* for introverts and extroverts.
 
-    – **Do introverts/extroverts differ in their typical scores for your predominant
+    – **Do introverts or extroverts differ in their typical scores for your predominant
     color? Answer this statistical question using your ```dotPlot```.**
 
 * **```Assign``` the mean values a name. Then place the name into the ```diff()``` function to
@@ -102,7 +102,7 @@ blank:**
 
     *Data points in my plot will usually fall within <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> units of the center.*
 
-* **Which group (introvert/extrovert), if either, seem to have values that are more spread out from the
+* **Which group (introvert or extrovert), if either, seem to have values that are more spread out from the
 center?**
 
 ###**Mean Absolute Deviation**
@@ -114,7 +114,7 @@ center?**
 
         MAD(~_____, data = colors)
 
-* **Based on the MAD, which group (introvert/extrovert) has more variability for your predominant
+* **Based on the MAD, which group (introverts or extroverts) has more variability for your predominant
 color's scores?**
 
     – **Does this match the answer you gave for the last question in the previous
