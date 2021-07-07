@@ -37,8 +37,8 @@ answered by calculating the mean, median and MAD.
     – **Write down the ```names``` of the 4 variables that contain the point-totals, or
     *scores*, for each personality color.**
 
-    – **Write down the ```names``` of the variables that tell us an observation's *birth
-    gender* and whether they participated in playing sports.**
+    – **Write down the ```names``` of the variables that tell us an observation's a *introvert/extrovert
+    * and whether they participated in playing sports.**
 
     – **How many variables are in the data set?**
 
@@ -74,18 +74,18 @@ answered by calculating the mean, median and MAD.
     – **Are the ```mean``` and ```median``` roughly the same? If not, use the ```dotPlot``` you made
     in the last slide to describe why.**
 
-###**Comparing birth_genders**
+###**Comparing introverts/extroverts**
 * Make a ```dotPlot``` of your *predominant color* again; but this time, facet the plot based on
-gender.
+introvert/extrovert.
 
 * Use a line of code, using similar syntax to how you facet plots, to *calculate* a value that
-describes the *center of each* birth gender.
+describes the *center of each* introverts/extroverts.
 
-    – **Do males and females differ in their typical scores for your predominant
+    – **Do introverts/extroverts differ in their typical scores for your predominant
     color? Answer this statistical question using your ```dotPlot```.**
 
 * **```Assign``` the mean values a name. Then place the name into the ```diff()``` function to
-calculate the difference. How much more/less did one birth gender score over the
+calculate the difference. How much more/less did introverts/extroverts score over the
 other for your predominant color?**
 
 ###**Estimating Spread**
@@ -102,7 +102,7 @@ blank:**
 
     *Data points in my plot will usually fall within <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> units of the center.*
 
-* **Which birth gender, if either, seem to have values that are more spread out from the
+* **Which group (introvert/extrovert), if either, seem to have values that are more spread out from the
 center?**
 
 ###**Mean Absolute Deviation**
@@ -114,7 +114,7 @@ center?**
 
         MAD(~_____, data = colors)
 
-* **Based on the MAD, which birth gender has more variability for your predominant
+* **Based on the MAD, which group (introvert/extrovert) has more variability for your predominant
 color's scores?**
 
     – **Does this match the answer you gave for the last question in the previous
