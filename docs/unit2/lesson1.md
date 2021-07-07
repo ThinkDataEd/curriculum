@@ -84,7 +84,7 @@ is to get the students to think about “what is typical?” within their groups
 The students will be able to compare their perceived traits with the actual descriptions from the
 activity at the end of the class.
 
-9. Next ask students in each color group to gather into two **subsets**: male and female. Inform them
+9. Next ask students in each color group to gather into two **subsets**: introvert and extrovert. Inform them
 that subsetting is another way to organize collected data. Create a two-way frequency table like
 the one below on the board to record the results.
     
@@ -93,12 +93,12 @@ the one below on the board to record the results.
 10. Distribute poster paper and markers to each team.
 
 11. Inform the students that they will be creating visuals for this data by comparing subsets. The
-Orange and Gold groups should create visualizations that subset the color variable by gender,
-and the Blue and Green groups should create visualizations that subset gender by color.
+Orange and Gold groups should create visualizations that subset the color variable by introverts and extroverts,
+and the Blue and Green groups should create visualizations that subset introverts and extroverts by color.
 
 12. If students are confused or stuck, have them recall the topic of two-way tables and relative
 frequencies from [Unit 1](../unit1/overview.md) ([Lessons 16](../unit1/lesson16.md) & [17](../unit1/lesson17.md)). The Orange and Gold groups will be looking at the
-columns and comparing genders, while the Blue and Green groups will be looking at the rows
+columns and comparing introverts/extroverts, while the Blue and Green groups will be looking at the rows
 and comparing colors.
 
 13. Once all groups have completed their visuals, the Orange and Gold teams should choose one of
@@ -117,7 +117,7 @@ visualizations:
 
     100. What do I see the most/least of? <span style="color:grey">***Answers will vary by class.***</span>
 
-    100. What is the typical personality color for this subset? Or, what is the typical gender for this
+    100. What is the typical personality color for this subset? Or, what is the typical group(introverts/extroverts) for this
     subset? <span style="color:grey">***Answers will vary by class.***</span>
 
 15. Ask students to summarize their impressions of the class’s personality color data by writing this
