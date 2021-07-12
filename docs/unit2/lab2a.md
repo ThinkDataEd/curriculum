@@ -122,7 +122,7 @@ color's scores?**
 
 ###**On your own**
 
-* Do boys and girls in your class differ in their color scores?
+* Do introverts and extroverts in your class differ in their color scores?
 
     – **Perform an analysis that produces *numerical summaries* and *graphs*.**
 
