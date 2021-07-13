@@ -122,6 +122,7 @@
 <br>
 <a href="https://youtu.be/rKZa4MW1dHU">Accessing Curriculum</a>
 <br>
+<a href="https://www.youtube.com/watch?v=ZzXL3MXRSdY">Screenshot and History Tools</a>
 </details></td>
 
 </tbody>
