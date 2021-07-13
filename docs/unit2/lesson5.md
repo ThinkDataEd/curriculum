@@ -135,7 +135,7 @@ questions to the students:
     100. What does it mean when the IQR is large? <span style="color:grey">***The middle 50% of heights are more
     spread out.***</span>
 
-20. Finally, subset the class into males and females. Ask each group of students (the males and
+20. Finally, subset the class into introverts and extroverts. Ask each group of students (the males and
 females) to create a boxplot of their group’s heights on a piece of poster paper using the
 techniques they just learned as a class.
 
