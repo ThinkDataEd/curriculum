@@ -113,14 +113,11 @@ percent of males who survived by the end of a horror movie was about **13%**. As
 data set is big or small. This will help them determine if there really is a difference in survival rates
 for males versus females, or if the 10% difference was just due to chance.
 
-16. Split the class into two groups, by gender. Females can stand on one side of the classroom and
-males can stand on the opposite side. Once those groups have been created, have the class
-calculate the number of students in each group that would have survived a horror film using the
-actual proportions given in Step 14.
+16. Split the class into two groups, half of them on one side of the room and the other half on the other side of the room. Tell the first group they have been assigned to play female characters in the horror movie (regardless of their gender) and the other half have been assigned to play male characters in the horror movie (regardless of their gender).  Once those groups have been created, have the class calculate the number of students in each group that would have survived a horror film using the actual proportions given in Step 14.
 
     <span style="color:grey"><u>***For example:***</u></span>
 
-    <span style="color:grey">***If 20 female students are in the class, then 23% of 20 = 0.23\*(20) = 4.6 people. So, 5
+    <span style="color:grey">***If there are 20 female characters in the class, then 23% of 20 = 0.23\*(20) = 4.6 people. So, 5
     of the females will be survivors.***</span>
 
     <span style="color:grey">***If 15 male students are in the class, then 13% of 15 = 0.13\*(15) = 1.95 people. So, 2

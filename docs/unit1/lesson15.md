@@ -1,18 +1,14 @@
 ##***<u>Lesson 15: Americans’ Time on Task</u>***
 
 ###**Objective:**
-Introduction to *Time Use Campaign*. Students will explore The New York Times multimedia graphic titled
-*How Different Groups Spend Their Time* to spark their interest about how they spend their time. They will
-begin to learn how to evaluate reports that make claims based on data by reading *The Washington Post*
-article *Teens Are Spending More Time Consuming Social Media*, *On Mobile Devices*.
-
+Introduction to Time Use Campaign. Students will explore multimedia graphics that incorporate data from the American Time Use Survey to spark their interest about how they spend their time. They will begin to learn how to evaluate reports that make claims based on data by reading The Washington Post article Teens Are Spending More Time Consuming Social Media, On Mobile Devices.
 ###**Materials:**
 1. Computers
 
 2. Data Collection Devices
 
-3. Interactive Multimedia Graphic: *The New York Times’ How Different Groups Spend Their Time
-found at:* [http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0](http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0 "http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0")
+3. Interactive Multimedia Graphic:
+        <ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul>
 
 4. Article: *The Washington Post’s Teens Are Spending More Time Consuming Social Media, on
 Mobile Devices* found at: 
@@ -40,8 +36,8 @@ Guidelines*.
 daily time use and that they will be exploring time use through an interactive graphic.
 
 4. Ask students to go to the multimedia graphic at the following URL:<br>
-    [http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0](http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0 "http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0")
-
+    <ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul>
+    
 5. Students will spend 10 minutes exploring the interactive graphic. Their task is to answer the
 following questions (display questions to students):
 

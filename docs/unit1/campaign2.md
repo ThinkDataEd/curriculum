@@ -50,8 +50,8 @@ completion.
 **How Long?** Five days. Ideally, 2 of these days would include a weekend.
 
 ###**4. Motivation:**
-Use the <span style="color:blue"><u>NY Times’ interactive Time Use graphic</u></span> to explore how Americans spend their time.
-
+Use the <span style="color:blue"><u>Interactive Time Use graphic</u></span> to explore how Americans spend their time.
+<ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul>
 Every student should collect time-use data at least twice per day during the collection period. After
 the first day, use the Campaign Monitoring tool to see who has collected the most. After 2 to 3 days,
 direct students’ attention to the Total Responses by Day plot and comment on any patterns (see Food
@@ -61,7 +61,7 @@ Discuss data collection issues. What makes it hard? Does this affect the quality
 of snacks are less likely to enter?
 
 ###**5. Technical Analysis:**
-RStudio and <span style="color:blue"><u>New York Times</u></span>. Single/Multivariable plots: histograms, bar graphs, scatterplots, etc.
+RStudio and <span style="color:blue"><u>American time use graphics</u></span>. Single/Multivariable plots: histograms, bar graphs, scatterplots, etc.
 Numerical summaries: mean, median, MAD, standard deviation. Frequency tables: One and two-way
 tables.
 

@@ -13,6 +13,8 @@
 <a href="https://www.youtube.com/watch?v=RLIOoLhakg8&t=4s">Sharing Camping Responses</a>
 <br>
 <a href="https://youtu.be/G2r96VAkliw">Managing Surveys</a>
+<br>
+<a href="https://youtu.be/N6dBQQC0hNQ">Export, Upload, Import</a>
 </details></td>
 
 <td><img src = ../img/survey.png width="280" height="158"></img>
@@ -89,6 +91,8 @@
 <a href="https://youtu.be/zWZ8JrAoP4k">How to Create & Manage IDS Classes</a>
 <br>
 <a href="https://www.youtube.com/watch?v=dtWF291XwzE">Splitting 1 Column into 2 using Excel</a>
+<br>
+<a href="https://www.youtube.com/watch?v=0M2vG7NYHkQ">Class Setup Tool</a>
 </details></td>
 
 <td><img src = ../img/rstudio.png width="280" height="158"></img>
