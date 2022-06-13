@@ -1,4 +1,19 @@
-<h3>Instructional Videos On Using The Tools</h3>
+---
+hide:
+  - navigation
+  - toc
+---
+
+<style>
+  .md-nav--primary .md-nav__link[for=__toc] ~ .md-nav {
+    display: none;
+  }
+.md-sidebar {
+    display: none;
+}
+</style>
+
+# Instructional Videos On Using The Tools
 
 <table>
 

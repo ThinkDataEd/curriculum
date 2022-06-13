@@ -11,6 +11,7 @@ site_name: Introduction to Data Science Curriculum v_5.0
 markdown_extensions:
   - admonition
   - pymdownx.arithmatex
+  - meta
   
 theme:
     name: material
