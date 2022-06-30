@@ -21,44 +21,46 @@ graphs provides useful information regarding the data graphed. We can explore th
 between two sets of data, and if there is a relationship, it is driven by the change in the independent
 variable, x, which causes a change in the dependent variable, y.
 
-###**3. Survey Questions:** (students will enter data only for the activities in which they participated):
+###**3. Survey Questions:** (students will enter data about the snacks they consume):
+
+**Consider Data:** Before students submit a survey for their first snack, a class consensus of the meaning of the variables must be reached so that proper analysis and interpretations can be made.Two examples are listed below:
+
+`when` - If students have different definitions of <i>evening</i>, it might make it hard to compare snacking patterns across students. As a class, come to a consensus about what time intervals are considered <i>morning</i>, <i>afternoon</i>, <i>evening</i> and <i>night</i>. 
+
+`cost` - If a student has a bowl of cereal as a snack, are they going to include the cost of the entire box or are they going to calculate the unit cost for one serving? This needs to be a class decision.
+
 
 |**Prompt**|**Variable**|**Data Type**|
 |--------|--------|--------|
-|What’s the name of your snack?|name|text|
-|Is your snack salty or sweet?|salty_sweet|categorical|
-|About how many servings did you actually eat?|serving_size|numerical|
+|What is the name of the snack?|name|text|
+|When did you eat the snack?|when|categorical<br> <br>morning<br>afternoon<br>evening<br>night|
+|Is the snack salty or sweet?|salty_sweet|categorical<br><br>Salty<br>Sweet|
+|How healthy is the snack?<br>(1 = Very unhealthy, 5 = Very healthy)| healthy_level|numerical<br><br>1<br>2<br>3<br>4<br>5|
 |How many calories per serving?| calories| numerical|
-|How many grams of total fat per serving?| total_fat |numerical|
-|How many milligrams of sodium per serving?| sodium |numerical|
+|How many grams of protein per serving?| protein |numerical|
 |How many grams of sugar per serving?| sugar| numerical|
-|How healthy do you think this snack is?| healthy_level|categorical<br> 5-Very Healthy<br> 4-Healthy<br> 3-Neutral<br> 2-Unhealthy<br> 1-Very Unhealthy|
-|In one word, describe why you are eating this snack.| why| text|
-|How much does this snack cost? |cost |numerical|
+|How many milligrams of sodium per serving?| sodium |numerical|
 |How many ingredients are in your snack? |ingredients |numerical|
-|Take a picture. |snack_image |photo|
+|Why are you eating the snack?| why| categorical<br><br>availability<br>craving<br>emotional<br>energy<br>hungry/thirsty<br>social<br>other|
+|How much does the snack cost (in dollars)? |cost |categorical<br><br> $0 to < $1 <br> $1 to < $3 <br> $3 to < $7 <br> $7 or more|
+|Take a picture (optional). |snack_image |photo|
 |AUTOMATIC |location |lat, long|
 |AUTOMATIC |time |time|
 |AUTOMATIC |date |date|
 |AUTOMATIC |user |user id|
 
-**When?** Surveys are taken every time a snack is eaten.
+**When should you take the survey?** If possible, take the survey every time you eat a snack or at the end of the day. Reminders can be set to ensure survey completion.
 
-**How Long?** Four days. Ideally, two of these days will include a weekend.
+**How long should the campaign last?** About nine days. Ideally, two of these days will include a weekend.
 
 ###**4. Motivation:**
-Every student should collect at least four data points. After the first day, use the campaign
-monitoring tool to see who has collected the most data. After two to three days, direct students’
-attention to the Total Responses by Day plot and comment on any patterns. For example, if they
-see a plot like the one below, ask "What story does this tell us about our data collection?”
+As a class, come to an agreement about how many surveys each student should submit. All students should submit roughly the same number of surveys, and each student should submit at least four surveys. After the first day, use the campaign monitoring tool to see who has collected data. After two to three days, direct students’ attention to the Total Responses by Day plot and comment on any patterns. For example, if they see a plot like the one below, ask "What story does this tell us about our data collection?”
 
 **<u>Story:</u>** They collected a lot of data together in class. Data collection increased every day from
 Wednesday to Friday. There was little to no data collection over the weekend. Data collection
 peaked on Monday - there were over 180 responses!
 
 <img src="../../img/1c104.png" width="420" />
-
-Assign 1 point for each snack.
 
 Discuss data collection issues. What makes it hard? Does this affect the quality of data? What sort
 of snacks are you less likely to enter?
@@ -69,18 +71,11 @@ Students will use the Dashboard and Plot App.
 ###**6. Guiding Questions:**
 a. At what time of day do we eat the healthiest snacks?
 
-b. We know that snacks that are high in saturated fats are bad for you. Do high-fat snacks
-get unhealthy ratings? In general, how good would you say you are, as a class, at judging
-healthiness? Why?
+b. When did you snack? How does this compare to the rest of the class?
 
-c. When did you snack? How does this compare to the rest of the class?
+c. Typically, how healthy were your snacks? How does this compare to the class as a whole?
 
-d. Typically, how healthy were your snacks? How does this compare to the class as a
-whole?
-
-e. If saturated fat is bad for you, do snacks with high salt content also seem to have high
-fat? Is high fat associated with high calories? Are there any other associations you can
-spot?
+d. How good are we at identifying healthy and unhealthy snacks?
 
 ###**7. Report:**
 Students will complete a practicum in which they answer a statistical question based on the food
