@@ -76,12 +76,13 @@ regarding:
 4. Explain to the students that we create **"data trails"** as we go through life. A data trail is the data
 collected about us as individuals that could be used to see the patterns in our personal lives.
 Inform the students that they will learn about their own data trails by keeping a data diary and
-logging entries over the next 24 hours. It is likely that students do not realize how often they leave
-a data trail or what information is being collected about them on a regular basis.
+logging entries over the next 24 hours. It is likely that students do not realize how often they leave a data trail or what information is being collected about them on a regular basis.
 
 5. Distribute the *Data Diary* handout ([LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf)) and be sure to go over the instructions, along with
-the first example to give the students an idea of how to proceed.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf)</div>
+the first example to give the students an idea of how to proceed.  
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf)</div>  
+
 
 6. Inform the students that you will collect the handouts during the next class in order to assess their
 understanding of data.
