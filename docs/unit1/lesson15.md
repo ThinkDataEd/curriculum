@@ -1,14 +1,13 @@
 ##***<u>Lesson 15: Americans’ Time on Task</u>***
 
 ###**Objective:**
-Introduction to Time Use Campaign. Students will explore multimedia graphics that incorporate data from the American Time Use Survey to spark their interest about how they spend their time. They will begin to learn how to evaluate reports that make claims based on data by reading The Washington Post article Teens Are Spending More Time Consuming Social Media, On Mobile Devices.
+Introduction to Time Use Campaign. Students will explore a multimedia graphic that incorporates data from the American Time Use Survey to spark their interest about how they spend their time. They will begin to learn how to evaluate reports that make claims based on data by reading The Washington Post article Teens Are Spending More Time Consuming Social Media, On Mobile Devices.
 ###**Materials:**
 1. Computers
 
 2. Data Collection Devices
 
-3. Interactive Multimedia Graphic:
-        <ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul>
+3. Interactive multimedia graphic titled *How Men and Women Spend Their Days* found at: [https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/")
 
 4. Article: *The Washington Post’s Teens Are Spending More Time Consuming Social Media, on
 Mobile Devices* found at: 
@@ -35,26 +34,19 @@ Guidelines*.
 3. Next, inform students that *The Bureau of Labor Statistics* (BLS) collects data about Americans’
 daily time use and that they will be exploring time use through an interactive graphic.
 
-4. Ask students to go to the multimedia graphic at the following URL:<br>
-    <ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul>
+4. Ask students to go to the multimedia graphic at the following URL:[https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/")
     
 5. Students will spend 10 minutes exploring the interactive graphic. Their task is to answer the
 following questions (display questions to students):
 
     100. What variables are represented in this graphic? <span style="color:grey">***The variables represented are
-    activities that Americans spend their time doing. These include sleeping, eating,
-    traveling, socializing, etc.***</span>
+    activities that Americans spend their time doing. These include sleeping, working,
+    traveling, etc. Gender, employment status and weekday/weekend are also variables that are represented.***</span>
 
-    100. Explain what the graphic is telling you. <span style="color:grey">***The graphic shows how much time Americans
-    over the age of 15 are spending doing these activities. This information is broken
-    down by different categories of Americans (e.g., gender, ethnicity) and the
-    percentage of Americans doing particular activity at a particular time (e.g., 5% of
-    Americans are working at 6:00 am). The average time spent on a particular activity
-    is also shown (e.g., average time spent at work for all Americans is 3 hours and 25
-    minutes).***</span>
+    100. Explain what the graphic is telling you. <span style="color:grey">***The graphic shows the proportion of people living in the United States, broken down by employment status and gender, who are engaged in different activities (Denoted by the colors) at different times of the day.***</span>
 
     100. Where did the data come from? <span style="color:grey">***The data come from thousands of Americans over
-    the age of 15 who took a survey recalling every minute of a day in 2008.***</span>
+    the age of 15 who took a survey recalling every minute of a day in 2020.***</span>
 
     100. What are some interesting findings? Be prepared to share. <span style="color:grey">***Answers will vary.***</span>
 
@@ -117,16 +109,37 @@ begin to collect data about their own time use. Follow the *Time-Use Guidelines*
     campaign by tapping the name of the campaign. If no campaigns are visible, ask them to click the
     refresh option.
 
-15. Emphasize that this data will be collected four times per day. Students should set reminders:
+15. Emphasize that this data should be logged in a journal three times per day. Students should set reminders.
 
-    100. Before school
-
-    100. After school
-
-    100. In the evening
-
-    100. Before bed
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics
 of the day were.
+
+###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
+For the next 5 days, students will collect data using the Time Use campaign on their smart devices or via
+web browser.
+
+[<u>***LAB 1F: A Diamond in the Rough***</u>](lab1f.md)
+
+and
+
+<u>***Data Collection Monitoring***</u>
+
+1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
+[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") Click on **Campaign Monitor** and sign in.
+
+    100. See *User List* and sort by *Total*. Ask: Who has collected the most data so far?
+
+    100. Click on the pie chart. Ask: How many active users are there? How many inactive users
+    are there?
+
+    100. See *Total Responses*. How many responses have been submitted?
+
+    100. Using TPS, ask students to think about what they can do to increase their data collection.
+
+2. Inform students that you will conduct another data collection check with the whole class in a
+couple of days, and that they will understand the private vs. shared data after they have
+completed the campaign collection.
+
+Complete [Lab 1F](lab1f.md) prior to [Lesson 16](lesson16.md)

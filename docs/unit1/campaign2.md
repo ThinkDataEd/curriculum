@@ -19,49 +19,63 @@ single and multivariable plots, summary statistics, and frequency tables to find
 differences between groups of students, and between students and other residents of the United
 States.
 
-###**3. Survey Questions:** (students will enter data only for the activities in which they participated):
+###**3. Survey Questions:** (students will enter data for the activities in which they participate):
+
+**Consider Data:** The categories below are similar to the categories found in the American Time Use Survey (ATUS), which provides nationally representative estimates of how Americans spend their time. Having similar variables allows students to compare the way they spend their time to the official ATUS dataset. Before students begin collecting data, it is important to discuss different activities in their day and how they might be classified. A class consensus of the meaning of the variables must be reached so that proper analysis and interpretations can be made. 
+
+**Note:** Students cannot double dip their time. For example, if they read during class, then those minutes spent reading do not count towards “read” but instead toward “school”.
+Below are the definitions of some of the variables in the ATUS documentation.
+
+`socialize` - This category includes face-to-face social communication and hosting or attending social functions.
+
+`consumer purchases` - Time spent purchasing or renting consumer goods, regardless of the mode or place of purchase or rental (in person, online, via telephone, at home, or in a store) is classified into this category. Subcategories in this section include those for time spent purchasing gasoline, time spent purchasing groceries, time  spent purchasing other food items, and time spent on all other shopping activities.
+
+**Note:** The ATUS variable `leisure` combines many activities in which people might participate, such as watching television, reading, relaxing or thinking, playing computer, board, or card games, using a computer or the Internet for personal interest, playing or listening to music, and other activities, such as attending arts, cultural, and entertainment events.
+We have opted to list specific leisure activities that high school students might be more likely to engage in and made them separate variables.
+
 
 | **Prompt**                                                          |**Variable**| **Data Type**                   |
 |---------------------------------------------------------------------|------------|---------------------------------|
-| How many hours have you slept?                                      | sleep      | number                          |
-| For what day are you updating your time use?                        | day        | ordinal category (integers 1-5) |
-| In which activities have you participated?                          | activities | n/a                             |
-| a. How many minutes have you spent eating/drinking?                 | meals      | number                          |
-| b. How many minutes have you spent in classes at school?            | school     | number                          |
-| c. How many minutes have you spent doing homework?                  | homework   | number                          |
-| d. How many minutes have you spent working at a job?                | work       | number                          |
-| e. How many minutes have you spent grooming yourself?               | grooming   | number                          |
-| f. How many minutes have you spent traveling/commuting?             | travel     | number                          |
-| g. How many minutes have you spent doing household chores?          | chores     | number                          |
-| h. How many minutes have you spent online?                          | online     | number                          |
-| i. How many minutes have you spent with friends (outside of class)? | friends    | number                          |
-| j. How many minutes have you spent watching television?             | television | number                          |
-| k. How many minutes have you spent playing video games?             | videogames | number                          |
-| l. How many minutes have you spent playing sports?                  | sports     | number                          |
-| m. How many minutes have you spent reading (not for class)?         | read       | number                          |
+| For which day are you collecting data?                              | day        | ordinal category (integers 1-10) |                        |
+| What activities did you participate in?                             | activities | n/a                             |
+| a. How many MINUTES did you sleep?                                  | sleep      | number                          |
+| b. How many MINUTES did you spend eating/drinking?                  | meals      | number                          |
+| c. How many MINUTES did you spend in classes at school?             | school     | number                          |
+| d. How many MINUTES did you spend doing homework?                   | homework   | number                          |
+| e. How many MINUTES did you spend working at a job?                 | work       | number                          |
+| f. How many MINUTES did you spend grooming yourself?                | grooming   | number                          |
+| g. How many MINUTES did you spend traveling/commuting?              | travel     | number                          |
+| h. How many MINUTES did you spend doing household chores?           | chores     | number                          |
+| i. How many MINUTES did you spend watching television (including streaming)? | television    | number                          |
+| j. How many MINUTES did you spend playing video games?              | videogames | number                          |
+| k. How many MINUTES did you spend participating in sports/exercise/physical activity?             | sports | number                          |
+| l. How many MINUTES did you spend reading (not for class)?          | read       | number                          |
+| m. How many MINUTES did you spend communicating (includes texting, emails, video and voice calls)?         | communicate       | number                          |
+| n. How many MINUTES did you spend socializing (outside of class, in person)?          | socialize       | 
+| o. How many MINUTES did you spend on a spiritual activity?         | spiritual   | 
+| p. How many MINUTES did you spend purchasing items online or in a store?         | purchases       | 
+| q. How many MINUTES did you spend on hobbies/volunteering/leisure/extra-curricular activities (excluding sports and physical activity)?          | extra       | 
+| r. How many MINUTES did you spend on social media?          | social_media       | 
 | AUTOMATIC                                                           | location   | lat, long                       |
 | AUTOMATIC                                                           | time       | time                            |
 | AUTOMATIC                                                           | date       | date                            |
 
-**When?** Surveys will be completed four times per day. It is recommended that surveys be completed
-before school, after school, in the evening, and before bed. Reminders can be set to ensure survey
-completion.
+**When should you take the survey?** It is recommended that students keep a log of their time and submit one survey at the end of each day, accounting for every minute of each day of the campaign. It might be helpful to split the log into three intervals where students pause and think about what they did before school, after school and in the evening. Once the log is complete and  accounts for all 1,440 minutes of their day, students should then submit the survey corresponding to that day.
 
-**How Long?** Five days. Ideally, 2 of these days would include a weekend.
+**How long should the campaign last?** At least five days (maximum of ten days). Ideally, two of these days would include a weekend.
 
 ###**4. Motivation:**
-Use the <span style="color:blue"><u>Interactive Time Use graphic</u></span> to explore how Americans spend their time.
-<ul><a href= "https://flowingdata.com/2015/11/10/counting-the-hours/">Counting the hours</a></ul><ul><a href="https://flowingdata.com/2016/12/06/how-people-like-you-spend-their-time/">How people like you spend their time</a></ul><ul><a href ="https://flowingdata.com/2015/11/30/most-common-use-of-time-by-age-and-sex/">Most common use of time by age and sex</a></ul><ul><a href="https://flowingdata.com/2015/12/15/a-day-in-the-life-of-americans/">A day in the life of americans</a></ul>
-Every student should collect time-use data at least twice per day during the collection period. After
-the first day, use the Campaign Monitoring tool to see who has collected the most. After 2 to 3 days,
-direct students’ attention to the Total Responses by Day plot and comment on any patterns (see Food
-Habits Guidelines for sample).
+Use the interactive graphic titled *How Men and Women Spend Their Time* found at: [https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/")
 
-Discuss data collection issues. What makes it hard? Does this affect the quality of data? What sort
-of snacks are less likely to enter?
+After the first day, monitor the data collection and ensure that each student has submitted a survey for Day 1. Continue monitoring for the remainder of the campaign.
+
+Discuss data collection issues. What makes it hard? Does this affect the quality of data?
 
 ###**5. Technical Analysis:**
-RStudio and <span style="color:blue"><u>American time use graphics</u></span>. Single/Multivariable plots: histograms, bar graphs, scatterplots, etc.
+RStudio and American time use interactive graphic
+
+Single/Multivariable plots: histograms, bar graphs, scatterplots, etc.
+
 Numerical summaries: mean, median, MAD, standard deviation. Frequency tables: One and two-way
 tables.
 
@@ -76,30 +90,3 @@ tables.
 Students will complete a practicum in which they answer a statistical question based on the time-use
 data collected.
 
-###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-For the next 5 days, students will collect data using the Time Use campaign on their smart devices or via
-web browser.
-
-[<u>***LAB 1F: A Diamond in the Rough***</u>](lab1f.md)
-
-and
-
-<u>***Data Collection Monitoring***</u>
-
-1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
-[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") Click on **Campaign Monitor** and sign in.
-
-    100. See *User List* and sort by *Total*. Ask: Who has collected the most data so far?
-
-    100. Click on the pie chart. Ask: How many active users are there? How many inactive users
-    are there?
-
-    100. See *Total Responses*. How many responses have been submitted?
-
-    100. Using TPS, ask students to think about what they can do to increase their data collection.
-
-2. Inform students that you will conduct another data collection check with the whole class in a
-couple of days, and that they will understand the private vs. shared data after they have
-completed the campaign collection.
-
-Complete [Lab 1F](lab1f.md) prior to [Lesson 16](lesson16.md)
