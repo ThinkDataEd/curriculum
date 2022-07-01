@@ -2,9 +2,7 @@
 
 ###**1. The Issue:**
 
-Childhood obesity is a major problem in the U.S. Many have called for food producers to provide
-consumers with nutritional information so that they can make wiser choices. This raises some
-interesting questions:
+Diabetes and cardiovascular disease are major problems in the U.S. Many have called for food producers to provide consumers with nutritional information so that they can make wiser choices about what they eat. This raises some interesting questions:
 
 1) What is my snacking pattern?
 
