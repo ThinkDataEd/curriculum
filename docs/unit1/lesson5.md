@@ -12,7 +12,7 @@ Students will learn the features of a good statistical investigative question.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts:"
-    Statistical investigative questions typically begin with a vague general question,then develop into a precise question. The process of developing or creating a good investigative question is iterative and requires time and effort to get right. In her 2021 paper, What Makes a Good Statistical Question, Dr. Pip Arnold identified the following as features of a good investigative question:
+    Statistical investigative questions typically begin with a vague general question, then develop into a precise question. The process of developing or creating a good investigative question is iterative and requires time and effort to get right. In her 2021 paper, What Makes a Good Statistical Question, Dr. Pip Arnold identified the following as features of a good investigative question:
 
     (1) The variable(s) of interest is/are clear 
 
