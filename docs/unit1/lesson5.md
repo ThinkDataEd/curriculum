@@ -20,7 +20,7 @@ Students will learn the features of a good statistical investigative question.
 
     (3) The question can be answered with the data 
 
-    (4) The question asks about the whole group, not an individual or portion of the group 
+    (4) The question asks about the whole group, not an individual 
 
     (5) The intention is clear (e.g., summary, comparison, association, time series)
 
@@ -41,12 +41,12 @@ ticket that displays the 4 components of the Data Cycle.
 
     100. How old are the students in my school?
 
-4. In pairs, ask students to analyze each question using the definition of a statistical question and
-come to an agreement about which one is a statistical question.
+4. In pairs, ask students to analyze each question using the definition of an investigative question and
+come to an agreement about which one is an investigative question.
 
 5. Using Agree/Disagree (see [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)), ask a pair of students
-for their results. Discuss why the first question **IS NOT** a statistical question (<span style="color:grey">***there is only one
-possible value so there is no variability in the data***</span>) and why the second question **IS** a statistical question (<span style="color:grey">***not all students are the
+for their results. Discuss why the first question **IS NOT** an investigative question (<span style="color:grey">***there is only one
+possible value so there is no variability in the data***</span>) and why the second question **IS** an investigative question (<span style="color:grey">***not all students are the
 same age. The ages vary, so there is variability in the data***</span>).
 
 6. Ask students to think of the data they collected about the stick figures (name, GPA, friends, sport, height, shoe). Inform them that the researchers used the following survey questions to collect the data:
@@ -84,7 +84,7 @@ same age. The ages vary, so there is variability in the data***</span>).
 |The variable(s) of interest is/are clear|Yes. The variable of interest is the number of friends.|
 |The group or population we are interested in is clear|No. Teacher should ask: “Who did the researchers want to learn about?”<br> <span style="color:grey">These stick figures</span>.|
 |The question can be answered with the data|Yes. The researchers collected data on the number of friends.|
-|The question asks about the whole group, not an individual or portion of the group|No. This question is about an individual stick figure. Teacher should ask: “How can we reword the question to include the whole group?”<br> <span style="color:grey">How many friends do ... have?</span>|
+|The question asks about the whole group, not an individual|No. This question is about an individual stick figure. Teacher should ask: “How can we reword the question to include the whole group?”<br> <span style="color:grey">How many friends do ... have?</span>|
 |The intention is clear (e.g., summary, comparison, association)|It is clear that this is a summary investigative question (single variable), specifically the number of friends.|
 |The question is one that is worth investigating, is interesting, and has a purpose|For students, this might be something interesting.|
 
@@ -99,7 +99,7 @@ same age. The ages vary, so there is variability in the data***</span>).
 |The variable(s) of interest is/are clear|Yes. This seems to be a comparison investigative question <br>comparing the number of friends within the sport played.|
 |The group or population we are interested in is clear| No. Teacher should ask: “Who did the researchers want to learn about?”<br> <span style="color:grey">These stick figures</span>.|
 |The question can be answered with the data| Yes. The researchers collected data on the number <br>of friends and the sport the stick figures played.|
-|The question asks about the whole group, not an individual or portion of the group|No. The word someone gives the impression that we are<br> interested in one observation.|
+|The question asks about the whole group, not an individual|No. The word someone gives the impression that we are<br> interested in one observation.|
 |The intention is clear (e.g., summary, comparison, association)|The intent is somewhat clear. This seems to be a comparison investigative <br>question between the sport the stick figures played and the number of friends each stick figure had. <br>Teacher should ask: “What is the variable that is being compared? <br>Which groups within the sport variable are you comparing (all groups, specific groups)?”.|
 |The question is one that is worth investigating, is interesting, and has a purpose|For students, this might be something interesting.|
 
