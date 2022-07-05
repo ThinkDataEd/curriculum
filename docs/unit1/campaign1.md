@@ -4,14 +4,14 @@
 
 Although we might take its existence for granted today, the Nutrition Facts label was not always required to be on food packages. It wasn't until 1990 that the Nutrition Labeling Education Act mandated food companies to provide information on food labels to help consumers make wiser choices about what they eat. This raises some interesting questions:
 
-1) What is my snacking pattern?
+1) Does knowing nutritional information about my snacks help me change my habits?
 
-2) How good am I at rating the healthiness of my snack?
+2) What is my snacking pattern?
 
-3) Do I tend to eat healthy? How do I compare to my class? How does my class compare to the rest
+3) How good am I at rating the healthiness of my snack?
+
+4) Do I tend to eat healthy? How do I compare to my class? How does my class compare to the rest
     of the country?
-
-4) Does knowing nutritional information about my snacks help me change my habits?
 
 ###**2. Objectives:**
 Upon completing this campaign, students will have the enduring understanding that interpreting
