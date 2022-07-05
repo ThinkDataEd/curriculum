@@ -79,35 +79,35 @@ same age. The ages vary, so there is variability in the data***</span>).
 
     Initial investigative question : <b>*I wonder who has the most friends?*</b>
 
-|**Feature**|**Explanation**|
-|--------|--------|
-|The variable(s) of interest is/are clear|Yes. The variable of interest is the number of friends.|
-|The group or population we are interested in is clear|No. Teacher should ask: “Who did the researchers want to learn about?”<br> <span style="color:grey">These stick figures</span>.|
-|The question can be answered with the data|Yes. The researchers collected data on the number of friends.|
-|The question asks about the whole group, not an individual|No. This question is about an individual stick figure. Teacher should ask: “How can we reword the question to include the whole group?”<br> <span style="color:grey">How many friends do ... have?</span>|
-|The intention is clear (e.g., summary, comparison, association)|It is clear that this is a summary investigative question (single variable), specifically the number of friends.|
-|The question is one that is worth investigating, is interesting, and has a purpose|For students, this might be something interesting.|
+    |**Feature**|**Explanation**|
+    |--------|--------|
+    |The variable(s) of interest is/are clear|Yes. The variable of interest is the number of friends.|
+    |The group or population we are interested in is clear|No. Teacher should ask: “Who did the researchers want to learn about?”<br> <span style="color:grey">These stick figures</span>.|
+    |The question can be answered with the data|Yes. The researchers collected data on the number of friends.|
+    |The question asks about the whole group, not an individual|No. This question is about an individual stick figure. Teacher should ask: “How can we reword the question to include the whole group?”<br> <span style="color:grey">How many friends do ... have?</span>|
+    |The intention is clear (e.g., summary, comparison, association)|It is clear that this is a summary investigative question (single variable), specifically the number of friends.|
+    |The question is one that is worth investigating, is interesting, and has a purpose|For students, this might be something interesting.|
 
- Reworded investigative question after going through the criteria: <b>*I wonder how many friends this group of stick figures have?*</b>
+    Reworded investigative question after going through the criteria: <b>*I wonder how many friends this group of stick figures have?*</b>
  
  12. As a class, apply the same process to a few of the comparison and association questions. 
 
     Initial investigative question: <b>*I wonder if someone who plays a specific sport has more friends?*</b>
 
-|**Feature**|**Explanation**|
-|--------|--------|
-|The variable(s) of interest is/are clear|Yes. This seems to be a comparison investigative question <br>comparing the number of friends within the sport played.|
-|The group or population we are interested in is clear| No. Teacher should ask: “Who did the researchers want to learn about?”<br> <span style="color:grey">These stick figures</span>.|
-|The question can be answered with the data| Yes. The researchers collected data on the number <br>of friends and the sport the stick figures played.|
-|The question asks about the whole group, not an individual|No. The word someone gives the impression that we are<br> interested in one observation.|
-|The intention is clear (e.g., summary, comparison, association)|The intent is somewhat clear. This seems to be a comparison investigative <br>question between the sport the stick figures played and the number of friends each stick figure had. <br>Teacher should ask: “What is the variable that is being compared? <br>Which groups within the sport variable are you comparing (all groups, specific groups)?”.|
-|The question is one that is worth investigating, is interesting, and has a purpose|For students, this might be something interesting.|
+    |**Feature**|**Explanation**|
+    |--------|--------|
+    |The variable(s) of interest is/are clear|Yes. This seems to be a comparison investigative question <br>comparing the number of friends within the sport played.|
+    |The group or population we are interested in is clear| No. Teacher should ask: “Who did the researchers want to learn about?”<br> <span style="color:grey">These stick figures</span>.|
+    |The question can be answered with the data| Yes. The researchers collected data on the number <br>of friends and the sport the stick figures played.|
+    |The question asks about the whole group, not an individual|No. The word someone gives the impression that we are<br> interested in one observation.|
+    |The intention is clear (e.g., summary, comparison, association)|The intent is somewhat clear. This seems to be a comparison investigative <br>question between the sport the stick figures played and the number of friends each stick figure had. <br>Teacher should ask: “What is the variable that is being compared? <br>Which groups within the sport variable are you comparing (all groups, specific groups)?”.|
+    |The question is one that is worth investigating, is interesting, and has a purpose|For students, this might be something interesting.|
 
-Reworded investigative question after going through the criteria: 
+    Reworded investigative question after going through the criteria: 
 
-<b>*I wonder if there is a difference in the typical number of friends the stick figures have based on the sport they play?*</b>
+    <b>*I wonder if there is a difference in the typical number of friends the stick figures have based on the sport they play?*</b>
 
-<b>*I wonder if these stick figures who play soccer tend to have more friends that these stick figures who play tennis?*</b>
+    <b>*I wonder if these stick figures who play soccer tend to have more friends that these stick figures who play tennis?*</b>
 
 13. Using the criteria of a good statistical investigative question, student teams will go back and modify their statistical investigative questions. Facilitators will ensure the team goes through the criteria for each investigative question. Task Managers will encourage everyone to contribute. Resource Managers will ensure all materials are easily accessible for recording and reporting. Recorders in each team will capture team members’ responses while the teacher circulates the room to check for understanding.
 
