@@ -37,7 +37,7 @@ ticket that displays the 4 components of the Data Cycle.
 
 3. Remind students of the two questions from the previous lesson, noting that one of the questions was an investigative question, and the other was not:
 
-    100. How old am I?
+    100. How old are you?
 
     100. How old are the students in my school?
 

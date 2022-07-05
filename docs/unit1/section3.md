@@ -6,7 +6,7 @@ Data are useful for evaluating claims and reports. Summaries of categorical and 
 important features and patterns in the data. Data summaries provide evidence to make claims.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-The Bureau of Labor Statistics (BLS) collects data about daily time-use of Americans. Students will explore an interactive graphic titled *How Men and Women Spend Their Days* created by Nathan Yau, that use data from the American Time Use Survey, to spark their curiosity about how they spend their own time. This graphic can be found at: [https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/")
+The Bureau of Labor Statistics (BLS) collects data about daily time-use of Americans. Students will explore an interactive graphic titled *How Men and Women Spend Their Days* created by Nathan Yau, that uses data from the American Time Use Survey, to spark their curiosity about how they spend their own time. This graphic can be found at: [https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/")
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 
