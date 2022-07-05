@@ -52,8 +52,8 @@ data about other people. But today, they are going to be collecting data about t
 foods they eat.
 
 4. Students should have Nutrition Facts labels available from food/snacks they consumed at home
-between the previous lesson and today. Note: If some students forgot to bring any, then you can
-pass out some of the *Nutrition Facts Cutouts* ([LMR_1.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.7_Nutrition Facts Cutouts.pdf)) for them to use instead.
+    between the previous lesson and today. Note: If some students forgot to bring any, then you can
+    pass out some of the *Nutrition Facts Cutouts* ([LMR_1.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.7_Nutrition Facts Cutouts.pdf)) for them to use instead.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.7_Nutrition Facts Cutouts.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.7_Nutrition Facts Cutouts.pdf)</div>
 
