@@ -4,7 +4,7 @@
 Students will learn the features of a good statistical investigative question.
 
 ###**Materials:**
-1. Post-its
+1. Sticky notes
 
 ###**Vocabulary:**
 (statistical) investigative questions
