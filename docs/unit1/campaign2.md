@@ -76,7 +76,9 @@ RStudio and American time use interactive graphic
 
 Single/Multivariable plots: histograms, bar graphs, scatterplots, etc.
 
-Numerical summaries: mean, median, MAD, standard deviation. Frequency tables: One and two-way
+Numerical summaries: mean, median, MAD, standard deviation. 
+
+Frequency tables: One and two-way
 tables.
 
 ###**6. Guiding Questions:**
