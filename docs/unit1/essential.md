@@ -26,7 +26,7 @@ numerical summaries of the data. Data Interpretation is involved with using the 
 the statistical questions.
 
 ###**<u>[Lesson 5: So Many Questions](lesson5.md)</u>**
-Statistical questions address variability.
+Statistical investigative questions typically begin with a vague general question, then develop into a precise question. The process of developing or creating a good investigative question is iterative and requires time and effort to get right.
 
 ###**<u>[Lesson 6: What Do I Eat? [The Data Cycle: Consider Data]](lesson6.md)</u>**
 After raising statistical questions, we examine and record data to see if the questions are

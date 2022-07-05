@@ -79,7 +79,7 @@ on the device, there are 3 different options available:
 
     100. **No mobile device - browser-based version.** For students that do not have a mobile
     device (or an unsupported device, such as a Windows phone or Blackberry), a browser-based
-    version to perform data collection is available at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")<br>
+    version to perform data collection is available at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")<br>
     Click on the **Survey Taking icon** on the page.
 
 11. Once students have downloaded the app or have found the website, ask team leaders to

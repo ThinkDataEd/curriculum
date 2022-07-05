@@ -41,7 +41,7 @@ data points, dotplot
 
 1. <u>**Food Habits Campaign Data Collection Monitoring:**</u>
 
-    100. Display the IDS Campaign Monitoring Tool, found at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")<br>
+    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")<br>
     Click on **Campaign Monitor** and sign in.
 
     100. Inform students that you will be monitoring their data collection. This is a good
@@ -181,7 +181,7 @@ we can call this type of plot a **dotplot** since we’re using dots to represen
 21. Distribute the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)). Each student should pick one of the 2 numerical
 variables plotted on the poster paper. Then, they should complete part 1 of the *Tangible Plot*
 handout before leaving class. They will complete part 2 of the handout for homework.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)</div>
 
 22. Ask students to think about the statistical questions they came up with. Can the visualizations
 they created in class help answer their statistical question? If yes, answer the question; if not,

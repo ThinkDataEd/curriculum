@@ -9,7 +9,7 @@ a data set.
 
 2. Projector
 
-3. RStudio: [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
+3. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
 
 ###**Vocabulary:**
 pane, preview, console, plot, environment
@@ -28,7 +28,7 @@ the statistical programming software that academics and professional statisticia
 Introduction to Data Science course will utilize RStudio, which also runs on R. They will learn the
 programming language of RStudio for data analysis.
 
-2. Demonstrate how to access RStudio by projecting the URL: [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") on a screen.
+2. Demonstrate how to access RStudio by projecting the URL: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org") on a screen.
 Then, click on the RStudio icon on the page.
 
 3. Inform students that their RStudio is the same as their IDS App & IDS Homepage login.
@@ -80,8 +80,8 @@ command in the console
     100. Ask: Which number do you think represents the rows? Which one represents the
     columns? How does this output compare to the information in the preview and
     environment panes? How many observations are there in the data set? How many
-    variables does this data set contain? <span style="color:grey">***There are 15,624 rows, or 15,624 observations;
-    and there are 33 columns, or 33 variables. This information is also visible in the
+    variables does this data set contain? <span style="color:grey">***There are 13,677 rows, or 13,677 observations;
+    and there are 30 columns, or 30 variables. This information is also visible in the
     preview pane.***</span>
 
 11. Next, show students how to access the number of observations of a specific variable.
@@ -90,7 +90,7 @@ command in the console
 
     100. Ask: What do you notice? Describe the output. <span style="color:grey">***Notice that six categories are
     displayed. Each category shows the number of observations contained in it. E.g,.
-    “Never” has 326 observations, meaning 326 teens reported never wearing their
+    “Never” has 294 observations, meaning 294 teens reported never wearing their
     seat belt as a passenger in a motor vehicle. &lt;NA> = Not Available, represents teens
     that did not provide information about their seat belt habits.***</span>
 

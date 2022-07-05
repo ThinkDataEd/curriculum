@@ -18,7 +18,7 @@ collected from the Food Habits campaign. Students will present their findings to
 ###**Instructions:**
 With a partner, you will engage in the Data Cycle to address the Research Topic:
 
-<center>**How good are we at identifying healthy and unhealthy snacks?**</center>
+<center>**What do our snacking habits reveal about us?**</center>
 
 ###**Task:**
 1. Create a Data Cycle poster.
