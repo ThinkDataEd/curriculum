@@ -116,8 +116,6 @@ hide:
 <br>
 <a href="https://youtu.be/vgh7C8U8Ekk">Accessing RStudio</a>
 <br>
-<a href="https://youtu.be/vgh7C8U8Ekk">Accessing RStudio</a>
-<br>
 <a href="https://youtu.be/UZnEj3k16s0">How To Login into RStudio</a>
 <br>
 <a href="https://youtu.be/WkxCfaol3pE">How To Navigate into Rstudio</a>
