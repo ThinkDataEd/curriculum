@@ -12,7 +12,7 @@ Students will learn about the stages of the Data Cycle.
 
 4. The *Data Cycle Spinners* handout ([LMR_1.4_Data Cycle Spinners](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.4_Data Cycle Spinners.pdf))
 
-5. RStudio: https://portal.idsucla.org
+5. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
 
 6. Article headline: *People Who Order Coffee Black Are More Likely To Be Psychopaths* found at: [https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f](https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f "https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f")
 
