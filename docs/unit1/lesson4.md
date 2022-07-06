@@ -41,7 +41,7 @@ graphic from *The Data Cycle* file ([LMR_1.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs
 3. Display the Data Cycle on the board or on a projector, and give a brief explanation of the 4
 components (listed below).
 
-    Note: we will explore each component of the Data Cycle more explicitly throughout the course.
+    **Note:** we will explore each component of the Data Cycle more explicitly throughout the course.
 
     100. **Pose Statistical Investigative Questions:** Statistical investigative questions are questions that address variability and
     can be answered with data.
@@ -57,7 +57,7 @@ components (listed below).
 
 4. Almost all statistical investigations begin with statistical investigative questions. There are times when the questions may be given to us, so we might start at the data collection step, but this should ideally be our starting point. 
 
-5. As an example, explain that you might ask a person “How old are you?” Although this is a question, it is NOT a statistical investigative question because we are only asking one person so there is no variability in the data. The question “How old are you?”  is a survey question that you might ask if you were trying to answer the investigative question “How old are the students in my school?” We would need to collect data to answer the question and we would expect student’s ages to vary.
+5. As an example, explain that you might ask a person “How old are you?” Although this is a question, it is NOT a statistical investigative question because we are only asking one person so there is no variability in the data. The question “How old are you?”  is a survey question that you might ask if you were trying to answer the investigative question: “How old are the students in my school?” We would need to collect data to answer the question and we would expect student’s ages to vary.
 
 6. To help students get a firm understanding of the Data Cycle and how each component is connected, they will participate in a *Four Corners strategy* (see [Instructional
 Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)). Write down the name of each stage of the Data Cycle on a sheet of paper and include the description of that particular stage (see step 3 for descriptions). Then tape each sheet on a different corner of your room.
@@ -71,9 +71,9 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
     
     100. What questions or wonderings do we have about the artifact?
     
-9. Allow each group time to discuss the questions and have one member from each team (corner) share the answers to the questions. This activity is not about having a correct answer. It is about …
+9. Allow each group time to discuss the questions and have one member from each team (corner) share the answers to the questions. This activity is not about having a correct answer. It is about having students begin to think critically about statiscal artifacts that they are constantly consuming.
 
-10. Artifact 1: Spreadsheet of the cdc data
+10. Artifact 1: Spreadsheet of the CDC data
 
     <img src="../../img/cdc.png" />
 
@@ -83,6 +83,8 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
 
     100. What part of the data cycle does the artifact represent (posing a statistical investigative question, consider data, analyze data, interpret data)? Why do we think that?
     100. What questions or wonderings do we have about the artifact?
+    <span style="color:grey">***Students should begin developing statistical habits of mind. They should be interrogating the data by asking questions such as:
+    Who is the data about? What was the purpose of collecting the data? What was the survey question asked to collect the data? How were the variables measured?***</span>
 
 11. Artifact 2: Article headline *People Who Order Coffee Black Are More Likely To Be Psychopaths* found at: [https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f](https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f "https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f")
 
