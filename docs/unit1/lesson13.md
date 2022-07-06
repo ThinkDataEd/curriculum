@@ -11,6 +11,8 @@ a data set.
 
 3. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
 
+4. Video showing how to log into RStudio Cloud for the first time found at: [https://www.youtube.com/watch?v=vgh7C8U8Ekk](https://www.youtube.com/watch?v=vgh7C8U8Ekk "https://www.youtube.com/watch?v=vgh7C8U8Ekk")
+
 ###**Vocabulary:**
 pane, preview, console, plot, environment
 
@@ -31,7 +33,7 @@ programming language of RStudio for data analysis.
 2. Demonstrate how to access RStudio by projecting the URL: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org") on a screen.
 Then, click on the RStudio icon on the page.
 
-3. Inform students that their RStudio is the same as their IDS App & IDS Homepage login.
+3. Inform students that they will log into RStudio using the "Log In with Google" option. Note that it is not the same as their IDS App & IDS Homepage login.
 
 4. Once logged in, show each **pane**, or rectangular area, of the RStudio interface:
 
