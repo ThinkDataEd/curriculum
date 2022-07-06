@@ -20,6 +20,8 @@ Students will learn about the stages of the Data Cycle.
 
 8. *Bros & Dudes Graphics* handout ([LMR_1.5_Bros & Dudes Graphics](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf))
 
+9. Sticky notes
+
 ###**Vocabulary:**
 data cycle, statistical questions, investigative questions, data collection, data analysis, data interpretation
 
@@ -71,7 +73,7 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
     
     100. What questions or wonderings do we have about the artifact?
     
-9. Allow each group time to discuss the questions and have one member from each team (corner) share the answers to the questions. This activity is not about having a correct answer. It is about having students begin to think critically about statiscal artifacts that they are constantly consuming.
+9. Allow each group time to discuss the questions and have one member from each team (corner) share the answers to the questions. This activity is not about having a correct answer. It is about having students begin to think critically about statiscal artifacts that they are constantly consuming. Data are encountered through visualizations, reports from scientific studies, journalists’ articles and websites. This activity is meant to begin to develop students' statistical habits of mind.
 
 10. Artifact 1: Spreadsheet of the CDC data
 
@@ -82,45 +84,48 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
 `View(cdc)`
 
     100. What part of the data cycle does the artifact represent (posing a statistical investigative question, consider data, analyze data, interpret data)? Why do we think that?
+    <span style="color:grey">***Answers will vary.***</span>
+    
     100. What questions or wonderings do we have about the artifact?
     <span style="color:grey">***Students should begin developing statistical habits of mind. They should be interrogating the data by asking questions such as:
-    Who is the data about? What was the purpose of collecting the data? What was the survey question asked to collect the data? How were the variables measured?***</span>
+    Who is the data about? What was the purpose of collecting the data? What was the survey question asked to collect the data?***</span>
 
 11. Artifact 2: Article headline *People Who Order Coffee Black Are More Likely To Be Psychopaths* found at: [https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f](https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f "https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f")
 
     100. What part of the data cycle does the artifact represent (posing a statistical investigative question, consider data, analyze data, interpret data)? Why do we think that?
-    100. What questions or wonderings do we have about the artifact?
+    <span style="color:grey">***Answers will vary.***</span>
+
+    100. What questions or wonderings do we have about the artifact? <span style="color:grey">***Students should be interrogating this headline with questions like: What type of study was this? Who funded the study? What was the purpose of the study? How was the variable measured?***</span>
 
 12. Artifact 3: *Dude Map* found at: [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/")
 
     <img src="../../img/dudegraphic.png" />
 
-    100. What part of the data cycle does the artifact represent (posing a statistical investigative question, consider data, analyze data, interpret data)? Why do we think that?
-    100. What questions or wonderings do we have about the artifact?
+    100. What part of the data cycle does the artifact represent (posing a statistical investigative question, consider data, analyze data, interpret data)? Why do we think that? <span style="color:grey">***Answers will vary.***</span>
+    100. What questions or wonderings do we have about the artifact? <span style="color:grey">***Students should be asking questions like: What was the purpose of this study? What variables were measured and how were they measured?***</span>
 
-13. Have students return to their seats and have the Resource Manager choose ONE of the pages from the *Bros & Dudes Graphics* handout ([LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)) for their team. There are 10 different
+13. Inform students that the *Dude Map* was created for the *Quartz*
+website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphic shows how common the terms: bro, buddy, dude, fella and pal are when referring to friends throughout the United States.
+
+14. Ask students to return to their seats, take out their DS journal and make a sketch of the Data Cycle making sure to include the names of the four stages (Pose statstical investigative question, consider data, analyze data, interpret data).
+
+15. Ask students to write *Dude Map* under the analyze data of their data cycle and the information about where the data came from (see #13) in the consider data part of their Data Cycle sketch.
+
+16. Have each team discuss a possible investigative question that could be answered using the *Dude Map* graphic. Have the reporter/recorder write the question on a sticky note and the resource manager bring it up to the board.
+
+17. Lead a class discussion around the investigative questions the student teams created, and as a class, choose one to write down as an example.<span style="color:grey">***Example: Where in the United States is the term dude more common to use when referring to a friend***</span>
+
+18. Allow the teams to work together to answer the investigative question. Have the reporter/recorder share their teams interpretation. Have students write down the answer that resonated the most with them under the interpret part of the data cycle.
+
+19. Assign ONE of the pages from the *Bros & Dudes Graphics* handout ([LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)) to each team. There are 10 different
 versions of word pairings (10 combinations of 2 words chosen from the 5 options), so multiple
 teams will have the same graphic if there are more than 10 teams in a class.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros %26 Dudes Graphics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)</div>
 
-14. Inform students that the graphics shown on their handouts were created for the *Quartz*
-website by Nikhil Sonnad as a data visualization. He collected the data via Twitter. The graphics
-show how common certain terms are throughout the United States when referring to friends. The
-goal of this activity is for each team to come up with two investigative questions that could be answered with their
-graphic. <span style="color:grey">***For example, a team given the “Bro” and “Buddy” graphics might come
-up with the following questions: Which region of the US is most likely to use the term
-“Bro” when referring to a friend? Do the coastal areas prefer different terms than the
-Midwest? Is there a difference between northern states versus southern states?***</span>
+20. The goal of this activity is for each team to complete a full statistical investigation with the *Bros & Dudes Graphics* assigned to them. Tell the teams that they need to create a Data Cycle poster using their assigned graphic for the analyze stage. The cycle should be clearly labeled and have appropriate responses for each of the 4 components.
 
-15. In their DS journals, each student should write down the 4 components of the Data Cycle, and see if they can complete a full statistical investigation with their investigative questions. They should record notes about whether or not each component can be completed, and why. 
-
-    100. The teams should create a small Data Cycle graphic using ONE of their questions to turn
-    in for assessment (suggested size is 8.5”x11”). The cycle should be clearly labeled and
-    have appropriate responses for each of the 4 components.
-
-    100. Each team’s graphic must make a conclusion about why their investigative question could or could not be answered.
-
-13. If they have questions that could not be answered, have them reformulate them so that they can be answered for homework.
+    <span style="color:grey">***For example, a team given the “Bro” and “Buddy” graphics might come up with the following questions: Which region of the US is most likely to use the term “Bro” when referring to a friend? Do the coastal areas prefer different terms than the
+    Midwest? Is there a difference between northern states versus southern states?***</span>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics
