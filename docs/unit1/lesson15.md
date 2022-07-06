@@ -127,7 +127,7 @@ and
 <u>***Data Collection Monitoring***</u>
 
 1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
-[https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org") Click on **Campaign Monitor** and sign in.
+[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org") Click on **Campaign Monitor** and sign in.
 
     100. See *User List* and sort by *Total*. Ask: Who has collected the most data so far?
 
