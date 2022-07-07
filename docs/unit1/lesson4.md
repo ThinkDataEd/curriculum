@@ -22,6 +22,8 @@ Students will learn about the stages of the Data Cycle.
 
 9. Sticky notes
 
+10. Poste paper
+
 ###**Vocabulary:**
 data cycle, statistical questions, investigative questions, data collection, data analysis, data interpretation
 
