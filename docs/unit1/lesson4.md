@@ -73,7 +73,7 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
     
     100. What questions or wonderings do we have about the artifact?
     
-9. Allow each group time to discuss the questions and have one member from each team (corner) share the answers to the questions. This activity is not about having a correct answer. It is about having students begin to think critically about statiscal artifacts that they are constantly consuming. Data are encountered through visualizations, reports from scientific studies, journalists’ articles and websites. This activity is meant to begin to develop students' statistical habits of mind.
+9. Allow each group time to discuss the questions and have one member from each team (corner) share the answers to the questions. This activity is not about having a correct answer. It is about having students begin to think critically about statistical artifacts that they are constantly consuming. Data are encountered through visualizations, reports from scientific studies, journalists’ articles and websites. This activity is meant to begin to develop students' statistical habits of mind.
 
 10. Artifact 1: Spreadsheet of the CDC data
 
