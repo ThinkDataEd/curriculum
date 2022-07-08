@@ -101,8 +101,6 @@ hide:
 <details>
 <summary>Class Setup Instructions</summary>
 <br>
-<a href="https://youtu.be/zWZ8JrAoP4k">How to Create & Manage IDS Classes</a>
-<br>
 <a href="https://www.youtube.com/watch?v=dtWF291XwzE">Splitting 1 Column into 2 using Excel</a>
 <br>
 <a href="https://www.youtube.com/watch?v=0M2vG7NYHkQ">Class Setup Tool</a>
