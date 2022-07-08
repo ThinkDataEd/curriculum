@@ -114,13 +114,11 @@ hide:
 <br>
 <a href="https://youtu.be/vgh7C8U8Ekk">Accessing RStudio</a>
 <br>
-<a href="https://youtu.be/UZnEj3k16s0">How To Login into RStudio</a>
-<br>
-<a href="https://youtu.be/WkxCfaol3pE">How To Navigate into Rstudio</a>
+<a href="https://youtu.be/WkxCfaol3pE">Navigating Rstudio</a>
 <br>
 <a href="https://youtu.be/N6dBQQC0hNQ">Export, Upload, Import</a>
 <br>
-<a href="https://youtu.be/v3qPfE4ruQA">How To Access & Complete Lab 1A</a>
+<a href="https://youtu.be/v3qPfE4ruQA">Lab 1A</a>
 <br>
 <a href="https://www.youtube.com/watch?v=N5KpS0MFk7Y">Decluttering Environment Pane</a>
 <br>
