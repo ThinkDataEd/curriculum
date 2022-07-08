@@ -101,7 +101,7 @@ hide:
 <details>
 <summary>Class Setup Instructions</summary>
 <br>
-<a href="https://www.youtube.com/watch?v=dtWF291XwzE">Splitting 1 Column into 2 using Excel</a>
+<a href="https://www.youtube.com/watch?v=dtWF291XwzE">Splitting Columns in Excel</a>
 <br>
 <a href="https://www.youtube.com/watch?v=0M2vG7NYHkQ">Class Setup Tool</a>
 </details></td>
