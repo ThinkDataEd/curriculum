@@ -2990,7 +2990,7 @@
 <p>– The CDC is a federal institution that studies public health.</p>
 </li>
 <li>
-<p>Type these two commands into the your console:</p>
+<p>Type these two commands into your console:</p>
 <pre><code>data(cdc)
 View(cdc)
 </code></pre>
@@ -3000,19 +3000,32 @@ View(cdc)
 <p>– <strong><em>Who</em> is the information about?</strong></p>
 <p>– <strong>What sorts of information about them was collected?</strong></p>
 </li>
+<li>
+<p>To find out more information about the <code>cdc</code> data, type the command below into your console.</p>
+<p>– To get back to the slides find and click on the <em>Viewer</em> tab.</p>
+<pre><code>?cdc
+</code></pre>
+</li>
 </ul>
 <h3 id="data-variables-observations"><strong>Data: Variables &amp; Observations</strong></h3>
 <ul>
 <li>
 <p>Data can be broken up into two parts.</p>
-<p>`1. Observations</p>
-<p>`2. Variables</p>
+<p>`1. <em>Observations</em></p>
+<p>`2. <em>Variables</em></p>
+<p>– <em>Observations</em> are the <em>who</em> or <em>what</em> we are collecting data from/about.</p>
+<p>– <em>Variables</em> are the measurements or characteristics about our <em>observations</em>.</p>
 </li>
 <li>
 <p>If need be, re-type the command you used to <code>View</code> your data. Then answer the following:</p>
-<p>– <strong>How are our <em>observations</em> represented in our data?</strong></p>
+<p>– <strong>Based on the data, describe a few characteristics about the first observation.</strong></p>
 <p>– <strong>What does the first column tell us about our observations?</strong></p>
-<p>– <strong>How often did our first observation wear a seatbelt while riding in a car?</strong></p>
+</li>
+<li>
+<p>In order to describe the first observation, notice that you had to look at the first row of the spreadsheet. Each row, in this case, describes a person.</p>
+</li>
+<li>
+<p>The columns of the spreadsheet represent variables.</p>
 </li>
 </ul>
 <h3 id="uncovering-our-datas-structure"><strong>Uncovering our Data's Structure</strong></h3>
@@ -3057,7 +3070,10 @@ names(cdc)
 </li>
 <li>
 <p>Coding is all about learning how to send instructions to your computer.</p>
-<p>– We call the way we <em>speak</em> to the coding language, <em>syntax</em>.</p>
+<p>– The way we <em>speak</em> to the computer, using a coding language, <em>syntax</em>.</p>
+</li>
+<li>
+<p><code>R</code> is one of many coding languages. Each coding language is slightly different, and these differences are reflected in the syntax.    </p>
 </li>
 <li>
 <p><em>Capitalization</em>, <em>spelling</em> and <em>punctuation</em> are REALLY important.</p>
@@ -3065,8 +3081,7 @@ names(cdc)
 </ul>
 <h3 id="syntax-matters"><strong>Syntax matters</strong></h3>
 <ul>
-<li><strong>Run the following commands and write down what happens after each. Which does R
-understand?</strong><pre><code>Names(cdc)
+<li><strong>Run the following commands and write down what happens after each. Which does R understand?</strong><pre><code>Names(cdc)
 NAMES(cdc)
 names(cdc)
 names(CDC)
@@ -3074,21 +3089,49 @@ names(CDC)
 </li>
 </ul>
 <h3 id="rs-most-important-syntax"><strong>R's most important syntax</strong></h3>
+<ul>
+<li>
+<p>Most of the commands you will be using follow the syntax below:</p>
 <pre><code>function (y~x, data = ____ )
+</code></pre>
+</li>
+<li>
+<p>To create graphs or plots you need to provide <code>R</code> with the following:</p>
+<p>– The name of the R function, often the plot’s name, that tells the computer how to create your graph.</p>
+<ul>
+<li>
+<p>The variable(s) containing the information we want the function to use.</p>
+</li>
+<li>
+<p>The data set containing the variables.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Notice that when we analyze a single variable the value for <em>y</em> is left blank.</p>
+<pre><code>bargraph(~grade, data = cdc)
+</code></pre>
+</li>
+</ul>
+<p><img src="../../img/1xa0a.png" /></p>
+<ul>
+<li>Later on, we’ll see we can use this syntax to do more than create graphs.</li>
+</ul>
+<h3 id="syntax-in-action"><strong>Syntax in action</strong></h3>
+<pre><code>    function (y~x, data = ____ )
 </code></pre>
 <ul>
 <li>
 <p>Search through the different panes. Find and then click on the <em>Plots</em> tab.</p>
-<p>– To get back to the slides, find and then click on the <em>Viewer</em> tab.</p>
-</li>
-</ul>
-<h3 id="syntax-in-action"><strong>Syntax in action</strong></h3>
-<pre><code>function (y~x, data = ____ )
-</code></pre>
 <ul>
+<li>To get back to the slides, find and then click on the <em>Viewer</em> tab.</li>
+</ul>
+</li>
 <li>
-<p><strong>Which one of these plots would be useful for answering the question: <em>Is it unusual for
-students in the CDC dataset to be taller than 1.8 meters?</em> </strong></p>
+<p><strong>Which one of these plots would be useful for answering the question: <em>Is it unusual for students in the CDC dataset to be taller than 1.8 meters?</em> </strong></p>
+</li>
+<li>
+<p>Run the three commands below then answer the question that follows.</p>
 <pre><code>histogram(~height, data = cdc)
 
 bargraph(~drive_text, data = cdc)
@@ -3097,8 +3140,10 @@ xyplot(weight~height, data = cdc)
 </code></pre>
 </li>
 <li>
-<p><strong>Do you think it's unusual for students in the data to be taller than 1.8 meters? Why or why
-not?</strong></p>
+<p><strong>Do you think it’s unusual for students in the data to be taller than 1.8 meters? Why or why not?</strong></p>
+<ul>
+<li>Hint: Use the arrow keys on the <em>Plots</em> tab to toggle between the plots.</li>
+</ul>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own:</strong></h3>
@@ -3111,9 +3156,7 @@ student in the US?</strong></p>
 <p>– <strong>How might the CDC use this data? Who else could benefit from using this data?</strong></p>
 <p>– <strong>Write the code to visualize the distribution of weights of the students in the CDC
 data with a histogram. What is the <em>typical</em> weight?</strong></p>
-<p>– <strong>Write the code to create a barplot to visualize the distribution of how often
-students wore a helmet while bike riding. About how many students never wore
-a helmet?</strong></p>
+<p>– <strong>Write the code to create a bargraph to visualize the distribution of how often students ate fruit. About how many students did not eat fruit over the previous 7 days?</strong></p>
 </li>
 </ul>
                 
