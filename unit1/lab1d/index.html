@@ -588,6 +588,20 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#another-plotting-function" class="md-nav__link">
+    Another plotting function
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#more-options" class="md-nav__link">
+    More options
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#splitting-data-sets" class="md-nav__link">
     Splitting data sets
   </a>
@@ -2896,6 +2910,20 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#another-plotting-function" class="md-nav__link">
+    Another plotting function
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#more-options" class="md-nav__link">
+    More options
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#splitting-data-sets" class="md-nav__link">
     Splitting data sets
   </a>
@@ -3006,11 +3034,40 @@
 </li>
 <li>
 <p>In this lab, we'll learn how to <em>zoom in</em> on our data by learning how to subset.</p>
-<p>– We'll also learn a few ways to manipulate the plots we've been making to make
-them easier to use for analyses.</p>
+<p>– We'll also learn a few ways to manipulate the plots we've been making to make them easier to use for analyses.</p>
 </li>
 <li>
 <p>Import the data from your class' <em>Food Habits</em> campaign and name it <code>food</code>.</p>
+</li>
+</ul>
+<h3 id="another-plotting-function"><strong>Another plotting function</strong></h3>
+<ul>
+<li>
+<p>A <code>dotPlot</code> is another plot that can be used to analyze a numerical variable.</p>
+<p>– Dotplots are better suited for smaller data sets. If data sets are too large, the dots become too small to see.</p>
+<p>– Similarly, distributions with a large spread might impact the readability of the plot.</p>
+</li>
+<li>
+<p><strong>Use the <code>dotPlot()</code> function to create a <code>dotPlot</code> of the amount of <code>sugar</code> in our <code>food</code> data.</strong></p>
+<p>– The code to create a <code>dotPlot</code> is exactly like you’d use to make a <code>histogram</code>.</p>
+<p>– Make sure to use a capital P in <code>dotPlot</code>.</p>
+</li>
+</ul>
+<h3 id="more-options"><strong>More options</strong></h3>
+<ul>
+<li>
+<p>While a <code>dotPlot</code> should conserve the exact value of each data point, sometimes it behaves like a histogram in that it lumps values together.</p>
+</li>
+<li>
+<p><strong>Create a more accurate <code>dotPlot</code> by including the <code>nint</code> option.</strong></p>
+<p>– Set <code>nint</code> equal to max sugar - min sugar + 1</p>
+<p>On your <code>food</code> data spreadsheet, click on the sugar header to sort in ascending order (to obtain minimum)</p>
+<p>Click on the sugar header again to sort in descending order (to obtain maximum)</p>
+<p>– Use your history pane to see how we included the option <code>nint</code> with the <code>histogram</code> function.</p>
+</li>
+<li>
+<p>Pro-tip: If the <code>dotPlot</code> comes out looking wonky, try changing the value of the <em>character expansion</em> option, <code>cex</code>. </p>
+<p>– The default value is <code>1</code>. Try a few values between <code>0</code> and <code>1</code> and a few more values larger than <code>1</code>.</p>
 </li>
 </ul>
 <h3 id="splitting-data-sets"><strong>Splitting data sets</strong></h3>
@@ -3019,13 +3076,7 @@ them easier to use for analyses.</p>
 <p>In <a href="../lab1b/">lab 1B</a>, we learned that we can <em>facet</em> (or split) our data based on a categorical variable.</p>
 </li>
 <li>
-<p><strong>Use the <code>dotPlot()</code> function to create a <code>dotPlot</code> of the amount of <code>sugar</code> in our <code>food</code>
-data.</strong></p>
-<p>– The code to create a <code>dotPlot</code> is exactly like you'd use to make a <code>histogram</code>.</p>
-<p>– Make sure to use a capital P in <code>dotPlot</code>.</p>
-</li>
-<li>
-<p><strong>Split the <code>dotPlot</code> in two by faceting on our observations' salty/sweet variable.</strong></p>
+<p><strong>Split the <code>dotPlot</code> displaying the distribution of grams of sugar in two, by faceting on our observations’ <code>salty_sweet</code> variable.</strong></p>
 <p>– <strong>Describe how R decides which observations go into the left or right plot.</strong></p>
 <p>– <strong>What does each <em>dot</em> in the plot represent?</strong></p>
 </li>
@@ -3033,52 +3084,42 @@ data.</strong></p>
 <h3 id="altering-the-layout"><strong>Altering the layout</strong></h3>
 <ul>
 <li>
-<p>It would be much easier to compare the sugar levels of salty and sweet snacks if the
-dotPlots were stacked on top of one another.</p>
+<p>It would be much easier to compare the sugar levels of salty and sweet snacks if the dotPlots were stacked on top of one another.</p>
 </li>
 <li>
-<p>We can change the <strong>layout</strong> of our separated plots by including the <code>layout</code> option in our
-<code>dotPlot</code> function.</p>
-<p>– Add the following option to the code you used create the <code>dotPlot</code> split by
-<code>salty_sweet</code></p>
+<p>We can change the <strong>layout</strong> of our separated plots by including the <code>layout</code> option in our <code>dotPlot</code> function.</p>
+<p>– Add the following option to the code you used to create the <code>dotPlot</code> split by <code>salty_sweet</code></p>
 <pre><code>layout = c(1,2)
 </code></pre>
 </li>
 <li>
-<p><em>Hint:</em> Use your history pane to see how we handled options with the <code>bargraph</code> function. Use
-a similar syntax to add the <code>layout</code> option to the <code>dotPlot</code> function.</p>
+<p><em>Hint:</em> Use a similar syntax used with the <code>nint</code> option to add the <code>layout</code> option to the <code>dotPlot</code> function.</p>
 </li>
 </ul>
 <h3 id="subsetting"><strong>Subsetting</strong></h3>
 <ul>
 <li>
-<p>Subsetting is a term we use to describe the process of looking at only the data that
-conforms to some set of rules:</p>
+<p>Subsetting is a term we use to describe the process of looking at only the data that conforms to some set of rules:</p>
 <p>– Geologists may subset earthquake data by looking at only large earthquakes.</p>
-<p>– Stock market traders may subset their trading data by looking only at the previous
-day's trades.</p>
+<p>– Stock market traders may subset their trading data by looking only at the previous day's trades.</p>
 </li>
 <li>
-<p>There's <em>many</em> ways to subset data using RStudio, we'll focus on learning the most common
-methods.</p>
+<p>There's <em>many</em> ways to subset data using RStudio, we'll focus on learning the most common methods.</p>
 </li>
 </ul>
 <h3 id="the-filter-function"><strong>The filter function</strong></h3>
 <ul>
 <li>
-<p>Creating two plots, one for salty and one for sweet is useful for comparing salty and sweet
-But what if we want to examine only one group by itself?</p>
+<p>Creating two plots, one for salty and one for sweet is useful for comparing salty and sweet but what if we want to examine only one group by itself?</p>
 </li>
 <li>
 <p>Start by creating a subset of the data:</p>
-<p>– Fill in the blanks below with the data and variable names needed to filter our food
-data based on people who ate <code>Salty</code> snacks:</p>
+<p>– Fill in the blanks below with the data and variable names needed to filter the <code>Salty</code> snacks from our <code>food</code> data:</p>
 <pre><code>food_salty &lt;- filter(____ , ____ == "Salty")
 </code></pre>
 </li>
 <li>
-<p><strong>View <code>food_salty</code> and write down the number of observations in it. Then use the
-subset data to make a dotPlot of the <code>sodium</code> in our <code>Salty</code> snacks.</strong></p>
+<p><strong>View <code>food_salty</code> and write down the number of observations in it. Then use the subset data to make a dotPlot of the <code>sodium</code> in our <code>Salty</code> snacks.</strong></p>
 </li>
 </ul>
 <h3 id="so-whats-really-going-on"><strong>So what's really going on?</strong></h3>
@@ -3093,8 +3134,7 @@ subset data to make a dotPlot of the <code>sodium</code> in our <code>Salty</cod
 <p><code>filter()</code> tells R that we're going to look at only the values in our data that follow a <em>rule</em>.</p>
 </li>
 <li>
-<p>The first blank should be the data we're going to filter down into a smaller set (Based on our
-rule).</p>
+<p>The first blank should be the data we're going to filter down into a smaller set (Based on our rule).</p>
 </li>
 <li>
 <p><code>salty_sweet == "Salty"</code> is the rule to follow.</p>
@@ -3105,11 +3145,8 @@ rule).</p>
 <li>
 <p>We can decompose our rule, <code>salty_sweet == "Salty"</code>, into 3 parts:</p>
 <p>(1) <code>salty_sweet</code>, is the particular <em>variable</em> we want to use to select our subset.</p>
-<p>(2) <code>"Salty"</code> is the <em>value</em> of the variable that we want to select. We only want to see
-data with the value <code>Salty</code> for the variable <code>salty_sweet</code>.</p>
-<p>(3) <code>==</code> describes how we want to relate our variable (<code>salty_sweet</code>) to our value
-(<code>"Salty"</code>). In this case, we want values of <code>salty_sweet</code> that are <em>exactly</em> equal to
-<code>"Salty"</code>.</p>
+<p>(2) <code>"Salty"</code> is the <em>value</em> of the variable that we want to select. We only want to see data with the value <code>Salty</code> for the variable <code>salty_sweet</code>.</p>
+<p>(3) <code>==</code> describes how we want to relate our variable (<code>salty_sweet</code>) to our value (<code>"Salty"</code>). In this case, we want values of <code>salty_sweet</code> that are <em>exactly</em> equal to <code>"Salty"</code>.</p>
 </li>
 <li>
 <p>Notice: <em>Values</em> (that are also words) have quotation marks around them. <em>Variables</em> do not.</p>
@@ -3118,8 +3155,7 @@ data with the value <code>Salty</code> for the variable <code>salty_sweet</code>
 <h3 id="more-on"><strong>More on ==</strong></h3>
 <ul>
 <li>
-<p>We can use the <code>head()</code> function to help us see what's happening when we write
-<code>salty_sweet == "Salty"</code>.</p>
+<p>We can use the <code>head()</code> function to help us see what's happening when we write <code>salty_sweet == "Salty"</code>.</p>
 <p>– <code>head()</code> returns the values of the first 6 observations.</p>
 <p>– The <code>tail()</code> function returns the last 6 observations.</p>
 </li>
@@ -3128,20 +3164,17 @@ data with the value <code>Salty</code> for the variable <code>salty_sweet</code>
 <p><code>head(~salty_sweet == "Salty", data = food)</code></p>
 </li>
 <li>
-<p><strong>What do the values <code>TRUE</code> and <code>FALSE</code> tell us about how our <em>rule</em> applies to the first six
-snacks in our data? Which of the first six observations were <code>Salty</code>?</strong></p>
+<p><strong>What do the values <code>TRUE</code> and <code>FALSE</code> tell us about how our <em>rule</em> applies to the first six snacks in our data? Which of the first six observations were <code>Salty</code>?</strong></p>
 </li>
 </ul>
 <h3 id="saving-values"><strong>Saving values</strong></h3>
 <ul>
 <li>
 <p>To use our subset data we need to save it first.</p>
-<p>– When we <em>save</em> something in R what we are really doing is giving a value, or set of
-values, a specific name for us to use later.</p>
+<p>– When we <em>save</em> something in R what we are really doing is giving a value, or set of values, a specific name for us to use later.</p>
 </li>
 <li>
-<p>The arrow &lt;- is called the "assignment" operator. It assigns names (on the left) to values
-(on the right)</p>
+<p>The arrow &lt;- is called the "assignment" operator. It assigns names (on the left) to values (on the right)</p>
 <p>– We now focus on everything to the left of, and including, the "&lt;-" symbol</p>
 <pre><code>food_salty &lt;- filter(____ , ____ == "Salty")
 </code></pre>
@@ -3166,33 +3199,30 @@ values, a specific name for us to use later.</p>
 <ul>
 <li>
 <p>We often want to filter our data based on multiple rules.</p>
-<p>– For instance, we might want to filter our <code>food</code> data based on the food being salty
-AND costing less than 2 dollars.</p>
+<p>– For instance, we might want to filter our <code>food</code> data based on the food being salty AND having less than 200 calories.</p>
 </li>
 <li>
 <p>We can include multiple filters to our subsets by separating each rule with a comma like so:</p>
-<pre><code>my_sub &lt;- filter(food , salty_sweet == "Salty", cost &lt;= 2)
+<pre><code>my_sub &lt;- filter(food , salty_sweet == "Salty", calories &lt; 200)
 </code></pre>
 </li>
 <li>
-<p><code>View</code> the <code>my_sub</code> data we filtered in the above line of code and verify that it only includes
-salty snacks that cost less than 2 dollars.</p>
+<p><code>View</code> the <code>my_sub</code> data we filtered in the above line of code and verify that it only includes salty snacks that have less than 200 calories.</p>
 </li>
 </ul>
 <h3 id="put-it-all-together"><strong>Put it all together</strong></h3>
 <ul>
 <li>
 <p><strong>Use an appropriate <code>dotPlot</code> to answer each of the following questions:</strong></p>
-<p>– <strong>About how much fat does the typical sweet snack have?</strong></p>
-<p>– <strong>How does the typical amount of fat compare when <code>healthy_level &lt; 3</code> and
-when <code>healthy_level &gt; 3</code>?</strong></p>
+<p>– <strong>About how much sugar does the typical sweet snack have?</strong></p>
+<p>– <strong>How does the typical amount of sugar compare when <code>healthy_level &lt; 3</code> and when <code>healthy_level &gt; 3</code>?</strong></p>
 </li>
 <li>
-<p>It can sometime be helpful to change the number of <em>intervals</em>, or <em>bins</em>, used in <code>dotPlots</code> and
-<code>histograms</code>.</p>
-<p>– To change the number of <em>intervals</em> in your plots, include the <code>nint</code> option. For
-instance, to have a plot with 3 bins, use <code>nint = 3</code>. To have a plot with 30 bins, use
-<code>nint = 30</code>.</p>
+<p>Because you are now working with subsets of data, it is important to label our plots and make this distinction.</p>
+<p>– We can use the <code>main</code> option to add a title to our plots</p>
+<p>Add the following option to the code you used to create the <code>dotPlot</code> of the sugar in <code>Sweet</code> snacks.</p>
+<pre><code>main = "Distribution of sugar in sweet snacks"
+</code></pre>
 </li>
 </ul>
                 
