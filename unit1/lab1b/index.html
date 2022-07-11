@@ -580,6 +580,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#we-have-options" class="md-nav__link">
+    We have options
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#how-often-do-people-text-drive" class="md-nav__link">
     How often do people text &amp; drive?
   </a>
@@ -2910,6 +2917,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#we-have-options" class="md-nav__link">
+    We have options
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#how-often-do-people-text-drive" class="md-nav__link">
     How often do people text &amp; drive?
   </a>
@@ -2973,21 +2987,17 @@
 <h3 id="whered-we-leave-off"><strong>Where'd we leave off ...</strong></h3>
 <ul>
 <li>
-<p>In the previous lab, we started to get acquainted with the layout of RStudio and some of the
-commands.</p>
+<p>In the previous lab, we started to get acquainted with the layout of RStudio and some of the commands.</p>
 </li>
 <li>
 <p>In this lab, we'll learn about different <em>types</em> of variables.</p>
-<p>– Such as those that are measured by numbers and others that have values that are
-categories.</p>
+<p>– Such as those that are measured by numbers and others that have values that are categories.</p>
 </li>
 <li>
-<p>We'll also look at ways to visualize these different types of data using <em>plots</em> (A word data
-scientists use interchangeably with the word <em>graph</em>).</p>
+<p>We'll also look at ways to visualize these different types of data using <em>plots</em> (A word data scientists use interchangeably with the word <em>graph</em>).</p>
 </li>
 <li>
-<p>Find the <em>History</em> tab in RStudio and click on it. Figure out how to use the information to reload the
-<code>cdc</code> data.</p>
+<p>Find the <em>History</em> tab in RStudio and click on it. Figure out how to use the information to reload the <code>cdc</code> data.</p>
 </li>
 </ul>
 <h3 id="variable-types"><strong>Variable Types</strong></h3>
@@ -2999,20 +3009,16 @@ scientists use interchangeably with the word <em>graph</em>).</p>
 <p>Categorical Variables have values that describe or categorize our observations.</p>
 </li>
 <li>
-<p><code>View</code> your <code>cdc</code> data and find the columns for <code>height</code> and <code>gender</code> (Use the <em>History</em> pane again if
-you need help to <code>View</code> your data).</p>
+<p><code>View</code> your <code>cdc</code> data and find the columns for <code>height</code> and <code>gender</code> (Use the <em>History</em> pane again if you need help to <code>View</code> your data).</p>
 <p>– <strong>Is <code>height</code> a numerical or categorical variable? Why?</strong></p>
 <p>– <strong>Is <code>gender</code> a numerical or categorical variable? Why?</strong></p>
-<p>– <strong>List either the different categories or what you think the measured units are for
-<code>height</code> and <code>gender</code>.</strong></p>
+<p>– <strong>List either the different categories or what you think the measured units are for <code>height</code> and <code>gender</code>.</strong></p>
 </li>
 </ul>
 <h3 id="which-is-which"><strong>Which is which?</strong></h3>
 <ul>
 <li>
-<p>Run the code you used in the previous lab to display the <code>names</code> of your <code>cdc</code> data's variables (Use
-the code displayed in the <em>History</em> pane to resubmit previously typed commands). Use the
-code's output to help you complete the following:</p>
+<p>Run the code you used in the previous lab to display the <code>names</code> of your <code>cdc</code> data's variables (Use the code displayed in the <em>History</em> pane to resubmit previously typed commands). Use the code's output to help you complete the following:</p>
 <p>– <strong>Write down 3 variables that you think are <em>categorical</em> variables and why.</strong></p>
 <p>– <strong>Write down 3 variables that you think are <em>numerical</em> variables and why.</strong></p>
 </li>
@@ -3021,8 +3027,7 @@ code's output to help you complete the following:</p>
 <ul>
 <li>
 <p>One way to get a good summary of your data is to look at the data's <em>structure</em>.</p>
-<p>– One way to view this info would be to click on the little blue arrow next to <code>cdc</code> in the
-<em>Environment</em> pane.</p>
+<p>– One way to view this info would be to click on the little blue arrow next to <code>cdc</code> in the <em>Environment</em> pane.</p>
 <p>– Another way would be to run the following in the console:</p>
 <pre><code>str(cdc)
 </code></pre>
@@ -3034,8 +3039,7 @@ code's output to help you complete the following:</p>
 <p><strong>List all the types of info the <code>str()</code> function outputs</strong></p>
 </li>
 <li>
-<p><strong>Were you able to correctly guess which variables were categorical and numeric? Which
-ones did you mis-label?</strong></p>
+<p><strong>Were you able to correctly guess which variables were categorical and numeric? Which ones did you mis-label?</strong></p>
 </li>
 </ul>
 <h3 id="visualizing-data"><strong>Visualizing data</strong></h3>
@@ -3043,14 +3047,33 @@ ones did you mis-label?</strong></p>
 <li>
 <p>Visualizing data is a really helpful way to learn about our variables.</p>
 <p>– Making a picture of the distribution of a variable is a good way to begin visualizing data.</p>
-<p>– Remember: A distribution gives us the values of the variable and tells us how many of
-these values we have in our data set.</p>
+<p>– Remember: A distribution gives us the values of the variable and tells us how many of these values we have in our data set.</p>
 </li>
 <li>
-<p>Choose one numeric and one categorical variable from the data and create both a <code>bargraph</code> and
-a <code>histogram</code> for each variable.</p>
-<p>– <strong>Which function, either <code>bargraph</code> or <code>histogram</code> is better at visualizing categorical
-variables? Which is better at visualizing numerical variables?</strong></p>
+<p>Choose one numeric and one categorical variable from the data and create both a <code>bargraph</code> and a <code>histogram</code> for each variable.</p>
+<p>– <strong>Which function, either <code>bargraph</code> or <code>histogram</code> is better at visualizing categorical variables? Which is better at visualizing numerical variables?</strong></p>
+</li>
+</ul>
+<h3 id="we-have-options"><strong>We have options</strong></h3>
+<ul>
+<li>
+<p><strong>Make a graph that shows the distribution of people’s weight.</strong></p>
+<p>– Describe the distribution of <code>weight</code>. Make sure to describe the shape, center and spread of the distribution.</p>
+</li>
+<li>
+<p>Options can be added to plotting functions to change their appearance. The code below includes the <code>nint</code> option which controls the number of intervals in a numerical plot.    </p>
+<p>– Type the command below on your console and then answer the questions that follow.</p>
+<pre><code>histogram(~weight, data = cdc, nint = 3)
+</code></pre>
+</li>
+<li>
+<p><strong>How did including the option <code>nint = 3</code> change the <code>histogram</code>?</strong></p>
+</li>
+<li>
+<p><strong>Does setting <code>nint = 3</code> impact how you would describe the shape, center and spread?</strong></p>
+</li>
+<li>
+<p><strong>Try other values for <code>nint</code>. What value produced the best graph? Why?</strong></p>
 </li>
 </ul>
 <h3 id="how-often-do-people-text-drive"><strong>How often do people text &amp; drive?</strong></h3>
@@ -3059,10 +3082,8 @@ variables? Which is better at visualizing numerical variables?</strong></p>
 <p>Make a graph that shows how often people in our data texted while driving.</p>
 <p>– <strong>What does the y-axis represent?</strong></p>
 <p>– <strong>What does the x-axis tell us?</strong></p>
-<p>– <strong>Would you say that <em>most</em> people <em>never</em> texted while driving? What does the word
-<em>most</em> mean?</strong></p>
-<p>– <strong>Approximately what percent of the people texted while driving for 20 or more
-days? (Hint: There's 15,624 students in our data.  </strong> </p>
+<p>– <strong>Would you say that <em>most</em> people <em>never</em> texted while driving? What does the word <em>most</em> mean?</strong></p>
+<p>– <strong>Approximately what percent of the people texted while driving for 20 or more days? (Hint: There's 13,677 students in our data.</strong> </p>
 </li>
 </ul>
 <h3 id="does-texting-and-driving-differ-by-gender"><strong>Does texting and driving differ by gender?</strong></h3>
@@ -3073,11 +3094,10 @@ days? (Hint: There's 15,624 students in our data.  </strong> </p>
 </code></pre>
 </li>
 <li>
-<p><strong>Write a sentence explaining how boys and girls differ in their use texting while driving.</strong></p>
+<p><strong>Write a sentence explaining how boys and girls differ when it comes to texting while driving.</strong></p>
 </li>
 <li>
-<p><strong>Would you say that most girls never text and drive? Would you say that most boys never
-text and drive?</strong></p>
+<p><strong>Would you say that most girls never text and drive? Would you say that most boys never text and drive?</strong></p>
 </li>
 <li>
 <p><strong>How did including the <code>groups</code> argument in your code change the graph?</strong></p>
@@ -3086,16 +3106,13 @@ text and drive?</strong></p>
 <h3 id="do-malesfemales-have-similar-heights"><strong>Do males/females have similar heights?</strong></h3>
 <ul>
 <li>
-<p>To answer this, what we'd like to do is visualize the distributions of heights, separately, for males
-and females.</p>
+<p>To answer this, what we'd like to do is visualize the distributions of heights, separately, for males and females.</p>
 <p>– This way, we can easily compare them.</p>
 </li>
 <li>
 <p>Use the <code>groups</code> argument to create a <code>histogram</code> for the <code>height</code> of males and females.</p>
-<p>– <strong>Can you use this graphic to answer the question at the top of the slide? Why or
-why not?</strong></p>
-<p>– <strong>Is grouping numeric values, such as heights, as helpful as grouping categorical
-variables, such as texting &amp; driving?</strong></p>
+<p>– <strong>Can you use this graphic to answer the question at the top of the slide? Why or why not?</strong></p>
+<p>– <strong>Is grouping numeric values, such as heights, as helpful as grouping categorical variables, such as texting &amp; driving?</strong></p>
 </li>
 </ul>
 <h3 id="do-malesfemales-have-similar-heights_1"><strong>Do males/females have similar heights?</strong></h3>
@@ -3105,30 +3122,25 @@ variables, such as texting &amp; driving?</strong></p>
 <p>– <strong>Why does this work for bargraphs but not for for histograms?</strong></p>
 </li>
 <li>
-<p>Fill in the blanks with the correct variables to create a split histogram (The " | " symbol is usually
-between the delete and enter keys on a keyboard) to answer the questions below:</p>
+<p>Fill in the blanks with the correct variables to create a split histogram (The " | " symbol is usually between the delete and enter keys on a keyboard) to answer the questions below:</p>
 <pre><code>histogram (~ ____ | ____ , data = ____ )
 </code></pre>
-<p>–</p>
 </li>
 <li>
-<p><strong>Do you think males &amp; females have similar heights? Use the plot you create to justify your
-answer.</strong></p>
+<p><strong>Do you think males &amp; females have similar heights? Use the plot you create to justify your answer.</strong></p>
 </li>
 <li>
-<p><strong>Just like we did for the histogram, is it possible to create a <em>split</em> bargraph? Try to create a
-bargraph of <code>drive_text</code> that's split by <code>gender</code> to find out.</strong></p>
+<p><strong>Just like we did for the histogram, is it possible to create a <em>split</em> bargraph? Try to create a bargraph of <code>drive_text</code> that's split by <code>gender</code> to find out.</strong></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own:</strong></h3>
 <ul>
 <li>
-<p>In this lab, we looked at boy's and girl's attitudes about using texting &amp; driving:</p>
+<p>In this lab, we looked at boy’s and girl’s texting &amp; driving habits:</p>
 </li>
 <li>
 <p><strong>What other factors do you think might affect how often people text and drive?</strong></p>
-<p>– <strong>Choose one variable from the <code>cdc</code> data, make a graph, and use the graph to
-describe how <code>drive_text</code> use differs with this variable.</strong></p>
+<p>– <strong>Choose one variable from the <code>cdc</code> data, make a graph, and use the graph to describe how <code>drive_text</code> use differs with this variable.</strong></p>
 </li>
 </ul>
                 
