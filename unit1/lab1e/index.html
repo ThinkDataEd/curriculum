@@ -2967,8 +2967,7 @@
 <p>– Plots are an excellent way to help your eye search for patterns.</p>
 </li>
 <li>
-<p>In this lab, we'll learn how to include more variables in our plots to make them more
-informative.</p>
+<p>In this lab, we'll learn how to include more variables in our plots to make them more informative.</p>
 </li>
 <li>
 <p>Import the data from your class' <em>Food Habits</em> campaign and name it <code>food</code>.</p>
@@ -2977,14 +2976,12 @@ informative.</p>
 <h3 id="wheres-the-variables"><strong>Where's the variables?</strong></h3>
 <p><img src="../../img/1xe0a.png" /></p>
 <ul>
-<li><strong>How many variables were used to create this plot? Which variables were used and
-how were they used?</strong></li>
+<li><strong>How many variables were used to create this plot? Which variables were used and how were they used?</strong></li>
 </ul>
 <h3 id="multiple-variable-plots"><strong>Multiple variable plots</strong></h3>
 <ul>
 <li>
-<p>The previous graph is an example of a <em>multiple variable plot</em>, which means that more than a
-single variable was used. In this case:</p>
+<p>The previous graph is an example of a <em>multiple variable plot</em>, which means that more than a single variable was used. In this case:</p>
 </li>
 <li>
 <p>Variable 1: <em>height</em></p>
@@ -2996,8 +2993,7 @@ single variable was used. In this case:</p>
 <p>Multiple variable plots are tools for finding <em>relationships</em> between data.</p>
 </li>
 <li>
-<p>Let's take our <code>food</code> data and make some new multiple variable plots you haven't created
-before!</p>
+<p>Let's take our <code>food</code> data and make some new multiple variable plots you haven't created before!</p>
 </li>
 </ul>
 <h3 id="scatterplots"><strong>Scatterplots</strong></h3>
@@ -3005,8 +3001,7 @@ before!</p>
 <h3 id="creating-scatterplots"><strong>Creating scatterplots</strong></h3>
 <ul>
 <li>
-<p>Scatterplots are useful for viewing how one <em>numerical</em> variable relates to another <em>numerical</em>
-variable.</p>
+<p>Scatterplots are useful for viewing how one <em>numerical</em> variable relates to another <em>numerical</em> variable.</p>
 </li>
 <li>
 <p>Fill in the blanks to create a scatterplot with <code>sodium</code> on the y-axis and <code>sugar</code> on the x-axis.</p>
@@ -3018,13 +3013,9 @@ variable.</p>
 <ul>
 <li>
 <p>Use a scatterplot to answer the following questions:</p>
-<p>– <strong>Do snacks that have more <code>calories</code> also have more <code>total_fat</code>? Why do you
-think that?</strong></p>
-<p>– <strong>What happens if you swap the <code>calories</code> and <code>total_fat</code> variables in your
-code? Does the relationship between the variables change?</strong></p>
-<p>– <strong>Does the relationship between <code>calories</code> and <code>total_fat</code> change when the
-snack is either <code>Salty</code> or <code>Sweet</code>? Write down the code you used to answer this
-question.</strong></p>
+<p>– <strong>Do snacks that have more <code>protein</code> also have more <code>calories</code>? Why do you think that?</strong></p>
+<p>– <strong>What happens if you swap the <code>protein</code> and <code>calories</code> variables in your code? Does the relationship between the variables change?</strong></p>
+<p>– <strong>Does the relationship between <code>protein</code> and <code>calories</code> change when the snack is either <code>Salty</code> or <code>Sweet</code>? Write down the code you used to answer this question.</strong></p>
 </li>
 </ul>
 <h3 id="4-variable-scatterplots"><strong>4-variable scatterplots</strong></h3>
@@ -3037,20 +3028,17 @@ question.</strong></p>
 <p>– Change the color of the points based on another categorical variable</p>
 </li>
 <li>
-<p>To change the color of our points, we can include the <code>groups</code> argument much like we did for
-bargraphs (use the <em>search</em> feature in the <em>History</em> pane if you need help).</p>
+<p>To change the color of our points, we can include the <code>groups</code> argument much like we did for bargraphs (use the <em>search</em> feature in the <em>History</em> pane if you need help).</p>
 </li>
 <li>
-<p><strong>Create a scatterplot that uses these 4 variables: <code>sodium</code>, <code>sugar</code>, <code>healthy_level</code>,
-<code>salty_sweet</code>.</strong></p>
+<p><strong>Create a scatterplot that uses these 4 variables: <code>sodium</code>, <code>sugar</code>, <code>cost</code>, <code>salty_sweet</code>.</strong></p>
 </li>
 </ul>
 <h3 id="multiple-facets"><strong>Multiple facets</strong></h3>
 <ul>
 <li>
 <p>It can sometimes be helpful to facet on more than 1 variable.</p>
-<p>– Splitting the the data using 2 facets can give us additional insights that might
-otherwise be hidden.</p>
+<p>– Splitting the data using 2 facets can give us additional insights that might otherwise be hidden.</p>
 </li>
 <li>
 <p>Create a <code>dotPlot</code> or <code>histogram</code> of the calories variable, but facet the data using:</p>
@@ -3058,17 +3046,25 @@ otherwise be hidden.</p>
 </code></pre>
 </li>
 <li>
-<p><strong>How does the <code>healthy_level</code> of a <code>Salty</code> or <code>Sweet</code> snack impact the number of
-<code>calories</code> in the snack?</strong></p>
+<p><strong>How does the <code>healthy_level</code> of a <code>Salty</code> or <code>Sweet</code> snack impact the number of <code>calories</code> in the snack?</strong></p>
+</li>
+<li>
+<p>Although we are treating <em>healthy_level</em> as a categorical variable, R recongizes it as a numerical variable.</p>
+<p>– Use the <em>str</em> command to confirm</p>
+<p>– Notice that the faceted <em>histograms</em> or <em>dotPlots</em> do not have labels but rather tick-marks</p>
+<p>– You will have the opportunity to convert the <em>healthy_level</em> variable into a factor later on</p>
+</li>
+<li>
+<p>Faceting your data on a numerical variable is NOT recommended</p>
+<p>– Numerical variables often have so many different values that they overwhelm the plot and make it hard to read</p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
 <p>Answer the following questions by creating an appropriate graph or graphs.</p>
-<p>– <strong>Do healthier snacks <code>cost</code> more or less than less healthy snacks?</strong></p>
-<p>– <strong>What other variables seem to be related to the <code>cost</code> of a snack? Describe their
-relationships.</strong></p>
+<p>– <strong>Do healthier snacks have more or less <code>ingredients</code> than less healthy snacks?</strong></p>
+<p>– <strong>What other variables seem to be related to the number of <code>ingredients</code> of a snack? Describe their relationships.</strong></p>
 </li>
 </ul>
                 
