@@ -748,8 +748,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#one-final-option" class="md-nav__link">
-    One final option
+  <a href="#conditional-relative-frequencies" class="md-nav__link">
+    Conditional Relative Frequencies
   </a>
   
 </li>
@@ -2889,8 +2889,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#one-final-option" class="md-nav__link">
-    One final option
+  <a href="#conditional-relative-frequencies" class="md-nav__link">
+    Conditional Relative Frequencies
   </a>
   
 </li>
@@ -2932,23 +2932,20 @@
 <ul>
 <li>
 <p>In <a href="../lab1f/">Lab 1F</a>, we saw how we could <em>clean</em> data to make it easier to use and analyze.</p>
-<p>– Using the data you cleaned, we can start analyzing a small set of variables from the
-American Time Use (ATU) survey.</p>
+<p>– You cleaned a small set of variables from the American Time Use (ATU) survey.</p>
 <p>– The process of cleaning and then analyzing data is <em>very</em> common in Data Science.</p>
 </li>
 <li>
-<p>In this lab, we'll learn how we can create frequency tables to detect relationships between
-categorical variables.</p>
+<p>In this lab, we'll learn how we can create frequency tables to detect relationships between categorical variables.</p>
+<p>– For the sake of consistency, rather than using the data that you cleaned, you will use the pre-loaded ATU data.</p>
 <p>– Use the <code>data()</code> function to load the <code>atu_clean</code> data file to use in this lab.</p>
 </li>
 </ul>
 <h3 id="how-do-we-summarize-categorical-variables"><strong>How do we summarize categorical variables?</strong></h3>
 <ul>
 <li>
-<p>When we're dealing with categorical variables, we can't just calculate an <strong>average</strong> to
-describe a <em>typical</em> value.</p>
-<p>– (Honestly, what's the average of categories <em>orange</em>, <em>apple</em> and <em>banana</em>, for
-instance?)</p>
+<p>When we're dealing with categorical variables, we can't just calculate an <strong>average</strong> to describe a <em>typical</em> value.</p>
+<p>– (Honestly, what's the average of categories <em>orange</em>, <em>apple</em> and <em>banana</em>, for instance?)</p>
 </li>
 <li>
 <p>When trying to describe categorical variables with numbers, we calculate <strong>frequency tables</strong></p>
@@ -2957,12 +2954,10 @@ instance?)</p>
 <h3 id="frequency-tables"><strong>Frequency tables?</strong></h3>
 <ul>
 <li>
-<p>When it comes to categories, about all you can do is <em>count</em> or <em>tally</em> how often each category
-comes up in the data.</p>
+<p>When it comes to categories, about all you can do is <em>count</em> or <em>tally</em> how often each category comes up in the data.</p>
 </li>
 <li>
-<p>Fill in the blanks below to answer the following: <strong>How many more <em>females</em> than <em>males</em> are
-there in our ATU data??</strong></p>
+<p>Fill in the blanks below to answer the following: <strong>How many more <em>females</em> than <em>males</em> are there in our ATU data?</strong></p>
 <pre><code>tally(~ ____, data = ____)
 </code></pre>
 </li>
@@ -2970,60 +2965,92 @@ there in our ATU data??</strong></p>
 <h3 id="2-way-frequency-tables"><strong>2-way Frequency Tables</strong></h3>
 <ul>
 <li>
-<p>Counting the categories of a single variable is nice, but often times we want to make
-comparisons.</p>
+<p>Counting the categories of a single variable is nice, but often times we want to make comparisons.</p>
 </li>
 <li>
-<p>Use a line of code, that's similar to how we facet plots, to tally the number of people with
-physical challenges and their genders.</p>
-<p>– <strong>Does one <code>gender</code> seem to have a higher occurrence of physical challenges
-than the other? If so, which one and explain your reasoning?</strong></p>
+<p>For example, what if we wanted to answer the question:</p>
+<p>– <strong>Does one <code>gender</code> seem to have a higher occurrence of physical challenges than the other? If so, which one and explain your reasoning?</strong></p>
+</li>
+<li>
+<p>We could use the following plot to try and answer this question:</p>
+<pre><code>bargraph(~phys_challenge | gender, data = atu_clean)
+</code></pre>
+</li>
+</ul>
+<p><img src="../../img/1xg0a.png" /></p>
+<ul>
+<li>
+<p>The split bargraph helps us get an idea of the answer to the question, but we need to provide precise values.</p>
+</li>
+<li>
+<p><strong>Use a line of code, that’s similar to how we facet plots, to obtain a tally of the number of people with physical challenges and their genders.</strong></p>
 </li>
 </ul>
 <h3 id="interpreting-2-way-frequency-tables"><strong>Interpreting 2-way frequency tables</strong></h3>
 <ul>
 <li>
 <p>Recall that there were 1153 more women than men in our data set.</p>
-<p>– If there are more women, then we might expect women to have more physical
-challenges (compared to men).</p>
+<p>– If there are more women, then we might expect women to have more physical challenges (compared to men).</p>
 </li>
 <li>
 <p>Instead of using <em>counts</em> we use <em>percentages</em>.</p>
 </li>
 <li>
-<p>Include: <code>format = "percent"</code> as option to the code you used to make your 2-way
-frequency table. Then answer this question again:</p>
-<p>– <strong>Does one <code>gender</code> seem to have a higher occurence of physical challenges
-than the other? If so, which one and explain your reasoning?</strong></p>
+<p>Include: <code>format = "percent"</code> as an option to the code you used to make your 2-way frequency table. Then answer this question again:</p>
+<p>– <strong>Does one <code>gender</code> seem to have a higher occurrence of physical challenges than the other? If so, which one and explain your reasoning?</strong></p>
 <p>– <strong>Did your answer change from before? Why?</strong></p>
 </li>
+<li>
+<p>It’s often helpful to display totals in our 2-way frequency tables.</p>
+<p>– To include them, include <code>margins = TRUE</code> as an option in the tally function.</p>
+</li>
 </ul>
-<h3 id="one-final-option"><strong>One final option</strong></h3>
+<h3 id="conditional-relative-frequencies"><strong>Conditional Relative Frequencies</strong></h3>
 <ul>
 <li>
-<p>It's often helpful to display totals in our 2-way frequency tables.</p>
-<p>– To include them, include <code>margins = TRUE</code> as an option in the tally function.</p>
+<p>There is as difference between <code>phys_challenge | gender</code> and <code>gender | phys_challenge</code>.</p>
+<pre><code>tally(~phys_challenge | gender, data = atu_clean, margin = TRUE)
+
+##                 gender
+## phys_challenge   Male Female
+##   No difficulty  4140   5048
+##   Has difficulty  530    775
+##   Total          4670   5823
+
+tally(~gender | phys_challenge, data = atu_clean, margin = TRUE)
+
+##         phys_challenge
+## gender   No difficulty Has difficulty
+##   Male            4140            530
+##   Female          5048            775
+##   Total           9188           1305
+</code></pre>
+</li>
+<li>
+<p>At first glance, the two-way frequency tables might look similar (especially when the <code>margin</code> option is excluded). Notice, however, that the totals are different.</p>
+</li>
+<li>
+<p>The totals are telling us that <code>R</code> calculates conditional frequencies by column!</p>
+</li>
+<li>
+<p>What does this mean?        </p>
+<p>– In the first two-way frequency table the groups being compared are <code>Male</code> and <code>Female</code> on the distribution of physical challenges.</p>
+<p>– In the second two-way frequency table the groups being compared are the people with <code>No difficulty</code> and those that <code>Has difficulty</code> on the distribution of gender.</p>
+</li>
+<li>
+<p><strong>Add the option <code>format = "percent"</code> to the first tally function. How were the percents calculated? Interpret what they mean.</strong></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p><strong>Describe what happens if you create a 2-way frequency table with a numerical
-variable and a categorical variable.</strong></p>
+<p><strong>Describe what happens if you create a 2-way frequency table with a numerical variable and a categorical variable.</strong></p>
 </li>
 <li>
-<p><strong>How are the types of statistical questions that 2-way frequency tables can answer
-different than 1-way frequency tables?</strong></p>
+<p><strong>How are the types of statistical questions that 2-way frequency tables can answer different than 1-way frequency tables?</strong></p>
 </li>
 <li>
 <p><strong>Which gender has a higher rate of <em>part time employment</em>?</strong></p>
-</li>
-<li>
-<p><strong>Does one gender socialize more than the other? To answer this question first:</strong></p>
-<p>– <strong>Create a subset of the ATU data that includes only people who socialized
-more than 0 minutes.</strong></p>
-<p>– <strong>Create a <code>histogram</code> and include <code>type = "percent"</code> as an option in the
-function.</strong></p>
 </li>
 </ul>
                 
