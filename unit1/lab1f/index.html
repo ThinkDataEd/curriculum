@@ -788,6 +788,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#flex-your-skills" class="md-nav__link">
+    Flex your skills
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -3028,6 +3035,13 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#flex-your-skills" class="md-nav__link">
+    Flex your skills
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
@@ -3087,8 +3101,7 @@
 <p>– <em>"blue"</em>, <em>"Blue"</em>, <em>"blu"</em>, ...</p>
 </li>
 <li>
-<p>Numerical variables might have been <em>input incorrectly</em>. For example, if we're talk about people's
-height in inches:</p>
+<p>Numerical variables might have been <em>input incorrectly</em>. For example, if we're talk about people's height in inches:</p>
 <p>– <em>64.7</em>, <em>6.86</em>, <em>676</em>, ...</p>
 </li>
 <li>
@@ -3099,17 +3112,13 @@ height in inches:</p>
 <h3 id="the-american-time-use-survey"><strong>The American Time Use Survey</strong></h3>
 <ul>
 <li>
-<p>To show you what <em>dirty</em> data looks like, we'll check out the <em>American Time Use Survey</em>, or <em>ATU</em>
-survey.</p>
+<p>To show you what <em>dirty</em> data looks like, we'll check out the <em>American Time Use Survey</em>, or <em>ATU</em> survey.</p>
 </li>
 <li>
 <p>What is ATU survey?</p>
-<p>– It's a survey conducted by the US government (Specifically the Bureau of Labor
-Statistics).</p>
-<p>– They survey thousands of people to find out exactly what activities they do throughout a
-single day.</p>
-<p>– These thousands of people combined together give an idea about how much time the
-typical person living in the US spends doing various activites.</p>
+<p>– It's a survey conducted by the US government (Specifically the Bureau of Labor Statistics).</p>
+<p>– They survey thousands of people to find out exactly what activities they do throughout a single day.</p>
+<p>– These thousands of people combined together give an idea about how much time the typical person living in the US spends doing various activites.</p>
 </li>
 </ul>
 <h3 id="load-and-go"><strong>Load and go:</strong></h3>
@@ -3148,10 +3157,8 @@ View(atu_dirty)
 </code></pre>
 </li>
 <li>
-<p><strong>Use the example code and the variable information on the previous slide to rename the
-rest of the variables in <code>atu_dirty</code>.</strong></p>
-<p>– Names should be short, contain no spaces and describe what the variable is related to.
-So use abbreviations to your heart's content.</p>
+<p><strong>Use the example code and the variable information on the previous slide to rename the rest of the variables in <code>atu_dirty</code>.</strong></p>
+<p>– Names should be short, contain no spaces and describe what the variable is related to. So use abbreviations to your heart's content.</p>
 </li>
 </ul>
 <h3 id="next-up-strings"><strong>Next up: Strings</strong></h3>
@@ -3184,8 +3191,7 @@ So use abbreviations to your heart's content.</p>
 </li>
 <li>
 <p>Look at the <code>str</code>ucture of your data and the variable descriptions from a few slides back:</p>
-<p>– <strong>Write down the variables that should be <em>numeric</em> but are improperly coded as
-<em>strings</em> or <em>characters</em>.</strong></p>
+<p>– <strong>Write down the variables that should be <em>numeric</em> but are improperly coded as <em>strings</em> or <em>characters</em>.</strong></p>
 </li>
 </ul>
 <h3 id="changing-strings-into-numbers"><strong>Changing strings into numbers</strong></h3>
@@ -3207,28 +3213,24 @@ So use abbreviations to your heart's content.</p>
 <h3 id="mutating-in-action"><strong>Mutating in action</strong></h3>
 <ul>
 <li>
-<p>Look at the variables you thought should be <em>numeric</em> and select one. Then fill in the blanks below
-to see how we can correctly code it as a number:</p>
+<p>Look at the variables you thought should be <em>numeric</em> and select one. Then fill in the blanks below to see how we can correctly code it as a number:</p>
 <pre><code>atu_cleaner &lt;- mutate(atu_cleaner,
         age = as.numeric(age),
         ___ = as.numeric(___))
 </code></pre>
 </li>
 <li>
-<p><strong>Once you have this code working, use a similar line of code to correctly code the other
-<em>numeric</em> variables as numbers.</strong></p>
+<p><strong>Once you have this code working, use a similar line of code to correctly code the other <em>numeric</em> variables as numbers.</strong></p>
 </li>
 </ul>
 <h3 id="deciphering-categorical-variables"><strong>Deciphering Categorical Variables</strong></h3>
 <ul>
 <li>
 <p>We mentioned earlier that we sometimes code categorical variables as numbers.</p>
-<p>– For example, our gender variable uses <code>"01"</code> and <code>"02"</code> for <code>"Male"</code> and <code>"Female"</code>,
-respectively.</p>
+<p>– For example, our gender variable uses <code>"01"</code> and <code>"02"</code> for <code>"Male"</code> and <code>"Female"</code>, respectively.</p>
 </li>
 <li>
-<p>It's often much easier to analyze and interpret when we use more descriptive categories, such as
-<code>"Male"</code> and <code>"Female"</code>.</p>
+<p>It's often much easier to analyze and interpret when we use more descriptive categories, such as <code>"Male"</code> and <code>"Female"</code>.</p>
 </li>
 </ul>
 <h3 id="factors-and-levels"><strong>Factors and Levels</strong></h3>
@@ -3246,15 +3248,13 @@ respectively.</p>
 </code></pre>
 </li>
 <li>
-<p><strong>Use similar code as we used above to write down the levels for the three factors in our
-data.</strong></p>
+<p><strong>Use similar code as we used above to write down the levels for the three factors in our data.</strong></p>
 </li>
 </ul>
 <h3 id="a-level-by-any-other-name"><strong>A level by any other name...</strong></h3>
 <ul>
 <li>
-<p>If we know that <code>'01'</code> means <code>'Male'</code> and <code>'02'</code> means <code>'Female'</code> then we can use the following code to
-recode the <em>levels</em> of <em>gender</em>.</p>
+<p>If we know that <code>'01'</code> means <code>'Male'</code> and <code>'02'</code> means <code>'Female'</code> then we can use the following code to recode the <em>levels</em> of <em>gender</em>.</p>
 </li>
 <li>
 <p>Type the following command into your console:</p>
@@ -3287,8 +3287,7 @@ recode the <em>levels</em> of <em>gender</em>.</p>
 <h3 id="finish-it-off"><strong>Finish it off!</strong></h3>
 <ul>
 <li>
-<p><strong>Recode the categorical variable about whether the person surveyed had a physical
-challenge or not. The coding is currently:</strong></p>
+<p><strong>Recode the categorical variable about whether the person surveyed had a physical challenge or not. The coding is currently:</strong></p>
 <p>– <code>"01"</code>: Person surveyed <em>did not</em> have a physical challenge.</p>
 <p>– <code>"02"</code>: Person surveyed <em>did</em> have a physical challenge.</p>
 </li>
@@ -3302,14 +3301,61 @@ challenge or not. The coding is currently:</strong></p>
 <h3 id="the-final-lines"><strong>The final lines</strong></h3>
 <ul>
 <li>
-<p>The last few lines of your script to clean and then save your American Time Use data might look
-like:</p>
-<pre><code>atu_clean &lt;- atu_cleaner
-save(atu_clean, file = "atu_clean.Rda")
-</code></pre>
+<p>The last few lines of your script are extremely important because they will save all of your work.</p>
 </li>
 <li>
-<p>Be sure to <code>View</code> your data to make sure it looks clean and tidy before saving.</p>
+<p>Be sure to <code>View</code> your data and check its <code>str</code>ucture to make sure it looks clean and tidy before saving.</p>
+</li>
+</ul>
+<p>Run the code below:</p>
+<pre><code>    atu_clean &lt;- atu_cleaner
+</code></pre>
+<ul>
+<li>
+<p>This code will create a new data frame in your <em>Environment</em> called atu_clean which is a final copy of atu_cleaner</p>
+<p>– If atu_clean is swept from your <em>Environment</em> all of the changes you made will NOT be saved</p>
+<p>– You would need to re-run the script to clean the data again</p>
+</li>
+<li>
+<p>To permanently save your changes you need to save the file as an R data file or <code>.Rda</code></p>
+</li>
+</ul>
+<p>Run the code below:</p>
+<pre><code>    save(atu_clean, file = "atu_clean.Rda")
+</code></pre>
+<ul>
+<li>
+<p>Look in your <em>Files</em> pane for the <em>atu_clean.Rda</em> file</p>
+<p>– This is as permanent copy of your clean atu data</p>
+<p>– To load the data onto your <em>Environment</em> click on the file</p>
+<p>– A pop-up window confirming the upload will appear</p>
+</li>
+</ul>
+<h3 id="flex-your-skills"><strong>Flex your skills</strong></h3>
+<ul>
+<li>Now that you have learned some cleaning data basics, it’s time to revisit the <code>food</code> data.</li>
+</ul>
+<p>Run the code below:</p>
+<pre><code>    histogram(~calories | healthy_level, data = food)
+</code></pre>
+<ul>
+<li>
+<p><strong>Use the <code>as.factor()</code> function to convert <code>healthy_level</code> into a categorical variable and re-run the <code>histogram</code> function.</strong></p>
+<p>– Notice that the <code>healthy_level</code> categories are now numbers as opposed to tick-marks. This is an improvement but an even better solution would be to <code>recode</code> the categories.</p>
+</li>
+<li>
+<p><strong>Recode the <code>healthy_level</code> categories and re-run the <code>histogram</code> function.</strong></p>
+<p>– "1" = "Very Unhealthy"</p>
+<p>– "2" = "Unhealthy"</p>
+<p>– "3" = "Neutral"</p>
+<p>– "4" = "Healthy"</p>
+<p>– "5" = "Very Healthy"</p>
+</li>
+<li>
+<p>If your <code>food</code> data is cleared from your <code>Environment</code>, the changes that you made to the <code>healthy_level</code> variable will not be saved.</p>
+</li>
+<li>
+<p>To save your changes permanently save your <code>food</code> file as an R data file.</p>
 </li>
 </ul>
                 
