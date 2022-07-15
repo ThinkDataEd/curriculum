@@ -133,7 +133,7 @@ group during step 7. Do the descriptions match what the students originally thou
 accurate are the descriptions? If time allows, ask a couple of students to share their comparisons.
 
 18. Students will now record their data by completing the *Personality Color* campaign on the UCLA
-[IDS UCLA App](../download/app.md) or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
+[IDS UCLA App](../download/app.md) or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
@@ -141,4 +141,4 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 If not finished in class, students should complete the *Personality Color* survey either through the UCLA
-[IDS UCLA App](../download/app.md) or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
+[IDS UCLA App](../download/app.md) or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")

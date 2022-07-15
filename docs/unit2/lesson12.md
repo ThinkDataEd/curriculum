@@ -47,7 +47,7 @@ certain times of the day.
 
 8. Students will collect data using the *Stress/Chill* Participatory Sensing campaign. They will add the
 *Stress/Chill* campaign to their list of available campaigns either through the UCLA [IDS UCLA App](../download/app.md)
-or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
+or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
 
 9. Ask students to complete their first survey.
 
@@ -79,4 +79,4 @@ of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 For the next 6 days, students will collect data for the *Stress/Chill* campaign either through the UCLA [IDS
-UCLA](../download/app.md) App or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
+UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")

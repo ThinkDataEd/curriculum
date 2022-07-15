@@ -185,7 +185,7 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 For the next 3 days, students will collect data for the *Stress/Chill* campaign either through the UCLA [IDS
-UCLA](../download/app.md) App or via web browser at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
+UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
 
 [<u>***LAB 2F: The Titanic Shuffle***</u>](lab2f.md)
 

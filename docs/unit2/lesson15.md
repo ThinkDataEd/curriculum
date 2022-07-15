@@ -97,7 +97,7 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Students will collect data for one more day for the *Stress/Chill* campaign either through the UCLA [IDS
-UCLA](../download/app.md) App or via web browser at https://tools.idsucla.org
+UCLA](../download/app.md) App or via web browser at https://portal.idsucla.org
 
 [<u>***LAB 2G: Getting it Together***</u>](lab2g.md)
 
