@@ -415,7 +415,7 @@
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Practicum: <a href="../unit2/practicum1">The Summaries</a></td>
-    <td class="tg-zv4m">Food Habits or Time Use</td>
+    <td class="tg-zv4m">Food Habits or Personality Color</td>
     <td class="tg-zv4m">Statistical questions, comparing distributions</td>
     <td class="tg-8jgo"><a href="../unit2/practicum1">146</a></td>
   </tr>

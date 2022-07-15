@@ -1,21 +1,21 @@
 ##***<u>Practicum: The Summaries</u>***
 
 ###**Objective:**
-Students will engage in their first statistical investigation using the Data Cycle. They will pose a statistical
+Students will engage in their first statistical investigation using the Data Cycle. They will pose a statistical investigative
 question based on a data set from a Participatory Sensing campaign, analyze, and interpret the data.
 
 ###**Materials:**
 1. The Summaries Practicum ([LMR_U2_Practicum_The Summaries](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_U2_Practicum_The Summaries.pdf))
 
 **<u>Note to Teacher</u>**: Before assigning the practicum to your students, engage the class in a discussion
-about the sample statistical questions below. Guide the discussion so that students identify not only the
+about the sample statistical investigative questions below. Guide the discussion so that students identify not only the
 groups being compared in each question, but also what is being compared about the groups. Remind
 them of the Data Cycle from [Unit 1](../unit1/overview.md).
 
 <img src="../../img/2xp0a.png" />
 
-Using the *Food Habits* campaign data or *Personality Color* survey data, develop a new statistical question
-that compares two or more groups. Some sample statistical questions (about other data sets) are below:
+Using the *Food Habits* campaign data or *Personality Color* survey data, develop a new statistical investigative question
+that compares two or more groups. Some sample statistical investigative questions (about other data sets) are below:
 
 * Which gender shows a bigger range in age, male or female Oscar winners?
 
@@ -41,7 +41,7 @@ that compares two or more groups. Some sample statistical questions (about other
 
     ***Variable: daily maximum temperature***
 
-Remember, a statistical question is one that anticipates variability in the question and then addresses the
+Remember, a statistical investigative question is one that anticipates variability in the question and then addresses the
 variability in the answer:
 
 Based on the data you chose (*Food Habits* or *Personality Color*), you need to:

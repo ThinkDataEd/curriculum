@@ -20,9 +20,9 @@ Upon completing this campaign, students will have compared groups and gained an 
 variability within and between groups. They will have learned how to conduct and use permutations to
 model variability, perform informal inference, and how to do simulations to make predictions.
 
-###**3. Survey Questions:** (students will enter data for the activities in which they participated only):
+###**3. Survey Questions:**:
 
-Use a random number generator to generate two random times a day for the next 5 days, including a
+Use a random number generator to generate two random times a day for the next 6 days, including a
 weekend if possible. If a time falls within the school day, it is up to the discretion of the teacher to use
 this time or not.
 
