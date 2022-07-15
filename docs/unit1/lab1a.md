@@ -17,7 +17,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – The CDC is a federal institution that studies public health.
 
-* Type these two commands into the your console:
+* Type these two commands into your console:
 
         data(cdc)
         View(cdc)
@@ -29,21 +29,33 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – **What sorts of information about them was collected?**
 
+* To find out more information about the ```cdc``` data, type the command below into your console.
+
+    – To get back to the slides find and click on the *Viewer* tab.
+
+        ?cdc
+
 ###**Data: Variables & Observations**
 
 * Data can be broken up into two parts.
 
-    `1. Observations
+    `1. *Observations*
 
-    `2. Variables
+    `2. *Variables*
+
+    – *Observations* are the *who* or *what* we are collecting data from/about.
+
+    – *Variables* are the measurements or characteristics about our *observations*.
 
 * If need be, re-type the command you used to ```View``` your data. Then answer the following:
 
-    – **How are our *observations* represented in our data?**
+    – **Based on the data, describe a few characteristics about the first observation.**
 
     – **What does the first column tell us about our observations?**
 
-    – **How often did our first observation wear a seatbelt while riding in a car?**
+* In order to describe the first observation, notice that you had to look at the first row of the spreadsheet. Each row, in this case, describes a person.
+
+* The columns of the spreadsheet represent variables.
 
 ###**Uncovering our Data's Structure**
 
@@ -79,14 +91,15 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * Coding is all about learning how to send instructions to your computer.
 
-    – We call the way we *speak* to the coding language, *syntax*.
+    – The way we *speak* to the computer, using a coding language, *syntax*.
+
+* ```R``` is one of many coding languages. Each coding language is slightly different, and these differences are reflected in the syntax.    
 
 * *Capitalization*, *spelling* and *punctuation* are REALLY important.
 
 ###**Syntax matters**
 
-* **Run the following commands and write down what happens after each. Which does R
-understand?**
+* **Run the following commands and write down what happens after each. Which does R understand?**
 
         Names(cdc)
         NAMES(cdc)
@@ -95,18 +108,37 @@ understand?**
 
 ###**R's most important syntax**
 
-    function (y~x, data = ____ )
+* Most of the commands you will be using follow the syntax below:
 
-* Search through the different panes. Find and then click on the *Plots* tab.
+        function (y~x, data = ____ )
 
-    – To get back to the slides, find and then click on the *Viewer* tab.
+* To create graphs or plots you need to provide ```R``` with the following:
+
+    – The name of the R function, often the plot’s name, that tells the computer how to create your graph.
+
+    - The variable(s) containing the information we want the function to use.
+
+    - The data set containing the variables.
+
+* Notice that when we analyze a single variable the value for *y* is left blank.
+
+        bargraph(~grade, data = cdc)
+
+<img src="../../img/1xa0a.png" />
+
+* Later on, we’ll see we can use this syntax to do more than create graphs.
 
 ###**Syntax in action**
 
-    function (y~x, data = ____ )
+        function (y~x, data = ____ )
 
-* **Which one of these plots would be useful for answering the question: *Is it unusual for
-students in the CDC dataset to be taller than 1.8 meters?* **
+* Search through the different panes. Find and then click on the *Plots* tab.
+
+    - To get back to the slides, find and then click on the *Viewer* tab.
+
+* **Which one of these plots would be useful for answering the question: *Is it unusual for students in the CDC dataset to be taller than 1.8 meters?* **
+
+* Run the three commands below then answer the question that follows.
 
         histogram(~height, data = cdc)
 
@@ -114,8 +146,9 @@ students in the CDC dataset to be taller than 1.8 meters?* **
 
         xyplot(weight~height, data = cdc)
 
-* **Do you think it's unusual for students in the data to be taller than 1.8 meters? Why or why
-not?**
+* **Do you think it’s unusual for students in the data to be taller than 1.8 meters? Why or why not?**
+
+    - Hint: Use the arrow keys on the *Plots* tab to toggle between the plots.
 
 ###**On your own:**
 
@@ -131,6 +164,4 @@ not?**
     – **Write the code to visualize the distribution of weights of the students in the CDC
     data with a histogram. What is the *typical* weight?**
 
-    – **Write the code to create a barplot to visualize the distribution of how often
-    students wore a helmet while bike riding. About how many students never wore
-    a helmet?**
+    – **Write the code to create a bargraph to visualize the distribution of how often students ate fruit. About how many students did not eat fruit over the previous 7 days?**

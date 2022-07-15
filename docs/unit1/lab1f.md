@@ -29,8 +29,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – *"blue"*, *"Blue"*, *"blu"*, ...
 
-* Numerical variables might have been *input incorrectly*. For example, if we're talk about people's
-height in inches:
+* Numerical variables might have been *input incorrectly*. For example, if we're talk about people's height in inches:
 
     – *64.7*, *6.86*, *676*, ...
 
@@ -39,19 +38,15 @@ height in inches:
     – "64.7", "68.6", "67.6"
 
 ###**The American Time Use Survey**
-* To show you what *dirty* data looks like, we'll check out the *American Time Use Survey*, or *ATU*
-survey.
+* To show you what *dirty* data looks like, we'll check out the *American Time Use Survey*, or *ATU* survey.
 
 * What is ATU survey?
 
-    – It's a survey conducted by the US government (Specifically the Bureau of Labor
-    Statistics).
+    – It's a survey conducted by the US government (Specifically the Bureau of Labor Statistics).
 
-    – They survey thousands of people to find out exactly what activities they do throughout a
-    single day.
+    – They survey thousands of people to find out exactly what activities they do throughout a single day.
 
-    – These thousands of people combined together give an idea about how much time the
-    typical person living in the US spends doing various activites.
+    – These thousands of people combined together give an idea about how much time the typical person living in the US spends doing various activites.
 
 ###**Load and go:**
 * Type the following commands into your console:
@@ -88,11 +83,9 @@ survey.
         atu_cleaner <- rename(atu_dirty, age = V1,
                     gender = V2)   
 
-* **Use the example code and the variable information on the previous slide to rename the
-rest of the variables in ```atu_dirty```.**
+* **Use the example code and the variable information on the previous slide to rename the rest of the variables in ```atu_dirty```.**
 
-    – Names should be short, contain no spaces and describe what the variable is related to.
-    So use abbreviations to your heart's content.
+    – Names should be short, contain no spaces and describe what the variable is related to. So use abbreviations to your heart's content.
 
 ###**Next up: Strings**
 * In programming, a *string* is sort of like a *word*.
@@ -119,8 +112,7 @@ rest of the variables in ```atu_dirty```.**
 
 * Look at the ```str```ucture of your data and the variable descriptions from a few slides back:
 
-    – **Write down the variables that should be *numeric* but are improperly coded as
-    *strings* or *characters*.**
+    – **Write down the variables that should be *numeric* but are improperly coded as *strings* or *characters*.**
 
 ###**Changing strings into numbers**
 * To fix this problem, we need to tell R to think of our *numeric* variables as numeric variables.
@@ -135,25 +127,21 @@ rest of the variables in ```atu_dirty```.**
 * Notice: We started with a string, ```"3.14"```, but ```as.numeric``` was able to turn it back into a number.
 
 ###**Mutating in action**
-* Look at the variables you thought should be *numeric* and select one. Then fill in the blanks below
-to see how we can correctly code it as a number:
+* Look at the variables you thought should be *numeric* and select one. Then fill in the blanks below to see how we can correctly code it as a number:
 
         atu_cleaner <- mutate(atu_cleaner,
                 age = as.numeric(age),
                 ___ = as.numeric(___))
 
 
-* **Once you have this code working, use a similar line of code to correctly code the other
-*numeric* variables as numbers.**
+* **Once you have this code working, use a similar line of code to correctly code the other *numeric* variables as numbers.**
 
 ###**Deciphering Categorical Variables**
 * We mentioned earlier that we sometimes code categorical variables as numbers.
 
-    – For example, our gender variable uses ```"01"``` and ```"02"``` for ```"Male"``` and ```"Female"```,
-    respectively.
+    – For example, our gender variable uses ```"01"``` and ```"02"``` for ```"Male"``` and ```"Female"```, respectively.
 
-* It's often much easier to analyze and interpret when we use more descriptive categories, such as
-```"Male"``` and ```"Female"```.
+* It's often much easier to analyze and interpret when we use more descriptive categories, such as ```"Male"``` and ```"Female"```.
 
 ###**Factors and Levels**
 * R has a special name for *categorical* variables, called *factors*.
@@ -166,12 +154,10 @@ to see how we can correctly code it as a number:
 
         tally(~gender, data = atu_cleaner)
 
-* **Use similar code as we used above to write down the levels for the three factors in our
-data.**
+* **Use similar code as we used above to write down the levels for the three factors in our data.**
 
 ###**A level by any other name...**
-* If we know that ```'01'``` means ```'Male'``` and ```'02'``` means ```'Female'``` then we can use the following code to
-recode the *levels* of *gender*.
+* If we know that ```'01'``` means ```'Male'``` and ```'02'``` means ```'Female'``` then we can use the following code to recode the *levels* of *gender*.
 
 * Type the following command into your console:
 
@@ -203,8 +189,7 @@ recode the *levels* of *gender*.
     – and ```"02"``` will now be ```"Female"```.
 
 ###**Finish it off!**
-* **Recode the categorical variable about whether the person surveyed had a physical
-challenge or not. The coding is currently:**
+* **Recode the categorical variable about whether the person surveyed had a physical challenge or not. The coding is currently:**
 
     – ```"01"```: Person surveyed *did not* have a physical challenge.
 
@@ -219,10 +204,57 @@ challenge or not. The coding is currently:**
     (3) Saves a copy of the cleaned data (see next slide).
 
 ###**The final lines**
-* The last few lines of your script to clean and then save your American Time Use data might look
-like:
+* The last few lines of your script are extremely important because they will save all of your work.
+
+* Be sure to ```View``` your data and check its ```str```ucture to make sure it looks clean and tidy before saving.
+
+Run the code below:
 
         atu_clean <- atu_cleaner
+
+* This code will create a new data frame in your *Environment* called atu_clean which is a final copy of atu_cleaner
+
+    – If atu_clean is swept from your *Environment* all of the changes you made will NOT be saved
+
+    – You would need to re-run the script to clean the data again
+
+* To permanently save your changes you need to save the file as an R data file or ```.Rda```
+
+Run the code below:
+
         save(atu_clean, file = "atu_clean.Rda")
 
-* Be sure to ```View``` your data to make sure it looks clean and tidy before saving.
+* Look in your *Files* pane for the *atu_clean.Rda* file
+
+    – This is as permanent copy of your clean atu data
+
+    – To load the data onto your *Environment* click on the file
+
+    – A pop-up window confirming the upload will appear
+
+###**Flex your skills**
+* Now that you have learned some cleaning data basics, it’s time to revisit the ```food``` data.
+
+Run the code below:
+
+        histogram(~calories | healthy_level, data = food)
+
+* **Use the ```as.factor()``` function to convert ```healthy_level``` into a categorical variable and re-run the ```histogram``` function.**
+
+    – Notice that the ```healthy_level``` categories are now numbers as opposed to tick-marks. This is an improvement but an even better solution would be to ```recode``` the categories.
+
+* **Recode the ```healthy_level``` categories and re-run the ```histogram``` function.**
+
+    – "1" = "Very Unhealthy"
+
+    – "2" = "Unhealthy"
+
+    – "3" = "Neutral"
+
+    – "4" = "Healthy"
+
+    – "5" = "Very Healthy"
+
+* If your ```food``` data is cleared from your ```Environment```, the changes that you made to the ```healthy_level``` variable will not be saved.
+
+* To save your changes permanently save your ```food``` file as an R data file.

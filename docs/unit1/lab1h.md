@@ -11,12 +11,11 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – We've covered cleaning data and making two-way frequency tables.
 
-* In this lab, we're going to combine all of these ideas and topics together to find out how we
-spend out time.
+* In this lab, we're going to combine all of these ideas and topics together to find out how we spend out time.
 
 ###**First steps first.**
 
-* *Export*, *Upload*, *Import* the class' ```timeuse``` data from the <u>IDS Homepage</u> as ```timeuse_raw```.
+* *Export, Upload, Import*  the data from your class’ Time Use campaign.
 
 * The data, as-is, is very messy and hard to interpret/analyze.
 
@@ -24,18 +23,17 @@ spend out time.
 
         timeuse <- timeuse_format( ______ )
 
-* This function formats/cleans the data so that each row represents a typical day for each
-student in the class
+* This function formats/cleans the data so that each row represents a typical day for each student in the class
+
+* Hint: Search your *History* tab for the code to save your formatted timeuse data as an R data file (.Rda)
 
 ###**timeuse_format specifics**
 
 * In case you're wondering, the timeuse_format function:
 
-    – Takes each student's daily data and adds up all of the time spent doing each
-    activity for each day.
+    – Takes each student's daily data and adds up all of the time spent doing each activity for each day.
 
-    – The time spent on each activity for each day is then average together to create a
-    *typical* day in the life of each student.
+    – The time spent on each activity for each day is then average together to create a *typical* day in the life of each student.
 
 ###**Exploring your data**
 
@@ -55,8 +53,7 @@ student in the class
 
 * **State and answer two statistical questions based on our *research question*.**
 
-    – **Also, state one way in which your personal data is typical and one way that it
-    *differs* from the rest of the class.**
+    – **Also, state one way in which your personal data is typical and one way that it *differs* from the rest of the class.**
 
 * **Justify your answers by using appropriate statistical graphics and summary tables.**
 

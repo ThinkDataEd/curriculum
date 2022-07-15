@@ -25,9 +25,7 @@ hide:
 <details>
 <summary>Campaign Instructions</summary>
 <br>
-<a href="https://www.youtube.com/watch?v=RLIOoLhakg8&t=4s">Sharing Camping Responses</a>
-<br>
-<a href="https://youtu.be/G2r96VAkliw">Managing Surveys</a>
+<a href="https://www.youtube.com/watch?v=RLIOoLhakg8&t=4s">Managing Campaign Responses</a>
 <br>
 <a href="https://youtu.be/N6dBQQC0hNQ">Export, Upload, Import</a>
 </details></td>
@@ -103,12 +101,10 @@ hide:
 <details>
 <summary>Class Setup Instructions</summary>
 <br>
-<a href="https://youtu.be/zWZ8JrAoP4k">How to Create & Manage IDS Classes</a>
-<br>
-<a href="https://www.youtube.com/watch?v=dtWF291XwzE">Splitting 1 Column into 2 using Excel</a>
-<br>
-<a href="https://www.youtube.com/watch?v=0M2vG7NYHkQ">Class Setup Tool</a>
+<a href="https://www.youtube.com/watch?v=0M2vG7NYHkQ">Create and Manage a Class</a>
 </details></td>
+<a href="https://www.youtube.com/watch?v=dtWF291XwzE">Splitting Columns in Excel</a>
+<br>
 
 <td><img src = ../img/rstudio.png width="280" height="158"></img>
 <details>
@@ -116,15 +112,13 @@ hide:
 <br>
 <a href="https://youtu.be/vgh7C8U8Ekk">Accessing RStudio</a>
 <br>
-<a href="https://youtu.be/UZnEj3k16s0">How To Login into RStudio</a>
-<br>
-<a href="https://youtu.be/WkxCfaol3pE">How To Navigate into Rstudio</a>
+<a href="https://youtu.be/WkxCfaol3pE">Navigating Rstudio</a>
 <br>
 <a href="https://youtu.be/N6dBQQC0hNQ">Export, Upload, Import</a>
 <br>
-<a href="https://youtu.be/v3qPfE4ruQA">How To Access & Complete Lab 1A</a>
+<a href="https://youtu.be/v3qPfE4ruQA">Lab 1A</a>
 <br>
-<a href="https://www.youtube.com/watch?v=N5KpS0MFk7Y">Decluttering Environment Pane</a>
+<a href="https://www.youtube.com/watch?v=N5KpS0MFk7Y">Decluttering Environment</a>
 <br>
 <a href="https://www.youtube.com/channel/UC2z4JBS8Ql44YQYo41vRmrQ/videos">Unit 2 Lab Tutorial</a>
 </details></td>
