@@ -15,6 +15,14 @@ value is also referred to as the mean, or average.
 
 5. Tape
 
+    **Digital Option**: 
+
+    [IDS Balancing Point app](https://www.idsucla.org/wp-content/uploads/mean.html)
+
+
+    <strong style="color: black;"></strong>[*Balancing Point* handout (LMR_2.2b)](https://ucla.box.com/s/ck7j7t1427lj4x32584tg32g111q13ip)</strong>
+
+
 6. Exported, printed, and reproduced class’s *Personality Color* survey data
 
     **Advanced preparation required**: The teacher must share students’ data on the IDS Home page
