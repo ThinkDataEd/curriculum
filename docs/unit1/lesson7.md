@@ -6,7 +6,7 @@ of their classmates.. They will learn about data that is collected by a Particip
 also about privacy issues and photo ethics when collecting and sharing data.
 
 ###**Materials:**
-1. Students’ own mobile devices (smartphone, iPod Touch, tablet)
+1. Students’ own mobile devices (smartphone or tablet compatible with iOS or Android)
 
 2. Access to App Store or Google Play Store in student devices to download [IDS UCLA app](../download/app.md)
 
