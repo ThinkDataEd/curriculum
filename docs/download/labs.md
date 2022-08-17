@@ -1,4 +1,4 @@
-#IDS_Lab Response Sheets_v_5.0
+#IDS_Lab Response Sheets
 
 ##**Lab Sheets_Unit 1_v_6.0**
 [LRS_1A_v_6.0.pdf](../IDS_Curriculum_v_5.0/3_IDS_Lab Response Sheets_v_5.0/IDS_Lab Sheets_Unit 1_v_5.0/LRS_1A_v_6.0.pdf)

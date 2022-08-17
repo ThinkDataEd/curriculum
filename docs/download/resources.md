@@ -1,5 +1,5 @@
 
-#IDS_Teacher Resources_v_5.0
+#IDS_Teacher Resources
 
 [TR_Building an Argument.pdf](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Building an Argument.pdf)
 

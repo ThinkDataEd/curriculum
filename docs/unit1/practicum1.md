@@ -5,7 +5,7 @@ Students will apply what they have learned by engaging in the Data Cycle using t
 collected from the Food Habits campaign. Students will present their findings to the class.
 
 ###**Materials:**
-1. *The Data Cycle Practicum* ([LMR_U1_Practicum_Data Cycle](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_U1_Practicum_Data Cycle.pdf))
+1. *The Data Cycle Practicum* ([LMR_U1_Practicum_Data Cycle](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Data Cycle.pdf))
 
 2. Poster paper
 

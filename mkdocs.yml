@@ -7,7 +7,7 @@ plugins: []
 #  - pdf-export:
 #        verbose: true
 
-site_name: Introduction to Data Science Curriculum v_5.0
+site_name: Introduction to Data Science Curriculum
 markdown_extensions:
   - admonition
   - pymdownx.arithmatex
@@ -343,11 +343,11 @@ nav:
         - 'IDS_Lab Response Sheets' : download/labs.md
         - 'IDS_Teacher Resources' : download/resources.md
     
-    - Downloads:
-        - 'IDS_Curriculum_v_5.0' : download/IDS_Curriculum_v_5.0.md 
-        - 'IDS_Curriculum_v_4.0 for LAUSD' : download/IDS_Curriculum_v_4.0.md 
-        - 'Mobilize Algebra I' : download/Algebra.md
-        - 'Mobilize Biology' : download/Biology.md
+    # - Downloads:
+    #     - 'IDS_Curriculum_v_5.0' : download/IDS_Curriculum_v_5.0.md 
+    #     - 'IDS_Curriculum_v_4.0 for LAUSD' : download/IDS_Curriculum_v_4.0.md 
+    #     - 'Mobilize Algebra I' : download/Algebra.md
+    #     - 'Mobilize Biology' : download/Biology.md
     
     - AppDownloads: download/app.md
     

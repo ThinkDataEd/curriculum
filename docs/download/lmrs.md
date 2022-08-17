@@ -1,56 +1,56 @@
-#IDS_LMRs_v_5.0
+#IDS_LMRs
 
-##**IDS_LMR_Unit 1_v_5.0**	
+##**IDS_LMR_Unit 1_v_6.0**	
 
-[LMR_1.1_Data Diary.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.1_Data Diary.pdf)
+[LMR_1.1_Data Diary.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf)
 
-[LMR_1.2_Stick Figures.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.2_Stick Figures.pdf)
+[LMR_1.2_Stick Figures.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)
 
-[LMR_1.3_Data Cycle.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.3_Data Cycle.pdf)
+[LMR_1.3_Data Cycle.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.3_Data Cycle.pdf)
 
-[LMR_1.4_Data Cycle Spinners.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.4_Data Cycle Spinners.pdf)
+[LMR_1.4_Data Cycle Spinners.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.4_Data Cycle Spinners.pdf)
 
-[LMR_1.5_Bros & Dudes Graphics.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.5_Bros & Dudes Graphics.pdf)
+[LMR_1.5_Bros & Dudes Graphics.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.5_Bros & Dudes Graphics.pdf)
 
-[LMR_1.6_Statistical Questions Scenarios.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.6_Statistical Questions Scenarios.pdf)
+[LMR_1.6_Statistical Questions Scenarios.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.6_Statistical Questions Scenarios.pdf)
 
-[LMR_1.7_Nutrition Facts Cutouts.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.7_Nutrition Facts Cutouts.pdf)
+[LMR_1.7_Nutrition Facts Cutouts.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.7_Nutrition Facts Cutouts.pdf)
 
-[LMR_1.8_Food Habits Data Collection.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.8_Food Habits Data Collection.pdf)
+[LMR_1.8_Food Habits Data Collection.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf)
 
-[LMR_1.9_Tangible Plot.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)
+[LMR_1.9_Tangible Plot.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf)
 
-[LMR_1.10_Sorting Histograms.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.10_Sorting Histograms.pdf)
+[LMR_1.10_Sorting Histograms.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)
 
-[LMR_1.11_Food Habits Check-In.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.11_Food Habits Check-In.pdf)
+[LMR_1.11_Food Habits Check-In.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.11_Food Habits Check-In.pdf)
 
-[LMR_1.12_Exploring Our Food Habits.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.12_Exploring Our Food Habits.pdf)
+[LMR_1.12_Exploring Our Food Habits.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.12_Exploring Our Food Habits.pdf)
 
-[LMR_1.13_Scatterplot of Heights & Weights.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)
+[LMR_1.13_Scatterplot of Heights & Weights.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)
 
-[LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)
+[LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)
 
-[LMR_1.15_Side-by-Side Bar Chart.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.15_Side-by-Side Bar Chart.pdf)
+[LMR_1.15_Side-by-Side Bar Chart.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.15_Side-by-Side Bar Chart.pdf)
 
-[LMR_1.16_ Faceted_Histograms_v4.1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf)
+[LMR_1.16_ Faceted_Histograms_v4.1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf)
 
-[LMR_1.17_Summarizing Multi-Variable Plots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)
+[LMR_1.17_Summarizing Multi-Variable Plots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)
 
-[LMR_1.18_Analyzing Categorical Variables.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.18_Analyzing Categorical Variables.pdf)
+[LMR_1.18_Analyzing Categorical Variables.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)
 
-[LMR_1.19_Interpreting Categorical Variables.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.19_Interpreting Categorical Variables.pdf)
+[LMR_1.19_Interpreting Categorical Variables.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf)
 
-[LMR_U1_Campaign_Food Habits.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_U1_Campaign_Food Habits.pdf)
+[LMR_U1_Campaign_Food Habits.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Food Habits.pdf)
 
-[LMR_U1_Campaign_Time Use.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_U1_Campaign_Time Use.pdf)
+[LMR_U1_Campaign_Time Use.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Time Use.pdf)
 
-[LMR_U1_End of Unit Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_U1_End of Unit Project.pdf)
+[LMR_U1_End of Unit Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_End of Unit Project.pdf)
 
-[LMR_U1_Practicum_Data Cycle.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_U1_Practicum_Data Cycle.pdf)
+[LMR_U1_Practicum_Data Cycle.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Data Cycle.pdf)
 
-[LMR_U1_Practicum_Depression.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_U1_Practicum_Depression.pdf)
+[LMR_U1_Practicum_Depression.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Depression.pdf)
 
-[LMR_U1_Practicum_Depression_Fact Sheet.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_U1_Practicum_Depression_Fact Sheet.pdf)
+[LMR_U1_Practicum_Depression_Fact Sheet.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Depression_Fact Sheet.pdf)
 
 
 

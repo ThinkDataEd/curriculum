@@ -16,7 +16,7 @@ the distributions give us information about the variability of the data.
 
 3. Nutrition facts labels or pictures (collected previously by students)
 
-4. *Food Habits Data Collection* handout (from [lesson 6](lesson6.md), [LMR_1.8_Food Habits Data Collection](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.8_Food Habits Data Collection.pdf))
+4. *Food Habits Data Collection* handout (from [lesson 6](lesson6.md), [LMR_1.8_Food Habits Data Collection](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf))
 
 5. 3 pieces of tape per student
 
@@ -24,7 +24,7 @@ the distributions give us information about the variability of the data.
 
 7. Dot stickers or sticky notes
 
-8. *Tangible Plot* handout ([LMR_1.9_Tangible Plot](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf))
+8. *Tangible Plot* handout ([LMR_1.9_Tangible Plot](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf))
 
 ###**Vocabulary:**
 x-axis, y-axis, visualization, range, minimum, maximum, frequency, distribution, typical, symmetric, range,
@@ -178,10 +178,10 @@ horizontal axis. Do this for each nutrition facts label in the plot. Once all va
 represented, ask the students how this new plot IS or IS NOT better than the original. Explain that
 we can call this type of plot a **dotplot** since we’re using dots to represent each observation.
 
-21. Distribute the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)). Each student should pick one of the 2 numerical
+21. Distribute the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf)). Each student should pick one of the 2 numerical
 variables plotted on the poster paper. Then, they should complete part 1 of the *Tangible Plot*
 handout before leaving class. They will complete part 2 of the handout for homework.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf)</div>
 
 22. Ask students to think about the statistical questions they came up with. Can the visualizations
 they created in class help answer their statistical question? If yes, answer the question; if not,
@@ -192,7 +192,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students will complete part 2 of the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_5.0/LMR_1.9_Tangible Plot.pdf)) and bring it to the next class for
+Students will complete part 2 of the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf)) and bring it to the next class for
 assessment.
 
 Students should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
