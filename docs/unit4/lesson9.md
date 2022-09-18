@@ -54,7 +54,7 @@ poster and record their responses to the questions on the poster paper.
     **<u>Note to teacher:</u>** If necessary, review how to find the slope of a line using two points and how to
     write an equation using the slope and y-intercept.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.9_The Spaghetti Line.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.9_The Spaghetti Line](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.9_The Spaghetti Line.pdf)</div>    
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.9_The Spaghetti Line.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.9_The Spaghetti Line](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.9_The Spaghetti Line.pdf)</div>    
 
 5. Ask teams to post their work around the room. Conduct a *Gallery Walk* so that teams can see
 each other’s work.

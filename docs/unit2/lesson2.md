@@ -72,7 +72,7 @@ the balancing point via the activity in Steps 7 & 8.
 7. Distribute the *Pennies on a Ruler* handout ([LMR_2.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.2_Pennies on a Ruler.pdf)) along with a marker, ruler, tape, and 6
 pennies to each table group. If you prefer to not print the document, you can project it on the
 board instead.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.2_Pennies on a Ruler.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.2_Pennies on a Ruler.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.2_Pennies on a Ruler.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.2_Pennies on a Ruler.pdf)</div>
 
 8. Guide the students through the handout and have them share their findings throughout the
 activity. Be sure to emphasize the idea that <u>the mean of a distribution can be identified by finding
@@ -149,7 +149,7 @@ day were.
 Students should complete the *Mr. Jones Mile Rule Times* handout ([LMR_2.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.3_Mr. Jones Run Times.pdf)) for homework. They
 can practice finding the mean of distributions by determining a balancing point for the data. Answers
 to the handout are below. **<u>Note:</u>** The mean values in part (3) do NOT need to be exact.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.3_Mr. Jones Run Times.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.3_Mr. Jones Run Times.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.3_Mr. Jones Run Times.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.3_Mr. Jones Run Times.pdf)</div>
 
 
 1. What kind of plots did Mr. Jones create for his classes? <span style="color:grey">***Histograms.***</span>

@@ -39,7 +39,7 @@ variable, and by asking them to ponder the following questions:
     heavier? Always? Or is this just a tendency? Let's look at some data.
 
 2. Display the following plot to the class ([LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)) so they can see some actual data:
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.13_Scatterplot of Heights %26 Weights.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.13_Scatterplot of Heights %26 Weights.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)</div>
 
 3. Ask students to individually answer the following questions about the plot on the handout
 ([LMR_1.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.13_Scatterplot of Heights & Weights.pdf)):
@@ -66,7 +66,7 @@ additional information would be helpful?
 Where do you think most of the girls' dots would be relative to the boys?
 
 7. Display the following plot to the class ([LMR_1.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)):
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.14_Scatterplot of Heights %26 Weights %26 Gender.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.14_Scatterplot of Heights %26 Weights %26 Gender.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)</div>
 
 8. Ask students to individually answer the following questions about the plot on the handout
 ([LMR_1.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.14_Scatterplot of Heights & Weights & Gender.pdf)):
@@ -92,7 +92,7 @@ discussion: when the data are split into categories, it is called **grouping**.
 additional information would be helpful?
 
 11. Display the following plot to the class ([LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.15_Side-by-Side Bar Chart.pdf)):
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.15_Side-by-Side Bar Chart.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.15_Side-by-Side Bar Chart.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.15_Side-by-Side Bar Chart.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.15_Side-by-Side Bar Chart.pdf)</div>
 
 12. Ask students to individually answer the following questions on the handout ([LMR_1.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.15_Side-by-Side Bar Chart.pdf)):
 
@@ -116,7 +116,7 @@ listen to the discussion by confirming, correcting, or adding to their own respo
 additional information would be helpful?
 
 15. Display the following plot to the class ([LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf))
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf)</div>
 
 16. Ask students to individually answer the following questions on the handout ([LMR_1.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.16_ Faceted_Histograms_v4.1.pdf)):
 
@@ -139,7 +139,7 @@ listen to the discussion by confirming, correcting, or adding to their own respo
 18. Using the notes and sketches in their DS journals, students will summarize their learning of how
 to read and interpret basic multiple variable plots by completing the *Multiple Variable Plots* fourfold
 graphic organizer ([LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)):
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.17_Summarizing Multi-Variable Plots.pdf)</div>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics

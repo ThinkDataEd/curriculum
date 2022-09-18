@@ -46,7 +46,7 @@ campaigns in which they have engaged thus far. <span style="color:grey">***Answe
 
 4. Inform students that they will be creating a new, whole class Participatory Sensing campaign, but
 before they do that, they will analyze the *Food Habits Campaign Questions* handout ([LMR_3.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.15_Food Habits Qs.pdf)).
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.15_Food Habits Qs.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.15_Food Habits Qs.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.15_Food Habits Qs.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.15_Food Habits Qs.pdf)</div>
 
 5. In teams, allow students two minutes to discuss the following as they analyze the Food Habits
 Campaign questions:
@@ -69,7 +69,7 @@ Participatory Sensing.
 Creating this class campaign will follow a process in which consensus (or a majority rule) will be
 reached in each step of the campaign development within each team. Inform students that they
 will be creating a Participatory Sensing campaign on a topic of their interest using [LMR_3.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf).
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf)</div>
 
 8. <u>Round 1:</u> First, teams will discuss their hobbies, areas of interest, or places or processes they
 want to know more about. Prompt students to think about whether they want to learn about

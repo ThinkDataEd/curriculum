@@ -95,7 +95,7 @@ following two questions:
 5. Distribute the *Populations & Samples* handout ([LMR_3.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.5_Populations and Samples.pdf)), which contains survey results from
 other Pew Research Center reports. Give students time to determine the population and sample
 for each scenario, and then have them verify their results with a partner.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.5_Populations and Samples.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.5_Populations and Samples.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.5_Populations and Samples.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.5_Populations and Samples.pdf)</div>
 
 6. State that we want to know the percentage of students in our class that have made friends online,
 but we don’t want to ask every single student. Instead, we would like to ask only 10 students and
@@ -204,7 +204,7 @@ day were.
 Students should complete the *Parameters & Statistics* handout ([LMR_3.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.6_Parameters and Statistics.pdf)) for homework.
 
 **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only!
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.6_Parameters and Statistics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.6_Parameters and Statistics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe>
 <br>[LMR_3.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.6_Parameters and Statistics.pdf)</div> 
 
 

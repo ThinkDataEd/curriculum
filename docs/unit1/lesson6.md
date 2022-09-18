@@ -55,7 +55,7 @@ foods they eat.
     between the previous lesson and today. Note: If some students forgot to bring any, then you can
     pass out some of the *Nutrition Facts Cutouts* ([LMR_1.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.7_Nutrition Facts Cutouts.pdf)) for them to use instead.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.7_Nutrition Facts Cutouts.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.7_Nutrition Facts Cutouts.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.7_Nutrition Facts Cutouts.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.7_Nutrition Facts Cutouts.pdf)</div>
 
 5. For 3-5 minutes, allow students to collect any data they can from the label and record it in their
 DS journals. This should be done individually.
@@ -79,7 +79,7 @@ differences in the variables collected and the data structure used.
     100. Distribute the *Food Habits Data Collection* handout ([LMR_1.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf)). Ask students to record 8
     observations. They can use their own 2 labels for the first observations, and then use
     some of their team members’ labels to complete the table.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf)</div>
 
 8. Once they are finished, in pairs, ask students to give a one-word identifier to each variable. For
 example: “What’s the name of your snack?” = Name

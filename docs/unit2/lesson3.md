@@ -83,7 +83,7 @@ the distribution and forced the balancing point to move to the right.***</span>
 10. Display the first 2 plots in the *Medians – Dotplots or Histograms*? file ([LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)). They are
 labeled as plots for discussion for the *beginning* of class. Both the dotplot and histogram depict
 the number of candies eaten by a group of 17 high school students.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)</div>
 
 11. For the first 2 plots, ask students:
 
@@ -101,7 +101,7 @@ shapes (e.g., symmetric, left-skewed, right-skewed).
 13. Distribute the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)). Students should complete the handout
 individually first, then compare answers with their team members. Once each team has agreed
 upon their answers, discuss the handout as a class.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)</div>
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)</div>
 
 14. Ask the following questions to elicit a team discussion about the relationship between means and
 medians:

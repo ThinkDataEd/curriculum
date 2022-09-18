@@ -24,7 +24,7 @@ They will use the Dashboard and PlotApp, tools that are easy to learn. This firs
 ###**Lesson:**
 1. Ask students to reflect about their experience so far with the Food Habits Participatory Sensing
 campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.11_Food Habits Check-In.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0_preview/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.11_Food Habits Check-In.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.11_Food Habits Check-In.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.11_Food Habits Check-In.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.11_Food Habits Check-In.pdf)</div>
 
 2. Demonstrate how to access the **IDS Homepage** found at 
 [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
