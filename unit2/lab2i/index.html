@@ -2893,7 +2893,7 @@ differences that are normally distributed.</p>
 </li>
 <li>
 <p>After creating <code>shfls</code>, use <code>mutate</code> to add a new variable to the data set. This new variable
-should have the name <code>diff</code> and should be the <code>age</code> of those who survived minus those who
+should have the name <code>diff</code> and should be the <code>mean</code> <code>age</code> of those who survived minus those who
 died.</p>
 </li>
 <li>
@@ -2918,6 +2918,9 @@ non-survivors.</strong></p>
 <p>Since the distribution of our <code>diff</code> variable appears normally distributed, we can use a
 normal model to estimate the probability of seeing differences that are more extreme than
 our actual data.</p>
+<ul>
+<li><strong>Draw a sketch of a normal curve. Label the mean age difference, based on your shuffles, and the actual age difference of survivors minus non-survivors from the actual data. Then shade in the areas, under normal the curve, that are <em>smaller</em> than the actual difference.</strong></li>
+</ul>
 </li>
 <li>
 <p>Fill in the blanks to calculate the probability of an even smaller difference occurring than our
@@ -2931,10 +2934,6 @@ actual difference using a normal model.</p>
 <li>
 <p>The probability you calculated in the previous slide is an estimate for how often we expect to
 see a difference smaller than the actual one we observed, by chance alone.</p>
-<p>– <strong>Draw a sketch of a normal curve. Label the mean age difference, based on
-your shuffles, and the actual age difference of suvivors minus non-survivors
-from the actual data. Then, shade in the areas, under normal the curve, that
-are <em>smaller</em> than the actual difference.</strong></p>
 </li>
 <li>
 <p>If you wanted to instead calculate the probability that the difference would be larger than the
@@ -2975,12 +2974,18 @@ inches with a standard deviation of 3 inches?</p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
+<p>Conduct one of the statistical investigations below:</p>
 <ul>
 <li>
 <p>Using the <code>titanic</code> data, answer the following statistical question:</p>
 <p>– <strong>Were women on the Titanic typically younger than men?</strong></p>
 <p>– <strong>Use a histogram, 500 random shuffles and a normal model to answer the
 question in the bullet above.</strong></p>
+</li>
+<li>
+<p>Using the <code>cdc</code> data</p>
+<p>– <strong>Using 500 random shuffles and a normal model, how much taller would the typical male have to be than the typical female in order for the difference to be in the upper 1% by chance alone?</strong></p>
+<p>– <strong>How can we use this value to justify the claim that the average Male in our data is taller than the average Female?</strong></p>
 </li>
 </ul>
                 

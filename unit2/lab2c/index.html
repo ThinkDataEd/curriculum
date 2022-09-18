@@ -2963,7 +2963,7 @@ selections will be rap?</em></p>
 <p>Remember that a <em>probability</em> is the long-run proportion of time an event occurs.</p>
 <p>– Many probabilities can be answered exactly with just a little math.</p>
 <p>– The probability we draw a single rap song from our playlist of 39 rap and 61 rock
-songs is <code>39/100</code>, or <code>39%</code>.</p>
+songs is <code>39/100</code>, <code>0.39</code> or <code>39%</code>.</p>
 </li>
 <li>
 <p>Probabilities can also be answered exactly if we were willing to randomly select a song from
@@ -2998,9 +2998,12 @@ probability.</p>
 that playlist in <code>R</code>.</p>
 </li>
 <li>
-<p>To simulate our 39 <code>rap</code> songs, we'll use the repeat (<code>rep</code>) function.</p>
+<p>To simulate our 39 <code>rap</code> songs, we'll use the repeat <code>rep()</code> function.</p>
 <pre><code>rap &lt;- rep("rap", times = 39)
 </code></pre>
+</li>
+<li>
+<p>Look in the <code>Environment</code> pane for the vector containing your rap songs.</p>
 </li>
 <li>
 <p>Use a similar line of code to simulate the rock songs in our playlist of 100.</p>
@@ -3010,7 +3013,7 @@ that playlist in <code>R</code>.</p>
 <ul>
 <li>
 <p>Now that we've got some different songs, we need to combine them together.</p>
-<p>– To do this, we can use the combine function in  <code>R</code>, <code>c()</code>.</p>
+<p>– To do this, we can use the combine function in <code>c()</code> in <code>R</code>.</p>
 </li>
 <li>
 <p>Fill in the blanks to combine your different songs:</p>
@@ -3032,9 +3035,27 @@ that playlist in <code>R</code>.</p>
 </li>
 <li>
 <p>Run this code 10 times and compute the proportion of <code>"rap"</code> songs you drew from the 10.</p>
-<p>– <strong>Once everyone in your class has computed their proportions, calculate the
-<em>range</em> of proportions (The largest proportion minus the smallest proportion)
-for your class and write it down.</strong></p>
+<ul>
+<li>
+<p>Vocabulary Check: A <em>proportion</em> is a fraction of the whole.</p>
+<ul>
+<li>
+<p>For example, if 2 rap songs were drawn from the 10, the <em>proportion</em> would be 2/10</p>
+</li>
+<li>
+<p>It is more common to express a <em>proportion</em> as a decimal, in this case, 0.20</p>
+</li>
+<li>
+<p>It is even more common to express a <em>proportion</em> as a percentage, 20%</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Once everyone in your class has computed their <em>proportions</em>, calculate the
+    <em>range</em> of <em>proportions</em> (The largest <em>proportion</em> minus the smallest <em>proportion</em>)
+    for your class and write it down.</strong></p>
 </li>
 </ul>
 <h3 id="now-do-it-some-more"><strong>Now do() it some more</strong></h3>
@@ -3047,8 +3068,19 @@ multiple repetitions for us.</p>
 </code></pre>
 </li>
 <li>
-<p><em>Assign</em> the 50 selected songs the name <code>draws</code>. Then fill in the blank below to tally how often
-each genre was selected:</p>
+<p>Recall that we need to store our results to be able to perform analysis.</p>
+</li>
+<li>
+<p><em>Assign</em> the 50 selected songs the name <code>draws</code> and then <code>View</code> your file.</p>
+</li>
+<li>
+<p>What is the variable name?</p>
+<ul>
+<li><code>R</code> defaulted to naming the variable based on the function used. You may use the data cleaning skills you learned in lab 6 to <code>rename</code> the variable if you wish.</li>
+</ul>
+</li>
+<li>
+<p>Fill in the blank below to tally how often each genre was selected:</p>
 <pre><code>tally(~___, data = draws)
 </code></pre>
 </li>

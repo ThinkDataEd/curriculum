@@ -1117,8 +1117,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#section-101-step-1-creating-a-subset" class="md-nav__link">
-    Section 1.01 Step 1: Creating a subset
+  <a href="#step-1-creating-a-subset" class="md-nav__link">
+    Step 1: Creating a subset
   </a>
   
 </li>
@@ -2866,8 +2866,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#section-101-step-1-creating-a-subset" class="md-nav__link">
-    Section 1.01 Step 1: Creating a subset
+  <a href="#step-1-creating-a-subset" class="md-nav__link">
+    Step 1: Creating a subset
   </a>
   
 </li>
@@ -2917,9 +2917,7 @@
 <li>
 <p>In the last lab, we looked at how we can use computer simulations to compute estimates of
 simple probabilities.</p>
-</li>
-<li>
-<p>Like the probability of drawing a song genre from a playlist.</p>
+<p>– Like the probability of drawing a song genre from a playlist.</p>
 </li>
 <li>
 <p>We also saw that performing <em>more</em> simulations:</p>
@@ -2960,9 +2958,11 @@ function to <code>FALSE</code>.</p>
 </li>
 <li>
 <p>Take a sample of <code>size</code> 100 from our playlist of songs <em>without replacement</em>. Assign this sample the
-name <code>without</code>.</p>
-<p>– <strong>What do you notice if you run <code>tally(~without)</code>? Does something similar happen if
-you sample <em>with replacement</em>?</strong></p>
+name <code>without</code>. </p>
+<p>– <strong>Run <code>tally(without)</code> and describe the output. Does something similar happen if you sample <em>with replacement</em>?</strong></p>
+<ul>
+<li>Notice that the tilde <code>~</code> was not needed with the <code>tally</code> function. This is because <code>without</code> was not a variable within a data frame but rather a vector which acts like a lone variable.</li>
+</ul>
 <p>– <strong>What happens if <code>size = 101</code> and <code>replace = FALSE</code>?</strong></p>
 </li>
 </ul>
@@ -2992,10 +2992,10 @@ the simulated jar is named <code>candies</code>.</strong></p>
 <li>
 <p>Let's write a more realistic simulation and estimate the probability that if we select two songs at
 random, without replacement, that both are rap songs.</p>
-<p>– Use the <code>do</code> function to perform 10 simulated <code>sample</code>s of <code>size</code> 2, with replacement and
-<em>assign</em> the simulations the name draws.</p>
+<p>– Use the <code>do</code> function to perform 10 simulated <code>sample</code>s of <code>size</code> 2, without replacement and <em>assign</em> the simulations the name <code>draws</code> and then <code>View</code> your file. Use <code>set.seed(1)</code>.</p>
 </li>
 </ul>
+<p><strong>What are the variable names? What happened in the first simulation? Did any of your 10 simulations contain two rap songs?</strong>    </p>
 <h3 id="simulations-and-probability"><strong>Simulations and probability</strong></h3>
 <ul>
 <li>
@@ -3019,12 +3019,14 @@ following trick to count the number of <em>rap</em> songs in each of the 10 simu
 </code></pre>
 </li>
 <li>
-<p><strong>For each of the lines of code below, describe how the output of the code changes as we
-move from line to line.</strong></p>
+<p><strong>Let’s break down the code above by running each part of the code one piece at a time. As you run each line of code below describe the output.</strong></p>
 <pre><code>draws == "rap"
 rowSums(draws == "rap")
 mutate(draws, nrap = rowSums(draws=="rap"))
 </code></pre>
+</li>
+<li>
+<p>Remember to assign a name to your mutated data set.        </p>
 </li>
 </ul>
 <h3 id="counting-other-outcomes"><strong>Counting other outcomes</strong></h3>
@@ -3032,7 +3034,7 @@ mutate(draws, nrap = rowSums(draws=="rap"))
 <li>
 <p>Another method we can use to estimate the probability of complex events is to use the following
 2-step procedure:</p>
-<p>`1. Subset the rows of the simulations that match our desired outcomes.</p>
+<p>`1. Subset or filter the rows of the simulations that match our desired outcomes.</p>
 <p>`2. Count the number of rows in the subset and divide by the number of simulations.</p>
 </li>
 <li>
@@ -3043,7 +3045,7 @@ occured.</p>
 <p>We'll see an example of this method on the next slide.</p>
 </li>
 </ul>
-<h3 id="section-101-step-1-creating-a-subset"><strong>Section 1.01 Step 1: Creating a subset</strong></h3>
+<h3 id="step-1-creating-a-subset"><strong>Step 1: Creating a subset</strong></h3>
 <ul>
 <li>
 <p>Fill in the blanks below to:</p>
@@ -3058,14 +3060,15 @@ occured.</p>
 <h3 id="estimating-probabilities"><strong>Estimating probabilities</strong></h3>
 <ul>
 <li>
+<p>Answer the following questions by performing 500 simulations of sampling 2 songs from a playlist of 30 rap, 23 country and 47 rock songs:</p>
+</li>
+<li>
 <p><strong>Calculate estimated probabilities for the following situations:</strong></p>
 <p>`1. You draw two <code>"rap"</code> songs.</p>
 <p>`2. You draw a <code>"rap"</code> song in the first draw and a <code>"country"</code> song in the 2nd.</p>
 </li>
 <li>
-<p><strong>Create a histogram that displays the number of times a <code>"rap"</code> song occurred in each
-simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap
-songs?</strong></p>
+<p><strong>Create a histogram that displays the number of times a <code>"rap"</code> song occurred in each simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap songs?</strong></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
