@@ -30,7 +30,7 @@ selections will be rap?*
     – Many probabilities can be answered exactly with just a little math.
 
     – The probability we draw a single rap song from our playlist of 39 rap and 61 rock
-    songs is ```39/100```, or ```39%```.
+    songs is ```39/100```, ```0.39``` or ```39%```.
 
 * Probabilities can also be answered exactly if we were willing to randomly select a song from
 the playlist, write down its *genre*, place the song back in the list, and repeatedly do this
@@ -62,9 +62,11 @@ or very hard and complex calculations.
     – Before we can start simulating picking songs from a playlist, we need to simulate
     that playlist in ```R```.
 
-* To simulate our 39 ```rap``` songs, we'll use the repeat (```rep```) function.
+* To simulate our 39 ```rap``` songs, we'll use the repeat ```rep()``` function.
 
         rap <- rep("rap", times = 39)
+
+* Look in the ```Environment``` pane for the vector containing your rap songs.
 
 * Use a similar line of code to simulate the rock songs in our playlist of 100.
 
@@ -72,7 +74,7 @@ or very hard and complex calculations.
 
 * Now that we've got some different songs, we need to combine them together.
 
-    – To do this, we can use the combine function in  ```R```, ```c()```.
+    – To do this, we can use the combine function in ```c()``` in ```R```.
 
 * Fill in the blanks to combine your different songs:
 
@@ -91,8 +93,16 @@ or very hard and complex calculations.
 
 * Run this code 10 times and compute the proportion of ```"rap"``` songs you drew from the 10.
 
-    – **Once everyone in your class has computed their proportions, calculate the
-    *range* of proportions (The largest proportion minus the smallest proportion)
+    - Vocabulary Check: A *proportion* is a fraction of the whole.
+
+        * For example, if 2 rap songs were drawn from the 10, the *proportion* would be 2/10
+
+        * It is more common to express a *proportion* as a decimal, in this case, 0.20
+
+        * It is even more common to express a *proportion* as a percentage, 20%
+
+* **Once everyone in your class has computed their *proportions*, calculate the
+    *range* of *proportions* (The largest *proportion* minus the smallest *proportion*)
     for your class and write it down.**
 
 ###**Now do() it some more**
@@ -103,8 +113,15 @@ multiple repetitions for us.
 
         do(___) * sample(___, ___ = ___, ___ = ___)
 
-* *Assign* the 50 selected songs the name ```draws```. Then fill in the blank below to tally how often
-each genre was selected:
+* Recall that we need to store our results to be able to perform analysis.
+
+* *Assign* the 50 selected songs the name ```draws``` and then ```View``` your file.
+
+* What is the variable name?
+
+    - ```R``` defaulted to naming the variable based on the function used. You may use the data cleaning skills you learned in lab 6 to ```rename``` the variable if you wish.
+
+* Fill in the blank below to tally how often each genre was selected:
 
         tally(~___, data = draws)
 

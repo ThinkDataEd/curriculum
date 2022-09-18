@@ -15,84 +15,18 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 * Besides looking at *typical* values, sometimes we want to see *extreme* values, like the smallest
 and largest values.
 
-    – To find these values, we can use the ```min```, ```max``` or ```range``` functions.
+    – To find these values, we can use the ```min```, ```max``` or ```range``` functions. These functions use a similar syntax as the ```mean``` function.
 
-* **Which of the color scores had the smallest ```min``` value? Which had the largest ```max``` value?**
+* **Find the ```min``` value and ```max``` value for your predominant color.**
 
-* **Use the range function to calculate the ```max``` and ```min``` values of your predominant color**
+* **Use the ```range``` function to your predominant color and describe the output.**
 
-    – The difference between a variable's smallest and largest value is often refered to as the
-    *range* of the variable.
+    – The *range* of a variable is the difference between a variable’s smallest and largest value.
 
-###**Calculating a range value**
-* We saw in the previous slide that the ```range``` function calculates the maximum and minimum
-values for a variable, but not the difference between them.
+    – Notice, however, that our ```range``` function calculates the maximum and minimum values for a variable, but not the difference between them.
 
-* We could calculate this difference in two steps:
+    – Later in this lab you will create a custom ```Range``` function that will calculate the difference.
 
-    – Step 1: Use the ```range``` function to ```assign``` the max and min values of a variable the name
-    ```values```.
-
-    – Step 2: Use the ```diff``` function to calculate the difference of ```values```.
-
-* **Use these two steps to calculate the *range* of your predominant color.**
-
-###**Introducing custom functions**
-* Calculating the *range* of many variables can be tedious if we have to keep performing the same
-two steps over and over.
-
-    – We can combine these two steps into one by writing our own custom ```function```.
-
-* Custom functions can be used to combine a task that would normally take many steps to
-compute and simplify them into one.
-
-* The next slide shows an example of how we can create a custom function called ```mm_diff``` to
-calculate the absolute difference between the ```mean``` and ```median``` value of a ```variable``` in our
-```data```.
-
-###**Example function**
-
-    mm_diff <- function(variable, data) {
-    mean_val <- mean(variable, data = data)
-    med_val <- median(variable, data = data)
-    abs(mean_val - med_val)
-    }
-
-* The function takes two *generic* arguments: ```variable``` and ```data```
-
-* It then follows the steps between the curly braces ```{ }```
-
-    – Each of the *generic* arguments is used inside the ```mean``` and ```median``` functions.
-
-* Copy and paste the code above into an *R script* and *run* it.
-
-###**Using mm_diff()**
-* After running the code used to create the function, we can use it just like we would any other
-numerical summary.
-
-    – In the *console*, fill in the blanks below to calculate the absolute difference between the
-    ```mean``` and ```median``` values of your predominant color:
-
-        ____(~____, data = ____)
-
-* **Which of the four colors has the largest absolute difference between the ```mean``` and ```median```
-values?**
-
-    – **By examining a ```dotPlot``` for this personality color, make an argument why either
-    the ```mean``` or ```median``` would be the better description of the *center* of the data.**
-
-###**Our first function**
-* Using the previous example as a guide, create a function called ```Range``` (*Note the capial 'R'*) that
-calculates the *range* of a variable by filling in the blanks below:
-
-        ____ <- function (____, ____) {
-        values <- range(____, data = ____)
-        diff(___)
-        }
-
-* **Use a ```dotPlot``` or ```histogram``` to find the personality color with the largest difference
-between the ```max``` and ```min``` values. Then use the ```Range``` function you created to calculate its
-*range*.**
 
 ###**Quartiles (Q1 & Q3)**
 * The *median* of our data is the value that splits our data in half.
@@ -108,16 +42,18 @@ between the ```max``` and ```min``` values. Then use the ```Range``` function yo
         quantile(~____, data = ____, p = 0.25)
 
 * **Use a similar line of code to calculate *Q3*, which is the value that's larger than 75% of our
-data.**
+data.**    
 
 ###**The Inter-Quartile-Range (IQR)**
 
-* Make a ```dotPlot``` of your *predominant* color's scores.
+* Make a ```dotPlot``` of your *predominant* color's scores. Make sure to include the ```nint``` option.
 
 * Visually (Don't worry about being super-precise):
 
     – Cut the distribution into quarters so the *number of data points* is equal for each piece.
     (Each piece should contain 25% of the data.)
+
+    * Hint: You might consider using the ```add_line(vline =  )``` to add vertical lines at the quarter marks.
 
     – **Write down the numbers that split the data up into these 4 pieces.**
 
@@ -138,7 +74,7 @@ quartiles to compute the *IQR*.
     – **Then use the ```iqr()``` function to calculate it for you.**
 
 * **Which personality color score has the widest spread according to the *IQR*? Which is
-narrowest?**
+narrowest?**    
 
 ###**Boxplots**
 
@@ -161,9 +97,82 @@ your explanation in a series of steps for the person to use.**
 * Fill in the blanks below to compute some of our *favorite* summaries for your predominant color all
 at once.
 
-        favstats(~____, data=colors)
+        favstats(~____, data=colors)    
 
+###**Calculating a range value**
+* We saw in the previous slide that the ```range``` function calculates the maximum and minimum
+values for a variable, but not the difference between them.
+
+* We could calculate this difference in two steps:
+
+    – Step 1: Use the ```range``` function to ```assign``` the max and min values of a variable the name
+    ```values```. This will store the output from the ```range``` function in the *environment* pane.
+
+        values <- range(~____, data=colors)
+
+    – Step 2: Use the ```diff``` function to calculate the difference of ```values```. The input for the ```diff``` function needs to be a vector containig two numeric values.
+
+        diff(values)
+
+* **Use these two steps to calculate the *range* of your predominant color.**
+
+###**Introducing custom functions**
+* Calculating the *range* of many variables can be tedious if we have to keep performing the same
+two steps over and over.
+
+    – We can combine these two steps into one by writing our own custom ```function```.
+
+* Custom functions can be used to combine a task that would normally take many steps to
+compute and simplify them into one.
+
+* The next slide shows an example of how we can create a custom function called ```mm_diff``` to
+calculate the absolute difference between the ```mean``` and ```median``` value of a ```variable``` in our
+```data```.
+
+###**Example function**
+
+    mm_diff <- function(variable, data) {
+      mean_val <- mean(variable, data = data)
+      med_val <- median(variable, data = data)
+      abs(mean_val - med_val)
+    }
+
+* The function takes two *generic* arguments: ```variable``` and ```data```
+
+* It then follows the steps between the curly braces ```{ }```
+
+    – Each of the *generic* arguments is used inside the ```mean``` and ```median``` functions.
+
+* Copy and paste the code above into an *R script* and *run* it.
+
+* The ```mm_diff``` function will appear in your *Environment* pane.
+
+###**Using mm_diff()**
+* After running the code used to create the function, we can use it just like we would any other
+numerical summary.
+
+    – In the *console*, fill in the blanks below to calculate the absolute difference between the
+    ```mean``` and ```median``` values of your predominant color:
+
+        ____(~____, data = ____)
+
+* **Which of the four colors has the largest absolute difference between the ```mean``` and ```median```
+values?**
+
+    – **By examining a ```dotPlot``` for this personality color, make an argument why either
+    the ```mean``` or ```median``` would be the better description of the *center* of the data.**
+
+###**Our first function**
+* Using the previous example as a guide, create a function called ```Range``` (*Note the capial 'R'*) that
+calculates the *range* of a variable by filling in the blanks below:
+
+        ____ <- function (____, ____) {
+          values <- range(____, data = ____)
+          diff(___)
+        }
+
+* **Use the ```Range``` function to find the personality color with the largest difference between the ```max``` and ```min``` values.**
 
 ###**On your own**
-* **Create a function called ```myIQR``` that uses the *only* ```quantile``` function to compute the
+* **Create a function called ```myIQR``` that uses the ```quantile``` function to compute the
 middle 30% of the data.**

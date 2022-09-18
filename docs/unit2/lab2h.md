@@ -8,9 +8,9 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * When data appears to be *normally distributed*, we can use the *normal model* to:
 
-* Simulate *normally distributed* data.
+    – Simulate *normally distributed* data.
 
-* Easily compute probabilities.
+    – Easily compute probabilities.
 
 * In this lab, we'll look at some previous data sets to see if we can find data that are roughly
 normally distributed.
@@ -43,8 +43,7 @@ normally distributed.
 ###**Finding normal distributions**
 * Load the ```cdc``` data and use the ```histogram``` function to answer the following:
 
-* **Based on what you know about these variables, which of the variables do you think
-have distributions that will look like the normal distribution?**
+* **Think about the ```height``` and ```weight``` variables. Based on what you know about these variables, which of the variables do you think have distributions that will look like the normal distribution?**
 
     – **Make histograms of these variables. Which ones look like the normal
     distribution?**
@@ -67,10 +66,10 @@ have distributions that will look like the normal distribution?**
 * **For each of the following, determine which, if any, appear to be normally distributed.
 Explain your reasoning:**
 
-    – **The ```weight``` of people in our ```cdc``` data, faceted by ```gender```.**
+* Hint: Refer to Lab 2E and 2F
 
-    – **The difference in ```mean``` weights between ```Males``` and ```Females``` for 500 random
-    shuffles.**
+    – **The difference in ```percentages``` between male and female survivors in a slasher film for 500 random shuffles.**
 
-    – **The difference in ```median``` weights between ```Males``` and ```Females``` for 500 random
-    shuffles.**
+    – **The difference in ```median``` fares between survivors and non-survivors on the Titanic for 500 random shuffles.**
+
+    – **The difference in ```mean``` fares between survivors and non-survivors on the Titanic for 500 random shuffles.**

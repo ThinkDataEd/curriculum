@@ -25,7 +25,7 @@ answered by calculating the mean, median and MAD.
 * To answer these questions, we want to look at the *distribution* of our data.
 
     – We describe *distributions* by talking about where the *center* of the data are, how
-    spread out the data are, and what sort of shape the data has.
+    *spread* out the data are, and what sort of *shape* the data has.
 
 ###**Let's begin!**
 * *Export*, *upload* and *import* your class' *Personality Color* data.
@@ -37,8 +37,7 @@ answered by calculating the mean, median and MAD.
     – **Write down the ```names``` of the 4 variables that contain the point-totals, or
     *scores*, for each personality color.**
 
-    – **Write down the ```names``` of the variables that tell us an observation's *introvert/extrovert designation
-    * and whether they participated in playing sports.**
+    – **Write down the ```names``` of the variables that tell us an observation's introvert/extrovert designation and whether they participated in playing *sports*.**
 
     – **How many variables are in the data set?**
 
@@ -47,11 +46,7 @@ answered by calculating the mean, median and MAD.
 ###**Estimating centers**
 * Create a ```dotPlot``` of the scores for your *predominant color*.
 
-    – Pro-tip: If the ```dotPlot``` comes out looking wonky, try changing the value of the
-    *character expansion* argument, ```cex```.
-
-    – The default value is ```1```. Try a few values between ```0``` and ```1``` and a few more values
-    larger than ```1```.
+    – Pro-tip: If the ```dotPlot``` comes out looking wonky, include the ```nint``` and ```cex``` options. 
 
 * Based on your ```dotPlot```:
 
@@ -74,20 +69,6 @@ answered by calculating the mean, median and MAD.
     – **Are the ```mean``` and ```median``` roughly the same? If not, use the ```dotPlot``` you made
     in the last slide to describe why.**
 
-###**Comparing introverts/extroverts**
-* Make a ```dotPlot``` of your *predominant color* again; but this time, facet the plot based on
-introvert/extrovert variables. 
-
-* Use a line of code, using similar syntax to how you facet plots, to *calculate* a value that
-describes the *center of your predominant color* for introverts and extroverts.
-
-    – **Do introverts or extroverts differ in their typical scores for your predominant
-    color? Answer this statistical question using your ```dotPlot```.**
-
-* **```Assign``` the mean values a name. Then place the name into the ```diff()``` function to
-calculate the difference. How much more/less did introverts/extroverts score over the
-other for your predominant color?**
-
 ###**Estimating Spread**
 
 * Now that we know how to describe our data's *typical* value we might also like to describe
@@ -97,13 +78,13 @@ how closely the rest of the data are to this *typical* value.
 
     – Variability is seen in a ```histogram``` or ```dotPlot``` as the horizontal *spread*.
 
-* **Look at the spread of the ```dotPlot``` you made for your predominant color then fill in the
-blank:**
+* Re-create a ```dotPlot``` of the scores for your *predominant* color and then run the code below filling in the blank with the name of your predominant color:    
+
+        add_line(vline = mean(~____, data = colors))
+
+* **Look at the spread of the scores from the mean score then complete the sentence below:**
 
     *Data points in my plot will usually fall within <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> units of the center.*
-
-* **Which group (introvert or extrovert), if either, seem to have values that are more spread out from the
-center?**
 
 ###**Mean Absolute Deviation**
 * The **mean absolute deviation** finds how far away, on average, the data are from the mean.
@@ -114,11 +95,22 @@ center?**
 
         MAD(~_____, data = colors)
 
-* **Based on the MAD, which group (introverts or extroverts) has more variability for your predominant
-color's scores?**
+* **How close was your estimate of the spread for your predominant color (from the previous slide) to the actual value?**
 
-    – **Does this match the answer you gave for the last question in the previous
-    slide?**
+###**Comparing introverts/extroverts**
+* Do introverts and extroverts differ in their typical scores for your predominant color?
+
+    – Answer this investigative question using a dotPlot and numerical summaries.
+
+* Make a ```dotPlot``` of your predominant color again; but this time, facet the plot by the introvert/extrovert variable. Include the ```layout``` option to stack the plots as well as the ```nint``` and ```cex``` options.
+
+* **Describe the shape of the distribution of scores for the extroverts. Do the same for the introverts.**
+
+* Using similar syntax to how you facet plots, calculate either the ```mean``` or ```median``` to describe the *center* of your predominant color for introverts and extroverts.
+
+* Do introverts and extroverts differ in their typical scores for your predominant color?
+
+* Based on the MAD, which group (introverts or extroverts) has more variability for your predominant color’s scores?
 
 ###**On your own**
 

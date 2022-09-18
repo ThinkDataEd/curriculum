@@ -5,7 +5,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 * In the last lab, we looked at how we can use computer simulations to compute estimates of
 simple probabilities.
 
-* Like the probability of drawing a song genre from a playlist.
+    – Like the probability of drawing a song genre from a playlist.
 
 * We also saw that performing *more* simulations:
 
@@ -43,10 +43,11 @@ probability of choosing a *rap* song.
 function to ```FALSE```.
 
 * Take a sample of ```size``` 100 from our playlist of songs *without replacement*. Assign this sample the
-name ```without```.
+name ```without```. 
 
-    – **What do you notice if you run `tally(~without)`? Does something similar happen if
-    you sample *with replacement*?**
+    – **Run ```tally(without)``` and describe the output. Does something similar happen if you sample *with replacement*?**
+
+    * Notice that the tilde ```~``` was not needed with the ```tally``` function. This is because ```without``` was not a variable within a data frame but rather a vector which acts like a lone variable.
 
     – **What happens if ```size = 101``` and ```replace = FALSE```?**
     
@@ -75,8 +76,9 @@ sample *without replacement*? Why?**
 * Let's write a more realistic simulation and estimate the probability that if we select two songs at
 random, without replacement, that both are rap songs.
 
-    – Use the ```do``` function to perform 10 simulated ```sample```s of ```size``` 2, with replacement and
-    *assign* the simulations the name draws.
+    – Use the ```do``` function to perform 10 simulated ```sample```s of ```size``` 2, without replacement and *assign* the simulations the name ```draws``` and then ```View``` your file. Use ```set.seed(1)```.
+
+**What are the variable names? What happened in the first simulation? Did any of your 10 simulations contain two rap songs?**    
 
 ###**Simulations and probability**
 * To estimate the probability from our simulations, we need to find the proportion of times that the
@@ -94,18 +96,19 @@ following trick to count the number of *rap* songs in each of the 10 simulations
 
         mutate(draws, nrap = rowSums(draws=="rap"))
 
-* **For each of the lines of code below, describe how the output of the code changes as we
-move from line to line.**
+* **Let’s break down the code above by running each part of the code one piece at a time. As you run each line of code below describe the output.**
 
         draws == "rap"
         rowSums(draws == "rap")
         mutate(draws, nrap = rowSums(draws=="rap"))
 
+* Remember to assign a name to your mutated data set.        
+
 ###**Counting other outcomes**
 * Another method we can use to estimate the probability of complex events is to use the following
 2-step procedure:
 
-    `1. Subset the rows of the simulations that match our desired outcomes.
+    `1. Subset or filter the rows of the simulations that match our desired outcomes.
 
     `2. Count the number of rows in the subset and divide by the number of simulations.
 
@@ -114,7 +117,7 @@ occured.
 
 * We'll see an example of this method on the next slide.
 
-###**Section 1.01 Step 1: Creating a subset**
+###**Step 1: Creating a subset**
 * Fill in the blanks below to:
 
     `1. Create a subset of our simulations when both draws were ```"rap"``` songs.
@@ -128,6 +131,7 @@ occured.
 
 
 ###**Estimating probabilities**
+* Answer the following questions by performing 500 simulations of sampling 2 songs from a playlist of 30 rap, 23 country and 47 rock songs:
 
 * **Calculate estimated probabilities for the following situations:**
 
@@ -135,9 +139,7 @@ occured.
 
     `2. You draw a ```"rap"``` song in the first draw and a ```"country"``` song in the 2nd.
 
-* **Create a histogram that displays the number of times a ```"rap"``` song occurred in each
-simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap
-songs?**
+* **Create a histogram that displays the number of times a ```"rap"``` song occurred in each simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap songs?**
 
 ###**On your own**
 

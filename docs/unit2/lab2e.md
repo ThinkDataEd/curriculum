@@ -25,26 +25,35 @@ occurs by chance.
 
     – **Which gender had more survivors? Write down a few sentences as to how
     you came to your conclusion. Be sure to look at both the *counts* and
-    *proportion* of survivors before deciding.**
+    *percentages* of survivors in each group before deciding.**
 
-    – **Calculate the difference between the proportion of females who survived and
-    the proportion of males who survived. Is the difference large enough to
+    – **Calculate the difference between the percentage of females who survived and
+    the percentage of males who survived. Is the difference large enough to
     conclude that women tend to survive more often than men?**
 
 ###**Tally whoa ... !**
 
 * Something you might have noticed is that these two lines of code aren't equivalent:
 
-        tally(gender ~ survival, data = slasher)
-        tally(survival ~ gender, data = slasher)
+        tally(gender ~ survival, data = slasher, margin = TRUE)
+        tally(survival ~ gender, data = slasher, margin = TRUE)
 
-* One of these lines takes the group of *survivors* and tells us how many of them were ```Male``` or
-```Female```.
+* The first line of code takes the group of *survivors* and tells us how many of them were ```Male``` or ```Female```.
 
-* The other takes the group of *females* and tells us how many of them ```Dies``` or ```Survives```.
+* The other takes the group of *females / males* and tells us how many of them ```Dies``` or ```Survives```.
 
-* **The last question on the previous slide can be answered using the 2nd line of code.
-Why?**
+* **The last question on the previous slide can be answered using the line of code below. Why?**
+
+    - Pro-tip: Include the option ```format = "percent"``` to obtain a two-way table with percentages.
+    
+     
+            tally(survival ~ gender, format = "percent", data = slasher, margin = TRUE)
+
+            ##           gender
+            ## survival      Female      Male
+            ##   Dies      77.47748  86.69202
+            ##   Survives  22.52252  13.30798
+            ##   Total    100.00000 100.00000
 
 ###**Examining differences**
 * When we're comparing the difference between two quantities, such as survival rates of
@@ -71,30 +80,40 @@ Compare the resulting table to the one you wrote down.
             data = slasher)
 
 ###**Let's compare ...**
-* **How many people survived, in total, the slasher film before shuffling? How many
+* **How many people, in total, survived the slasher film before shuffling? How many
 people survived after shuffling?**
 
-* **How has shuffling our data changed the proportion of women who survived
+* **How has shuffling our data changed the percentage of women who survived
 compared to men who survived?**
 
-    – **Is the difference in proportions from your shuffled data larger or smaller than
+    – **Is the difference in percentages from your shuffled data larger or smaller than
     the difference from the original data? Interpret what this means.**
 
 * **Explain why shuffling our data one time is not enough to decide if the difference seen
 in our *actual* data occurs by chance or not.**
 
 ###**Detecting differences**
-* To help us decide if the difference in proportions in our actual data occurs by chance or not,
+* To help us decide if the difference in percentages in our *actual* data occurs by chance or not,
 we can use the ```do()``` function to shuffle our data many times and see how often our *actual*
 difference occurred by chance.
 
-* Use ```do```, ```tally``` and ```shuffle``` functions to ```shuffle``` the ```survival``` variable and ```tally``` the
-proportion of women who survived 500 times. ```Assign``` your 500 shuffles the name ```shuffles```
+* Run the following lines of code:
 
-* **```View``` your shuffled data and explain what the rows and each column represents.**
+        set.seed(7)
 
-* **For the first row of shuffled data in the ```shuffles```, what is the difference between
-proportion of females who survived and the proportion of males who survived?**
+        shuffled_outcomes <- do(10) * tally(shuffle(survival) ~ gender, format = "percent", 
+                                    data = slasher)
+
+        View(shuffled_outcomes)
+
+* **In how many simulations did a higher percentage of males survive than females?**
+
+* **What is the largest difference in percentages of survival between males and females?**
+
+* **What patterns are emerging from these simulations?**
+
+* Ten simulations is not enough. Use ```do```, ```tally``` and ```shuffle``` functions to ```shuffle``` the ```survival``` variable and ```tally``` the percentage of women who survived 500 times. ```Assign``` your 500 shuffles the name ```shuffled_survivors```. Use ```set.seed(1)```
+
 
 ###**Now what?**
 
@@ -104,20 +123,21 @@ to the differences in our shuffled data.
 * To compute the differences for each shuffle we can use the ```mutate``` function.
 
     – Fill in the blanks to add the difference between ```Survives.Female``` and
-    ```Survives.Male``` to our ```shuffles``` data.
+    ```Survives.Male``` to our ```shuffled_survivors``` data.
 
-            shuffles <- mutate(shuffles,
+            shuffled_survivors <- mutate(shuffled_survivors,
                     diff = ____ - ____)
 
 ###**Time to decide**
-* Create a ```histogram``` of the ```difference```s in our ```shuffles``` data. Based on your plot, answer
-the following
+* Create a ```histogram``` of the ```difference```s in our ```shuffled_survivors``` data. Based on your plot, answer the following:
 
-    – **What was the typical difference in proportions between men and women
-    survivors?**
+    – **What was the typical difference in percentages between men and women survivors?**
 
-    – **Locate the value of the *actual* difference in the plot. Does the actual difference
-    occur very often by chance alone?**
+* Include a vertical line in your histogram of the actual difference by running the code below:    
+
+        add_line(vline = 22.52252 - 13.30798)
+
+* **Does the actual difference occur very often by chance alone?**        
 
 * **Does ```gender``` play a role in whether or not a character will survive in a horror film?
 Explain your reasoning.**
@@ -148,7 +168,7 @@ than just chance alone ...
     reproducible.
 
 * **Does shuffling the ```gender``` variable instead of the ```survival``` variable change your
-answer to the question: *Does gender play a role in whether or not a character will
+answer to the question: *Does ```gender``` play a role in whether or not a character will
 survive in a horror film?* **
 
     – **Why or why not?**

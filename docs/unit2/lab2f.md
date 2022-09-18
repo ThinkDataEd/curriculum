@@ -5,7 +5,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 * In the previous lab, we learned that by using a ```do```-loop and the ```shuffle``` function, we could
 simulate randomly shuffling our data many times.
 
-* This helps us determine how likely it is that a difference between groups is due to chance.
+    - This helps us determine how likely it is that a difference between groups is due to chance.
 
 * For this lab, will extend these ideas to *numerical* variables by using random shuffling and
 numerical summaries.
@@ -32,7 +32,7 @@ passenger survived or not.
     Explain why and describe how certain you are of being correct.**
 
 ###**The search begins!**
-* Start your analysis by calculating how much more the *typical* survivor paid than the *typical* nonsurvivor
+* Start your analysis by calculating how much more the *typical* survivor paid than the *typical* non-survivor
 in our data.
 
     – Based on the distributions of fares paid, which numerical summary that describes the
@@ -48,10 +48,9 @@ typical survivor pay?**
 
     – For each shuffle, compute each group's ```median``` fare paid.
 
-    – ```Assign``` your shuffled data the name ```shuffles```.
+    – ```Assign``` your shuffled data the name ```shuffled_survival```.
 
-* After shuffling your data, use the ```mutate``` function to create a variable called ```diff``` to the shuffled
-medians you just calculated. (Assign your mutated data the name ```shuffles``` again).
+* After shuffling your data, use the ```mutate``` function to create a variable called ```diff```  which is the median fare of survivors minus the median fare of non-survivors. (Assign your mutated data the name ```shuffled_survival``` again).
 
 ###**Put your simulations to use**
 * **By using your shuffled data, answer the research question we posed at the beginning of
@@ -62,3 +61,19 @@ the lab.**
 
 * **Write up your answer as a statistical analysis. Create a plot and explain how the plot    
 supports your conclusion. Be sure to also explain why shuffling your data is important.**
+
+###**Comparing Mean Fares**
+* What about if instead of calculating the median fare price for each group after a shuffle, we calculated the mean fare price and took the difference (mean_survivor – mean_victim).
+
+* **If we did this 500 times, what do you predict the distribution of differences will look like?**
+
+* Use the ```do``` and the ```shuffle``` functions to shuffle the passenger’s survival status 500 times.
+
+    - For each shuffle, compute each group’s mean fare paid.
+
+    - After shuffling your data, use the ```mutate``` function to create a variable called ```diff``` which is the mean fare of survivors minus the mean fare of non-survivors.
+
+* **What does the shuffled data reveal? Does the answer to the research question below change when using the mean fares instead of the median fares?**
+
+*Is there any evidence to suggest that those who survived paid a higher fare than those who died?*
+
