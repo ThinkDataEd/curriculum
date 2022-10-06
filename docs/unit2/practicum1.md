@@ -12,7 +12,7 @@ about the sample statistical investigative questions below. Guide the discussion
 groups being compared in each question, but also what is being compared about the groups. Remind
 them of the Data Cycle from [Unit 1](../unit1/overview.md).
 
-<img src="../../img/2xp0a.png" />
+<img src="../../img/2xp0a.png" width="500" height="600"/>
 
 Using the *Food Habits* campaign data or *Personality Color* survey data, develop a new statistical investigative question
 that compares two or more groups. Some sample statistical investigative questions (about other data sets) are below:
