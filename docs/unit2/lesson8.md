@@ -99,7 +99,7 @@ want to flip the coin 10 times, we could simply change the function to **rflip(1
 
     100. In the output, what does **Number of Heads: 3 [Proportion Heads: 0.3]** mean?
     
-        **<u>Note:</u>** This is example output. Your sample may have a different value for the number of
+        **<u>Note:</u>** This is an example output. Your sample may have a different value for the number of
         heads that appeared, and thus a different value for the proportion of heads. <span style="color:grey">***This is
         RStudio telling us that in our sample, we got heads 3 out of the 10 times we flipped
         the coin. The***</span> **sample proportion** <span style="color:grey">***is automatically calculated for us by dividing the
