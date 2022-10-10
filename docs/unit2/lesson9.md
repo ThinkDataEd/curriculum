@@ -168,7 +168,7 @@ is fair, each of the bars in the histogram should be roughly the same height.***
     <img src="../../img/20919.png" />
 
     The Script will be stored in the files tab. To run each function individually, place your cursor on
-    the line and hit the Run button. To run multiple lines of code at once, highlight them and hit Run.
+    the line and click the Run button. To run multiple lines of code at once, highlight them and click Run.
 
 20. Allow the students to access their school computers now to start creating their own simulations in
 an RScript using die B. Students can pair up, if needed. Have them begin by asking RStudio to
@@ -179,9 +179,11 @@ not exact. With the sample sizes of each simulation being fairly small, we canno
 clear difference between the two dice yet.***</span>
 
 21. Let the students explore by changing the number of times RStudio rolls the dice. Remind them
-that the goal is to determine which of the two dice is biased. **<u>Note:</u>** The sample sizes need to be
+that the goal is to determine which of the two dice is biased. The sample sizes need to be
 very large in order for them to see a clear difference between the 2 histograms. The pattern
-becomes more visible when **times = 2000**.
+becomes more visible when **times = 2000**.  
+
+    **<u>Note:</u>**  The maximum value for `times` within the `roll_die()` command is 500. Simulations can be combined using the concatenate function `c()`. For example suppose s1 represents 500 rolls of die A and s2 is a second sample of 500 rolls for die A. To combine these two samples the following can be used `more_rolls <- c(s1, s2)`
 
 22. When students have had enough time to make a decision regarding which dice is biased and how,
 engage the class in a discussion to verify that everyone agrees. <span style="color:grey">***Die B is biased; Die A is fair.
