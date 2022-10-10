@@ -141,7 +141,7 @@ following sentence frame:
 
     “Household sizes typically vary from the mean by <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>people.”
 
-    **> sd(~socializing, data=atus)**
+    **> sd(~household_size, data=atus)**
 
     Socializing
 
