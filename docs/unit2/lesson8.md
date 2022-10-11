@@ -20,7 +20,7 @@ probability, simulation, model, sample proportion, chance, independence
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Probability is an area that we humans have poor intuition about. Probability
+    Probability is an area about which we humans have poor intuition. Probability
     measures a long-run proportion: 50% chance means the event happens 50% of the time *if you repeated it
     forever*. When we don't repeat forever, we see variability.
 
@@ -31,7 +31,8 @@ happened by chance,” what does that mean? <span style="color:grey">***Synonyms
 unintentional, unplanned. The actual definition of chance is “a possibility of something
 happening.”***</span>
 
-2. Then, ask them which game – chess or the board game, “Sorry” – is more based on chance. Why? **<u>Note:</u>** Any game can be
+2. Then, ask them which game – chess or the board game, “Sorry” – is more based on chance. Why?  
+ **<u>Note:</u>** Any game can be
 chosen. <span style="color:grey">***"Sorry" is more based on chance because many
 outcomes are determined by dice rolls. In chess there are certain strategies and
 movements that can be planned, so it is more a game of skill. For "Sorry" the players roll a
@@ -50,7 +51,7 @@ the following questions:
     100. Is it *possible* to get 78 heads in a row when tossing a coin? <span style="color:grey">***Yes, it is possible to get 78
     heads in a row since one coin toss does not determine the next coin toss.***</span>
 
-    100. Do you think it is *likely* to get 78 heads in a row? <span style="color:grey">***No. No, although it is possible to get 78
+    100. Do you think it is *likely* to get 78 heads in a row? <span style="color:grey">***No, although it is possible to get 78
     heads in a row.***</span>
 
     100. How many times should we get heads when tossing a coin? <span style="color:grey">***1 out of 2 times, or 50% of
@@ -74,7 +75,7 @@ different approach by using simulations (see next step).
 9. Since we don’t want to actually flip a coin 78 times like the actors did in the video, we can have
 RStudio simulate them for us. A **simulation** is a way of creating random events that are close to
 real-life situations without actually doing them. It is a kind of **model**, which is a way of
-representing real world situations so that predictions can be made.
+representing real-world situations so that predictions can be made.
 
 10. Explain to students that R has a function that does coin flipping for us, and that it assumes an
 equal probability of heads and tails. Using a projector to display your computer screen to the
@@ -132,7 +133,7 @@ record the values for the number of heads and the proportion of heads.
 
     <span style="color:grey">***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proportion of heads: 0.538***</span>
 
-15. Have students answer the questions listed below. The important thing to note is that the values
+15. Have students answer the questions below. The important thing to note is that the values
 can and (almost always) WILL change each time you run the simulation to create a new sample.
 
     100. How do the proportions of heads in the samples compare to each other? <span style="color:grey">***Answers will
@@ -148,7 +149,7 @@ can and (almost always) WILL change each time you run the simulation to create a
 
 16. Ask students to engage in a discussion with their group about the statement below, then have a few group reporters share out.
 
-    100. If a coin was flipped 78 times, I would claim that the coin if unfair if I got less than <b><span style="color:purple">#</span></b> heads or more than <b><span style="color:purple">#</span></b> heads.
+    100. If a coin was flipped 78 times, I would claim that the coin is unfair if I got less than <b><span style="color:purple">#</span></b> heads or more than <b><span style="color:purple">#</span></b> heads.
 
 17. Inform students that you are going to perform 500 simulations. Each simulation represents a coin being flipped 78 times. For each simulation, the computer will record the number of heads in the 78 flips. A histogram will be created that represents the number of heads in each of the simulations. The histogram is a model that will display what typically happens when a fair coin is flipped 78 times.
 
@@ -163,7 +164,7 @@ can and (almost always) WILL change each time you run the simulation to create a
 19. Engage the students in a discussion about the histogram:
 
     100. What is this distribution telling us?
-    <span style="color:grey">***When flipping a fair coin 78 times what typically happened was that it landed on heads between 36 and 40 times (36/78 = 0.46 to 40/78 = 0.51). It was not uncommon for the coin to land on heads 31-35 (0.40-0.45) times or 41-45 (0.52-0.58) times. Even landing on heads between 46-50 (0.59-0.64) times was not too uncommon. What was very uncommon, however, was landing on heads less than 30 times (less than 38%) or more than 51 times (more than 65%).***</span>
+    <span style="color:grey">***When flipping a fair coin 78 times, what typically happened was that it landed on heads between 36 and 40 times (36/78 = 0.46 to 40/78 = 0.51). It was not uncommon for the coin to land on heads 31-35 (0.40-0.45) times or 41-45 (0.52-0.58) times. Even landing on heads between 46-50 (0.59-0.64) times was not too uncommon. What was very uncommon, however, was landing on heads less than 30 times (less than 38%) or more than 51 times (more than 65%).***</span>
 
     100. Were your group's cut-offs (item #16) similar to what the chance model displayed?
     <span style="color:grey">***Answers will vary. Some groups' intervals might be very wide and others very narrow.***</span>

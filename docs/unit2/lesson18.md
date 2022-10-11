@@ -59,13 +59,6 @@ variable height_in. Subset the data for the males and create a histogram for hei
 
     <img src="../../img/21804.png" />
 
-    **Note:** For students who are skeptical about the distribution being normal, demonstrate how
-    changing the number of bins distributes the values to create more of a bell shape.
-
-    **> histogram(~height_in, data = males, nint = 30)**
-
-    <img src="../../img/21804b.png" />
-
 5. Ask students:
 
     100. Does the distribution of teenage male heights look approximately normal? Explain.
@@ -73,7 +66,7 @@ variable height_in. Subset the data for the males and create a histogram for hei
     symmetric and somewhat bell-shaped, so it might be approximately normal.***</span>
         
     100. What do you approximate the mean height of the distribution to be? standard deviation?
-    <span style="color:grey">***Answers will vary. Use this as a check for understanding of standard deviation.
+    <span style="color:grey">***Answers will vary. Use this as a check for understanding of standard deviation as well as estimating the mean as the balancing point of a distribution.
     See next step for calculating the actual mean.***</span>
 
 6. Use RStudio to calculate the mean and standard deviation to compare student answers to the
@@ -88,31 +81,31 @@ actual values.
 7. Have students draw a number line with seven equally spaced intervals and label it “Teen male
 height in inches.” Make sure students leave about 5 centimeters of space above the number line
 to draw a normal curve. Have students label the middle tick mark with the mean male height
-(Round to the nearest tenth of an inch=69 inches). Then ask students:
+(Round to the nearest tenth of an inch=69.2 inches). Then ask students:
 
     100. What height is one standard deviation above the mean? <span style="color:grey">***Answer: A teen male whose
-    height is 72.4 inches is one standard deviation above the mean male height.***</span>
+    height is 72.5 inches is one standard deviation above the mean male height.***</span>
 
     100. What height is one standard deviation below the mean? <span style="color:grey">***Answer: A teen male whose
-    height is 65.6 inches is one standard deviation below the mean male height.***</span>
+    height is 65.9 inches is one standard deviation below the mean male height.***</span>
 
     Have students label their number line with these values.
 
 8. Have students continue filling their number line with the corresponding heights that are 2 and 3
-standard deviations from the mean. <span style="color:grey">***Answer: A male who is 62.2 inches tall is two standard
+standard deviations from the mean. <span style="color:grey">***Answer: A male who is 62.6 inches tall is two standard
 deviations below the mean male height. A male with a height of 75.8 inches is two
-standard deviations above the mean. A male that is 58.8 inches tall is three standard
-deviations below the mean, and a male who is 79.2 inches tall is three standard deviations
+standard deviations above the mean. A male that is 59.3 inches tall is three standard
+deviations below the mean, and a male who is 79.1 inches tall is three standard deviations
 above the mean.***</span>
 
 9. Ask students: If the distribution of teen male heights is approximately normal, what percentage of
-males are between 66.6 inches tall and 72.4 inches tall? <span style="color:grey">***Answer: If the distribution of male
-heights is approximately normal, about 68% of males should be between 65.6 inches and
-72.4 inches tall.***</span>
+males are between 65.9 inches tall and 72.5 inches tall? <span style="color:grey">***Answer: If the distribution of male
+heights is approximately normal, about 68% of males should be between 65.9 inches and
+72.5 inches tall.***</span>
 
 10. Use RStudio to confirm if indeed the distribution of male heights is approximately normal.
 
-    **> one_sd_males <- filter(males, height_in > 65.6, height_in < 72.4)**
+    **> one_sd_males <- filter(males, height_in > 65.9, height_in < 72.5)**
 
     <span style="color:grey">***Answer: There are 5,119 males in this sample of 7749 males whose height are one
     standard deviation from the mean, so 5119/7749 = 0.66. This means that around 66% of
