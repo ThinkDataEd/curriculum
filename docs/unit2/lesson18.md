@@ -76,7 +76,7 @@ actual values.
 
     **> sd_male_height_in <- sd(~height_in, data = males)**
 
-    <img src="../../img/21806.png" />
+    <img src="../../img/21806.png" /width="300" height="50">
 
 7. Have students draw a number line with seven equally spaced intervals and label it “Teen male
 height in inches.” Make sure students leave about 5 centimeters of space above the number line
@@ -107,16 +107,16 @@ heights is approximately normal, about 68% of males should be between 65.9 inche
 
     **> one_sd_males <- filter(males, height_in > 65.9, height_in < 72.5)**
 
-    <span style="color:grey">***Answer: There are 5,119 males in this sample of 7749 males whose height are one
-    standard deviation from the mean, so 5119/7749 = 0.66. This means that around 66% of
+    <span style="color:grey">***Answer: There are 4,263 males in this sample of 6641 males whose height are one
+    standard deviation from the mean, so 4263/6641 = 0.64. This means that around 64% of
     males’ heights in this sample fall within one standard deviation from the mean male height.
     This is close to 68%, so it seems that the distribution of male heights is approximately
     normally distributed.***</span>
 
     <span style="color:grey">**<u>Note:</u>** If you continue this process for this sample you will find that the Empirical rule isn’t a
     perfect model for this distribution, but no distribution is perfectly normally distributed.
-    In this sample, 6835/7749=88% of the male heights fall within 2 standard deviations of the mean,
-    and 7172/7749=93% of the male heights fall within 3 standard deviations of the mean. Another
+    In this sample, 5667/6641=85% of the male heights fall within 2 standard deviations of the mean,
+    and 5934/6641=89% of the male heights fall within 3 standard deviations of the mean. Another
     factor that can be contributing to this is the fact that we are considering height of teen males
     rather than adult males. In this case, young men’s heights are slightly more variable since they’re
     still growing; but we can still use the normal distribution as a convenient approximation to reality.</span>
@@ -141,21 +141,21 @@ normal curve:
 teenage male heights. This will allow us to make comparisons, draw conclusions, and make
 predictions about male heights. Let’s see:
 
-    100. What proportion of teenage males are shorter than 69 inches? Explain. <span style="color:grey">***Answer: About
-    50% of teenage males are shorter than 69 inches. Since normal distributions are
+    100. What proportion of teenage males are shorter than 69.2 inches? Explain. <span style="color:grey">***Answer: About
+    50% of teenage males are shorter than 69.2 inches. Since normal distributions are
     symmetric, the mean and the median are about the same. Since the median divides
     a distribution into equal halves, then in this case so does the mean.***</span>
     
-    100. What proportion of teenage males are between 69 and 72.4 inches tall? <span style="color:grey">***Answer: About
-    34% of teenage males are between 69 and 72.4 inches tall. According to the
+    100. What proportion of teenage males are between 69.2 and 72.5 inches tall? <span style="color:grey">***Answer: About
+    34% of teenage males are between 69.2 and 72.5 inches tall. According to the
     Empirical rule, 68% of the observations fall within one standard deviation of the
     mean, and since normal distributions are symmetric, the area under the curve from
     the mean to one standard deviation is half of 68% or 34%.***</span>
     
-    100. What proportion of males are taller than 72.4 inches? <span style="color:grey">***Answer: About 16% of teenage
-    males are taller than 72.4 inches. From part a and b above, we know that
-    50%+34%=84% of teen males are shorter than 72.4 inches, so 100%-84%=16% are
-    taller than 72.4 inches.***</span>
+    100. What proportion of males are taller than 72.5 inches? <span style="color:grey">***Answer: About 16% of teenage
+    males are taller than 72.5 inches. From part a and b above, we know that
+    50%+34%=84% of teen males are shorter than 72.5 inches, so 100%-84%=16% are
+    taller than 72.5 inches.***</span>
 
 13. Inform students that they will now investigate the distribution of teenage female heights. Run
 each of these functions from your script one by one. When you run the second function, ask
@@ -191,7 +191,7 @@ means. Then, demonstrate how to find the z-score for a female height and a male 
 Remind students from the normal curve that as you move farther from the center (from the mean),
 there are fewer observations. Therefore, a large z-score is considered an unusual value.
 
-18. Have students calculate their z-score. Ask the class:
+18. Have students calculate the z-score for a male that is 67 inches tall. Ask the class:
 
     100. What does a negative z-score mean? <span style="color:grey">***A negative z-score means the x value is below
     the mean. This means that the height is below average.***</span>
