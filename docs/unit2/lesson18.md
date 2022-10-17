@@ -160,6 +160,7 @@ Ask the class:
 19. Tell students that the shaded area represents a percentile in the distribution. A percentile is the exact value in which the desired proportion of observations lies below the specific value in a distribution. Use RStudio to calculate the percentile.
 
     **pnorm(100, mean = 119.6, sd = 18.2) = 0.140**
+
 20. Doctors report percentiles to describe a child's development compared to other children their age. For a baby that weighs 100 ounces, a doctor would report the following: “The baby is at the 14th percentile in weight.” This means that the baby weighs more than 14% of all babies.
 
     <b>Note:</b> A z-score can also be used to calculate a percentile, but since a z-score is a standardized score, the mean of the distribution would be zero and the standard deviation would be one.
