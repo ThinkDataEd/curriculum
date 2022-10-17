@@ -43,200 +43,131 @@ properties.
     <img src="../../img/21803.png" />
 
 4. Open RStudio and project for students to see. Read in the babies data set by following these steps:  
+     <ul>
      <li>On your <b>Environment Pane</b> go to Import Dataset</li>
      <li>Choose <b>From Text (readr)...</b></li>   
      <li>Paste the following in the <b>File/URL</b> box:  
-     http://people.hsc.edu/faculty-staff/blins/classes/spring17/math222/data/babies.csv. </li>
+     http://people.hsc.edu/faculty-staff/blins/classes/spring17/math222/data/babies.csv </li>
      <li>Click on <b>Update</b> and then <b>Import</b></li> 
+     </ul>
      
      Scroll through the spreadsheet so that students can see the variables. Ask student teams to predict which of the variables in the "babies" dataset they think might be normally distributed. Choose a couple of teams to share out.
 
-Description of variables:
+    Description of variables:
+        <ul>
+        <li> bwt - birth weight (in ounces)</li>
+        <li>gestation - length of the pregnancy (in days)</li>
+        <li>parity - 1 if baby was first born, 0 otherwise</li>
+        <li>age - mother’s age (in years)</li>
+        <li>height - mother’s height (in inches)</li>
+        <li>weight - mother’s weight (in lbs.)</li>
+        <li>smoke - 1 if the mother is a smoker, 0 otherwise</li>
+        </ul>
 
-    bwt - birth weight (in ounces)
-    gestation - length of the pregnancy (in days)
-    parity - 1 if baby was first born, 0 otherwise
-    age - mother’s age (in years)
-    height - mother’s height (in inches)
-    weight - mother’s weight (in lbs.)
-    smoke - 1 if the mother is a smoker, 0 otherwise
 
-
-5. Create histograms using the variables the student teams shared. Note: There are a few variables that look normally distributed such as the birth mother's heights. We will investigate the babie's birthweights.
+5. Create histograms using the variables shared by student teams. There are a few variables that look normally distributed, such as the birth mother's heights. We will investigate the babies’ birth weights.
 
     ** histogram(~bwt, data = babies)**
 
     <img src="../../img/21804.png" />
 
-5. Ask students:
+6. Ask students:
 
-    100. Does the distribution of baby birthweights look approximately normal? Explain.
-    <span style="color:grey">***Answer: The distribution of baby birthweights is unimodal and roughly
-    symmetric and somewhat bell-shaped, so it might be approximately normal.***</span>
+    100. Does the distribution of baby birth weights look approximately normal? Explain.
+    <span style="color:grey">***Answer: The distribution of baby birth weights is unimodal,roughly symmetric, and somewhat bell-shaped, so it might be approximately normal.***</span>
         
-    100. What do you approximate the mean weight of the distribution to be? standard deviation?
-    <span style="color:grey">***Answers will vary. Use this as a check for understanding of standard deviation as well as estimating the mean using the balancing point concept.
-    See next step for calculating the actual mean weight.***</span>
+    100. What do you approximate the mean weight of the distribution to be? How about the standard deviation?
+    <span style="color:grey">***Answers will vary. Use this as a check for understanding of standard deviation as well as estimating the mean using the balancing point concept. See next step for calculating the actual mean weight and standard deviation.***</span>
 
-6. Use RStudio to calculate the actual mean and standard deviation.
+7. Use RStudio to calculate the actual mean and standard deviation.
 
-    ** mean_bwt <- mean(~bwt, data = males)**
+    ** mean_bwt <- mean(~bwt, data = babies)**
 
-    ** sd_male_height_in <- sd(~height_in, data = males)**
+    ** sd_bwt <- sd(~bwt, data = babies)**
 
     <img src="../../img/21806.png" /width="300" height="50">
 
-7. Have students draw a number line with seven equally spaced intervals and label it “Teen male
-height in inches.” Make sure students leave about 5 centimeters of space above the number line
-to draw a normal curve. Have students label the middle tick mark with the mean male height
-(Round to the nearest tenth of an inch=69.2 inches). Then ask students:
+8. Have students draw a number line with seven equally spaced intervals and label it “Baby birth weights in ounces.” Make sure students leave about 5 centimeters of space above the number line to draw a normal curve. Have students label the middle tick mark with the mean baby weight (round to the nearest tenth of an ounce=119.6 ounces). Then ask students:
 
-    100. What height is one standard deviation above the mean? <span style="color:grey">***Answer: A teen male whose
-    height is 72.5 inches is one standard deviation above the mean male height.***</span>
+    100. What weight is one standard deviation above the mean? <span style="color:grey">***Answer: A baby whose weight is 137.8 ounces is one standard deviation above the mean baby weight.***</span>
 
-    100. What height is one standard deviation below the mean? <span style="color:grey">***Answer: A teen male whose
-    height is 65.9 inches is one standard deviation below the mean male height.***</span>
+    100. What weight is one standard deviation below the mean? <span style="color:grey">***Answer: A baby whose weight is 101.4 ounces is one standard deviation below the mean baby weight.***</span>
 
     Have students label their number line with these values.
 
-8. Have students continue filling their number line with the corresponding heights that are 2 and 3
-standard deviations from the mean. <span style="color:grey">***Answer: A male who is 62.6 inches tall is two standard
-deviations below the mean male height. A male with a height of 75.8 inches is two
-standard deviations above the mean. A male that is 59.3 inches tall is three standard
-deviations below the mean, and a male who is 79.1 inches tall is three standard deviations
-above the mean.***</span>
+9. Have students continue filling their number line with the corresponding weights that are two and three standard deviations from the mean. <span style="color:grey">***Answer: Answer: A baby who weighs 156 ounces is two standard deviations above the mean weight, and a baby who weighs 174.2 ounces is three standard deviations above the mean weight. A baby who weighs 83.2 ounces is two standard deviations below the mean weight, and a baby who weighs 65 ounces is three standard deviations below the mean weight.***</span>
 
-9. Ask students: If the distribution of teen male heights is approximately normal, what percentage of
-males are between 65.9 inches tall and 72.5 inches tall? <span style="color:grey">***Answer: If the distribution of male
-heights is approximately normal, about 68% of males should be between 65.9 inches and
-72.5 inches tall.***</span>
+10. Ask students: If the distribution of baby weights is approximately normal, what percentage of babies weigh between 101.4 ounces and 137.8 ounces? <span style="color:grey">***Answer: If the distribution of baby weights is approximately normal, about 68% of babies should weigh between 101.4 ounces and 137.8 ounces.***</span>
 
-10. Use RStudio to confirm if indeed the distribution of male heights is approximately normal.
+11. Use RStudio to confirm if indeed the distribution of baby weights is approximately normal.
 
-    **> one_sd_males <- filter(males, height_in > 65.9, height_in < 72.5)**
+    **one_sd_bwt <- filter(babies, bwt > 101.4, bwt < 137.8)**
 
-    <span style="color:grey">***Answer: There are 4,263 males in this sample of 6641 males whose height are one
-    standard deviation from the mean, so 4263/6641 = 0.64. This means that around 64% of
-    males’ heights in this sample fall within one standard deviation from the mean male height.
-    This is close to 68%, so it seems that the distribution of male heights is approximately
-    normally distributed.***</span>
+    <span style="color:grey">***Answer: In this sample of 1236 observations, there are 861 babies whose weights are one standard deviation from the mean, so 861/1236 = 0.697. This means that around 69.7% of the weights of the babies in this sample fall within one standard deviation from the mean baby weight. This is close to 68%, so it seems that the distribution of baby weights is approximately normally distributed.***</span>
 
-    <span style="color:grey">**<u>Note:</u>** If you continue this process for this sample you will find that the Empirical rule isn’t a
-    perfect model for this distribution, but no distribution is perfectly normally distributed.
-    In this sample, 5667/6641=85% of the male heights fall within 2 standard deviations of the mean,
-    and 5934/6641=89% of the male heights fall within 3 standard deviations of the mean. Another
-    factor that can be contributing to this is the fact that we are considering height of teen males
-    rather than adult males. In this case, young men’s heights are slightly more variable since they’re
-    still growing; but we can still use the normal distribution as a convenient approximation to reality.</span>
+    <span style="color:grey">**<u>Note:</u>** If you continue this process for this sample, you will find that the distribution of baby weights is normally distributed as defined by the Empirical Rule. In this sample, 1171/1236 = 94.7% of the baby weights fall within two standard deviations of the mean, and 1229/1236 =99.4% of the baby weights fall within three standard deviations of the mean.</span>
 
-11. Now that it has been verified that a normal distribution is an appropriate model for this distribution,
+12. Now that it has been verified that a normal distribution is an appropriate model for this distribution,
 have students draw a normal curve above the number line. Suggested method to obtain a decent
 normal curve:
 
-    • Step 1: Draw a dot 4 centimeters above the mean height
+    • Step 1: Draw a dot 4 centimeters above the mean weight
 
-    • Step 2: Draw dots 2.4 cm above the heights that are 1 standard deviation from the mean
+    • Step 2: Draw dots 2.4 cm above the weights that are 1 standard deviation from the mean
     
-    • Step 3: Draw dots 0.36 cm above the heights that are 2 standard deviation from the
+    • Step 3: Draw dots 0.36 cm above the weights that are 2 standard deviation from the
     mean
 
-    • Step 4: Draw dots right above the number line for the heights that are 3 standard
+    • Step 4: Draw dots right above the number line for the weights that are 3 standard
     deviation from the mean
 
     • Step 5: Connect the dots with a smooth curve
 
-12. Tell students that we are using this normal curve as a model to represent the distribution of all
-teenage male heights. This will allow us to make comparisons, draw conclusions, and make
-predictions about male heights. Let’s see:
+13. Tell students that we are using this normal curve as a model to represent the distribution of all baby weights. This will allow us to make comparisons, draw conclusions, and make predictions about baby weights. Let’s see:
 
-    100. What proportion of teenage males are shorter than 69.2 inches? Explain. <span style="color:grey">***Answer: About
-    50% of teenage males are shorter than 69.2 inches. Since normal distributions are
-    symmetric, the mean and the median are about the same. Since the median divides
-    a distribution into equal halves, then in this case so does the mean.***</span>
+    100. What percentage of babies weigh less than 119.6 ounces? Explain. <span style="color:grey">***Answer: About 50% of babies weigh less than 119.6 ounces. Since normal distributions are symmetric, the mean and the median are about the same. Since the median divides a distribution into equal halves, in this case so does the mean.***</span>
     
-    100. What proportion of teenage males are between 69.2 and 72.5 inches tall? <span style="color:grey">***Answer: About
-    34% of teenage males are between 69.2 and 72.5 inches tall. According to the
-    Empirical rule, 68% of the observations fall within one standard deviation of the
-    mean, and since normal distributions are symmetric, the area under the curve from
-    the mean to one standard deviation is half of 68% or 34%.***</span>
+    100. What percentage of babies weigh between 119.6 and 137.8 ounces? <span style="color:grey">***Answer: About 34% of babies weigh between 119.6 and 137.8 ounces. According to the Empirical Rule, 68% of the observations fall within one standard deviation of the mean, and since normal distributions are symmetric, the area under the curve from the mean to one standard deviation is half of 68% or 34%.***</span>
     
-    100. What proportion of males are taller than 72.5 inches? <span style="color:grey">***Answer: About 16% of teenage
-    males are taller than 72.5 inches. From part a and b above, we know that
-    50%+34%=84% of teen males are shorter than 72.5 inches, so 100%-84%=16% are
-    taller than 72.5 inches.***</span>
+    100. What percentage of babies weigh more than 137.8 ounces? <span style="color:grey">***Answer: About 16% of babies weigh more than 137.8 ounces. From part a and b above, we know that 50%+34%=84% of babies weigh less than 137.8 ounces, so 100%-84%=16% weigh more than 137.8 ounces.***</span>
 
-13. Inform students that they will now investigate the distribution of teenage female heights. Run
-each of these functions from your script one by one. When you run the second function, ask
-students if the distribution of teen female heights looks approximately normal. Then inform them
-that the approach we are going to take to verify whether it is or not is to overlay the histogram
-with a normal curve. Run the third function.
 
-    **> females <- filter(cdc, gender == “Female”)**
-
-    **> histogram(~height_in, data = females)**
-
-    **> histogram(~height_in, data = females, fit = “normal”)**
-    
-    **> mean(~height_in, data = females)**
-
-    **&nbsp;**
-
-    **> sd(~height_in, data = females)**
-
-14. Repeat steps 7, 8 and 11 with the distribution of teenage female heights.
-
-15. Explain that statisticians use something called a **z-score** to compare values. A z-score tells us
+14. Explain that statisticians use something called a **z-score** to compare values. A z-score tells us
 how many standard deviations away from the mean an observation is. Another name for z-score
 is a **standardized score**.
 
-16. Introduce the formula for calculating a z-score and discuss what each symbol in the formula
-means. Then, demonstrate how to find the z-score for a female height and a male height.
+15. Introduce the formula for calculating a z-score and discuss what each symbol in the formula
+means.
 
     <center><img src="https://latex.codecogs.com/gif.latex?z=\frac{x-\bar{x}}{s}" title="z=\frac{x-\bar{x}}{s}" /></center>
 
-17. Explain that z-scores answer the question: how typical is x? If x is the same as the typical value
-(the mean), then z = 0. If x is one standard deviation away from the mean, then z = -1 or +1.
-Remind students from the normal curve that as you move farther from the center (from the mean),
-there are fewer observations. Therefore, a large z-score is considered an unusual value.
+16. Explain that z-scores answer the question: “How typical is x?” If x is the same as the typical value (the mean), then z = 0. If x is one standard deviation away from the mean, then z = -1 or +1. Remind students from the normal curve that as you move farther from the center (from the mean), there are fewer observations. Therefore, a large z-score is considered an unusual value.
 
-18. Have students calculate the z-score for a male that is 67 inches tall. Ask the class:
-
+17. Have students calculate the z-score for a baby that weighs 100 ounces:  
+    z = (100 - 119.6) / 18.2 = -1.08  
+Ask the class:
     100. What does a negative z-score mean? <span style="color:grey">***A negative z-score means the x value is below
-    the mean. This means that the height is below average.***</span>
+    the mean. This means that the weight is below average.***</span>
 
     100. What does a positive z-score mean? <span style="color:grey">***A positive z-score means the x value is above
-    the mean. This means that the height is above average.***</span>
+    the mean. This means that the weight is above average.***</span>
 
     100. What is the most negative z-score you think we will find? What is the most positive zscore?
-    <span style="color:grey">***Typically, values in a normal distribution rarely fall outside 2 or 3 standard
-    deviations from the mean. So, if our data is purely by chance, we probably won’t
-    see any values that are less than -3 or greater than +3.***</span>
+    <span style="color:grey">***Typically, values in a normal distribution rarely fall outside two or three standard deviations from the mean. For data derived from chance, we probably won’t see any values that are less than -3 or greater than +3.***</span>
 
-19. Ask students: “Where do you fall within the distribution of height for your gender”? Then tell them
-to find their height (in inches) on the x-axis of the normal curve corresponding to their gender, and
-draw a vertical line from the x-axis until it intersects the normal curve. Have them shade the area
-under the curve to the left of the vertical line.
+18. Ask students: “Where does a baby that weighs 100 ounces fall within the distribution of baby weights?” Have students find 100 ounces on the x-axis of the normal curve and draw a vertical line from the x-axis until it intersects the normal curve. Have them shade the area under the curve to the left of the vertical line.
 
-20. Tell students that the shaded area represents their percentile in the distribution. A percentile is
-the exact value in which the desired proportion of observations lie below the specific value in a
-distribution. For example, with regard to people’s heights, the 70<sup>th</sup> percentile would be the height
-that is taller than exactly 70% of the observations. Ask for a female and male volunteer and use
-RStudio to demonstrate how to find the percentile for their respective heights. The sample below
-would be used for a teen male that is 70 inches tall.
+19. Tell students that the shaded area represents a percentile in the distribution. A percentile is the exact value in which the desired proportion of observations lies below the specific value in a distribution. Use RStudio to calculate the percentile.
 
-    **> pnorm(70, mean = 69, sd = 3.4)** = 0.615666
+    **pnorm(100, mean = 119.6, sd = 18.2) = 0.140**
+20. Doctors report percentiles to describe a child's development compared to other children their age. For a baby that weighs 100 ounces, a doctor would report the following: “The baby is at the 14th percentile in weight.” This means that the baby weighs more than 14% of all babies.
 
-    The following sentence frame can be used to help male students interpret their percentile.
-    I am at the <u>&nbsp;&nbsp;&nbsp;&nbsp;62nd&nbsp;&nbsp;&nbsp;&nbsp;</u> percentile in the distribution of teen male heights. That means that I am
-    taller than <u>&nbsp;&nbsp;&nbsp;&nbsp;62%&nbsp;&nbsp;&nbsp;&nbsp;</u> of all teen males, but shorter than <u>&nbsp;&nbsp;&nbsp;&nbsp;38%&nbsp;&nbsp;&nbsp;&nbsp;</u> of all teen males.
-    Note: A student’s z-score can also be used, but since a z-score is a standardized score, the
-    mean of the distribution would be zero and the standard deviation would be 1.
+    <b>Note:</b> A z-score can also be used to calculate a percentile, but since a z-score is a standardized score, the mean of the distribution would be zero and the standard deviation would be one.
 
-    **> pnorm(0.294, mean = 0, sd = 1)** = 0.615621
+    **pnorm(-1.08, mean = 0, sd = 1) = 0.140**
 
-21. Inform the class that they will be using RStudio during the next few days to practice using normal
-models. Remind them to calculate and interpret their percentile in the distribution of height for
-their gender.
+21. Inform the class that they will be using RStudio during the next few days to practice using normal models. 
+
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
