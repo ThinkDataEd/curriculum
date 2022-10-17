@@ -1,11 +1,7 @@
 ##***<u>Lesson 18: What’s Your Z-Score?</u>***
 
 ###**Objective:**
-Students will understand that a z-score can be used to measure how far away - or how many standard
-deviations - an observation is away from the mean. Usually, z-scores will range between -3 and +3. For
-simulations involving shuffling, if we compute a z-score that lies far away from the mean, then we might
-conclude that the outcome was not due to chance. If we see a z-score that lies close to the mean, then
-we might conclude it was by chance.
+Students will understand that a z-score can be used to measure how far - or how many standard deviations - an observation is away from the mean. Typically z-scores will range between -3 and +3. For simulations involving shuffling, if we compute a z-score that lies far away from the mean, then we might conclude that the outcome was not due to chance. If we see a z-score that lies close to the mean, then we might conclude it was by chance.
 
 ###**Materials:**
 1. Projector to display RStudio function
@@ -20,14 +16,12 @@ z-score, standardized score, Empirical Rule
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    z-scores offer us a way to measure how extreme a value is, regardless of the units
-    of measurement. Usually, z-scores will range between -3 and +3, so values that are at or are more
-    extreme than -3 or +3 standard deviations are considered extremely rare.
+    z-scores offer us a way to measure how extreme a value is, regardless of the units of measurement. Typically z-scores will range between -3 and +3, so values that are at or are more extreme than -3 or +3 standard deviations are considered extremely rare.
 
 ###**Lesson:**
 1. Ask students to recall what they remember about normal distributions.
     
-    <span style="color:grey">***Answer: Normal distributions are unimodal and symmetric and are often referred to as
+    <span style="color:grey">***Answer: Normal distributions are unimodal and symmetric, and are often referred to as
     bell-shaped. Some real-life examples of variables that produce normal distributions are
     people’s heights, scores on standardized tests, and body temperatures.***</span>
 
@@ -48,33 +42,47 @@ properties.
 
     <img src="../../img/21803.png" />
 
-4. Open RStudio and project for students to see. Using RStudio, load the cdc data and create a new
-variable height_in. Subset the data for the males and create a histogram for height_in.
+4. Open RStudio and project for students to see. Read in the babies data set by following these steps:  
+     <li>On your <b>Environment Pane</b> go to Import Dataset</li>
+     <li>Choose <b>From Text (readr)...</b></li>   
+     <li>Paste the following in the <b>File/URL</b> box:  
+     http://people.hsc.edu/faculty-staff/blins/classes/spring17/math222/data/babies.csv. </li>
+     <li>Click on <b>Update</b> and then <b>Import</b></li> 
+     
+     Scroll through the spreadsheet so that students can see the variables. Ask student teams to predict which of the variables in the "babies" dataset they think might be normally distributed. Choose a couple of teams to share out.
 
-    **> cdc <- mutate(cdc, height_in = height * 39.3701)**
+Description of variables:
 
-    **> males <- filter(cdc, gender == “Male”)**
+    bwt - birth weight (in ounces)
+    gestation - length of the pregnancy (in days)
+    parity - 1 if baby was first born, 0 otherwise
+    age - mother’s age (in years)
+    height - mother’s height (in inches)
+    weight - mother’s weight (in lbs.)
+    smoke - 1 if the mother is a smoker, 0 otherwise
 
-    **> histogram(~height_in, data = males)**
+
+5. Create histograms using the variables the student teams shared. Note: There are a few variables that look normally distributed such as the birth mother's heights. We will investigate the babie's birthweights.
+
+    ** histogram(~bwt, data = babies)**
 
     <img src="../../img/21804.png" />
 
 5. Ask students:
 
-    100. Does the distribution of teenage male heights look approximately normal? Explain.
-    <span style="color:grey">***Answer: The distribution of teenage male heights is unimodal and roughly
+    100. Does the distribution of baby birthweights look approximately normal? Explain.
+    <span style="color:grey">***Answer: The distribution of baby birthweights is unimodal and roughly
     symmetric and somewhat bell-shaped, so it might be approximately normal.***</span>
         
-    100. What do you approximate the mean height of the distribution to be? standard deviation?
-    <span style="color:grey">***Answers will vary. Use this as a check for understanding of standard deviation as well as estimating the mean as the balancing point of a distribution.
-    See next step for calculating the actual mean.***</span>
+    100. What do you approximate the mean weight of the distribution to be? standard deviation?
+    <span style="color:grey">***Answers will vary. Use this as a check for understanding of standard deviation as well as estimating the mean using the balancing point concept.
+    See next step for calculating the actual mean weight.***</span>
 
-6. Use RStudio to calculate the mean and standard deviation to compare student answers to the
-actual values.
+6. Use RStudio to calculate the actual mean and standard deviation.
 
-    **> mean_male_height_in <- mean(~height_in, data = males)**
+    ** mean_bwt <- mean(~bwt, data = males)**
 
-    **> sd_male_height_in <- sd(~height_in, data = males)**
+    ** sd_male_height_in <- sd(~height_in, data = males)**
 
     <img src="../../img/21806.png" /width="300" height="50">
 
