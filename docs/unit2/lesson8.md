@@ -155,11 +155,12 @@ can and (almost always) WILL change each time you run the simulation to create a
 
 18. Copy and paste the code below in an RScript and run each line of code, one at a time, for the students:
 
-    <b>set.seed(11)<span style="color:green">#reproducibility</span>  
-    flips <- do(500)*rflip(78)  
-    View(flips) <span style="color:green"># 4 variables</span>  
-    histogram(~heads, data = flips)  
-    favstats(~heads, data = flips)  </b>
+
+        set.seed(11) #reproducibility 
+        flips <- do(500)*rflip(78)  
+        View(flips) # 4 variables
+        histogram(~heads, data = flips)  
+        favstats(~heads, data = flips)
 
 19. Engage the students in a discussion about the histogram:
 
