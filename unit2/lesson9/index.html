@@ -3000,12 +3000,14 @@ multiple lines of code at one time. This would be a good place to introduce stud
 <p>Using a projector to display your computer screen to the whole class, demonstrate how to open
 an RScript. Type the following function on your script and click Run. Run simply pastes the
 function onto the console.</p>
-<p><strong>&gt; roll_die(“A”, times = 1)</strong></p>
+<pre><code>roll_die(“A”, times = 1)
+</code></pre>
 </li>
 <li>
 <p>The output will show one number that represents what value on the die the computer rolled. Go
 back to your script and modify the function to roll die A 12 times.</p>
-<p><strong>&gt; roll_die(“A”, times = 12)</strong></p>
+<pre><code>roll_die(“A”, times = 12)
+</code></pre>
 </li>
 <li>
 <p>Compare the results of these 12 simulated rolls to the results of the 12 actual rolls completed by
@@ -3023,9 +3025,10 @@ how many times each die value appeared.</em></strong></span></p>
 <p>To make using the <strong>tally()</strong> function easier, we should assign a name to each simulation so we
 don’t have to type the entire function multiple times. We can also have it calculate the proportions
 for each value. Add the functions below to your RScript and run them one at a time.</p>
-<p><strong>&gt; sample1 &lt;- roll_die(“A”, times = 100)</strong></p>
-<p><strong>&gt; tally(sample1)</strong></p>
-<p><strong>&gt; tally(sample1, format = “proportion”)</strong></p>
+<pre><code>sample1 &lt;- roll_die(“A”, times = 100)
+tally(sample1)
+tally(sample1, format = “proportion”)
+</code></pre>
 </li>
 <li>
 <p>Remind the students that if the die is fair, then the each side of the die should appear roughly the
@@ -3037,7 +3040,8 @@ true probability of 1/6.</p>
 histogram of the simulated data might look like and then run the command on your screen. Note:
 Be sure to include the argument <strong>nint = 6</strong> so that the resulting histogram has six bars. <span style="color:grey"><strong><em>If the die
 is fair, each of the bars in the histogram should be roughly the same height.</em></strong></span></p>
-<p><strong>&gt; histogram(sample1, nint = 6)</strong></p>
+<pre><code>histogram(sample1, nint = 6)
+</code></pre>
 <p>Note to teacher: Show students how to save an RScript. Inform students that they can take notes
 on their RScript by including a hashtag (also known as a pound sign or #) at the beginning of the
 note. Data scientists refer to these types of notes as “code comments” or simply “comments”. See
