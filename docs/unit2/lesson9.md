@@ -122,12 +122,12 @@ dice is the biased one by doing multiple simulations.
 an RScript. Type the following function on your script and click Run. Run simply pastes the
 function onto the console.
 
-    **> roll_die(“A”, times = 1)**
+        roll_die(“A”, times = 1)
 
 14. The output will show one number that represents what value on the die the computer rolled. Go
 back to your script and modify the function to roll die A 12 times.
 
-    **> roll_die(“A”, times = 12)**
+        roll_die(“A”, times = 12)
 
 15. Compare the results of these 12 simulated rolls to the results of the 12 actual rolls completed by
 the two students during Step 9. If there is space available on the tally chart, you can add the
@@ -143,11 +143,9 @@ how many times each die value appeared.***</span>
 don’t have to type the entire function multiple times. We can also have it calculate the proportions
 for each value. Add the functions below to your RScript and run them one at a time.
 
-    **> sample1 <- roll_die(“A”, times = 100)**
-
-    **> tally(sample1)**
-
-    **> tally(sample1, format = “proportion”)**
+        sample1 <- roll_die(“A”, times = 100)
+        tally(sample1)
+        tally(sample1, format = “proportion”)
 
 18. Remind the students that if the die is fair, then the each side of the die should appear roughly the
 same amount of times. Therefore, the proportions should be fairly similar to each other and to the
@@ -158,7 +156,7 @@ histogram of the simulated data might look like and then run the command on your
 Be sure to include the argument **nint = 6** so that the resulting histogram has six bars. <span style="color:grey">***If the die
 is fair, each of the bars in the histogram should be roughly the same height.***</span>
 
-    **> histogram(sample1, nint = 6)**
+        histogram(sample1, nint = 6)
 
     Note to teacher: Show students how to save an RScript. Inform students that they can take notes
     on their RScript by including a hashtag (also known as a pound sign or #) at the beginning of the
