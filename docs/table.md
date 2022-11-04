@@ -429,7 +429,7 @@
   <tr>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Lesson 8: <a href="../unit2/lesson8">How LikelyIis It?</a></td>
+    <td class="tg-zv4m">Lesson 8: <a href="../unit2/lesson8">How Likely is It?</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Probability, simulations</td>
     <td class="tg-8jgo"><a href="../unit2/lesson8">150</a></td>
