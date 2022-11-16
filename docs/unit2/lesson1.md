@@ -72,7 +72,7 @@ is to get the students to think about “what is typical?” within their groups
 
     100. What things do you have in common?
 
-    100. What are you favorite activities?
+    100. What are your favorite activities?
 
     100. What’s your favorite color?
 

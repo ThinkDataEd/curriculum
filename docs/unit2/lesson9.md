@@ -49,7 +49,7 @@ should be if a die (number cube) were tossed into the air and allowed to fall ba
 (or table). <span style="color:grey">***Since there are 6 numbers on the die, each number should be equally likely to
 occur, so the probability of rolling a 1 is 1/6.***</span>
 
-6. Display a piece of poster paper on the board with columns labeled 1, 2, 3, 4 5, 6. Explain that
+6. Display a piece of poster paper on the board with columns labeled 1, 2, 3, 4, 5, 6. Explain that
 each column represents the numbers on the die (number cube). We will be using poster to tally
 the results of actual dice (number cube) rolls.
 
@@ -98,7 +98,7 @@ process 5 more times so that each student has a total of 6 rolls.
     that? <span style="color:grey">***Answers will vary by class. Some examples include: (1) We could add tape to
     one face of the die to give that side more weight. This would increase the chances
     of the number that is directly opposite of it appearing because the die will land on
-    the heavier side more (and therefore the side facing up will the be number
+    the heavier side more (and therefore the side facing up will be the number
     opposite). (2) We could chip the edge of one corner of the die. This would throw off
     the original balance and favor certain sides.***</span>
 
@@ -147,7 +147,7 @@ for each value. Add the functions below to your RScript and run them one at a ti
         tally(sample1)
         tally(sample1, format = “proportion”)
 
-18. Remind the students that if the die is fair, then the each side of the die should appear roughly the
+18. Remind the students that if the die is fair, then each side of the die should appear roughly the
 same amount of times. Therefore, the proportions should be fairly similar to each other and to the
 true probability of 1/6.
 
@@ -181,7 +181,7 @@ that the goal is to determine which of the two dice is biased. The sample sizes 
 very large in order for them to see a clear difference between the 2 histograms. The pattern
 becomes more visible when **times = 2000**.  
 
-    **<u>Note:</u>**  The maximum value for `times` within the `roll_die()` command is 500. Simulations can be combined using the concatenate function `c()`. For example suppose s1 represents 500 rolls of die A and s2 is a second sample of 500 rolls for die A. To combine these two samples the following can be used `more_rolls <- c(s1, s2)`
+    **<u>Note:</u>**  The maximum value for `times` within the `roll_die()` command is 500. Simulations can be combined using the concatenate function `c()`. For example, suppose s1 represents 500 rolls of die A and s2 is a second sample of 500 rolls for die A. To combine these two samples the following can be used `more_rolls <- c(s1, s2)`
 
 22. When students have had enough time to make a decision regarding which dice is biased and how,
 engage the class in a discussion to verify that everyone agrees. <span style="color:grey">***Die B is biased; Die A is fair.

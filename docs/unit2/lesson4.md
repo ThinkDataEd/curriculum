@@ -93,7 +93,7 @@ the MAD value might represent.
     <span style="color:grey">***deviation – as discussed earlier in the lesson, deviation represents how much
     things vary***</span>
 
-13. Using the 3 concepts in Step 10, explain that the MAD measures the absolute distance of each
+13. Using the 3 components in Step 12, explain that the MAD measures the absolute distance of each
 data point from the mean, and then finds the average of all those distances.
 
 14. Display the formula for the MAD distribution for the whole class to see.

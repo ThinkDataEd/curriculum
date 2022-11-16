@@ -46,7 +46,7 @@ Learn to use simulations to determine expectations of events.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 1. Students will use complex sentences to construct summary statements about their understanding of
-data, how it is collected, how it used and how to work with it.
+data, how it is collected, how it is used and how to work with it.
 
 2. Students will engage in partner and whole group discussions and presentations to express their
 understanding of data science concepts.

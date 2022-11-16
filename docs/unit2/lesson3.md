@@ -37,7 +37,7 @@ the middle value in a group of ordered observations.
 
     8, 2, 6, 3, 7, 4, 9, 5, 5
 
-3. Since there are 9 numbers in the list above, we should be use the 5<sup>th</sup> number as the median
+3. Since there are 9 numbers in the list above, we should use the 5<sup>th</sup> number as the median
 because it is directly in the middle and there are 4 numbers above it, and 4 numbers below it.
 
 4. However, students should realize that they cannot simply pick the middle number of the list as it

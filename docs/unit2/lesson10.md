@@ -39,7 +39,7 @@ ask them to raise their hand. If there are students who disagree, lead a class d
 consensus is reached.
 
 5. Ask students to share their strategies on how to convert the **proportion** into a **percentage**. As
-strategies are being shared, students should take notes in their DS journals. Review how to turn
+strategies are being shared, students should take notes in their IDS journals. Review how to turn
 fractions into percentages, if necessary.
 
 6. Ask students:
@@ -57,7 +57,7 @@ fractions into percentages, if necessary.
 
     100. Draw one marble out of the bag.
 
-    100. Record the marble’s color in their DS journal.
+    100. Record the marble’s color in their IDS journal.
 
     100. Replace the marble back into the bag. Inform them that this is called sampling **with
     replacement**. Ask them to consider what “with replacement” means and discuss with the
