@@ -138,14 +138,14 @@ occurring.***</span>
 14. Distribute the *Compound Probabilities* handout ([LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf)).
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf)</div>
 
-15. Pass out a blue sticky note to each female student and a gold sticky note to each male student.
+15. Pass out a blue sticky note to each student who plays a sport and a gold sticky note to each student who does not play a sport.
 
 16. Draw the table from the worksheet on the board (make it large and legible).
 
-17. Have each female student hold up their sticky note. Count them and record the number of
-females in the appropriate row of the TOTAL column in the table.
+17. Have each student who plays a sport hold up their sticky note. Count them and record the number of
+students who play a sport in the appropriate row of the TOTAL column in the table.
 
-18. Have each male student hold up their sticky note. Count them and record the number of females
+18. Have each student who does not play a sport hold up their sticky note. Count them and record the number of students who do not play a sport
 in the appropriate row of the TOTAL column in the table.
 
 19. Ask each student which of the following ice cream flavors they most prefer (each student must
@@ -153,9 +153,9 @@ choose exactly one option): Vanilla, Chocolate or Rocky Road.
 
     100. Have the students write their ice cream preference on their sticky note.
 
-    100. Fill out the remainder of the table by asking each gender to hold up their preference.
+    100. Fill out the remainder of the table by asking each group of students, those who play a sport and those who do not, to hold up their preference.
 
-    100. Make sure the totals for preferred ice cream flavors and genders add up to the same
+    100. Make sure the totals for preferred ice cream flavors and sports involvement add up to the same
     number.
 
 20. Instruct the students to work in pairs to answer the questions on the *Compound Probabilities*

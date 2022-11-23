@@ -36,7 +36,7 @@ chance, simulations, randomness, shuffle
 
     100. How many responses have been shared? How many remain private? *Click on pie chart.*
 
-    100. Using TPS, ask students to think about what can they do to increase their data collection.
+    100. Using TPS, ask students to think about what they can do to increase their data collection.
 
 3. Conduct a discussion about the data that has been collected.
 
@@ -115,7 +115,7 @@ percent of males who survived by the end of a horror movie was about **13%**. As
     10%. This means that 10% more women characters survived than men.***</span>
     
     100. Is this difference “big” or “small”? How can they define what is “big” and what is “small?”
-    <span style="color:grey">***Answers will vary by class. Upon first glance, it may seem like 10% a big difference,
+    <span style="color:grey">***Answers will vary by class. Upon first glance, it may seem like 10% is a big difference,
     but we do not know for sure.***</span>
 
 15. Explain that they will participate in an activity to determine if the 10% difference seen in the actual
@@ -142,7 +142,7 @@ should write either “dies” or “survives” on their card.
 
     <span style="color:grey">***Three of the female characters are survivors; so 3 female characters from the group should write “survives” on their cards. The rest of the group should write “dies” on their cards.***</span>
 
-    <span style="color:grey">***Two of the male characters are survivors; so 2 male characters from the group should write “survives” on their cards. The rest of the group should write “dies on their cards.***</span>
+    <span style="color:grey">***Two of the male characters are survivors; so 2 male characters from the group should write “survives” on their cards. The rest of the group should write “dies" on their cards.***</span>
 
 18. Explain to students that *IF* there really is no difference between genders in horror films, then the
 characters who survived would only have done so by chance. In other words, males and females
