@@ -148,7 +148,7 @@ for their tickets.
 whatever value was calculated in Step 13 by the class) to represent the actual difference in the
 median fare prices between the survivors and the victims (see example below).
 
-    <img src="../../img/21422.png" /> <!--Redo-- the point will be at 13/>
+    <img src="../../img/21422.png" />
 
 23. Using the information from Steps 19 and 20, place a dot at the corresponding value
 for the shuffled data’s difference in medians. Ask the students:
