@@ -27,7 +27,7 @@ They will understand that these differences are usually small.
 shuffling based on categorical variables (gender and survival).
 
 2. Display the dotplot created during [Lesson 13](lesson13.md) of the difference in proportions between female and
-survivors of horror movies. Remind the students that, "by chance," the differences were typically
+survivors of horror movies. Remind the students that, "by chance," the differences were typically zero
 . Most of the time, they were pretty small. Sometimes they were bigger, but that was rare and
 this tells us that if we see "small" differences, we might think they are due to chance. But if we
 see "big" differences, they are not.
@@ -144,7 +144,7 @@ above BEFORE the shuffles have taken place.
 sometimes the survivors will pay more for their tickets, and other times the victims will pay more
 for their tickets.
 
-22. Draw a dotplot on the board labeled “Difference in Medians.” Include a vertical line at $26.00 (or
+22. Draw a dotplot on the board labeled “Difference in Medians.” Include a vertical line at $13.00 (or
 whatever value was calculated in Step 13 by the class) to represent the actual difference in the
 median fare prices between the survivors and the victims (see example below).
 
