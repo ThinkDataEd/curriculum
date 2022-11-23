@@ -4,7 +4,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 ###**Just the beginning**
 * Means, medians,and MAD are just a few examples of *numerical summaries*.
 
-* In this lab, we will learn earn how to calculate and interpret additional summaries of distributions
+* In this lab, we will learn how to calculate and interpret additional summaries of distributions
     such as: minimums, maximums, ranges, quartiles and IQRs.
 
     – We'll also learn how to write our first custom function!
@@ -19,7 +19,7 @@ and largest values.
 
 * **Find the ```min``` value and ```max``` value for your predominant color.**
 
-* **Use the ```range``` function to your predominant color and describe the output.**
+* **Apply the ```range``` function to your predominant color and describe the output.**
 
     – The *range* of a variable is the difference between a variable’s smallest and largest value.
 

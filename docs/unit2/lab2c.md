@@ -74,7 +74,7 @@ or very hard and complex calculations.
 
 * Now that we've got some different songs, we need to combine them together.
 
-    – To do this, we can use the combine function in ```c()``` in ```R```.
+    – To do this, we can use the combine function ```c()``` in ```R```.
 
 * Fill in the blanks to combine your different songs:
 
@@ -102,7 +102,7 @@ or very hard and complex calculations.
         * It is even more common to express a *proportion* as a percentage, 20%
 
 * **Once everyone in your class has computed their *proportions*, calculate the
-    *range* of *proportions* (The largest *proportion* minus the smallest *proportion*)
+    *range* of *proportions* (the largest *proportion* minus the smallest *proportion*)
     for your class and write it down.**
 
 ###**Now do() it some more**

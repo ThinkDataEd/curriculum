@@ -113,7 +113,7 @@ following trick to count the number of *rap* songs in each of the 10 simulations
     `2. Count the number of rows in the subset and divide by the number of simulations.
 
 * The result that you obtain is an estimate of the probability that a specific combination of events
-occured.
+occurred.
 
 * We'll see an example of this method on the next slide.
 
