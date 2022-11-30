@@ -74,7 +74,7 @@ properties.
 6. Ask students:
 
     100. Does the distribution of baby birth weights look approximately normal? Explain.
-    <span style="color:grey">***Answer: The distribution of baby birth weights is unimodal,roughly symmetric, and somewhat bell-shaped, so it might be approximately normal.***</span>
+    <span style="color:grey">***Answer: The distribution of baby birth weights is unimodal, roughly symmetric, and somewhat bell-shaped, so it might be approximately normal.***</span>
         
     100. What do you approximate the mean weight of the distribution to be? How about the standard deviation?
     <span style="color:grey">***Answers will vary. Use this as a check for understanding of standard deviation as well as estimating the mean using the balancing point concept. See next step for calculating the actual mean weight and standard deviation.***</span>
