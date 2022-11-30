@@ -95,7 +95,7 @@ properties.
 
     Have students label their number line with these values.
 
-9. Have students continue filling their number line with the corresponding weights that are two and three standard deviations from the mean. <span style="color:grey">***Answer: Answer: A baby who weighs 156 ounces is two standard deviations above the mean weight, and a baby who weighs 174.2 ounces is three standard deviations above the mean weight. A baby who weighs 83.2 ounces is two standard deviations below the mean weight, and a baby who weighs 65 ounces is three standard deviations below the mean weight.***</span>
+9. Have students continue filling their number line with the corresponding weights that are two and three standard deviations from the mean. <span style="color:grey">***Answer: A baby who weighs 156 ounces is two standard deviations above the mean weight, and a baby who weighs 174.2 ounces is three standard deviations above the mean weight. A baby who weighs 83.2 ounces is two standard deviations below the mean weight, and a baby who weighs 65 ounces is three standard deviations below the mean weight.***</span>
 
 10. Ask students: If the distribution of baby weights is approximately normal, what percentage of babies weigh between 101.4 ounces and 137.8 ounces? <span style="color:grey">***Answer: If the distribution of baby weights is approximately normal, about 68% of babies should weigh between 101.4 ounces and 137.8 ounces.***</span>
 
