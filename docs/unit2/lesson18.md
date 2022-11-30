@@ -115,11 +115,11 @@ normal curve:
 
     • Step 2: Draw dots 2.4 cm above the weights that are 1 standard deviation from the mean
     
-    • Step 3: Draw dots 0.36 cm above the weights that are 2 standard deviation from the
+    • Step 3: Draw dots 0.36 cm above the weights that are 2 standard deviations from the
     mean
 
     • Step 4: Draw dots right above the number line for the weights that are 3 standard
-    deviation from the mean
+    deviations from the mean
 
     • Step 5: Connect the dots with a smooth curve
 
