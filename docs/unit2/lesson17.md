@@ -61,7 +61,7 @@ during [Lesson 4](lesson4.md) of this unit.
 
 10. Show and discuss the formula for calculating the standard deviation of a data set:
 
-    <center><img src="https://latex.codecogs.com/gif.latex?MAD=\sqrt{\frac{\sum_{i=1}^{n}&space;(x_i-\bar{x})^2}{n}}" title="MAD=\sqrt{\frac{\sum_{i=1}^{n} (x_i-\bar{x})^2}{n}}" /></center>
+    <center><img src="https://latex.codecogs.com/gif.latex?s=\sqrt{\frac{\sum_{i=1}^{n}&space;(x_i-\bar{x})^2}{n}}" title="s=\sqrt{\frac{\sum_{i=1}^{n} (x_i-\bar{x})^2}{n}}" /></center>
 
     **<u>Note to teacher:</u>** There are different formulas for the standard deviation. We are presenting the
     simpler one, which divides by n. In AP Statistics (or college introductory statistics), students will
