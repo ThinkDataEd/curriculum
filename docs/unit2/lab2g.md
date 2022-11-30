@@ -19,7 +19,7 @@ data set.
 
     *How do people's personality colors and/or sports participation affect their stress levels?*
 
-* We already have data about *personality color* and a seperate data set about *stress*.
+* We already have data about *personality color* and a separate data set about *stress*.
 
     – What we don't have is a single data set with information from both ... yet.
 
@@ -94,7 +94,7 @@ both sets.
 
 * **What happens if you swap the order of the data sets in the ```merge``` function?**
 
-* Fill in the blank below to save our ```stress_color``` data for later use.
+* Fill in the blank below to save our ```stress_colors``` data for later use.
 
         save(stress_colors, file = "stress_colors.rda")
 
@@ -111,4 +111,4 @@ on variables from the ```colors``` data.**
     people in your class.**
 
 * **With our *colors* data, we could answer questions about the *typical* color scores in your
-class. Why can we no longer answer this question in our ```stress_color``` data?**
+class. Why can we no longer answer this question in our ```stress_colors``` data?**
