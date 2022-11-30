@@ -152,7 +152,7 @@ Ask the class:
     100. What does a positive z-score mean? <span style="color:grey">***A positive z-score means the x value is above
     the mean. This means that the weight is above average.***</span>
 
-    100. What is the most negative z-score you think we will find? What is the most positive zscore?
+    100. What is the most negative z-score you think we will find? What is the most positive z-score?
     <span style="color:grey">***Typically, values in a normal distribution rarely fall outside two or three standard deviations from the mean. For data derived from chance, we probably won’t see any values that are less than -3 or greater than +3.***</span>
 
 18. Ask students: “Where does a baby that weighs 100 ounces fall within the distribution of baby weights?” Have students find 100 ounces on the x-axis of the normal curve and draw a vertical line from the x-axis until it intersects the normal curve. Have them shade the area under the curve to the left of the vertical line.
