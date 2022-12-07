@@ -4,6 +4,10 @@
 
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Intro%2BUnit1_v%206.0_FINAL.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br></div>
 
+[IDS_Unit2_v 6.0_FINAL.pdf](../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Unit2_v 6.0_FINAL.pdf)
+
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Unit2_v 6.0_FINAL.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br></div>
+
 
 [Introduction to Data Science_Curriculum_v_5.0.pdf](../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/Introduction to Data Science_Curriculum_v_5.0.pdf)
 
