@@ -56,7 +56,7 @@ can complete the assignment on any Internet-enabled computer (e.g., at the schoo
 
 ###**Prerequisites**
 
-It is recommended that students successfully complete a first-year Algebra course prior to taking IDS.
+It is required that students successfully complete a first-year Algebra course prior to taking IDS.
 With this background, the curriculum provides a rigorous but accessible introduction to data science and
 statistics. No previous statistics or computer science courses are required to take this course.
 
