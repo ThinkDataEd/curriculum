@@ -19,8 +19,7 @@ value is also referred to as the mean, or average.
 
     [IDS Balancing Point app](https://www.idsucla.org/wp-content/uploads/mean.html)
 
-
-    <strong style="color: black;"></strong>[*Balancing Point* handout (LMR_2.2b)](https://ucla.box.com/s/ck7j7t1427lj4x32584tg32g111q13ip)</strong>
+    *Balancing Point* handout ([LMR_2.2b_Balancing_Point.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2b_Balancing_Point.pdf))
 
 
 6. Exported, printed, and reproduced class’s *Personality Color* survey data
