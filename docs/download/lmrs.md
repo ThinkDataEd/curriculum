@@ -54,51 +54,51 @@
 
 
 
-##**IDS_LMR_Unit 2_v_5.0**		
+##**IDS_LMR_Unit 2_v_6.0**		
 
-[LMR_2.1_True Colors Personality Test.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.1_True Colors Personality Test.pdf)
+[LMR_2.1_True Colors Personality Test.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.1_True Colors Personality Test.pdf)
 
-[LMR_2.2_Pennies on a Ruler.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.2_Pennies on a Ruler.pdf)
+[LMR_2.2_Pennies on a Ruler.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2_Pennies on a Ruler.pdf)
 
-[LMR_2.3_Mr. Jones Run Times.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.3_Mr. Jones Run Times.pdf)
+[LMR_2.3_Mr. Jones Run Times.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf)
 
-[LMR_2.4_Medians - Dotplots or Histograms.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)
+[LMR_2.4_Medians - Dotplots or Histograms.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)
 
-[LMR_2.5_Where is the Middle.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.5_Where is the Middle.pdf)
+[LMR_2.5_Where is the Middle.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)
 
-[LMR_2.6_How Far Apart.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf)
+[LMR_2.6_How Far Apart.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf)
 
-[LMR_2.7_Oscar Ages.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.7_Oscar Ages.pdf)
+[LMR_2.7_Oscar Ages.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.7_Oscar Ages.pdf)
 
-[LMR_2.8_Commute Times - Dotplots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.8_Commute Times - Dotplots.pdf)
+[LMR_2.8_Commute Times - Dotplots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.8_Commute Times - Dotplots.pdf)
 
-[LMR_2.9_Exam Scores - Histograms.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.9_Exam Scores - Histograms.pdf)
+[LMR_2.9_Exam Scores - Histograms.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.9_Exam Scores - Histograms.pdf)
 
-[LMR_2.10_Fuel Efficiency - Boxplots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)
+[LMR_2.10_Fuel Efficiency - Boxplots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)
 
-[LMR_2.11_Dotplots to Boxplots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.11_Dotplots to Boxplots.pdf)
+[LMR_2.11_Dotplots to Boxplots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.11_Dotplots to Boxplots.pdf)
 
-[LMR_2.12_Plot Match.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.12_Plot Match.pdf)
+[LMR_2.12_Plot Match.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.12_Plot Match.pdf)
 
-[LMR_2.13_Compound Probabilities.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.13_Compound Probabilities.pdf)
+[LMR_2.13_Compound Probabilities.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.13_Compound Probabilities.pdf)
 
-[LMR_2.14_Tangible Data Merging.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.14_Tangible Data Merging.pdf)
+[LMR_2.14_Tangible Data Merging.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf)
 
-[LMR_2.15_Normal Plots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf)
+[LMR_2.15_Normal Plots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)
 
-[LMR_2.16_How Far Apart SD.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf)
+[LMR_2.16_How Far Apart SD.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf)
 
-[LMR_Titanic Strips.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_Titanic Strips.pdf)
+[LMR_Titanic Strips.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic Strips.pdf)
 
-[LMR_U2_Campaign_StressChill.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_U2_Campaign_StressChill.pdf)
+[LMR_U2_Campaign_StressChill.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Campaign_StressChill.pdf)
 
-[LMR_U2_Design Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_U2_Design Project.pdf)
+[LMR_U2_Design Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design Project.pdf)
 
-[LMR_U2_Practicum_The Summaries.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_U2_Practicum_The Summaries.pdf)
+[LMR_U2_Practicum_The Summaries.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The Summaries.pdf)
 
-[LMR_U2_Practicum_What Stresses Us.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_U2_Practicum_What Stresses Us.pdf)
+[LMR_U2_Practicum_What Stresses Us.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_What Stresses Us.pdf)
 
-[LMR_U2_Practicum_Win Win Win.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_U2_Practicum_Win Win Win.pdf)
+[LMR_U2_Practicum_Win Win Win.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_Win Win Win.pdf)
 
 
 

@@ -4,7 +4,7 @@
 Students will learn how to merge two data sets and ask statistical questions about the merged data.
 
 ###**Materials:**
-1. *Tangible Data Merging* file ([LMR_2.14_Tangible Data Merging](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.14_Tangible Data Merging.pdf))
+1. *Tangible Data Merging* file ([LMR_2.14_Tangible Data Merging](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf))
 
     **Advanced preparation required** (see Step 4 of lesson)
 
@@ -42,12 +42,12 @@ out the different personality colors?***</span>
 (*Personality Color* and *Stress/Chill*). In order to do this, we will be practicing how to merge data
 sets today.
 
-5. Print out the material from the *Tangible Data Merging* file ([LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.14_Tangible Data Merging.pdf)). Use a different color of
+5. Print out the material from the *Tangible Data Merging* file ([LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf)). Use a different color of
 paper for each of the two data sets. For example, Data set 1 could be on plain white paper and
 Data set 2 could be on blue paper. Cut the paper by creating horizontal strips of each observation
 of data. For example, from the screenshot below, of the first page of Data Set 1, you would create 12 different strips of paper, one
 for each observation.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.14_Tangible Data Merging.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.14_Tangible Data Merging.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf)</div>
 
 
 6. Hand each student in the class a strip of paper. Ask them to try to find someone with the other

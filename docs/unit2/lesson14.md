@@ -6,7 +6,7 @@ They will understand that these differences are usually small.
 
 ###**Materials:**
 
-1. [*LMR_Titanic Strips*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_Titanic Strips.pdf)
+1. [*LMR_Titanic Strips*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic Strips.pdf)
 
     **Advanced preparation required** (see Step 8 of lesson)
 
@@ -50,7 +50,7 @@ much on your age, gender, and wealth.
 7. Inform the students that we are going to look at whether the amount of money a passenger paid
 for his/her cabin (the fare price) had anything to do with whether or not he/she survived.
 
-8. Each student will need a strip from the [*LMR_Titanic Strips*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_Titanic Strips.pdf) file—see below for instructions.
+8. Each student will need a strip from the [*LMR_Titanic Strips*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic Strips.pdf) file—see below for instructions.
 
     **Advanced preparation required:**
 
@@ -58,7 +58,7 @@ for his/her cabin (the fare price) had anything to do with whether or not he/she
     represents the data from one passenger: the left hand side shows the fare paid and right hand
     side contains the survival information of that passenger after the collision. Cut the LMR into strips
     such that the fare price is attached to the survivor status for each of the 40 observations.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_Titanic Strips.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_Titanic Strips](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_Titanic Strips.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic Strips.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_Titanic Strips](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic Strips.pdf)</div>
 
 9. 40 strips were created for large classes. If your class has less than 40 students, assign the
 students to two groups such that roughly 40% of them are in the survivor group (15/40 = 37.5% ≈

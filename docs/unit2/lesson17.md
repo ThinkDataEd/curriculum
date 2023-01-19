@@ -4,9 +4,9 @@
 Students will learn that standard deviation is another way to measure variability.
 
 ###**Materials:**
-1. *How Far Apart?* handout ([LMR_2.6_How Far Apart](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf)) – completed during [Lesson 4](lesson4.md)
+1. *How Far Apart?* handout ([LMR_2.6_How Far Apart](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf)) – completed during [Lesson 4](lesson4.md)
 
-2. *How Far Apart? (with standard deviation – SD)* handout ([LMR_2.16_How Far Apart SD](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf))
+2. *How Far Apart? (with standard deviation – SD)* handout ([LMR_2.16_How Far Apart SD](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf))
 
 3. Projector to display visuals using RStudio
 
@@ -56,7 +56,7 @@ variability. The standard deviation is similar to the mean absolute deviation (M
 deviation squares the distances of each data point from the mean. Both methods result in positive
 measurements because distance is always positive.
 
-9. Ask students to recall that they calculated MAD values in the *How Far Apart?* handout ([LMR_2.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.6_How Far Apart.pdf))
+9. Ask students to recall that they calculated MAD values in the *How Far Apart?* handout ([LMR_2.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf))
 during [Lesson 4](lesson4.md) of this unit.
 
 10. Show and discuss the formula for calculating the standard deviation of a data set:
@@ -72,8 +72,8 @@ during [Lesson 4](lesson4.md) of this unit.
     is called the “sample estimate of the standard deviation.”)
 
 11. Guide the class to complete the *How Far Apart? (with standard deviation -- SD)* handout
-([LMR_2.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf)) to calculate standard deviations of the dotplots using the formula listed above.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.16_How Far Apart SD.pdf)</div>
+([LMR_2.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf)) to calculate standard deviations of the dotplots using the formula listed above.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf)</div>
 
     <span style="color:grey">***Answers: Plot (a) – SD = 1.0847 candies; Plot (c) – SD = 1.3770 candies***</span>
 

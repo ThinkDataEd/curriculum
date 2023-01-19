@@ -4,9 +4,9 @@
 Students will learn how to create a boxplot from an already-established dotplot.
 
 ###**Materials:**
-1. *From Dotplots to Boxplots* handout ([LMR_2.11_Dotplots to Boxplots](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.11_Dotplots to Boxplots.pdf))
+1. *From Dotplots to Boxplots* handout ([LMR_2.11_Dotplots to Boxplots](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.11_Dotplots to Boxplots.pdf))
 
-2. Sets of plots from *Plot Match* file ([LMR_2.12_Plot Match](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.12_Plot Match.pdf)) – one for each team
+2. Sets of plots from *Plot Match* file ([LMR_2.12_Plot Match](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.12_Plot Match.pdf)) – one for each team
 
     **Advanced preparation required** (see Step 7 below)
 
@@ -35,10 +35,10 @@ have worked with other representations of distributions. Ask students:
     100. What other representations of distributions have we seen? <span style="color:grey">***Answers may include:
     dotPlots, bar charts, scatterplots, histograms, and tables.***</span>
 
-5. Distribute the *From Dotplots to Boxplots* handout ([LMR_2.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.11_Dotplots to Boxplots.pdf)). In teams, students will sketch
+5. Distribute the *From Dotplots to Boxplots* handout ([LMR_2.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.11_Dotplots to Boxplots.pdf)). In teams, students will sketch
 boxplots from dotplots. They will need to determine the five-number summaries of each plot, and
 should clearly label each value on their boxplots.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.11_Dotplots to Boxplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.11_Dotplots to Boxplots.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.11_Dotplots to Boxplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.11_Dotplots to Boxplots.pdf)</div>
 
 6. Students should answer the 3 questions included in the handout. They can discuss their answers
 in pairs, and then have a class share out of the responses.
@@ -46,14 +46,14 @@ in pairs, and then have a class share out of the responses.
 7. Once the discussion wraps up, inform the students that they will now attempt to find plots that
 represent the same data but are plotted differently.
 
-8. Distribute one set of plots, from the *Plot Match* file ([LMR_2.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.12_Plot Match.pdf)), to each student team.
+8. Distribute one set of plots, from the *Plot Match* file ([LMR_2.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.12_Plot Match.pdf)), to each student team.
 
     **<u>Advanced preparation required</u>**: Each student team will receive a set of plots containing all 15
-    plots from the *Plot Match* file ([LMR_2.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.12_Plot Match.pdf)). Copies will need to be cut and sorted prior to class
+    plots from the *Plot Match* file ([LMR_2.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.12_Plot Match.pdf)). Copies will need to be cut and sorted prior to class
     time. To keep the plots together, you can either paper clip them or place them in zippered bags.
 
     **<u>Note:</u>** Do not distribute the handout for students to cut out the plots!
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.12_Plot Match.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.12_Plot Match.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.12_Plot Match.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.12_Plot Match.pdf)</div>
 
 9. Inform students that they are now going to gather in their teams and practice matching different
 representations of distributions. Each group will receive 15 plots (5 dotPlots, 5 histograms, and 5
@@ -82,7 +82,7 @@ statements and/or questions in their DS journals:
     not be able to tell in a boxplot. In general, we lose the ability to talk about the
     overall shape of the distribution.***</span>
 
-11. Display the uncut version of the *Plot Match* file ([LMR_2.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.12_Plot Match.pdf)) so that students see the letters that
+11. Display the uncut version of the *Plot Match* file ([LMR_2.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.12_Plot Match.pdf)) so that students see the letters that
 correspond to each set of representations.
 
     <span style="color:grey">***Solution key:***</span>

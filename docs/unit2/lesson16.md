@@ -9,7 +9,7 @@ Students will learn what a Normal distribution is and learn how to identify a No
 
     **<u>Note:</u>** Show only the first 41 seconds of the video.
 
-2. Graphics from the *Normal Plots* file ([LMR_2.15_Normal Plots](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf))
+2. Graphics from the *Normal Plots* file ([LMR_2.15_Normal Plots](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf))
 
 3. Projector to display plots
 
@@ -28,15 +28,15 @@ bell-shaped, normal curve, normal distribution
 1. Remind students that in [Unit 1](../unit1/overview.md), [Lesson 11](../unit1/lesson11.md) (*What Shape Are You In?*), they sorted histograms into
 groups based on their shapes.
 
-2. The *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf)) contains some of the unimodal **bell-shaped** distributions from
+2. The *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)) contains some of the unimodal **bell-shaped** distributions from
 the original handout of that lesson (*Sorting* Histograms handout ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf))).
     
     **<u>Note:</u>** You do not need the original handout from [Unit 1](../unit1/overview.md) – all relevant plots have been compiled in
-    the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf)) for accessibility. Six plots are included: SAT Math, SAT Verb,
+    the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)) for accessibility. Six plots are included: SAT Math, SAT Verb,
     ACT Mathematics, ACT Reading, ACT English, and ACT Science Reasoning.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)</div>
 
-3. Display the group of bell-shaped distributions from page 1 of the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf)) to
+3. Display the group of bell-shaped distributions from page 1 of the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)) to
 the class and ask the students:
 
     100. What characteristic does this particular group share? <span style="color:grey">***All of these plots are unimodal
@@ -46,7 +46,7 @@ the class and ask the students:
     might this term be used? <span style="color:grey">***The histograms look very similar to the shape of a bell.***</span>
 
 4. To show the similarities between the shape of a bell and the shape of these distributions, a clip-art
-image (shown here) has been included in the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf)) on page 2.
+image (shown here) has been included in the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)) on page 2.
 
     <img src="../../img/21604.png" />
 
@@ -65,14 +65,14 @@ But the result is a curve that looks like the one in the “Bunnies” video. In
 like the plot shown below.
 
     **<u>Note:</u>** You can either draw the diagram below on the board or display it via a projector – the
-    image can be found on page 2 of the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf)).
+    image can be found on page 2 of the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)).
 
     <img src="../../img/21607.png" />
 
 8. Explain that normal distributions are good for describing some populations of people. For
 example, people’s heights are often considered to be normally distributed. Display the famous
 Frank Anscombe photograph (shown below) via a projector. The graphic can be found on page 2
-of the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_5.0/LMR_2.15_Normal Plots.pdf)). Inform the students that this photo was taken of a group of
+of the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)). Inform the students that this photo was taken of a group of
 randomly selected college women who stood in height order.
 
     <img src="../../img/21608.png" />
