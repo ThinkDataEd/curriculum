@@ -106,6 +106,10 @@
 
 ##**IDS_LMR_Unit 3_v_5.0**		
 
+[LMR_Miracle_Cafe.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_Miracle_Cafe.pdf)
+
+[LMR_Trophy_Hunting_Conservation.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_Trophy_Hunting_Conservation.pdf)
+
 [LMR_3.1_Experiment Predictions.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.1_Experiment Predictions.pdf)
 
 [LMR_3.2_Observations to Data.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.2_Observations to Data.pdf)
