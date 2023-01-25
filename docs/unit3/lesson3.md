@@ -90,7 +90,7 @@ experiment:
 
     **<u>Note:</u>** Students will decide on a treatment to apply to each group on the following day.
 
-10. As a class, discuss the responses to the questions above (step #9, a-e) and come to a
+10. As a class, discuss the responses to the questions above (step #9, a-d) and come to a
 consensus for each question’s answer.
 
 11. Inform the class that they will be using the answers they have agreed upon as the final design of
