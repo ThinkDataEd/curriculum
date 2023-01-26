@@ -58,14 +58,12 @@ the more friends he/she had.***</span>
 9. Ask a few students to share out their responses to the very last question: “Can you think of
 another variable (not necessarily given in the pictures) that might impact both the number of
 friends AND the variable you selected? Give an example and explain how it might impact each of
-the variables.” <span style="color:grey">***Answers will vary, but one example could be: a person’s self-esteem level (if
-he/she is confident in school, his/her grades might be higher; higher confidence could
+the variables.” <span style="color:grey">***Answers will vary, but one example could be: a person’s self-esteem level (if he/she is confident in school, his/her grades might be higher; higher confidence could
 also be a reason for a person having more friends).***</span>
 
 10. Remind students that in the previous section, they learned about the elements of an experiment.
 In teams, ask students to discuss how collecting this data is similar or different from experiments.
-Then have a whole class discussion about this comparison, guiding <span style="color:grey">***students to realize that
-there were no assignments to groups and no treatment was applied. The subjects (i.e. the
+Then have a whole class discussion about this comparison, guiding <span style="color:grey">***students to realize that there were no assignments to groups and no treatment was applied. The subjects (i.e. the
 people displayed on the cards) were simply observed, and then information about them
 was recorded.***</span>
 
