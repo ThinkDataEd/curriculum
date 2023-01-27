@@ -38,7 +38,7 @@ follow this general structure:
 2. Distribute the Landfill Article handout ([LMR_4.15_Landfill Article](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.15_Landfill Article.pdf)) and explain that the reading is
 an excerpt from a CNN article titled *Trash City: Inside America’s Largest Landfill Site*. The article
 will set the context for the real-world problem of growing landfills.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.15_Landfill Article.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.15_Landfill Article](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.15_Landfill Article.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.15_Landfill Article.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.15_Landfill Article](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.15_Landfill Article.pdf)</div>
 
 3. Using the *5 Ws* strategy, ask students to read the article individually and to write down the 5 Ws
 in their DS journals. The 5 Ws summarize the What, Who, Why, When, and Where of the article.
@@ -48,14 +48,14 @@ Readiness Questions* handout ([LMR_4.16_Landfill Readiness Questions](../IDS_Cur
 students will discuss their insights, questions, and/or reactions to the both the article and the
 questions. Follow up the team discussion with a class discussion to gauge what students actually
 know about trash and recycling.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.16_Landfill Readiness Questions.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.16_Landfill Readiness Questions.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.16_Landfill Readiness Questions.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.16_Landfill Readiness Questions.pdf)</div>
 
 5. Next, introduce students to the main task they will be investigating about landfills by distributing
 the *Landfill Activity* handout ([LMR_4.17_Landfill Activity](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.17_Landfill Activity.pdf)). This handout asks the students to come
 up with one or two recommendations to help reduce the burden of landfills on the environment. In
 order to complete the assignment, students will use 2 data analysis tools: the IDS dashboard and
 RStudio.
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.17_Landfill Activity.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.17_Landfill Activity.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.17_Landfill Activity.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.17_Landfill Activity.pdf)</div>
 
 6. Once all students have read the assignment, use the following questions to check for
 understanding of what the task is:
@@ -87,7 +87,7 @@ complete the activity.
 
 11. To assist students’ interaction with the dashboard, distribute the *Trash Dashboard Exploration*
 handout ([LMR_4.18_Trash Data Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.18_Trash Data Exploration.pdf)).
-<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.18_Trash Data Exploration.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.18_Trash Data Exploration.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.18_Trash Data Exploration.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.18_Trash Data Exploration.pdf)</div>
 
 12. Leave 10-15 minutes at the end of class to share out and discuss some of these statistical
 questions. During this time, the teacher should also check for data understanding.
