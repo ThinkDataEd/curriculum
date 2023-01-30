@@ -66,8 +66,10 @@ given in a picture.
 
 <ins>*Data File:*</ins>
 
-1. *Lung Capacity of Children* data set found at<br>
-    [http://www.amstat.org/publications/jse/datasets/fev.dat.txt](http://www.amstat.org/publications/jse/datasets/fev.dat.txt "http://www.amstat.org/publications/jse/datasets/fev.dat.txt")
+1. *Lung Capacity of Children* data set information found at<br>
+    [https://jse.amstat.org/v13n2/datasets.kahn.html](https://jse.amstat.org/v13n2/datasets.kahn.html "https://jse.amstat.org/v13n2/datasets.kahn.html")
+    NOTE: The raw data set can be found at<br>
+    [https://jse.amstat.org/datasets/fev.dat.txt](https://jse.amstat.org/datasets/fev.dat.txt "https://jse.amstat.org/datasets/fev.dat.txt")
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)
