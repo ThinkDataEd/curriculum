@@ -19,7 +19,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 * You can find the data online here:
 
     – (Right-click and select *Open in New Window*)<br> 
-    [http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt](http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt "http://gh.idsucla.org/ids_labs/extras/webdata/fev.dat.txt")
+    [https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv](https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv "https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv")
 
 * Variables that were measured include:
 
