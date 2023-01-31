@@ -32,7 +32,7 @@ both the explanatory variable and the response variable in an observational stud
 leads to decreased crime rates.”
 
 4. Allow the students to work in teams to think about possible confounding factors. They should
-choose a variable that is related to umbrella sales, and that might be lead to decreased crime
+choose a variable that is related to umbrella sales, and that might lead to decreased crime
 rates. After they’ve come up with a few possibilities, use the following diagram progression to
 further explain the impact of confounding factors.
 
