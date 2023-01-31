@@ -68,6 +68,7 @@ given in a picture.
 
 1. *Lung Capacity of Children* data set information found at<br>
     [https://jse.amstat.org/v13n2/datasets.kahn.html](https://jse.amstat.org/v13n2/datasets.kahn.html "https://jse.amstat.org/v13n2/datasets.kahn.html")
+    
     NOTE: The raw data set can be found at<br>
     [https://jse.amstat.org/datasets/fev.dat.txt](https://jse.amstat.org/datasets/fev.dat.txt "https://jse.amstat.org/datasets/fev.dat.txt")
 
