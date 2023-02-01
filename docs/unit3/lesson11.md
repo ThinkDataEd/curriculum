@@ -166,7 +166,7 @@ paper) titled “Mean Word Length, Random Sample, Size = 10.” Once all student
 the second page of the *Gettysburg Address* handout ([LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf)), ask each student to record <u>the
 mean word length of his or her random sample</u> on the class’s dotplot.
 
-    **<u>Note:</u>** As in Step 7, be sure to check arithmetic for outliers!
+    **<u>Note:</u>** As in Step 9, be sure to check arithmetic for outliers!
 
 22. When all students have recorded their sample statistics in the dotplot, conduct a class discussion
 based on the following questions:
