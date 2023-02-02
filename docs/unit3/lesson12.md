@@ -30,9 +30,9 @@ population, or the population we would like to make inferences about.
 
 3. Propose the following scenario to the class: “An elementary school is going to start serving ice
 cream in the cafeteria every Friday during lunch, and needs to know the favorite flavor of its
-students.
+students."
 
-4. In pairs, ask students come up with two examples of samples that might be biased. For instance,
+4. In pairs, ask students to come up with two examples of samples that might be biased. For instance,
 one biased sample might include only the four 3<sup>rd</sup> grade classes at the school. For each biased
 sample, the students should answer the following questions in their DS journals:
 
