@@ -9,8 +9,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – Means of samples can be used to *estimate* means of populations.
 
-    – By including a margin of error with our estimate, we create an interval that increases    
-    our confidence that we've located the correct value of the population mean.
+    – By including a margin of error with our estimate, we create an interval that increases our confidence that we've located the correct value of the population mean.
 
 * Today, we'll learn how we can calculate *margins of error* by using a method called the
 *bootstrap*.
