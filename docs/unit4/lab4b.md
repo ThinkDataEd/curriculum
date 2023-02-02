@@ -62,7 +62,7 @@ actual heights minus our predicted heights.
     – **Compare your accuracy summary with a neighbors. Whose line was more accurate
     and why?**
 
-* **Write down why adding positive and negative errors together is problematic for accessing
+* **Write down why adding positive and negative errors together is problematic for assessing
 prediction accuracy.**
 
     – **Why does calculating the squared values for the differences solve this problem?**
