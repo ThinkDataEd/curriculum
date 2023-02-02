@@ -93,7 +93,7 @@ students make corrections to the list if any items were miscategorized.
 
 10. Quickly review the Data Cycle.
 
-    <img src="../../img/2xp0a.png" />
+    <img style="max-width:320px;" src="../../img/2xp0a.png" />
 
 11. To give students an introduction to conducting surveys, they will first go through a practice
 scenario as a class to try to answer the following research question:
