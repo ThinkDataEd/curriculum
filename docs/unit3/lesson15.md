@@ -4,7 +4,7 @@
 Students will learn what sensors are and how they are used to collect data.
 
 ###**Materials:**
-1. Video: *Smart Tennis Racquet*<br> [http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html](http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html "http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html")
+1. Video: *Smart Tennis Racquet*<br> [https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc")
 
 2. Computers (see Step 5)
 
@@ -34,7 +34,7 @@ known as sensors.
 3. With a partner, ask students to discuss what they think a sensor is. Ask each pair to write down
 their ideas.
 
-4. Show the *Smart Tennis Racquet* video found at: [http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html](http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html "http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html"). As students watch the video, they should think about other
+4. Show the *Smart Tennis Racquet* video found at: [https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc"). As students watch the video, they should think about other
 sensors they may have come across, particularly ones used with smartphones. After watching the
 video, ask students to add to their definition of a sensor.
 
