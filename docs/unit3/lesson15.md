@@ -82,7 +82,7 @@ palm facing the students and count down. The rules for teams are as follows:
         Each Sensor should be assigned to one Trigger, or colored flag (<span style="color:fuchsia">**Pink**</span> = Sensor A,
         <span style="color:purple">**Purple**</span> = Sensor B, <span style="color:green">**Green**</span> = no sensor assigned to it). When the Sensors see their
         assigned Trigger, they send a signal to the Collector (see below) telling him or her to
-        collect data about from another student in the class. The Sensors are basically gobetweens
+        collect data from another student in the class. The Sensors are basically gobetweens
         for the Triggers and the Collector.
 
     100. Group 3 – Collector (1 student)
@@ -151,7 +151,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Now that students learned what sensors are, ask them what data would they like to see collected on
+Now that students learned what sensors are, ask them what data they would they like to see collected on
 a sensor that they couldn't collect in an experiment or survey. They must explain why it is difficult to
 collect that data in an experiment or survey, and how a sensor would make it easier to collect that
 data.
