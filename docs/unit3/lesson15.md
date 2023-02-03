@@ -4,7 +4,7 @@
 Students will learn what sensors are and how they are used to collect data.
 
 ###**Materials:**
-1. Video: *Smart Tennis Racquet*<br> [https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc")
+1. Video: *Play Like Nadal With a Smart Tennis Racket*<br> [https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc")
 
 2. Computers (see Step 5)
 
@@ -34,7 +34,7 @@ known as sensors.
 3. With a partner, ask students to discuss what they think a sensor is. Ask each pair to write down
 their ideas.
 
-4. Show the *Smart Tennis Racquet* video found at: [https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc"). As students watch the video, they should think about other
+4. Show the *Play Like Nadal With a Smart Tennis Racket* video found at: [https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc"). As students watch the video, they should think about other
 sensors they may have come across, particularly ones used with smartphones. After watching the
 video, ask students to add to their definition of a sensor.
 

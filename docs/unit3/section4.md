@@ -11,9 +11,9 @@ the Participatory Sensing data collection process. The response to the triggers 
 same each time.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will view and discuss a video clip called *Smart Tennis Racquets* to begin to think about the
+Students will view and discuss a video clip called *Play Like Nadal With a Smart Tennis Racket* to begin to think about the
 sensors as data collection devices found ubiquitously in today’s world. The video can be found at:    
-[http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html](http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html "http://www.telegraph.co.uk/technology/10827869/Smart-tennis-racquet-records-spin-shots-and-power-in-time-for-Wimbledon.html")
+[https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc")
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
