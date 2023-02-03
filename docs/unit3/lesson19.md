@@ -7,7 +7,7 @@ topic of interest, then begin data collection.
 ###**Materials:**
 1. *Campaign Creation* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf)) from previous lesson
 
-2. Campaign Authoring Tool ([https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"))
+2. Campaign Authoring Tool ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"))
 
 ###**Essential Concepts:**
 
@@ -16,7 +16,7 @@ topic of interest, then begin data collection.
     Participatory Sensing Campaign.
 
 ###**Lesson:**
-1. Display the class generated campaign information for the class the clearly see.
+1. Display the class generated campaign information for the class to clearly see.
 
 2. In teams, have students mock-implement the campaign they have created. They can do this by
 asking each other the survey questions to make sure they make sense/ will generate relevant
@@ -29,7 +29,7 @@ changes to the campaign.
 4. Inform students that you will now demonstrate the tool used to create the campaigns that is
 displayed on their mobile devices or computers.
 
-5. Login to the **IDS Home Page** found at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"). Click on the **Campaigns tab** on
+5. Login to the **IDS Home Page** found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"). Click on the **Campaigns tab** on
 the navigation bar at the top of the page. Then, follow the steps in the tool:
 
     100. **<u>Campaign Info Window:</u>**
@@ -64,14 +64,14 @@ the navigation bar at the top of the page. Then, follow the steps in the tool:
         200. **Click the |<span style="text-decoration: overline underline;">+Add Prompt</span>| button and select the prompt type for your first
         survey question. Note:** You should only select from the following choices:
         Single choice, number, photo, and text. Multiple-choice does not mean select
-        one choice; it means select many choices. It is not recommended that multiplechoice
+        one choice; it means select many choices. It is not recommended that multiple-choice
         be used at this point.
 
     100. **<u>Prompt Information:</u>**
 
         200. **Click <u>the new prompt bar</u>**.
 
-        200. **Prompt ID:** This will be your first variable. A short one-word name or short twoword
+        200. **Prompt ID:** This will be your first variable. A short one-word name or short two-word
         name separated by an underscore is recommended.
 
         200. **Prompt Label:** This is the variable name that will be displayed (it may be the

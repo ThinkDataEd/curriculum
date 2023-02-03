@@ -24,7 +24,7 @@ has been classified in the Individual category, it must be revised. Also discuss
 campaign is feasible. (For example, is the trigger so rare that no one will collect data? Are the
 questions too intrusive?).
 
-3. Inform students that one of the promises of PS is it's potential for helping people bring about
+3. Inform students that one of the promises of PS is its potential for helping people bring about
 social and civic change. Ask teams to consider the following questions and report back:
 
     100. Does our campaign try to do this?
@@ -32,7 +32,7 @@ social and civic change. Ask teams to consider the following questions and repor
     100. Could it be changed or modified to do this?
 
     **<u>Note:</u>** Feasible campaigns fall under the groups of people or community categories. If a
-    campaign in the individual category, it should be modified to fall under the other categories before
+    campaign is in the individual category, it should be modified to fall under the other categories before
     moving to round 4.
 
 4. Display the campaign information students generated (and selected as a class) the previous day
