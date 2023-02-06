@@ -15,8 +15,8 @@ Students will learn how to convert XML files to the more familiar data table for
     data.
 
 ###**Lesson:**
-1. Take a few minutes to compare the structure of XML code to HTML data tables (refer to Step 9
-from [Lesson 20](lesson20.md)).
+1. Take a few minutes to compare the structure of XML code to HTML data tables (refer to Step 7
+from [Lesson 21](lesson21.md)).
 
 2. Inform students that in today’s lesson, they will learn how to translate information from XML code
 into a data table.
@@ -52,7 +52,7 @@ and allow them time to complete it.
 11. Once teams have finished, teams will guide you to write the correct XML code.
 
 12. Using a *Whip Around*, teams will tell you the first line of the XML code you need to write. Teams
-waiting their turn will check if the team guiding you correctly. If not, they need to stop you and
+waiting their turn will check if the team is guiding you correctly. If not, they need to stop you and
 propose their line of code. You may not continue writing the lines of code until all teams are in
 agreement.
 
