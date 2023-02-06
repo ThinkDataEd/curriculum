@@ -4,15 +4,15 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 ###**Informative and Fun!**
 * Maps are some of the most interesting plots to make because the info represents:
 
-* Where we live.
+    - Where we live.
 
-* Where we go.
+    - Where we go.
 
-* Places that interest us.
+    - Places that interest us.
 
 * Maps are also helpful to display geographic information.
 
-* John Snow (the physician, not the character from *Game of Thrones...*) once famously used [a map to discover how cholera was transmitted.](http://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg#mediaviewer/File:Snow-cholera-map-1.jpg "http://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg#mediaviewer/File:Snow-cholera-map-1.jpg")
+    - John Snow (the physician, not the character from *Game of Thrones...*) once famously used [a map to discover how cholera was transmitted.](http://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg#mediaviewer/File:Snow-cholera-map-1.jpg "http://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg#mediaviewer/File:Snow-cholera-map-1.jpg")
 
 * In this lab, we'll use ```R``` to create an interactive map of the ```mtns``` data we scraped in [Lab 3E](lab3e.md).
 
@@ -84,8 +84,8 @@ the ```state``` its located.
 
 * It's hard to know just what the different colors mean so let's add a legend.
 
-* First, assign the map with the circle markers as ```mtns_map```.
+    - First, assign the map with the circle markers as ```mtns_map```.
 
-* Then, fill in the blanks below to place a legend in the top-right hand corner.
+    - Then, fill in the blanks below to place a legend in the top-right hand corner.
 
         addLegend(____, colors = ~unique(____), labels = ~unique(____)).
