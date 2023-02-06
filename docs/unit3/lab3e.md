@@ -4,7 +4,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 ###**The web as a data source**
 * The internet contains huge amounts of information.
 
-* Using computers to gathering this information in an automated fashion is referred to as *scraping
+* Using computers to gather this information in an automated fashion is referred to as *scraping
 web data*.
 
 * Scraping data from the web can be difficult because each website displays & stores data
@@ -19,7 +19,7 @@ differently.
 ###**Our first web scraper**
 * Copy and paste the link below into a web browser to view the website of data we'd like to *scrape*
 and analyze.<br>
-    [http://gh.idsucla.org/ids_labs/extras/webdata/mountains.html](http://gh.idsucla.org/ids_labs/extras/webdata/mountains.html "http://gh.idsucla.org/ids_labs/extras/webdata/mountains.html")
+    [https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html")
 
 * **Briefly describe what the data on the website is about.**
 
@@ -97,7 +97,7 @@ by adding the which argument to the ```readHTMLTable()``` function.
 
     – Assign the scraped data the name ```mtns```
 
-###**<del>From scraping to cleaning</del>**
+###**From scraping to cleaning**
 * Data scraped from the web usually needs to be cleaned.
 
 * **Run the following commands and compare the names of the variables. Do you notice any
@@ -113,11 +113,11 @@ variables)?**
 
     – **Which variables are wrong?**
 
-###**<del>Fixing variable types</del>**
+###**Fixing variable types**
 * View the ```mtns``` data and notice the order of the variables.
 
     – Use the order of the variables to fill in the blanks below with either the word ```"factor"```, if
-    the variable is *categorical*, or ```"numeric"```, if the varible is *numerical*.
+    the variable is *categorical*, or ```"numeric"```, if the variable is *numerical*.
 
 
         var_types <- c("___","___","___","___","___",
@@ -128,7 +128,7 @@ variables)?**
 
     – Don't forget to save the data as ```mtns``` and specify ```which``` table to scrape
     
-###**<del>Fixing variable names</del>**
+###**ixing variable names**
 * View the ```mtns``` data and notice the order of the variables.
 
     – Then use the order of the variables and the following code template to change the names
@@ -144,10 +144,10 @@ variables)?**
 
 
 ###**Check, save and use!**
-* After scraping <del>and cleaning</del> the data, the only thing left to do is to save it and use it.
+* After scraping and cleaning the data, the only thing left to do is to save it and use it.
 
-    – <del>Before saving, use the ```names()``` and ```str()``` functions on last time to make sure the
-    variable names and types are correct.</del>
+    – Before saving, use the ```names()``` and ```str()``` functions one last time to make sure the
+    variable names and types are correct.
 
 * Fill in the blanks to save the data and give it a file name
 
