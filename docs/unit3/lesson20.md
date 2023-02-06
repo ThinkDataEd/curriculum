@@ -5,7 +5,7 @@ Students will discover that data exists on the Internet in a variety of areas, f
 purposes.
 
 ###**Materials:**
-1. Video: *Explore a Google Data Center with Street View* found at:<br> [http://www.dailymail.co.uk/sciencetech/article-2219188/Inside-Google-pictures-gives-look-8-vast-datacentres.html#v-1907075360001](http://www.dailymail.co.uk/sciencetech/article-2219188/Inside-Google-pictures-gives-look-8-vast-datacentres.html#v-1907075360001 "http://www.dailymail.co.uk/sciencetech/article-2219188/Inside-Google-pictures-gives-look-8-vast-datacentres.html#v-1907075360001")
+1. Video: *Explore a Google Data Center with Street View* found at:<br> [https://www.engadget.com/2012-10-17-google-inside-data-centers.html](https://www.engadget.com/2012-10-17-google-inside-data-centers.html "https://www.engadget.com/2012-10-17-google-inside-data-centers.html")
 
 2. *Wikipedia – Video Games* handout ([LMR_3.17_Wikipedia - Video Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.17_Wikipedia - Video Games.pdf))
 
@@ -29,7 +29,7 @@ have, ask him or her to share what they know about it.
 2. Inform students that a data farm is a physical space where high capacity servers are placed to
 store large amounts of data.
 
-3. Introduce the video titled *Explore a Google data center with Street View* found at [http://www.dailymail.co.uk/sciencetech/article-2219188/Inside-Google-pictures-gives-look-8-vast-datacentres.html#v-1907075360001](http://www.dailymail.co.uk/sciencetech/article-2219188/Inside-Google-pictures-gives-look-8-vast-datacentres.html#v-1907075360001 "http://www.dailymail.co.uk/sciencetech/article-2219188/Inside-Google-pictures-gives-look-8-vast-datacentres.html#v-1907075360001") by explaining that the data center they are about to see is
+3. Introduce the video titled *Explore a Google data center with Street View* found at [https://www.engadget.com/2012-10-17-google-inside-data-centers.html](https://www.engadget.com/2012-10-17-google-inside-data-centers.html "https://www.engadget.com/2012-10-17-google-inside-data-centers.html") by explaining that the data center they are about to see is
 one of these large data farms used to store vast amounts of data.
 
 4. After students watch the video, have a class discussion using the following questions:
