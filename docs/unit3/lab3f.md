@@ -13,7 +13,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 * Maps are also helpful to display geographic information.
 
 * John Snow (the physician, not the character from *Game of Thrones...*) once famously used <span style="color:blue"><u>a map
-to discover how cholera was transmitted</u></span>.[http://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg#mediaviewer/File:Snow-cholera-map-1.jpg](http://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg#mediaviewer/File:Snow-cholera-map-1.jpg "a map to discover how cholera was transmitted")
+to discover how cholera was transmitted</u></span>.[a map to discover how cholera was transmitted](http://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg#mediaviewer/File:Snow-cholera-map-1.jpg "http://commons.wikimedia.org/wiki/File:Snow-cholera-map-1.jpg#mediaviewer/File:Snow-cholera-map-1.jpg")
 
 * In this lab, we'll use ```R``` to create an interactive map of the ```mtns``` data we scraped in [Lab 3E](lab3e.md).
 
