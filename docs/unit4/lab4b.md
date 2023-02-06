@@ -23,14 +23,14 @@ information of another.
 * Fill in the blanks below to create a function that will make predictions of people's ```height```s based
 on their ```armspan```:
 
-        make_predictions <- function(armspans) {
-        ____ * armspans + ____
+        predict_height <- function(armspan) {
+        ____ * armspan + ____
         }
 
 ###**Make your predictions**
 * Fill in the blanks to include your predictions in the ```arm_span``` data.
 
-        ____ <- mutate(____, predictions = ____(____))
+        ____ <- mutate(____, predicted_height = ____(____))
 
 * Now that we've made our predictions, we'll need to figure out a way to decide how accurate our
 predictions are.
@@ -41,20 +41,21 @@ predictions are.
     model's accuracy.
 
 ###**Sums of differences**
-* One method we might consider to measure our model's accuracy is to sum the differences in the
-actual heights minus our predicted heights.
+* A *residual* is the difference between the actual and predicted value of a quantity of interest.
 
-    – **What do these differences measure?**
+* Fill in the blanks below to create a function which calculates the sum of differences:
 
-    – Fill in the blanks below to create a function which calculates the sum of differences:
+        ____ <- mutate(____, residual = ____ - ____)
 
-        accuracy <- function(actual, predicted) {
-        sum(____ - ____)
-        }
+* **What do the residuals measure?**
 
-* Then fill in the blanks to calculate our accuracy summary.
+* One method we might consider to measure our model's accuracy is to sum the residuals.
 
-        summarize(____, ____(____, ____))
+* Fill in the blanks below to calculate our accuracy summary.
+
+        summarize(____, sum(____))
+
+* Hint: Like ```mutate```, the first argument of ```summarize``` is a dataframe, and the second argument is the action to perform on a column of the dataframe. Whereas the output of ```mutate``` is a column, the output of ```summarize``` is (usually) a single number summary.
 
 ###**Checking our work**
 * **Describe and interpret, in words, what the output of your accuracy summary means.**
@@ -67,10 +68,11 @@ prediction accuracy.**
 
     – **Why does calculating the squared values for the differences solve this problem?**
 
-* Alter your accuracy function to first calculate the differences, then square them and finally take
-the ```mean``` of the squared differences. This is called the *mean squared error* (MSE).
+* The *mean squared error* (MSE) is calculated by squaring all of the residuals, and then taking the mean of the squared residuals.
 
-    – Calculate the MSE of your line.
+* Fill in the blanks below to calculate the MSE of your line.
+
+        summarize(____, mean((____)^2)
 
 ###**On your own**
 
@@ -85,7 +87,9 @@ with ourselves.
 
     – Fill in the blanks to make predictions using ```best_fit```:
 
-        ____ <- mutate(____, predictions = predict(____))
+        ____ <- mutate(____, predicted_height = predict(____))
+
+* Hint: the ```predict``` function takes a linear model as input, and outputs the predictions of that model.
 
 * Calculate the MSE for these new predicted values.
 
