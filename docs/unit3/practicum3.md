@@ -12,11 +12,10 @@ summaries of their data to answer their question.
 
 <center>**Our Own Campaign**</center>
 
-At the start of the Participatory Sensing campaign creation in [lesson 16](lesson16.md), the class developed a research
-question about your class’s topic of interest.
+At the start of the Participatory Sensing campaign creation in [lesson 16](lesson16.md), the class developed a research question about your class’s topic of interest.
 
 
-It is now time to analyze and interpret your class campaign data. You will use the data from your classcreated
+It is now time to analyze and interpret your class campaign data. You will use the data from your class-created
 campaign only. Based on the analysis, you can also wonder about what other data would be
 necessary to better answer your question, if any.
 

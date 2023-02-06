@@ -45,7 +45,7 @@ To answer your research question, you and a partner will compare the outcome of 
 outcomes given by a chance model (in which Streptomycin has no effect on TB).
 
 1. First, scrape the data. Refer to the web scraping lab if you need to recall how to scrape data.
-To access Sir Hill’s data, go to: [http://gh.idsucla.org/ids_labs/extras/webdata/tb.html](http://gh.idsucla.org/ids_labs/extras/webdata/tb.html "http://gh.idsucla.org/ids_labs/extras/webdata/tb.html")
+To access Sir Hill’s data, go to: [https://labs.idsucla.org/extras/webdata/tb.html](https://labs.idsucla.org/extras/webdata/tb.html "https://labs.idsucla.org/extras/webdata/tb.html")
 
 2. Second, determine the percentages of subjects in the study that died and the percentages of
 the subjects that recovered for each group.
