@@ -2261,27 +2261,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#from-scraping-to-cleaning" class="md-nav__link">
-    From scraping to cleaning
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fixing-variable-types" class="md-nav__link">
-    Fixing variable types
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ixing-variable-names" class="md-nav__link">
-    ixing variable names
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#check-save-and-use" class="md-nav__link">
     Check, save and use!
   </a>
@@ -3374,27 +3353,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#from-scraping-to-cleaning" class="md-nav__link">
-    From scraping to cleaning
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#fixing-variable-types" class="md-nav__link">
-    Fixing variable types
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#ixing-variable-names" class="md-nav__link">
-    ixing variable names
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#check-save-and-use" class="md-nav__link">
     Check, save and use!
   </a>
@@ -3536,61 +3494,10 @@ argument to scrape just the individual table.</p>
 <p>– Assign the scraped data the name <code>mtns</code></p>
 </li>
 </ul>
-<h3 id="from-scraping-to-cleaning"><strong>From scraping to cleaning</strong></h3>
-<ul>
-<li>
-<p>Data scraped from the web usually needs to be cleaned.</p>
-</li>
-<li>
-<p><strong>Run the following commands and compare the names of the variables. Do you notice any
-differences?</strong></p>
-<pre><code>View(mtns)
-names(mtns)
-</code></pre>
-</li>
-<li>
-<p><strong>Which variables in your data are numerical variables and which are factors (i.e. categorical
-variables)?</strong></p>
-</li>
-<li>
-<p>Put your data in the <code>str()</code> function to see how <code>R</code> classified each variable.</p>
-<p>– <strong>Which variables are wrong?</strong></p>
-</li>
-</ul>
-<h3 id="fixing-variable-types"><strong>Fixing variable types</strong></h3>
-<ul>
-<li>
-<p>View the <code>mtns</code> data and notice the order of the variables.</p>
-<p>– Use the order of the variables to fill in the blanks below with either the word <code>"factor"</code>, if
-the variable is <em>categorical</em>, or <code>"numeric"</code>, if the variable is <em>numerical</em>.</p>
-<pre><code>var_types &lt;- c("___","___","___","___","___",
-                "___","___","___","___","___")
-</code></pre>
-</li>
-<li>
-<p>Finally, re-scrape the data and include <code>colClasses = var_types</code> as an argument.</p>
-<p>– Don't forget to save the data as <code>mtns</code> and specify <code>which</code> table to scrape</p>
-</li>
-</ul>
-<h3 id="ixing-variable-names"><strong>ixing variable names</strong></h3>
-<ul>
-<li>
-<p>View the <code>mtns</code> data and notice the order of the variables.</p>
-<p>– Then use the order of the variables and the following code template to change the names
-of the <code>mtns</code> data.</p>
-<p>– Replace each <code>"new_name"</code> with the actual name of the variable.</p>
-<p>– Make sure to include all of the variable names and order them correctly.</p>
-<pre><code>names(mtns) &lt;- c("new_name", "new_name",
-              ..., "new_name")
-</code></pre>
-</li>
-</ul>
 <h3 id="check-save-and-use"><strong>Check, save and use!</strong></h3>
 <ul>
 <li>
-<p>After scraping and cleaning the data, the only thing left to do is to save it and use it.</p>
-<p>– Before saving, use the <code>names()</code> and <code>str()</code> functions one last time to make sure the
-variable names and types are correct.</p>
+<p>After scraping the data, the only thing left to do is to save it and use it.</p>
 </li>
 <li>
 <p>Fill in the blanks to save the data and give it a file name</p>
