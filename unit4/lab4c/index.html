@@ -2573,43 +2573,50 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#step-1-train-test-split" class="md-nav__link">
+    Step 1: train-test split
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aside-setseed" class="md-nav__link">
+    Aside: set.seed()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aside-train-test-ratio" class="md-nav__link">
+    Aside: train-test ratio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-train-the-model" class="md-nav__link">
+    Step 2: train the model
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-test-the-model" class="md-nav__link">
+    Step 3: test the model
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#recap" class="md-nav__link">
+    Recap
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#why-cross-validate" class="md-nav__link">
     Why cross-validate?
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#splitting-the-data" class="md-nav__link">
-    Splitting the data
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#setseed-then-split" class="md-nav__link">
-    set.seed then split
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#building-on-training" class="md-nav__link">
-    Building on training
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#predicting-on-testing" class="md-nav__link">
-    Predicting on testing
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#avoiding-being-too-specific" class="md-nav__link">
-    Avoiding being too specific
   </a>
   
 </li>
@@ -3318,43 +3325,50 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#step-1-train-test-split" class="md-nav__link">
+    Step 1: train-test split
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aside-setseed" class="md-nav__link">
+    Aside: set.seed()
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aside-train-test-ratio" class="md-nav__link">
+    Aside: train-test ratio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-2-train-the-model" class="md-nav__link">
+    Step 2: train the model
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#step-3-test-the-model" class="md-nav__link">
+    Step 3: test the model
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#recap" class="md-nav__link">
+    Recap
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#why-cross-validate" class="md-nav__link">
     Why cross-validate?
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#splitting-the-data" class="md-nav__link">
-    Splitting the data
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#setseed-then-split" class="md-nav__link">
-    set.seed then split
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#building-on-training" class="md-nav__link">
-    Building on training
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#predicting-on-testing" class="md-nav__link">
-    Predicting on testing
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#avoiding-being-too-specific" class="md-nav__link">
-    Avoiding being too specific
   </a>
   
 </li>
@@ -3386,39 +3400,28 @@
 <h3 id="predictions"><strong>Predictions</strong></h3>
 <ul>
 <li>
-<p>In the previous lab, we learned how to calculate the <em>mean squared error</em> (MSE).</p>
-<p>– This let us measure how well our model predicts values of our <code>y</code>-variable.</p>
-</li>
-<li>
-<p>To really measure how well our <em>line of best fit</em> predicts people's <code>heights</code>, we want see how
-well we predict the <code>heights</code> of people that we haven't yet measured.</p>
-</li>
-<li>
-<p>To do this, we'll divide our data into two sets:</p>
-<p>– A <em>training</em> set used to build our model.</p>
-<p>– And a <em>testing</em> set we can use to measure how well our model predicts <em>new</em> data
-values.</p>
-</li>
-<li>
-<p>This method of dividing data into sets is called <em>cross-validation</em>.</p>
-</li>
-</ul>
-<h3 id="why-cross-validate"><strong>Why cross-validate?</strong></h3>
+<p>In the previous two labs, we learned how to:</p>
+<p>– Create a linear model predicting <code>height</code> from the <code>arm_span</code> data (4A).</p>
 <ul>
-<li>
-<p>Data scientists are often tasked with predicting some aspect of future observations.</p>
-<p>– Relying on a single data set to both <em>train</em> and <em>test</em> models can lead to models that
-are so specific to the current batch of data that they're unable to make good
-predictions for these future observations.</p>
+<li>See how well our model predicts <code>height</code> on the <code>arm_span</code> data by computing mean squared error (MSE)(4B).</li>
+</ul>
 </li>
 <li>
-<p>Cross-validating allows data scientists to measure how well their models predict new
-observations.</p>
-<p>– It also gives them the ability to compare different models to see which models make
-better/worse predictions.</p>
+<p>In this lab, we will see how well our model predicts the heights of <em>people we haven't yet measured</em>.</p>
+</li>
+<li>
+<p>To do this, we will use a method called <em>cross-validation</em>:</p>
+</li>
+<li>
+<p>Cross-validation consists of three steps:</p>
+<p>– Step 1: Split the data into <em>training</em> and <em>test</em> sets.</p>
+<p>– Step 2: Create a model using the <em>training</em> set.</p>
+<ul>
+<li>Step 3: Use this model to make predictions on the <em>test</em> set.</li>
+</ul>
 </li>
 </ul>
-<h3 id="splitting-the-data"><strong>Splitting the data</strong></h3>
+<h3 id="step-1-train-test-split"><strong>Step 1: train-test split</strong></h3>
 <ul>
 <li>
 <p>Waiting for new observations can take a long time. The U.S. takes a census of its
@@ -3429,10 +3432,17 @@ population once every 10 years, for example.</p>
 it into two distinct sets.</p>
 </li>
 <li>
-<p>For our <code>arm_span</code> data, fill in the blanks to create a <code>training</code> and <code>testing</code> data set.</p>
+<p>Split the <code>arm_span</code> data into <code>training</code> and <code>testing</code> data sets using the following steps.</p>
+</li>
+<li>
+<p>First, fill in the blanks below to randomly select which rows of <code>arm_span</code> will go into the <code>training</code> set.</p>
 <pre><code>set.seed(123)
 train_rows &lt;- sample(1:____, size = 85)
-train &lt;- slice(arm_span, ____)
+</code></pre>
+</li>
+<li>
+<p>Second, use the <code>slice</code> function to create two dataframes: one called <code>train</code> consisting of the <code>train_rows</code>, and another called <code>test</code> consisting of the remaining rows of <code>arm_span</code>.</p>
+<pre><code>train &lt;- slice(arm_span, ____)
 test &lt;- slice(____, - ____)
 </code></pre>
 </li>
@@ -3440,7 +3450,7 @@ test &lt;- slice(____, - ____)
 <p><strong>Explain these lines of code and describe the <code>train</code> and <code>test</code> data sets.</strong></p>
 </li>
 </ul>
-<h3 id="setseed-then-split"><strong>set.seed then split</strong></h3>
+<h3 id="aside-setseed"><strong>Aside: set.seed()</strong></h3>
 <ul>
 <li>
 <p>When we split data, we're randomly separating our observations into <em>training</em> and <em>testing</em>
@@ -3448,7 +3458,7 @@ sets.</p>
 <p>– It's important to notice that no single observation will be placed in both sets.</p>
 </li>
 <li>
-<p>Because we're splitting the data sets randomly, our models can will also vary slightly,
+<p>Because we're splitting the data sets randomly, our models can also vary slightly,
 person-to-person.</p>
 <p>– This is why it's important to use <code>set.seed</code>.</p>
 </li>
@@ -3458,7 +3468,7 @@ model outputs the same results.</p>
 <p><em>Whenever you split data into training and testing, always use <code>set.seed</code> first.</em></p>
 </li>
 </ul>
-<h3 id="building-on-training"><strong>Building on training</strong></h3>
+<h3 id="aside-train-test-ratio"><strong>Aside: train-test ratio</strong></h3>
 <ul>
 <li>
 <p>When splitting data into <em>training</em> and <em>testing</em> sets, we need to have enough observations in
@@ -3468,44 +3478,79 @@ our data so that we can build a good model.</p>
 <li>
 <p>As data sets grow larger, we can use a larger proportion of the data to <em>test</em> with.</p>
 </li>
-<li>
-<p>Fit a <em>line of best fit</em> model to our training data and assign it the name <code>best_train</code>.</p>
-</li>
 </ul>
-<h3 id="predicting-on-testing"><strong>Predicting on testing</strong></h3>
+<h3 id="step-2-train-the-model"><strong>Step 2: train the model</strong></h3>
 <ul>
 <li>
-<p>Now that our model has been built, we can use it to predict the values of <code>height</code> in our <code>test</code>
-data.</p>
+<p>Step 2 is to creat a linear model relating <code>height</code> and <code>armspan</code> using the <code>training</code> data.</p>
+</li>
+<li>
+<p>Fit a line of best fit model to our <code>training</code> data and assign it the name <code>best_train</code>.</p>
+</li>
+<li>
+<p>Recall that the slope and intercept of our linear model are chosen to minimize MSE.</p>
+</li>
+<li>
+<p>Since the MSE being minimized is from the training data, we can call it <em>training MSE</em>.</p>
+</li>
+</ul>
+<h3 id="step-3-test-the-model"><strong>Step 3: test the model</strong></h3>
+<ul>
+<li>
+<p>Step 3 is to use the model we built on the <code>training</code> data to make predictions on the <code>test</code> data.</p>
+</li>
+<li>
+<p>Note that we are NOT recomputing the slope and intercept to fit the test data best. We use the same slope and intercept that were computed in step 2.</p>
 </li>
 <li>
 <p>Because we're using the <em>line of best fit</em>, we can use the <code>predict()</code> function we introduced in
 the <a href="../lab4b/">last lab</a> to make predictions.</p>
-<p>– Fill in the blanks below to add predicted heights to our test data:</p>
+<p>– Fill in the blanks below to add predicted heights to our <code>test</code> data:</p>
 <pre><code>test &lt;- mutate(test, ____ = predict(best_train, newdata = ____))
 </code></pre>
 </li>
 <li>
-<p>Calculate the MSE in the same way as you did in the previous lab.</p>
+<p>Hint: the <code>predict</code> function without the arhument <code>newdata</code> will output predictions on the <code>training</code> data. To output predictions on the <code>test</code> data, supply the <code>test</code> data to the <code>newdata</code> argument.</p>
+</li>
+<li>
+<p>Calculate the MSE in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).</p>
 </li>
 </ul>
-<h3 id="avoiding-being-too-specific"><strong>Avoiding being too specific</strong></h3>
+<h3 id="recap"><strong>Recap</strong></h3>
 <ul>
 <li>
-<p>When we build models without cross-validating, we run the risk of building models that are
-<em>too</em> specific to the data we already have.</p>
-<p>– Meaning, the model predicts values we know about really well BUT predicts new
-values very poorly.</p>
+<p>Another way to describe the three steps is</p>
 </li>
 <li>
-<p>The plot on the following slide shows a single, randomly chosen <code>height</code> for each value of
-<code>armspan</code>.</p>
-<p><img src="../../img/4xc0a.png" /></p>
+<p>Step 1: Split the data into <code>training</code> and <code>test</code> sets.</p>
 </li>
 <li>
-<p><strong>With a neighbor, write down a prediction rule that would predict a person's <code>height</code>
-based on their <code>armspan</code> really well for people already shown in our plot but would
-predict people not in our plot very poorly.</strong></p>
+<p>Step 2: Choose a slope and intercept that minimize training MSE.</p>
+</li>
+<li>
+<p>Step 3: Using the same slope and intercept from step 2, make predictions on the <code>test</code> set, and use these predictions to compute test MSE.</p>
+</li>
+<li>
+<p>This begs the question, why do we care about test MSE?</p>
+</li>
+</ul>
+<h3 id="why-cross-validate"><strong>Why cross-validate?</strong></h3>
+<ul>
+<li>
+<p>Why go to all this trouble to compute test MSE when we could just copute MSE on the original dataset?</p>
+</li>
+<li>
+<p>When we compute MSE on the original dataset, we are measuring the ability of a model to make predictions <em>on the current batch of data</em>.</p>
+</li>
+<li>
+<p>Relying on a single dataset can lead to models that are so specific to the current batch of data that they're unable to make good predictions for future observations.</p>
+<p>– This phenomenon is known as overfitting.</p>
+</li>
+<li>
+<p>By splitting the data into a training and test set, we are <em>hiding</em> a proportion of the data from the model. This emulates future observations, which are unseen.*</p>
+</li>
+<li>
+<p>Test MSE estimates the ability of a model to make predictions of <em>future observations</em>.</p>
 </li>
 </ul>
 
