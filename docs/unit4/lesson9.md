@@ -91,7 +91,7 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Students will use a straight edge to draw a line of best fit for the scatter plot in the *Arm Span vs. Height*
-handout ([LMR_4.6_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf)) from [lesson 5](lesson5.md). They will use their knowledge of slope and y-intercept
+handout ([LMR_4.6_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf)) from [lesson 7](lesson7.md). They will use their knowledge of slope and y-intercept
 to determine the equation for the line of best fit that they drew.
 
 [<u>***LAB 4C: Cross-Validation***</u>](lab4c.md)
