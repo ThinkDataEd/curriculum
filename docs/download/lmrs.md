@@ -122,6 +122,8 @@
 
 [LMR_3.6_Parameters and Statistics.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.6_Parameters and Statistics.pdf)
 
+[LMR_3.6Q_Parameters and Statistics.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.6Q_Parameters and Statistics.pdf)
+
 [LMR_3.7_Gettysburg Address.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.7_Gettysburg Address.pdf)
 
 [LMR_3.8_Sampling the Gettysburg Address.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf)
@@ -131,6 +133,8 @@
 [LMR_3.10_Gettysburg Words.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.10_Gettysburg Words.pdf)
 
 [LMR_3.11_Identifying Biased Samples.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11_Identifying Biased Samples.pdf)
+
+[LMR_3.11Q_Identifying Biased Samples.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11Q_Identifying Biased Samples.pdf)
 
 [LMR_3.12_Survey Sampling.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.12_Survey Sampling.pdf)
 

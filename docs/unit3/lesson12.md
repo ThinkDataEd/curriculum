@@ -81,6 +81,8 @@ representative of the population of interest.
     **<u>Note:</u>** Page 2 of the handout provides sample answers for teacher reference ONLY. Do NOT
     distribute page 2 to students.
 
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11Q_Identifying Biased Samples.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.11Q](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11Q_Identifying Biased Samples.pdf)</div>
+
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11_Identifying Biased Samples.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11_Identifying Biased Samples.pdf)</div>
 
 8. Each student should complete the handout independently. Afterwards, conduct a whole-class
