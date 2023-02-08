@@ -83,7 +83,7 @@ each phase of the cycle in their DS Journals.
 8. After students have had an opportunity to do their sketches, display the Data Cycle graphic below
 to review it:
 
-    <img src="../../img/2xp0a.png" />
+    <img style="max-width:320px;" src="../../img/2xp0a.png" />
 
 9. Next, review their class created campaign from [unit 3](../unit3/overview.md). Using a Pair-Share strategy, ask students
 to discuss when a Participatory Sensing campaign should be used rather than a survey. <span style="color:grey">***A:
