@@ -164,7 +164,7 @@ want to record these in their DS journals):
 
     100. What else do you see?
 
-18. Now that they know what the variables mean, ask student teams to generate a two statistical
+18. Now that they know what the variables mean, ask student teams to generate two statistical
 questions about the data. Below are three examples of possible statistical questions:
 
     100. What month uses the most water?
