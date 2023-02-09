@@ -34,7 +34,7 @@ by going to the IDS Home page and clicking on Campaign Manager.
 6. Once the campaign is found, the Recorder/Reporter will click on the drop down menu to the right
 of the campaign information and select **Edit Campaign**.
 
-7. On the Campaign Editor, students may scroll down to see their prompts. Students may do the
+7. On the **Campaign Editor**, students may scroll down to see their prompts. Students may do the
 following actions to the prompts:
 
     • **<u>Edit:</u>** Click on the prompt’s name to expand and make changes as needed. To close the
