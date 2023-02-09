@@ -85,7 +85,7 @@ to review it:
 
     <img style="max-width:320px;" src="../../img/2xp0a.png" />
 
-9. Next, review their class created campaign from [unit 3](../unit3/overview.md). Using a Pair-Share strategy, ask students
+9. Next, review their class created campaign from [Uunit 3](../unit3/overview.md). Using a Pair-Share strategy, ask students
 to discuss when a Participatory Sensing campaign should be used rather than a survey. <span style="color:grey">***A:
 Answers will vary. Research questions that include variation across time or across
 locations are good candidates for Participatory Sensing campaigns; therefore, a <u>trigger</u> is

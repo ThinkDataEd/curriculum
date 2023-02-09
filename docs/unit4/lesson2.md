@@ -27,8 +27,7 @@ patterns of water use in their neighborhoods.
 1. Display the DWP data using RStudio. In pairs, ask students to recall what each of the variables
 mean.
 
-2. Next, ask student teams to refer back to the statistical questions they generated in the previous
-lesson-they will need it for the data exploration.
+2. Next, ask student teams to refer back to the statistical questions they generated in the previous lesson - they will need it for the data exploration.
 
 3. Distribute the *Exploring the DWP Data* handout ([LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.1_Exploring DWP Data.pdf)). In their teams, allow students about
 20-30 minutes to explore the DWP data set and complete the handout.
@@ -88,11 +87,10 @@ them to ponder the following:
     
     100. What are some uses of water that cannot be avoided?
 
-11. Ask students to record the information from each round on poster paper—in this lesson, Rounds
+11. Ask students to record the information from each round on poster paper - in this lesson, Rounds
 1-3.
 
 12. Inform students that they will be completing Rounds 4 and 5 during the [next lesson](lesson3.md).
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
