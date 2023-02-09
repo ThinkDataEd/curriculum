@@ -3395,12 +3395,10 @@ generalize to as-yet unseen values of <em>x</em>.</p>
 <ol>
 <li>
 <p>Remind students that in the previous lessons they were working with height data to predict the
-typical height of all the students at a large high school. They also used one method statisticians
-use to help them make a good prediction.</p>
+typical height of all the students at a large high school, implementing a method used by statisticians to help them make good predictions.</p>
 </li>
 <li>
-<p>In addition to the height data, it turns out that each student’s arm span data was also collected
-and recorded.</p>
+<p>In addition to the height data, it turns out that each student’s arm span data was also collected and recorded.</p>
 </li>
 <li>
 <p>Display the <em>Arm Span vs. Height Scatterplot</em> (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%204_v_5.0/LMR_4.6_Arm%20Span%20vs%20Height.pdf">LMR_4.6</a>) on a white board or overhead projector
@@ -3408,20 +3406,15 @@ and recorded.</p>
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%204_v_5.0/LMR_4.6_Arm%20Span%20vs%20Height.pdf">LMR_4.6</a></div></p>
 </li>
 <li>
-<p>Distribute the <em>Arm Span vs. Height</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%204_v_5.0/LMR_4.6_Arm%20Span%20vs%20Height.pdf">LMR_4.6</a>). Students will also refer to this handout in
-a subsequent lesson.</p>
+<p>Distribute the <em>Arm Span vs. Height</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%204_v_5.0/LMR_4.6_Arm%20Span%20vs%20Height.pdf">LMR_4.6</a>). Students will refer to this handout again later in a subsequent lesson.</p>
 </li>
 <li>
 <p>In teams, ask students to analyze the plot and discuss the following questions:</p>
 <p>• What kind of plot is this? <span style="color:grey"><strong><em>Scatterplot.</em></strong></span></p>
 <p>• How many variables are displayed in this plot? <span style="color:grey"><strong><em>Two variables.</em></strong></span></p>
-<p>• Which variable is shown on the x-axis? On the y-axis? <span style="color:grey"><strong><em>Arm span is shown on the x-axis
-and height is shown on the y-axis.</em></strong></span></p>
-<p>• What is this plot showing? <span style="color:grey"><strong><em>It is showing the relationship between a person’s height and
-the person’s corresponding arm span measurement.</em></strong></span></p>
-<p>• How can I find out the height of the person whose arm span measures 68 inches? <span style="color:grey"><strong><em>Find 68
-on the x-axis. Then find the data point located at 68. Place finger on the data point and
-track its location on the y-axis. The height is also 68 inches.</em></strong></span></p>
+<p>• Which variable is shown on the x-axis? On the y-axis? <span style="color:grey"><strong><em>Arm span is shown on the x-axis and height is shown on the y-axis.</em></strong></span></p>
+<p>• What is this plot showing? <span style="color:grey"><strong><em>It is showing the relationship between a person’s height and the person’s corresponding arm span measurement.</em></strong></span></p>
+<p>• How can I find out the height of the person whose arm span measures 68 inches? <span style="color:grey"><strong><em>Find 68 on the x-axis. Then find the data point located at 68. Place finger on the data point and track its location on the y-axis. The height is also 68 inches.</em></strong></span></p>
 </li>
 <li>
 <p>Using Talk Moves, conduct a class discussion of the questions in step 5.</p>
@@ -3434,38 +3427,61 @@ mean heights of these people is 64 inches.</p>
 <p>Ask the students: Do you think we can do better? Is 64 a good prediction for someone whose arm
 span is 72”? What about 60”? How can you come up with a rule for determining the best
 predicted height <em>if you know the person’s arm span?</em></p>
-<p><strong><u>Note to teacher:</u></strong> Lead students to realize that they can do this by “subsetting” the data for the
-fixed <em>x</em> value. For example, if arm span is 60, they should consider only the heights of people
-whose arm span is 60 and find the mean.</p>
+<p><strong><u>Note to teacher:</u></strong> Lead students to realize that they can do this by “subsetting” the data for the fixed <em>x</em> value. For example, if arm span is 60, they should consider only the heights of people whose arm span is 60 and find the mean.</p>
 </li>
 <li>
-<p>In teams, ask students to find the mean height for people whose arm span is 60, 64, 68, and 72.
-Then plot these points on the graph (we’ll use this later – the points should be roughly along a
-straight line). <span style="color:grey"><strong><em>These arm spans have a range of height values associated with them.
-Students may take a mean of the heights, but answers may vary.</em></strong></span></p>
+<p>In teams, ask students to approximate the mean height for people whose arm span is 60, 64, 68, and 72.</p>
+<p><strong><u>Note:</u></strong> Because the plot does not clearly show duplicate ordered pairs, an approximation is sufficient at this point. You may have students use RStudio to calculate the mean height for the specific armspans. Refer to the OPTIONAL section at the end of the lesson.</p>
+</li>
+<li>
+<p>Then plot these points on the graph. We will use this later – the points should be roughly along a straight line. <span style="color:grey"><strong><em>These arm spans have a range of height values associated with them. Students may take a mean of the heights, but answers may vary.</em></strong></span></p>
 </li>
 <li>
 <p>Ask students if they see any patterns or rules they can use from this to help with predictions.
-There were probably multiple answers from students since there were multiple height values
-associated with each arm span length. The goal now is to come up with a rule that suggests a
+Because there were multiple height values associated with each arm span length, you will likely get multiple answers from students. The goal now is to come up with a rule that suggests a
 plausible height value for anyone with a particular arm span.</p>
 </li>
 <li>
-<p>A sentence starter to guide students: If a person has a bigger arm span, then we should predict…
-[a bigger height]. If time permits, you might push them to be more precise. Let’s take someone
-who has a 60 inch arm span. You predicted a height of <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>. How much should we increase our
-prediction for people with a 62 inch arm span? Can you do this without subsetting the data and
-re-calculating?</p>
+<p>A sentence starter to guide students: If a person has a bigger arm span, then we should predict<u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>[a bigger height]. If time permits, you might push them to be more precise. Let’s take someone who has a 60 inch arm span. You predicted a height of <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>. How much should we increase our prediction for people with a 62 inch arm span? Can you do this without subsetting the data and re-calculating?</p>
 </li>
 <li>
-<p>Conceptually, students are wrestling with the notion of the slope of the regression line but there’s
-no need to point this out just yet. Important: The equation of the line of best fit will be revealed in
-<a href="../lesson10/">lesson 10</a>.</p>
+<p>Conceptually, students are wrestling with the notion of the slope of the regression line but there’s no need to point this out just yet. Important: The equation of the line of best fit will be revealed in <a href="../lesson10/">Lesson 10</a>.</p>
+<p><strong>OPTIONAL FOR ITEM 9</strong>
+If you want to obtain the exact mean height for each arm span value in step 9, copy the code below and run it in an RScript.</p>
+<pre><code>xyplot(height~armspan, data = arm_span, 
+    scales = list(x = list(at = seq(58, 72, 1)), y = list(at = seq(52, 72, 1))), 
+    xlab = "Arm span (inches)", ylab = "Height (inches)")
+
+armspan_60 &lt;- filter(arm_span, armspan==60)
+mean(~height, data = armspan_60)
+#62.66667
+
+armspan_64 &lt;- filter(arm_span, armspan==64)
+mean(~height, data = armspan_64)
+#64
+
+armspan_68 &lt;- filter(arm_span, armspan==68)&gt;
+mean(~height, data = armspan_68)
+#68
+
+armspan_72 &lt;- filter(arm_span, armspan==72)
+mean(~height, data = armspan_72)
+#71.5
+
+#Base R Code
+#syntax to create a scatterplot using base R
+plot(arm_span$height, arm_span$armspan)
+
+#Points function in base R is more user friendly
+points(60, 62.6667, col = "red", cex = 2)
+points(64, 64, col = "red", cex = 2)
+points(68, 68, col = "red", cex = 2)
+points(72, 71.5, col = "red", cex = 2)
+</code></pre>
 </li>
 </ol>
 <h3 id="class-scribes"><strong>Class Scribes:</strong></h3>
-<p>One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.</p>
+<p>One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.</p>
 <h3 id="homework-next-2-days"><p style="background: black; color: white; text-align: center;"><strong>Homework &amp; Next 2 Days</strong></p></h3>
 <p><a href="../lab4a/"><u><strong><em>LAB 4A: If the Line Fits…</em></strong></u></a></p>
 <p><a href="../lab4b/"><u><strong><em>LAB 4B: What’s the Score?</em></strong></u></a></p>
