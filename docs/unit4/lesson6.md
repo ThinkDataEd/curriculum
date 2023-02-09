@@ -52,7 +52,7 @@ the actual outcome (as in MAD) and is sometimes called a “residual.”
     the lowest mean squared deviation. For each of the games below, try the provided statistics and
     determine which one works best.
 
-    <center><img src="https://latex.codecogs.com/gif.latex?\frac{\sum_{i=1}^{n}(x_i-\hat{x}_i)^2}{n}" title="\frac{\sum_{i=1}^{n}(x_i-\hat{x}_i)^2}{n}" /></center>
+    <center><img src="https://latex.codecogs.com/gif.latex?\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" title="\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" /></center>
 
     100. <u>Game 1:</u> Predict the heights of 10 randomly chosen people. **<u>Remember:</u>** You must choose
     just one statistic to use as a prediction from this list:
@@ -129,9 +129,10 @@ absolute error**. It’s unlikely that students will figure this out on their ow
 it in statistics date back to the 18th century, so it won't make a lot of sense; but it’s what
 statisticians do. The mean absolute error is expressed as:
 
-    <center><img src="https://latex.codecogs.com/gif.latex?MAE=\frac{\sum|x-\hat{x}|}{n}" title="MAE=\frac{\sum|x-\hat{x}|}{n}" /></center>
+<center><img src="https://latex.codecogs.com/gif.latex?MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" title="MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" /></center>
 
-    where x̂ stands for the predicted value.
+    
+where x̂ stands for the predicted value.
 
 10. Explain that each team will now use the statisticians’ method for declaring a winner. Display the
 mean absolute error formula and discuss what each symbol means.
