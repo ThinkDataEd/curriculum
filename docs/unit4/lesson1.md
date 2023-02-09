@@ -90,13 +90,12 @@ to discuss when a Participatory Sensing campaign should be used rather than a su
 Answers will vary. Research questions that include variation across time or across
 locations are good candidates for Participatory Sensing campaigns; therefore, a <u>trigger</u> is
 necessary in order to record observations at multiple time points and locations. If a
-questions needs to be answered only once, then a survey is a better method.***</span>
+question needs to be answered only once, then a survey is a better method.***</span>
 
 10. Remind students that in the last unit, they created one campaign for the entire class. In this unit,
 each student team will be creating and implementing a campaign on the topic of water usage.
 
-11. Before they start creating their campaign, they are going to explore an official data set provided
-by the Los Angeles Department of Water and Power or DWP to learn more about water usage in
+11. Before they start creating their campaign, they are going to explore an official data set provided by the Los Angeles Department of Water and Power (DWP) to learn more about water usage in
 the Los Angeles area. Some students may receive services from the DWP.
 
 12. Explain how the data were collected:
@@ -142,7 +141,7 @@ want to record these in their DS journals):
     100. count = number of facilities per census block for that sector type
 
 14. Next, load an interactive map of the DWP 2010 data by visiting:<br>
-    [http://gh.IDSucla.org/ids_labs/extras/animations/watermap/watermap.html](http://gh.IDSucla.org/ids_labs/extras/animations/watermap/watermap.html "http://gh.IDSucla.org/ids_labs/extras/animations/watermap/watermap.html")
+    [https://labs.idsucla.org/extras/animations/watermap/watermap.html](https://labs.idsucla.org/extras/animations/watermap/watermap.html "https://labs.idsucla.org/extras/animations/watermap/watermap.html")
 
 15. Lead a discussion about what is on the page. Ask:
 
