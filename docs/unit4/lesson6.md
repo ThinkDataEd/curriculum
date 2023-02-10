@@ -128,12 +128,9 @@ second and third? Discuss which statistic made the best predictions in all three
 9. Another agreed upon method that data scientists and statisticians often use is the **mean
 absolute error**. It’s unlikely that students will figure this out on their own. The reasons why we do
 it in statistics date back to the 18th century, so it won't make a lot of sense; but it’s what
-statisticians do. The mean absolute error is expressed as:
+statisticians do. The mean absolute error is expressed as (where <align><img src="https://latex.codecogs.com/svg.image?\hat{x}"&space;" title="\hat{x}" " /></align> stands for the predicted value):
 
-<center><img src="https://latex.codecogs.com/gif.latex?MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" title="MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" /></center>
-
-    
-where x̂ stands for the predicted value.
+<center><img src="https://latex.codecogs.com/gif.latex?MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" title="MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" ></center>
 
 10. Explain that each team will now use the statisticians’ method for declaring a winner. Display the
 mean absolute error formula and discuss what each symbol means.
