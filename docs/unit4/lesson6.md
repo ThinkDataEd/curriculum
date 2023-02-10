@@ -54,7 +54,8 @@ the actual outcome (as in MAD) and is sometimes called a “residual.”
 
     <center><img src="https://latex.codecogs.com/gif.latex?\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" title="\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" /></center>
 
-    100. <u>Game 1:</u> Predict the heights of 10 randomly chosen people. **<u>Remember:</u>** You must choose
+    100. <u>Game 1:</u> Predict the heights of 10 randomly chosen people.
+    **<u>Remember:</u>** You must choose
     just one statistic to use as a prediction from this list:
 
         <img src="../../img/40606a.png" />
@@ -132,7 +133,7 @@ statisticians do. The mean absolute error is expressed as:
 <center><img src="https://latex.codecogs.com/gif.latex?MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" title="MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" /></center>
 
     
-    where x̂ stands for the predicted value.
+where x̂ stands for the predicted value.
 
 10. Explain that each team will now use the statisticians’ method for declaring a winner. Display the
 mean absolute error formula and discuss what each symbol means.
