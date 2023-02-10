@@ -60,7 +60,7 @@ predictions are.
 ###**Checking our work**
 * **Describe and interpret, in words, what the output of your accuracy summary means.**
 
-    – **Compare your accuracy summary with a neighbors. Whose line was more accurate
+    – **Compare your accuracy summary with a neighbor's. Whose line was more accurate
     and why?**
 
 * **Write down why adding positive and negative errors together is problematic for assessing
@@ -97,7 +97,7 @@ with ourselves.
 * The ```lm()``` function creates the *line of best fit* equation by finding the line that minimizes the *mean
 squared error*. Meaning, it's the *best fitting line possible*.
 
-    – Compare the MSE value you calculated using the line you fitted with ```add_line()``` to the
+    – Compare the MSE value you calculated using the line you fitted with ```add_line()``` to
     the same value you calculated using the ```lm``` function.
 
     – Ask your neighbors if any of their lines beat the ```lm``` line in terms of the MSE. Were any of
