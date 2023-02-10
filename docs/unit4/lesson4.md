@@ -26,7 +26,7 @@ their campaign. Allow them time to share their findings with their team members.
 3. Once they have made a decision on the revisions, they will reflect these changes on their posters.
 
 4. Now they will edit their campaigns. The Recorder/Reporter will type for his/her team and will login
-by going to the IDS Home page and clicking on Campaign Manager.
+by going to the IDS Portal and clicking on Campaign Manager.
 
 5. Then, ask students to find their team’s campaign. If the campaign is not visible, they may do a
 **Search** by typing in their campaign name.
