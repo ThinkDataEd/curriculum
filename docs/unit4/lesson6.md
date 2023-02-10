@@ -132,7 +132,7 @@ statisticians do. The mean absolute error is expressed as:
 <center><img src="https://latex.codecogs.com/gif.latex?MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" title="MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" /></center>
 
     
-where x̂ stands for the predicted value.
+    where x̂ stands for the predicted value.
 
 10. Explain that each team will now use the statisticians’ method for declaring a winner. Display the
 mean absolute error formula and discuss what each symbol means.
