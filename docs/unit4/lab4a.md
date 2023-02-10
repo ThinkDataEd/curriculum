@@ -26,8 +26,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
     – **If you had to predict the height of someone in the LA area, what single height
     would you choose and why?**
 
-    – **Would you describe this as a *good* guess? What might you try and improve
-    your predictions?**
+    – **Would you describe this as a *good* guess? What might you try to improve your predictions?**
 
 ###**Predicting heights knowing arm spans**
 * Create two subsets of our ```arm_span``` data:
@@ -60,8 +59,7 @@ mean ```height```.
     – What we mean by *fit* is to come up with a line that's close to as many of the data
     points as possible.
     
-* Create an scatterplot for ```height``` and ```armspan```. Then run the following code. Draw a line by
-clicking twice on the *Plot* pane.
+* Create a scatterplot for ```height``` and ```armspan```. Then run the following code. Draw a line by clicking twice on the *Plot* pane.
 
         add_line()
 
