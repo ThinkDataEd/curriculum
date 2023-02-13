@@ -56,8 +56,8 @@ in 1999 and their Internet Movie Database (IMBD) scores.
 the following questions with the whole class:
 
     * What is happening in each plot? What seems to be the trend? <span style="color:grey">***Guide students to
-    understand that the Profits per Explosion plot shows an increasing ***</span>***trend***<span style="color:grey">***, while the
-    Scores Over Time plot shows a decreasing trend. An increasing trend is called a
+    understand that the Profits per Explosion plot shows an increasing trend, while the
+    Scores Over Time plot shows a decreasing trend. An increasing ***</span>***trend***<span style="color:grey">*** is called a
      ***</span>***positive association***<span style="color:grey">*** and a decreasing trend is called a  ***</span>***negative association***<span style="color:grey">***.***</span>
 
     * What does it mean to have an increasing trend and a positive association? <span style="color:grey">***In Profits per
