@@ -34,17 +34,12 @@ line of best fit, regression line
 1. If necessary, begin by sharing out the descriptions for the plots in the *Strength of Association*
 ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.8_Strength of Association.pdf)) handout from the previous lesson.
 
-2. Inform students that in this lesson, they will estimate the equation of the **line of best fit** for a
-height and arm span data set.
+2. Inform students that in this lesson, they will estimate the equation of the **line of best fit** for a height and arm span data set.
 
 3. Refer students back to the plots in the *What’s the Trend?* handout ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf)).
-The line in each of the plots is known as the **line of best fit**, or the **regression line**. This is a
-trend line that best represents or models the data in each scatterplot. Ask students:
+The line in each of the plots is known as the **line of best fit**, or the **regression line**. This is a trend line that best represents or models the data in each scatterplot. Ask students:
 
-    100. *Why do you think this line is called “best fit”? <span style="color:grey">**Some possible answers are that it is a
-    line that is closest to all data points or that it “fits” evenly among the data points.
-    This is a good time to refer back to the discussion about height versus arm span in
-    [lesson 7](lesson7.md).***</span>
+    100. Why do you think this line is called “best fit”? <span style="color:grey"> ***Some possible answers are that it is a line that is closest to all data points or that it “fits” evenly among the data points. This is a good time to refer back to the discussion about height versus arm span in [lesson 7](lesson7.md). *** </span>
 
 4. Distribute *The Spaghetti Line* ([LMR_4.9_The Spaghetti Line](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.9_The Spaghetti Line.pdf)) to each student and a couple of
 spaghetti strands per team. Students will estimate the line of best fit as outlined in the handout.
@@ -65,18 +60,13 @@ each other’s work.
     why their line is better than this one. Push them to come to an understanding that the “best” line
     comes close to the *most* points.
 
-7. Inform students that data scientists have a way of finding the best line. They choose the line so
-that the mean squared distances between the points and the line is as small as possible. Discuss
-with students:
+7. Inform students that data scientists have a way of finding the best line. They choose the line so that the mean squared distances between the points and the line is as small as possible. Discuss with students:
 
-    100. What methods have we used so far? <span style="color:grey">***We’ve used Mean Squared Deviations and Mean
-    Absolute Error ([Lesson 6](lesson6.md)).***</span>
+    100. What methods have we used so far? <span style="color:grey">***We’ve used Mean Squared Deviations and Mean Absolute Error ([Lesson 6](lesson6.md)).***</span>
 
-    100. How did we use these methods? <span style="color:grey">***It was best to use Mean Squared Deviations when
-    we are looking at mean and Mean Absolute Error when we are looking at median.***</span>
+    100. How did we use these methods? <span style="color:grey">***It was best to use Mean Squared Deviations when we are looking at mean and Mean Absolute Error when we are looking at median.***</span>
 
-    100. Which method do you think data scientists use most often? <span style="color:grey">***Data scientists often use
-    MAE.***</span>
+    100. Which method do you think data scientists use most often? <span style="color:grey">***Data scientists often use MAE.***</span>
 
 8. [See graphic below] If time permits, ask students to calculate the distances and squares of two
 different lines so that they can understand what it means. This is the 2D version of the game they
