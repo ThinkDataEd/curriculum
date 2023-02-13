@@ -85,7 +85,7 @@ they feel *fit* the data best.
 
 * To avoid this variation in predictions, data scientists will use *regression lines*.
 
-    – These line connects the mean ```height``` of people with similar ```arm_spans```.
+    – This line connects the mean ```height``` of people with similar ```arm_spans```.
 
     – Fill in the blanks below to create the a *regression line* using an ```lm```, or *linear model*:
 
