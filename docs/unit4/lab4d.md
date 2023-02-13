@@ -2,7 +2,7 @@
 Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
 ###**Some background...**
-* So far, we’ve learned about measuring the success of a model based on how close it’s
+* So far, we’ve learned about measuring the success of a model based on how close its
 predictions come to the actual observations.
 
 * The *correlation coefficient* is a tool that gives us a fairly good idea of how these predictions will
@@ -93,7 +93,7 @@ the previous plot, which happen to be ```audience_rating``` and ```critics_ratin
 
 * Plot the variables using the ```xyplot()``` function.
 
-    – **Would calculating a correlation coefficient for the two variables be appropriate.
+    – **Would calculating a correlation coefficient for the two variables be appropriate?
     Justify your answer.**
 
     – **Predict what value you think the correlation coefficient will be. Compare this value
