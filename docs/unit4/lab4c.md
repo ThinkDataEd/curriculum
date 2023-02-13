@@ -5,12 +5,12 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 * In the previous two labs, we learned how to:
 
     – Create a linear model predicting ```height``` from the ```arm_span``` data (4A).
-
-    - See how well our model predicts ```height``` on the ```arm_span``` data by computing mean squared error (MSE)(4B).
+    
+    – See how well our model predicts ```height``` on the ```arm_span``` data by computing mean squared error (MSE)(4B).
 
 * In this lab, we will see how well our model predicts the heights of *people we haven't yet measured*.
 
-* To do this, we will use a method called *cross-validation*:
+* To do this, we will use a method called *cross-validation*.
 
 * Cross-validation consists of three steps:
 
@@ -18,7 +18,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – Step 2: Create a model using the *training* set.
 
-    - Step 3: Use this model to make predictions on the *test* set.
+    – Step 3: Use this model to make predictions on the *test* set.
 
 ###**Step 1: train-test split**
 * Waiting for new observations can take a long time. The U.S. takes a census of its
@@ -66,7 +66,7 @@ our data so that we can build a good model.
 * As data sets grow larger, we can use a larger proportion of the data to *test* with.
 
 ###**Step 2: train the model**
-* Step 2 is to creat a linear model relating ```height``` and ```armspan``` using the ```training``` data.
+* Step 2 is to create a linear model relating ```height``` and ```armspan``` using the ```training``` data.
 
 * Fit a line of best fit model to our ```training``` data and assign it the name ```best_train```.
 
@@ -86,7 +86,7 @@ the [last lab](lab4b.md) to make predictions.
 
         test <- mutate(test, ____ = predict(best_train, newdata = ____))
 
-* Hint: the ```predict``` function without the arhument ```newdata``` will output predictions on the ```training``` data. To output predictions on the ```test``` data, supply the ```test``` data to the ```newdata``` argument.
+* Hint: the ```predict``` function without the argument ```newdata``` will output predictions on the ```training``` data. To output predictions on the ```test``` data, supply the ```test``` data to the ```newdata``` argument.
 
 * Calculate the MSE in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).
 
@@ -102,7 +102,7 @@ the [last lab](lab4b.md) to make predictions.
 * This begs the question, why do we care about test MSE?
 
 ###**Why cross-validate?**
-* Why go to all this trouble to compute test MSE when we could just copute MSE on the original dataset?
+* Why go to all this trouble to compute test MSE when we could just compute MSE on the original dataset?
 
 * When we compute MSE on the original dataset, we are measuring the ability of a model to make predictions *on the current batch of data*.
 
@@ -110,6 +110,6 @@ the [last lab](lab4b.md) to make predictions.
 
     – This phenomenon is known as overfitting.
 
-* By splitting the data into a training and test set, we are *hiding* a proportion of the data from the model. This emulates future observations, which are unseen.*
+* By splitting the data into a training and test set, we are *hiding* a proportion of the data from the model. This emulates future observations, which are unseen.
 
 * Test MSE estimates the ability of a model to make predictions of *future observations*.
