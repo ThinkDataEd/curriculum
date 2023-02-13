@@ -108,7 +108,7 @@ responses to the discussion questions.
     100. How would you use the mean absolute error to determine which plot would make the
     most accurate predictions? <span style="color:grey">***Answers will vary, but you would expect to hear something like: “the prediction line that has the least amount of distance to all the points on the plot would make the most accurate prediction because the predicted values will be closer to the actual data.”***</span>
 
-15. Next, have students select a statement they think is best (a or b), then write a justification for their selection based on what they learned in this lesson. This may completed as homework.
+15. Next, have students select a statement they think is best (a or b), then write a justification for their selection based on what they learned in this lesson. This may be completed as homework.
 
     100. Combining multiple variables (e.g., TV and Newspaper ads, TV and Radio ads, TV,
     Radio, and Newspaper ads, etc.) into one model will lead to worse predictions because
