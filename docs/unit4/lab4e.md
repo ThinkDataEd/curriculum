@@ -15,8 +15,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 ###**Divide & Conquer**
 
-* Start by loading the ```movie``` data and split it into two sets (See [Lab 4C](lab4c.md) for help). Remember
-to use ```set.seed```.
+* Start by loading the ```movie``` data and split it into two sets (See [Lab 4C](lab4c.md) for help). Remember to use ```set.seed```.
 
     – A set named ```training``` that includes 75% of the data.
 
@@ -35,7 +34,7 @@ better predictions.
 
     – Fill in the blanks below to predict ```gross``` using ```runtime``` and ```reviews_num```.
 
-    lm(____ ~ ____ + ____, data = training)
+        lm(____ ~ ____ + ____, data = training)
 
 * **Does this new model make more or less accurate predictions? Describe the process
 you used to arrive at your conclusion.**
