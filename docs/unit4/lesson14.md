@@ -12,47 +12,33 @@ non-linear, polynomial trends
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    If a linear model is fit to a non-linear trend, it will not do a good job of predicting. For this
-    reason, we need to identify non-linear trends by looking at a scatterplot or the model needs to match the trend.
+    If a linear model is fit to a non-linear trend, it will not do a good job of predicting. For this reason, we need to identify non-linear trends by looking at a scatterplot or the model needs to match the trend.
 
 ###**Lesson:**
-1. Remind students that they have been learning a great deal about linear associations. However,
-there are other types of associations, and today they will learn to describe them.
+1. Remind students that they have been learning a great deal about linear associations. However, there are other types of associations, and today they will learn to describe them.
 
-2. Distribute *Describe the Association* ([LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.14_Describe the Association.pdf)). In teams, students will examine the trend of
-each plot. Their task is to write a description of the trend that they see in the data and what the
-trend means.
+2. Distribute *Describe the Association* ([LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.14_Describe the Association.pdf)). In teams, students will examine the trend of each plot. Their task is to write a description of the trend that they see in the data and what the trend means.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.14_Describe the Association.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.14_Describe the Association.pdf)</div>
 
-3. Allow students time to discuss and record their descriptions for each plot in their DS journals.
-Walk around the room monitoring student teamwork. Look for descriptions that are interesting to
-share with the whole class.
+3. Allow students time to discuss and record their descriptions for each plot in their DS journals. Walk around the room monitoring student teamwork. Look for descriptions that are interesting to share with the whole class.
 
 4. Select a team to present a description of one plot to the class. Teams will listen to each
-presentation, compare it to their description of the plot, and as a team they will agree or disagree.
-If there is disagreement, lead a discussion that guides students to reason toward the correct
-description.
+presentation, compare it to their description of the plot, and as a team they will agree or disagree. If there is disagreement, lead a discussion that guides students to reason toward the correct description.
 
-5. Summarize the discussion for each plot and ask students take notes or revise their descriptions in
-their DS journals.
+5. Summarize the discussion for each plot and ask students take notes or revise their descriptions in their DS journals.
 
 6. Repeat steps 4 and 5 for the rest of the plots.
 
     Plot Descriptions for *Describe the Association* ([LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.14_Describe the Association.pdf)):
 
-	* <span style="color:grey">***Plot A: There is no trend (perhaps some may see a very, very weak linear trend), so
-	there is no/hardly any association. There is a great deal of scatter in the data. It
-	means that y does not depend on x.***</span>
+	* <span style="color:grey">***Plot A: There is no trend (perhaps some may see a very, very weak linear trend), so there is no/hardly any association. There is a great deal of scatter in the data. It means that y does not depend on x.***</span>
 
-	* <span style="color:grey">***Plot B: There appears to be a linear trend. The association is negative and appears
-	somewhat strong. It means that as x increases, y decreases.***</span>
+	* <span style="color:grey">***Plot B: There appears to be a linear trend. The association is negative and appears somewhat strong. It means that as x increases, y decreases.***</span>
 
-	* <span style="color:grey">***Plot C: There is a linear trend. The association is positive and it is very strong. It
-	means that the y-value increases at approximately the same rate for every increase
-	in x value. This is a line.***</span>
+	* <span style="color:grey">***Plot C: There is a linear trend. The association is positive and it is very strong. It means that the y-value increases at approximately the same rate for every increase in x value. This is a line.***</span>
 
-	* <span style="color:grey">***Plot D: The trend is***</span> **non-linear**<span style="color:grey">***. There seems to be a weak association because
+	* <span style="color:grey">***Plot D: The trend is***</span> ***non-linear***<span style="color:grey">***. There seems to be a weak association because
 	there is scatter in the data. Cannot tell if the association is positive or negative. It
 	has the shape of a parabola; therefore, it is quadratic. For smaller x-values, the y-value
 	is decreasing and for larger x values, the y value is increasing.***</span>
