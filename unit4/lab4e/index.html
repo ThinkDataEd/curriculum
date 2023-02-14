@@ -3358,8 +3358,7 @@
 <h3 id="divide-conquer"><strong>Divide &amp; Conquer</strong></h3>
 <ul>
 <li>
-<p>Start by loading the <code>movie</code> data and split it into two sets (See <a href="../lab4c/">Lab 4C</a> for help). Remember
-to use <code>set.seed</code>.</p>
+<p>Start by loading the <code>movie</code> data and split it into two sets (See <a href="../lab4c/">Lab 4C</a> for help). Remember to use <code>set.seed</code>.</p>
 <p>– A set named <code>training</code> that includes 75% of the data.</p>
 <p>– A set named <code>testing</code> that includes the remaining 25%.</p>
 </li>
@@ -3378,7 +3377,8 @@ movie will make? What else might affect a movie's <code>gross</code>?</strong></
 <p>Data scientists often find that including more relevant information in their models leads to
 better predictions.</p>
 <p>– Fill in the blanks below to predict <code>gross</code> using <code>runtime</code> and <code>reviews_num</code>.</p>
-<p>lm(<strong><em>_ ~ </em></strong>_ + ____, data = training)</p>
+<pre><code>lm(____ ~ ____ + ____, data = training)
+</code></pre>
 </li>
 <li>
 <p><strong>Does this new model make more or less accurate predictions? Describe the process
