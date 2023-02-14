@@ -3373,13 +3373,12 @@
 <ul>
 <li>
 <p>In the previous lab, we saw that prediction models could be improved by including additional
-variables.'</p>
+variables.</p>
 <p>– But using straight lines for all the variables in a model might not really fit what's
 happening in the data.</p>
 </li>
 <li>
-<p>In this lab, we'll learn how we can turn our <code>lm()</code> models using straight lines into <code>lm()</code> models
-using quadratic curves.</p>
+<p>In this lab, we'll learn how we can turn our <code>lm()</code> models using straight lines into <code>lm()</code> models using quadratic curves.</p>
 </li>
 <li>
 <p>Load the <code>movie</code> data and split it into two sets:</p>
@@ -3391,10 +3390,9 @@ using quadratic curves.</p>
 <h3 id="problems-with-lines"><strong>Problems with lines</strong></h3>
 <ul>
 <li>
-<p>Calculate the <em>slope</em> and <em>intercept</em> of a linear model that predicts <code>audience_rating</code> based
-on <code>critics_rating</code> for the <code>training</code> data.</p>
+<p>Calculate the <em>slope</em> and <em>intercept</em> of a linear model that predicts <code>audience_rating</code> based on <code>critics_rating</code> for the <code>training</code> data.</p>
 <p>– Then create a scatterplot of the two variables using the <code>testing</code> data and use
-<code>add_line()</code> to include the <em>line of best fit</em> based on the <code>training</code> data..</p>
+<code>add_line()</code> to include the <em>line of best fit</em> based on the <code>training</code> data.</p>
 <p>– <strong>Describe, in words, how the line fits the data? Are there any values for
 <code>critics_rating</code> that would make obviously poor predictions?</strong></p>
 </li>
@@ -3405,8 +3403,7 @@ on <code>critics_rating</code> for the <code>training</code> data.</p>
 <h3 id="adding-flexibility"><strong>Adding flexibility</strong></h3>
 <ul>
 <li>
-<p>You don't need to be a full-fledged Data Scientist to realize that trying to fit a line to curved
-data is a poor modeling choice.</p>
+<p>You don't need to be a full-fledged Data Scientist to realize that trying to fit a line to curved data is a poor modeling choice.</p>
 <p>– If our data is curved, we should try model it with a curve.</p>
 </li>
 <li>
@@ -3444,8 +3441,7 @@ for <code>critics_rating</code>.</p>
 <h3 id="comparing-lines-and-curves"><strong>Comparing lines and curves</strong></h3>
 <ul>
 <li>
-<p>Create a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis
-using your <code>testing</code> data.</p>
+<p>Create a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>testing</code> data.</p>
 <p>– Add the <em>line of best fit</em> for the <code>training</code> data to the plot.</p>
 <p>– Then use the name of the model in the code below to add your <em>quadratic</em> model:</p>
 <pre><code>add_curve(____)
@@ -3460,10 +3456,8 @@ other.</strong></p>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p><strong>Create a model that predicts <code>audience_rating</code> using a <code>3</code> degree polynomial (called a <em>cubic</em>
-model) for the <code>critics_rating</code> using the training data.</strong></p>
-<p>– <strong>By using a plot, describe why you think a <code>2</code> or <code>3</code> degree polynomial will make better
-predictions for the testing data.</strong></p>
+<p><strong>Create a model that predicts <code>audience_rating</code> using a <code>3</code> degree polynomial (called a <em>cubic</em> model) for the <code>critics_rating</code> using the training data.</strong></p>
+<p>– <strong>By using a plot, describe why you think a <code>2</code> or <code>3</code> degree polynomial will make better predictions for the testing data.</strong></p>
 <p>– <strong>Compute the MSE for the model with a <code>3</code> degree polynomial and use the MSE to
 justify whether the <code>2</code> or <code>3</code> degree polynomial fits the <code>testing</code> data better.</strong></p>
 <p>– <strong>Using the linear model from above which has the smallest MSE, include a different
