@@ -25,15 +25,11 @@ training data, testing data
     ***If a close friend or family member were having chest pains, would you want to take that
     person to a doctor or to a data scientist?***
 
-2. Give the students some time to think about the question and have a few of them share out their
-responses with the class.
+2. Give the students some time to think about the question and have a few of them share out their responses with the class.
 
     **Note:** It’s likely that most students will choose to bring their loved one to a doctor.
 
-3. As it turns out, back in the late 1970s, a cardiologist (and early data scientist) named Lee
-Goldman developed a decision tree based on millions of patient observations. The decision tree
-was made to diagnose whether people were or were not having a heart attack. Interestingly, the
-results of the decision tree compared to how actual doctor diagnoses are shown below:
+3. As it turns out, back in the late 1970s, a cardiologist (and early data scientist) named Lee Goldman developed a decision tree based on millions of patient observations. The decision tree was made to diagnose whether people were or were not having a heart attack. Interestingly, the results of the decision tree compared to how actual doctor diagnoses are shown below:
 
     100. Correct diagnoses using the decision tree were above 95%.
 
@@ -41,12 +37,11 @@ results of the decision tree compared to how actual doctor diagnoses are shown b
 
 4. Display the graphic from the* Decision Tree for Heart Attack Risk* file ([LMR_4.22_CART Heart Attacks](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.22_CART Heart Attacks.pdf)) and explain that this is one example of what the decision tree might have looked like.
 
-    Note: This is NOT the actual tree Goldman developed.
+    **Note:** This is NOT the actual tree Goldman developed.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.22_CART Heart Attacks.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.22](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.22_CART Heart Attacks.pdf)</div>
 
-5. Using a *Pair-Share*, ask students to discuss the following questions using the graphic above, as
-well as what they learned during the previous lesson’s activity.
+5. Using a *Pair-Share*, ask students to discuss the following questions using the graphic above, as well as what they learned during the previous lesson’s activity.
 
     a. What are decision trees?
 
@@ -73,11 +68,7 @@ lesson):
     | Washington, D.C. | Robert Griffin III | 74 | 223 | 25 | NFL |
     | Washington, D.C. | Steve Birnbaum | 74 | 181 | 28 | USMNT |
 
-7. Distribute the *Make Your Own Decision Tree* handout ([LMR_4.23_Your Own Decision Tree](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.23_Your Own Decision Tree.pdf)) and
-give students time to come up with their own decision trees based on the **training data** they are
-given. Students may work in pairs or teams. They should follow the directions on page 1 of the
-handout and come up with a series of possible yes/no questions that they could ask to classify
-each player into his correct league (the NFL or the USMNT).
+7. Distribute the *Make Your Own Decision Tree* handout ([LMR_4.23_Your Own Decision Tree](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.23_Your Own Decision Tree.pdf)) and give students time to come up with their own decision trees based on the **training data** they are given. Students may work in pairs or teams. They should follow the directions on page 1 of the handout and come up with a series of possible yes/no questions that they could ask to classify each player into his correct league (the NFL or the USMNT).
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.23_Your Own Decision Tree.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.23](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.23_Your Own Decision Tree.pdf)</div>
 
 8. Once the students have finished creating their decision trees, ask the following questions:
@@ -87,15 +78,12 @@ each player into his correct league (the NFL or the USMNT).
 
     100. Is this decision tree too specific to the training data?
 
-9. Inform the students that they should now use the **testing data** on page 2 of the handout to try to
-classify 5 *mystery players* into one of the two leagues. They should record the classification that
-their tree outputs in the data table on page 2.
+9. Inform the students that they should now use the **testing data** on page 2 of the handout to try to classify 5 *mystery players* into one of the two leagues. They should record the classification that their tree outputs in the data table on page 2.
 
 10. Let the students compare their decision trees and league assignments with one another.
 Hopefully, there will be a bit of variety in terms of the trees and the classifications.
 
-11. Next, show students the correct league classifications for the 5 mystery players. The mystery
-player names are also included in this table.
+11. Next, show students the correct league classifications for the 5 mystery players. The mystery player names are also included in this table.
 
     | **Team** | **Player** | **Height (inches)** | **Weight (pounds)** | **Age** | **League** |
     |----------------|-----------------|-----------------|-----------------|-----|--------|
@@ -118,17 +106,13 @@ player names are also included in this table.
     e. Did anyone correctly classify ALL 5 mystery players? If so, ask those students to share
     their decision trees with the rest of the class.
 
-13. Inform students that, when faced with much more data, creating classification trees becomes
-much harder to make by hand. It is so difficult, in fact, that data scientists rely on software to grow
-their trees for them. Students will learn how to create decision trees in RStudio during the next lab.
+13. Inform students that, when faced with much more data, creating classification trees becomes much harder to make by hand. It is so difficult, in fact, that data scientists rely on software to grow their trees for them. Students will learn how to create decision trees in RStudio during the next lab.
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-Write a paragraph describing the role testing data and training data play in creating a classification
-tree.
+Write a paragraph describing the role testing data and training data play in creating a classification tree.
 
 [<u>***LAB 4G: Growing Trees***</u>](lab4g.md)
 
