@@ -3378,8 +3378,7 @@ with how the information should be combined.</p>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
 <div class="admonition note">
 <p class="admonition-title">Essential Concepts: </p>
-<p>If multiple predictors are associated with the response variable, a better predictive model
-will be produced, as measured by the mean absolute error.</p>
+<p>If multiple predictors are associated with the response variable, a better predictive model will be produced, as measured by the mean absolute error.</p>
 </div>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
 <ol>
@@ -3406,50 +3405,34 @@ the model can use more information to make predictions.</p>
 example).</p>
 </li>
 <li>
-<p>Next, inform teams that they will have 2 minutes to come up with as many combinations of ads
-(variables) as they can think of (e.g., TV + Newspaper ads, TV+ Radio ads, TV + Radio +
+<p>Next, inform teams that they will have 2 minutes to come up with as many combinations of ads (variables) as they can think of (e.g., TV + Newspaper ads, TV+ Radio ads, TV + Radio +
 Newspaper ads, etc.)</p>
 </li>
 <li>
-<p>After 2 minutes, list all the different combinations by conducting a Whip Around and eliciting a
-combination from each team.</p>
+<p>After 2 minutes, list all the different combinations by conducting a Whip Around and eliciting a combination from each team.</p>
 </li>
 <li>
-<p>By a show of hands, ask students to select which combination or single model will be the best
-predictor for the number of items sold by the retailer.</p>
+<p>By a show of hands, ask students to select which combination or single model will be the best predictor for the number of items sold by the retailer.</p>
 </li>
 <li>
-<p>Then inform students that we will determine which of the statements is true by comparing the
-mean absolute error (MAE) of single models (like the ones we showed in the previous lesson) vs.
-combined models. But first, use the line of best fit for the combined variables:</p>
+<p>Then inform students that we will determine which of the statements is true by comparing the mean absolute error (MAE) of single models (like the ones we showed in the previous lesson) vs. combined models. But first, use the line of best fit for the combined variables:</p>
 <p><center><img src="https://latex.codecogs.com/gif.latex?\widehat{sales}=0.045449(tv)&plus;0.186570(radio)-0.004952(newspaper)&plus;3.029878" title="\widehat{sales}=0.045449(tv)+0.186570(radio)-0.004952(newspaper)+3.029878" /></center></p>
 <p><strong>Note:</strong> The function that produced the line of best fit using RStudio was</p>
-<p>lm(Sales ~ TV + Radio + Newspaper, data= retail)</p>
+<pre><code>lm(Sales ~ TV + Radio + Newspaper, data= retail)
+</code></pre>
 <ol>
 <li>
-<p>Use this equation to predict the amount of sales for the same market they circled in the
-previous lesson. <span style="color:grey"><strong><em>Students’ calculation should yield the predicted value in (b), below.</em></strong></span></p>
-<p><strong><u>Note:</u></strong> Remind students that they need to substitute the values as they appear in the x-axis
-of the plots without converting to thousands of dollars. For example, the circled
-market spent about 10 thousand dollars on newspaper ads, so students should substitute
-10 instead of the expanded value in the equation.</p>
+<p>Use this equation to predict the amount of sales for the same market they circled in the previous lesson. <span style="color:grey"><strong><em>Students’ calculation should yield the predicted value in (b), below.</em></strong></span></p>
+<p><strong><u>Note:</u></strong> Remind students that they need to substitute the values as they appear in the x-axis of the plots without converting to thousands of dollars. For example, the circled market spent about 10 thousand dollars on newspaper ads, so students should substitute 10 instead of the expanded value in the equation.</p>
 <p><img src="../../img/41210.png" /></p>
 </li>
 <li>
-<p>Does the predicted value (10.407)) seem like a plausible number of sales? Why? <span style="color:grey"><strong><em>It is not
-a plausible number of sales because the prediction is too high. The prediction says
-the retailer will sell about 104,070 units, when the actual sales were about 16,000
-units. Although the model did not make a very good prediction for this market, it is
-not surprising because as <a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%204_v_5.0/LMR_4.13_Advertising%20Plots%202.pdf">LMR_4.13</a> displays, that market did not fit the overall
-pattern in any of the scatterplots.</em></strong></span></p>
+<p>Does the predicted value (10.407) seem like a plausible number of sales? Why? <span style="color:grey"><strong><em>It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 104,070 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as <a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit%204_v_5.0/LMR_4.13_Advertising%20Plots%202.pdf">LMR_4.13</a> displays, that market did not fit the overall pattern in any of the scatterplots.</em></strong></span></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Reveal that RStudio calculated the mean absolute error for different combinations plus the single
-models, and the results are displayed on the table below. This means that, for example, when
-using the TV model to predict number of items sold, our predictions will typically be off by about
-2.337808 (in 10,000s) of units or 23,378 units. Then ask students:</p>
+<p>Reveal that RStudio calculated the mean absolute error for different combinations plus the single models, and the results are displayed on the table below. This means that, for example, when using the TV model to predict number of items sold, our predictions will typically be off by about 2.337808 (in 10,000s) of units or 23,378 units. Then ask students:</p>
 <table>
 <thead>
 <tr>
@@ -3490,36 +3473,24 @@ using the TV model to predict number of items sold, our predictions will typical
 </table>
 <ol>
 <li>
-<p>Which model is the best predictor of number of items sold? <span style="color:grey"><strong><em>Answer: The TV-Radio
-model is the best predictor of number of items sold because it had the least
-amount of error, on average. When using the TV-Radio model to predict number of
-items sold, our predictions will typically be off by 11,609 units.</em></strong></span></p>
+<p>Which model is the best predictor of number of items sold? <span style="color:grey"><strong><em>Answer: The TV-Radio model is the best predictor of number of items sold because it had the least amount of error, on average. When using the TV-Radio model to predict number of items sold, our predictions will typically be off by 11,609 units.</em></strong></span></p>
 </li>
 <li>
-<p>Which model was the least reliable in predicting the number of items sold? <span style="color:grey"><strong><em>Answer: The
-Newspaper model is the least reliable predictor of number of items sold because it
-had the most amount of error, on average. When using the Newspaper model to
-predict number of items sold, our predictions will typically be off by 45,384 units.</em></strong></span></p>
+<p>Which model was the least reliable in predicting the number of items sold? <span style="color:grey"><strong><em>Answer: The Newspaper model is the least reliable predictor of number of items sold because it had the most amount of error, on average. When using the Newspaper model to predict number of items sold, our predictions will typically be off by 45,384 units.</em></strong></span></p>
 </li>
 <li>
-<p>What else do you notice about the models? <span style="color:grey"><strong><em>Answer: It appears that combining the
-variables into one model is much better than any of the single-variable models.</em></strong></span></p>
+<p>What else do you notice about the models? <span style="color:grey"><strong><em>Answer: It appears that combining the variables into one model is much better than any of the single-variable models.</em></strong></span></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Inform the students that, in the next lab, they will find out how to create the line of best fit for
-models that include many variables.</p>
+<p>Inform the students that, in the next lab, they will find out how to create the line of best fit for models that include many variables.</p>
 </li>
 </ol>
 <h3 id="class-scribes"><strong>Class Scribes:</strong></h3>
-<p>One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.</p>
+<p>One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.</p>
 <h3 id="homework-next-day"><p style="background: black; color: white; text-align: center;"><strong>Homework &amp; Next Day</strong></p></h3>
-<p>Ask students to think of a reason or reasons about why it would not be a good idea to make a scatterplot
-for models that include more than 3 predictor variables? <span style="color:grey"><strong><em>The answer is mainly because humans are
-limited to seeing things in 3 dimensions. For example, the model that combines all of the variables
-together is a 4 dimensional model. What does that look like?</em></strong></span></p>
+<p>Ask students to think of a reason or reasons about why it would not be a good idea to make a scatterplot for models that include more than 3 predictor variables? <span style="color:grey"><strong><em>The answer is mainly because humans are limited to seeing things in 3 dimensions. For example, the model that combines all of the variables together is a 4 dimensional model. What does that look like?</em></strong></span></p>
 <p><a href="../lab4e/"><u><strong><em>LAB 4E: This Model is Big Enough for All of Us</em></strong></u></a></p>
 <p>Complete <a href="../lab4e/">Lab 4E</a> prior to <a href="../practicum1/">Practicum</a>.</p>
 
