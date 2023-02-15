@@ -38,10 +38,7 @@ presentation, compare it to their description of the plot, and as a team they wi
 
 	* <span style="color:grey">***Plot C: There is a linear trend. The association is positive and it is very strong. It means that the y-value increases at approximately the same rate for every increase in x value. This is a line.***</span>
 
-	* <span style="color:grey">***Plot D: The trend is***</span> ***non-linear***<span style="color:grey">***. There seems to be a weak association because
-	there is scatter in the data. Cannot tell if the association is positive or negative. It
-	has the shape of a parabola; therefore, it is quadratic. For smaller x-values, the y-value
-	is decreasing and for larger x values, the y value is increasing.***</span>
+	* <span style="color:grey">***Plot D: The trend is non-linear. There seems to be a weak association because there is scatter in the data. Cannot tell if the association is positive or negative. It has the shape of a parabola; therefore, it is quadratic. For smaller x-values, the y-value is decreasing and for larger x values, the y value is increasing.***</span>
 
 	* <span style="color:grey">***Plot E: The trend is non-linear. There seems to be a strong association because
 	there is little scatter in the data. It is also in the shape of a parabola, so it is
