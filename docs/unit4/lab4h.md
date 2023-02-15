@@ -8,8 +8,7 @@ variables.
     – We used *regression* to predict numerical values and *classification* to predict
     categories.
 
-* *Clustering* is similar to classification in that we want to group people into categories. But
-there's one important difference:
+* *Clustering* is similar to classification in that we want to group people into categories. But there's one important difference:
 
     – In *clustering*, we don't know how many groups to use because we're not predicting
     the value of a known variable!
@@ -29,8 +28,7 @@ clusters.
     – This data contains 23 players from the US Men's National Soccer team (USMNT)
     and 22 quarterbacks from the National Football League (NFL).
 
-* Create a scatterplot of the players ```ht_inches``` and ```wt_lbs``` and color each dot based on the
-```league``` they play for.
+* Create a scatterplot of the players ```ht_inches``` and ```wt_lbs``` and color each dot based on the ```league``` they play for.
 
 ###**Running k-means**
 * After plotting the player's heights and weights, we can see that there are two clusters, or
@@ -53,15 +51,13 @@ plays in.
 
     – We call this knowledge *ground-truth*.
 
-* Knowing the *ground-truth* for this example is helpful to illustrate how k-means works, but in
-reality, data-scientists would run k-means not knowing the *ground-truth*.
+* Knowing the *ground-truth* for this example is helpful to illustrate how k-means works, but in reality, data-scientists would run k-means not knowing the *ground-truth*.
 
 * **Compare the clusters chosen by k-means to the ground-truth. How successful was k-means
 at recovering the ```league``` information?**
 
 ###**On your own**
-* Load your class' ```timeuse``` data (remember to run ```timeuse_format``` so each row represents
-the mean time each student in spent participating in the various activities).
+* Load your class' ```timeuse``` data (remember to run ```timeuse_format``` so each row represents the mean time each student spent participating in the various activities).
 
 * Create a scatterplot of ```homework``` and ```videogames``` variables.
 
@@ -69,5 +65,5 @@ the mean time each student in spent participating in the various activities).
 
 * Use ```kclusters``` with ```k=2``` for ```homework``` and ```videogames```.
 
-    – **Describe how the groups differ from eachother in terms of how long each
+    – **Describe how the groups differ from each other in terms of how long each
     group spends playing ```videogames``` and doing ```homework```.**
