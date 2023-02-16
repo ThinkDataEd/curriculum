@@ -108,9 +108,9 @@ the [last lab](lab4b.md) to make predictions.
 
 * Relying on a single dataset can lead to models that are so specific to the current batch of data that they're unable to make good predictions for future observations.
 
-    – This phenomenon is known as overfitting.
+    – This phenomenon is known as *overfitting*.
 
-* By splitting the data into a training and test set, we are *hiding* a proportion of the data from the model. This emulates future observations, which are unseen.
+* By splitting the data into a training and test set, we are *hiding a proportion of the data* from the model. This emulates future observations, which are unseen.
 
 * Test MSE estimates the ability of a model to make predictions of *future observations*.
 
@@ -124,6 +124,10 @@ the [last lab](lab4b.md) to make predictions.
 * Below is a plot of these 7 ```training``` points, and two curves representing the value of height each model would predict given a value of armspan.
 
 <img src="../../img/4xc0b.png" />
+
+* Which model does a better job of predicting the 7 ```training``` points?
+
+* Which model do you think will do a better job of predicting the rest of the data?
 
 ###**Example of overfitting, continued**
 
