@@ -3387,97 +3387,126 @@
 <h3 id="making-models-do-yoga"><strong>Making models do yoga</strong></h3>
 <ul>
 <li>
-<p>In the previous lab, we saw that prediction models could be improved by including additional
-variables.</p>
-<p>– But using straight lines for all the variables in a model might not really fit what's
-happening in the data.</p>
+<p>So far, we have only worked with prediction models that fit the <em>line of best fit</em> to the data.</p>
 </li>
 <li>
-<p>In this lab, we'll learn how we can turn our <code>lm()</code> models using straight lines into <code>lm()</code> models using quadratic curves.</p>
+<p>What happens if the true relationship between the data is nonlinear?</p>
 </li>
 <li>
-<p>Load the <code>movie</code> data and split it into two sets:</p>
-<p>– A set named <code>training</code> that includes 75% of the data.</p>
-<p>– And a set named <code>testing</code> that includes the remaining 25%.</p>
+<p>In this lab, we will learn about prediction models that fit <em>best fitting curves</em> to data.</p>
+</li>
+<li>
+<p><strong>Before moving on, load the <code>movie</code> data and split it into two sets:</strong></p>
+<p>– <strong>A set named <code>training</code> that includes 75% of the data.</strong></p>
+<p>– <strong>And a set named <code>testing</code> that includes the remaining 25%.</strong></p>
 <p>– Remember to use <code>set.seed</code>.</p>
 </li>
 </ul>
 <h3 id="problems-with-lines"><strong>Problems with lines</strong></h3>
 <ul>
 <li>
-<p>Calculate the <em>slope</em> and <em>intercept</em> of a linear model that predicts <code>audience_rating</code> based on <code>critics_rating</code> for the <code>training</code> data.</p>
-<p>– Then create a scatterplot of the two variables using the <code>testing</code> data and use
-<code>add_line()</code> to include the <em>line of best fit</em> based on the <code>training</code> data.</p>
-<p>– <strong>Describe, in words, how the line fits the data? Are there any values for
-<code>critics_rating</code> that would make obviously poor predictions?</strong></p>
+<p>Before learning how to fit curves, let's first fit a linear model for reference.</p>
 </li>
 <li>
-<p><strong>Compute the MSE of the model for the <code>testing</code> data and write it down for later.</strong></p>
+<p><strong>Train a linear model predicting <code>audience_rating</code> based on <code>critics_rating</code> for the <code>training</code> data. Assign this model to <code>movie_linear</code>.</strong></p>
+</li>
+<li>
+<p><strong>Fill in the blanks below to creat a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>testing</code> data.</strong></p>
+<pre><code>xyplot(____ ~ ____, data = ____)
+</code></pre>
+</li>
+<li>
+<p>Previously, you used <code>add_line</code> to plot the <em>line of best fit</em>. An alternative function for plotting the <em>line of best fit</em> is <code>add_curve</code>, which takes the name of the model as an argument.</p>
+</li>
+<li>
+<p><strong>Run the code below to add the <em>line of best fit</em> for the <code>training</code> data to the plot.</strong></p>
+<pre><code>add_curve(movie_linear)
+</code></pre>
+</li>
+<li>
+<p><strong>Describe, in words, how the line fits the data. Are there any values for <code>critics_rating</code> that would make obviously poor predictions?</strong></p>
+<p>– Hint: how does the linear model perform on very low and very high values of <code>critics_rating</code>?</p>
+</li>
+<li>
+<p><strong>Compute the MSE of the linear model for the <code>testing</code> data and write it down for later.</strong></p>
+<p>– Hint: refer to lab 4B.</p>
 </li>
 </ul>
 <h3 id="adding-flexibility"><strong>Adding flexibility</strong></h3>
 <ul>
 <li>
 <p>You don't need to be a full-fledged Data Scientist to realize that trying to fit a line to curved data is a poor modeling choice.</p>
-<p>– If our data is curved, we should try model it with a curve.</p>
 </li>
 <li>
-<p>So instead of using an <code>lm()</code> like</p>
+<p>If our data is curved, we should try model it with a curve.</p>
+</li>
+<li>
+<p>Instead of fitting a line, with equation of the form</p>
 <p><code>y = a + bx</code></p>
 </li>
 <li>
-<p>We could use an <code>lm()</code> like</p>
-<p><code>y = a + bx + cx2</code></p>
+<p>we might consider fitting a <em>quadratic curve</em>, with equation of the form</p>
+<p><code>y = a + bx + cx^2</code></p>
 </li>
 <li>
-<p>This is called a <em>quadratic</em> curve.</p>
+<p>or even a <em>cubic curve</em>, with equation of the form</p>
+<p><code>y = a + bx +cx^2 + dx^3</code></p>
+</li>
+<li>
+<p>In general, the more coefficients in the model, the more flexible its predictions can be.</p>
 </li>
 </ul>
+<p><img src="../../img/4xf0a.png" /></p>
 <h3 id="making-bend-y-models"><strong>Making bend-y models</strong></h3>
 <ul>
 <li>
 <p>To fit a quadratic model in <code>R</code>, we can use the <code>poly()</code> function.</p>
-<p>– Fill in the blanks below to predict <code>audience_rating</code> using a quadratic polynomial
-for <code>critics_rating</code>.</p>
-<pre><code>lm(____ ~ poly(____, 2), data = training)
+<p>– <strong>Fill in the blanks below to train a quadratic model predicting <code>audience_rating</code> from <code>critics_rating</code>, and assign that model to <code>movie_quad</code>.</strong></p>
+<pre><code>movie_quad &lt;- lm(____ ~ poly(____, 2), data = training)
 </code></pre>
 </li>
 <li>
 <p><strong>What is the role of the number 2 in the <code>poly()</code> function?</strong></p>
 </li>
-<li>
-<p><strong>Write down the model equation in the form:</strong></p>
-<p><code>y = a + bx + cx2</code></p>
-</li>
-<li>
-<p>Assign this model a name and calculate the MSE for the <code>testing_data</code>.</p>
-</li>
 </ul>
 <h3 id="comparing-lines-and-curves"><strong>Comparing lines and curves</strong></h3>
 <ul>
 <li>
-<p>Create a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>testing</code> data.</p>
-<p>– Add the <em>line of best fit</em> for the <code>training</code> data to the plot.</p>
-<p>– Then use the name of the model in the code below to add your <em>quadratic</em> model:</p>
-<pre><code>add_curve(____)
+<p><strong>Fill in the blanks below to</strong></p>
+<p>– <strong>create a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>testing</code> data, and</strong></p>
+<p>– <strong>add the <em>line of best fit</em> and <em>best fitting quadratic curve</em>.</strong></p>
+<p>– Hint: the <code>col</code> argument is added to the <code>add_curve</code> functions to help distinguish the two curves.</p>
+<pre><code>xyplot(____ ~ ____, data = ____)
+add_curve(____, col = "blue")
+add_curve(____, col = "red")
 </code></pre>
 </li>
 <li>
-<p><strong>Compare how the <em>line of best fit</em> and the <em>quadratic</em> model fit the data. Use the
-difference in each model's testing MSE to describe why one model fits better than the
-other.</strong></p>
+<p><strong>Compare how the <em>line of best fit</em> and the <em>quadratic</em> model fit the data. Which do you think has a lower <code>test</code> MSE?</strong></p>
+</li>
+<li>
+<p><strong>Compute the MSE of the quadratic model for the <code>test</code> data and write it down for later.</strong></p>
+</li>
+<li>
+<p><strong>Use the difference in each model's <code>test</code> MSE to describe why one model fits better than the other.</strong></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p><strong>Create a model that predicts <code>audience_rating</code> using a <code>3</code> degree polynomial (called a <em>cubic</em> model) for the <code>critics_rating</code> using the training data.</strong></p>
-<p>– <strong>By using a plot, describe why you think a <code>2</code> or <code>3</code> degree polynomial will make better predictions for the testing data.</strong></p>
-<p>– <strong>Compute the MSE for the model with a <code>3</code> degree polynomial and use the MSE to
-justify whether the <code>2</code> or <code>3</code> degree polynomial fits the <code>testing</code> data better.</strong></p>
-<p>– <strong>Using the linear model from above which has the smallest MSE, include a different
-numerical variable to the model and recompute the MSE. Does modeling the
-variable you chose as a quadratic polynomial improve the MSE further?</strong></p>
+<p><strong>Create a model that predicts <code>audience_rating</code> using a cubic curve (polynomial with degree <code>3</code>), and assign this model to <code>movie_cubic</code>.</strong></p>
+</li>
+<li>
+<p><strong>Create a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>test</code> data.</strong></p>
+</li>
+<li>
+<p><strong>Using the names of the three models you have trained, and the <em>line of best fit</em>, <em>best fitting quadratic curve</em>, and <em>best fitting cubic curve</em> for the <code>training data</code> to the plot.</strong></p>
+</li>
+<li>
+<p><strong>Based on the plot, which model do you think is the best at predicting the <code>testing</code> data?</strong></p>
+</li>
+<li>
+<p><strong>Use the difference in testing MSE to verify which model is the best at predicting the <code>testing data</code>.</strong></p>
 </li>
 </ul>
 
