@@ -21,7 +21,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * **Train a linear model predicting ```audience_rating``` based on ```critics_rating``` for the ```training``` data. Assign this model to ```movie_linear```.**
 
-* **Fill in the blanks below to creat a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```testing``` data.**
+* **Fill in the blanks below to create a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```testing``` data.**
 
         xyplot(____ ~ ____, data = ____)
 
