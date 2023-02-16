@@ -46,15 +46,15 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * Instead of fitting a line, with equation of the form
 
-    ```y = a + bx```
+<center><img src="https://latex.codecogs.com/gif.latex?{y=a+bx}" title="{y=a+bx}" ></center>
 
 * we might consider fitting a *quadratic curve*, with equation of the form
 
-    ```y = a + bx + cx^2```
+<center><img src="https://latex.codecogs.com/gif.latex?{y=a+bx+cx^2}" title="{y=a+bx+cx^2}" ></center>
 
 * or even a *cubic curve*, with equation of the form
 
-    ```y = a + bx +cx^2 + dx^3```
+<center><img src="https://latex.codecogs.com/gif.latex?{y=a+bx+cx^2+dx^3}" title="{y=a+bx+cx^2+dx^3}" ></center>
 
 * In general, the more coefficients in the model, the more flexible its predictions can be.
 
