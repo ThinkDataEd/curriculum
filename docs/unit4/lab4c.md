@@ -129,4 +129,6 @@ the [last lab](lab4b.md) to make predictions.
 
 * Below is a plot of the rest of the ```arm_span``` dataset, along with the predictions each model would make.
 
+<img src="../../img/4xc0c.png" />
+
 * Which model does a better job of generalizing to the rest of the ```arm_span``` dataset?
