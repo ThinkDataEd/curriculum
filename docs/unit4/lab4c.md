@@ -113,3 +113,20 @@ the [last lab](lab4b.md) to make predictions.
 * By splitting the data into a training and test set, we are *hiding* a proportion of the data from the model. This emulates future observations, which are unseen.
 
 * Test MSE estimates the ability of a model to make predictions of *future observations*.
+
+###**Example of overfitting**
+* The following example motivates cross-validation by illustrating the dangers of overfitting.
+
+* We randomly select 7 points from the ```arm_span``` dataset and fit two models: a linear model, and a *polynomial model*.
+
+    – You will learn how to fit a polynomial model in lab 4F.
+
+* Below is a plot of these 7 ```training``` points, and two curves representing the value of height each model would predict given a value of armspan.
+
+<img src="../../img/4xc0b.png" />
+
+###**Example of overfitting, continued**
+
+* Below is a plot of the rest of the ```arm_span``` dataset, along with the predictions each model would make.
+
+* Which model does a better job of generalizing to the rest of the ```arm_span``` dataset?
