@@ -353,6 +353,8 @@ nav:
     
     - How to..Video: 
         - 'How to .. Video' :  video.md
+
+    - Applications: applications.md    
    
     - About: about.md
 
