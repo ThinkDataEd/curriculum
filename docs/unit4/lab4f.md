@@ -93,7 +93,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * **Create a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```test``` data.**
 
-* **Using the names of the three models you have trained, and the *line of best fit*, *best fitting quadratic curve*, and *best fitting cubic curve* for the ```training data``` to the plot.**
+* **Using the names of the three models you have trained, add the *line of best fit*, *best fitting quadratic curve*, and *best fitting cubic curve* for the ```training data``` to the plot.**
 
 * **Based on the plot, which model do you think is the best at predicting the ```testing``` data?**
 
