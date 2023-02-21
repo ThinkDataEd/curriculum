@@ -88,7 +88,7 @@ the [last lab](lab4b.md) to make predictions.
 
 * Hint: the ```predict``` function without the argument ```newdata``` will output predictions on the ```training``` data. To output predictions on the ```test``` data, supply the ```test``` data to the ```newdata``` argument.
 
-* Calculate the MSE in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).
+* **Calculate the MSE in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).**
 
 ###**Recap**
 * Another way to describe the three steps is
@@ -125,9 +125,9 @@ the [last lab](lab4b.md) to make predictions.
 
 <img src="../../img/4xc0b.png" />
 
-* Which model does a better job of predicting the 7 ```training``` points?
+* **Which model does a better job of predicting the 7 ```training``` points?**
 
-* Which model do you think will do a better job of predicting the rest of the data?
+* **Which model do you think will do a better job of predicting the rest of the data?**
 
 ###**Example of overfitting, continued**
 
@@ -135,4 +135,4 @@ the [last lab](lab4b.md) to make predictions.
 
 <img src="../../img/4xc0c.png" />
 
-* Which model does a better job of generalizing to the rest of the ```arm_span``` dataset?
+* **Which model does a better job of generalizing to the rest of the ```arm_span``` dataset?**
