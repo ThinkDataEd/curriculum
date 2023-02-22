@@ -11,9 +11,9 @@ and will understand how medians compare and contrast with the mean.
 
 2. Poster paper
 
-3. Graphics from *Medians – Dotplots or Histograms*? ([LMR_2.4_Medians – Dotplots or Histograms](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf))
+3. Graphics from *Medians – Dotplots or Histograms*? ([LMR_2.4_Medians – Dotplots or Histograms](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf))
 
-4. *Where is the Middle*? handout ([LMR_2.5_Where is the Middle](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf))
+4. *Where is the Middle*? handout ([LMR_2.5_Where is the Middle](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf))
 
 5. Exported, printed, and reproduced class’s *Personality Color* survey data
 
@@ -80,10 +80,10 @@ though they are both measures of center? Is there a specific reason why the mean
 the median for this particular set of data? <span style="color:grey">***In this case, there was an outlier value that skewed
 the distribution and forced the balancing point to move to the right.***</span>
 
-10. Display the first 2 plots in the *Medians – Dotplots or Histograms*? file ([LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)). They are
+10. Display the first 2 plots in the *Medians – Dotplots or Histograms*? file ([LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)). They are
 labeled as plots for discussion for the *beginning* of class. Both the dotplot and histogram depict
 the number of candies eaten by a group of 17 high school students.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)</div>
 
 11. For the first 2 plots, ask students:
 
@@ -95,13 +95,13 @@ the number of candies eaten by a group of 17 high school students.
     100. What is the median value? <span style="color:grey">***The median number of candies eaten is 1 candy.***</span>
 
 12. Inform the students that they will practice finding medians of distributions using the *Where is the
-Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)). They will be determining medians when distributions have different
+Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)). They will be determining medians when distributions have different
 shapes (e.g., symmetric, left-skewed, right-skewed).
 
-13. Distribute the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)). Students should complete the handout
+13. Distribute the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)). Students should complete the handout
 individually first, then compare answers with their team members. Once each team has agreed
 upon their answers, discuss the handout as a class.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)</div>
 
 14. Ask the following questions to elicit a team discussion about the relationship between means and
 medians:
@@ -133,7 +133,7 @@ corresponding mean and median values.
     higher medians, and right-skewed distributions will produce higher means and
     smaller medians.***</span>
 
-    100. For each of the plots in the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)), which value better
+    100. For each of the plots in the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)), which value better
     matches your idea of “typical” for that specific distribution? <span style="color:grey">***For plot (a), both the mean
     and median agree and appear to be the balancing point of the distribution – both
     match what we think is typical. For plot (b), the median seems to be more typical,
@@ -146,7 +146,7 @@ corresponding mean and median values.
 distributions are typically medians, and the better measures for center for symmetric distributions
 are typically means.
 
-17. Display the last 2 plots in the *Medians – Dotplots or Histograms* file ([LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)). They are labeled
+17. Display the last 2 plots in the *Medians – Dotplots or Histograms* file ([LMR_2.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)). They are labeled
 as plots for discussion for the end of class. Both the dot plot and histogram depict the number of
 candies eaten by a group of 330 high school students.
 

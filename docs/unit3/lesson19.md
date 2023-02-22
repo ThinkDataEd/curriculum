@@ -5,7 +5,7 @@ Students will mock-implement, create their Participatory Sensing campaign, surve
 topic of interest, then begin data collection.
 
 ###**Materials:**
-1. *Campaign Creation* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf)) from previous lesson
+1. *Campaign Creation* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf)) from previous lesson
 
 2. Campaign Authoring Tool ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"))
 

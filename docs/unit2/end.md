@@ -5,7 +5,7 @@ Students will apply their learning of the first and second units of the curricul
 unit design project.
 
 ###**Materials:**
-1. *IDS Unit 2 – Design Project and Oral Presentation* ([LMR_U2_Design Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design Project.pdf))
+1. *IDS Unit 2 – Design Project and Oral Presentation* ([LMR_U2_Design Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design Project.pdf))
 
 <center>**End of Unit 2 Design Project and Oral Presentation: Asking and Answering Statistical Questions of Our Own Data**</center>
 

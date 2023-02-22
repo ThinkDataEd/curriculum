@@ -7,11 +7,11 @@ purposes.
 ###**Materials:**
 1. Video: *Explore a Google Data Center with Street View* found at:<br> [https://www.engadget.com/2012-10-17-google-inside-data-centers.html](https://www.engadget.com/2012-10-17-google-inside-data-centers.html "https://www.engadget.com/2012-10-17-google-inside-data-centers.html")
 
-2. *Wikipedia – Video Games* handout ([LMR_3.17_Wikipedia - Video Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.17_Wikipedia - Video Games.pdf))
+2. *Wikipedia – Video Games* handout ([LMR_3.17_Wikipedia - Video Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.17_Wikipedia - Video Games.pdf))
 
-3. *Wikipedia – Video Games – CSV Format* handout ([LMR_3.18_Video Games - CSV](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.18_Video Games - CSV.pdf))
+3. *Wikipedia – Video Games – CSV Format* handout ([LMR_3.18_Video Games - CSV](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.18_Video Games - CSV.pdf))
 
-4. *Online Data-ing* handout ([LMR_3.19_Online Data-ing](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.19_Online Data-ing.pdf))
+4. *Online Data-ing* handout ([LMR_3.19_Online Data-ing](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf))
 
 ###**Vocabulary:**
 data farm, tags, HTML
@@ -44,9 +44,9 @@ one of these large data farms used to store vast amounts of data.
 data on the Internet requires a different format than what we have seen. For example, Wikipedia
 has a page dedicated to the top video games.
 
-6. Distribute the *Wikipedia – Video Games* handout ([LMR_3.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.17_Wikipedia - Video Games.pdf)), and have students explain the
+6. Distribute the *Wikipedia – Video Games* handout ([LMR_3.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.17_Wikipedia - Video Games.pdf)), and have students explain the
 information that the data table provides.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.17_Wikipedia - Video Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.17_Wikipedia - Video Games.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.17_Wikipedia - Video Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.17_Wikipedia - Video Games.pdf)</div>
 
 7. Once the students understand what the data table describes, walk them through the first portion
 of the **HTML**, or Hypertext Markup Language, source code (on page 1). Notice that the first
@@ -79,14 +79,14 @@ Each team should answer the following questions in the DS journals.
     this would be very difficult. We would need to represent the data in a different
     format in order for R to understand it.***</span>
 
-9. Distribute the *Wikipedia – Video Games – CSV Format* handout ([LMR_3.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.18_Video Games - CSV.pdf)) and explain that this
+9. Distribute the *Wikipedia – Video Games – CSV Format* handout ([LMR_3.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.18_Video Games - CSV.pdf)) and explain that this
 is yet another way to represent the same video game data.
 
     **<u>Note:</u>** The handout only provides information on the first 5 rows of the Wikipedia table. A full
     version of the file (including all video games in the table) is located on the server with the title
     bestgames.csv.
     
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.18_Video Games - CSV.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.18_Video Games - CSV.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.18_Video Games - CSV.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.18_Video Games - CSV.pdf)</div>
 
 10. Inform students that a file with the CSV format is easily readable by R. Then ask:
 
@@ -99,10 +99,10 @@ is yet another way to represent the same video game data.
     point. The objective is for them to struggle with how they would obtain data and
     recognize that it is not always as simple as “export, upload, import.”***</span>
 
-11. Split the class into their student teams and distribute the *Online Data-ing* handout ([LMR_3.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.19_Online Data-ing.pdf)).
+11. Split the class into their student teams and distribute the *Online Data-ing* handout ([LMR_3.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf)).
 Assign each team a different website (each page of the handout lists a different site) and have
 them use this site to complete the questions in the handout.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.19_Online Data-ing.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.19_Online Data-ing.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf)</div>
 
 12. Have each student team share their findings with one other team. They should have their website
 displayed while discussing their results.

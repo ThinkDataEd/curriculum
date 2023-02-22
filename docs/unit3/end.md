@@ -6,7 +6,7 @@ Students will apply what they have learned in the unit.
 ###**Materials:**
 1. Computers
 
-2. *IDS Unit 3 – Project and Oral Presentation* ([LMR_U3_End of Unit Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_U3_End of Unit Project.pdf))
+2. *IDS Unit 3 – Project and Oral Presentation* ([LMR_U3_End of Unit Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End of Unit Project.pdf))
 
 <center>**IDS Unit 3 – End of Unit Project**</center>
     

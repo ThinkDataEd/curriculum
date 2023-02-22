@@ -5,7 +5,7 @@ Students will understand the need for data to be stored in different ways - spec
 sense for web data to be formatted as XML.
 
 ###**Materials:**
-1. *Online Data-ing* handout ([LMR_3.19_Online Data-ing](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.19_Online Data-ing.pdf))
+1. *Online Data-ing* handout ([LMR_3.19_Online Data-ing](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf))
 
     **<u>Note:</u>** This should have been completed during the previous class.
 
@@ -16,7 +16,7 @@ sense for web data to be formatted as XML.
 
 3. Projector
 
-4. *Mountains – HTML vs. XML* handout ([LMR_3.20_Mountains - HTML vs. XML](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.20_Mountains - HTML vs. XML.pdf))
+4. *Mountains – HTML vs. XML* handout ([LMR_3.20_Mountains - HTML vs. XML](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.20_Mountains - HTML vs. XML.pdf))
 
 ###**Vocabulary:**
 XML
@@ -29,7 +29,7 @@ XML
 
 ###**Lesson:**
 1. Allow time for student teams to present their findings from the *Online Data-ing* handout
-([LMR_3.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.19_Online Data-ing.pdf)) if there was not sufficient time during the previous lesson.
+([LMR_3.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf)) if there was not sufficient time during the previous lesson.
 
 2. Remind students that in the previous lesson they learned about a variety of ways that data can be
 presented online.
@@ -63,12 +63,12 @@ way we see data in RStudio. Then, create a class brainstorm from the student pai
     the data they scraped during [Lab 3E](lab3e.md).
 
 7. Once students figure out that the XML is just the same data as the website they scraped during
-[Lab 3E](lab3e.md), distribute the *Mountains – HTML vs. XML* handout ([LMR_3.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.20_Mountains - HTML vs. XML.pdf)), which displays both
+[Lab 3E](lab3e.md), distribute the *Mountains – HTML vs. XML* handout ([LMR_3.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.20_Mountains - HTML vs. XML.pdf)), which displays both
 HTML and XML versions of the data.
 
     **<u>Note:</u>** The handout only includes the first 3 mountains.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.20_Mountains - HTML vs. XML.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.20_Mountains - HTML vs. XML.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.20_Mountains - HTML vs. XML.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.20_Mountains - HTML vs. XML.pdf)</div>
 
 8. Ask student pairs to answer the following:
 

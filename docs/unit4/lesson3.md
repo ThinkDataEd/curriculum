@@ -6,13 +6,13 @@ campaign using the campaign authoring tool, and implement a mock campaign to eva
 of the campaign.
 
 ###**Materials:**
-1. *Water Campaign* ([LMR_4.2_Water Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.2_Water Campaign.pdf)) from previous lesson
+1. *Water Campaign* ([LMR_4.2_Water Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)) from previous lesson
 
 2. Posters from previous lesson
 
 3. Markers
 
-4. *Campaign Authoring Instructions* handout ([LMR_4.3_Campaign Authoring](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.3_Campaign Authoring.pdf))
+4. *Campaign Authoring Instructions* handout ([LMR_4.3_Campaign Authoring](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Campaign Authoring.pdf))
 
 ###**Essential Concepts:**
 
@@ -45,7 +45,7 @@ question. For each question they should consider:
 4. If survey questions need to be rewritten, students will decide as a team on the changes.
 
 5. Once finalized, they will record the survey question/prompt that goes along with each data
-variable on their *Water Campaign* handout ([LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.2_Water Campaign.pdf)), being cognizant of question bias.
+variable on their *Water Campaign* handout ([LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)), being cognizant of question bias.
 
 6. <u>Round 5:</u> In teams, students will now generate three statistical questions that they might answer
 with the data they will collect and to guide their campaign. They need to make sure that their
@@ -80,10 +80,10 @@ reasonable and ethically sound. Each team will hold a discussion on the followin
 will now use the Campaign Authoring tool to create a campaign like the ones they see on their
 smart devices or the computer.
 
-10. Distribute the *Campaign Authoring Instructions* handout ([LMR_4.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.3_Campaign Authoring.pdf)). Each team will select a
+10. Distribute the *Campaign Authoring Instructions* handout ([LMR_4.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Campaign Authoring.pdf)). Each team will select a
 member to type the information required to create their campaign. Then, they will follow the
 instructions on the handout.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.3_Campaign Authoring.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.3_Campaign Authoring.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Campaign Authoring.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Campaign Authoring.pdf)</div>
 
 11. To name their campaign, a naming convention is suggested. Otherwise, you will have multiple
 campaigns with the same name. For example, teams may include their team name or number in
@@ -93,7 +93,7 @@ order to easily identify their campaigns.
 implement the campaign for a few days.
 
 13. They will collect data during the mock implementation of their campaign using the information
-they recorded on the *Water Campaign* handout ([LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.2_Water Campaign.pdf)) and record the answers to the
+they recorded on the *Water Campaign* handout ([LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)) and record the answers to the
 survey/prompts on paper. They will make observations about how well their campaign worked
 and what improvements or changes need to be made.
 

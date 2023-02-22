@@ -13,7 +13,7 @@ also about privacy issues and photo ethics when collecting and sharing data.
 3. Login information (username and password) for each student—**generated and ready for
 distribution prior to the lesson**
 
-4. *Food Habits Campaign* guidelines ([LMR_U1_Campaign_Food Habits](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Food Habits.pdf))
+4. *Food Habits Campaign* guidelines ([LMR_U1_Campaign_Food Habits](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Food Habits.pdf))
 
 ###**Vocabulary:**
 Participatory Sensing, campaign, surveys, images, GPS, ethics, photo ethics

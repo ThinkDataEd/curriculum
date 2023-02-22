@@ -8,7 +8,7 @@ be collected from the class experiment and make predictions about the outcome.
 1. Article: PsyBlog’s *10 Ways Our Minds Warp Time* found at:<br>
     [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php")
 
-2. Experiment Predictions handout ([LMR_3.1_Experiment Predictions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.1_Experiment Predictions.pdf))
+2. Experiment Predictions handout ([LMR_3.1_Experiment Predictions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf))
 
 ###**Vocabulary:**
 theory
@@ -73,7 +73,7 @@ believe that there will be differences.
 9. Then, ask those students who believe there are differences, how small or large they think the
 difference will be.
 
-10. Distribute the *Experiment Predictions* handout ([LMR_3.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.1_Experiment Predictions.pdf)) and, in pairs, have students discuss
+10. Distribute the *Experiment Predictions* handout ([LMR_3.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf)) and, in pairs, have students discuss
 and complete the answers for the handout.
 
     **<u>Note:</u>** What will the distribution of time perceptions look like? <span style="color:grey">***The distributions will likely have
@@ -81,7 +81,7 @@ and complete the answers for the handout.
     longer than 60 seconds. Appropriate plots to use will include histograms, dotplots or
     boxplots.***</span>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.1_Experiment Predictions.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.1_Experiment Predictions.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf)</div>
 
 11. Using *Anonymous Author*, select student work to share with the whole class.
 

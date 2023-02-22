@@ -6,9 +6,9 @@ Students will engage in exploratory data analysis with a Los Angeles Department 
 patterns of water use in their neighborhoods.
 
 ###**Materials:**
-1. *Exploring the DWP Data* ([LMR_4.1_Exploring DWP Data](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.1_Exploring DWP Data.pdf))
+1. *Exploring the DWP Data* ([LMR_4.1_Exploring DWP Data](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Exploring DWP Data.pdf))
 
-2. *Water Campaign* ([LMR_4.2_Water Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.2_Water Campaign.pdf))
+2. *Water Campaign* ([LMR_4.2_Water Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf))
 
 3. Poster paper
 
@@ -29,9 +29,9 @@ mean.
 
 2. Next, ask student teams to refer back to the statistical questions they generated in the previous lesson - they will need it for the data exploration.
 
-3. Distribute the *Exploring the DWP Data* handout ([LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.1_Exploring DWP Data.pdf)). In their teams, allow students about
+3. Distribute the *Exploring the DWP Data* handout ([LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Exploring DWP Data.pdf)). In their teams, allow students about
 20-30 minutes to explore the DWP data set and complete the handout.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.1_Exploring DWP Data.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.1_Exploring DWP Data.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Exploring DWP Data.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Exploring DWP Data.pdf)</div>
 
 4. After students have had time to explore the DWP data, conduct a whole class discussion based
 on the following (answers will vary based on student teams’ data exploration):
@@ -62,10 +62,10 @@ this campaign is:
 7. Quickly review their class campaign from Unit 3; placing emphasis on the trigger and at how the
 data they decided to collect answers the research question.
 
-8. Distribute the *Water Campaign* handout ([LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.2_Water Campaign.pdf)). Ask students to notice that Rounds 1 and 2
+8. Distribute the *Water Campaign* handout ([LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)). Ask students to notice that Rounds 1 and 2
 are completed. Their task is to design the rest of the campaign by completing the remaining
 rounds.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.2_Water Campaign.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.2_Water Campaign.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)</div>
 
 9. <u>Round 3:</u> Allow student teams a reasonable amount of time to engage in a *Brainstorm*, in which
 they will discuss what kind of data needs to be collected in order to answer this research question

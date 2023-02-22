@@ -5,13 +5,13 @@ Students will estimate the line of best fit for a height and arm span data set u
 a modeling tool.
 
 ###**Materials:**
-1. *The Spaghetti Line* ([LMR_4.9_The Spaghetti Line](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.9_The Spaghetti Line.pdf))
+1. *The Spaghetti Line* ([LMR_4.9_The Spaghetti Line](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_The Spaghetti Line.pdf))
 
     **<u>Note:</u>** Advance preparation is required. Cut out plots prior to beginning the lesson.
 
-2. *What’s the Trend?* ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf)) from [lesson 8](lesson8.md)
+2. *What’s the Trend?* ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)) from [lesson 8](lesson8.md)
 
-3. *Arm Span vs. Height Scatterplot* ([LMR_4.6_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf)) from [Lesson 7](lesson7.md)
+3. *Arm Span vs. Height Scatterplot* ([LMR_4.6_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf)) from [Lesson 7](lesson7.md)
 
 4. 1 lb. of Uncooked Spaghetti
 
@@ -32,16 +32,16 @@ line of best fit, regression line
 
 ###**Lesson:**
 1. If necessary, begin by sharing out the descriptions for the plots in the *Strength of Association*
-([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.8_Strength of Association.pdf)) handout from the previous lesson.
+([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf)) handout from the previous lesson.
 
 2. Inform students that in this lesson, they will estimate the equation of the **line of best fit** for a height and arm span data set.
 
-3. Refer students back to the plots in the *What’s the Trend?* handout ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf)).
+3. Refer students back to the plots in the *What’s the Trend?* handout ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)).
 The line in each of the plots is known as the **line of best fit**, or the **regression line**. This is a trend line that best represents or models the data in each scatterplot. Ask students:
 
     100. Why do you think this line is called “best fit”? <span style="color:grey"> ***Some possible answers are that it is a line that is closest to all data points or that it “fits” evenly among the data points. This is a good time to refer back to the discussion about height versus arm span in [lesson 7](lesson7.md). *** </span>
 
-4. Distribute *The Spaghetti Line* ([LMR_4.9_The Spaghetti Line](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.9_The Spaghetti Line.pdf)) to each student and a couple of
+4. Distribute *The Spaghetti Line* ([LMR_4.9_The Spaghetti Line](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_The Spaghetti Line.pdf)) to each student and a couple of
 spaghetti strands per team. Students will estimate the line of best fit as outlined in the handout.
 Team solutions should be recorded on poster paper. They will glue their assigned plot on the
 poster and record their responses to the questions on the poster paper.
@@ -49,7 +49,7 @@ poster and record their responses to the questions on the poster paper.
     **<u>Note to teacher:</u>** If necessary, review how to find the slope of a line using two points and how to
     write an equation using the slope and y-intercept.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.9_The Spaghetti Line.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.9_The Spaghetti Line](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.9_The Spaghetti Line.pdf)</div>    
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_The Spaghetti Line.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.9_The Spaghetti Line](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_The Spaghetti Line.pdf)</div>    
 
 5. Ask teams to post their work around the room. Conduct a *Gallery Walk* so that teams can see
 each other’s work.
@@ -81,7 +81,7 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Students will use a straight edge to draw a line of best fit for the scatter plot in the *Arm Span vs. Height*
-handout ([LMR_4.6_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf)) from [lesson 7](lesson7.md). They will use their knowledge of slope and y-intercept
+handout ([LMR_4.6_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf)) from [lesson 7](lesson7.md). They will use their knowledge of slope and y-intercept
 to determine the equation for the line of best fit that they drew.
 
 [<u>***LAB 4C: Cross-Validation***</u>](lab4c.md)

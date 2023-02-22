@@ -7,9 +7,9 @@ analyze and interpret the data. Students will present their findings to their te
 
 ###**Materials:**
 
-1. *Teen Depression Practicum* ([LMR_U1_Practicum_Depression](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Depression.pdf))
+1. *Teen Depression Practicum* ([LMR_U1_Practicum_Depression](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Depression.pdf))
 
-2. *Depression Fact Sheet* ([LMR_U1_Practicum_Depression_Fact Sheet](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Depression_Fact Sheet.pdf))
+2. *Depression Fact Sheet* ([LMR_U1_Practicum_Depression_Fact Sheet](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Depression_Fact Sheet.pdf))
 
 3. Poster paper
 

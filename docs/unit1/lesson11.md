@@ -5,7 +5,7 @@ Students will learn to classify distributions in terms of shape, and can suggest
 distribution might be one shape or another.
 
 ###**Materials:**
-1. *Sorting Histograms* handout ([LMR_1.10_Sorting Histograms](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)) - one copy per group of 4 students.
+1. *Sorting Histograms* handout ([LMR_1.10_Sorting Histograms](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)) - one copy per group of 4 students.
 (This activity comes from the AIMS project, University of Minnesota, J. Garfield.)<br>
     **Advanced preparation required** (see step 1 below)
 
@@ -20,14 +20,14 @@ symmetric, left-skewed, right-skewed, unimodal, bimodal
 
 ###**Lesson:**
 
-1. Distribute the cutouts from the *Sorting Histograms* handout ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)). Give each student team
+1. Distribute the cutouts from the *Sorting Histograms* handout ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)). Give each student team
 all of the 24 histograms (can be paper-clipped together or put in small zippered bags).
 
-    **<u>Advanced preparation required:</u>** Print the *Sorting Histogram*s file ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)). Cut each
+    **<u>Advanced preparation required:</u>** Print the *Sorting Histogram*s file ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)). Cut each
     histogram so that it is on its own piece of paper. Create enough sets for each team to have all 24
     histograms. They can be paper clipped together, or put in small zippered bags.
     
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)</div>
 
 2. Inform students that the type of data being measured is indicated on the horizontal axis, and the
 vertical axis represents how many observations are in each bar.

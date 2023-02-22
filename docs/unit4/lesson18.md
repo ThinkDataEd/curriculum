@@ -4,11 +4,11 @@
 Students will learn what decision trees look like and how they can be used to classify people or objects into groups. They will engage in an activity to see how making slight changes to the tree can lead to drastic rises or reductions in misclassifications.
 
 ###**Materials:**
-1. *CART Activity Player Stats* ([LMR_4.19_CART Player Stats](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.19_CART Player Stats.pdf))
+1. *CART Activity Player Stats* ([LMR_4.19_CART Player Stats](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Player Stats.pdf))
 
-2. *CART Activity Round 1 Questions* ([LMR_4.20_CART Round 1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.20_CART Round 1.pdf))
+2. *CART Activity Round 1 Questions* ([LMR_4.20_CART Round 1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Round 1.pdf))
 
-3. *CART Activity Round 2 Questions* ([LMR_4.21_CART Round 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.21_CART Round 2.pdf))
+3. *CART Activity Round 2 Questions* ([LMR_4.21_CART Round 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 2.pdf))
 
     **Advanced preparation required** (see Step 8 below)
 
@@ -40,13 +40,13 @@ classify, decision tree, Classification and Regression Trees (CART), nodes, misc
 
     **<u>Note:</u>** Advanced preparation required. The cards in each of the LMRs listed above (and displayed below) need to be cut out prior to class time.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.19_CART Player Stats.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.19_CART Player Stats.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Player Stats.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Player Stats.pdf)</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.20_CART Round 1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.20_CART Round 1.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Round 1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Round 1.pdf)</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.21_CART Round 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.21_CART Round 2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 2.pdf)</div>
 
-9. Ask for 15 volunteers and hand each of them a data card from the *CART Activity Player Stats* handout ([LMR_4.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.19_CART Player Stats.pdf)). These students will be known as the “players.” Each card lists the following variables for 15 different professional athletes:
+9. Ask for 15 volunteers and hand each of them a data card from the *CART Activity Player Stats* handout ([LMR_4.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Player Stats.pdf)). These students will be known as the “players.” Each card lists the following variables for 15 different professional athletes:
 
     a. team location
 
@@ -64,7 +64,7 @@ classify, decision tree, Classification and Regression Trees (CART), nodes, misc
 
 11. Now, ask for 7 additional volunteers to be the ***nodes***, or *leaves*, on the decision tree. Each student will be known as a “leaf.”
 
-12. Distribute one question/classification from the *CART Activity Round 1 Questions* ([LMR_4.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.20_CART Round 1.pdf)) to each “leaf.”
+12. Distribute one question/classification from the *CART Activity Round 1 Questions* ([LMR_4.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Round 1.pdf)) to each “leaf.”
 
 13. Arrange the 7 “leaves” in the room as depicted by the graphic below:
 <img src="../../img/41813.png" />
@@ -84,7 +84,7 @@ classify, decision tree, Classification and Regression Trees (CART), nodes, misc
 
 18. Ask students to calculate the misclassification rate (MCR) which is the proportion of observations who were predicted to be in one category but were actually in another. If all the activity player stats cards were used, the misclassification rate would be 5/15.
 
-19. After proceeding through “Round 1,” ask an additional 5 students to come up as more “leaves,” distribute the cards from the CART Activity Round 2 Questions file ([LMR_4.21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.21_CART Round 2.pdf)), and arrange the students like the diagram below:
+19. After proceeding through “Round 1,” ask an additional 5 students to come up as more “leaves,” distribute the cards from the CART Activity Round 2 Questions file ([LMR_4.21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 2.pdf)), and arrange the students like the diagram below:
 <img src="../../img/41819.png" />
 
 20. Have each “player” go through this new set of “leaves” until they are re-classified by these new rules.

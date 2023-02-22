@@ -5,7 +5,7 @@ Students will learn about informal confidence intervals for making estimates abo
 based on statistics from random samples.
 
 ###**Materials:**
-1. *The Confidence Game* handout ([LMR_3.13_Confidence Game](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.13_Confidence Game.pdf))
+1. *The Confidence Game* handout ([LMR_3.13_Confidence Game](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf))
 
 2. Dotplot titled “Number Correct” displayed on the board (or on poster paper)
 
@@ -57,7 +57,7 @@ question:
     1,454 feet tall. Take a poll to see how many students’ intervals contained this value. We
     will learn what it means to have the true value in our intervals after we play the game.
 
-6. Now, we can actually play the game! Distribute *The Confidence Game* handout ([LMR_3.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.13_Confidence Game.pdf)) and
+6. Now, we can actually play the game! Distribute *The Confidence Game* handout ([LMR_3.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf)) and
 explain the rules. Students will have about 5 minutes to complete the handout, which gives them
 approximately 30 seconds per question.
 
@@ -76,9 +76,9 @@ approximately 30 seconds per question.
     100. The winner is determined by who got the most questions correct. In the case of a tie, the
     winner is chosen by whose intervals were narrower.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.13_Confidence Game.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.13_Confidence Game.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf)</div>
 
-7. Once each student has completed *The Confidence Game* handout ([LMR_3.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.13_Confidence Game.pdf)), have students
+7. Once each student has completed *The Confidence Game* handout ([LMR_3.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf)), have students
 choose partners and exchange handouts so that they can grade each other. Remind them that a
 question is marked as “correct” if the actual value (see answers in Step 8) falls within the interval.
 

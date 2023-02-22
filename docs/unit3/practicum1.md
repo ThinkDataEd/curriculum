@@ -4,7 +4,7 @@
 Students will design a simple experiment.
 
 ###**Materials:**
-1. Practicum: *Music to my ears* ([LMR_U3_Practicum_Music to My Ears](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_U3_Practicum_Music to My Ears.pdf))
+1. Practicum: *Music to my ears* ([LMR_U3_Practicum_Music to My Ears](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Music to My Ears.pdf))
 
 **<u>Note to Teacher:</u>** Before assigning the practicum to your students, engage the class in a discussion
 about experiments. Use the following questions as a guide to assess student understanding.

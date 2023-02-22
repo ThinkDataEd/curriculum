@@ -6,7 +6,7 @@ scenarios based on which method would be most appropriate. They will also learn 
 ethics, cost limitations, and feasibility when deciding between the two data collection methods.
 
 ###**Materials:**
-1. *What Should We Do?* handout ([LMR_3.3_ObsStudies vs Experiments](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.3_ObsStudies vs Experiments.pdf))
+1. *What Should We Do?* handout ([LMR_3.3_ObsStudies vs Experiments](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.3_ObsStudies vs Experiments.pdf))
 
 ###**Vocabulary:**
 ethics, cost limitations, feasibility
@@ -57,7 +57,7 @@ we cannot always to experiments:
     because it is impossible to randomly assign people to particular groups. For example,
     you cannot assign a gender to a person.
 
-5. Distribute *What Should We Do?* handout ([LMR_3.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.3_ObsStudies vs Experiments.pdf)). In teams, students will identify whether the
+5. Distribute *What Should We Do?* handout ([LMR_3.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.3_ObsStudies vs Experiments.pdf)). In teams, students will identify whether the
 research question could best be answered via an experiment or an observational study.
 
 6. Once all student teams have completed the handout, assign one research question to each team
@@ -68,7 +68,7 @@ understands the reasons each method was chosen before moving on to the next scen
     **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference 
     only!
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.3_ObsStudies vs Experiments.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.3_ObsStudies vs Experiments.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.3_ObsStudies vs Experiments.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.3_ObsStudies vs Experiments.pdf)</div>
 
 7. Next, student teams will generate three research questions on their own. They need to identify
 the best data collection method for answering their question and should provide an explanation.

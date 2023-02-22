@@ -15,7 +15,7 @@ Students will understand what are data, how they are collected, and possible eff
 2. Data Science (DS) journal (quad-ruled composition book or similar); MUST be available for every
 lesson
 
-3. *Data Diary* handout ([LMR_1.1_Data Diary](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf))
+3. *Data Diary* handout ([LMR_1.1_Data Diary](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf))
 
 4. Video: *Terms and Conditions* found at:<br>
     [https://www.youtube.com/watch?v=ZcjtEKNP05c](https://www.youtube.com/watch?v=ZcjtEKNP05c "https://www.youtube.com/watch?v=ZcjtEKNP05c")
@@ -78,10 +78,10 @@ collected about us as individuals that could be used to see the patterns in our 
 Inform the students that they will learn about their own data trails by keeping a data diary and
 logging entries over the next 24 hours. It is likely that students do not realize how often they leave a data trail or what information is being collected about them on a regular basis.
 
-5. Distribute the *Data Diary* handout ([LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf)) and be sure to go over the instructions, along with
+5. Distribute the *Data Diary* handout ([LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf)) and be sure to go over the instructions, along with
 the first example to give the students an idea of how to proceed.  
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf)</div>  
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf)</div>  
 
 
 6. Inform the students that you will collect the handouts during the next class in order to assess their

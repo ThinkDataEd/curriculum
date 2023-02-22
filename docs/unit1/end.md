@@ -4,7 +4,7 @@
 Students will apply their learning of the first unit in the curriculum by completing an End of Unit Project.
 
 ###**Materials:**
-1. *IDS Unit 1—End of Unit Project* ([LMR_U1_End of Unit Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_End of Unit Project.pdf))
+1. *IDS Unit 1—End of Unit Project* ([LMR_U1_End of Unit Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_End of Unit Project.pdf))
 
 <center>**End of Unit 1 Project and Oral Presentation: Analyzing Data to Evaluate Claims**</center>
 

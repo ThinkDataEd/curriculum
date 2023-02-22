@@ -9,11 +9,11 @@ context of the data.
 
 2. Markers
 
-3. *Analyzing Categorical Variables* ([LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf))
+3. *Analyzing Categorical Variables* ([LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf))
 
     **Advanced preparation required** (see step 19 below)
 
-4. *Interpreting Categorical Variables* ([LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf))
+4. *Interpreting Categorical Variables* ([LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf))
 
 ###**Vocabulary:**
 marginal frequency, joint frequency, conditional relative frequency
@@ -136,32 +136,32 @@ prefer to play an instrument (display table below).
     frequencies by column if we were interested in knowing the difference in cat preference for those
     who play instruments versus those who don’t.
 
-19. Distribute one full set of cards from the *Analyzing Categorical Variables* file ([LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)) to each
+19. Distribute one full set of cards from the *Analyzing Categorical Variables* file ([LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)) to each
 student team.
 
     **<u>Advanced preparation required:</u>**
 
-    Print the *Analyzing Categorical Variables* file ([LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)). The handouts can then be cut into a
+    Print the *Analyzing Categorical Variables* file ([LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)). The handouts can then be cut into a
     total of 20 cards (12 visuals, 8 numerical summaries). You will need enough sets of the cards for
     each student team to share one full set. For example, if there are 5 student teams in a class, then
     5 copies of the file will need to be printed so that each team gets all 20 cards.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)</div>
 
-20. Distribute [LMR_1.19_*Interpreting Categorical Variables*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf) to each student team.
+20. Distribute [LMR_1.19_*Interpreting Categorical Variables*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf) to each student team.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf)</div>
 
 21. Each student team will work together and decide which visualization(s) and numerical summaries
 can be used to answer each statistical question. They will then answer each statistical question,
 citing a numerical summary as evidence.
 
-    **<u>Note:</u>** Student teams may tapeu or glue visuals and numerical summaries onto [LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf), or they
+    **<u>Note:</u>** Student teams may tapeu or glue visuals and numerical summaries onto [LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf), or they
     can simply write the plot letter and table number in the appropriate box. The blank column is for
     student teams to write a statistical question than can be answered with a visual and a numerical
     summary that was not used.
 
-22. After student teams have been allotted ample time to complete [LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf), lead a class
+22. After student teams have been allotted ample time to complete [LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf), lead a class
 discussion to go over the answers. It is extremely important to have students justify their answers
 by referring to their visuals and tables. For example, the statistical question “How many students
 neither own a cat or play an instrument?” can be answered with Plot E, Plot G, Plot K, Plot I, and

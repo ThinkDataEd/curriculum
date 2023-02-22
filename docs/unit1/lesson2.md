@@ -4,7 +4,7 @@
 Students will learn how to observe, record, and organize data.
 
 ###**Materials:**
-1. *Stick Figures* cutouts ([LMR_1.2_Stick Figures](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf))
+1. *Stick Figures* cutouts ([LMR_1.2_Stick Figures](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf))
 
     **Advanced preparation required** (see step 3 below)
 
@@ -40,15 +40,15 @@ of people who appear to be completely two-dimensional. Their goal is to **record
 information as possible about these people, and to then **organize** the information in any way they
 choose.
 
-3. Distribute one full set of 8 cards from the *Stick Figures* file ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)) to each student team.
+3. Distribute one full set of 8 cards from the *Stick Figures* file ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)) to each student team.
 
     **<u>Advanced preparation required:</u>**
 
-    Print the *Stick Figures* file ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)). The handout can then be cut into the 8 cards. You will
+    Print the *Stick Figures* file ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)). The handout can then be cut into the 8 cards. You will
     need enough sets of the cards for each student team to share one full set. For example, if there
     are 5 student teams in a class, then 5 copies of the file will need to be printed so that each team
     gets all 8 cards.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)</div>
 
 
 4. Every student from the team will select one of the cards from the team’s pile of 8, and should

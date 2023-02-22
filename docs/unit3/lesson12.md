@@ -6,7 +6,7 @@ of sampling methods could result in a biased sample, who might be over/under-rep
 and how to select a better sample.
 
 ###**Materials:**
-1. *Identifying Biased Samples* handout ([LMR_3.11_Identifying Biased Samples](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11_Identifying Biased Samples.pdf))
+1. *Identifying Biased Samples* handout ([LMR_3.11_Identifying Biased Samples](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.11_Identifying Biased Samples.pdf))
 
 2. Poster paper
 
@@ -71,7 +71,7 @@ with the following layout:
     |------------------------|-------------------------|---------------------------------------------------------------------|
     | <span style="color:grey">***All 3<sup>rd</sup> grade students***</span> | <span style="color:grey">***3<sup>rd</sup> grade students***</span> | <span style="color:grey">***All other students (kindergartners, 1<sup>st</sup>, 2<sup>nd</sup>, 4<sup>th</sup>, and 5<sup>th</sup> graders)***</span> |
 
-7. Distribute the *Identifying Biased Samples* handout ([LMR_3.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11_Identifying Biased Samples.pdf)). In this activity, students will
+7. Distribute the *Identifying Biased Samples* handout ([LMR_3.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.11_Identifying Biased Samples.pdf)). In this activity, students will
 explain why a particular sampling method might result in a biased sample – a sample that is not
 representative of the population of interest.
 
@@ -81,9 +81,9 @@ representative of the population of interest.
     **<u>Note:</u>** Page 2 of the handout provides sample answers for teacher reference ONLY. Do NOT
     distribute page 2 to students.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11Q_Identifying Biased Samples.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.11Q](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11Q_Identifying Biased Samples.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.11Q_Identifying Biased Samples.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.11Q](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.11Q_Identifying Biased Samples.pdf)</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11_Identifying Biased Samples.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.11_Identifying Biased Samples.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.11_Identifying Biased Samples.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.11_Identifying Biased Samples.pdf)</div>
 
 8. Each student should complete the handout independently. Afterwards, conduct a whole-class
 discussion to compare and contrast different students’ explanations of how the samples might be
@@ -112,5 +112,5 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students will complete the *Survey Sampling* handout ([LMR_3.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.12_Survey Sampling.pdf)) for homework.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.12_Survey Sampling.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.12_Survey Sampling.pdf)</div>
+Students will complete the *Survey Sampling* handout ([LMR_3.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.12_Survey Sampling.pdf)) for homework.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.12_Survey Sampling.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.12_Survey Sampling.pdf)</div>

@@ -4,9 +4,9 @@
 Students will learn how to make predictions based on linear models.
 
 ###**Materials:**
-1. *What’s the Trend?* handout ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf)) from [lesson 8](lesson8.md)
+1. *What’s the Trend?* handout ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)) from [lesson 8](lesson8.md)
 
-2. *Predicting Values* handout ([LMR_4.10_Predicting Values](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.10_Predicting Values.pdf))
+2. *Predicting Values* handout ([LMR_4.10_Predicting Values](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.10_Predicting Values.pdf))
 
 ###**Vocabulary:**
 observed value, predicted value
@@ -46,10 +46,10 @@ variable, in this case, arm span.
 6. Remind students that lines of best fit are also known as regression lines and they are models that
 can be used to make predictions. Today, they will explore more about this line.
 
-7. Ask student teams to refer back to *What’s the Trend?* Handout ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf)). They should discuss
-the following questions and record their responses on the *Predicting Values* handout ([LMR_4.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.10_Predicting Values.pdf)):
+7. Ask student teams to refer back to *What’s the Trend?* Handout ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)). They should discuss
+the following questions and record their responses on the *Predicting Values* handout ([LMR_4.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.10_Predicting Values.pdf)):
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.10_Predicting Values.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.10_Predicting Values.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.10_Predicting Values.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.10_Predicting Values.pdf)</div>
 
     100. What do you notice about where the points are and where the line is? <span style="color:grey">***Some points are
     near the line, others are further away, and one point is exactly on the line. Data
@@ -95,7 +95,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students will answer the following questions about the *Scores Over Time* plot ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf)):
+Students will answer the following questions about the *Scores Over Time* plot ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)):
 
 • What do you notice about where the points are and where the line is?
 

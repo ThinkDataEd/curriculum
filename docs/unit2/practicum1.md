@@ -5,7 +5,7 @@ Students will engage in their first statistical investigation using the Data Cyc
 question based on a data set from a Participatory Sensing campaign, analyze, and interpret the data.
 
 ###**Materials:**
-1. The Summaries Practicum ([LMR_U2_Practicum_The Summaries](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The Summaries.pdf))
+1. The Summaries Practicum ([LMR_U2_Practicum_The Summaries](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The Summaries.pdf))
 
 **<u>Note to Teacher</u>**: Before assigning the practicum to your students, engage the class in a discussion
 about the sample statistical investigative questions below. Guide the discussion so that students identify not only the

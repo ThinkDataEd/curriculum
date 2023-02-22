@@ -13,7 +13,7 @@ types of questions are used in a survey, and how a survey is conducted.
     Video: *Family Feud* video clip titled “Family Feud – Comeback of the Century” found at:<br>
     [https://www.youtube.com/watch?v=ofQkOfeg60g](https://www.youtube.com/watch?v=ofQkOfeg60g "https://www.youtube.com/watch?v=ofQkOfeg60g") (bad quality, but happy ending)
 
-2. *Designing a Survey* handout ([LMR_3.4_Designing a Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.4_Designing a Survey.pdf))
+2. *Designing a Survey* handout ([LMR_3.4_Designing a Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf))
 
 ###**Vocabulary:**
 survey, self-reported, open-ended questions, closed-ended questions
@@ -100,10 +100,10 @@ scenario as a class to try to answer the following research question:
 
     **What are ‘families’ in the United States?**
 
-12. Distribute the Designing a Survey handout ([LMR_3.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.4_Designing a Survey.pdf)) and let students fill in the boxes for
+12. Distribute the Designing a Survey handout ([LMR_3.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf)) and let students fill in the boxes for
 “Research Topic” <span style="color:grey">***(Families)***</span> and “Research Question” <span style="color:grey">***(What are ‘families’ in the United
 States?)***</span>.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.4_Designing a Survey.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.4_Designing a Survey.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf)</div>
 
 13. Inform students that the left side of the handout will be completed as a class, and then student
 teams will work together to complete the right side.

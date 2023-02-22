@@ -7,7 +7,7 @@ students at a high school.
 ###**Materials:**
 1. Each team’s rule for determining a winner (from previous lesson)
 
-2. *Prediction Games* handout ([LMR_4.5_Prediction Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.5_Prediction Games.pdf))
+2. *Prediction Games* handout ([LMR_4.5_Prediction Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Prediction Games.pdf))
 
 ###**Vocabulary:**
 mean squared deviation, mean absolute error
@@ -41,8 +41,8 @@ the actual outcome (as in MAD) and is sometimes called a “residual.”
     values is "closest" to the data. One issue that comes up is dealing with positive and negative
     differences.
 
-5. Distribute the *Prediction Games* handout ([LMR_4.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.5_Prediction Games.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.5_Prediction Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.5_Prediction Games.pdf)</div>
+5. Distribute the *Prediction Games* handout ([LMR_4.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Prediction Games.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Prediction Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Prediction Games.pdf)</div>
 
 6. Explain the rules of the game as follows:
 

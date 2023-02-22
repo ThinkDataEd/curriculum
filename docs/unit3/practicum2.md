@@ -4,7 +4,7 @@
 Students will design a non-biased survey.
 
 ###**Materials:**
-1. Practicum: *Let’s Build a Survey!* ([LMR_U3_Practicum_Build a Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_U3_Practicum_Build a Survey.pdf))
+1. Practicum: *Let’s Build a Survey!* ([LMR_U3_Practicum_Build a Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Build a Survey.pdf))
 
 <center>**Practicum**</center>
 

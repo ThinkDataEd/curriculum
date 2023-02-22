@@ -5,11 +5,11 @@ Students will understand that the regression line is a model for a linear associ
 to identify the direction and strength of trends.
 
 ###**Materials:**
-1. *What’s the Trend?* handout ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf))
+1. *What’s the Trend?* handout ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf))
 
     **<u>Note:</u>** This handout will be referenced and used in subsequent lessons.
 
-2. *Strength of Association* handout ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.8_Strength of Association.pdf))
+2. *Strength of Association* handout ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf))
 
 ###**Vocabulary:**
 trend, positive association, negative association, no association, shape, linear, model, strength of
@@ -23,12 +23,12 @@ association
     be made smaller.
 
 ###**Lesson:**
-1. Distribute *What’s the Trend?* ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf)). Students will analyze the two scatterplots on the
+1. Distribute *What’s the Trend?* ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)). Students will analyze the two scatterplots on the
 handout. The *Profits per Explosion* plot shows the relationship between the number of explosions
 in Michael Bay’s movies and the profit earned by each movie. The *Scores Over Time* plot shows
 the relationship between M. Night Shyamalan movies made since *The Sixth Sense* was released
 in 1999 and their Internet Movie Database (IMBD) scores.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.7_What’s the Trend.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)</div>
 
 2. In teams, students will discuss and record their responses to the following questions for each plot:
 
@@ -82,17 +82,17 @@ both plots is **linear**. The line represents a *model* for the relationship bet
 equation shown in the plots above represents the line through the points. It provides a description
 of the data and the relationship between the variables.
 
-9. Distribute *Strength of Association* ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.8_Strength of Association.pdf)). In teams, students will
+9. Distribute *Strength of Association* ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf)). In teams, students will
 examine the scatterplots (b) through (e). Their task is to discuss the **strength of the association**
 for each plot. They will determine which plots they think show strong associations and which ones
 they believe show weak associations. They must explain how they made their decision. Reasons
 must reference the plots.
 
-10. As an example, demonstrate how to describe plot (a) in the [*Strength of Association*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.8_Strength of Association.pdf) handout.
+10. As an example, demonstrate how to describe plot (a) in the [*Strength of Association*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf) handout.
 <span style="color:grey">***Possible description: Plot (a) shows a negative association, or decreasing trend. The
 association appears to be fairly strong because the points are relatively close together,
 forming a moderate linear pattern.***</span>
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.8_Strength of Association.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.8_Strength of Association.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf)</div>
 
 11. Once all teams have completed the handout, assign one plot to each team for a share out. If two
 teams have the same plot, one team will share its explanation first and the second team can
@@ -108,4 +108,4 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Complete the *Strength of Association* handout ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.8_Strength of Association.pdf)).
+Complete the *Strength of Association* handout ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf)).

@@ -4,7 +4,7 @@
 Students will learn that the correlation coefficient is a value that measures the strength in linear
 associations only.
 ###**Materials:**
-1. *Correlation Coefficient* handout ([LMR_4.11_Correlation Coefficient](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.11_Correlation Coefficient.pdf))
+1. *Correlation Coefficient* handout ([LMR_4.11_Correlation Coefficient](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Correlation Coefficient.pdf))
 
     **<u>Note:</u>** Advance preparation required. This handout is the resource for the plot cutouts. DO NOT
     distribute as-is to students.
@@ -26,15 +26,15 @@ coefficient only applies to linear relationships, which must be checked visually
 Later we will learn how to calculate this number using RStudio.
 
     **<u>Note to teacher:</u>** Advance preparation is needed for this lesson. Each team needs one envelope
-    with cutouts of plots A-F in [LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.11_Correlation Coefficient.pdf) (Part A). Make envelopes according to the number of
-    teams in the class. This process will be repeated for [LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.11_Correlation Coefficient.pdf) (Part B).
+    with cutouts of plots A-F in [LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Correlation Coefficient.pdf) (Part A). Make envelopes according to the number of
+    teams in the class. This process will be repeated for [LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Correlation Coefficient.pdf) (Part B).
 
 2. Distribute the envelopes to the teams. Students will examine the strength of association in each
 plot. Their task is to assign the correlation coefficient that corresponds to each plot and to explain
 why they assigned that correlation coefficient to that particular plot. The only piece of information
 they will receive is that a correlation coefficient equal to 1 has the strongest linear association and
 a correlation coefficient equal to 0 has the weakest association.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.11_Correlation Coefficient.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.11_Correlation Coefficient.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Correlation Coefficient.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Correlation Coefficient.pdf)</div>
 
 3. Assign each team one plot. If there are more teams than plots, these teams will be assigned a
 plot in the next round. Each team will share the correlation coefficient they assigned to their plot
@@ -57,7 +57,7 @@ explanation. Repeat for each plot. The correlation coefficients for each plot ar
     • <span style="color:grey">***Plot F: r = 0.00***</span>
 
 5. The last set of plots showed positive associations. Now students will assign the correlation
-coefficients for plots G-L for [LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.11_Correlation Coefficient.pdf) (Part 2).
+coefficients for plots G-L for [LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Correlation Coefficient.pdf) (Part 2).
 
 6. Distribute the envelopes to the teams. Students will examine the strength of association in each
 plot. Their task is to assign the correlation coefficient that corresponds to each plot and to explain

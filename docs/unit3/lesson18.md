@@ -4,7 +4,7 @@
 Students will create statistical questions and evaluate their Participatory Sensing Campaign.
 
 ###**Materials:**
-1. *Campaign Creation* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf)) from [previous lesson](lesson17.md)
+1. *Campaign Creation* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf)) from [previous lesson](lesson17.md)
 2. Class Campaign Information from [Lesson 16](lesson16.md)
 
 ###**Essential Concepts:**
@@ -38,7 +38,7 @@ social and civic change. Ask teams to consider the following questions and repor
 4. Display the campaign information students generated (and selected as a class) the previous day
 or revised today: Topic, Research question, Trigger, and Type of Data needed.
 
-5. Now they will continue the rounds using the Campaign Creation handout [LMR 3.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.16_Campaign Creation.pdf) from the
+5. Now they will continue the rounds using the Campaign Creation handout [LMR 3.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf) from the
 previous lesson.
 
 6. <u>Round 4:</u> Now that the class has decided on a trigger and the type of data needed, they will

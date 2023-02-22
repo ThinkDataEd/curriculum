@@ -6,15 +6,15 @@ estimating a population parameter. They will gain practice collecting a random s
 population and estimating the population parameter.
 
 ###**Materials:**
-1. *Gettysburg Address* handout ([LMR_3.7_Gettysburg_Address](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.7_Gettysburg Address.pdf))
+1. *Gettysburg Address* handout ([LMR_3.7_Gettysburg_Address](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.7_Gettysburg Address.pdf))
 
-2. *Sampling the Gettysburg Address* handout ([LMR_3.8_Sampling the Gettysburg Address](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf))
+2. *Sampling the Gettysburg Address* handout ([LMR_3.8_Sampling the Gettysburg Address](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf))
 
 3. Dotplot titled “Mean Word Length, Self-Selected Sample, Size = 10” – on board or poster paper
 
-4. *Gettysburg Address – Word Length Histogram* file ([LMR_3.9_Gettysburg Histogram](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.9_Gettysburg Histogram.pdf))
+4. *Gettysburg Address – Word Length Histogram* file ([LMR_3.9_Gettysburg Histogram](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.9_Gettysburg Histogram.pdf))
 
-5. *Gettysburg Word Lengths* handout ([LMR_3.10_Gettysburg_Words](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.10_Gettysburg Words.pdf))
+5. *Gettysburg Word Lengths* handout ([LMR_3.10_Gettysburg_Words](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.10_Gettysburg Words.pdf))
 
 6. RStudio
 
@@ -46,8 +46,8 @@ sampling bias
     and Declaration of Independence.
 
 2. Read the Gettysburg Address aloud to the class OR have students read it aloud. The text of the
-speech can be found in the *Gettysburg Address* handout ([LMR_3.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.7_Gettysburg Address.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.7_Gettysburg Address.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.7_Gettysburg Address.pdf)</div>
+speech can be found in the *Gettysburg Address* handout ([LMR_3.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.7_Gettysburg Address.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.7_Gettysburg Address.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.7_Gettysburg Address.pdf)</div>
 
 3. Today we will use the Gettysburg Address to learn about different sampling techniques.
 
@@ -57,14 +57,14 @@ population, we can sample 10 words that we think represent the speech. It is ok 
 vague – students can come up with their own concept for what they think “representative” means
 in this case.
 
-5. Distribute the *Sampling the Gettysburg Address* handout ([LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf)), which includes the actual
+5. Distribute the *Sampling the Gettysburg Address* handout ([LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf)), which includes the actual
 speech, as well as 2 sampling activities. For this part of the lesson, we will only be looking at
 Sampling Activity 1 on page 1 of the handout.
 
     **<u>Note:</u>** This activity was originally created by Allan Rossman and Beth Chance, and has been
     modified for the IDS curriculum.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf)</div>
 
 6. Inform students that they will get 30 seconds to select 10 words that they think are representative
 of all words in the speech.
@@ -83,7 +83,7 @@ dotplot and calculate the mean word length of the sample.
 
 9. On the board, create a class dotplot (may also be done on poster paper) titled “Mean Word
 Length, Self-Selected Sample, Size = 10.” Once all students have completed the first page of the
-*Gettysburg Address* handout ([LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf)), ask each student to record the <U>mean word length of his
+*Gettysburg Address* handout ([LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf)), ask each student to record the <U>mean word length of his
 or her sample</u> on the class’s dotplot.
 
 10. When all students have recorded their sample statistics in the dotplot, conduct a class discussion
@@ -109,9 +109,9 @@ based on the questions listed below.
     arithmetic errors, but not always.***</span>
 
 11. Next, display the histogram from the *Gettysburg Address – Word Length Histogram* file
-([LMR_3.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.9_Gettysburg Histogram.pdf)), which shows the distribution of word lengths for the entire population of words in the
+([LMR_3.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.9_Gettysburg Histogram.pdf)), which shows the distribution of word lengths for the entire population of words in the
 Gettysburg Address.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.9_Gettysburg Histogram.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.9_Gettysburg Histogram.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.9_Gettysburg Histogram.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.9_Gettysburg Histogram.pdf)</div>
 
 12. Remind students that the population is the 272 words from the speech, and inform them that the
 mean word length of the population, or the population parameter, is 4.22. Using *Think-Pair-Share*,
@@ -138,7 +138,7 @@ biased.
     words, and do so quickly, our eyes are drawn by the larger, more unusual words,
     and we tend to overlook small words such as “in,” “a,” “we,” etc.***</span>
 
-15. Go back to the *Gettysburg Address* handout ([LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf)), and direct students to page 2 for
+15. Go back to the *Gettysburg Address* handout ([LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf)), and direct students to page 2 for
 Sampling Activity 2. Inform students that they will now do a sampling procedure that results in a
 better representation of the population of words in the speech.
 
@@ -151,8 +151,8 @@ possible 272 using RStudio.
 
 18. Each student should generate his or her own set of 10 random numbers. Once students have
 created their random numbers, distribute the *Gettysburg Address Word Lengths* handout
-([LMR_3.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.10_Gettysburg Words.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.10_Gettysburg Words.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.10_Gettysburg Words.pdf)</div>
+([LMR_3.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.10_Gettysburg Words.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.10_Gettysburg Words.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.10_Gettysburg Words.pdf)</div>
 
 19. Explain that the table contains the word number, word, and length of each word in the Gettysburg
 Address. Demonstrate how to find a word that corresponds to one of the random numbers
@@ -163,7 +163,7 @@ their random sample.
 
 21. On the board, near the first dotplot, create another class dotplot (may also be done on poster
 paper) titled “Mean Word Length, Random Sample, Size = 10.” Once all students have completed
-the second page of the *Gettysburg Address* handout ([LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_3.8_Sampling the Gettysburg Address.pdf)), ask each student to record <u>the
+the second page of the *Gettysburg Address* handout ([LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf)), ask each student to record <u>the
 mean word length of his or her random sample</u> on the class’s dotplot.
 
     **<u>Note:</u>** As in Step 9, be sure to check arithmetic for outliers!

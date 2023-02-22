@@ -6,7 +6,7 @@ campaign creation lesson. They will use RStudio to make graphical representation
 summaries of their data to answer their question.
 
 ###**Materials:**
-1. *Our Own Campaign* ([LMR_U3_Practicum_Our Own Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 3_v_5.0/LMR_U3_Practicum_Our Own Campaign .pdf))
+1. *Our Own Campaign* ([LMR_U3_Practicum_Our Own Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Our Own Campaign .pdf))
 
 <center>**Practicum**</center>
 

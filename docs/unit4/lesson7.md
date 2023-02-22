@@ -4,7 +4,7 @@
 Students will learn how to predict height using arm span data - and vice versa - visually on a scatterplot.
 
 ###**Materials:**
-1. *Arm span vs. Height Scatterplot* ([LMR_4.6_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf))
+1. *Arm span vs. Height Scatterplot* ([LMR_4.6_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf))
 
     **Note:** This handout will be referenced in subsequent lessons.
 
@@ -26,11 +26,11 @@ typical height of all the students at a large high school, implementing a method
 
 2. In addition to the height data, it turns out that each student’s arm span data was also collected and recorded.
 
-3. Display the *Arm Span vs. Height Scatterplot* ([LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf)) on a white board or overhead projector
+3. Display the *Arm Span vs. Height Scatterplot* ([LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf)) on a white board or overhead projector
 (you will write on the board or the transparency later in the lesson—see step 9).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf)</div>
 
-4. Distribute the *Arm Span vs. Height* handout ([LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_5.0/IDS_LMR_Unit 4_v_5.0/LMR_4.6_Arm Span vs Height.pdf)). Students will refer to this handout again later in a subsequent lesson.
+4. Distribute the *Arm Span vs. Height* handout ([LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf)). Students will refer to this handout again later in a subsequent lesson.
 
 5. In teams, ask students to analyze the plot and discuss the following questions:
 
