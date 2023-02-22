@@ -336,7 +336,13 @@ nav:
     
     - Vocabulary: 
         https://docs.google.com/spreadsheets/d/18KdHSk0z5Jz1LeuqU6ACKtR1qj_1OPnUdAGeK_b8_Qg/edit#gid=0
-    
+
+    - Vocabulary (new): 
+        - 'Unit 1 Vocabulary' : vocabulary/unit1.md
+        - 'Unit 2 Vocabulary' : vocabulary/unit2.md
+        - 'Unit 3 Vocabulary' : vocabulary/unit3.md
+        - 'Unit 4 Vocabulary' : vocabulary/unit4.md
+
     - PDF: 
         - 'IDS_Curriculum' : download/curriculum.md
         - 'IDS_LMRs' : download/lmrs.md
