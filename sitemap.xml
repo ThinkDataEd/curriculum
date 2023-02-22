@@ -830,4 +830,24 @@
          <lastmod>2023-02-22</lastmod>
          <changefreq>daily</changefreq>
     </url>
+    <url>
+         <loc>http://curriculum.idsucla.org/vocabulary/unit1/</loc>
+         <lastmod>2023-02-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://curriculum.idsucla.org/vocabulary/unit2/</loc>
+         <lastmod>2023-02-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://curriculum.idsucla.org/vocabulary/unit3/</loc>
+         <lastmod>2023-02-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://curriculum.idsucla.org/vocabulary/unit4/</loc>
+         <lastmod>2023-02-22</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
 </urlset>
