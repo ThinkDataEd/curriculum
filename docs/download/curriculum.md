@@ -1,5 +1,9 @@
 #IDS_Curriculum
 
+[Introduction to Data Science_Curriculum_v_6.0.pdf](../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/Introduction to Data Science_Curriculum_v_6.0.pdf)
+
+<div align="right"><iframe src="https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/Introduction%20to%20Data%20Science_Curriculum_v_6.0.pdf" style=" width:420px;height:400px;" frameborder="0"></iframe><br></div>
+
 [IDS_Intro+Unit1_v 6.0_FINAL.pdf](../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Intro+Unit1_v 6.0_FINAL.pdf)
 
 <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Intro%2BUnit1_v%206.0_FINAL.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br></div>
