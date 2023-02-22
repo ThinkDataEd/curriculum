@@ -25,7 +25,7 @@ lesson
     </iframe><br><a href="https://www.youtube.com/embed/ZcjtEKNP05c">https://www.youtube.com/embed/ZcjtEKNP05c</a></div>
 
 ###**Vocabulary:**
-data, observations, data trails, privacy
+[data](../../vocabulary/unit1/#data), [observations](../../vocabulary/unit1/#observations), [data trails](../../vocabulary/unit1/#data-trails), [privacy](../../vocabulary/unit1/#privacy)
 
 ###**Essential Concepts:**
 
