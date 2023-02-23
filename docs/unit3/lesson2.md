@@ -6,7 +6,6 @@ learn to distinguish claims of causation from claims of association.
 
 ###**Materials:**
 1. Video: MythBusters’ *Is Yawning Contagious?*   
-    [https://www.discovery.com/tv-shows/mythbusters/videos/is-yawning-contagious](https://www.discovery.com/tv-shows/mythbusters/videos/is-yawning-contagious "https://www.discovery.com/tv-shows/mythbusters/videos/is-yawning-contagious")
 	
     100. Part 1
 	
@@ -94,11 +93,9 @@ headline “Is Yawning Contagious?”
     come up with a way to determine if this is true. Each group should assume that
     they get to examine 50 people.***</span>
 
-4. Show the MythBusters video clip called Is Yawning Contagious? The clip can be found at:
-[https://www.discovery.com/tv-shows/mythbusters/videos/is-yawning-contagious](https://www.discovery.com/tv-shows/mythbusters/videos/is-yawning-contagious "https://www.discovery.com/tv-shows/mythbusters/videos/is-yawning-contagious")
+4. Show the MythBusters video clip called Is Yawning Contagious? The links to the clips can be found in the *Materials* above.
 
-5. Focus students on the following guiding questions and ask them to take notes as they watch the
-video clip:
+5. Focus students on the following guiding questions and ask them to take notes as they watch the video clip:
 
     100. How did the MythBusters design the investigation?
 
