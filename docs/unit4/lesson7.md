@@ -94,7 +94,7 @@ plausible height value for anyone with a particular arm span.
 
         #Base R Code
         #syntax to create a scatterplot using base R
-        plot(arm_span$height, arm_span$armspan)
+        plot(arm_span$armspan, arm_span$height)
 
         #Points function in base R is more user friendly
         points(60, 62.6667, col = "red", cex = 2)
