@@ -15,3 +15,7 @@
 4. Palmer's Penguins app 
 
     [https://idsucla.shinyapps.io/PalmerPenguin/](https://idsucla.shinyapps.io/PalmerPenguin/)
+
+5. Births Data Animation
+
+    [https://labs.idsucla.org/extras/animations/gotdata/gotdata.html](https://labs.idsucla.org/extras/animations/gotdata/gotdata.html)
