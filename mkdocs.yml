@@ -333,11 +333,9 @@ nav:
         # - Practicums:
         #     - 'Practicum: Predictions' : unit4/practicum1.md
         # - 'End of Unit 3 and 4 Design Project and Oral Presentation: Water Usage' : unit4/end.md
-    
-    - Vocabulary: 
-        https://docs.google.com/spreadsheets/d/18KdHSk0z5Jz1LeuqU6ACKtR1qj_1OPnUdAGeK_b8_Qg/edit#gid=0
 
-    - Vocabulary (new): 
+
+    - Vocabulary: 
         - 'Unit 1 Vocabulary' : vocabulary/unit1.md
         - 'Unit 2 Vocabulary' : vocabulary/unit2.md
         - 'Unit 3 Vocabulary' : vocabulary/unit3.md
