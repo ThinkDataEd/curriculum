@@ -11,3 +11,7 @@
 3. Albert's app 
 
     [https://idsucla.shinyapps.io/shinyapp_atus/](https://idsucla.shinyapps.io/shinyapp_atus/)
+
+4. Palmer's Penguins app 
+
+    [https://idsucla.shinyapps.io/PalmerPenguin/](https://idsucla.shinyapps.io/PalmerPenguin/)
