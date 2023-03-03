@@ -1,4 +1,4 @@
-##***<u>Lesson 1: Data Trails</u>***
+
 
 ###**Objective:**
 Students will understand what are data, how they are collected, and possible effects of sharing data.
