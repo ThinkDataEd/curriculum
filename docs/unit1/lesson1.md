@@ -25,7 +25,11 @@ lesson
     </iframe><br><a href="https://www.youtube.com/embed/ZcjtEKNP05c">https://www.youtube.com/embed/ZcjtEKNP05c</a></div>
 
 ###**Vocabulary:**
-[data](../../vocabulary/unit1/#data), [observations](../../vocabulary/unit1/#observations), [data trails](../../vocabulary/unit1/#data-trails), [privacy](../../vocabulary/unit1/#privacy)
+[data](../../vocabulary/unit1/#data "Data are information, or observations, that have been gathered and recorded"){ .md-button }
+[observations](../../vocabulary/unit1/#observations "Data that have been gathered and recorded"){ .md-button }
+[data trails](../../vocabulary/unit1/#data-trails "the data collected about us as individuals that could be used to see the patterns in our personal lives"){ .md-button }
+[privacy](../../vocabulary/unit1/#privacy "the right of individuals to have control over how their personal information is collected and used"){ .md-button }
+
 
 ###**Essential Concepts:**
 

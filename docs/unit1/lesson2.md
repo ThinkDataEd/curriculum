@@ -15,7 +15,11 @@ Students will learn how to observe, record, and organize data.
 4. Sticky notes
 
 ###**Vocabulary:**
-collect, record, organize, representations, variables
+[collect](../../vocabulary/unit1/#collect),
+[record](../../vocabulary/unit1/#record),
+[organize](../../vocabulary/unit1/#organize),
+[representations](../../vocabulary/unit1/#representations),
+[variables](../../vocabulary/unit1/#variables)
 
 ###**Essential Concepts:**
 

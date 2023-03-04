@@ -12,11 +12,14 @@ markdown_extensions:
   - admonition
   - pymdownx.arithmatex
   - meta
+  - attr_list
+  - abbr
   
 theme:
     name: material
     features:
         tabs = true 
+        - content.tooltips
 
 nav:
     - Home: index.md
