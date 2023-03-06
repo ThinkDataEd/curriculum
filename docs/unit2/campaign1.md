@@ -2,7 +2,7 @@
 
 ###**1. The Issue:**
 
-People report being more and more stressed everyday. This trend is extending beyond adults, it is
+People report being more and more stressed every day. This trend is extending beyond adults, it is
 also reported by children and teenagers. The amount of work for which people are responsible has
 been increasing. To understand what makes us feel stressed, some important questions to ask are:
 
