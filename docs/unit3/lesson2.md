@@ -6,22 +6,10 @@ learn to distinguish claims of causation from claims of association.
 
 ###**Materials:**
 1. Video: MythBusters’ *Is Yawning Contagious?*   
-	
-    100. Part 1
-	
-		<div align="right"><iframe width="420" height="315"
-		src="https://drive.google.com/file/d/1MTA2CqLTA-OaP5xx3RXnSvMDMQj9BbZq/preview" allowfullscreen>
-		</iframe><br><a href="https://drive.google.com/file/d/1MTA2CqLTA-OaP5xx3RXnSvMDMQj9BbZq/preview">https://drive.google.com/file/d/1MTA2CqLTA-OaP5xx3RXnSvMDMQj9BbZq/preview</a></div>
-	
-    100. Part 2
-	
-		<div align="right"><iframe width="420" height="315"
-		src="https://drive.google.com/file/d/1qbF4kBgAtF5WancFZMyilUlBayooZK_o/preview" allowfullscreen>
-		</iframe><br><a href="https://drive.google.com/file/d/1qbF4kBgAtF5WancFZMyilUlBayooZK_o/preview">https://drive.google.com/file/d/1qbF4kBgAtF5WancFZMyilUlBayooZK_o/preview</a></div>
 
-    **<u>Note:</u>** If video is not found using link, please use a search engine (e.g., Google Video)
+    **<u>Note:</u>** Please use a search engine (e.g., Google Video)
     and type “MythBusters Is Yawning Contagious” to find it. The clip is a little over 5 minutes
-    in length.
+    in length. If you cannot access it, an alternate experiment (MythBusters' *How Does Music Affect Plants*) can be found at [https://youtu.be/C5dNhNfGyWQ](https://youtu.be/C5dNhNfGyWQ "https://youtu.be/C5dNhNfGyWQ")
 
 ###**Vocabulary:**
 experiment, subjects, treatment, treatment group, control group, random assignment, representative
