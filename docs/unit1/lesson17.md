@@ -16,7 +16,9 @@ context of the data.
 4. *Interpreting Categorical Variables* ([LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf))
 
 ###**Vocabulary:**
-marginal frequency, joint frequency, conditional relative frequency
+[marginal frequency](../../vocabulary/unit1/#marginal (relative) frequency "the margins on the table that show the cells with the initial total counts"){ .md-button }
+[joint frequency](../../vocabulary/unit1/#joint (relative) frequency "a fraction that tells you how many members of a group havea  particular characteristic"){ .md-button }
+[conditional relative frequency](../../vocabulary/unit1/#conditional relative frequency "the ratio of a joint relative frequency and related marginal relative frequency"){ .md-button }
 
 ###**Essential Concepts:**
 
