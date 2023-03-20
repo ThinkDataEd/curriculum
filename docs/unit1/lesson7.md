@@ -16,7 +16,7 @@ distribution prior to the lesson**
 4. *Food Habits Campaign* guidelines ([LMR_U1_Campaign_Food Habits](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Food Habits.pdf))
 
 ###**Vocabulary:**
-Participatory Sensing
+[Participatory Sensing](../../vocabulary/unit1/#participatory sensing "an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to explore interesting aspects of their worlds ranging from health to culture"){ .md-button }
 [campaign](../../vocabulary/unit1/#campaign "gather and collect data"){ .md-button }
 [surveys](../../vocabulary/unit1/#surveys "a research method used for collecting data to gain information and insights into various topics of interest"){ .md-button }
 [images](../../vocabulary/unit1/#images "a representation of the external form of a person, thing, or picture"){ .md-button }
