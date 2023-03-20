@@ -16,7 +16,8 @@ Mobile Devices* found at:
 5. K-L-W Graphic Organizer ([LMR_TR_K-L-W Chart](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_K-L-W Chart.pdf))
 
 ###**Vocabulary:**
-evaluate, claim
+[evaluate](../../vocabulary/unit1/#evaluate "to think critically"){ .md-button }
+[claim](../../vocabulary/unit1/#claim "a statement of something"){ .md-button }
 
 ###**Essential Concepts:**
 
