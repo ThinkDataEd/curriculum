@@ -18,7 +18,9 @@ about multiple variable plots using a four-fold graphic organizer.
 
 ###**Vocabulary:**
 
-scatterplot, grouping, side-by-side bar plot
+[scatterplot](../../vocabulary/unit1/#scatterplot "a plot that uses dots to represent values for two different numeric variables"){ .md-button }
+[grouping](../../vocabulary/unit1/#grouping "when the data are split into categories"){ .md-button }
+[side-by-side bar plot](../../vocabulary/unit1/#side-by-side bar plot "a plot where the bars are split into colored bar segments, used to compare things between different groups or to track changes over time"){ .md-button }
 
 ###**Essential Concepts:**
 
