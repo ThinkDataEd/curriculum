@@ -15,11 +15,11 @@ Students will learn how to observe, record, and organize data.
 4. Sticky notes
 
 ###**Vocabulary:**
-[collect](../../vocabulary/unit1/#collect),
-[record](../../vocabulary/unit1/#record),
-[organize](../../vocabulary/unit1/#organize),
-[representations](../../vocabulary/unit1/#representations),
-[variables](../../vocabulary/unit1/#variables)
+[collect](../../vocabulary/unit1/#collect "the process of gathering and measuring information"){ .md-button }
+[record](../../vocabulary/unit1/#record "a collection of data"){ .md-button }
+[organize](../../vocabulary/unit1/#organize "the method of classifying and organizing data sets to make them more useful"){ .md-button }
+[representations](../../vocabulary/unit1/#representations "the form in which data are stored, processed, and transmitted"){ .md-button }
+[variables](../../vocabulary/unit1/#variables "characteristics of an object or person"){ .md-button }
 
 ###**Essential Concepts:**
 
