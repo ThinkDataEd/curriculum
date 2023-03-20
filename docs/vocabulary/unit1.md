@@ -171,7 +171,7 @@
 ### left-skewed
 
 !!! note ""
-    the mean is typically less than the median; the tail of the distribution is longer on the left hand side than on the right hand side
+    the mean is typically less than the median; the tail of the distribution is longer on the left-hand side than on the right-hand side
 
 ### marginal (relative) frequency
 
@@ -266,7 +266,7 @@
 ### right-skewed
 
 !!! note ""
-    the mean is typicallygreater than the median; the tail of the distribution is longer on the right hand side than on the left hand side
+    the mean is typicallygreater than the median; the tail of the distribution is longer on the right-hand side than on the left-hand side
 
 ### rows
 
@@ -293,7 +293,7 @@
 !!! note ""
     how dense the distribution is at certain values
 
-### statistical questions
+### statistical investigative questions
 
 !!! note ""
     questions that address variability and can be answered with data
