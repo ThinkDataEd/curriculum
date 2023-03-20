@@ -25,7 +25,11 @@ Students will learn about the stages of the Data Cycle.
 10. Poster paper
 
 ###**Vocabulary:**
-data cycle, statistical questions, investigative questions, data collection, data analysis, data interpretation
+[data cycle](../../vocabulary/unit1/#data cycle "a guide we can use when leanring to think about data"){ .md-button }
+[statistical investigative questions](../../vocabulary/unit1/#statistical investigative questions "questions that address variability and can be answered with data"){ .md-button }
+[data collection](../../vocabulary/unit1/#data collection "the process of observing and recording data, or of examining previously collected data to make sure it meets the needs of an investigation"){ .md-button }
+[data analysis](../../vocabulary/unit1/#data analysis "tables, graphs, and summaries of the data that are produced to help us find patterns and relationships"){ .md-button }
+[data interpretation](../../vocabulary/unit1/#data interpretation "the statistical questions are answered by referring to the tables, graphs, and summaries made in the Data Analysis phase"){ .md-button }
 
 ###**Essential Concepts:**
 
