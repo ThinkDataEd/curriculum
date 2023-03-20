@@ -27,8 +27,18 @@ the distributions give us information about the variability of the data.
 8. *Tangible Plot* handout ([LMR_1.9_Tangible Plot](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf))
 
 ###**Vocabulary:**
-x-axis, y-axis, visualization, range, minimum, maximum, frequency, distribution, typical, symmetric, range,
-data points, dotplot
+[x-axis](../../vocabulary/unit1/#x-axis "horizontal axis of a coordinate plane"){ .md-button }
+[y-axis](../../vocabulary/unit1/#y-axis "vertical axis of coordinate plane"){ .md-button }
+[visualization](../../vocabulary/unit1/#visualization "a picture of the data"){ .md-button }
+[minimum](../../vocabulary/unit1/#minimum "the smallest value"){ .md-button }
+[maximum](../../vocabulary/unit1/#maximum "the largest value"){ .md-button }
+[frequency](../../vocabulary/unit1/#frequency "the number of times an outcome occurs"){ .md-button }
+[distribution](../../vocabulary/unit1/#distribution "a function or a listing which shows all the possible values"){ .md-button }
+[range](../../vocabulary/unit1/#range "the largest value minus the smallest value"){ .md-button }
+[typical](../../vocabulary/unit1/#typical ""mean" or "average"; expected values"){ .md-button }
+[symmetric](../../vocabulary/unit1/#symmetric "a type of distribution where the left side of the distribution mirrors the right side"){ .md-button }
+[data points](../../vocabulary/unit1/#data points "a single fact or piece of information"){ .md-button }
+[dotplot](../../vocabulary/unit1/#dotplot "a graphical display of data using dots"){ .md-button }
 
 ###**Essential Concepts:**
 
