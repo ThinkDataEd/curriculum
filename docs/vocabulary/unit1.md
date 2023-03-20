@@ -308,6 +308,11 @@
 !!! note ""
     a type of distribution where the left side of the distribution mirrors the right side
 
+### two-way frequency table
+
+!!! note ""
+    a table that displays the data that pertains to two categories from one group
+
 ### typical
 
 !!! note ""
