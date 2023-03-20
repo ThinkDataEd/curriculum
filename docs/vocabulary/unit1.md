@@ -291,7 +291,7 @@
 ### spread
 
 !!! note ""
-    the distribution is at certain values
+    how dense the distribution is at certain values
 
 ### statistical questions
 
