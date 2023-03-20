@@ -14,7 +14,11 @@ a data set.
 4. Video showing how to log into RStudio Cloud for the first time found at: [https://www.youtube.com/watch?v=vgh7C8U8Ekk](https://www.youtube.com/watch?v=vgh7C8U8Ekk "https://www.youtube.com/watch?v=vgh7C8U8Ekk")
 
 ###**Vocabulary:**
-pane, preview, console, plot, environment
+[pane](../../vocabulary/unit1/#pane "a rectangular area within RStudio"){ .md-button }
+[preview](../../vocabulary/unit1/#preview "a pane within RStudio; (spreadsheet) - where they will be able to see the variables and observations (index); rows and columns of data"){ .md-button }
+[console](../../vocabulary/unit1/#console "a pane within RStudio; the place where RStudio is waiting for you to tell it what to do, and where it will show the results of a command; you type your codes directly into the console"){ .md-button }
+[plot](../../vocabulary/unit1/#plot "a pane within RStudio; where plots/graphs/visualizations will be generated"){ .md-button }
+[environment](../../vocabulary/unit1/#environment "a pane within RStudio; where values and objects can be viewed"){ .md-button }
 
 ###**RStudio Commands:**
 data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )
