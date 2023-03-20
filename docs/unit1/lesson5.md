@@ -7,7 +7,7 @@ Students will learn the features of a good statistical investigative question.
 1. Sticky notes
 
 ###**Vocabulary:**
-(statistical) investigative questions
+(statistical) investigative questions(../../vocabulary/unit1/#statistical investigative questions "questions that address variability and can be answered with data"){ .md-button }
 
 ###**Essential Concepts:**
 
