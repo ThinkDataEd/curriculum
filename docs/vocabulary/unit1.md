@@ -161,7 +161,7 @@
 ### joint (relative) frequency
 
 !!! note ""
-    a fraction that tells you how many members of of a group have a particular characteristic
+    a fraction that tells you how many members of a group have a particular characteristic
 
 ### left-hand rule
 
@@ -176,7 +176,7 @@
 ### marginal (relative) frequency
 
 !!! note ""
-    the margins on the table to show that the cells with the initial total counts
+    the margins on the table that show the cells with the initial total counts
 
 ### maximum
 
