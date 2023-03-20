@@ -23,7 +23,7 @@ recorded in order to attain consistency.
 3. *Food Habits Data Collection* handout ([LMR_1.8_Food Habits Data Collection](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf))
 
 ###**Vocabulary:**
-data set(s)
+[data set(s)](../../vocabulary/unit1/#data set(s) "a collection of data"){ .md-button }
 
 ###**Essential Concepts:**
 
