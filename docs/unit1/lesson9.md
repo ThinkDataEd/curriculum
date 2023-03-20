@@ -13,7 +13,10 @@ determining any point clusters.
 3. Markers, dot stickers, or sticky notes
 
 ###**Vocabulary:**
-typical, center, shape, spread
+[typical](../../vocabulary/unit1/#typical ""mean" or "average"; expected values"){ .md-button }
+[center](../../vocabulary/unit1/#center "useful for numerical variables, the center of the distribution often corresponds with the notion of 'typical value'"){ .md-button }
+[shape](../../vocabulary/unit1/#shape "the placement of points in a distribution"){ .md-button }
+[spread](../../vocabulary/unit1/#spread "how dense the distribution is at certain values"){ .md-button }
 
 ###**Essential Concepts:**
 

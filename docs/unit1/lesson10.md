@@ -24,7 +24,14 @@ representing individual observations, as in a dotplot.
 
 ###**Vocabulary:**
 
-algorithm, histogram, bin(s), bin widths, output, input, left-hand rule, right-hand rule
+[algorithm](../../vocabulary/unit1/#algorithm "a process or set of rules for solving a mathematical problem"){ .md-button }
+[histogram](../../vocabulary/unit1/#histogram "an approximate representation of the distribution of numerical data"){ .md-button }
+[bin(s)](../../vocabulary/unit1/#bin(s) "a bar whose height corresponds to how many data points are in that bin"){ .md-button }
+[bin widths](../../vocabulary/unit1/#bin widths "the width of the rectangle that shows data is graphed in groups on the x-axis"){ .md-button }
+[output](../../vocabulary/unit1/#output "the value(s) that are produced by an algorithm"){ .md-button }
+[input](../../vocabulary/unit1/#input "the value you place into the algorithm"){ .md-button }
+[left-hand rule](../../vocabulary/unit1/#left-hand rule "when multiple data points can appear in more than one bin, observations would go in the bin on the left-hand side"){ .md-button }
+[right-hand rule](../../vocabulary/unit1/#right-hand rule "when multiple data points can appear in more than one bin, observations would go in the bin on the right-hand side"){ .md-button }
 
 ###**Essential Concepts:**
 
