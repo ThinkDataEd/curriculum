@@ -11,7 +11,11 @@ distribution might be one shape or another.
 
 ###**Vocabulary:**
 
-symmetric, left-skewed, right-skewed, unimodal, bimodal
+[symmetric](../../vocabulary/unit1/#symmetric "a type of distribution where the left side of the distribution mirrors the right side"){ .md-button }
+[left-skewed](../../vocabulary/unit1/#left-skewed "the mean is typically less than the median; the tail of the distribution is longer on the left-hand side than on the right-hand side"){ .md-button }
+[right-skewed](../../vocabulary/unit1/#right-skewed "the mean is typically greater than the median; the tail of the distribution is longer on the right-hand side than on the left-hand side"){ .md-button }
+[unimodal] (../../vocabulary/unit1/#unimodal "a distribution which has a single peak"){ .md-button }
+[bimodal](../../vocabulary/unit1/#bimodal "a distribution which has two peaks"){ .md-button }
 
 ###**Essential Concepts:**
 
