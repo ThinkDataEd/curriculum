@@ -1,5 +1,3 @@
-##***<u>Lesson 3: Data Structures</u>***
-
 ###**Objective:**
 Students will learn that data can be represented in rectangular format.
 
@@ -10,11 +8,11 @@ Students will learn that data can be represented in rectangular format.
 
 ###**Vocabulary:**
 [variables](../../vocabulary/unit1/#variables "characteristics of an object or person"){ .md-button }
-[numerical variables](../../vocabulary/unit1/#numerical variables "values that have numbers"){ .md-button }
-[categorical variables](../../vocabulary/unit1/#categorical variables "values that have words"){ .md-button }
+[numerical variables](../../vocabulary/unit1/#numerical-variables "values that have numbers"){ .md-button }
+[categorical variables](../../vocabulary/unit1/#categorical-variables "values that have words"){ .md-button }
 [rows](../../vocabulary/unit1/#rows "a structured data item in a table"){ .md-button }
 [columns](../../vocabulary/unit1/#columns "a structured data item in a table"){ .md-button }
-[rectangular or spreadsheet format](../../vocabulary/unit1/#rectangular or spreadsheet format "information that is stored in a rectangular or spreadsheet format"){ .md-button }
+[rectangular or spreadsheet format](../../vocabulary/unit1/#rectangular-or-spreadsheet-format "information that is stored in a rectangular or spreadsheet format"){ .md-button }
 [variability](../../vocabulary/unit1/#variability "how spread out a set of data is; variability gives you a way to describe how much data sets vary and allows you to compare your data to other sets of data"){ .md-button }
 
 ###**Essential Concepts:**
