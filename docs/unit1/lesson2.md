@@ -1,5 +1,3 @@
-##***<u>Lesson 2: Stick Figures</u>***
-
 ###**Objective:**
 Students will learn how to observe, record, and organize data.
 
@@ -69,7 +67,7 @@ come up with their own schema for organizing the data.
 Figure data. For each poster, the teams should write either a comment or a question on a sticky
 note and add it to the poster to provide feedback for the original team.
 
-7. Afterwards, engage the students in a discussion with the following questions:
+7. :material-chat-outline:{title="Discussion"} Afterwards, engage the students in a discussion with the following questions:
 
     100. Describe some similarities among the team posters. Were the data organized in similar
     ways? <span style="color:grey">***Answers will vary by class.***</span>
@@ -97,5 +95,5 @@ use variable names to organize data into a simplified form so that a computer ca
 This will be discussed further in [lesson 3](lesson3.md).
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
+:fontawesome-regular-pen-to-square:{title="Class Scribes"} One team of students will give a brief talk to discuss what they think the 3 most important topics
 of the day were.
