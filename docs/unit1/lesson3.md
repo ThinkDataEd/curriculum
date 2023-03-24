@@ -46,7 +46,7 @@ could possibly be:
 
     100. Friends or Number of Friends
 
-3. Next, have a class discussion about how the values from “Shoe” are different than the values
+3. :material-chat-outline:{title="Discussion"} Next, have a class discussion about how the values from “Shoe” are different than the values
 from “Height.”
 
     100. The values from “Shoe” are either “sneakers” or “sandals”.
@@ -89,7 +89,7 @@ is that columns go from top to bottom, and rows go from left to right.
 
     <img src="../../img/10308.png" />
 
-9. Ask students:
+9. :material-chat-outline:{title="Discussion"} Ask students:
 
     100. What should each row represent? <span style="color:grey">***Each row should represent one observation, or
     one stick figure person in this case.***</span>
@@ -106,7 +106,7 @@ sure to use variable names agreed upon by the class):
 11. In teams, students should complete the data table using all 8 of the *Stick Figures* cards. Each row
 of the table should represent one person on a card.
 
-12. Engage the class in a discussion with the following questions:
+12. :material-chat-outline:{title="Discussion"} Engage the class in a discussion with the following questions:
 
     100. Do any of the people in the data have the same value for a given variable? In other words,
     does a value appear more than once in a column? Give two examples. <span style="color:grey">***Answers will
@@ -122,5 +122,5 @@ first step in any investigation is to notice variability. We can see the relatio
 terms **variable** and **variability**. The word “variable” indicates that values vary.
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics
+:fontawesome-regular-pen-to-square:{title="Class Scribes"} One team of students will give a brief talk to discuss what they think the 3 most important topics
 of the day were.
