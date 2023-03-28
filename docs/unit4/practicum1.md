@@ -19,7 +19,7 @@ Your team will use the data to make predictions using linear models and compare 
 model to the rest of your classmates. Finally, the class will determine which team had the best prediction.
 Follow the directions below to explore and analyze the data:
 
-1. You will have two data sets: one for training and one for testing. Load both data sets. Write down
+1. You will have two data sets: one for training named ***cereal*** and one for testing named ***cereal_test***. Load both data sets. Write down
 the code you used.
 
 2. Explore the training data. Make several plots of different variable combinations and fit a linear
