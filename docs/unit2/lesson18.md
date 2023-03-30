@@ -42,32 +42,34 @@ properties.
 
     <img src="../../img/21803.png" />
 
-4. Open RStudio and project for students to see. Read in the babies data set by following these steps:  
+4. Open RStudio and project for students to see. Load the babies dataset, named **Gestation** by following these steps:  
      <ul>
-     <li>On your <b>Environment Pane</b> go to Import Dataset</li>
-     <li>Choose <b>From Text (readr)...</b></li>   
-     <li>Paste the following in the <b>File/URL</b> box:  
-     http://people.hsc.edu/faculty-staff/blins/classes/spring17/math222/data/babies.csv </li>
-     <li>Click on <b>Update</b> and then <b>Import</b></li> 
+     <li>Enter <b>data(Gestation)</b> in the Console</li>
+     <ul>
+     <li>You should see <b>Gestation</b> located in your Environment</li>
+     </ul>
+     <li>Enter <b>View(Gestation)</b> in the Console</li> 
      </ul>
      
-     Scroll through the spreadsheet so that students can see the variables. Ask student teams to predict which of the variables in the "babies" dataset they think might be normally distributed. Choose a couple of teams to share out.
+     Display the help documentation by typing **?Gestation**. Ask student teams to predict which of the variables in the "Gestation" dataset they think might be normally distributed. Choose a couple of teams to share out.
 
-    Description of variables:
+    Description of numerical variables:
         <ul>
-        <li> bwt - birth weight (in ounces)</li>
+        <li>wt - birth weight (in ounces)</li>
         <li>gestation - length of the pregnancy (in days)</li>
-        <li>parity - 1 if baby was first born, 0 otherwise</li>
+        <li>parity - 0 if baby was first born, 1-13 otherwise</li>
         <li>age - mother’s age (in years)</li>
-        <li>height - mother’s height (in inches)</li>
-        <li>weight - mother’s weight (in lbs.)</li>
-        <li>smoke - 1 if the mother is a smoker, 0 otherwise</li>
+        <li>ht - mother’s height (to the last completed inch)</li>
+        <li>wt.1 - mother’s weight (in pounds)</li>
+        <li>dage - father's age (in years)</li>
+        <li>dht - father's height (to the last completed inch)</li>
+        <li>dwt - father's weight (in pounds)</li>
         </ul>
 
 
 5. Create histograms using the variables shared by student teams. There are a few variables that look normally distributed, such as the birth mother's heights. We will investigate the babies’ birth weights.
 
-    ** histogram(~bwt, data = babies)**
+    ** histogram(~wt, data = Gestation)**
 
     <img src="../../img/21804.png" />
 
@@ -81,9 +83,9 @@ properties.
 
 7. Use RStudio to calculate the actual mean and standard deviation.
 
-    ** mean_bwt <- mean(~bwt, data = babies)**
+    ** mean_wt <- mean(~wt, data = Gestation)**
 
-    ** sd_bwt <- sd(~bwt, data = babies)**
+    ** sd_wt <- sd(~wt, data = Gestation)**
 
     <img src="../../img/21806.png" /width="300" height="50">
 
@@ -101,7 +103,7 @@ properties.
 
 11. Use RStudio to confirm if indeed the distribution of baby weights is approximately normal.
 
-    **one_sd_bwt <- filter(babies, bwt > 101.4, bwt < 137.8)**
+    **one_sd_wt <- filter(Gestation, wt > 101.4, wt < 137.8)**
 
     <span style="color:grey">***Answer: In this sample of 1236 observations, there are 861 babies whose weights are one standard deviation from the mean, so 861/1236 = 0.697. This means that around 69.7% of the weights of the babies in this sample fall within one standard deviation from the mean baby weight. This is close to 68%, so it seems that the distribution of baby weights is approximately normally distributed.***</span>
 
