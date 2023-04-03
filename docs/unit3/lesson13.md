@@ -102,7 +102,7 @@ question is marked as “correct” if the actual value (see answers in Step 8) 
     7) As of June 2015, how many of Rihanna’s songs have reached the Number 1 spot on
     Billboard’s “Dance Club Hits” chart? <span style="color:grey">***23 songs***</span>
 
-    8) How many years have actors Will Smith and Jada Pinkett-Smith been married? <span style="color:grey">***18 years***</span>
+    8) How many years have actors Will Smith and Jada Pinkett-Smith been married? <span style="color:grey">***As of January 2016, it was 18 years - they were married December 31, 1997.***</span>
 
     9) How many hours will it take to complete a cross-country road trip from Los Angeles to
     New York City according to Google Maps? <span style="color:grey">***41 hours (2,789.5 miles)***</span>
