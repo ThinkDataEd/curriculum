@@ -2,7 +2,7 @@
 
 [Introduction to Data Science_Curriculum_v_6.0.pdf](../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/Introduction to Data Science_Curriculum_v_6.0.pdf)
 
-<div align="right"><iframe src="/Users/bullock/Documents/GitHub/curriculum/docs/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/Introduction to Data Science_Curriculum_v 6.0.pdf" style=" width:420px;height:400px;" frameborder="0"></iframe><br></div>
+<div align="right"><iframe src="docs/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/Introduction to Data Science_Curriculum_v 6.0.pdf" style=" width:420px;height:400px;" frameborder="0"></iframe><br></div>
 
 [IDS_Intro+Unit1_v 6.0_FINAL.pdf](../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Intro+Unit1_v 6.0_FINAL.pdf)
 
