@@ -39,7 +39,7 @@ straight from the webpage into R.
 
 * Click on the *Import Dataset* button under the *Environment* tab.
 
-    – Then click on the *From CSV* option.
+    – Then click on the *From Text (readr)* option.
 
     – Type or copy/paste the URL into the box and then hit *Update*.
 
