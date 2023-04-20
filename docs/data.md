@@ -36,6 +36,8 @@ external data sets.
 !!! abstract "census"
       extra_data('census')
 
+      This is census data from Google.
+
       [census.rda file](../data/census.rda)
 
 [comment]: <> (check data folder to add .rda)
