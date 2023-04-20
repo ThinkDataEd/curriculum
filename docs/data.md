@@ -8,12 +8,20 @@ external data sets.
 
       [cdc.rda file](../data/cdc.rda)
 
+### apple
+
+!!! abstract "apple"
+      extra_data('apple')
+
+      [apple.rda file](../data/apple.rda)
+
 ### atus
 
 !!! abstract "atus"
       extra_data('atus')
 
       [atus.rda file](../data/atus.rda)
+
 
 
 ### abc
