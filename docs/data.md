@@ -31,4 +31,11 @@ external data sets.
 
       [abc.rda file](../data/abc.rda)
 
+### census
+
+!!! abstract "census"
+      extra_data('census')
+
+      [census.rda file](../data/census.rda)
+
 [comment]: <> (check data folder to add .rda)
