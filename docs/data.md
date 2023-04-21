@@ -8,13 +8,6 @@ external data sets.
 
       [cdc.rda file](../data/cdc.rda)
 
-### apple
-
-!!! abstract "apple"
-      extra_data('apple')
-
-      [apple.rda file](../data/apple.rda)
-
 ### atus
 
 !!! abstract "atus"
@@ -23,20 +16,17 @@ external data sets.
       [atus.rda file](../data/atus.rda)
 
 
+### retail
 
-### abc
+!!! abstract "retail"
+      extra_data('retail')
 
-!!! abstract "abc"
-      extra_data('abc')
-
-      [abc.rda file](../data/abc.rda)
+      [retail.rda file](../data/retail.rda)
 
 ### census
 
 !!! abstract "census"
       extra_data('census')
-
-      This is census data from Google.
 
       [census.rda file](../data/census.rda)
 
