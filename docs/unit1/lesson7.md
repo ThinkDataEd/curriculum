@@ -66,7 +66,7 @@ meals as well.
 
 8. Inform students that they will be taking part in a specific data collection method know as
 **Participatory Sensing** via a mobile application. This application can gather data via **surveys**,
-**images**, and **GPS** tracking.
+**images**, and **GPS** tracking. To protect student privacy, if students choose to share their location, their precise location will be concealed via a process that keeps their location in the same area but offsets it by varying lengths.
 
 9. Make it clear to students that the reason they are collecting the data is to learn more about
 themselves and their classmates, NOT to provide data for an external data collection team.
