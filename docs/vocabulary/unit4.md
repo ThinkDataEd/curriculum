@@ -91,4 +91,9 @@
 ### non-linear
 
 !!! note ""
-    a 
+    a form of regression analysis in which observational data are modeled by a function which is a nonlinear combination of the model parameters and depends on one or more independent variables; the data are fitted by a method of successive approximations
+
+### polynomial trends
+
+!!! note ""
+    describes a pattern in data that is curved or breaks from a straight linear trend; it often occurs in a large set of data that contains many fluctuations
