@@ -97,3 +97,48 @@
 
 !!! note ""
     describes a pattern in data that is curved or breaks from a straight linear trend; it often occurs in a large set of data that contains many fluctuations
+
+### classify
+
+!!! note ""
+    is the problem of identifying which of a set of categories (sub-populations) an observation (or observations), belongs to
+
+### decision tree
+
+!!! note ""
+    a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance outcomes
+
+### Classification and Regression Trees (CART)
+
+!!! note ""
+    a predictive algorithm used in machine leanring; it explains how a target variable's values can be predicted based on other values
+
+### nodes
+
+!!! note ""
+    a point of intersection/connection within a data communication network
+
+### misclassifications
+
+!!! note ""
+    when a participant is placed into the wrong population or subgroup or category because of some kind of observational or measurement error
+
+### clustering
+
+!!! note ""
+    is the process of grouping a set of objects (or people) in such a way that objects (or people) in the same group are  more similar to each other than those in other groups
+
+### cluster
+
+!!! note ""
+    a group of similar things or people positioned or occurring closely together
+
+### k-means
+
+!!! note ""
+    aims to partition data into k clusters in a way that data points in the same cluster are similar and data points in the different clusters are farther apart
+
+### network
+
+!!! note ""
+    a system designed to transfer data from one network access point to one other or more network access points via data switching, transmission lines, and system controls
