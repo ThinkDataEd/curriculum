@@ -25,6 +25,12 @@
         <main class="mdl-layout__content" style="padding: 16px !important;" id="content-main">
             <!-- <h2>K-means algorithm - Introduction to data science</h2> -->
 
+
+            <div>
+                Page Zoom
+                <button onclick="zoomIn()">+</button>
+                <button onclick="zoomOut()">-</button>
+            </div>
             <br>
             <br>
             <label for="numClusters">Number of Clusters(Centroids):</label>
@@ -74,27 +80,22 @@
             <label for="showPointColor">Show Point Color</label>
             <input type="checkbox" id="showPointColor" name="showPointColor" checked>
             <br>
-            <div>
-                Page Zoom
-                <button onclick="zoomIn()">+</button>
-                <button onclick="zoomOut()">-</button>
-            </div>
         </main>
     </div>
 </body>
 <script>
 
-var scale = 1.0; // Initial scale value
+    var scale = 1.0; // Initial scale value
 
-function zoomIn() {
-  scale += 0.1; // Increase the scale value by 0.1
-  document.body.style.zoom =   scale*100 + '%'; // Set the new scale value
-}
+    function zoomIn() {
+        scale += 0.1; // Increase the scale value by 0.1
+        document.body.style.zoom = scale * 100 + '%'; // Set the new scale value
+    }
 
-function zoomOut() {
-  scale -= 0.1; // Decrease the scale value by 0.1
-  document.body.style.zoom =   scale*100  + '%'; // Set the new scale value
-}
+    function zoomOut() {
+        scale -= 0.1; // Decrease the scale value by 0.1
+        document.body.style.zoom = scale * 100 + '%'; // Set the new scale value
+    }
 
 
     let autoClickCheckbox = document.getElementById("autoClick");
