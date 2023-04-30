@@ -87,6 +87,11 @@
 
     var scale = 1.0; // Initial scale value
 
+    if (document.documentElement.clientWidth < 700) {
+        scale = document.documentElement.clientWidth / 700;
+        document.body.style.zoom = scale * 100 + '%'; // Set the new scale value
+    }
+
     function zoomIn() {
         scale += 0.1; // Increase the scale value by 0.1
         document.body.style.zoom = scale * 100 + '%'; // Set the new scale value
