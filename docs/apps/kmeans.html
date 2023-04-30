@@ -1,0 +1,584 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>K-means Clustering Visualization</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <!-- Material Design stylesheets -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.indigo-pink.min.css">
+    <!-- Material Design scripts -->
+    <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+</head>
+
+<body>
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+        <header class="mdl-layout__header">
+            <div class="mdl-layout__header-row">
+                <span class="mdl-layout-title">K-means Clustering - Introduction to data science</span>
+            </div>
+        </header>
+
+        <main class="mdl-layout__content" style="padding: 16px !important;">
+            <!-- <h2>K-means algorithm - Introduction to data science</h2> -->
+
+            <br>
+            <br>
+            <label for="numClusters">Number of Clusters(Centroids):</label>
+            <input type="number" id="numClusters" name="numClusters" value="5" min="1">
+            <button id="initializeCentroids">Re-Initialize Centroids</button>
+            <br>
+            <label for="numPoints">Number of Points:</label>
+            <input type="number" id="numPoints" name="numPoints" value="100" min="1">
+            <label for="drawPoints">Add by Drawing</label>
+            <input type="checkbox" id="drawPoints" name="drawPoints">
+            <br>
+            <label for="init-type">Points Initialization Type:</label>
+            <select id="init-type" onchange="updateClusterInput()">
+                <option value="random">Random Initialization</option>
+                <option value="clustered">Clustered Initialization</option>
+            </select>
+            <label for="num-clusters-proposal" id="num-clusters-proposal-label">Number of Clusters:</label>
+            <input type="number" id="num-clusters-proposal" min="1" max="10" value="5">
+            <br>
+            <button id="initialize">Initialize All</button>
+            <br>
+            <br>
+            <br>
+            <button id="nextStep">Next Step</button>
+            <label>Auto Trigger<input type="checkbox" id="autoClick"> </label>
+            <span id="messageWorking"> </span>
+            <br>
+            <br>
+            <div id="message" hidden> Ready. </div>
+
+            <br>
+            <svg id="kmeans" style="border: 5px solid grey;"></svg>
+            <br>
+            <label for="showAnimation">Animation</label>
+            <input type="checkbox" id="showAnimation" name="showAnimation" checked>
+            <label for="showAnimationSlow">(slow)</label>
+            <input type="checkbox" id="showAnimationSlow" name="showAnimationSlow">
+            <br>
+            <label for="showBoundaries">Show Boundaries</label>
+            <input type="checkbox" id="showBoundaries" name="showBoundaries" checked>
+            <br>
+            <label for="showCentroidColor">Show Centroid Color</label>
+            <input type="checkbox" id="showCentroidColor" name="showCentroidColor" checked>
+            <label for="showCentroidHistory">History</label>
+            <input type="checkbox" id="showCentroidHistory" name="showCentroidHistory" checked>
+            <br>
+            <label for="showPointColor">Show Point Color</label>
+            <input type="checkbox" id="showPointColor" name="showPointColor" checked>
+            <br>
+        </main>
+    </div>
+</body>
+<script>
+
+
+    let autoClickCheckbox = document.getElementById("autoClick");
+    let nextStepButton = document.getElementById("nextStep");
+
+    autoClickCheckbox.addEventListener("change", function () {
+        if (autoClickCheckbox.checked == true) {
+            nextStepButton.click();
+            nextStepButton.disabled = true;
+        } else {
+            nextStepButton.disabled = false;
+        }
+    });
+
+
+
+    function updateClusterInput() {
+        const initType = document.getElementById("init-type").value;
+        const numClustersProposalInput = document.getElementById("num-clusters-proposal");
+        const numClustersProposalInputLabel = document.getElementById("num-clusters-proposal-label");
+        if (initType === "clustered") {
+            numClustersProposalInput.style.display = "inline-block";
+            numClustersProposalInputLabel.style.display = "inline-block";
+        } else {
+            numClustersProposalInput.style.display = "none";
+            numClustersProposalInputLabel.style.display = "none";
+        }
+    }
+    updateClusterInput();
+
+    const width = 600;
+    const height = 600;
+    var numPoints = 100;
+    var numClusters = 5;
+    var numClustersProposal = 5;
+
+    const svg = d3.select("#kmeans")
+        .attr("width", width)
+        .attr("height", height);
+
+    let points = [];
+    let centroids = [];
+
+    function initializeCentroids() {
+        // autoClickCheckbox.checked = false;
+        var numClustersInput = document.getElementById("numClusters");
+        var numClusters = parseInt(numClustersInput.value, 10) || 5;
+
+        centroids = d3.range(numClusters).map((_, i) => ({
+            x: Math.random() * width,
+            y: Math.random() * height,
+            color: d3.interpolateRainbow(i / numClusters),
+            history: []
+        }));
+
+
+        centroids = [];
+
+        while (centroids.length < numClusters) {
+            // Generate a random cluster center
+            const center = {
+                x: Math.random() * width,
+                y: Math.random() * height,
+                color: d3.interpolateRainbow(centroids.length / numClusters),
+                history: []
+            };
+
+            // Check if the new center is far enough from existing centers
+            const minDistance = Math.sqrt((width) ** 2 + (height) ** 2) / (1 * numClusters);
+            const isFarEnough = centroids.every(existingCenter => {
+                const distance = Math.sqrt((center.x - existingCenter.x) ** 2 + (center.y - existingCenter.y) ** 2);
+                return distance >= minDistance;
+            });
+
+            // Add the new center to the centroids array if it is far enough
+            if (isFarEnough) {
+                centroids.push(center);
+            }
+        }
+
+        // points.forEach(point => {
+        //     point.centroid = null;
+        // });
+
+
+
+        //  draw(notStarted = true);
+
+        draw();
+
+        document.getElementById("message").innerHTML = "centroids initialized.";
+    }
+
+    var numPointsInput = document.getElementById("numPoints");
+    var numClustersInput = document.getElementById("numClusters");
+    var initType = document.getElementById("init-type").value;
+    var numClustersProposalInput = document.getElementById("num-clusters-proposal");
+    
+
+    function initialize() {
+        // autoClickCheckbox.checked = false;
+        numPoints = parseInt(numPointsInput.value, 10) || 100;
+        numClusters = parseInt(numClustersInput.value, 10) || 5;
+        numClustersProposal = parseInt(numClustersProposalInput.value, 10) || 5;
+
+
+        initType = document.getElementById("init-type").value;
+
+
+        if (initType === "clustered") {
+
+            let clusterCenters = d3.range(numClustersProposal).map(() => ({
+                x: Math.random() * width,
+                y: Math.random() * height,
+            }));
+
+            clusterCenters = [];
+
+            while (clusterCenters.length < numClustersProposal) {
+                // Generate a random cluster center
+                const center = {
+                    x: Math.random() * width,
+                    y: Math.random() * height,
+                };
+
+                // Check if the new center is far enough from existing centers
+                const minDistance = Math.sqrt((width) ** 2 + (height) ** 2) / (1 * numClustersProposal);
+                const isFarEnough = clusterCenters.every(existingCenter => {
+                    const distance = Math.sqrt((center.x - existingCenter.x) ** 2 + (center.y - existingCenter.y) ** 2);
+                    return distance >= minDistance;
+                });
+
+                // Add the new center to the clusterCenters array if it is far enough
+                if (isFarEnough) {
+                    clusterCenters.push(center);
+                }
+            }
+
+
+            points = d3.range(numPoints).map((_, i) => ({
+                x: Math.random() * width,
+                y: Math.random() * height,
+                centroid: null,
+                lastCentroid: null
+            }));
+
+            points.forEach(point => {
+                // Find the nearest cluster center
+                const nearestCenter = clusterCenters.reduce((nearest, center) => {
+                    const distanceToCenter = Math.sqrt((point.x - center.x) ** 2 + (point.y - center.y) ** 2);
+                    return distanceToCenter < nearest.distance ? { center, distance: distanceToCenter } : nearest;
+                }, { center: null, distance: Infinity }).center;
+
+                // Move the point 60% closer to the nearest cluster center
+                let factor = 0.6;
+                point.x += factor * (nearestCenter.x - point.x);
+                point.y += factor * (nearestCenter.y - point.y);
+            });
+
+
+        } else {
+            points = d3.range(numPoints).map(() => ({
+                x: Math.random() * width,
+                y: Math.random() * height,
+                centroid: null,
+                lastCentroid: null
+            }));
+        }
+
+        initializeCentroids();
+
+        draw();
+
+        document.getElementById("message").innerHTML = "Initialized.";
+    }
+
+
+    numPointsInput.addEventListener('change', () => {
+        let newNumPoints = parseInt(numPointsInput.value, 10) || 100;
+        if (newNumPoints > numPoints) {
+            const numPointsToAdd = newNumPoints - numPoints;
+            for (let i = 0; i < numPointsToAdd; i++) {
+                points.push({
+                    x: Math.random() * width,
+                    y: Math.random() * height,
+                    centroid: null,
+                    lastCentroid: null
+                });
+            }
+        } else if (newNumPoints < numPoints) {
+            let numPointsToRemove = numPoints - newNumPoints;
+            points.splice(numPoints - numPointsToRemove, numPointsToRemove);
+        }
+        numPoints = newNumPoints;
+        draw();
+    });
+
+
+    numClustersInput.addEventListener('change', () => {
+        let newNumClusters = parseInt(numClustersInput.value, 10) || 5;
+        if (newNumClusters > numClusters) {
+            const numClustersToAdd = newNumClusters - numClusters;
+            for (let i = 0; i < numClustersToAdd; i++) {
+                centroids.push({
+                    x: Math.random() * width,
+                    y: Math.random() * height,
+                    color: d3.interpolateRainbow(centroids.length / newNumClusters),
+                    history: []
+                });
+            }
+        } else if (newNumClusters < numClusters) {
+            let numClustersToRemove = numClusters - newNumClusters;
+            centroids.splice(numClusters - numClustersToRemove, numClustersToRemove);
+            points.forEach(p => {
+                if (p.centroid && p.centroid >= newNumClusters) {
+                    p.centroid = null;
+                }
+            });
+        }
+        numClusters = newNumClusters;
+        centroids.forEach((c, i) => {
+            c.color = d3.interpolateRainbow(i / numClusters);
+        });
+
+        draw();
+
+    });
+
+
+    document.getElementById("showBoundaries").addEventListener("change", () => {
+        draw();
+    });
+
+    document.getElementById("showCentroidColor").addEventListener("change", () => {
+        draw();
+    });
+
+    document.getElementById("showCentroidHistory").addEventListener("change", () => {
+        draw();
+    });
+
+    document.getElementById("showPointColor").addEventListener("change", () => {
+        draw();
+    });
+
+
+    const drag = d3.drag()
+        .on("start", function (event, d) {
+            d3.select(this).raise().classed("active", true);
+        })
+        .on("drag", function (event, d) {
+            d.x = event.x;
+            d.y = event.y;
+            draw();
+        })
+        .on("end", function (event, d) {
+            d3.select(this).classed("active", false);
+        });
+
+
+    function draw(isKStep = false, notStarted = false) {
+
+
+        document.getElementById("message").innerHTML = "draw.";
+
+        notStarted = notStarted || (points[0].centroid == null);
+
+        if (!notStarted) {
+            // Assign points to nearest centroid
+            points.forEach(p => {
+                let minDist = Infinity;
+                centroids.forEach(c => {
+                    const d = Math.hypot(p.x - c.x, p.y - c.y);
+                    if (d < minDist) {
+                        minDist = d;
+                        p.centroid = c;
+                    }
+                });
+            });
+        }
+
+        let showAnimation = document.getElementById("showAnimation").checked;
+        let showAnimationSlowFacor = document.getElementById("showAnimationSlow").checked ? 3 : 1;
+
+        let showPointColor = document.getElementById("showPointColor").checked;
+
+
+
+        svg.selectAll(".point")
+            .data(points)
+            .join("circle")
+            .attr("class", "point")
+            .attr("cx", d => d.x)
+            .attr("cy", d => d.y)
+            .attr("r", 5)
+            .call(drag)
+            .transition()
+            .duration(isKStep && showAnimation ? 3500 * showAnimationSlowFacor : 0)
+            .tween("blink", function (d) {
+                if (isKStep && showAnimation && d.centroid !== d.lastCentroid) {
+                    var node = d3.select(this);
+                    var i = d3.interpolateNumber(0, 1);
+                    return function (t) {
+                        if (t >= 0.85 && t <= 0.99 && showAnimation) {
+                            document.getElementById("message").innerHTML = "matching points to centroids.";
+                            node.attr("stroke", d.centroid ? (showPointColor ? d.centroid.color : "black") : "black");
+                            node.attr("stroke-width", (i(t) * 20) % 5);
+                        } else if (t >= 0.99) {
+                            document.getElementById("message").innerHTML = "matched points to centroids.";
+                            node.attr("stroke", d.centroid ? (showPointColor ? d.centroid.color : "black") : "black");
+                            node.attr("stroke-width", i(t) * 0);
+                            node.attr("fill", d => d.centroid ? (showPointColor ? d.centroid.color : "black") : "black")
+                        }
+                    };
+                }
+            })
+            .transition()
+            .delay(10)
+            .attr("stroke", d => d.centroid ? (showPointColor ? d.centroid.color : "black") : "black")
+            .attr("stroke-width", 0)
+            .attr("fill", d => d.centroid ? (showPointColor ? d.centroid.color : "black") : "black")
+            ;
+
+        if (isKStep) {
+
+        }
+
+
+        let showCentroidColor = document.getElementById("showCentroidColor").checked;
+
+        svg.selectAll(".centroid")
+            .data(centroids)
+            .join("circle")
+            .attr("class", "centroid")
+            .attr("r", 12)
+            .attr("stroke", d => d.color)
+            .attr("stroke-width", showCentroidColor ? 2 : 0)
+            .attr("fill", d => d.color)
+            .attr("fill", d => showCentroidColor ? d3.color(d.color).copy({ opacity: 0.5 }) : "rgba(0, 0, 0, 0.5)")
+            .call(drag)
+            .transition()
+            .duration(isKStep && showAnimation ? 1000 * showAnimationSlowFacor : 0)
+            .attr("cx", d => d.x)
+            .attr("cy", d => { document.getElementById("message").innerHTML = "moved centroids to center."; return d.y; });
+
+
+        svg.selectAll(".centroid").raise();
+
+        const showBoundaries = document.getElementById("showBoundaries").checked;
+        if (showBoundaries) {
+            svg.select(".boundary").remove();
+            svg.append("path")
+                .attr("class", "boundary")
+                .attr("fill", "none")
+                .attr("stroke", "rgba(0, 0, 0, 0.5)")
+                .attr("stroke-width", 0.5)
+                .transition()
+                .delay(isKStep && showAnimation ? 1500 * showAnimationSlowFacor : 0)
+                .attr("d", c => {
+                    const centroidsInCluster = notStarted ? [] : centroids;
+                    const voronoi = d3.Delaunay.from(centroidsInCluster, p => p.x, p => p.y).voronoi([0, 0, width, height]);
+                    return voronoi.render();
+                });
+        } else {
+            svg.select(".boundary").remove();
+        }
+
+        const showCentroidHistory = document.getElementById("showCentroidHistory").checked;
+        if (showCentroidHistory) {
+            svg.selectAll(".centroid-history").remove();
+            centroids.forEach(centroid => {
+                const history = centroid.history;
+                svg.append("path")
+                    .attr("class", "centroid-history")
+                    .datum(history)
+                    .attr("d", d3.line()
+                        .x(d => d.x)
+                        .y(d => d.y)
+                    )
+                    .style("stroke", centroid.color)
+                    .style("stroke-width", 2)
+                    .style("fill", "none");
+                if (history.length > 0) {
+                    const lastHistory = [history[history.length - 1]];
+                    lastHistory.push({ x: centroid.x, y: centroid.y });
+                    svg.append("path")
+                        .datum(lastHistory)
+                        .attr("class", "centroid-history")
+                        .call(path => path
+                            .transition()
+                            .duration(isKStep && showAnimation ? 800 * showAnimationSlowFacor : 0)
+                            .delay(isKStep && showAnimation ? 800 * showAnimationSlowFacor : 0)
+                            .attr("d", d3.line()
+                                .x(d => d.x)
+                                .y(d => d.y)
+                            )
+                            .style("stroke", centroid.color)
+                            .style("stroke-width", 2)
+                            .style("fill", "none")
+                        );
+                }
+            });
+        } else {
+            svg.selectAll(".centroid-history").remove();
+        }
+
+
+    }
+
+    svg.on("click", function () {
+        const drawPoints = document.getElementById("drawPoints").checked;
+        if (drawPoints) {
+            const coords = d3.pointer(event, this);
+            points.push({
+                x: coords[0],
+                y: coords[1],
+                centroid: null,
+                lastCentroid: null
+            });
+            document.getElementById("numPoints").value = points.length;
+            draw();
+
+            document.getElementById("message").innerHTML = "added a point at " + coords;
+        }
+    });
+
+
+
+
+
+    function kMeansStep() {
+
+        nextStepButton.disabled = true;
+        document.getElementById("messageWorking").innerHTML = "working...";
+
+        // Update centroids
+        centroids.forEach(c => {
+            let history = { x: c.x, y: c.y };
+            c.history.push(history);
+            let sumX = 0;
+            let sumY = 0;
+            let count = 0;
+            points.forEach(p => {
+                if (p.centroid === c) {
+                    sumX += p.x;
+                    sumY += p.y;
+                    count++;
+                }
+            });
+            if (count > 0) {
+                c.x = sumX / count;
+                c.y = sumY / count;
+            }
+        });
+
+
+        points.forEach(p => {
+            p.lastCentroid = p.centroid;
+        });
+
+
+        // Assign points to nearest centroid
+        points.forEach(p => {
+            let minDist = Infinity;
+            centroids.forEach(c => {
+                const d = Math.hypot(p.x - c.x, p.y - c.y);
+                if (d < minDist) {
+                    minDist = d;
+                    p.centroid = c;
+                }
+            });
+        });
+
+        let autoClickCheckbox = document.getElementById("autoClick");
+        let showAnimationFacor = document.getElementById("showAnimation").checked ? 5 : 1;
+        let showAnimationSlowFacor = document.getElementById("showAnimationSlow").checked ? 3 : 1;
+
+        draw(isKStep = true);
+
+
+
+        setTimeout(() => {
+            nextStepButton.disabled = autoClickCheckbox.checked;
+            document.getElementById("messageWorking").innerHTML = "";
+            if (autoClickCheckbox.checked) {
+                kMeansStep();
+            }
+
+        }, 1000 * showAnimationFacor * showAnimationSlowFacor);
+
+    }
+
+    d3.select("#initialize").on("click", initialize);
+    d3.select("#initializeCentroids").on("click", initializeCentroids);
+    d3.select("#nextStep").on("click", kMeansStep);
+
+    initialize();
+
+</script>
+<!--
+    
+-->
+
+</html>
