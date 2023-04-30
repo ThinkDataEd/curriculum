@@ -22,7 +22,7 @@
             </div>
         </header>
 
-        <main class="mdl-layout__content" style="padding: 16px !important;">
+        <main class="mdl-layout__content" style="padding: 16px !important;" id="content-main">
             <!-- <h2>K-means algorithm - Introduction to data science</h2> -->
 
             <br>
@@ -74,10 +74,27 @@
             <label for="showPointColor">Show Point Color</label>
             <input type="checkbox" id="showPointColor" name="showPointColor" checked>
             <br>
+            <div>
+                Page Zoom
+                <button onclick="zoomIn()">+</button>
+                <button onclick="zoomOut()">-</button>
+            </div>
         </main>
     </div>
 </body>
 <script>
+
+var scale = 1.0; // Initial scale value
+
+function zoomIn() {
+  scale += 0.1; // Increase the scale value by 0.1
+  document.body.style.zoom =   scale*100 + '%'; // Set the new scale value
+}
+
+function zoomOut() {
+  scale -= 0.1; // Decrease the scale value by 0.1
+  document.body.style.zoom =   scale*100  + '%'; // Set the new scale value
+}
 
 
     let autoClickCheckbox = document.getElementById("autoClick");
@@ -175,7 +192,7 @@
     var numClustersInput = document.getElementById("numClusters");
     var initType = document.getElementById("init-type").value;
     var numClustersProposalInput = document.getElementById("num-clusters-proposal");
-    
+
 
     function initialize() {
         // autoClickCheckbox.checked = false;
