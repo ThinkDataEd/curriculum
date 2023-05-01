@@ -24,3 +24,8 @@
     Author: James Molyneux
 
     [https://labs.idsucla.org/extras/animations/gotdata/gotdata.html](https://labs.idsucla.org/extras/animations/gotdata/gotdata.html)
+
+6. K-means Clustering
+    Author: Shuhao Wu
+
+    [https://curriculum.idsucla.org/apps/kmeans.html](https://curriculum.idsucla.org/apps/kmeans.html)
