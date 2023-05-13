@@ -68,6 +68,8 @@ hide:
 <details>
 <summary>Monitoring Instructions</summary>
 <br>
+<a href="https://youtu.be/EV-uEh_0ogM">Teacher Campaign Monitoring Tool</a>
+<br>
 <a href="https://youtu.be/Xg9Fl9arETw">Student Campaign Monitoring Tool</a>
 </details></td>
 
