@@ -371,6 +371,9 @@ nav:
 
 google_analytics: ['UA-149684808-1', 'curriculum.idsucla.org']
 
+gtag:
+  - G-K2MVBFZP2D
+
 #plugins:
 #    - search:
 #        lang: en
