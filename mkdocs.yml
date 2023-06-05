@@ -378,6 +378,7 @@ extra:
   analytics:
     provider: google
     property: G-K2MVBFZP2D
+    property: UA-149684808-1
 
 #plugins:
 #    - search:
