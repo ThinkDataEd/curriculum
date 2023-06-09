@@ -348,6 +348,12 @@ nav:
         - 'Unit 3 Vocabulary' : vocabulary/unit3.md
         - 'Unit 4 Vocabulary' : vocabulary/unit4.md
 
+    - Lab Code: 
+        - 'Unit 1 Lab Code' : lab_code/unit1.md
+        - 'Unit 2 Lab Code' : lab_code/unit2.md
+        - 'Unit 3 Lab Code' : lab_code/unit3.md
+        - 'Unit 4 Lab Code' : lab_code/unit4.md
+
     - PDF: 
         - 'IDS_Curriculum' : download/curriculum.md
         - 'IDS_LMRs' : download/lmrs.md
@@ -367,7 +373,7 @@ nav:
 
     - Applications: applications.md    
    
-    - About: about.md
+    - Updates: updates.md
 
 google_analytics: ['UA-149684808-1', 'curriculum.idsucla.org']
 
