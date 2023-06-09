@@ -84,7 +84,7 @@ plausible height value for anyone with a particular arm span.
         mean(~height, data = armspan_64)
         #64
 
-        armspan_68 <- filter(arm_span, armspan==68)>
+        armspan_68 <- filter(arm_span, armspan==68)
         mean(~height, data = armspan_68)
         #68
 
