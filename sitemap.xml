@@ -6,11 +6,6 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>http://curriculum.idsucla.org/about/</loc>
-         <lastmod>2023-06-09</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
          <loc>http://curriculum.idsucla.org/applications/</loc>
          <lastmod>2023-06-09</lastmod>
          <changefreq>daily</changefreq>
@@ -32,6 +27,11 @@
     </url>
     <url>
          <loc>http://curriculum.idsucla.org/table/</loc>
+         <lastmod>2023-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://curriculum.idsucla.org/updates/</loc>
          <lastmod>2023-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -82,6 +82,26 @@
     </url>
     <url>
          <loc>http://curriculum.idsucla.org/download/resources/</loc>
+         <lastmod>2023-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://curriculum.idsucla.org/lab_code/unit1/</loc>
+         <lastmod>2023-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://curriculum.idsucla.org/lab_code/unit2/</loc>
+         <lastmod>2023-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://curriculum.idsucla.org/lab_code/unit3/</loc>
+         <lastmod>2023-06-09</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://curriculum.idsucla.org/lab_code/unit4/</loc>
          <lastmod>2023-06-09</lastmod>
          <changefreq>daily</changefreq>
     </url>
