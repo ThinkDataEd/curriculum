@@ -17,7 +17,7 @@
         <link rel="next" href="../unit2/">
       
       <link rel="icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.1">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.6">
     
     
       
@@ -25,7 +25,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.402914a4.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ded33207.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.a0c5b2b5.min.css">
@@ -3243,6 +3243,48 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#lab1c" class="md-nav__link">
+    Lab1C
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1d" class="md-nav__link">
+    Lab1D
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1e" class="md-nav__link">
+    Lab1E
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1f" class="md-nav__link">
+    Lab1F
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1g" class="md-nav__link">
+    Lab1G
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1h" class="md-nav__link">
+    Lab1H
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -3523,6 +3565,48 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#lab1c" class="md-nav__link">
+    Lab1C
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1d" class="md-nav__link">
+    Lab1D
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1e" class="md-nav__link">
+    Lab1E
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1f" class="md-nav__link">
+    Lab1F
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1g" class="md-nav__link">
+    Lab1G
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab1h" class="md-nav__link">
+    Lab1H
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -3542,15 +3626,72 @@
 
 <h3 id="lab1a">Lab1A</h3>
 <ul>
-<li>Type these two commands into your console:<pre><code>data(cdc)
-View(cdc)
+<li>Objective: Students will learn how to import a pre-loaded dataset onto their Environment Pane and view the data in a spreadsheet. They will understand the importance of syntax and learn the syntax for making plots.<pre><code>data(_)
+View(_)
+?_
+dim(_)
+nrow(_)
+ncol(_)
+names(_)
+bargraph(~x, data)
+histogram(~x, data)
+xyplot(y~x, data)
 </code></pre>
 </li>
 </ul>
 <h3 id="lab1b">Lab1B</h3>
 <ul>
-<li>Type these two commands into your console:<pre><code>data(cdc)
-View(cdc)
+<li>Objective: Students will learn what type of plot is appropriate for a categorical variable versus a numerical variable and will create plots that allow for the comparison of groups.<pre><code>str(_)
+histogram(~x, data, nint)
+bargraph(~x, data, groups)
+histogram(~x | y, data)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab1c">Lab1C</h3>
+<ul>
+<li>Objective: Students will learn that loading data onto the Enviornment Pane from participatory sensing campaigns uses a different process (export, upload, import).</li>
+</ul>
+<h3 id="lab1d">Lab1D</h3>
+<ul>
+<li>Objective: Students will learn the command to create a dotplot to analyze a numerical variable and how to stack graphs in order to compare their center, shape and spread. They will also learn how to create a new data frame that contains a subset of the food habits data.<pre><code>dotPlot( ~x | y, data, nint, cex, layout, main)
+&lt;-, ==, &lt;, &gt;
+filter(data, …)
+head(x)
+tail(x)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab1e">Lab1E</h3>
+<ul>
+<li>Objective: Students will learn How to create a scatterplot that uses both faceting and the groups argument as well as how to facet a histogram and dotplot on more than one variable.<pre><code>xyplot( y ~ x | u, groups, data)
+histogram(~x | u + v, data)
+dotPlot(~x | u + v, data)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab1f">Lab1F</h3>
+<ul>
+<li>Objective: Students will learn how to fix variable names, change the types of variables (ex: string to numeric) and recode categorical variables (ex: number to category).<pre><code>rename(data, …)
+as.numeric(x)
+mutate(data, …)
+tally(~x, data)
+recode(x, …)
+save(data, file)
+as.factor(x)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab1g">Lab1G</h3>
+<ul>
+<li>Objective: Students will learn how to create two-way frequency tables to detect relationships between categorical variables.<pre><code>tally(~y | x, data, format, margin)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab1h">Lab1H</h3>
+<ul>
+<li>Objective: Students will learn how to format the timeuse data such that each row represents a typical day for each person in the group
+and combine all of the ideas and topics they have learned to find out how their class spends their time.<pre><code>timeuse_format(_)
 </code></pre>
 </li>
 </ul>
@@ -3596,7 +3737,7 @@ View(cdc)
     <script id="__config" type="application/json">{"base": "../..", "features": "tabs = true - content.tooltips", "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.b78d2936.min.js"></script>
+      <script src="../../assets/javascripts/bundle.51198bba.min.js"></script>
       
     
   </body>
