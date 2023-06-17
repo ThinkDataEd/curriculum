@@ -1,3 +1,9 @@
+
+!!! warning "Unit 1 Lab Ojectives and Functions:"
+        The documentation below lists the functions that will appear in each lab. The lab itself will explain how to use each function. For more examples, refer to the RStudio Lab Codes and Functions file.
+
+
+
 ### Lab1A
 
 * Objective: Students will learn how to import a pre-loaded dataset onto their Environment Pane and view the data in a spreadsheet. They will understand the importance of syntax and learn the syntax for making plots.
