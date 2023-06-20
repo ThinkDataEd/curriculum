@@ -8,22 +8,17 @@ Although we might take its existence for granted today, the Nutrition Facts labe
 
 2) What is my snacking pattern?
 
-3) How good am I at rating the healthiness of my snack?
-
-4) Do I tend to eat healthy? How do I compare to my class? How does my class compare to the rest
-    of the country?
+3) Do I tend to eat healthy? How do I compare to my class? How does my class compare to the rest of the country?
 
 ###**2. Objectives:**
 Upon completing this campaign, students will have the enduring understanding that interpreting
-graphs provides useful information regarding the data graphed. We can explore the relationship
-between two sets of data, and if there is a relationship, it is driven by the change in the independent
-variable, x, which causes a change in the dependent variable, y.
+graphs provides useful information about the real world as viewed through the data represented in the graphs. We can explore the relationship between two variables, and if there is a relationship, it is driven by the change in the independent variable, x, which causes a change in the dependent variable, y.
 
 ###**3. Survey Questions:** (students will enter data about the snacks they consume):
 
-**Consider Data:** Before students submit a survey for their first snack, a class consensus of the meaning of the variables must be reached so that proper analysis and interpretations can be made.Two examples are listed below:
+**Consider Data:** Before students submit a survey for their first snack, a class consensus of the meaning of the variables must be reached so that proper analysis and interpretations can be made. Two examples are listed below:
 
-`when` - If students have different definitions of <i>evening</i>, it might make it hard to compare snacking patterns across students. As a class, come to a consensus about what time intervals are considered <i>morning</i>, <i>afternoon</i>, <i>evening</i> and <i>night</i>. 
+`when` - If students have different definitions of "<i>evening</i>", it might make it hard to compare snacking patterns across students. As a class, come to a consensus about what time intervals are considered <i>morning</i>, <i>afternoon</i>, <i>evening</i> and <i>night</i>. 
 
 `cost` - If a student has a bowl of cereal as a snack, are they going to include the cost of the entire box or are they going to calculate the unit cost for one serving? This needs to be a class decision.
 
@@ -64,7 +59,7 @@ Discuss data collection issues. What makes it hard? Does this affect the quality
 of snacks are you less likely to enter?
     
 ###**5. Technical Analysis:**
-Students will use the Dashboard and Plot App.
+Students will use the Dashboard and Plot App as well as RStudio.
 
 ###**6. Guiding Questions:**
 a. At what time of day do we eat the healthiest snacks?
@@ -73,8 +68,7 @@ b. When did you snack? How does this compare to the rest of the class?
 
 c. Typically, how healthy were your snacks? How does this compare to the class as a whole?
 
-d. How good are we at identifying healthy and unhealthy snacks?
+d. What were some of the characteristics of healthy snacks? What about unhealthy snacks?
 
 ###**7. Report:**
-Students will complete a practicum in which they answer a statistical question based on the food
-habits data collected.
+Students will complete a practicum in which they answer a statistical question based on the Food Habits data collected.
