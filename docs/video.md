@@ -5,7 +5,7 @@ hide:
 ---
 
 <style>
-  .md-nav--primary .md-nav__link[for=__toc] ~ .md-nav {
+.md-nav--primary .md-nav__link[for=__toc] ~ .md-nav {
     display: none;
   }
 .md-sidebar {
@@ -147,3 +147,62 @@ hide:
 </tbody>
 
 </table>
+
+
+
+<button id="openModal">Open Modal</button>
+
+
+  <div id="videoModal">
+    <div id="videoContainer">
+      <span class="close">&times;</span>
+      <iframe id="videoFrame" src="" frameborder="0" allowfullscreen></iframe>
+    </div>
+  </div>
+
+<style>
+#videoModal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+#videoContainer {
+  position: relative;
+  margin: 10% auto;
+  padding: 20px;
+  width: 80%;
+  max-width: 800px;
+}
+
+#videoFrame {
+  width: 80%;
+	aspect-ratio: 4 / 3;
+}
+
+.close {
+  color: #fff;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  cursor: pointer;
+}
+</style>
+
+<script>
+document.getElementById("openModal").addEventListener("click", function() {
+  document.getElementById("videoModal").style.display = "block";
+  document.getElementById("videoFrame").src = "https://www.youtube.com/embed/KypWN53UCJI";
+});
+
+document.getElementsByClassName("close")[0].addEventListener("click", function() {
+  document.getElementById("videoModal").style.display = "none";
+  document.getElementById("videoFrame").src = "";
+});
+</script>
