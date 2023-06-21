@@ -368,8 +368,7 @@ nav:
     
     - AppDownloads: download/app.md
     
-    - How to..Video: 
-        - 'How to .. Video' :  video.md
+    - How to..Video:  video.md
 
     - Applications: applications.md    
    
