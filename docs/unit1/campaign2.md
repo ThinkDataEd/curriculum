@@ -5,33 +5,29 @@ There have been many reports lately about people spending a large amount of time
 technology and the Internet. This raises some questions about time use:
 
 1) How do I spend my time?
-    
-2) Is there a difference between how females and males spend their time?
 
-3) Do we spend too much time doing homework?
+2) Are there groups that spend more time on certain activities than other groups?
 
-4) How is my time use similar or different to other Americans?
+3) How is my time use similar or different to other Americans?
 
 ###**2. Objectives:**
 Upon completing this campaign, students will have compared themselves to the U.S. population to
-find how they are similar to and/or different from other people in terms of time use. They will use
+find whether they are similar in some ways and different in other ways. They will use
 single and multivariable plots, summary statistics, and frequency tables to find similarities and
-differences between groups of students, and between students and other residents of the United
+differences between groups of students and between students and other residents of the United
 States.
 
-###**3. Survey Questions:** (students will enter data for the activities in which they participate):
+###**3. Survey Questions:** (students will enter data for the activities in which they participated):
 
 **Consider Data:** The categories below are similar to the categories found in the American Time Use Survey (ATUS), which provides nationally representative estimates of how Americans spend their time. Having similar variables allows students to compare the way they spend their time to the official ATUS dataset. Before students begin collecting data, it is important to discuss different activities in their day and how they might be classified. A class consensus of the meaning of the variables must be reached so that proper analysis and interpretations can be made. 
 
-**Note:** Students cannot double dip their time. For example, if they read during class, then those minutes spent reading do not count towards “read” but instead toward “school”.
-Below are the definitions of some of the variables in the ATUS documentation.
+**Note:** Students cannot double dip their time. For example, if they read during class, then those minutes spent reading do not count towards “read” but instead toward “school”. Below are the definitions of some of the variables in the ATUS documentation.
 
 `socialize` - This category includes face-to-face social communication and hosting or attending social functions.
 
-`consumer purchases` - Time spent purchasing or renting consumer goods, regardless of the mode or place of purchase or rental (in person, online, via telephone, at home, or in a store) is classified into this category. Subcategories in this section include those for time spent purchasing gasoline, time spent purchasing groceries, time  spent purchasing other food items, and time spent on all other shopping activities.
+`consumer purchases` - This includes time spent purchasing or renting consumer goods (regardless of whether it was in person, online, via telephone, at home, or in store).
 
-**Note:** The ATUS variable `leisure` combines many activities in which people might participate, such as watching television, reading, relaxing or thinking, playing computer, board, or card games, using a computer or the Internet for personal interest, playing or listening to music, and other activities, such as attending arts, cultural, and entertainment events.
-We have opted to list specific leisure activities that high school students might be more likely to engage in and made them separate variables.
+**Note:** The ATUS variable `leisure` combines many activities in which people might participate (such as watching television, reading, relaxing or thinking, playing computer, board, or card games, using a computer or the Internet for personal interest, playing or listening to music, and attending arts, cultural, and entertainment events). We have opted to list specific leisure activities that high school students might be more likely to engage in and made them separate variables.
 
 
 | **Prompt**                                                          |**Variable**| **Data Type**                   |
@@ -60,7 +56,7 @@ We have opted to list specific leisure activities that high school students migh
 | AUTOMATIC                                                           | time       | time                            |
 | AUTOMATIC                                                           | date       | date                            |
 
-**When should you take the survey?** It is recommended that students keep a log of their time and submit one survey at the end of each day, accounting for every minute of each day of the campaign. It might be helpful to split the log into three intervals where students pause and think about what they did before school, after school and in the evening. Once the log is complete and  accounts for all 1,440 minutes of their day, students should then submit the survey corresponding to that day.
+**When should you take the survey?** It is recommended that students keep a log of their time and submit one survey at the end of each day, accounting for every minute of each day of the campaign. It might be helpful to split the log into three intervals where students pause and think about what they did before school, after school and in the evening. Once the log is complete and accounts for all 1,440 minutes of their day, students should then submit the survey corresponding to that day.
 
 **How long should the campaign last?** At least five days (maximum of ten days). Ideally, two of these days would include a weekend.
 
@@ -72,23 +68,21 @@ After the first day, monitor the data collection and ensure that each student ha
 Discuss data collection issues. What makes it hard? Does this affect the quality of data?
 
 ###**5. Technical Analysis:**
-RStudio and American time use interactive graphic
+RStudio and American time use interactive graphic.
 
 Single/Multivariable plots: histograms, bar graphs, scatterplots, etc.
 
 Numerical summaries: mean, median, MAD, standard deviation. 
 
-Frequency tables: One and two-way
-tables.
+Frequency tables: One and two-way tables.
 
 ###**6. Guiding Questions:**
 1) On average, how long do students think they spend on homework?
 
-2) Do males or females take longer to groom themselves?
+2) Are there certain activities that take up most of the time in our day?
 
 3) Are there groups of students who spend their time similarly to one another?
 
 ###**7. Report:**
-Students will complete a practicum in which they answer a statistical question based on the time-use
-data collected.
+Students will complete a practicum in which they answer a statistical investigative question based on the time-use data collected.
 
