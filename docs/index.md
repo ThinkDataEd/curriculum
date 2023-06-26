@@ -47,7 +47,7 @@ if (window.location == window.top.location) {
             }
         } else {
         window.location.href = window.location.origin+ "/#login";
-        }ß
+        }
     }
     };
     xhr.onerror = function (e) {
