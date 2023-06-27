@@ -1,5 +1,3 @@
-##**Campaign Guidelines – Food Habits**
-
 ###**1. The Issue:**
 
 Although we might take its existence for granted today, the Nutrition Facts label was not always required to be on food packages. It wasn't until 1990 that the Nutrition Labeling Education Act mandated food companies to provide information on food labels to help consumers make wiser choices about what they eat. This raises some interesting questions:

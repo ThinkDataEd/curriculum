@@ -1,5 +1,3 @@
-##***<u>Practicum: Teen Depression</u>***
-
 ###**Objective:**
 Using the CDC data set, students will apply their learning of statistical concepts to determine possible
 factors that might be associated with depression in teens. They will create graphical representations to

@@ -1,5 +1,3 @@
-##***<u>Practicum: The Data Cycle & My Food Habits</u>***
-
 ###**Objective:**
 Students will apply what they have learned by engaging in the Data Cycle using the data they
 collected from the Food Habits campaign. Students will present their findings to the class.

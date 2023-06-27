@@ -1,5 +1,3 @@
-##***<u>Lesson 17: Interpreting Two-Way Tables</u>***
-
 ###**Objective:**
 Students will calculate conditional, marginal, and joint frequencies and explain what they mean in the
 context of the data.

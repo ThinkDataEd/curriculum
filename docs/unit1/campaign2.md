@@ -1,5 +1,3 @@
-##**Campaign Guidelines – Time Use**
-
 ###**1. The Issue:**
 There have been many reports lately about people spending a large amount of time interacting with
 technology and the Internet. This raises some questions about time use:
