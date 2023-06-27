@@ -1,5 +1,3 @@
-##***<u>Lesson 5: So Many Questions* [The Data Cycle: Pose Questions]</u>**
-
 ###**Objective:**
 Students will learn the features of a good statistical investigative question.
 
