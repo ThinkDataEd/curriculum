@@ -1,30 +1,35 @@
-##***<u>Lab 1C - Export, Upload, Import</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+###
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Whose data? Our data.**
 * Throughout the previous labs, we've been using data that was already loaded in RStudio.
 
     – But what if we want to analyze our own data?
     
-* This lab is all about learning how to load our own participatory sensing data into RStudio
+* This lab is all about learning how to load our own participatory sensing data into RStudio.
 
 ###**Export, upload, import**
-* Before we can perform any analysis, we have to load data into R.
+* Before we can perform any analysis, we have to load data into ```R```.
 
 * When we want to get our participatory sensing data into RStudio, we:
 
-    – *Export* the data from your class’ campaign page.
+    – <span style="color:darkgreen;">Export</span> the data from your class’ campaign page.
 
-    – *Upload* data to *RStudio* server
+    – <span style="color:darkgreen;">Upload</span> data to *RStudio* server
 
-    – *Import* the data into R's working memory
+    – <span style="color:darkgreen;">Import</span> the data into R's working memory
+
+    * *Note: You can watch the following video for a step-by-step walk-through of the process:*
+    <div align="right"><iframe width="560" height="315"
+    src="https://www.youtube.com/embed/4mChtv5qy1g" allowfullscreen>
+    </iframe><br><a href="https://www.youtube.com/embed/4mChtv5qy1g">https://www.youtube.com/embed/4mChtv5qy1g</a></div>
 
 ###**Exporting**
-* To begin, go to the IDS Tools page.
+* <span style="color:midnightblue;">**To begin, go to the IDS Tools page**</span>
 
-    – Click on the *Campaign Manager*
+    – <span style="color:midnightblue;">**Click on the</span> <span style="color:darkgreen;">Campaign Manager**</span>
 
-    – Fill in your username and password and click *Sign in.*
+    – <span style="color:midnightblue;">**Fill in your username and password and click "Sign in".**</span>
 
     <img src="../../img/1xc0a.png" />
 
@@ -36,67 +41,67 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * After logging in, your screen should look similar to this.
 
-* Click on the dropdown arrow for the campaign you are interested in downloading.
+* <span style="color:midnightblue;">**Click on the dropdown arrow for the campaign you are interested in downloading.**</span>
 
-    – At this point in the course, it will most likely be the Food Habits campaign
+    – At this point in the course, it will most likely be the Food Habits campaign.
 
 ###**Dropdown Arrow**
-* The options for the dropdown menu will look like this.
+* The options for the dropdown menu will look like this:
 
     <img src="../../img/1xc0c.png" />
 
-* Look for the option labeled *Export Data*. Click it.
+* <span style="color:midnightblue;">**Click on the option labeled</span> <span style="color:darkgreen;">Export Data.**</span>
 
     – Remember where you save your file!
 
 ###**Exporting**
-* When you clicked the *Export* link a *.csv* file was saved on your computer.
+* When you clicked the <span style="color:darkgreen;">Export</span> link, a *.csv* file was saved on your computer.
 
-* Now that the file is on your computer, we need to *upload* it into RStudio.
+* Now that the file is on your computer, we need to <span style="color:darkgreen;">upload</span> it into RStudio.
 
 ###**Uploading**
-* Look at the four different *panes* in RStudio.
+* <span style="color:midnightblue;">**Look at the four different *panes* in RStudio.**</span>
 
-    – Find the *pane* with a *Files* tab.
+    – <span style="color:midnightblue;">**Find the *pane* with a</span> <span style="color:darkgreen;">Files</span> <span style="color:midnightblue;">tab.**</span>
 
-    – Click it!
+    – <span style="color:midnightblue;">**Click it!**</span>
 
     <img src="../../img/1xc0d.png" />
 
-* Click the button on the *Files* pane that says *Upload*.
+* <span style="color:midnightblue;">**Click the button on the Files pane that says "Upload".**</span>
 
-    – Click on *Choose File* and find the SurveyResponses.csv file you saved to your computer.
+    – <span style="color:midnightblue;">**Click on "Choose File" and find the *SurveyResponses.csv* file you saved to your computer.**</span>
 
-    – Hit the *OK* button.
+    – <span style="color:midnightblue;">**Hit the *OK* button.**</span>
 
 * Voila!
 
-    – If you look in the *Files* pane, you should be able to find your data!
+    – If you look in the <span style="color:darkgreen;">Files</span> pane, you should be able to find your data!
 
 ###**Upload vs. Import**
-* By uploading your data into RStudio you've really only given yourself access to it.
+* By <span style="color:darkgreen;">Uploading</span> your data into RStudio you've really only given yourself access to it.
 
-    – Don't believe me? Look at the *Environment* pane ... where's your data?
+    – Don't believe me? Look at the <span style="color:darkgreen;">Environment</span> pane ... where's your data?
 
-* To actually use the data we need to *Import* it into your computer's memory.
+* To actually use the data we need to <span style="color:darkgreen;">Import</span> it into your computer's memory.
 
-* To compute more quickly and efficiently, R will only keep a few data sets stored in its memory at a time.
+* To compute more quickly and efficiently, ```R``` will only keep a few data sets stored in its memory at a time.
 
-    – By importing data, you are telling R that this is a data set that is important to store it in its memory so you can use it.
+    – By importing data, you are telling ```R``` that this is a data set that is important to store it in its memory so you can use it.
 
 ###**Importing**
 
 <img src="../../img/1xc0e.png" />
 
-* On the *Files* pane, find the data you want to import.
+* <span style="color:midnightblue;">**On the Files pane, find the data you want to</span> <span style="color:darkgreen;">import</span><span style="color:midnightblue;">.**</span>
 
-* Click on the name of the file and choose the option *Import Data set...*
+* <span style="color:midnightblue;">**Click on the name of the file and choose the option "Import Data set..."**</span>
 
 ###**Data Preview**
 
 <img src="../../img/1xc0ee.png" />
 
-* You can give your data a name using the *Name*: field in the lower left corner.
+* You can give your data a name using the <span style="color:darkgreen;">Name:</span> field in the lower left corner.
 
 ###**What's in a name?**
 * The name you give your data is what you will use when you write code to analyze your data.
@@ -116,7 +121,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * This is the actual code ```RStudio``` uses to read your data when you clicked the *Import* button.
 
-    – So instead of using the ```RStudio``` buttons, we can actually *Import* by writing code similar to what was output into the console!
+    – So instead of using the ```RStudio``` buttons, we can actually <span style="color:darkgreen;">Import</span> by writing code similar to what was output into the console!
 
     – This will come in handy later in the course.
 
@@ -124,18 +129,16 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 <img src="../../img/1xc0f.png" />
 
-* The *Files* tab has a few other features to help keep you organized.
+* The <span style="color:darkgreen;">Files</span> tab has a few other features to help keep you organized.
 
-    – *SurveyResponse* probably isn't the best name for your data. Click *Rename* to give it a clearer name.
+    – *SurveyResponse* probably isn't the best name for your data. Click <span style="color:darkgreen;">Rename</span> to give it a clearer name.
 
     – Often, it’s helpful to give your data file the same name as when you import your data.
 
-    – So in this case, we could name our data file *foodhabits.csv*
+    – So in this case, we could name our data file *food.csv*.
 
-###**Export, upload, import**
+###**Analysis Time**
 
-* After you *Export, Upload, Import* your data you're ready to analyze.
+* After you <span style="color:darkgreen;">Export</span>, <span style="color:darkgreen;">Upload</span>, <span style="color:darkgreen;">Import</span> your data, you're ready to analyze.
 
-* **```View``` your data, select a variable and try to make an appropriate plot for that variable.**
-
-    – If you're having issues, make sure you're spelling the name of your data correctly.
+* <span style="color:midnightblue;">**```View``` your data, then select a variable and try to make an appropriate plot for that variable.**</span>
