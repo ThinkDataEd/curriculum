@@ -1,5 +1,5 @@
-##***<u>Lab 1A - Data, Code & RStudio</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+###
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Welcome to the labs!**
 
@@ -17,17 +17,17 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – The CDC is a federal institution that studies public health.
 
-* Type these two commands into your console:
+* <span style="color:midnightblue;">**Type these two commands into your console:**</span>
 
         data(cdc)
         View(cdc)
 
 
-* **Describe the data that appeared after running ```View(cdc)```:**
+* <span style="color:firebrick;">**Describe the data that appeared after running ```View(cdc)```:**</span>
 
-    – ***Who* is the information about?**
+    – <span style="color:firebrick;">***Who* is the information about?**</span>
 
-    – **What sorts of information about them was collected?**
+    – <span style="color:firebrick;">**What sorts of information about them was collected?**</span>
 
 * To find out more information about the ```cdc``` data, type the command below into your console.
 
@@ -49,9 +49,9 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * If need be, re-type the command you used to ```View``` your data. Then answer the following:
 
-    – **Based on the data, describe a few characteristics about the first observation.**
+    – <span style="color:firebrick;">**Based on the data, describe a few characteristics about the first observation.**</span>
 
-    – **What does the first column tell us about our observations?**
+    – <span style="color:firebrick;">**What does the first column tell us about our observations?**</span>
 
 * In order to describe the first observation, notice that you had to look at the first row of the spreadsheet. Each row, in this case, describes a person.
 
@@ -63,26 +63,28 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * RStudio's main window is composed of four *panes*
 
-* Find the pane that has a *tab* titled *Environment* and click on the *tab*.
+* <span style="color:midnightblue;">**Find the pane that has a *tab* titled *Environment* and click on the *tab*.**</span>
 
     – This pane contains a list of everything that's currently available for R to use.
 
     – Notice that R knows we have our ```cdc``` data loaded.
 
-* **How many students are in our ```cdc``` data set?**
+* <span style="color:firebrick;">**How many students are in our ```cdc``` data set?**</span>
 
-* **How many variables were measured for each student?**
+* <span style="color:firebrick;">**How many variables were measured for each student?**</span>
 
-###**Type the following commands into the console**
+###**Some New Functions**
 
-    dim(cdc)
-    nrow(cdc)
-    ncol(cdc)
-    names(cdc)
+* <span style="color:midnightblue;">**Type the following commands into the console:**</span>
 
-* **Which of these functions tell us the number of observations in our data?**
+        dim(cdc)
+        nrow(cdc)
+        ncol(cdc)
+        names(cdc)
 
-* **Which of these functions tell us the number of variables?**
+* <span style="color:firebrick;">**Which of these functions tell us the number of observations in our data?**</span>
+
+* <span style="color:firebrick;">**Which of these functions tell us the number of variables?**</span>
 
 ###**First Steps**
 
@@ -99,22 +101,24 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 ###**Syntax matters**
 
-* **Run the following commands and write down what happens after each. Which does R understand?**
+* <span style="color:midnightblue;">**Run the following commands.</span> <span style="color:firebrick;">What happens after each command?** </span>
 
         Names(cdc)
         NAMES(cdc)
         names(cdc)
         names(CDC)
 
+* <span style="color:firebrick;">**Which does ```R``` understand?**</span>
+
 ###**R's most important syntax**
 
 * Most of the commands you will be using follow the syntax below:
 
-        function (y~x, data = ____ )
+        function (y ~ x, data = ____ )
 
 * To create graphs or plots you need to provide ```R``` with the following:
 
-    – The name of the R function, often the plot’s name, that tells the computer how to create your graph.
+    – The name of the ```R``` function, often the plot’s name, that tells the computer how to create your graph.
 
     - The variable(s) containing the information we want the function to use.
 
@@ -130,15 +134,13 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 ###**Syntax in action**
 
-        function (y~x, data = ____ )
-
-* Search through the different panes. Find and then click on the *Plots* tab.
+* <span style="color:midnightblue;">**Search through the different panes. Find and then click on the *Plots* tab.**</span>
 
     - To get back to the slides, find and then click on the *Viewer* tab.
 
-* **Which one of these plots would be useful for answering the question: *Is it unusual for students in the CDC dataset to be taller than 1.8 meters?* **
+* <span style="color:firebrick;">**Which one of these plots would be useful for answering the question: *Is it unusual for students in the CDC dataset to be taller than 1.8 meters?* **</span>
 
-* Run the three commands below then answer the question that follows.
+* <span style="color:midnightblue;">**Run the three commands below then answer the question that follows.**</span>
 
         histogram(~height, data = cdc)
 
@@ -146,7 +148,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
         xyplot(weight~height, data = cdc)
 
-* **Do you think it’s unusual for students in the data to be taller than 1.8 meters? Why or why not?**
+* <span style="color:firebrick;">**Do you think it’s unusual for students in the data to be taller than 1.8 meters? Why or why not?**</span>
 
     - Hint: Use the arrow keys on the *Plots* tab to toggle between the plots.
 
@@ -154,14 +156,12 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * After completing the lab, answer the following questions:
 
-    – **What is *public health* and do we collect data about it?**
+    – <span style="color:firebrick;">**What is *public health* and do we collect data about it?**</span>
 
-    – **How do you think our data was collected? Does it include every high school aged
-    student in the US?**
+    – <span style="color:firebrick;">**How do you think our data was collected? Does it include every high school aged student in the US?** </span>
 
-    – **How might the CDC use this data? Who else could benefit from using this data?**
+    – <span style="color:firebrick;">**How might the CDC use this data? Who else could benefit from using this data?**</span>
 
-    – **Write the code to visualize the distribution of weights of the students in the CDC
-    data with a histogram. What is the *typical* weight?**
+    – <span style="color:midnightblue;">**Write the code to visualize the distribution of weights of the students in the CDC data with a ```histogram```.</span> <span style="color:firebrick;">What is the *typical* weight?**</span>
 
-    – **Write the code to create a bargraph to visualize the distribution of how often students ate fruit. About how many students did not eat fruit over the previous 7 days?**
+    – <span style="color:midnightblue;">**Write the code to create a bargraph to visualize the distribution of how often students ate fruit.</span> <span style="color:firebrick;">About how many students did not eat fruit over the previous 7 days?**</span>
