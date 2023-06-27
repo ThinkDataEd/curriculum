@@ -1,5 +1,3 @@
-##***<u>Lesson 10: Making Histograms</u>***
-
 ###**Objective:**
 Students will understand that a histogram represents observations grouped into bins, and that bars are
 drawn to show how many observations (or what proportion of the observations) lie in each bin, rather than

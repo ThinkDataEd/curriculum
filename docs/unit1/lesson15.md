@@ -1,5 +1,3 @@
-##***<u>Lesson 15: Americans’ Time on Task</u>***
-
 ###**Objective:**
 Introduction to Time Use Campaign. Students will explore a multimedia graphic that incorporates data from the American Time Use Survey to spark their interest about how they spend their time. They will begin to learn how to evaluate reports that make claims based on data by reading The Washington Post article Teens Are Spending More Time Consuming Social Media, On Mobile Devices.
 ###**Materials:**

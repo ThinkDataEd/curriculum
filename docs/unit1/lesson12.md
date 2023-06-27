@@ -1,5 +1,3 @@
-##***<u>Lesson 12: Exploring Food Habits</u>***
-
 ###**Objective:**
 Students will experience the full Data Cycle, and for the first time will do so with data they have collected.
 They will use the Dashboard and PlotApp, tools that are easy to learn. This first time, the teacher will
