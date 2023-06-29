@@ -1,5 +1,5 @@
-##***<u>Lab 1F - A Diamond in the Rough</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+###
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Messy data? Get used to it**
 * Since lab 1, the data we've been using has been pretty *clean*.
@@ -29,11 +29,11 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – *"blue"*, *"Blue"*, *"blu"*, ...
 
-* Numerical variables might have been *input incorrectly*. For example, if we're talk about people's height in inches:
+* Numerical variables might have been *input incorrectly*. For example, if we're talking about people's height in inches:
 
     – *64.7*, *6.86*, *676*, ...
 
-* Numerical variables might be *incorrectly coded* as categorical variables (Or vice-versa)
+* Numerical variables might be *incorrectly coded* as categorical variables (or vice-versa)
 
     – "64.7", "68.6", "67.6"
 
@@ -49,12 +49,12 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
     – These thousands of people combined together give an idea about how much time the typical person living in the US spends doing various activites.
 
 ###**Load and go:**
-* Type the following commands into your console:
+* <span style="color:midnightblue;">**Type the following commands into your console:**</span>
 
         data(atu_dirty)
         View(atu_dirty)
 
-* **Just by viewing the data, what parts of our ATU data do you think need cleaning?**
+* <span style="color:firebrick;">**Just by viewing the data, what parts of our ATU data do you think need cleaning?**</span>
 
 ###**Description of ATU Variables**
 * The description of the actual variables:
@@ -83,7 +83,9 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
         atu_cleaner <- rename(atu_dirty, age = V1,
                     gender = V2)   
 
-* **Use the example code and the variable information on the previous slide to rename the rest of the variables in ```atu_dirty```.**
+* <span style="color:midnightblue;">**Use the example code and the variable information on the previous slide to rename the rest of the variables in ```atu_dirty```.**</span>
+
+* <span style="color:firebrick;">**Write down the  new names you chose for the rest of the variables in ```atu_dirty```.**</span>
 
     – Names should be short, contain no spaces and describe what the variable is related to. So use abbreviations to your heart's content.
 
@@ -92,7 +94,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – It's a value made up of *characters* (i.e. letters)
 
-* The following are example of strings. Notice that each **string** has quotes before and after.
+* The following are examples of strings. Notice that each **string** has quotes before and after.
 
         "string"    
         "A1B2c3"
@@ -100,7 +102,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
         "0015"
     
 ###**Numbers are words? (Sometimes)**
-* In some cases, R will treat values that look like *numbers* as if they were *strings*.
+* In some cases, ```R``` will treat values that look like *numbers* as if they were *strings*.
 
 * Sometimes we do this on purpose.
 
@@ -112,10 +114,10 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * Look at the ```str```ucture of your data and the variable descriptions from a few slides back:
 
-    – **Write down the variables that should be *numeric* but are improperly coded as *strings* or *characters*.**
+    – <span style="color:firebrick;">**Write down the variables that should be *numeric* but are improperly coded as *strings* or *characters*.**</span>
 
 ###**Changing strings into numbers**
-* To fix this problem, we need to tell R to think of our *numeric* variables as numeric variables.
+* To fix this problem, we need to tell ```R``` to think of our *"numeric"* variables as numeric variables.
 
 * We can do this with the ```as.numeric``` function.
 
@@ -134,19 +136,19 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
                 ___ = as.numeric(___))
 
 
-* **Once you have this code working, use a similar line of code to correctly code the other *numeric* variables as numbers.**
+* <span style="color:midnightblue;">**Once you have this code working, use a similar line of code to correctly code the other *numeric* variables as numbers.**</span>
 
 ###**Deciphering Categorical Variables**
 * We mentioned earlier that we sometimes code categorical variables as numbers.
 
-    – For example, our gender variable uses ```"01"``` and ```"02"``` for ```"Male"``` and ```"Female"```, respectively.
+    – For example, our ```gender``` variable uses ```"01"``` and ```"02"``` for ```"Male"``` and ```"Female"```, respectively.
 
 * It's often much easier to analyze and interpret when we use more descriptive categories, such as ```"Male"``` and ```"Female"```.
 
 ###**Factors and Levels**
-* R has a special name for *categorical* variables, called *factors*.
+* ```R``` has a special name for *categorical* variables, called *factors*.
 
-* R also has a special name for the different *categories* of a *categorical* variable.
+* ```R``` also has a special name for the different *categories* of a *categorical* variable.
 
     – The individual categories are called *levels*.
 
@@ -154,12 +156,12 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
         tally(~gender, data = atu_cleaner)
 
-* **Use similar code as we used above to write down the levels for the three factors in our data.**
+* <span style="color:firebrick;">**Use similar code as we used above to write down the levels for the three factors in our data.**</span>
 
 ###**A level by any other name...**
 * If we know that ```'01'``` means ```'Male'``` and ```'02'``` means ```'Female'``` then we can use the following code to recode the *levels* of *gender*.
 
-* Type the following command into your console:
+* <span style="color:midnightblue;">**Type the following command into your console:**</span>
 
         atu_cleaner <- mutate(atu_cleaner, gender =
                 recode(gender,
@@ -189,7 +191,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
     – and ```"02"``` will now be ```"Female"```.
 
 ###**Finish it off!**
-* **Recode the categorical variable about whether the person surveyed had a physical challenge or not. The coding is currently:**
+* <span style="color:midnightblue;">**Recode the categorical variable about whether the person surveyed had a physical challenge or not. The coding is currently:**</span>
 
     – ```"01"```: Person surveyed *did not* have a physical challenge.
 
@@ -203,28 +205,33 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
     
     (3) Saves a copy of the cleaned data (see next slide).
 
+    * *NOTE: You can watch this video to learn about RScripts:*
+    <div align="right"><iframe width="560" height="315"
+    src="https://www.youtube.com/embed/OPqjL9AzmkE" allowfullscreen>
+    </iframe><br><a href="https://www.youtube.com/embed/OPqjL9Azmk">https://www.youtube.com/embed/OPqjL9Azmk</a></div>
+
 ###**The final lines**
 * The last few lines of your script are extremely important because they will save all of your work.
 
 * Be sure to ```View``` your data and check its ```str```ucture to make sure it looks clean and tidy before saving.
 
-Run the code below:
+* <span style="color:midnightblue;">**Run the code below:**</span>
 
         atu_clean <- atu_cleaner
 
-* This code will create a new data frame in your *Environment* called atu_clean which is a final copy of atu_cleaner
+* This code will create a new data frame in your *Environment* called ```atu_clean``` which is a final copy of ```atu_cleaner```.
 
-    – If atu_clean is swept from your *Environment* all of the changes you made will NOT be saved
+    – If ```atu_clean``` is swept from your *Environment* all of the changes you made will NOT be saved.
 
     – You would need to re-run the script to clean the data again
 
-* To permanently save your changes you need to save the file as an R data file or ```.Rda```
+* To permanently save your changes you need to save the file as an ```R``` data file or ```.Rda```
 
-Run the code below:
+* <span style="color:midnightblue;">**Run the code below:**</span>
 
         save(atu_clean, file = "atu_clean.Rda")
 
-* Look in your *Files* pane for the *atu_clean.Rda* file
+* Look in your *Files* pane for the ```atu_clean.Rda``` file
 
     – This is as permanent copy of your clean atu data
 
@@ -235,15 +242,15 @@ Run the code below:
 ###**Flex your skills**
 * Now that you have learned some cleaning data basics, it’s time to revisit the ```food``` data.
 
-Run the code below:
+* <span style="color:midnightblue;">**Run the code below:**</span>
 
         histogram(~calories | healthy_level, data = food)
 
-* **Use the ```as.factor()``` function to convert ```healthy_level``` into a categorical variable and re-run the ```histogram``` function.**
+* <span style="color:midnightblue;">**Use the ```as.factor()``` function to convert ```healthy_level``` into a categorical variable and re-run the ```histogram``` function.**</span>
 
     – Notice that the ```healthy_level``` categories are now numbers as opposed to tick-marks. This is an improvement but an even better solution would be to ```recode``` the categories.
 
-* **Recode the ```healthy_level``` categories and re-run the ```histogram``` function.**
+* <span style="color:midnightblue;">**Recode the ```healthy_level``` categories and re-run the ```histogram``` function.**</span>
 
     – "1" = "Very Unhealthy"
 
@@ -257,4 +264,4 @@ Run the code below:
 
 * If your ```food``` data is cleared from your ```Environment```, the changes that you made to the ```healthy_level``` variable will not be saved.
 
-* To save your changes permanently save your ```food``` file as an R data file.
+* <span style="color:midnightblue;">**To save your changes permanently save your ```food``` file as an ```R``` data file.**</span>
