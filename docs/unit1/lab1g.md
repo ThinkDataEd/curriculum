@@ -1,5 +1,5 @@
-##***<u>Lab 1G - What's the FREQ?</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+###
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Clean it up!**
 * In [Lab 1F](lab1f.md), we saw how we could *clean* data to make it easier to use and analyze.
@@ -10,9 +10,9 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * In this lab, we'll learn how we can create frequency tables to detect relationships between categorical variables.
 
-    – For the sake of consistency, rather than using the data that you cleaned, you will use the pre-loaded ATU data.
+    – <span style="color:midnightblue;">**For the sake of consistency, rather than using the data that you cleaned, you will use the pre-loaded ATU data.**</span>
 
-    – Use the ```data()``` function to load the ```atu_clean``` data file to use in this lab.
+    – <span style="color:midnightblue;">**Use the ```data()``` function to load the ```atu_clean``` data file to use in this lab.**</span>
 
 ###**How do we summarize categorical variables?**
 * When we're dealing with categorical variables, we can't just calculate an **average** to describe a *typical* value.
@@ -24,7 +24,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 ###**Frequency tables?**
 * When it comes to categories, about all you can do is *count* or *tally* how often each category comes up in the data.
 
-* Fill in the blanks below to answer the following: **How many more *females* than *males* are there in our ATU data?**
+* <span style="color:firebrick;">**Fill in the blanks below to answer the following: How many more *females* than *males* are there in our ATU data?**</span>
 
         tally(~ ____, data = ____)
 
@@ -33,7 +33,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * For example, what if we wanted to answer the question:
 
-    – **Does one ```gender``` seem to have a higher occurrence of physical challenges than the other? If so, which one and explain your reasoning?**
+    – Does one ```gender``` seem to have a higher occurrence of physical challenges than the other?
 
 * We could use the following plot to try and answer this question:
 
@@ -41,9 +41,11 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 <img src="../../img/1xg0a.png" />
 
-* The split bargraph helps us get an idea of the answer to the question, but we need to provide precise values.
+* The split ```bargraph``` helps us get an idea of the answer to the question, but we need to provide precise values.
 
-* **Use a line of code, that’s similar to how we facet plots, to obtain a tally of the number of people with physical challenges and their genders.**
+* <span style="color:midnightblue;">**Use a line of code, that’s similar to how we facet plots, to obtain a ```tally``` of the number of people with physical challenges and their genders.**</span>
+
+    - <span style="color:firebrick;">**Write down the resulting table.**</span>
 
 ###**Interpreting 2-way frequency tables**
 * Recall that there were 1153 more women than men in our data set.
@@ -52,18 +54,16 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 * Instead of using *counts* we use *percentages*.
 
-* Include: ```format = "percent"``` as an option to the code you used to make your 2-way frequency table. Then answer this question again:
+* <span style="color:midnightblue;">**Include: ```format = "percent"``` as an option to the code you used to make your 2-way frequency table.**</span>
 
-    – **Does one ```gender``` seem to have a higher occurrence of physical challenges than the other? If so, which one and explain your reasoning?**
-
-    – **Did your answer change from before? Why?**
+    – <span style="color:firebrick;">**Does one ```gender``` seem to have a higher occurrence of physical challenges than the other? If so, which one and explain your reasoning?**</span>
 
 * It’s often helpful to display totals in our 2-way frequency tables.
 
-    – To include them, include ```margins = TRUE``` as an option in the tally function.
+    – To include them, include ```margins = TRUE``` as an option in the ```tally``` function.
 
 ###**Conditional Relative Frequencies**
-* There is as difference between ```phys_challenge | gender``` and ```gender | phys_challenge```.
+* There is as difference between ```phys_challenge | gender``` and ```gender | phys_challenge```!
 
         tally(~phys_challenge | gender, data = atu_clean, margin = TRUE)
 
@@ -81,6 +81,7 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
         ##   Female          5048            775
         ##   Total           9188           1305
 
+###**Conditional Relative Frequencies, continued**
 * At first glance, the two-way frequency tables might look similar (especially when the ```margin``` option is excluded). Notice, however, that the totals are different.
 
 * The totals are telling us that ```R``` calculates conditional frequencies by column!
@@ -91,11 +92,11 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – In the second two-way frequency table the groups being compared are the people with ```No difficulty``` and those that ```Has difficulty``` on the distribution of gender.
 
-* **Add the option ```format = "percent"``` to the first tally function. How were the percents calculated? Interpret what they mean.**
+* <span style="color:firebrick;">**Add the option ```format = "percent"``` to the first ```tally``` function. How were the percents calculated? Interpret what they mean.**</span>
 
 ###**On your own**
-* **Describe what happens if you create a 2-way frequency table with a numerical variable and a categorical variable.**
+* <span style="color:firebrick;">**Describe what happens if you create a 2-way frequency table with a numerical variable and a categorical variable.**</span>
 
-* **How are the types of statistical questions that 2-way frequency tables can answer different than 1-way frequency tables?**
+* <span style="color:firebrick;">**How are the types of statistical investigative questions that 2-way frequency tables can answer different than 1-way frequency tables?**</span>
 
-* **Which gender has a higher rate of *part time employment*?**
+* <span style="color:firebrick;">**Which ```gender``` has a higher rate of *part time employment*?**</span>
