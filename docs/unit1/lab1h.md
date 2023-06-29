@@ -1,5 +1,5 @@
-##***<u>Lab 1H - Our time.</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+###
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**We've come a long way**
 
@@ -15,35 +15,35 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
 ###**First steps first.**
 
-* *Export, Upload, Import*  the data from your class’ Time Use campaign.
+* <span style="color:midnightblue;">***Export, Upload, Import*  the data from your class’ *Time Use* campaign.**</span>
 
 * The data, as-is, is very messy and hard to interpret/analyze.
 
-    – Fill in the blank with the name of your imported data to format it:
+    – <span style="color:midnightblue;">**Fill in the blank with the name of your imported data to format it:**</span>
 
         timeuse <- timeuse_format( ______ )
 
 * This function formats/cleans the data so that each row represents a typical day for each student in the class
 
-* Hint: Search your *History* tab for the code to save your formatted timeuse data as an R data file (.Rda)
+* <span style="color:midnightblue;">**Hint: Search your *History* tab for the code to save your formatted ```timeuse``` data as an ```R``` data file (.Rda)**</span>
 
 ###**timeuse_format specifics**
 
-* In case you're wondering, the timeuse_format function:
+* In case you're wondering, the ```timeuse_format``` function:
 
     – Takes each student's daily data and adds up all of the time spent doing each activity for each day.
 
-    – The time spent on each activity for each day is then average together to create a *typical* day in the life of each student.
+    – The time spent on each activity for each day is then averaged together to create a *typical day* in the life of each student.
 
 ###**Exploring your data**
 
 * Start by getting familiar with your ```timeuse``` data:
 
-    – **How many observations and variables are there?**
+    – <span style="color:firebrick;">**How many observations and variables are there?**</span>
 
-    – **What are the names of the variables?**
+    – <span style="color:firebrick;">**What are the names of the variables?**</span>
 
-    – **Which row represents YOUR *typical* day?**
+    – <span style="color:firebrick;">**Which row represents YOUR *typical day*?**</span>
 
 ###**How do we spend our time?**
 
@@ -51,10 +51,10 @@ Directions: Follow along with the slides and answer the questions in **bold** fo
 
     – To do this, we'll perform a statistical investigation.
 
-* **State and answer two statistical questions based on our *research question*.**
+* <span style="color:firebrick;">**State and answer two statistical questions based on our *research question*.**</span>
 
-    – **Also, state one way in which your personal data is typical and one way that it *differs* from the rest of the class.**
+    – <span style="color:firebrick;">**Also, state one way in which your personal data is *typical* and one way that it *differs* from the rest of the class.**</span>
 
-* **Justify your answers by using appropriate statistical graphics and summary tables.**
+* <span style="color:firebrick;">**Justify your answers by using appropriate statistical graphics and summary tables.**</span>
 
-    – **If you subset your data, explain why and how it benefited your analysis.**
+    – <span style="color:firebrick;">**If you subset your data, explain why and how it benefited your analysis.**</span>
