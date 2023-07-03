@@ -94,11 +94,11 @@ same age. The ages vary, so there is variability in the data***</span>).
 
     |**Feature**|**Explanation**|
     |--------|--------|
-    |The variable(s) of interest is/are clear|Yes. This seems to be a comparison investigative question <br>comparing the number of friends within the sport played.|
-    |The group or population we are interested in is clear| No. Teacher should ask: “Who did the researchers want to learn about?”<br> <span style="color:grey">These stick figures</span>.|
-    |The question can be answered with the data| Yes. The researchers collected data on the number <br>of friends and the sport the stick figures played.|
-    |The question asks about the whole group, not an individual|No. The word someone gives the impression that we are<br> interested in one observation.|
-    |The intention is clear (e.g., summary, comparison, association)|The intent is somewhat clear. This seems to be a comparison investigative question between <br>the sport the stick figures played and the number of friends each stick figure had. <br>Teacher should ask: “What is the variable that is being compared? <br>Which groups within the sport variable are you comparing (all groups, specific groups)?”.|
+    |The variable(s) of interest is/are clear|Yes. This seems to be a comparison investigative question comparing the number of friends within the sport played.|
+    |The group or population we are interested in is clear| No. Teacher should ask: “Who did the researchers want to learn about?” <span style="color:grey">These stick figures</span>.|
+    |The question can be answered with the data| Yes. The researchers collected data on the number of friends and the sport the stick figures played.|
+    |The question asks about the whole group, not an individual|No. The word someone gives the impression that we are interested in one observation.|
+    |The intention is clear (e.g., summary, comparison, association)|The intent is somewhat clear. This seems to be a comparison investigative question between the sport the stick figures played and the number of friends each stick figure had. <br>Teacher should ask: “What is the variable that is being compared? <br>Which groups within the sport variable are you comparing (all groups, specific groups)?”.|
     |The question is one that is worth investigating, is interesting, and has a purpose|For students, this might be something interesting.|
 
     Reworded investigative question after going through the criteria: 
