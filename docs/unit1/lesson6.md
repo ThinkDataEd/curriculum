@@ -11,7 +11,7 @@ recorded in order to attain consistency.
     src="https://www.youtube.com/embed/I0vYwqkoktM" allowfullscreen>
     </iframe><br><a href="https://www.youtube.com/embed/I0vYwqkoktM">https://www.youtube.com/embed/I0vYwqkoktM</a></div>
 
-    **Note:** If the video is unavailable, search for “"Jamie Oliver's Food Revolution What's In a
+    **Note:** If the video is unavailable, search for "Jamie Oliver's Food Revolution What's In a
     Sundae". The video should be 5-6 minutes in length.
 
 2. Nutrition Facts labels or pictures (collected previously by students)
@@ -61,9 +61,9 @@ DS journals. This should be done individually.
 6. Once they have collected their facts, ask students to compare and contrast their data with their
 team members. They need to respond to:
 
-    100. How are their **data sets** similar?
+    100. How are their **datasets** similar?
 
-    100. How are their **data sets** different?
+    100. How are their **datasets** different?
 
 7. Gather the students as a whole group and ask them to share out the similarities and differences
 they discussed. Be sure to draw responses that show that while some facts collected were the
