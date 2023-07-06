@@ -29,3 +29,8 @@
     Author: Shuhao Wu
 
     [https://curriculum.idsucla.org/apps/kmeans.html](https://curriculum.idsucla.org/apps/kmeans.html)
+
+7. Real-time Data Collection App
+    Author: Shuhao Wu
+
+    [https://collection.idsucla.org/](https://collection.idsucla.org/)
