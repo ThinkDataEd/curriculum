@@ -1,36 +1,37 @@
 ## **Applications**
 
-1. Titanic Shuffle  
+1. [Real-time Data Collection App](https://collection.idsucla.org/ "Collect data on one or two numerical variables from your class. No login required.")  
     Author: Shuhao Wu
 
-    [https://idsucla.shinyapps.io/titanic/](https://idsucla.shinyapps.io/titanic/)
 
-2. Mean, Median and Mode  
-    Author: Shuhao Wu
 
-    [https://www.idsucla.org/wp-content/uploads/mean.html](https://www.idsucla.org/wp-content/uploads/mean.html)
-
-3. Violin Plots  
-    Author: Albert Cao
-
-    [https://idsucla.shinyapps.io/shinyapp_atus/](https://idsucla.shinyapps.io/shinyapp_atus/)
-
-4. Palmer Penguins  
-    Author: James Molyneux and Heidi Bullock
-
-    [https://idsucla.shinyapps.io/PalmerPenguin/](https://idsucla.shinyapps.io/PalmerPenguin/)
-
-5. Births Data Animation  
+2. [Births Data Animation](https://labs.idsucla.org/extras/animations/gotdata/gotdata.html)  
     Author: James Molyneux
 
-    [https://labs.idsucla.org/extras/animations/gotdata/gotdata.html](https://labs.idsucla.org/extras/animations/gotdata/gotdata.html)
 
-6. K-means Clustering
+
+3. [Mean, Median, Mode](https://www.idsucla.org/wp-content/uploads/mean.html)  
     Author: Shuhao Wu
 
-    [https://curriculum.idsucla.org/apps/kmeans.html](https://curriculum.idsucla.org/apps/kmeans.html)
 
-7. Real-time Data Collection App
+
+4. [Titanic Shuffle](https://idsucla.shinyapps.io/titanic/)  
     Author: Shuhao Wu
 
-    [https://collection.idsucla.org/](https://collection.idsucla.org/)
+
+
+5. [K-means Clustering](https://curriculum.idsucla.org/apps/kmeans.html)  
+    Author: Shuhao Wu
+
+
+
+6. [Violin Plots](https://idsucla.shinyapps.io/shinyapp_atus/)  
+    Author: Albert Cao
+
+
+
+7. [Palmer Penguins](https://idsucla.shinyapps.io/PalmerPenguin/)  
+    Authors: James Molyneux and Heidi Bullock
+
+    
+
