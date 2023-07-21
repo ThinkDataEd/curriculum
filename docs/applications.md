@@ -1,7 +1,7 @@
 ## **Applications**
 
-1. [Real-time Data Collection App](https://collection.idsucla.org/ "Collect data on one or two numerical variables from your class. No login required.")  
-    Author: Shuhao Wu
+1. [Real-time Data Collection App](https://collection.idsucla.org/ "Author: Shuhao Wu")  
+    Collect data on one or two numerical variables from your class. No login required.
 
 
 
