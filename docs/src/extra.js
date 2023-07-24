@@ -35,12 +35,18 @@ function setCookie20230723(cname, cvalue, exdays) {
           Swal.fire({
               icon: 'info',
               title: 'Login Required.',
+              iconHtml: '<img style="width: 100px;height: 100px;" src="//curriculum.idsucla.org/img/IDS-logo.png">',
               showCancelButton: true,
               cancelButtonText: 'Visitors: Request Access',
               showConfirmButton: true,
               confirmButtonText: 'Teachers: Login now (Portal)',
               reverseButtons: true,
-              footer: 'Contact support@idsucla.org if any question'
+              footer: 'Contact support@idsucla.org if any question',
+              allowOutsideClick:false,
+              allowEscapeKey:false,
+              showLoaderOnConfirm:true,
+              showLoaderOnDeny:true,
+
           }).then((result) => {
               if (result.isConfirmed) {
                   console.log('confirmed');
