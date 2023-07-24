@@ -3590,12 +3590,19 @@
 
 <p><span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://curriculum.idsucla.org</a>.</span></span></p>
 <script>
+function setCookie20230723(cname, cvalue, exdays) {
+  const d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  let expires = "expires="+ d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
+
 if (window.location == window.top.location) {
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     const bypass = urlParams.get('bypass');
     if(bypass=='true'){
-        console.log('bypass=true')
+        setCookie20230723('bypass', 'true', 365);
     }
 }
 
