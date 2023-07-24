@@ -24,6 +24,11 @@ theme:
     features:
         tabs = true 
         - content.tooltips
+extra_javascript:
+    - src/sweetalert2/sweetalert2.all.min.js
+    - src/extra.js
+extra_css:
+    - src/extra.css
 
 nav:
     - Home: index.md

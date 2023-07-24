@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
 .blink_text {  
     animation:1s blinker ease infinite;
     -webkit-animation:1s blinker ease infinite;
@@ -24,42 +24,11 @@
      50% { opacity: 0.2; }
      100% { opacity: 1.0; }
     }
-</style>
+</style> -->
 
-<span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://curriculum.idsucla.org</a>.</span></span>
-
-<script>
-if (window.location == window.top.location) {
-    document.getElementById("demo").innerHTML="";
-    document.getElementById("demo").style.visibility='hidden';
-}else{
-    document.getElementById("demo").innerHTML="https://curriculum.idsucla.org";
-    var xhr = new XMLHttpRequest();
-    xhr.open("GET", window.location.origin+ "/app/user/whoami?client=Curri", true);
-    xhr.onload = function (e) {
-    if (xhr.readyState === 4) {
-        if (xhr.status === 200) {
-        console.log(xhr.responseText);
-            if(xhr.responseText.includes("success") ){
-
-            }else{
-                window.location.href = window.location.origin+ "/#login";
-            }
-        } else {
-        window.location.href = window.location.origin+ "/#login";
-        }
-    }
-    };
-    xhr.onerror = function (e) {
+<!-- <span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://curriculum.idsucla.org</a>.</span></span> -->
 
 
-
-        console.error(xhr.statusText);
-        window.location.href = window.location.origin+ "/#login";
-    };
-    xhr.send(null); 
-}
-</script>
 
 # Introduction to Data Science Curriculum
 ![IDS-logo](img/IDS-logo.png)
