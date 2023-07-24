@@ -1,7 +1,9 @@
 ## **Applications**
 
-1. [Real-time Data Collection App](https://collection.idsucla.org/ "Author: Shuhao Wu")  
+1. [Real-time Data Collection App](https://collection.idsucla.org/ )  
     Collect data on one or two numerical variables from your class. No login required.
+
+    Author: IDS Team
 
 
 
@@ -11,17 +13,17 @@
 
 
 3. [Mean, Median, Mode](https://www.idsucla.org/wp-content/uploads/mean.html)  
-    Author: Shuhao Wu
+    Author: IDS Team
 
 
 
 4. [Titanic Shuffle](https://idsucla.shinyapps.io/titanic/)  
-    Author: Shuhao Wu
+    Author: IDS Team
 
 
 
 5. [K-means Clustering](https://curriculum.idsucla.org/apps/kmeans.html)  
-    Author: Shuhao Wu
+    Author: IDS Team
 
 
 
