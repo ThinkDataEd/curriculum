@@ -125,6 +125,9 @@
 .md-sidebar {
     display: none !important;
 }
+.md-header{
+    pointer-events: none;
+}
 </style>
 
 
