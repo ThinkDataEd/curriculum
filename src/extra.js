@@ -50,11 +50,11 @@ function setCookie20230723(cname, cvalue, exdays) {
           }).then((result) => {
               if (result.isConfirmed) {
                   console.log('confirmed');
-                  var url = "https://portal2023.idsucla.org/#curriculum/";
+                  var url = "http://portal2023.idsucla.org/#curriculum/";
                   document.location = url;
               } else if (result.dismiss === Swal.DismissReason.cancel){
                   console.log('cancelled');
-                  var url = "https://idsucla.org/ids-request";
+                  var url = "http://idsucla.org/ids-request";
                   document.location = url;
               }
   
