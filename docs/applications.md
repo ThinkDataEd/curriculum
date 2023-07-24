@@ -37,3 +37,11 @@
 
     
 
+<style>
+.md-nav--primary .md-nav__link[for=__toc] ~ .md-nav {
+    display: none !important;
+  }
+.md-sidebar {
+    display: none !important;
+}
+</style>
