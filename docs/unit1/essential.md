@@ -61,9 +61,6 @@ analysis step of the Data Cycle, though humans need to tell the computer which p
 ###**<u>[Lesson 13: RStudio Basics](lesson13.md)</u>**
 The computer has a syntax, and it can only understand if you speak its language.
 
-- #### [Lab 1A: Data, Code & RStudio](lab1a.md)
-
-    This is Lab 1A.
 
 ###**<u>[Lesson 14: Variables, Variables, Variables](lesson14.md)</u>**
 To examine whether two (or more) variables are related, we can plot their distributions on the
