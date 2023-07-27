@@ -8,6 +8,7 @@
     <summary>Campaign Instructions</summary>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/RLIOoLhakg8')">Managing Campaign Responses</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/4mChtv5qy1g')">Export, Upload, Import</a><br>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/ZTGPbhgqIc0')">Managing Campaign Settings</a><br>
     </details>
     </div>
   </div>
