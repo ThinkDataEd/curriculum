@@ -17,7 +17,7 @@
         <link rel="next" href="../unit3/">
       
       <link rel="icon" href="../../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.1">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.1.6">
     
     
       
@@ -25,7 +25,7 @@
       
     
     
-      <link rel="stylesheet" href="../../assets/stylesheets/main.402914a4.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.ded33207.min.css">
       
         
         <link rel="stylesheet" href="../../assets/stylesheets/palette.a0c5b2b5.min.css">
@@ -3259,6 +3259,55 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#lab2c" class="md-nav__link">
+    Lab2C
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2d" class="md-nav__link">
+    Lab2D
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2e" class="md-nav__link">
+    Lab2E
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2f" class="md-nav__link">
+    Lab2F
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2g" class="md-nav__link">
+    Lab2G
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2h" class="md-nav__link">
+    Lab2H
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2i" class="md-nav__link">
+    Lab2I
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -3491,6 +3540,55 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#lab2c" class="md-nav__link">
+    Lab2C
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2d" class="md-nav__link">
+    Lab2D
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2e" class="md-nav__link">
+    Lab2E
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2f" class="md-nav__link">
+    Lab2F
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2g" class="md-nav__link">
+    Lab2G
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2h" class="md-nav__link">
+    Lab2H
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab2i" class="md-nav__link">
+    Lab2I
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -3514,15 +3612,75 @@
 </div>
 <h3 id="lab2a">Lab2A</h3>
 <ul>
-<li>Type these two commands into your console:<pre><code>data(cdc)
-View(cdc)
+<li>Objective: Students will learn to use R to answer statistical questions that can be answered by calculating the mean, median and mean absolute deviation (MAD).<pre><code>mean(~x, data)
+median(~x, data)
+add_line(vline)
+MAD(~x, data)
 </code></pre>
 </li>
 </ul>
 <h3 id="lab2b">Lab2B</h3>
 <ul>
-<li>Type these two commands into your console:<pre><code>data(cdc)
-View(cdc)
+<li>Objective: Students will learn learn how to calculate and interpret additional summaries of distributions such as: minimums, maximums, ranges, quartiles and IQRs. They will also write a custom function.<pre><code>min(~x, data)
+max(~x, data)
+range(~x, data)
+quantile(~x, data, p)
+iqr(~x, data)
+bwplot(y ~ x, data)
+favstats(~x, data)
+diff(x)
+abs(x)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab2c">Lab2C</h3>
+<ul>
+<li>Objective: Students will learn how to simulate a playlist in R using the rep() function,
+randomly choose a song from the playlist using the sample() function, create multiple repetitions using the do() function and create the same random event using set.seed().<pre><code>rep(x, times)
+sample(x, size, replace)
+do(x)
+set.seed(x)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab2d">Lab2D</h3>
+<ul>
+<li>Objective: Students will learn how to Use the mutate() and rowSums() functions to calculate the probability of more complex events.<pre><code>rowSums(x)
+/
+</code></pre>
+</li>
+</ul>
+<h3 id="lab2e">Lab2E</h3>
+<ul>
+<li>Objective: Students will learn how to use permuted data to gauge how likely an event occurs by chance and investigate the question: <em>Are women in slasher films more likely to survive until the end of the film than men?</em><pre><code>No new functions
+</code></pre>
+</li>
+</ul>
+<h3 id="lab2f">Lab2F</h3>
+<ul>
+<li>Objective: Students will learn how to use permuted data to gauge whether a numerical summary of the data is significant or occurred by chance and investigate the question: <em>Is there any evidence to suggest that those who survived paid a higher fare than those who died on the Titanic?</em><pre><code>No new functions
+</code></pre>
+</li>
+</ul>
+<h3 id="lab2g">Lab2G</h3>
+<ul>
+<li>Objective: Students will learn how to use the merge() function to put data together from multiple datasets in order to investigate the question: <em>How do people’s personality colors and/or sports participation affect their stress levels?</em><pre><code>merge(x, y, by)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab2h">Lab2H</h3>
+<ul>
+<li>Objective: Students will learn how mean and standard deviation affect the shape of a normal curve and recognize when a normal model seems appropriate for real data.<pre><code>plotDist(‘norm’, mean, sd)
+histogram(x, fit = “normal”)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab2i">Lab2I</h3>
+<ul>
+<li>Objective: Students will use pnorm() to calculate probabilities from a normal distribution, 
+rnorm() to simulate random draws from a normal distribution and use qnorm() to calculate quantiles from a normal distribution.<pre><code>pnorm(q, mean, sd)
+rnorm(n, mean, sd)
+qnorm(p, mean, sd)
 </code></pre>
 </li>
 </ul>
@@ -3568,7 +3726,7 @@ View(cdc)
     <script id="__config" type="application/json">{"base": "../..", "features": "tabs = true - content.tooltips", "search": "../../assets/javascripts/workers/search.208ed371.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../../assets/javascripts/bundle.b78d2936.min.js"></script>
+      <script src="../../assets/javascripts/bundle.51198bba.min.js"></script>
       
         <script src="../../src/sweetalert2/sweetalert2.all.min.js"></script>
       
