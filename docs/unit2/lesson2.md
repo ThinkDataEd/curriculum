@@ -30,8 +30,8 @@ value is also referred to as the mean, or average.
 7. *Mr. Jones Mile Run Times* handout ([LMR_2.3_Mr. Jones Run Times](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf))
 
 ###**Vocabulary:**
-measures of central tendency (or center), typical, measures of variability (or spread), mean, average,
-balancing point
+[measures of central tendency (or center)](../../vocabulary/unit2/#measures of central tendency (or center) "a central or typical value for a probability distribution"){ .md-button } [typical](../../vocabulary/unit2/#typical "“mean” or “average”; expected values"){ .md-button } [measures of variability (or spread)](../../vocabulary/unit2/#measures of variability (or spread) "how far away the data points tend to fall from the center"){ .md-button } [mean](../../vocabulary/unit2/#mean "a calculated "central" value of a set of numbers, where you add the numbers and divide by how many there are"){ .md-button } [average](../../vocabulary/unit2/#average "an alternative word for mean"){ .md-button }
+[balancing point](../../vocabulary/unit2/#balancing point "the point on a number line where the data distribution is balanced"){ .md-button }
 
 ###**Essential Concepts:**
 

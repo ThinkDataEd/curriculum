@@ -17,7 +17,7 @@ and will understand how medians compare and contrast with the mean.
 5. Exported, printed, and reproduced class’s *Personality Color* survey data
 
 ###**Vocabulary:**
-median
+[median](../../vocabulary/unit2/#median "the middle value in a group of ordered observations"){ .md-button }
 
 ###**Essential Concepts:**
 

@@ -17,7 +17,7 @@ subset their data.
 5. Data collection devices
 
 ###**Vocabulary:**
-subsets
+[subsets](../../vocabulary/unit2/#subset "a set of which all the variables are contained in another set"){ .md-button }
 
 ###**Essential Concepts:**
 
