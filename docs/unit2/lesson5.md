@@ -1,5 +1,4 @@
-##***<u>Lesson 5: Human Boxplots</u>***
-
+##
 ###**Objective:**
 Students will learn how and when to use boxplots to compare groups of data. They will learn how to
 compute and interpret another measure of spread: the IQR.

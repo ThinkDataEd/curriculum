@@ -1,5 +1,4 @@
-##***<u>Lesson 2: What Does Mean Mean?</u>***
-
+##
 ###**Objective:**
 Students will learn that values that gather around the center of a distribution show the typical value. This
 value is also referred to as the mean, or average.

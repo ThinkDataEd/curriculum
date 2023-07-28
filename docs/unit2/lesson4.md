@@ -1,5 +1,4 @@
-##***<u>Lesson 4: How Far is it from Typical?</u>***
-
+##
 ###**Objective:**
 Students will understand that the mean of the absolute deviations (MAD) is a way to assess the degree of
 variation in the data from the mean and adjusts for differences in the number of points in the data set (*n*).

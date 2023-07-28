@@ -1,5 +1,4 @@
-##***<u>Lesson 7: Plot Match</u>***
-
+##
 ###**Objective:**
 Students will learn how to create a boxplot from an already-established dotplot.
 

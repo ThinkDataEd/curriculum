@@ -1,5 +1,4 @@
-##***<u>Lesson 6: Face Off</u>***
-
+##
 ###**Objective:**
 Students will informally compare two or more distributions using their knowledge of shape, center, and
 spread to answer statistical questions. They will learn how to find the difference between two means and
