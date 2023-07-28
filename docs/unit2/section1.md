@@ -52,7 +52,7 @@ that we understand the information provided in summaries of data.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 1. Students will use complex sentences to construct summary statements about their understanding of
-data, how it is collected, how it used and how to work with it.
+data, how it is collected, how it is used and how to work with it.
 
 2. Students will engage in partner and whole group discussions and presentations to express their
 understanding of data science concepts.
@@ -65,7 +65,7 @@ collect their data about their personality styles.
 
 <ins>*Data Files:*</ins>
 
-1. Students’ *Personality Color* survey data *(colors)*
+1. Students’ *True Colors Personality* survey data *(colors)*
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)
