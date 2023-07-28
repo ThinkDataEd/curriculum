@@ -1,5 +1,4 @@
-##***<u>Lesson 1: What is Your True Color?</u>***
-
+##
 ###**Objective:**
 Students will collect data that might tell them about their personality type, and will understand how to
 subset their data.
