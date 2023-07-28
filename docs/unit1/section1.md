@@ -1,4 +1,4 @@
-#Unit1, Section1: Data Are All Around
+#Unit 1, Section 1: Data Are All Around
 Instructional Days: 7
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>

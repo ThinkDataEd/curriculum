@@ -1,4 +1,4 @@
-#Unit2, Section3: What Are the Chances That You Are Stressing or Chilling?
+#Unit 2, Section 3: What Are the Chances That You Are Stressing or Chilling?
 Instructional Days: 8
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>

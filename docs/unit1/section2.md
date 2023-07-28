@@ -1,4 +1,4 @@
-#Unit1, Section2: Visualizing Data
+#Unit 1, Section 2: Visualizing Data
 Instructional Days: 14
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>

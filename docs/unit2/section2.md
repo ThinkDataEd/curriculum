@@ -1,4 +1,4 @@
-#Unit2, Section2: How Likely Is It?
+#Unit 2, Section 2: How Likely Is It?
 Instructional Days: 7
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>

@@ -1,4 +1,4 @@
-#Unit2, Section4: What’s Normal?
+#Unit 2, Section 4: What’s Normal?
 Instructional Days: 5
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
