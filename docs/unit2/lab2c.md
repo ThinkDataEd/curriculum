@@ -1,4 +1,4 @@
-##***<u>Lab 2C – Which Song Plays Next?</u>***
+##
 Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
 ###**A new direction**

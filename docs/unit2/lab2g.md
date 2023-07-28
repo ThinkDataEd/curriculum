@@ -1,4 +1,4 @@
-##***<u>Lab 2G - Getting It Together</u>***
+##
 Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
 ###**Putting data together**

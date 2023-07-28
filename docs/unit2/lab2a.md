@@ -1,4 +1,4 @@
-##***<u>Lab 2A - All About Distributions</u>***
+##
 Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
 ###**In the beginning...**

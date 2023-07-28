@@ -1,4 +1,4 @@
-##***<u>Lab 2E - The Horror Movie Shuffle</u>***
+##
 Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
 ###**Playing with permutations**

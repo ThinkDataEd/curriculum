@@ -1,4 +1,4 @@
-##***<u>Lab 2B - Oh the Summaries ...</u>***
+##
 Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
 ###**Just the beginning**

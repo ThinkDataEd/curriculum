@@ -1,4 +1,4 @@
-##***<u>Lab 2H - Eyeballing Normal</u>***
+##
 Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
 ###**What's normal?**

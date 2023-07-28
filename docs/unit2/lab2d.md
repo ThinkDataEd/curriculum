@@ -1,4 +1,4 @@
-##***<u>Lab 2D - Queue it up!</u>***
+##
 Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
 ###**Where we left off**
