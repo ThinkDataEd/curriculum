@@ -1,4 +1,4 @@
-#Unit2, Section1: What is Your True Color?#
+#Unit 2, Section 1: What is Your True Color?#
 Instructional Days: 7
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
