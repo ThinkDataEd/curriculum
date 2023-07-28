@@ -1,5 +1,4 @@
-##***<u>Lesson 18: What’s Your Z-Score?</u>***
-
+##
 ###**Objective:**
 Students will understand that a z-score can be used to measure how far - or how many standard deviations - an observation is away from the mean. Typically z-scores will range between -3 and +3. For simulations involving shuffling, if we compute a z-score that lies far away from the mean, then we might conclude that the outcome was not due to chance. If we see a z-score that lies close to the mean, then we might conclude it was by chance.
 

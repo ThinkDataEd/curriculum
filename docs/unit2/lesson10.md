@@ -1,5 +1,4 @@
-##***<u>Lesson 10: Marbles, Marbles…</u>***
-
+##
 ###**Objective:**
 Students will understand that random events vary, so that the percentage predicted by a probability isn't
 exact, but varies. Students practice converting percentages to proportions.

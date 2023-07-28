@@ -1,5 +1,4 @@
-##***<u>Lesson 13: The Horror Movie Shuffle</u>***
-
+##
 ###**Objective:**
 Students will understand that, just by chance, we will see differences between two groups. They will
 understand that these differences are usually small. Specifically, they will learn that we can determine if

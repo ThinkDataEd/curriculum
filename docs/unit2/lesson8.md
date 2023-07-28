@@ -1,5 +1,4 @@
-##***<u>Lesson 8: How Likely Is It?</u>***
-
+##
 ###**Objective:**
 Students will understand the basic rules of probability. They will learn that previous outcomes do not give
 information about future outcomes if the events are independent.

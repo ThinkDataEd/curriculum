@@ -1,5 +1,4 @@
-##***<u>Lesson 16: What is Normal?</u>***
-
+##
 ###**Objective:**
 Students will learn what a Normal distribution is and learn how to identify a Normal distribution.
 
