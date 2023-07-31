@@ -82,7 +82,8 @@
     <div>
     <details>
     <summary>RStudio Instructions</summary>
-      <a href="javascript:openVideoModal('https://www.youtube.com/embed/vgh7C8U8Ekk')">Accessing RStudio</a><br>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/vgh7C8U8Ekk')">Accessing RStudio through Posit Cloud</a><br>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/1bXLsKwY7bY')">Posit Cloud Admin View</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/WkxCfaol3pE')">Navigating Rstudio</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/4mChtv5qy1g')">Export, Upload, Import</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/v3qPfE4ruQA')">Lab 1A</a><br>
