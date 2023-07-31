@@ -138,6 +138,10 @@
 !!! note ""
       when two ratios (or fractions) are equal
 
+### quantiles
+!!! note ""
+      a term that can be used in place of percentiles because they represent a *quantity* of data that is lower than that value
+
 ### quartiles
 
 !!! note ""

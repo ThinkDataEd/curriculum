@@ -17,8 +17,16 @@ compute and interpret another measure of spread: the IQR.
 5. *Ages of Oscar Winners* handout ([LMR_2.7_Oscar Ages](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.7_Oscar Ages.pdf))
 
 ###**Vocabulary:**
-boxplot, quartiles, first quartile (Q<sub>1</sub>), third quartile (Q<sub>3</sub>), quantiles, minimum, maximum, five-number
-summary, range, interquartile range (IQR)
+[boxplot](../../vocabulary/unit2/#boxplot "A special type of diagram showing Quartiles 1, 2 and 3 (where the data can be split into quarters) in a box, with lines extending to the lowest and highest values"){ .md-button }
+[quartiles](../../vocabulary/unit2/#quartiles "the values that divide a list of numbers into quarters"){ .md-button }
+[first quartile (Q<sub>1</sub>)](../../vocabulary/unit2/#first-quartile-Q1 "a number for which 75% of the data is less than that number"){ .md-button }
+[third quartile (Q<sub>3</sub>)](../../vocabulary/unit2/#third-quartile-Q3 "the median of the upper half of the data set"){ .md-button }
+[quantiles](../../vocabulary/unit2/#quantiles "a term that can be used in place of percentiles because they represent a *quantity* of data that is lower than that value"){ .md-button }
+[minimum](../../vocabulary/unit2/#minimum "the smallest value"){ .md-button }
+[maximum](../../vocabulary/unit2/#maximum "the largest value"){ .md-button }
+[five-number summary](../../vocabulary/unit2/#five-number-summary "a set of numbers that provides information about a dataset; consist of minimum, first quartile, median, third quartile, and maximum"){ .md-button }
+[range](../../vocabulary/unit2/#range "the largest value minus the smallest value"){ .md-button }
+[interquartile range (IQR)](../../vocabulary/unit2/#interquartile-range-IQR "the range from Quartile 1 to Quartile 3"){ .md-button }
 
 ###**Essential Concepts:**
 
