@@ -3632,7 +3632,7 @@
   <h1>Lab 2D - Queue It Up!</h1>
 
 <h2 id="_1"></h2>
-<p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your journal.</p>
+<p>Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;"><strong>blue</strong></span> on your computer, and answering the questions in <span style="color:firebrick;"><strong>red</strong></span> in your journal.</p>
 <h3 id="where-we-left-off"><strong>Where we left off</strong></h3>
 <ul>
 <li>
@@ -3654,15 +3654,15 @@ simple probabilities.</p>
 <h3 id="back-to-songs"><strong>Back to songs</strong></h3>
 <ul>
 <li>
-<p>In <code>R</code>, simulate a <em>playlist</em> of <em>songs</em> containing 30 <code>"rap"</code> songs, 23 <code>"country"</code> songs and 47 <code>"rock"</code>
-songs.</p>
-<p>– <em>Assign</em> the combined playlist the name <code>songs</code>.</p>
+<p><span style="color:midnightblue;"><strong>In <code>R</code>, simulate a <em>playlist</em> of <em>songs</em> containing 30 <code>"rap"</code> songs, 23 <code>"country"</code> songs and 47 <code>"rock"</code>
+songs.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong><em>Assign</em> the combined playlist the name <code>songs</code>.</strong></span></p>
 </li>
 <li>
-<p>Simulate choosing a single song 50 times. Then use your simulated draws to estimate the
-probability of choosing a <em>rap</em> song.</p>
+<p><span style="color:midnightblue;"><strong>Simulate choosing a single song 50 times. Then use your simulated draws to estimate the
+probability of choosing a <em>rap</em> song.</strong></span></p>
 <p>– The actual (theoretical) probability of choosing a <em>rap</em> song in this case is <code>0.30</code>.</p>
-<p>– <strong>Write a sentence comparing your estimated probability to the actual probability.</strong></p>
+<p>– <span style="color:firebrick;"><strong>Write a sentence comparing your estimated probability to the actual probability.</strong></span></p>
 </li>
 </ul>
 <h3 id="with-or-without"><strong>With or Without?</strong></h3>
@@ -3678,13 +3678,13 @@ list.</p>
 function to <code>FALSE</code>.</p>
 </li>
 <li>
-<p>Take a sample of <code>size</code> 100 from our playlist of songs <em>without replacement</em>. Assign this sample the
-name <code>without</code>. </p>
-<p>– <strong>Run <code>tally(without)</code> and describe the output. Does something similar happen if you sample <em>with replacement</em>?</strong></p>
+<p><span style="color:midnightblue;"><strong>Take a sample of <code>size</code> 100 from our playlist of songs <em>without replacement</em>. Assign this sample the
+name <code>without</code>.</strong></span> </p>
+<p>– <span style="color:firebrick;"><strong>Run <code>tally(without)</code> and describe the output. Does something similar happen if you sample <em>with replacement</em>?</strong></span></p>
 <ul>
 <li>Notice that the tilde <code>~</code> was not needed with the <code>tally</code> function. This is because <code>without</code> was not a variable within a data frame but rather a vector which acts like a lone variable.</li>
 </ul>
-<p>– <strong>What happens if <code>size = 101</code> and <code>replace = FALSE</code>?</strong></p>
+<p>– <span style="color:firebrick;"><strong>What happens if <code>size = 101</code> and <code>replace = FALSE</code>?</strong></span></p>
 </li>
 </ul>
 <h3 id="sample-with-or-without"><strong>Sample with? Or without?</strong></h3>
@@ -3698,10 +3698,10 @@ name <code>without</code>. </p>
     probability that all three candies will be chocolate.</p>
 </li>
 <li>
-<p><strong>Which of these scenarios would you sample <em>with replacement</em> and which would you
-sample <em>without replacement</em>? Why?</strong></p>
-<p>– <strong>Write down the line of code you would run to <code>sample</code> from the candy jar. Assume
-the simulated jar is named <code>candies</code>.</strong></p>
+<p><span style="color:firebrick;"><strong>Which of these scenarios would you sample <em>with replacement</em> and which would you
+sample <em>without replacement</em>? Why?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Write down the line of code you would run to <code>sample</code> from the candy jar. Assume
+the simulated jar is named <code>candies</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="simulations-at-work"><strong>Simulations at work</strong></h3>
@@ -3713,10 +3713,12 @@ the simulated jar is named <code>candies</code>.</strong></p>
 <li>
 <p>Let's write a more realistic simulation and estimate the probability that if we select two songs at
 random, without replacement, that both are rap songs.</p>
-<p>– Use the <code>do</code> function to perform 10 simulated <code>sample</code>s of <code>size</code> 2, without replacement and <em>assign</em> the simulations the name <code>draws</code> and then <code>View</code> your file. Use <code>set.seed(1)</code>.</p>
+<p>– <span style="color:midnightblue;"><strong>Use the <code>do</code> function to perform 10 simulated <code>sample</code>s of <code>size</code> 2, without replacement and <em>assign</em> the simulations the name <code>draws</code> and then <code>View</code> your file. Use <code>set.seed(1)</code>.</strong></span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>What are the variable names? What happened in the first simulation? Did any of your 10 simulations contain two rap songs?</strong> </span>   </p>
 </li>
 </ul>
-<p><strong>What are the variable names? What happened in the first simulation? Did any of your 10 simulations contain two rap songs?</strong>    </p>
 <h3 id="simulations-and-probability"><strong>Simulations and probability</strong></h3>
 <ul>
 <li>
@@ -3740,14 +3742,14 @@ following trick to count the number of <em>rap</em> songs in each of the 10 simu
 </code></pre>
 </li>
 <li>
-<p><strong>Let’s break down the code above by running each part of the code one piece at a time. As you run each line of code below describe the output.</strong></p>
+<p><span style="color:firebrick;"><strong>Let’s break down the code above by running each part of the code one piece at a time. As you run each line of code below describe the output.</strong></span></p>
 <pre><code>draws == "rap"
 rowSums(draws == "rap")
 mutate(draws, nrap = rowSums(draws=="rap"))
 </code></pre>
 </li>
 <li>
-<p>Remember to assign a name to your mutated data set.        </p>
+<p><span style="color:midnightblue;"><strong>Remember to assign a name to your mutated data set.</strong></span>        </p>
 </li>
 </ul>
 <h3 id="counting-other-outcomes"><strong>Counting other outcomes</strong></h3>
@@ -3769,7 +3771,7 @@ occurred.</p>
 <h3 id="step-1-creating-a-subset"><strong>Step 1: Creating a subset</strong></h3>
 <ul>
 <li>
-<p>Fill in the blanks below to:</p>
+<p><span style="color:midnightblue;"><strong>Fill in the blanks below to:</strong></span></p>
 <p>`1. Create a subset of our simulations when both draws were <code>"rap"</code> songs.</p>
 <p>`2. Count the number of rows in this subset</p>
 <p>`3. And divide by the total number of repeated simulations.</p>
@@ -3781,34 +3783,34 @@ occurred.</p>
 <h3 id="estimating-probabilities"><strong>Estimating probabilities</strong></h3>
 <ul>
 <li>
-<p>Answer the following questions by performing 500 simulations of sampling 2 songs from a playlist of 30 rap, 23 country and 47 rock songs:</p>
+<p><span style="color:midnightblue;"><strong>Answer the following questions by performing 500 simulations of sampling 2 songs from a playlist of 30 rap, 23 country and 47 rock songs. You might consider running <code>set.seed</code> so that your results can be reproduced:</strong></span></p>
 </li>
 <li>
-<p><strong>Calculate estimated probabilities for the following situations:</strong></p>
+<p><span style="color:firebrick;"><strong>Calculate estimated probabilities for the following situations:</strong></span></p>
 <p>`1. You draw two <code>"rap"</code> songs.</p>
 <p>`2. You draw a <code>"rap"</code> song in the first draw and a <code>"country"</code> song in the 2nd.</p>
 </li>
 <li>
-<p><strong>Create a histogram that displays the number of times a <code>"rap"</code> song occurred in each simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap songs?</strong></p>
+<p><span style="color:firebrick;"><strong>Create a histogram that displays the number of times a <code>"rap"</code> song occurred in each simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap songs?</strong></span></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
-<li>Using what you've learned in the previous two labs, answer the following question by performing
-two computer simulations with 500 repetitions a piece:</li>
+<li><span style="color:midnightblue;"><strong>Using what you've learned in the previous two labs, answer the following question by performing
+two computer simulations with 500 repetitions a piece:</strong></span></li>
 </ul>
-<p><strong><em>If we draw 5 songs from a playlist of 30 rap, 23 country and 47 rock songs, how does the
+<p><span style="color:firebrick;"><strong><em>If we draw 5 songs from a playlist of 30 rap, 23 country and 47 rock songs, how does the
 estimated probability of all 5 songs being rap songs change if we draw the songs with or without
-replacement?</em></strong></p>
+replacement?</em></strong></span></p>
 <ul>
 <li>
 <p>For each simulation:</p>
-<p>– <strong>Create a histogram for the number of <em>rap</em> songs that occurred for each of the 500
-repetitions.</strong></p>
+<p>– <span style="color:midnightblue;"><strong>Create a histogram for the number of <em>rap</em> songs that occurred for each of the 500
+repetitions.</strong></span></p>
 </li>
 <li>
-<p><strong>Describe how the distribution of the number of <em>rap</em> songs changes depending on if we use
-replacement or not.</strong></p>
+<p><span style="color:firebrick;"><strong>Describe how the distribution of the number of <em>rap</em> songs changes depending on if we use
+replacement or not.</strong></span></p>
 </li>
 </ul>
 
