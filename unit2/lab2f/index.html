@@ -3562,7 +3562,7 @@
   <h1>Lab 2F - The Titanic Shuffle</h1>
 
 <h2 id="_1"></h2>
-<p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your journal.</p>
+<p>Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;"><strong>blue</strong></span> on your computer, and answering the questions in <span style="color:firebrick;"><strong>red</strong></span> in your journal.</p>
 <h3 id="previously"><strong>Previously ...</strong></h3>
 <ul>
 <li>
@@ -3573,13 +3573,12 @@ simulate randomly shuffling our data many times.</p>
 </ul>
 </li>
 <li>
-<p>For this lab, will extend these ideas to <em>numerical</em> variables by using random shuffling and
+<p>For this lab, we will extend these ideas to <em>numerical</em> variables by using random shuffling and
 numerical summaries.</p>
 </li>
 <li>
 <p>The question we will investigate in this lab is:</p>
-<p><em>Is there any evidence to suggest that wealthier passengers on the Titanic were more likely to
-survive than poorer passengers?</em></p>
+<p><em>Is there any evidence to suggest that those who survived paid a higher fare than those who died?</em></p>
 </li>
 <li>
 <p>We will consider wealthier passengers to be those that paid a higher <code>fare</code> for their ticket.</p>
@@ -3593,51 +3592,50 @@ survive than poorer passengers?</em></p>
 <p>– At the time, it was claimed that the Titanic was <em>unsinkable</em> ... it wasn't ... because it did.</p>
 </li>
 <li>
-<p>Use the <code>data</code> function to load the <code>titanic</code> passenger and survival data.</p>
+<p><span style="color:midnightblue;"><strong>Use the <code>data</code> function to load the <code>titanic</code> passenger and survival data.</strong></span></p>
 </li>
 <li>
-<p>Create a boxplot of the <code>fare</code>s paid by passengers and facet the plot based on whether the
-passenger survived or not.</p>
-<p>– <strong>Based on the plot, do you believe richer passengers were more likely to survive?
-Explain why and describe how certain you are of being correct.</strong></p>
+<p><span style="color:midnightblue;"><strong>Create a boxplot of the <code>fare</code>s paid by passengers and facet the plot based on whether the
+passenger survived or not.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Based on the plot, do you believe that passengers who paid a higher fare on the Titanic were more likely to survive? Explain why and describe how certain you are of being correct.</strong></span></p>
 </li>
 </ul>
 <h3 id="the-search-begins"><strong>The search begins!</strong></h3>
 <ul>
 <li>
-<p>Start your analysis by calculating how much more the <em>typical</em> survivor paid than the <em>typical</em> non-survivor
-in our data.</p>
-<p>– Based on the distributions of fares paid, which numerical summary that describes the
-<em>typical</em> value might be preferred?</p>
+<p><span style="color:midnightblue;"><strong>Start your analysis by calculating how much more the <em>typical</em> survivor paid than the <em>typical</em> non-survivor
+in our data.</strong></span></p>
 </li>
 <li>
-<p><strong>What was the <em>typical</em> fare paid by survivors? Non-survivors? How much more did the
-typical survivor pay?</strong></p>
+<p><span style="color:firebrick;"><strong>Based on the distributions of fares paid, which numerical summary that describes the <em>typical</em> value might be preferred?</strong></span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>What was the <em>typical</em> fare paid by survivors? Non-survivors? How much more did the typical survivor pay?</strong></span></p>
 </li>
 </ul>
 <h3 id="do-the-shuffle"><strong>Do the shuffle!</strong></h3>
 <ul>
 <li>
-<p>Use the <code>do</code> and the <code>shuffle</code> functions to shuffle the passenger's survival status 500 times.</p>
+<p><span style="color:midnightblue;"><strong>Use the <code>do</code> and the <code>shuffle</code> functions to shuffle the passenger's survival status 500 times.</strong></span></p>
 <p>– Use the previous lab if you need some help on how to do this.</p>
 <p>– For each shuffle, compute each group's <code>median</code> fare paid.</p>
 <p>– <code>Assign</code> your shuffled data the name <code>shuffled_survival</code>.</p>
 </li>
 <li>
-<p>After shuffling your data, use the <code>mutate</code> function to create a variable called <code>diff</code>  which is the median fare of survivors minus the median fare of non-survivors. (Assign your mutated data the name <code>shuffled_survival</code> again).</p>
+<p><span style="color:midnightblue;"><strong>After shuffling your data, use the <code>mutate</code> function to create a variable called <em>diff</em> which is the <code>median</code> fare of survivors minus the <code>median</code> fare of non-survivors.</strong></span></p>
+<ul>
+<li>Assign your mutated data the name <code>shuffled_survival</code> again.</li>
+</ul>
 </li>
 </ul>
 <h3 id="put-your-simulations-to-use"><strong>Put your simulations to use</strong></h3>
 <ul>
 <li>
-<p><strong>By using your shuffled data, answer the research question we posed at the beginning of
-the lab.</strong></p>
-<p><em>Is there any evidence to suggest that wealthier passengers on the Titanic were more likely to
-survive than poorer passengers?</em></p>
+<p><span style="color:firebrick;"><strong>By using your shuffled data, answer the research question we posed at the beginning of the lab.</strong></span></p>
+<p><em>Is there any evidence to suggest that those who survived paid a higher fare than those who died?</em></p>
 </li>
 <li>
-<p><strong>Write up your answer as a statistical analysis. Create a plot and explain how the plot  <br />
-supports your conclusion. Be sure to also explain why shuffling your data is important.</strong></p>
+<p><span style="color:firebrick;"><strong>Write up your answer as a statistical analysis. Create a plot and explain how the plot supports your conclusion. Be sure to also explain why shuffling your data is important.</strong></span></p>
 </li>
 </ul>
 <h3 id="comparing-mean-fares"><strong>Comparing Mean Fares</strong></h3>
@@ -3646,10 +3644,10 @@ supports your conclusion. Be sure to also explain why shuffling your data is imp
 <p>What about if instead of calculating the median fare price for each group after a shuffle, we calculated the mean fare price and took the difference (mean_survivor – mean_victim).</p>
 </li>
 <li>
-<p><strong>If we did this 500 times, what do you predict the distribution of differences will look like?</strong></p>
+<p><span style="color:firebrick;"><strong>If we did this 500 times, what do you predict the distribution of differences will look like?</strong></span></p>
 </li>
 <li>
-<p>Use the <code>do</code> and the <code>shuffle</code> functions to shuffle the passenger’s survival status 500 times.</p>
+<p><span style="color:midnightblue;"><strong>Use the <code>do</code> and the <code>shuffle</code> functions to shuffle the passenger’s survival status 500 times.</strong></span></p>
 <ul>
 <li>
 <p>For each shuffle, compute each group’s mean fare paid.</p>
@@ -3660,7 +3658,7 @@ supports your conclusion. Be sure to also explain why shuffling your data is imp
 </ul>
 </li>
 <li>
-<p><strong>What does the shuffled data reveal? Does the answer to the research question below change when using the mean fares instead of the median fares?</strong></p>
+<p><span style="color:firebrick;"><strong>What does the shuffled data reveal? Does the answer to the research question below change when using the mean fares instead of the median fares?</strong></span></p>
 </li>
 </ul>
 <p><em>Is there any evidence to suggest that those who survived paid a higher fare than those who died?</em></p>
