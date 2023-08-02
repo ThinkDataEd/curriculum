@@ -1,5 +1,5 @@
 ##
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Where we left off**
 * In the last lab, we looked at how we can use computer simulations to compute estimates of
@@ -20,17 +20,17 @@ simple probabilities.
     – We also look at the roll of sampling *with* or *without replacement*.
 
 ###**Back to songs**
-* In ```R```, simulate a *playlist* of *songs* containing 30 ```"rap"``` songs, 23 ```"country"``` songs and 47 ```"rock"```
-songs.
+* <span style="color:midnightblue;">**In ```R```, simulate a *playlist* of *songs* containing 30 ```"rap"``` songs, 23 ```"country"``` songs and 47 ```"rock"```
+songs.**</span>
 
-    – *Assign* the combined playlist the name ```songs```.
+    – <span style="color:midnightblue;">***Assign* the combined playlist the name ```songs```.**</span>
 
-* Simulate choosing a single song 50 times. Then use your simulated draws to estimate the
-probability of choosing a *rap* song.
+* <span style="color:midnightblue;">**Simulate choosing a single song 50 times. Then use your simulated draws to estimate the
+probability of choosing a *rap* song.**</span>
 
     – The actual (theoretical) probability of choosing a *rap* song in this case is ```0.30```.
 
-    – **Write a sentence comparing your estimated probability to the actual probability.**
+    – <span style="color:firebrick;">**Write a sentence comparing your estimated probability to the actual probability.**</span>
 
 ###**With or Without?**
 * So far, you've selected songs *with replacement*.
@@ -42,14 +42,14 @@ probability of choosing a *rap* song.
 * It's also possible to select *without replacement* by setting the ```replace``` option in the ```sample```
 function to ```FALSE```.
 
-* Take a sample of ```size``` 100 from our playlist of songs *without replacement*. Assign this sample the
-name ```without```. 
+* <span style="color:midnightblue;">**Take a sample of ```size``` 100 from our playlist of songs *without replacement*. Assign this sample the
+name ```without```.**</span> 
 
-    – **Run ```tally(without)``` and describe the output. Does something similar happen if you sample *with replacement*?**
+    – <span style="color:firebrick;">**Run ```tally(without)``` and describe the output. Does something similar happen if you sample *with replacement*?**</span>
 
     * Notice that the tilde ```~``` was not needed with the ```tally``` function. This is because ```without``` was not a variable within a data frame but rather a vector which acts like a lone variable.
 
-    – **What happens if ```size = 101``` and ```replace = FALSE```?**
+    – <span style="color:firebrick;">**What happens if ```size = 101``` and ```replace = FALSE```?**</span>
     
 ###**Sample with? Or without?**
 
@@ -62,11 +62,11 @@ name ```without```.
         candies. The child is able to grab three candies with their hand and you're interested in
         probability that all three candies will be chocolate.
 
-* **Which of these scenarios would you sample *with replacement* and which would you
-sample *without replacement*? Why?**
+* <span style="color:firebrick;">**Which of these scenarios would you sample *with replacement* and which would you
+sample *without replacement*? Why?**</span>
 
-    – **Write down the line of code you would run to ```sample``` from the candy jar. Assume
-    the simulated jar is named ```candies```.**
+    – <span style="color:firebrick;">**Write down the line of code you would run to ```sample``` from the candy jar. Assume
+    the simulated jar is named ```candies```.**</span>
 
 ###**Simulations at work**
 * In reality, songs from a playlist are chosen without replacement.
@@ -76,9 +76,9 @@ sample *without replacement*? Why?**
 * Let's write a more realistic simulation and estimate the probability that if we select two songs at
 random, without replacement, that both are rap songs.
 
-    – Use the ```do``` function to perform 10 simulated ```sample```s of ```size``` 2, without replacement and *assign* the simulations the name ```draws``` and then ```View``` your file. Use ```set.seed(1)```.
+    – <span style="color:midnightblue;">**Use the ```do``` function to perform 10 simulated ```sample```s of ```size``` 2, without replacement and *assign* the simulations the name ```draws``` and then ```View``` your file. Use ```set.seed(1)```.**</span>
 
-**What are the variable names? What happened in the first simulation? Did any of your 10 simulations contain two rap songs?**    
+* <span style="color:firebrick;">**What are the variable names? What happened in the first simulation? Did any of your 10 simulations contain two rap songs?** </span>   
 
 ###**Simulations and probability**
 * To estimate the probability from our simulations, we need to find the proportion of times that the
@@ -96,13 +96,13 @@ following trick to count the number of *rap* songs in each of the 10 simulations
 
         mutate(draws, nrap = rowSums(draws=="rap"))
 
-* **Let’s break down the code above by running each part of the code one piece at a time. As you run each line of code below describe the output.**
+* <span style="color:firebrick;">**Let’s break down the code above by running each part of the code one piece at a time. As you run each line of code below describe the output.**</span>
 
         draws == "rap"
         rowSums(draws == "rap")
         mutate(draws, nrap = rowSums(draws=="rap"))
 
-* Remember to assign a name to your mutated data set.        
+* <span style="color:midnightblue;">**Remember to assign a name to your mutated data set.**</span>        
 
 ###**Counting other outcomes**
 * Another method we can use to estimate the probability of complex events is to use the following
@@ -118,7 +118,7 @@ occurred.
 * We'll see an example of this method on the next slide.
 
 ###**Step 1: Creating a subset**
-* Fill in the blanks below to:
+* <span style="color:midnightblue;">**Fill in the blanks below to:**</span>
 
     `1. Create a subset of our simulations when both draws were ```"rap"``` songs.
 
@@ -131,29 +131,29 @@ occurred.
 
 
 ###**Estimating probabilities**
-* Answer the following questions by performing 500 simulations of sampling 2 songs from a playlist of 30 rap, 23 country and 47 rock songs:
+* <span style="color:midnightblue;">**Answer the following questions by performing 500 simulations of sampling 2 songs from a playlist of 30 rap, 23 country and 47 rock songs. You might consider running ```set.seed``` so that your results can be reproduced:**</span>
 
-* **Calculate estimated probabilities for the following situations:**
+* <span style="color:firebrick;">**Calculate estimated probabilities for the following situations:**</span>
 
     `1. You draw two ```"rap"``` songs.
 
     `2. You draw a ```"rap"``` song in the first draw and a ```"country"``` song in the 2nd.
 
-* **Create a histogram that displays the number of times a ```"rap"``` song occurred in each simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap songs?**
+* <span style="color:firebrick;">**Create a histogram that displays the number of times a ```"rap"``` song occurred in each simulation. That is, how often were zero rap songs drawn? A single rap song? Two rap songs?**</span>
 
 ###**On your own**
 
-* Using what you've learned in the previous two labs, answer the following question by performing
-two computer simulations with 500 repetitions a piece:
+* <span style="color:midnightblue;">**Using what you've learned in the previous two labs, answer the following question by performing
+two computer simulations with 500 repetitions a piece:**</span>
 
-***If we draw 5 songs from a playlist of 30 rap, 23 country and 47 rock songs, how does the
+<span style="color:firebrick;">***If we draw 5 songs from a playlist of 30 rap, 23 country and 47 rock songs, how does the
 estimated probability of all 5 songs being rap songs change if we draw the songs with or without
-replacement?***
+replacement?***</span>
 
 * For each simulation:
 
-    – **Create a histogram for the number of *rap* songs that occurred for each of the 500
-    repetitions.**
+    – <span style="color:midnightblue;">**Create a histogram for the number of *rap* songs that occurred for each of the 500
+    repetitions.**</span>
 
-* **Describe how the distribution of the number of *rap* songs changes depending on if we use
-replacement or not.**
+* <span style="color:firebrick;">**Describe how the distribution of the number of *rap* songs changes depending on if we use
+replacement or not.**</span>
