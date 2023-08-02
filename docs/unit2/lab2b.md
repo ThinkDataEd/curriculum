@@ -1,5 +1,5 @@
 ##
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Just the beginning**
 * Means, medians,and MAD are just a few examples of *numerical summaries*.
@@ -17,9 +17,9 @@ and largest values.
 
     – To find these values, we can use the ```min```, ```max``` or ```range``` functions. These functions use a similar syntax as the ```mean``` function.
 
-* **Find the ```min``` value and ```max``` value for your predominant color.**
+* <span style="color:firebrick;">**Find and write down the ```min``` value and ```max``` value for your predominant color.**</span>
 
-* **Apply the ```range``` function to your predominant color and describe the output.**
+* <span style="color:firebrick;">**Apply the ```range``` function to your predominant color and describe the output.**</span>
 
     – The *range* of a variable is the difference between a variable’s smallest and largest value.
 
@@ -29,37 +29,37 @@ and largest values.
 
 
 ###**Quartiles (Q1 & Q3)**
-* The *median* of our data is the value that splits our data in half.
+* The **median** of our data is the value that splits our data in half.
 
     – Half of our data is smaller than the *median*, half is larger.
 
 * *Q1* and *Q3* are similar.
 
-    – 25% of our data is smaller than *Q1*, 75% are larger.
+    – 25% of our data are smaller than *Q1*, 75% are larger.
+    - 75% of our data are smaller than *Q3*, 25% are larger.
 
-* Fill in the blanks to compute the value of *Q1* for your predominant color.
+* <span style="color:midnightblue;">**Fill in the blanks to compute the value of *Q1* for your predominant color.**</span>
 
         quantile(~____, data = ____, p = 0.25)
 
-* **Use a similar line of code to calculate *Q3*, which is the value that's larger than 75% of our
-data.**    
+* <span style="color:firebrick;">**Use a similar line of code to calculate *Q3*, which is the value that's larger than 75% of our data.**</span>    
 
 ###**The Inter-Quartile-Range (IQR)**
 
-* Make a ```dotPlot``` of your *predominant* color's scores. Make sure to include the ```nint``` option.
+* <span style="color:midnightblue;">**Make a ```dotPlot``` of your *predominant* color's scores. Make sure to include the ```nint``` option.**</span>
 
 * Visually (Don't worry about being super-precise):
 
-    – Cut the distribution into quarters so the *number of data points* is equal for each piece.
-    (Each piece should contain 25% of the data.)
+    – <span style="color:midnightblue;">**Cut the distribution into quarters so the *number of data points* is equal for each piece.
+    (Each piece should contain 25% of the data.)**</span>
 
     * Hint: You might consider using the ```add_line(vline =  )``` to add vertical lines at the quarter marks.
 
-    – **Write down the numbers that split the data up into these 4 pieces.**
+    – <span style="color:firebrick;">**Write down the numbers that split the data up into these 4 pieces.**</span>
 
-    – **How long is the interval of the middle two pieces?**
+    – <span style="color:firebrick;">**How long is the interval of the middle two pieces?**</span>
 
-    – This length is the *IQR*.
+    – This length is the **IQR**.
 
 ###**Calculating the IQR**
 * The ```IQR``` is another way to describe *spread*.
@@ -69,33 +69,33 @@ data.**
 * Just like we used the ```min``` and ```max``` to compute the ```range```, we can also use the *1st* and *3rd*
 quartiles to compute the *IQR*.
 
-* **Use the values of *Q1* and *Q3* you calculated previously and find the *IQR* by hand.**
+* <span style="color:firebrick;">**Use the values of *Q1* and *Q3* you calculated previously and find the *IQR* by hand.**</span>
 
-    – **Then use the ```iqr()``` function to calculate it for you.**
+    – <span style="color:midnightblue;">**Then use the ```iqr()``` function to calculate it for you.**</span>
 
-* **Which personality color score has the widest spread according to the *IQR*? Which is
-narrowest?**    
+* <span style="color:firebrick;">**Which personality color score has the widest spread according to the *IQR*? Which is
+narrowest?**</span>    
 
 ###**Boxplots**
 
 * By using the medians, quartiles, and min/max, we can construct a new single variable plot called
-the *box* and *whisker* plot, often shortened to just *boxplot*.
+the **box and whisker** plot, often shortened to just **boxplot**.
 
-* **By showing someone a ```dotPlot```, how would you teach them to make a *boxplot*? Write out
-your explanation in a series of steps for the person to use.**
+* <span style="color:firebrick;">**By showing someone a ```dotPlot```, how would you teach them to make a *boxplot*? Write out
+your explanation in a series of steps for the person to use.**</span>
 
-    – **Use the steps you write to create a sketch of a *boxplot* for your predominant
-    color's scores in your journal.**
+    – <span style="color:firebrick;">**Use the steps you write to create a sketch of a *boxplot* for your predominant
+    color's scores in your journal.**</span>
 
-    – **Then use the ```bwplot``` function to create a *boxplot* using ```R```.**
+    – <span style="midnightblue;">**Then use the ```bwplot``` function to create a *boxplot* using ```R```.**</span>
 
 ###**Our favorite summaries**
 * In the past two labs, we've learned how to calculate numerous *numerical summaries*.
 
     – Computing lots of different summaries can be tedious.
 
-* Fill in the blanks below to compute some of our *favorite* summaries for your predominant color all
-at once.
+* <span style="color:midnightblue;">**Fill in the blanks below to compute some of our *favorite* summaries for your predominant color all
+at once.**</span>
 
         favstats(~____, data=colors)    
 
@@ -114,7 +114,7 @@ values for a variable, but not the difference between them.
 
         diff(values)
 
-* **Use these two steps to calculate the *range* of your predominant color.**
+* <span style="color:firebrick;">**Use these two steps to calculate the *range* of your predominant color.**</span>
 
 ###**Introducing custom functions**
 * Calculating the *range* of many variables can be tedious if we have to keep performing the same
@@ -143,7 +143,7 @@ calculate the absolute difference between the ```mean``` and ```median``` value 
 
     – Each of the *generic* arguments is used inside the ```mean``` and ```median``` functions.
 
-* Copy and paste the code above into an *R script* and *run* it.
+* <span style="color:midnightblue;">**Copy and paste the code above into an *R script* and *run* it.**</span>
 
 * The ```mm_diff``` function will appear in your *Environment* pane.
 
@@ -151,28 +151,28 @@ calculate the absolute difference between the ```mean``` and ```median``` value 
 * After running the code used to create the function, we can use it just like we would any other
 numerical summary.
 
-    – In the *console*, fill in the blanks below to calculate the absolute difference between the
-    ```mean``` and ```median``` values of your predominant color:
+    – <span style="color:midnightblue;">**In the *console*, fill in the blanks below to calculate the absolute difference between the
+    ```mean``` and ```median``` values of your predominant color:**</span>
 
         ____(~____, data = ____)
 
-* **Which of the four colors has the largest absolute difference between the ```mean``` and ```median```
-values?**
+* <span style="color:firebrick;">**Which of the four colors has the largest absolute difference between the ```mean``` and ```median```
+values?**</span>
 
-    – **By examining a ```dotPlot``` for this personality color, make an argument why either
-    the ```mean``` or ```median``` would be the better description of the *center* of the data.**
+    – <span style="color:firebrick;">**By examining a ```dotPlot``` for this personality color, make an argument why either
+    the ```mean``` or ```median``` would be the better description of the *center* of the data.**</span>
 
 ###**Our first function**
-* Using the previous example as a guide, create a function called ```Range``` (*Note the capial 'R'*) that
-calculates the *range* of a variable by filling in the blanks below:
+* <span style="color:midnightblue;">**Using the previous example as a guide, create a function called ```Range``` (*Note the capial 'R'*) that
+calculates the *range* of a variable by filling in the blanks below:**</span>
 
         ____ <- function (____, ____) {
           values <- range(____, data = ____)
           diff(___)
         }
 
-* **Use the ```Range``` function to find the personality color with the largest difference between the ```max``` and ```min``` values.**
+* <span style="color:firebrick;">**Use the ```Range``` function to find the personality color with the largest difference between the ```max``` and ```min``` values.**</span>
 
 ###**On your own**
-* **Create a function called ```myIQR``` that uses the ```quantile``` function to compute the
-middle 30% of the data.**
+* <span style="color:midnightblue;">**Create a function called ```myIQR``` that uses the ```quantile``` function to compute the
+middle 30% of the data.**</span>
