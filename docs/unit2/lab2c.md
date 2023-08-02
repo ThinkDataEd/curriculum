@@ -1,5 +1,5 @@
 ##
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**A new direction**
 * For the past two labs, we've looked at ways that we can summarize data with numbers.
@@ -20,9 +20,9 @@ a total of 500 times.
 * The statistical question we want to address is: *On average, what proportion of our
 selections will be rap?*
 
-* **Why do we *put a song back* each time we make a selection?**
+* <span style="color:firebrick;">**Why do we *put a song back* each time we make a selection?**</span>
 
-* **What would happen in our little experiment if we did not do this?**
+* <span style="color:firebrick;">**What would happen in our little experiment if we did not do this?**</span>
 
 ###**Calculating probabilities**
 * Remember that a *probability* is the long-run proportion of time an event occurs.
@@ -62,13 +62,13 @@ or very hard and complex calculations.
     – Before we can start simulating picking songs from a playlist, we need to simulate
     that playlist in ```R```.
 
-* To simulate our 39 ```rap``` songs, we'll use the repeat ```rep()``` function.
+* <span style="color:midnightblue;">**Simulate our 39 ```rap``` songs using the repeat ```rep()``` function.**</span>
 
         rap <- rep("rap", times = 39)
 
-* Look in the ```Environment``` pane for the vector containing your rap songs.
+* <span style="color:midnightblue;">**Look in the ```Environment``` pane for the vector containing your ```rap``` songs.**</span>
 
-* Use a similar line of code to simulate the rock songs in our playlist of 100.
+* <span style="color:midnightblue;">**Use a similar line of code to simulate the rock songs in our playlist of 100.**</span>
 
 ###**Put the songs in the playlist**
 
@@ -76,13 +76,13 @@ or very hard and complex calculations.
 
     – To do this, we can use the combine function ```c()``` in ```R```.
 
-* Fill in the blanks to combine your different songs:
+* <span style="color:midnightblue;">**Fill in the blanks to combine your different songs:**</span>
 
         songs <- __(rap, ____)
 
 * And with that, our playlist of songs should be ready to go.
 
-    – Type ```songs``` into the console and hit enter to see your individual *songs*.
+    – <span style="color:midnightblue;">**Type ```songs``` into the console and hit enter to see your individual *songs*.**</span>
 
 ###**Pick a song, any song**
 * Data scientists call the act of choosing things randomly from a set, *sampling*.
@@ -91,9 +91,9 @@ or very hard and complex calculations.
 
         sample(songs, size = 1, replace = TRUE)
 
-* Run this code 10 times and compute the proportion of ```"rap"``` songs you drew from the 10.
+* <span style="color:midnightblue;">**Run this code 10 times and compute the proportion of ```"rap"``` songs you drew from the 10.**</span>
 
-    - Vocabulary Check: A *proportion* is a fraction of the whole.
+    - Vocabulary Check: A **proportion** is a fraction of the whole.
 
         * For example, if 2 rap songs were drawn from the 10, the *proportion* would be 2/10
 
@@ -101,32 +101,32 @@ or very hard and complex calculations.
 
         * It is even more common to express a *proportion* as a percentage, 20%
 
-* **Once everyone in your class has computed their *proportions*, calculate the
+* <span style="color:firebrick;">**Once everyone in your class has computed their *proportions*, calculate the
     *range* of *proportions* (the largest *proportion* minus the smallest *proportion*)
-    for your class and write it down.**
+    for your class and write it down.**</span>
 
 ###**Now do() it some more**
 * Instead of running the same line of code multiple times ourselves we can use ```R``` to ```do()```
 multiple repetitions for us.
 
-    – Fill in the blanks below to ```do``` the ```sample``` code from the previous slide *50* times run:
+    – <span style="color:midnightblue;">**Fill in the blanks below to ```do``` the ```sample``` code from the previous slide *50* times:**</span>
 
         do(___) * sample(___, ___ = ___, ___ = ___)
 
 * Recall that we need to store our results to be able to perform analysis.
 
-* *Assign* the 50 selected songs the name ```draws``` and then ```View``` your file.
+* <span style="color:midnightblue;">***Assign* the 50 selected songs the name ```draws``` and then ```View``` your file.**</span>
 
-* What is the variable name?
+* <span style="color:firebrick;">**What is the variable name?**</span>
 
     - ```R``` defaulted to naming the variable based on the function used. You may use the data cleaning skills you learned in lab 6 to ```rename``` the variable if you wish.
 
-* Fill in the blank below to tally how often each genre was selected:
+* <span style="color:midnightblue;">**Fill in the blank below to ```tally``` how often each genre was selected:**</span>
 
         tally(~___, data = draws)
 
-* **Compute the proportion of ```"rap"``` songs for your 50 draws and find out if the *range* for
-your class' proportions is bigger or smaller than when we drew 10 songs.**
+* <span style="color:firebrick;">**Compute the proportion of ```"rap"``` songs for your 50 draws and find out if the *range* for
+your class' proportions is bigger or smaller than when we drew 10 songs.**</span>
 
 ###**Proportions vs. Probability**
 
@@ -166,20 +166,20 @@ estimates have less variability and so we can be confident we're closer to the a
 
 
 ###**Playing with seeds**
-* With a partner, choose a number to include in ```set.seed``` then redo the simulation of 50
-songs.
+* <span style="color:midnightblue;">**With a partner, choose a number to include in ```set.seed``` then redo the simulation of 50
+songs.**</span>
 
     – Both partners should run ```set.seed(___)``` just before simulating the 50 draws.
 
     – The blank in ```set.seed(___)``` should be the same number for both partners.
 
-    – Verify that both partners compute the same proportion of ```"rap"``` songs.
+    – <span style="color:firebrick;">**Verify that both partners compute the same proportion of ```"rap"``` songs.**</span>
 
-* Redo the 50 simulations one last time but have each partner choose a different number for
-```set.seed(___)```.
+* <span style="color:midnightblue;">**Redo the 50 simulations one last time but have each partner choose a different number for
+```set.seed(___)```.**</span>
 
-    – **Are the proportions still the same? If so, can you find two different values for
-    ```set.seed``` that give different answers?**
+    – <span style="color:firebrick;">**Are the proportions still the same? If so, can you find two different values for
+    ```set.seed``` that give different answers?**</span>
 
 ###**On your own**
 * Suppose there are 1,200 students at your school. 400 of them went to the movies last
@@ -188,11 +188,11 @@ Friday, 600 went to the park and the rest read at home.
 *If we select a student at random, what is the probability that this student is one of the one's who went to
 the movies last Friday?*
 
-* **Answer this by estimating the probability that a randomly chosen student went to the
-movies using 500 simulations.**
+* <span style="color:midnightblue;">**Answer this by estimating the probability that a randomly chosen student went to the
+movies using 500 simulations.**</span>
 
-    – **Write down both the estimated probability and the code you used to compute
+    – <span style="color:firebrick;">**Write down both the estimated probability and the code you used to compute
     your estimate. You might find it helpful to write your answer in an R Script
-    *(File -> New File -> R Script)* **
+    *(File -> New File -> R Script)* **</span>
 
-    – **Include ```set.seed(123)``` in your code before you do 500 repeated samples.**
+    – <span style="color:midnightblue;">**Include ```set.seed(123)``` in your code before you do 500 repeated samples.**</span>
