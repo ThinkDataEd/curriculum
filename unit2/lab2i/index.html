@@ -3590,7 +3590,7 @@
   <h1>Lab 2I - R’s Normal Distribution Alphabet</h1>
 
 <h2 id="_1"></h2>
-<p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your journal.</p>
+<p>Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;"><strong>blue</strong></span> on your computer, and answering the questions in <span style="color:firebrick;"><strong>red</strong></span> in your journal.</p>
 <h3 id="where-were-headed"><strong>Where we're headed</strong></h3>
 <ul>
 <li>
@@ -3608,17 +3608,14 @@ differences that are normally distributed.</p>
 <h3 id="get-set-up"><strong>Get set up</strong></h3>
 <ul>
 <li>
-<p>Start by loading the <code>titanic</code> data and calculate the <code>mean</code> <code>age</code> of people in the data but
-<code>shuffle</code> their <code>survival</code> status 500 times.</p>
-<p>– <code>Assign</code> this data the name <code>shfls</code>.</p>
+<p><span style="color:midnightblue;"><strong>Start by loading the <code>titanic</code> data and calculate the <code>mean</code> <code>age</code> of people in the data but <code>shuffle</code> their <code>survival</code> status 500 times.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong><code>Assign</code> this data the name <code>shfls</code>.</strong></span></p>
 </li>
 <li>
-<p>After creating <code>shfls</code>, use <code>mutate</code> to add a new variable to the data set. This new variable
-should have the name <code>diff</code> and should be the <code>mean</code> <code>age</code> of those who survived minus those who
-died.</p>
+<p><span style="color:midnightblue;"><strong>After creating <code>shfls</code>, use <code>mutate</code> to add a new variable to the dataset. This new variable should have the name <code>diff</code> and should be the <code>mean</code> <code>age</code> of those who survived minus those who died.</strong></span></p>
 </li>
 <li>
-<p>Finally, calculate the <code>mean</code> and <code>sd</code> of the <code>diff</code> variable.</p>
+<p><span style="color:midnightblue;"><strong>Finally, calculate the <code>mean</code> and <code>sd</code> of the <code>diff</code> variable.</strong></span></p>
 <p>– <code>Assign</code> these values the name <code>diff_mean</code> and <code>diff_sd</code>.</p>
 </li>
 </ul>
@@ -3627,10 +3624,8 @@ died.</p>
 <li>
 <p>Before we proceed, we need to verify that our <code>diff</code> variable looks approximately normally
 distributed.</p>
-<p>– <strong>Is the distribution close to normal? Explain how you determined this.
-Describe the center and spread of the distribution.</strong></p>
-<p>– <strong>Compute the mean difference in the age of the <em>actual</em> survivors and the actual
-non-survivors.</strong></p>
+<p>– <span style="color:firebrick;"><strong>Is the distribution close to normal? Explain how you determined this. Describe the center and spread of the distribution.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Compute and write down the mean difference in the age of the <em>actual</em> survivors and the actual non-survivors.</strong></span></p>
 </li>
 </ul>
 <h3 id="using-the-normal-model"><strong>Using the normal model</strong></h3>
@@ -3640,12 +3635,11 @@ non-survivors.</strong></p>
 normal model to estimate the probability of seeing differences that are more extreme than
 our actual data.</p>
 <ul>
-<li><strong>Draw a sketch of a normal curve. Label the mean age difference, based on your shuffles, and the actual age difference of survivors minus non-survivors from the actual data. Then shade in the areas, under normal the curve, that are <em>smaller</em> than the actual difference.</strong></li>
+<li><span style="color:firebrick;"><strong>Draw a sketch of a normal curve. Label the mean age difference, based on your shuffles, and the actual age difference of survivors minus non-survivors from the actual data. Then shade in the areas, under normal the curve, that are <em>smaller</em> than the actual difference.</strong></span></li>
 </ul>
 </li>
 <li>
-<p>Fill in the blanks to calculate the probability of an even smaller difference occurring than our
-actual difference using a normal model.</p>
+<p><span style="color:midnightblue;">**Fill in the blanks to calculate the probability of an even smaller difference occurring than our actual difference using a normal model.</span></p>
 <pre><code>pnorm(____, mean = diff_mean, sd = ____)
 </code></pre>
 </li>
@@ -3657,8 +3651,7 @@ actual difference using a normal model.</p>
 see a difference smaller than the actual one we observed, by chance alone.</p>
 </li>
 <li>
-<p>If you wanted to instead calculate the probability that the difference would be larger than the
-one observed, we could run (fill in the blanks):</p>
+<p><span style="color:midnightblue;"><strong>If you wanted to instead calculate the probability that the difference would be larger than the one observed, we could run (fill in the blanks):</strong></span></p>
 <pre><code>1 - pnorm(____, mean = diff_mean, sd = ____)
 </code></pre>
 </li>
@@ -3667,12 +3660,11 @@ one observed, we could run (fill in the blanks):</p>
 <ul>
 <li>
 <p>We can simulate random draws from a normal distribution with the <code>rnorm</code> function.</p>
-<p>– Fill in the blanks in the following two lines of code to simulate 100 heights of
-randomly chosen men. Assume the <code>mean</code> height is 67 inches and the <code>standard
-deviation</code> is 3 inches.</p>
-<p>– Plot your simulated heights with a <code>histogram</code>.</p>
+<p>– <span style="color:midnightblue;"><strong>Fill in the blanks in the following two lines of code to simulate 100 heights of randomly chosen men. Assume the <code>mean</code> height is 67 inches and the <code>standard deviation</code> is 3 inches.</strong></span></p>
 <pre><code>draws &lt;- rnorm(____, mean = ____, sd = ____)
-histogram(draws, fit = ____)
+</code></pre>
+<p>– <span style="color:midnightblue;"><strong>Plot your simulated heights with a <code>histogram</code>.</strong></span></p>
+<pre><code>histogram(draws, fit = ____)
 </code></pre>
 </li>
 </ul>
@@ -3688,8 +3680,7 @@ histogram(draws, fit = ____)
 <p>– Hence why we'll call this a "Q" norm.</p>
 </li>
 <li>
-<p>How tall can you be and still be in the shortest 25% of heights if the mean height is 67
-inches with a standard deviation of 3 inches?</p>
+<p><span style="color:firebrick;"><strong>How tall can a man be and still be in the shortest 25% of heights if the mean height is 67 inches with a standard deviation of 3 inches?</strong></span></p>
 <pre><code>qnorm(____, mean = ____, sd = ____)
 </code></pre>
 </li>
@@ -3698,15 +3689,15 @@ inches with a standard deviation of 3 inches?</p>
 <p>Conduct one of the statistical investigations below:</p>
 <ul>
 <li>
-<p>Using the <code>titanic</code> data, answer the following statistical question:</p>
-<p>– <strong>Were women on the Titanic typically younger than men?</strong></p>
-<p>– <strong>Use a histogram, 500 random shuffles and a normal model to answer the
-question in the bullet above.</strong></p>
+<p>Using the <code>titanic</code> data:</p>
+<p>– <span style="color:firebrick;"><strong>Were women on the Titanic typically younger than men?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Use a histogram, 500 random shuffles and a normal model to answer the
+question in the bullet above.</strong></span></p>
 </li>
 <li>
-<p>Using the <code>cdc</code> data</p>
-<p>– <strong>Using 500 random shuffles and a normal model, how much taller would the typical male have to be than the typical female in order for the difference to be in the upper 1% by chance alone?</strong></p>
-<p>– <strong>How can we use this value to justify the claim that the average Male in our data is taller than the average Female?</strong></p>
+<p>Using the <code>cdc</code> data:</p>
+<p>– <span style="color:firebrick;"><strong>Using 500 random shuffles and a normal model, how much taller would the typical male have to be than the typical female in order for the difference to be in the upper 1% by chance alone?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>How can we use this value to justify the claim that the average <code>Male</code> in our data is taller than the average <code>Female</code>?</strong></span></p>
 </li>
 </ul>
 
