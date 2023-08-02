@@ -1,5 +1,5 @@
 ##
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Playing with permutations**
 * *Slasher* films are notoriously gory and are said to contain recurring biases.
@@ -12,7 +12,7 @@ survive until the end of the film than men?*
 * To answer this question, we'll learn how to use permuted data to gauge how likely an event
 occurs by chance.
 
-* To begin, use the ```data``` function to load the ```slasher``` data file.
+* <span style="color:midnightblue;">**To begin, use the ```data``` function to load the ```slasher``` data file.**</span>
 
     – The data contains information about 485 characters from a random sample of 50
     *slasher* horror films.
@@ -20,34 +20,34 @@ occurs by chance.
 ###**Initial thoughts...**
 * To familiarize yourself with the data, answer the following:
 
-    – **How many variables and observations are contained in the data and what are
-    the possible values of the variables?**
+    – <span style="color:firebrick;">**How many variables and observations are contained in the data and what are
+    the possible values of the variables?**</span>
 
-    – **Which gender had more survivors? Write down a few sentences as to how
+    – <span style="color:firebrick;">**Which gender had more survivors? Write down a few sentences as to how
     you came to your conclusion. Be sure to look at both the *counts* and
-    *percentages* of survivors in each group before deciding.**
+    *percentages* of survivors in each group before deciding.**</span>
 
-    – **Calculate the difference between the percentage of females who survived and
+    – <span style="color:firebrick;">**Calculate the difference between the percentage of females who survived and
     the percentage of males who survived. Is the difference large enough to
-    conclude that women tend to survive more often than men?**
+    conclude that women tend to survive more often than men?**</span>
 
 ###**Tally whoa ... !**
 
 * Something you might have noticed is that these two lines of code aren't equivalent:
 
-        tally(gender ~ survival, data = slasher, margin = TRUE)
-        tally(survival ~ gender, data = slasher, margin = TRUE)
+        tally(~gender | survival, data = slasher, margin = TRUE)
+        tally(~survival | gender, data = slasher, margin = TRUE)
 
 * The first line of code takes the group of *survivors* and tells us how many of them were ```Male``` or ```Female```.
 
 * The other takes the group of *females / males* and tells us how many of them ```Dies``` or ```Survives```.
 
-* **The last question on the previous slide can be answered using the line of code below. Why?**
+* <span style="color:firebrick;">**The last question on the previous slide can be answered using the line of code below. Why?**</span>
 
     - Pro-tip: Include the option ```format = "percent"``` to obtain a two-way table with percentages.
     
      
-            tally(survival ~ gender, format = "percent", data = slasher, margin = TRUE)
+            tally(~survival | gender, format = "percent", data = slasher, margin = TRUE)
 
             ##           gender
             ## survival      Female      Male
@@ -69,51 +69,51 @@ conclude that the difference didn't just happen by chance.
 ###**Do the shuffle!**
 * When we shuffle data, we use our original data set as a starting point.
 
-    – Run the following and write down the resulting table on a piece of paper.
+    – <span style="color:firebrick;">**Run the following and write down the resulting table on a piece of paper.**</span>
 
-        tally(survival ~ gender, data = slasher)
+        tally(~survival | gender, data = slasher)
 
-* Now run the following to randomly reassign each ```survival``` status to each observation.
-Compare the resulting table to the one you wrote down.
+* <span style="color:firebrick;">**Now run the following to randomly reassign each ```survival``` status to each observation.
+Compare the resulting table to the one you wrote down.**</span>
 
-        tally(shuffle(survival) ~ gender,
+        tally(~shuffle(survival) | gender,
             data = slasher)
 
 ###**Let's compare ...**
-* **How many people, in total, survived the slasher film before shuffling? How many
-people survived after shuffling?**
+* <span style="color:firebrick;">**How many people, in total, survived the slasher film before shuffling? How many
+people survived after shuffling?**</span>
 
-* **How has shuffling our data changed the percentage of women who survived
-compared to men who survived?**
+* <span style="color:firebrick;">**How has shuffling our data changed the percentage of women who survived
+compared to men who survived?**</span>
 
-    – **Is the difference in percentages from your shuffled data larger or smaller than
-    the difference from the original data? Interpret what this means.**
+    – <span style="color:firebrick;">**Is the difference in percentages from your shuffled data larger or smaller than
+    the difference from the original data? Interpret what this means.**</span>
 
-* **Explain why shuffling our data one time is not enough to decide if the difference seen
-in our *actual* data occurs by chance or not.**
+* <span style="color:firebrick;">**Explain why shuffling our data one time is not enough to decide if the difference seen
+in our *actual* data occurs by chance or not.**</span>
 
 ###**Detecting differences**
 * To help us decide if the difference in percentages in our *actual* data occurs by chance or not,
 we can use the ```do()``` function to shuffle our data many times and see how often our *actual*
 difference occurred by chance.
 
-* Run the following lines of code:
+* <span style="color:midnightblue;">**Run the following lines of code:
 
         set.seed(7)
 
-        shuffled_outcomes <- do(10) * tally(shuffle(survival) ~ gender, format = "percent", 
+        shuffled_outcomes <- do(10) * tally(~shuffle(survival) | gender, 
+                                    format = "percent", 
                                     data = slasher)
 
         View(shuffled_outcomes)
 
-* **In how many simulations did a higher percentage of males survive than females?**
+* <span style="color:firebrick;">**In how many simulations did a higher percentage of males survive than females?**</span>
 
-* **What is the largest difference in percentages of survival between males and females?**
+* <span style="color:firebrick;">**What is the largest difference in percentages of survival between males and females?**</span>
 
-* **What patterns are emerging from these simulations?**
+* <span style="color:firebrick;">**What patterns are emerging from these simulations?**</span>
 
-* Ten simulations is not enough. Use ```do```, ```tally``` and ```shuffle``` functions to ```shuffle``` the ```survival``` variable and ```tally``` the percentage of women who survived 500 times. ```Assign``` your 500 shuffles the name ```shuffled_survivors```. Use ```set.seed(1)```
-
+* <span style="color:midnightblue;">**Ten simulations is not enough. Use ```do```, ```tally``` and ```shuffle``` functions to ```shuffle``` the ```survival``` variable and ```tally``` the percentage of women who survived 500 times. ```Assign``` your 500 shuffles the name ```shuffled_survivors```. Use ```set.seed(1)```.**</span>
 
 ###**Now what?**
 
@@ -122,28 +122,28 @@ to the differences in our shuffled data.
 
 * To compute the differences for each shuffle we can use the ```mutate``` function.
 
-    – Fill in the blanks to add the difference between ```Survives.Female``` and
-    ```Survives.Male``` to our ```shuffled_survivors``` data.
+    – <span style="color:midnightblue;">**Fill in the blanks to add a new column that contains the difference between ```Survives.Female``` and
+    ```Survives.Male``` to our ```shuffled_survivors``` data.**</span>
 
             shuffled_survivors <- mutate(shuffled_survivors,
                     diff = ____ - ____)
 
 ###**Time to decide**
-* Create a ```histogram``` of the ```difference```s in our ```shuffled_survivors``` data. Based on your plot, answer the following:
+* <span style="color:midnightblue;">**Create a ```histogram``` of the ```difference```s in our ```shuffled_survivors``` data. Based on your plot, answer the following:**</span>
 
-    – **What was the typical difference in percentages between men and women survivors?**
+    – <span style="color:firebrick;">**What was the typical difference in percentages between men and women survivors?**</span>
 
-* Include a vertical line in your histogram of the actual difference by running the code below:    
+* <span style="color:midnightblue;">**Include a vertical line in your histogram of the actual difference by running the code below:**</span>    
 
         add_line(vline = 22.52252 - 13.30798)
 
-* **Does the actual difference occur very often by chance alone?**        
+* <span style="color:firebrick;">**Does the actual difference occur very often by chance alone?**</span>        
 
-* **Does ```gender``` play a role in whether or not a character will survive in a horror film?
-Explain your reasoning.**
+* <span style="color:firebrick;">**Does ```gender``` play a role in whether or not a character will survive in a horror film?
+Explain your reasoning.**</span>
 
-* **If you wanted to survive in a horror film, would you want to play a female character or
-a male character?**
+* <span style="color:firebrick;">**If you wanted to survive in a horror film, would you want to play a female character or
+a male character?**</span>
 
 ###**Summary**
 * By shuffling the ```survival``` label, we made it so that the proportion of males and females
@@ -161,14 +161,15 @@ actual difference doesn't occur very often then perhaps there is something more 
 than just chance alone ...
 
 ###**On your own**
-* Carry out another 500 simulations but this time shuffle the ```gender``` variable instead of the
-```survival``` variable.
+* <span style="color:midnightblue;">**Carry out another 500 simulations but this time shuffle the ```gender``` variable instead of the
+```survival``` variable.**</span>
 
     – Include the code ```set.seed(1)``` before your 500 simulations to make your answer
     reproducible.
 
-* **Does shuffling the ```gender``` variable instead of the ```survival``` variable change your
-answer to the question: *Does ```gender``` play a role in whether or not a character will
-survive in a horror film?* **
+* <span style="color:firebrick;">**Does shuffling the ```gender``` variable instead of the ```survival``` variable change your
+answer to the question?**</span>
+* <span style="color:firebrick;">**Does ```gender``` play a role in whether or not a character will
+survive in a horror film?* **</span>
 
-    – **Why or why not?**
+    – <span style="color:firebrick;">**Why or why not?**</span>
