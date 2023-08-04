@@ -113,7 +113,7 @@ difference occurred by chance.
 
 * <span style="color:firebrick;">**What patterns are emerging from these simulations?**</span>
 
-* <span style="color:midnightblue;">**Ten simulations is not enough. Use ```do```, ```tally``` and ```shuffle``` functions to ```shuffle``` the ```survival``` variable and ```tally``` the percentage of women who survived 500 times. ```Assign``` your 500 shuffles the name ```shuffled_survivors```. Use ```set.seed(1)```.**</span>
+* <span style="color:midnightblue;">**Ten simulations is not enough. Use the code above and perform 500 shuffles. ```Assign``` your 500 shuffles the same name ```shuffled_outcomes```. Use ```set.seed(1)```.**</span>
 
 ###**Now what?**
 
@@ -123,13 +123,13 @@ to the differences in our shuffled data.
 * To compute the differences for each shuffle we can use the ```mutate``` function.
 
     – <span style="color:midnightblue;">**Fill in the blanks to add a new column that contains the difference between ```Survives.Female``` and
-    ```Survives.Male``` to our ```shuffled_survivors``` data.**</span>
+    ```Survives.Male``` to our ```shuffled_outcomes``` data.**</span>
 
-            shuffled_survivors <- mutate(shuffled_survivors,
+            shuffled_outcomes <- mutate(shuffled_outcomes,
                     diff = ____ - ____)
 
 ###**Time to decide**
-* <span style="color:midnightblue;">**Create a ```histogram``` of the ```difference```s in our ```shuffled_survivors``` data. Based on your plot, answer the following:**</span>
+* <span style="color:midnightblue;">**Create a ```histogram``` of the ```difference```s in our ```shuffled_outcomes``` data. Based on your plot, answer the following:**</span>
 
     – <span style="color:firebrick;">**What was the typical difference in percentages between men and women survivors?**</span>
 
