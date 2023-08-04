@@ -1,5 +1,5 @@
 ##
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Putting data together**
 * In the labs so far, we've only ever looked at individual data files.
@@ -10,9 +10,9 @@ data set.
 * In this lab, we will learn how to merge information from our *personality color* data with our
 *stress/chill* data.
 
-* *Export*, *upload*, *import* your *Personality Color* data set and name it ```colors```.
+* <span style="color:midnightblue;">***Export*, *upload*, *import* your *Personality Color* dataset and name it ```colors```.**</span>
 
-* Then, *export*, *upload*, *import* your *Stress/Chill* data set and name it ```stress```.
+* <span style="color:midnightblue;">**Then, *export*, *upload*, *import* your *Stress/Chill* dataset and name it ```stress```.**</span>
 
 ###**Looking at Stress/Chill**
 * We would like to analyze the research question:
@@ -28,26 +28,25 @@ data set.
 ###**Deciding how to merge**
 * Before we merge data, we need to decide *how* we plan to merge it:
 
-* We can *stack* our data sets, that is, take one data set's rows and add them to the bottom of the
-other data set.
+* We can *stack* our datasets, that is, take one dataset's rows and add them to the bottom of the
+other dataset.
 
-* We can also *join* our data sets horizontally. This is where we take one data set's columns and
-add them to the end of the other data set's columns based on matching an *ID* variable.
+* We can also *join* our data sets horizontally. This is where we take one dataset's columns and
+add them to the end of the other dataset's columns based on matching an *ID* variable.
 
-    – The *ID* variable will have entries that we use to *match* observations in both data sets.
+    – The *ID* variable will have entries that we use to *match* observations in both datasets.
 
-* **To answer the statistical question of interest, would it make more sense to *stack* or *join*
-our ```colors``` and ```stress``` data?**
+* <span style="color:firebrick;">**To answer the statistical question of interest, would it make more sense to *stack* or *join*
+our ```colors``` and ```stress``` data?**</span>
 
 ###**Finding variables in common:**
-* Look at the ```names``` of the variables in each data set.
+* Look at the ```names``` of the variables in each dataset.
 
-    – To merge different data sets together, we need to find variables they have in common.
+    – To merge different datasets together, we need to find variables they have in common.
 
-* **Which variables do the data sets have in common?**
+* <span style="color:firebrick;">**Which variables do the datasets have in common?**</span>
 
-* **Which variable would make sense to merge the data sets together with? Why not the
-others?**
+* <span style="color:firebrick;">**Which variable would make sense to merge the datasets together with? Why not the others?**</span>
 
 ###**Caution required**
 * Whether *stacking* or *joining*, we need to be careful when we merge data:
@@ -58,7 +57,7 @@ the exact same measurements.
     – We wouldn't want to stack ```height``` in meters and ```height``` in inches, for instance (without
     converting one to the other).
 
-* When *joining* data, we need to make sure that the *id* variable in our primary data set matches to
+* When *joining* data, we need to make sure that the *id* variable in our primary dataset matches to
 *one* and *only one* observation in the joining data.
 
     – Otherwise, ```R``` won't know which observation to match to.
@@ -66,49 +65,45 @@ the exact same measurements.
 ###**Getting ready**
 * Our goal is to add the variables from the ```colors``` data onto the ```stress``` data.
 
-* Start by ensuring that every ```user.id``` in the ```colors``` data is unique.
+* <span style="color:midnightblue;">**Start by ensuring that every ```user.id``` in the ```colors``` data is unique.**</span>
 
-    – If there's a duplicate, have your teacher remove the duplicate from the IDS *Response
-    Manager* and then re-export, *upload*, *import* your ```colors``` data.
+    – <span style="color:midnightblue;">**If there's a duplicate, have your teacher remove the duplicate from your class' Web *Response Manager* and then re-*export*, *upload*, *import* your ```colors``` data.**</span>
 
-* **After we add the data from *colors* to *stress*, how many rows should our merged data
-have? Write this number down.**
+* <span style="color:firebrick;">**After we add the data from *colors* to *stress*, how many rows should our merged data
+have? Write this number down.**</span>
 
 ###**Putting them together**
-* We can use the ```merge``` function to join our data sets together using the variables that appear in
+* We can use the ```merge``` function to *join* our datasets together using the variables that appear in
 both sets.
 
-* **Fill in the blanks below to join the information from the ```colors``` data onto the ```stress```.**
+* <span style="color:midnightblue;">**Fill in the blanks below to join the information from the ```colors``` data onto the ```stress``` data.**</span>
 
         merge(____, ____, by = "____")
 
-* ```Assign``` this ```merged``` data set the name ```stress_colors```.
+* <span style="color:midnightblue;">**```Assign``` this ```merged``` data set the name ```stress_colors```.**</span>
 
     – Make sure your data has the same number of observations that you wrote down on the
     previous slide.
 
 ###**Saving your data:**
-* ```View``` your merged data and make sure nothing appears to be blatantly wrong with it.
+* <span style="color:midnightblue;">**```View``` your merged data and make sure nothing appears to be blatantly wrong with it.**</span>
 
-* **Why didn't we stack the rows of data instead?**
+* <span style="color:firebrick;">**Why didn't we stack the rows of data instead?**</span>
 
-* **What happens if you swap the order of the data sets in the ```merge``` function?**
+* <span style="color:firebrick;">**What happens if you swap the order of the data sets in the ```merge``` function?**</span>
 
-* Fill in the blank below to save our ```stress_colors``` data for later use.
+* <span style="color:midnightblue;">**Fill in the blank below to save our ```stress_colors``` data for later use.**</span>
 
         save(stress_colors, file = "stress_colors.rda")
 
-* Be sure to look in the *Files* tab to make sure your data was saved.
+* <span style="color:midnightblue;">**Be sure to look in the *Files* tab to make sure your data was saved.**</span>
 
 ###**Moving on**
 * In the next lab, we'll begin analyzing our merged data. In the meantime:
 
-* **Make a few plots using variables from the ```stress``` data and *facet* or *group* the plots based
-on variables from the ```colors``` data.**
+* <span style="color:midnightblue;">**Make a few plots using variables from the ```stress``` data and *facet* or *group* the plots based on variables from the ```colors``` data.**</span>
 
-    – **Write down the most interesting discovery you make by just exploring your data.
-    Write out how you found your discovery and interpret what it means for the
-    people in your class.**
+    – <span style="color:firebrick;">**Write down the most interesting discovery you make by just exploring your data. Write out how you found your discovery and interpret what it means for the
+    people in your class.**</span>
 
-* **With our *colors* data, we could answer questions about the *typical* color scores in your
-class. Why can we no longer answer this question in our ```stress_colors``` data?**
+* <span style="color:firebrick;">**With our *colors* data, we could answer questions about the *typical* color scores in your class. Why can we no longer answer this question in our ```stress_colors``` data?**</span>

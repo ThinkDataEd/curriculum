@@ -28,12 +28,11 @@ this time or not.
 
 | **Prompt** | **Variable** | **Data Type** |
 | ---------- | ---------- | ---------- |
-|Take a photo of what you are doing right now.| photo |photo|
-|How stressed are you feeling right now (3 is very stressed, 0 is not stressed at all)?|level|integer|
-|How many people are you with (not counting yourself) up to 107,282?|howmanypeople|integer|
-|Who are you with?<br>&nbsp;&nbsp;&nbsp;&nbsp; -alone<br>&nbsp;&nbsp;&nbsp;&nbsp; -friends<br>&nbsp;&nbsp;&nbsp;&nbsp; -family<br>&nbsp;&nbsp;&nbsp;&nbsp; -friends and family<br>&nbsp;&nbsp;&nbsp;&nbsp; -classmates<br>&nbsp;&nbsp;&nbsp;&nbsp; -teacher<br>&nbsp;&nbsp;&nbsp;&nbsp; -teacher and classmates<br>&nbsp;&nbsp;&nbsp;&nbsp; -strangers|who|categorical|
 |Where are you?<br>&nbsp;&nbsp;&nbsp;&nbsp; -school<br>&nbsp;&nbsp;&nbsp;&nbsp; -work<br>&nbsp;&nbsp;&nbsp;&nbsp; -home<br>&nbsp;&nbsp;&nbsp;&nbsp; -public place<br>&nbsp;&nbsp;&nbsp;&nbsp; -others’ house<br>&nbsp;&nbsp;&nbsp;&nbsp; -commuting|where|categorical|
 |Why are you here (in one word)?|why|text|
+|How many people are you with (not counting yourself)?|howmanypeople|integer|
+|Who are you with?<br>&nbsp;&nbsp;&nbsp;&nbsp; -alone<br>&nbsp;&nbsp;&nbsp;&nbsp; -friends and/or family<br>&nbsp;&nbsp;&nbsp;&nbsp; -teachers and classmates<br>&nbsp;&nbsp;&nbsp;&nbsp; -strangers<br>&nbsp;&nbsp;&nbsp;&nbsp; -coworkers|who|categorical|
+|How stressed are you feeling right now (3 is very stressed, 0 is not stressed at all)?|stress|integer|
 |AUTOMATIC|location|lat, long|
 |AUTOMATIC|time|time|
 |AUTOMATIC|date|date|

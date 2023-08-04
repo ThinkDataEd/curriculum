@@ -12,7 +12,7 @@ Students will learn how to use simulations to detect biased probability.
 3. Projector for RStudio functions
 
 ###**Vocabulary:**
-bias
+[bias](../../vocabulary/unit2/#bias "the act of favoring one outcome over another"){ .md-button }
 
 ###**Essential Concepts:**
 

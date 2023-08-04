@@ -14,7 +14,12 @@ information about future outcomes if the events are independent.
 2. Projector for RStudio functions
 
 ###**Vocabulary:**
-probability, simulation, model, sample proportion, chance, independence
+[probability](../../vocabulary/unit2/#probability "how likely it is that some event will occur"){ .md-button }
+[simulation](../../vocabulary/unit2/#simulation "a way of creating random events that are close to real-life situations without actually doing them"){ .md-button }
+[model](../../vocabulary/unit2/#model "a way of representing real world situations so that predictions can be made"){ .md-button }
+[sample proportion](../../vocabulary/unit2/#sample-proportion "the fraction of samples which were successes"){ .md-button }
+[chance](../../vocabulary/unit2/#chance "the possibility that something will happen"){ .md-button }
+[independence](../../vocabulary/unit2/#independence "if one event doesn't affect the outcome of another event"){ .md-button }
 
 ###**Essential Concepts:**
 

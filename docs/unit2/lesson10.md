@@ -10,7 +10,11 @@ exact, but varies. Students practice converting percentages to proportions.
     the same size.
 
 ###**Vocabulary:**
-proportion, percentage, event, with replacement, without replacement
+[proportion](../../vocabulary/unit2/#proportion "when two ratios (or fractions) are equal"){ .md-button }
+[percentage](../../vocabulary/unit2/#percentage "parts per 100; for each hundred; a fraction whose denominator (bottom) is 100"){ .md-button }
+[event](../../vocabulary/unit2/#event "a set of possible outcomes resulting from a particular experiment"){ .md-button }
+[with replacement](../../vocabulary/unit2/#with-replacement "when a population element can be selected more than one time"){ .md-button }
+[without replacement](../../vocabulary/unit2/#without-replacement "when a population element can be selected only one time"){ .md-button }
 
 ###**Essential Concepts:**
 
