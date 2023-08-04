@@ -15,7 +15,7 @@ number of observations in the data set.
 ###**Vocabulary:**
 [measures of variability (or spread)](../../vocabulary/unit2/#measures-of-variability-or-spread "how far away the data points tend to fall from the center"){ .md-button }
 [deviation](../../vocabulary/unit2/#deviation "the act of departing from an established course or accepted standard"){ .md-button }
-[mean of absolute deviations (MAD)](../../vocabulary/unit2/#mean-of-absolute-deviations-MAD "the average distance between each data value and the mean"){ .md-button }
+[mean of absolute deviations (MAD)](../../vocabulary/unit2/#mean-of-absolute-deviations-mad "the average distance between each data value and the mean"){ .md-button }
 
 ###**Essential Concepts:**
 
