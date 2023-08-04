@@ -10,7 +10,7 @@ Students will learn how to create a boxplot from an already-established dotplot.
     **Advanced preparation required** (see Step 7 below)
 
 ###**Vocabulary:**
-representation
+[representation]](../../vocabulary/unit2/#representation "the form in which data is stored, processed, and transmitted"){ .md-button }
 
 ###**Essential Concepts:**
 

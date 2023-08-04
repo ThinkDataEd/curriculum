@@ -14,7 +14,7 @@ two medians using a histogram or dotplot.
 4. *Comparing Fuel Efficiency with Boxplots* handout ([LMR_2.10_Fuel Efficiency – Boxplots](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf))
 
 ###**Vocabulary:**
-rebuttal
+[rebuttal](../../vocabulary/unit2/#rebuttal "an opposing argument or debate"){ .md-button }
 
 ###**Essential Concepts:**
 
