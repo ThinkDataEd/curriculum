@@ -19,8 +19,8 @@ compute and interpret another measure of spread: the IQR.
 ###**Vocabulary:**
 [boxplot](../../vocabulary/unit2/#boxplot "A special type of diagram showing Quartiles 1, 2 and 3 (where the data can be split into quarters) in a box, with lines extending to the lowest and highest values"){ .md-button }
 [quartiles](../../vocabulary/unit2/#quartiles "the values that divide a list of numbers into quarters"){ .md-button }
-[first quartile (Q<sub>1</sub>)](../../vocabulary/unit2/#first-quartile-Q1 "a number for which 75% of the data is less than that number"){ .md-button }
-[third quartile (Q<sub>3</sub>)](../../vocabulary/unit2/#third-quartile-Q3 "the median of the upper half of the data set"){ .md-button }
+[first quartile (Q<sub>1</sub>)](../../vocabulary/unit2/#first-quartile-q1 "a number for which 75% of the data is less than that number"){ .md-button }
+[third quartile (Q<sub>3</sub>)](../../vocabulary/unit2/#third-quartile-q3 "the median of the upper half of the data set"){ .md-button }
 [quantiles](../../vocabulary/unit2/#quantiles "a term that can be used in place of percentiles because they represent a *quantity* of data that is lower than that value"){ .md-button }
 [minimum](../../vocabulary/unit2/#minimum "the smallest value"){ .md-button }
 [maximum](../../vocabulary/unit2/#maximum "the largest value"){ .md-button }
