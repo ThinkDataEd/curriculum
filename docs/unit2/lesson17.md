@@ -12,7 +12,7 @@ Students will learn that standard deviation is another way to measure variabilit
 4. RScript with the functions in this lesson
 
 ###**Vocabulary:**
-standard deviation (SD)
+[standard deviation (SD)](../../vocabulary/unit2/#standard-deviation-sd "a measure of how spread out numbers are; the square root of the variance"){ .md-button }
 
 ###**Essential Concepts:**
 

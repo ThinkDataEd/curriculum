@@ -14,7 +14,7 @@ to compute these probabilities.
 equally spaced across the length of the board)
 
 ###**Vocabulary:**
-compound probabilities
+[compound probabilities](../../vocabulary/unit2/#compound-probabilities "AND/OR probabilities; the likeliness of two independent events occurring"){ .md-button }
 
 ###**Essential Concepts:**
 

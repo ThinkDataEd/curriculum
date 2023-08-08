@@ -12,7 +12,7 @@ Students will learn how to merge two data sets and ask statistical questions abo
     **Advanced preparation required** (see Step 4 of lesson)
 
 ###**Vocabulary:**
-merge
+[merge](../../vocabulary/unit2/#merge "to come together or combine"){ .md-button }
 
 ###**Essential Concepts:**
 

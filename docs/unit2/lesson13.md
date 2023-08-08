@@ -9,7 +9,10 @@ between two groups.
 1. 3” x 5” cards (1 per student)
 
 ###**Vocabulary:**
-chance, simulations, randomness, shuffle
+[chance](../../vocabulary/unit2/#chance "the possibility that something will happen"){ .md-button }
+[simulations](../../vocabulary/unit2/#simulation "a way of creating random events that are close to real-life situations without actually doing them"){ .md-button }
+[randomness](../../vocabulary/unit2/#randomness "happening by chance; not able to be predicted"){ .md-button }
+[shuffle](../../vocabulary/unit2/#shuffle "rearrange so as to occupy different random positions or to be in a different random order"){ .md-button }
 
 ###**Essential Concepts:**
 

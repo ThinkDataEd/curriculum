@@ -10,7 +10,9 @@ Students will understand that a z-score can be used to measure how far - or how 
 3. *A ruler with centimeter marks on it*
 
 ###**Vocabulary:**
-z-score, standardized score, Empirical Rule
+[z-score](../../vocabulary/unit2/#z-score "tells us how many standard deviations away from the mean an observation is"){ .md-button }
+[standardized score](../../vocabulary/unit2/#standardized-score "another name for z-score"){ .md-button }
+[Empirical Rule](../../vocabulary/unit2/#empirical-rule "in a normal data set, virtually every piece of data will fall within three standard deviations of the mean"){ .md-button }
 
 ###**Essential Concepts:**
 

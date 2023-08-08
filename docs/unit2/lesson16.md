@@ -15,7 +15,9 @@ Students will learn what a Normal distribution is and learn how to identify a No
 4. 3” x 5” cards (1 per student)
 
 ###**Vocabulary:**
-bell-shaped, normal curve, normal distribution
+[bell-shaped](../../vocabulary/unit2/#bell-shaped "the bell shape that is created on a graph of a normal distribution"){ .md-button }
+[normal curve](../../vocabulary/unit2/#normal-curve "curve or the graph is the common type of distribution for a variable"){ .md-button }
+[normal distribution](../../vocabulary/unit2/#normal-distribution "an arrangement of a data set in which most values cluster in the middle of the range"){ .md-button }
 
 ###**Essential Concepts:**
 
