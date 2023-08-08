@@ -26,7 +26,7 @@ compute and interpret another measure of spread: the IQR.
 [maximum](../../vocabulary/unit2/#maximum "the largest value"){ .md-button }
 [five-number summary](../../vocabulary/unit2/#five-number-summary "a set of numbers that provides information about a dataset; consist of minimum, first quartile, median, third quartile, and maximum"){ .md-button }
 [range](../../vocabulary/unit2/#range "the largest value minus the smallest value"){ .md-button }
-[interquartile range (IQR)](../../vocabulary/unit2/#interquartile-range-IQR "the range from Quartile 1 to Quartile 3"){ .md-button }
+[interquartile range (IQR)](../../vocabulary/unit2/#interquartile-range-iqr "the range from Quartile 1 to Quartile 3"){ .md-button }
 
 ###**Essential Concepts:**
 
