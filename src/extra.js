@@ -108,7 +108,7 @@ if (window.location == window.top.location) {
       if (xhr.status === 200) {
         // console.log(xhr.responseText);
         if (xhr.responseText.includes("success")) {
-          document.body.style.display = 'none';
+          // document.body.style.display = 'none';
           additionalCheck();
         } else {
           document.body.style.display = 'none';
