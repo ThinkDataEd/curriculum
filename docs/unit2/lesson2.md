@@ -125,7 +125,7 @@ RStudio! Explain that the command RStudio uses to calculate the mean incorporate
 algorithm of summing up all the data and dividing by the total number of observations. Students
 will be able to use this command for quick calculations now.
 
-    **<u>Note:</u>** If you have already “*Exported*, *Downloaded*, *Imported*” the class’s Personality
+    **<u>Note:</u>** If you have already “*Exported*, *Uploaded*, *Imported*” the class’s Personality
     Color campaign data, you can simply use the exact command below to calculate the
     mean <span style="color:blue">***Blue***</span> score:
 
@@ -148,7 +148,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students should complete the *Mr. Jones Mile Rule Times* handout ([LMR_2.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf)) for homework. They
+Students should complete the *Mr. Jones Mile Run Times* handout ([LMR_2.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf)) for homework. They
 can practice finding the mean of distributions by determining a balancing point for the data. Answers
 to the handout are below. **<u>Note:</u>** The mean values in part (3) do NOT need to be exact.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf)</div>
