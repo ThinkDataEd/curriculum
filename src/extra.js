@@ -35,18 +35,23 @@ function additionalCheck() {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
         // console.log(xhr.responseText);
-        window.resp = xhr.responseText;
-        var resp = xhr.responseText;
-        resp = resp.replace(/"/g, "");
-        if (xhr.responseText.includes("success") && resp.includes("can_create_classes:true")) {
+        var data = JSON.parse(resp).data; 
+        if (xhr.responseText.includes("success") && Object.values(data).some((dat)=>dat?.permissions?.can_create_classes)) {
           console.log("PASSED");
         } else {
+          document.body.style.display = 'none';
           window.location.href = window.location.origin + "/";
         }
       } else {
+        document.body.style.display = 'none';
         window.location.href = window.location.origin + "/";
       }
     }
+  };
+  xhr.onerror = function (e) {
+    console.error(xhr.statusText);
+    document.body.style.display = 'none';
+    window.location.href = window.location.origin + "/";
   };
   xhr.send(params);
 }
@@ -101,15 +106,18 @@ if (window.location == window.top.location) {
         if (xhr.responseText.includes("success")) {
           additionalCheck();
         } else {
+          document.body.style.display = 'none';
           window.location.href = window.location.origin + "/#login";
         }
       } else {
+        document.body.style.display = 'none';
         window.location.href = window.location.origin + "/#login";
       }
     }
   };
   xhr.onerror = function (e) {
     console.error(xhr.statusText);
+    document.body.style.display = 'none';
     window.location.href = window.location.origin + "/#login";
   };
   xhr.send(null);
