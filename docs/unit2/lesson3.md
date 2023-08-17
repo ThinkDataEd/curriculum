@@ -89,7 +89,7 @@ the number of candies eaten by a group of 17 high school students.
     100. Which plot makes it easier to find the median number of candies eaten – the dot plot or
     the histogram? Why? <span style="color:grey">***The dot plot is easier because we can simply find the middle
     dot and record the value. It is harder on the histogram, because we would have to
-    add up amount in each bar to find the middle person.***</span>
+    add up the amount in each bar to find the middle person.***</span>
 
     100. What is the median value? <span style="color:grey">***The median number of candies eaten is 1 candy.***</span>
 
