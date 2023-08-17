@@ -1,3 +1,6 @@
+
+
+
 function setCookie20230723(cname, cvalue, exdays) {
   const d = new Date();
   d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
@@ -37,6 +40,7 @@ function additionalCheck() {
         // console.log(xhr.responseText);
         var data = JSON.parse(resp).data; 
         if (xhr.responseText.includes("success") && Object.values(data).some((dat)=>dat?.permissions?.can_create_classes)) {
+          document.body.style.display = 'block';
           console.log("PASSED");
         } else {
           document.body.style.display = 'none';
@@ -104,6 +108,7 @@ if (window.location == window.top.location) {
       if (xhr.status === 200) {
         // console.log(xhr.responseText);
         if (xhr.responseText.includes("success")) {
+          document.body.style.display = 'none';
           additionalCheck();
         } else {
           document.body.style.display = 'none';
