@@ -34,13 +34,14 @@ function additionalCheck() {
   xhr.onload = function (e) {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
-        // console.log(xhr.responseText);
-        if (xhr.responseText.includes("success") && xhr.responseText.replace(" ", "").replace("\"", "").replace("\'", "").includes("can_create_classes:true")
-        ) {
-          console.log("PASSED");
-        } else {
-          window.location.href = window.location.origin + "/";
-        }
+         console.log(xhr.responseText);
+        
+        // if (xhr.responseText.includes("success") && xhr.responseText.replace(" ", "").replace("\"", "").replace("\'", "").includes("can_create_classes:true")
+        // ) {
+        //   console.log("PASSED");
+        // } else {
+        //   window.location.href = window.location.origin + "/";
+        // }
       } else {
         window.location.href = window.location.origin + "/";
       }
