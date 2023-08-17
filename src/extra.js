@@ -35,6 +35,7 @@ function additionalCheck() {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
         // console.log(xhr.responseText);
+        window.resp = xhr.responseText;
         var resp = xhr.responseText;
         resp = resp.replace(/"/g, "");
         if (xhr.responseText.includes("success") && resp.includes("can_create_classes:true")) {
