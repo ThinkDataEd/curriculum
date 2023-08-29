@@ -33,7 +33,7 @@
 
 ### Lab1C
 
-* Objective: Students will learn that loading data onto the Enviornment Pane from participatory sensing campaigns uses a different process (export, upload, import).
+* Objective: Students will learn that loading data onto the Environment Pane from participatory sensing campaigns uses a different process (export, upload, import).
 
 ### Lab1D
 
