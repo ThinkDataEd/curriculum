@@ -14,7 +14,7 @@ Students will learn about the stages of the Data Cycle.
 
 5. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
 
-6. Article headline: *People Who Order Coffee Black Are More Likely To Be Psychopaths* found at: [https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f](https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f "https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f")
+6. Article headline: *People Who Order Coffee Black Are More Likely To Be Psychopaths*
 
 7. *Dude Map* found at: [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/")
 
@@ -96,7 +96,7 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
     <span style="color:grey">***Students should begin developing statistical habits of mind. They should be interrogating the data by asking questions such as:
     Who is the data about? What was the purpose of collecting the data? What was the survey question asked to collect the data?***</span>
 
-11. Artifact 2: Article headline *People Who Order Coffee Black Are More Likely To Be Psychopaths* found at: [https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f](https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f "https://www.huffpost.com/entry/black-coffee-psychopath_n_561baf08e4b0dbb8000f150f")
+11. Artifact 2: Article headline *People Who Order Coffee Black Are More Likely To Be Psychopaths*
 
     100. What part of the data cycle does the artifact represent (posing a statistical investigative question, consider data, analyze data, interpret data)? Why do we think that?
     <span style="color:grey">***Answers will vary.***</span>
