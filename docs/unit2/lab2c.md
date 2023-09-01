@@ -1,4 +1,5 @@
-##
+##**<u>Lab 2C - Which Song Plays Next?</u>**
+
 Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**A new direction**
