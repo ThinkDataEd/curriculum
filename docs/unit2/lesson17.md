@@ -1,4 +1,5 @@
-##
+##**<u>A Normal Measure of Spread</u>**
+
 ###**Objective:**
 Students will learn that standard deviation is another way to measure variability.
 

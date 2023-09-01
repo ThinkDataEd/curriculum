@@ -1,4 +1,5 @@
-##
+##**<u>The Titanic Shuffle</u>**
+
 ###**Objective:**
 Students will continue to understand that, just by chance, we will see differences between two groups.
 They will understand that these differences are usually small.
