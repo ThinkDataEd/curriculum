@@ -1,3 +1,5 @@
+##**<u>Lesson 13: RStudio Basics</u>**
+
 ###**Objective:**
 Students will learn RStudio’s interface, as well as a few basic commands to discover the structure behind
 a data set.

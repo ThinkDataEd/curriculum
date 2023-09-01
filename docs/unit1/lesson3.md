@@ -1,3 +1,5 @@
+##**<u>Lesson 3: Data Structures</u>**
+
 ###**Objective:**
 Students will learn that data can be represented in rectangular format.
 

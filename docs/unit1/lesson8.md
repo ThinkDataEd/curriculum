@@ -1,3 +1,5 @@
+##**<u>Lesson 8: Tangible Plots</u>**
+
 ###**Objective:**
 Students will learn how distributions help us organize and visualize data values, and that the shapes of
 the distributions give us information about the variability of the data.

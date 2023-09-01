@@ -1,3 +1,5 @@
+##**<u>Lesson 6: What Do I Eat?</u>**
+
 ###**Objective:**
 Students will collect data using paper and pencil to understand the challenges of organizing, storing, and
 sharing data. They will learn that there must be an agreement about the variables that need to be

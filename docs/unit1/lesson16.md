@@ -1,3 +1,5 @@
+##**<u>Lesson 16: Categorical Associations</u>**
+
 ###**Objective:**
 Students will learn to construct, interpret, and calculate the joint relative frequencies of two-way frequency
 tables.

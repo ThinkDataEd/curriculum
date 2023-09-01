@@ -1,3 +1,5 @@
+##**<u>Lesson 11: What Shape Are You In?</u>**
+
 ###**Objective:**
 Students will learn to classify distributions in terms of shape, and can suggest theories for why a
 distribution might be one shape or another.

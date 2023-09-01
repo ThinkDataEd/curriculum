@@ -1,4 +1,5 @@
-###
+##**<u>Lab 1F - A Diamond in the Rough</u>**
+
 Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Messy data? Get used to it**

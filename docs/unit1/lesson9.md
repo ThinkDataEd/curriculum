@@ -1,3 +1,5 @@
+##**<u>Lesson 9: What is Typical?</u>**
+
 ###**Objective:**
 Students will learn about the typical value when looking at a distribution by finding the “center” and
 determining any point clusters.

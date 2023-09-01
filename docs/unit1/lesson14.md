@@ -1,3 +1,5 @@
+##**<u>Lesson 14: Variables, Variables, Variables</u>**
+
 ###**Objective:**
 Students will learn how to read and interpret multiple variable plots: bivariate scatterplots, multiple
 variable scatterplots, stacked bar plots, and side-by-side bar plots. They will summarize their learning

@@ -1,4 +1,5 @@
-###
+##**<u>Lab 1A - Data, Code & RStudio</u>**
+
 Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Welcome to the labs!**

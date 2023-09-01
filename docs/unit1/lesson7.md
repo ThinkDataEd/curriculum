@@ -1,3 +1,5 @@
+##**<u>Lesson 7: Setting the Stage</u>**
+
 ###**Objective:**
 Students will begin to collect and record data to learn more about their own eating habits, as well as those
 of their classmates.. They will learn about data that is collected by a Participatory Sensing campaign, and

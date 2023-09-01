@@ -1,3 +1,5 @@
+##**<u>Lesson 2: Stick Figures</u>**
+
 ###**Objective:**
 Students will learn how to observe, record, and organize data.
 
