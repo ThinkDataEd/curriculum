@@ -1,4 +1,5 @@
-##
+##**<u>This AND/OR That</u>**
+
 ###**Objective:**
 Students will understand how AND/OR probabilities are defined and will be able to use frequency tables
 to compute these probabilities.
