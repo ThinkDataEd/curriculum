@@ -1,4 +1,4 @@
-##**<u>How Far is it from Typical?</u>**
+##**<u>Lesson 4: How Far is it from Typical?</u>**
 
 ###**Objective:**
 Students will understand that the mean of the absolute deviations (MAD) is a way to assess the degree of

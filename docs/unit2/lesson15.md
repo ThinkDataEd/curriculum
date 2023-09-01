@@ -1,4 +1,4 @@
-##**<u>Tangible Data Merging</u>**
+##**<u>Lesson 15: Tangible Data Merging</u>**
 
 ###**Objective:**
 Students will learn how to merge two data sets and ask statistical questions about the merged data.

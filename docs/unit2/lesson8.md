@@ -1,4 +1,4 @@
-##**<u>How Likely Is It?</u>**
+##**<u>Lesson 8: How Likely Is It?</u>**
 
 ###**Objective:**
 Students will understand the basic rules of probability. They will learn that previous outcomes do not give

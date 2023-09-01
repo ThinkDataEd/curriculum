@@ -1,4 +1,4 @@
-##**<u>What Does Mean Mean?</u>**
+##**<u>Lesson 2: What Does Mean Mean?</u>**
 
 ###**Objective:**
 Students will learn that values that gather around the center of a distribution show the typical value. This

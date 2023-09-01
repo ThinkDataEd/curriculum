@@ -1,4 +1,4 @@
-##**<u>The Titanic Shuffle</u>**
+##**<u>Lesson 14: The Titanic Shuffle</u>**
 
 ###**Objective:**
 Students will continue to understand that, just by chance, we will see differences between two groups.

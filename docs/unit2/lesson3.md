@@ -1,4 +1,4 @@
-##**<u>Median in the Middle</u>**
+##**<u>Lesson 3: Median in the Middle</u>**
 
 ###**Objective:**
 Students will learn that the median is another way to measure the center, or typical-ness, of a distribution,

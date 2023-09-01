@@ -1,4 +1,4 @@
-##**<u>Bias Detective</u>**
+##**<u>Lesson 9: Bias Detective</u>**
 
 ###**Objective:**
 Students will learn how to use simulations to detect biased probability.

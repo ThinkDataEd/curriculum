@@ -1,4 +1,4 @@
-##**<u>Human Boxplots</u>**
+##**<u>Lesson 5: Human Boxplots</u>**
 
 ###**Objective:**
 Students will learn how and when to use boxplots to compare groups of data. They will learn how to
