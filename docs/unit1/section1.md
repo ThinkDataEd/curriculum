@@ -11,7 +11,7 @@ sometimes be simplified with some basic statistics.
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
 The *Target Story* will introduce students to the idea that data are ubiquitous. The advent of computers
 has transformed the way data are collected, used, and analyzed. Video can be found at:
-[https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4")
+[https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4"){:target="_blank"}
 
   <div align="right"><iframe width="420" height="315"
   src="https://www.youtube.com/embed/XvSA-6BJkx4" allowfullscreen>

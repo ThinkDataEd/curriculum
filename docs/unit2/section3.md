@@ -13,7 +13,7 @@ rejected and there is a dependent relationship between two variables.
 Students will read the Huffington Post article titled *Don’t Take My Stress Away* to set the stage for the
 Stress/Chill Campaign. High school students who expected, and wanted, to feel stressed out by school
 wrote this article. The article is found at:<br>
-[http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html](http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html "http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html")
+[http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html](http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html "http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>

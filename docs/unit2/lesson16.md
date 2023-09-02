@@ -5,7 +5,7 @@ Students will learn what a Normal distribution is and learn how to identify a No
 
 ###**Materials:**
 1. Video: *New York Times’* “Bunnies, Dragons, and the Normal World” found at:
-[http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html](http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html "http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html")
+[http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html](http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html "http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html"){:target="_blank"}
 
     **<u>Note:</u>** Show only the first 41 seconds of the video.
 
@@ -58,7 +58,7 @@ they have seen Normal curves in previous labs?
 
 6. To give some more background on the normal distribution, play the New York Times video titled
 “Bunnies, Dragons, and the Normal World” found at:
-[http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html](http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html "http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html")
+[http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html](http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html "http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html"){:target="_blank"}
 
     **<u>Note:</u>** Show only the first 41 seconds of the video.
 

@@ -13,7 +13,7 @@ same each time.
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
 Students will view and discuss a video clip called *Play Like Nadal With a Smart Tennis Racket* to begin to think about the
 sensors as data collection devices found ubiquitously in today’s world. The video can be found at:    
-[https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc")
+[https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>

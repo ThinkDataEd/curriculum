@@ -6,11 +6,11 @@ discern whether the evidence presented is based on anecdotes or data.
 
 ###**Materials:**
 1. Hans Rosling’s video *How Not to Be Ignorant About the World* found at
-[https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world](https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world "https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world")
+[https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world](https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world "https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world"){:target="_blank"}
 2. *Article: Miracle at the KK Café* (also available in the LMR folder)
-[https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741](https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741 "https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741")
+[https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741](https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741 "https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741"){:target="_blank"}
 3. *Article: Can Trophy Hunting Actually Help Conservation?* (also available in the LMR folder)
-[https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/](https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/ "https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/")
+[https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/](https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/ "https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/"){:target="_blank"}
 
 ###**Vocabulary:**
 anecdote, data
@@ -26,7 +26,7 @@ anecdote, data
 ###**Lesson:**
 1. Prepare your video player to show the first 5 minutes and 23 seconds of Hans Rosling’s video
 *How Not to Be Ignorant About the World* found at:
-[https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world](https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world "https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world")
+[https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world](https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world "https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world"){:target="_blank"}
 
 2. Ask students to play along as they watch the video. Each time Hans Rosling asks the audience to
 choose an answer to each of the three questions, pause the video for about 5 seconds and ask
@@ -105,10 +105,10 @@ Help Conservation*? to analyze whether the claims each makes are based on anecdo
 The articles can be found at the following links or in the LMR folder:
 
     *Miracle at KK Café*<br>
-    [https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741](https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741 "https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741")
+    [https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741](https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741 "https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741"){:target="_blank"}
 
     *Can Trophy Hunting Actually Help Conservation?*<br>
-    [https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/](https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/ "https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/")
+    [https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/](https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/ "https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/"){:target="_blank"}
 
 10. Ask students to number themselves off as 1 or 2. Students whose number is 1 will read *Miracle at
 KK Café* and those whose number is 2 will read *Can Trophy Hunting Actually Help Conservation*?

@@ -70,9 +70,9 @@ Robert Montgomery, Carole Sailer, Joy Lee, Monica Casillas, Roberta Ross, Velia 
 author(s) and do not necessarily reflect the views of the National Science Foundation.*
 
 *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a
-copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0 "http://creativecommons.org/licenses/by-sa/4.0")*
+copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0 "http://creativecommons.org/licenses/by-sa/4.0"){:target="_blank"}*
 
-**For additional information related to IDS visit: [https://www.idsucla.org](https://www.idsucla.org "https://www.idsucla.org")**
+**For additional information related to IDS visit: [https://www.idsucla.org](https://www.idsucla.org "https://www.idsucla.org"){:target="_blank"}**
 
 ## Mobilize
 ![mobilize](img/mobilize.png)

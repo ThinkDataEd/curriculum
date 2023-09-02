@@ -25,7 +25,7 @@ value is also referred to as the mean, or average.
 6. Exported, printed, and reproduced class’s *Personality Color* survey data
 
     **Advanced preparation required**: The teacher must share students’ data on the IDS Home page
-    ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")) before it can be exported and printed. Students will keep for use in
+    ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}) before it can be exported and printed. Students will keep for use in
     subsequent lessons.
 
 7. *Mr. Jones Mile Run Times* handout ([LMR_2.3_Mr. Jones Run Times](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf))

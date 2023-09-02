@@ -27,7 +27,7 @@ between two groups.
 
 ###**Lesson:**
 1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
-[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"). Click on **Campaign Monitor** and sign in.
+[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}. Click on **Campaign Monitor** and sign in.
 
 2. Inform students that you will be monitoring their data collection. Ask:
 
@@ -223,7 +223,7 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 For the next 5 days, students will collect data for the *Stress/Chill* campaign either through the UCLA [IDS
-UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
+UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 [<u>***LAB 2E: The Horror Movie Shuffle***</u>](lab2e.md)
 

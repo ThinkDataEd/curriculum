@@ -8,7 +8,7 @@ the distributions give us information about the variability of the data.
 1. Computer and projector for Campaign Monitoring
 
 2. Video: *Value of Data Visualization* found at:<br>
-    [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc")
+    [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"){:target="_blank"}
 
     <div align="right"><iframe width="420" height="315"
     src="https://www.youtube.com/embed/xekEXM0Vonc" allowfullscreen>
@@ -51,7 +51,7 @@ the distributions give us information about the variability of the data.
 
 1. <u>**Food Habits Campaign Data Collection Monitoring:**</u>
 
-    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")<br>
+    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}<br>
     Click on **Campaign Monitor** and sign in.
 
     100. Inform students that you will be monitoring their data collection. This is a good
@@ -70,7 +70,7 @@ the distributions give us information about the variability of the data.
 
 2. Inform students that today they will be learning how to visualize their data.
 
-3. Show the *Value of Data Visualization* video at [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"),
+3. Show the *Value of Data Visualization* video at [https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"){:target="_blank"},
 which describes the importance of graphical representations of data. As they watch the video,
 students should respond to the following in their DS journals:
 

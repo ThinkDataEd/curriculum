@@ -7,15 +7,15 @@ Power (DWP) to help them understand how water was used in the Los Angeles area i
 before the drought.
 
 ###**Materials:**
-1. *Video: California Drought Crisis Reaches Worst Level as It Spreads North*<br> [https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516")
+1. *Video: California Drought Crisis Reaches Worst Level as It Spreads North*<br> [https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516"){:target="_blank"}
 
-    OR [http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516")
+    OR [http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516"){:target="_blank"}
     
 	<div align="right"><iframe width="420" height="315"
 	src="https://www.nbcnews.com/news/embedded-video/mmvo42767429933" allowfullscreen>
 	</iframe><br><a href="https://www.nbcnews.com/news/embedded-video/mmvo42767429933">https://www.nbcnews.com/news/embedded-video/mmvo42767429933</a></div>
 
-2. *Webpage: Twitter vs. Heart Disease* Webpage (Found at: <br> [https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830](https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830 "https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830") 
+2. *Webpage: Twitter vs. Heart Disease* Webpage (Found at: <br> [https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830](https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830 "https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830"){:target="_blank"} 
 )
 
 3. Class Created Campaign Information (from [Unit 3](../unit3/overview.md), [Lessons 17](../unit3/lesson17.md)-[19](../unit3/lesson19.md))
@@ -69,7 +69,7 @@ an exceptional drought in the second decade of the 21<sup>st</sup> century.
 they *Know* about droughts. Then, students will write what they *Learned* about the California
 drought as they watch the brief NB News video clip titled *California Drought Crisis Reaches Worst
 Level as It Spreads North*. Finally, they will write 2-3 questions about what they *Want* to
-know/learn about droughts. Video clip is found at: [https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516").
+know/learn about droughts. Video clip is found at: [https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516"){:target="_blank"}.
 
 6. Do a quick *Whip Around* to share some of the students’ responses to the *K-L-W*.
 
@@ -141,7 +141,7 @@ want to record these in their DS journals):
     100. count = number of facilities per census block for that sector type
 
 14. Next, load an interactive map of the DWP 2010 data by visiting:<br>
-    [https://labs.idsucla.org/extras/animations/watermap/watermap.html](https://labs.idsucla.org/extras/animations/watermap/watermap.html "https://labs.idsucla.org/extras/animations/watermap/watermap.html")
+    [https://labs.idsucla.org/extras/animations/watermap/watermap.html](https://labs.idsucla.org/extras/animations/watermap/watermap.html "https://labs.idsucla.org/extras/animations/watermap/watermap.html"){:target="_blank"}
 
 15. Lead a discussion about what is on the page. Ask:
 

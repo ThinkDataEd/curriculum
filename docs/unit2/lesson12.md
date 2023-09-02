@@ -7,7 +7,7 @@ may not be based on data.
 
 ###**Materials:**
 1. Article: *Huffington Post’s Don’t Take My Stress Away* found at:<br>
-[http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html](http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html "http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html")
+[http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html](http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html "http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html"){:target="_blank"}
 
 2. Data collection devices
 
@@ -34,7 +34,7 @@ in [Teacher Resources](../download/resources.md)).
 part of life in the Huffington Post article titled *Don’t Take My Stress Away*.
 
 4. Provide students the link to the article and allow time for them to read it:
-[http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html](http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html "http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html")
+[http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html](http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html "http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html"){:target="_blank"}
 
 5. As they read the article, students should note whether they agree or disagree with the authors
 and should write down their comments and/or reactions to the article in their DS journals.
@@ -47,7 +47,7 @@ certain times of the day.
 
 8. Students will collect data using the *Stress/Chill* Participatory Sensing campaign. They will add the
 *Stress/Chill* campaign to their list of available campaigns either through the UCLA [IDS UCLA App](../download/app.md)
-or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
+or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 9. Ask students to complete their first survey.
 
@@ -79,4 +79,4 @@ of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 For the next 6 days, students will collect data for the *Stress/Chill* campaign either through the UCLA [IDS
-UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
+UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}

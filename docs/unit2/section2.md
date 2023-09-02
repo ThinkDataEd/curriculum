@@ -8,7 +8,7 @@ approximated by designing and conducting simulations, and also via mathematical 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
 Students will watch a scene from the movie *Rosencrantz and Guildenstern are Dead* and discuss the
 likelihood of getting “heads” when tossing a coin 78 times in a row. The scene can be found at:
-[https://www.youtube.com/watch?v=NbInZ5oJ0bc](https://www.youtube.com/watch?v=NbInZ5oJ0bc "https://www.youtube.com/watch?v=NbInZ5oJ0bc")
+[https://www.youtube.com/watch?v=NbInZ5oJ0bc](https://www.youtube.com/watch?v=NbInZ5oJ0bc "https://www.youtube.com/watch?v=NbInZ5oJ0bc"){:target="_blank"}
 
   <div align="right"><iframe width="420" height="315"
   src="https://www.youtube.com/embed/NbInZ5oJ0bc" allowfullscreen>

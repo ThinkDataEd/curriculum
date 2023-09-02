@@ -11,7 +11,7 @@ chance) assignment to treatments is applied.
 Students will view Hans Rosling’s video *How Not to Be Ignorant About the World* and will participate in his
 interactive quiz in order to learn how anecdotes and personal experience can influence what we know
 and, alternatively, how data provides basis for evidence. The video can be found at:
-[https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world](https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world "https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world")
+[https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world](https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world "https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>

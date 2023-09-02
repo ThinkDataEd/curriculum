@@ -19,7 +19,7 @@ differently.
 ###**Our first web scraper**
 * Copy and paste the link below into a web browser to view the website of data we'd like to *scrape*
 and analyze.<br>
-    [https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html")
+    [https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html"){:target="_blank"}
 
 * **Briefly describe what the data on the website is about.**
 

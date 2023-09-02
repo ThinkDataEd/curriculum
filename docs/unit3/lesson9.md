@@ -6,12 +6,12 @@ types of questions are used in a survey, and how a survey is conducted.
 
 ###**Materials:**
 1. Video: *Family Feud’s* “Shocking Fast Money” found at:<br>
-    [https://www.youtube.com/watch?v=-3Nk9t7-rCs](https://www.youtube.com/watch?v=-3Nk9t7-rCs "https://www.youtube.com/watch?v=-3Nk9t7-rCs") (good quality, but sad ending)
+    [https://www.youtube.com/watch?v=-3Nk9t7-rCs](https://www.youtube.com/watch?v=-3Nk9t7-rCs "https://www.youtube.com/watch?v=-3Nk9t7-rCs"){:target="_blank"} (good quality, but sad ending)
 
     **OR**
 
     Video: *Family Feud* video clip titled “Family Feud – Comeback of the Century” found at:<br>
-    [https://www.youtube.com/watch?v=ofQkOfeg60g](https://www.youtube.com/watch?v=ofQkOfeg60g "https://www.youtube.com/watch?v=ofQkOfeg60g") (bad quality, but happy ending)
+    [https://www.youtube.com/watch?v=ofQkOfeg60g](https://www.youtube.com/watch?v=ofQkOfeg60g "https://www.youtube.com/watch?v=ofQkOfeg60g"){:target="_blank"} (bad quality, but happy ending)
 
 2. *Designing a Survey* handout ([LMR_3.4_Designing a Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf))
 

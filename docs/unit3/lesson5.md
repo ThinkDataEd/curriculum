@@ -53,7 +53,7 @@ done correctly.
 one minute. Ensure each student records her/his estimate in the DS journal.
 
 12. When the experiment is completed, have students enter their data in the *Time Perception* survey
-found in the Survey Taking Tool at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org") or by using the [IDS UCLA App](../download/app.md) in their
+found in the Survey Taking Tool at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} or by using the [IDS UCLA App](../download/app.md) in their
 iOS or Android devices.
 
 13. Inform students that they will be analyzing the results from the experiment in *[Lab 3.1: The results
