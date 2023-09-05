@@ -238,7 +238,7 @@
     <td class="tg-uys7">30</td>
     <td class="tg-xldj"><a href="../../unit2/lab2i">Lab 2I: R’s Normal Distribution Alphabet</a></td>
     <td class="tg-xldj"></td>
-    <td class="tg-xldj"></td>
+    <td class="tg-xldj">Normal probability, rnorm(), pnorm(), quantiles, qnorm()</td>
     <td class="tg-uys7"><a href="../../unit2/lab2i">212</a></td>
   </tr>
   <tr>
