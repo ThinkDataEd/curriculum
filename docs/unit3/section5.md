@@ -7,7 +7,7 @@ Data takes on a variety of forms online and requires a different style of repres
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
 Students will view a video clip about a data farm, specifically, Google’s Street View Data Center to begin
 thinking about data formats and accessing data online. The video can be found at:
-[https://www.engadget.com/2012-10-17-google-inside-data-centers.html](https://www.engadget.com/2012-10-17-google-inside-data-centers.html "https://www.engadget.com/2012-10-17-google-inside-data-centers.html")
+[https://www.engadget.com/2012-10-17-google-inside-data-centers.html](https://www.engadget.com/2012-10-17-google-inside-data-centers.html "https://www.engadget.com/2012-10-17-google-inside-data-centers.html"){:target="_blank"}
 
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>

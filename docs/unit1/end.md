@@ -19,19 +19,19 @@ magazine, newspaper, or other media related to the topic of nutrition or time us
 claim. Use an article we have not used in class.
 
     a. *How Americans Eat Today:*<br>
-    [http://www.cbsnews.com/news/how-americans-eat-today/](http://www.cbsnews.com/news/how-americans-eat-today/ "http://www.cbsnews.com/news/how-americans-eat-today/")    
+    [http://www.cbsnews.com/news/how-americans-eat-today/](http://www.cbsnews.com/news/how-americans-eat-today/ "http://www.cbsnews.com/news/how-americans-eat-today/"){:target="_blank"}    
 
     b. *Why do we still eat this way?:*<br> 
-    [https://www.washingtonpost.com/news/to-your-health/wp/2014/08/04/why-do-we-still-eat-this-way](https://www.washingtonpost.com/news/to-your-health/wp/2014/08/04/why-do-we-still-eat-this-way "https://www.washingtonpost.com/news/to-your-health/wp/2014/08/04/why-do-we-still-eat-this-way")
+    [https://www.washingtonpost.com/news/to-your-health/wp/2014/08/04/why-do-we-still-eat-this-way](https://www.washingtonpost.com/news/to-your-health/wp/2014/08/04/why-do-we-still-eat-this-way "https://www.washingtonpost.com/news/to-your-health/wp/2014/08/04/why-do-we-still-eat-this-way"){:target="_blank"}
 
     c. *Americans Snack Differently Than Other Nations:*<br>
-    [http://www.usatoday.com/story/money/business/2014/09/29/snacking-consumer-eating-habits-nielsen/16263375/?siteID=je6NUbpObpQ-3jFHwYITZ99FE23ytK_q9g](http://www.usatoday.com/story/money/business/2014/09/29/snacking-consumer-eating-habits-nielsen/16263375/?siteID=je6NUbpObpQ-3jFHwYITZ99FE23ytK_q9g "http://www.usatoday.com/story/money/business/2014/09/29/snacking-consumer-eating-habits-nielsen/16263375/?siteID=je6NUbpObpQ-3jFHwYITZ99FE23ytK_q9g")    
+    [http://www.usatoday.com/story/money/business/2014/09/29/snacking-consumer-eating-habits-nielsen/16263375/?siteID=je6NUbpObpQ-3jFHwYITZ99FE23ytK_q9g](http://www.usatoday.com/story/money/business/2014/09/29/snacking-consumer-eating-habits-nielsen/16263375/?siteID=je6NUbpObpQ-3jFHwYITZ99FE23ytK_q9g "http://www.usatoday.com/story/money/business/2014/09/29/snacking-consumer-eating-habits-nielsen/16263375/?siteID=je6NUbpObpQ-3jFHwYITZ99FE23ytK_q9g"){:target="_blank"}    
 
-    d. *The Surprising Amount of Time Kids Spend Looking at a Screen*<br> [http://www.theatlantic.com/education/archive/2015/01/the-surprising-amount-of-time-kidsspend-looking-at-screens/384737/](http://www.theatlantic.com/education/archive/2015/01/the-surprising-amount-of-time-kidsspend-looking-at-screens/384737/ "http://www.theatlantic.com/education/archive/2015/01/the-surprising-amount-of-time-kidsspend-looking-at-screens/384737/")
+    d. *The Surprising Amount of Time Kids Spend Looking at a Screen*<br> [http://www.theatlantic.com/education/archive/2015/01/the-surprising-amount-of-time-kidsspend-looking-at-screens/384737/](http://www.theatlantic.com/education/archive/2015/01/the-surprising-amount-of-time-kidsspend-looking-at-screens/384737/ "http://www.theatlantic.com/education/archive/2015/01/the-surprising-amount-of-time-kidsspend-looking-at-screens/384737/"){:target="_blank"}
     
 
     e. *Youths Spend 7+ Hours/Day Consuming Media:*<br>
-    [http://www.cbsnews.com/news/youths-spend-7-plus-hours-day-consuming-media/](http://www.cbsnews.com/news/youths-spend-7-plus-hours-day-consuming-media/ "http://www.cbsnews.com/news/youths-spend-7-plus-hours-day-consuming-media/")    
+    [http://www.cbsnews.com/news/youths-spend-7-plus-hours-day-consuming-media/](http://www.cbsnews.com/news/youths-spend-7-plus-hours-day-consuming-media/ "http://www.cbsnews.com/news/youths-spend-7-plus-hours-day-consuming-media/"){:target="_blank"}    
 
 2. Analyze the article or report based on the following questions:
 

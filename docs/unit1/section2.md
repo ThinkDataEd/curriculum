@@ -10,7 +10,7 @@ Technology and computers allow us to visualize complex relationships in data.
 Students will view the video called *The Value of Data Visualization* to help them understand the
 importance of graphical representations of data. Discussion questions will allow students to begin to think
 about how they would want to see a data set visualized. The video can be found at:
-[https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc")
+[https://www.youtube.com/watch?v=xekEXM0Vonc](https://www.youtube.com/watch?v=xekEXM0Vonc "https://www.youtube.com/watch?v=xekEXM0Vonc"){:target="_blank"}
 
   <div align="right"><iframe width="420" height="315"
   src="https://www.youtube.com/embed/xekEXM0Vonc" allowfullscreen>

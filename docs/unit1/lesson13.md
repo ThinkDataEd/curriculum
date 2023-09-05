@@ -9,9 +9,9 @@ a data set.
 
 2. Projector
 
-3. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
+3. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
-4. Video showing how to log into RStudio Cloud for the first time found at: [https://www.youtube.com/watch?v=vgh7C8U8Ekk](https://www.youtube.com/watch?v=vgh7C8U8Ekk "https://www.youtube.com/watch?v=vgh7C8U8Ekk")
+4. Video showing how to log into RStudio Cloud for the first time found at: [https://www.youtube.com/watch?v=vgh7C8U8Ekk](https://www.youtube.com/watch?v=vgh7C8U8Ekk "https://www.youtube.com/watch?v=vgh7C8U8Ekk"){:target="_blank"}
 
 ###**Vocabulary:**
 [pane](../../vocabulary/unit1/#pane "a rectangular area within RStudio"){ .md-button }
@@ -34,7 +34,7 @@ the statistical programming software that academics and professional statisticia
 Introduction to Data Science course will utilize RStudio, which also runs on R. They will learn the
 programming language of RStudio for data analysis.
 
-2. Demonstrate how to access RStudio by projecting the URL: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org") on a screen.
+2. Demonstrate how to access RStudio by projecting the URL: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} on a screen.
 Then, click on the RStudio icon on the page.
 
 3. Inform students that they will log into RStudio using the "Log In with Google" option. Note that it is not the same as their IDS App & IDS Homepage login.

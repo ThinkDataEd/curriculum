@@ -6,7 +6,7 @@ Students will understand what are data, how they are collected, and possible eff
 ###**Materials:**
 
 1. Video: *The Target Story* found at:<br>
-    [https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4")
+    [https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4"){:target="_blank"}
 
     <div align="right"><iframe width="420" height="315"
     src="https://www.youtube.com/embed/XvSA-6BJkx4" allowfullscreen>
@@ -18,7 +18,7 @@ lesson
 3. *Data Diary* handout ([LMR_1.1_Data Diary](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf))
 
 4. Video: *Terms and Conditions* found at:<br>
-    [https://www.youtube.com/watch?v=ZcjtEKNP05c](https://www.youtube.com/watch?v=ZcjtEKNP05c "https://www.youtube.com/watch?v=ZcjtEKNP05c")
+    [https://www.youtube.com/watch?v=ZcjtEKNP05c](https://www.youtube.com/watch?v=ZcjtEKNP05c "https://www.youtube.com/watch?v=ZcjtEKNP05c"){:target="_blank"}
 
     <div align="right"><iframe width="420" height="315"
     src="https://www.youtube.com/embed/ZcjtEKNP05c" allowfullscreen>
@@ -51,7 +51,7 @@ lesson
 
 
 1. :material-video:{title="Video clip"} Introduce the lesson by showing *The Target Story* video:<br>
-    [https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4")
+    [https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4"){:target="_blank"}
 
 2. :material-chat-outline:{title="Discussion"} In pairs, ask students to discuss the following question using the *TPS* strategy (see [Instructional
 Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)):
@@ -92,7 +92,7 @@ the first example to give the students an idea of how to proceed.
 understanding of data.
 
 7. :material-video:{title="Video clip"} To get students thinking about what happens to their data, show the *Terms and Conditions* video:<br>
-    [https://www.youtube.com/watch?v=ZcjtEKNP05c](https://www.youtube.com/watch?v=ZcjtEKNP05c "https://www.youtube.com/watch?v=ZcjtEKNP05c")
+    [https://www.youtube.com/watch?v=ZcjtEKNP05c](https://www.youtube.com/watch?v=ZcjtEKNP05c "https://www.youtube.com/watch?v=ZcjtEKNP05c"){:target="_blank"}
 
 8. :material-chat-outline:{title="Discussion"} Engage the students in a whole class discussion about the video, particularly noting:
 

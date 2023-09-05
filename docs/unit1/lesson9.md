@@ -28,7 +28,7 @@ determining any point clusters.
 ###**Lesson:**
 1. **<u>Food Habits Campaign Data Collection Monitoring:</u>**
 
-    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
+    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
     Click on **Campaign Monitor** and sign in.
 
     100. Inform students that you will be monitoring their data collection again today.

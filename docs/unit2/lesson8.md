@@ -6,7 +6,7 @@ information about future outcomes if the events are independent.
 
 ###**Materials:**
 1. Video: “Heads” from the movie *Rosencrantz and Guildenstern are Dead* found at:<br>
-    [https://www.youtube.com/watch?v=NbInZ5oJ0bc](https://www.youtube.com/watch?v=NbInZ5oJ0bc "https://www.youtube.com/watch?v=NbInZ5oJ0bc")
+    [https://www.youtube.com/watch?v=NbInZ5oJ0bc](https://www.youtube.com/watch?v=NbInZ5oJ0bc "https://www.youtube.com/watch?v=NbInZ5oJ0bc"){:target="_blank"}
 
     <div align="right"><iframe width="420" height="315"
     src="https://www.youtube.com/embed/NbInZ5oJ0bc" allowfullscreen>
@@ -48,7 +48,7 @@ game.***</span>
 responses: card games, slot machines, the lottery, coin flipping, and rock-paper-scissors.***</span>
 
 4. Play the “Heads” video from the movie *Rosencrantz and Guildenstern are Dead* found at:
-[https://www.youtube.com/watch?v=NbInZ5oJ0bc](https://www.youtube.com/watch?v=NbInZ5oJ0bc "https://www.youtube.com/watch?v=NbInZ5oJ0bc").
+[https://www.youtube.com/watch?v=NbInZ5oJ0bc](https://www.youtube.com/watch?v=NbInZ5oJ0bc "https://www.youtube.com/watch?v=NbInZ5oJ0bc"){:target="_blank"}.
 
 5. In their IDS Journals, ask students to write down their initial reactions to the clip by responding to
 the following questions:

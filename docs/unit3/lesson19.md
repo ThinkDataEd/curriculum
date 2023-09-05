@@ -7,7 +7,7 @@ topic of interest, then begin data collection.
 ###**Materials:**
 1. *Campaign Creation* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf)) from previous lesson
 
-2. Campaign Authoring Tool ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"))
+2. Campaign Authoring Tool ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"})
 
 ###**Essential Concepts:**
 
@@ -29,7 +29,7 @@ changes to the campaign.
 4. Inform students that you will now demonstrate the tool used to create the campaigns that is
 displayed on their mobile devices or computers.
 
-5. Login to the **IDS Home Page** found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"). Click on the **Campaigns tab** on
+5. Login to the **IDS Home Page** found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}. Click on the **Campaigns tab** on
 the navigation bar at the top of the page. Then, follow the steps in the tool:
 
     100. **<u>Campaign Info Window:</u>**

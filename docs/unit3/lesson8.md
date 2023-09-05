@@ -71,7 +71,7 @@ further explain the impact of confounding factors.
 5. Once the students grasp what confounding factors are and how to identify them, introduce them
 to the website *Spurious Correlations* by Tyler Vigen. This site shows many explanatory and
 response variables that are randomly associated with each other. Spurious Correlations can be
-found at: [http://www.tylervigen.com/spurious-correlations](http://www.tylervigen.com/spurious-correlations "http://www.tylervigen.com/spurious-correlations").
+found at: [http://www.tylervigen.com/spurious-correlations](http://www.tylervigen.com/spurious-correlations "http://www.tylervigen.com/spurious-correlations"){:target="_blank"}.
 
     <img src="../../img/30805.png" />
 

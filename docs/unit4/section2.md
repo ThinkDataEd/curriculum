@@ -10,7 +10,7 @@ transformations to add flexibility to rigid linear models.
 Students will read the article titled *How Long Can a Spinoff Like Better Call Saul Last?* that will set the
 context for students to begin thinking about more than one explanatory variable to make better
 predictions. The article can be found at:<br>
-[http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/")
+[http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>

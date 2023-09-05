@@ -11,7 +11,7 @@ to obtain values that are extreme and farther away from typical.
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
 Students will learn about the Normal curve by watching the first 35 seconds the New York Times Video
 “Bunnies, Dragons, and the Normal World” found at:
-[http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html](http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html "http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html")
+[http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html](http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html "http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins> 

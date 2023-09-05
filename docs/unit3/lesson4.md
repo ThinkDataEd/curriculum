@@ -6,7 +6,7 @@ be collected from the class experiment and make predictions about the outcome.
 
 ###**Materials:**
 1. Article: PsyBlog’s *10 Ways Our Minds Warp Time* found at:<br>
-    [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php")
+    [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php"){:target="_blank"}
 
 2. Experiment Predictions handout ([LMR_3.1_Experiment Predictions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf))
 
@@ -21,7 +21,7 @@ theory
 
 ###**Lesson:**
 1. Students will read the article *10 Ways Our Minds Warp Time* found at:<br>
-    [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php")
+    [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php"){:target="_blank"}
 
 2. They will read the article critically to answer the following questions (displayed or written on the
 board):

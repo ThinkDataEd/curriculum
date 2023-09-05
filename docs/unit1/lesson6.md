@@ -7,7 +7,7 @@ recorded in order to attain consistency.
 
 ###**Materials:**
 1. Video: Jamie Oliver’s *Food Revolution* found at:<br>
-    [https://youtu.be/I0vYwqkoktM](https://youtu.be/I0vYwqkoktM "https://youtu.be/I0vYwqkoktM")
+    [https://youtu.be/I0vYwqkoktM](https://youtu.be/I0vYwqkoktM "https://youtu.be/I0vYwqkoktM"){:target="_blank"}
 
     <div align="right"><iframe width="420" height="315"
     src="https://www.youtube.com/embed/I0vYwqkoktM" allowfullscreen>
@@ -35,7 +35,7 @@ recorded in order to attain consistency.
 1. Inform students that today’s lesson will focus on the Data Collection component of the Data Cycle.
 
 2. To motivate this, the students will watch a short video of an episode of Jamie Oliver’s show titled
-*Food Revolution* found at: [https://youtu.be/I0vYwqkoktM](https://youtu.be/I0vYwqkoktM "https://youtu.be/I0vYwqkoktM"). This particular video was recorded at a
+*Food Revolution* found at: [https://youtu.be/I0vYwqkoktM](https://youtu.be/I0vYwqkoktM "https://youtu.be/I0vYwqkoktM"){:target="_blank"}. This particular video was recorded at a
 Los Angeles high school.
 
     100. As the students watch the video, they should use their DS journals to write down their

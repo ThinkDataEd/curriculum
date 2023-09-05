@@ -6,7 +6,7 @@ Students will continue to investigate landfills and perform analyses via the IDS
 ###**Materials:**
 1. Computers
 
-2. IDS public dashboard: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
+2. IDS public dashboard: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 ###**Essential Concepts:**
 

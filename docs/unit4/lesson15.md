@@ -12,7 +12,7 @@ Students will engage in a modeling activity to learn about reducing the burden o
 
 4. Computers
 
-5. IDS public dashboard: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
+5. IDS public dashboard: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 6. *Trash Data Exploration* handout ([LMR_4.18_Trash Data Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Trash Data Exploration.pdf))
 
@@ -57,7 +57,7 @@ understanding of what the task is:
     100. What does the organization hope to do with your recommendations? <span style="color:grey">***Create a public awareness campaign to help reduce the burden on landfills.***</span>
 
 7. At this point, students will begin exploring the data via the IDS public dashboard:
-[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
+[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 8. They should use the “Trash” campaign data and select “Dashboard” from the “Action” button.
 

@@ -10,7 +10,7 @@ population. Sampling error and bias cause problems in analysis made from survey 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
 Students will view a video clip from the game show *Family Feud* to begin to think about survey
 components. The video can be found at:    
-[https://www.youtube.com/watch?v=-3Nk9t7-rCs](https://www.youtube.com/watch?v=-3Nk9t7-rCs "https://www.youtube.com/watch?v=-3Nk9t7-rCs")
+[https://www.youtube.com/watch?v=-3Nk9t7-rCs](https://www.youtube.com/watch?v=-3Nk9t7-rCs "https://www.youtube.com/watch?v=-3Nk9t7-rCs"){:target="_blank"}
 
   <div align="right"><iframe width="420" height="315"
   src="https://www.youtube.com/embed/-3Nk9t7-rCs" allowfullscreen>

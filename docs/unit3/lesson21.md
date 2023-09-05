@@ -10,7 +10,7 @@ sense for web data to be formatted as XML.
     **<u>Note:</u>** This should have been completed during the previous class.
 
 2. Mountain Peak XML data found at:<br>
-[https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html")
+[https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html"){:target="_blank"}
 
     **<u>Note:</u>** Open with Google Chrome or Firefox browsers, NOT with Safari.
 
@@ -57,7 +57,7 @@ way we see data in RStudio. Then, create a class brainstorm from the student pai
     multiple sections of a web page, such as Yelp.
     
     Show students, on a projector, the Mountain Peak XML data found at<br>
-    [https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html")
+    [https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html"){:target="_blank"}
     
     Ask students to look at the data and determine if they have seen it before. Hint: They have! It was
     the data they scraped during [Lab 3E](lab3e.md).

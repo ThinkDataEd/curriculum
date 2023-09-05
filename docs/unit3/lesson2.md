@@ -9,7 +9,7 @@ learn to distinguish claims of causation from claims of association.
 
     **<u>Note:</u>** Please use a search engine (e.g., Google Video)
     and type “MythBusters Is Yawning Contagious” to find it. The clip is a little over 5 minutes
-    in length. If you cannot access it, an alternate experiment (MythBusters' *How Does Music Affect Plants*) can be found at [https://youtu.be/C5dNhNfGyWQ](https://youtu.be/C5dNhNfGyWQ "https://youtu.be/C5dNhNfGyWQ")
+    in length. If you cannot access it, an alternate experiment (MythBusters' *How Does Music Affect Plants*) can be found at [https://youtu.be/C5dNhNfGyWQ](https://youtu.be/C5dNhNfGyWQ "https://youtu.be/C5dNhNfGyWQ"){:target="_blank"}
 
 ###**Vocabulary:**
 experiment, subjects, treatment, treatment group, control group, random assignment, representative

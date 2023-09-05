@@ -12,11 +12,11 @@ Students will learn about the stages of the Data Cycle.
 
 4. The *Data Cycle Spinners* handout ([LMR_1.4_Data Cycle Spinners](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.4_Data Cycle Spinners.pdf))
 
-5. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org")
+5. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 6. Article headline: *People Who Order Coffee Black Are More Likely To Be Psychopaths*
 
-7. *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/")
+7. *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/"){:target="_blank"}
 
 8. *Bros & Dudes Graphics* handout ([LMR_1.5_Bros & Dudes Graphics](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.5_Bros & Dudes Graphics.pdf))
 
@@ -103,7 +103,7 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
 
     100. What questions or wonderings do we have about the artifact? <span style="color:grey">***Students should be interrogating this headline with questions like: What type of study was this? Who funded the study? What was the purpose of the study? How was the variable measured?***</span>
 
-12. Artifact 3: *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/")
+12. Artifact 3: *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/"){:target="_blank"}
 
     <img src="../../img/dudegraphic.png" />
 

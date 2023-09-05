@@ -61,7 +61,7 @@ States.
 **How long should the campaign last?** At least five days (maximum of ten days). Ideally, two of these days would include a weekend.
 
 ###**4. Motivation:**
-Use the interactive graphic titled *How Men and Women Spend Their Time* found at: [https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/")
+Use the interactive graphic titled *How Men and Women Spend Their Time* found at: [https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/"){:target="_blank"}
 
 After the first day, monitor the data collection and ensure that each student has submitted a survey for Day 1. Continue monitoring for the remainder of the campaign.
 

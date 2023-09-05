@@ -8,4 +8,4 @@ App Store.
 
 100. **No mobile device - browser-based version.** For students that do not have a mobile
 device (or an unsupported device, such as a Windows phone or Blackberry), a browser-based
-version to perform data collection is available at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org")
+version to perform data collection is available at [https://tools.idsucla.org](https://tools.idsucla.org "https://tools.idsucla.org"){:target="_blank"}
