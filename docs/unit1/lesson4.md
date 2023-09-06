@@ -98,6 +98,8 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
 
 11. Artifact 2: Article headline *People Who Order Coffee Black Are More Likely To Be Psychopaths*
 
+    <img src="../../img/coffee.png" />
+
     100. What part of the data cycle does the artifact represent (posing a statistical investigative question, consider data, analyze data, interpret data)? Why do we think that?
     <span style="color:grey">***Answers will vary.***</span>
 
