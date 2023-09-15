@@ -11,7 +11,7 @@ Introduction to Time Use Campaign. Students will explore a multimedia graphic th
 
 4. Article: *The Washington Post’s Teens Are Spending More Time Consuming Social Media, on
 Mobile Devices* found at: 
-[https://www.washingtonpost.com/postlive/teens-are-spending-moretime-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-b3db6b9ac586_story.html](https://www.washingtonpost.com/postlive/teens-are-spending-moretime-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-b3db6b9ac586_story.html "https://www.washingtonpost.com/postlive/teens-are-spending-moretime-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-b3db6b9ac586_story.html"){:target="_blank"}
+([LMR_Teens_Consuming_Media](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_Teens_Consuming_Media.pdf))
 
 5. K-L-W Graphic Organizer ([LMR_TR_K-L-W Chart](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_K-L-W Chart.pdf))
 
@@ -63,7 +63,7 @@ about the topic in the Know column.
     the graphic organizer.
 
 8. Next, ask students to read the article individually:<br>
-    [https://www.washingtonpost.com/postlive/teens-are-spending-moretime-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-b3db6b9ac586_story.html](https://www.washingtonpost.com/postlive/teens-are-spending-moretime-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-b3db6b9ac586_story.html "https://www.washingtonpost.com/postlive/teens-are-spending-moretime-consuming-media-on-mobile-devices/2013/03/12/309bb242-8689-11e2-98a3-b3db6b9ac586_story.html"){:target="_blank"}
+    [LMR_Teens_Consuming_Media](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_Teens_Consuming_Media.pdf)
 
 9. As they read, students may complete the Learn column of the [KLW graphic organizer](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_K-L-W Chart.pdf).
 
