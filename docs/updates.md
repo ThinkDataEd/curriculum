@@ -6,12 +6,17 @@ This website was last updated on April 24, 2023.
 
 Changes that have been made to version 6.0
 
-All Units
+**All Units**
 
  - Labs now also have text which direct students to complete tasks within the RStudio/Posit interface in <span style="color:midnightblue;">**blue**</span> font
  - GPS no longer reports precise location
+ - There are anonymized datasets available for the Food Habits, Personality Colors, and Time Use (unformatted) Campaigns. They can be acccessed by running the following code:
+        
+        extra_data('food_ids')
+        extra_data('color_ids')
+        extra_data('timeuse_ids')
 
-Unit 1
+**Unit 1**
 
  - Food Habits and Time Use campaign questions, in the campaign guidelines, have been modified for clarity
  - Lesson 1: LMR_1.1 changed "Facebook" to "TikTok"
@@ -21,9 +26,9 @@ Unit 1
  - Labs 1C and 1F now have embedded videos to help guide students
  - Lab 1D has more explanation about filtering and the assignment operator
 
-Unit 2
+**Unit 2**
 
-Unit 3
+**Unit 3**
     - Stress/chill campaing survey questions
 
-Unit 4
+**Unit 4**
