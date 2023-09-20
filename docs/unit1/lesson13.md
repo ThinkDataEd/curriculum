@@ -1,7 +1,7 @@
 ##**<u>Lesson 13: RStudio Basics</u>**
 
 ###**Objective:**
-Students will learn RStudio’s interface, as well as a few basic commands to discover the structure behind
+Students will learn RStudio/Posit Cloud’s interface, as well as a few basic commands to discover the structure behind
 a data set.
 
 ###**Materials:**
@@ -11,7 +11,7 @@ a data set.
 
 3. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
-4. Video showing how to log into RStudio Cloud for the first time found at: [https://www.youtube.com/watch?v=vgh7C8U8Ekk](https://www.youtube.com/watch?v=vgh7C8U8Ekk "https://www.youtube.com/watch?v=vgh7C8U8Ekk"){:target="_blank"}
+4. Video showing how to log into RStudio/Posit Cloud for the first time found **[here](https://www.youtube.com/watch_popup?v=vgh7C8U8Ekk "https://www.youtube.com/watch_popup?v=vgh7C8U8Ekk"){:target="_blank"}**.
 
 ###**Vocabulary:**
 [pane](../../vocabulary/unit1/#pane "a rectangular area within RStudio"){ .md-button }
@@ -28,18 +28,25 @@ data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )
 !!! note "Essential Concepts:"
     The computer has a syntax, and it can only understand if you speak its language.
 
+!!! warning "Before inviting students to your RStudio/Posit Cloud Teacher Space, ensure that:"
+    a) Students sign-in to RStudio/Posit Cloud using the "Log In With Google" option using their school email address.
+
+    b) Each student watches the video showing how to log into RStudio/Posit Cloud for the first time found **[here](https://www.youtube.com/watch_popup?v=vgh7C8U8Ekk "https://www.youtube.com/watch_popup?v=vgh7C8U8Ekk"){:target="_blank"}**.
+
+    c) You are familiar with managing your RStudio/Posit Teacher Space. See video **[here](https://www.youtube.com/watch_popup?v=1bXLsKwY7bY "https://www.youtube.com/watch_popup?v=1bXLsKwY7bY"){:target="_blank"}**.
+
 ###**Lesson:**
 1. Inform students that the Dashboard and PlotApp are data visualization tools that are coded in R,
 the statistical programming software that academics and professional statisticians use. The
 Introduction to Data Science course will utilize RStudio, which also runs on R. They will learn the
 programming language of RStudio for data analysis.
 
-2. Demonstrate how to access RStudio by projecting the URL: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} on a screen.
-Then, click on the RStudio icon on the page.
+2. Demonstrate how to access RStudio/Posit Cloud by projecting the URL: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} on a screen.
+Then, click on the RStudio (Posit Cloud) icon on the page.
 
-3. Inform students that they will log into RStudio using the "Log In with Google" option. Note that it is not the same as their IDS App & IDS Homepage login.
+3. Inform students that they will log into RStudio/Posit Cloud using the "Log In with Google" option. Note that this is not the same as their IDS App & IDS Homepage login.
 
-4. Once logged in, show each **pane**, or rectangular area, of the RStudio interface:
+4. Once logged in, show each **pane**, or rectangular area, of the RStudio/Posit Cloud interface:
 
     100. **preview** (spreadsheet) - where they will be able to see the variables and observations
     (index); rows and columns of data
