@@ -10,7 +10,7 @@ Changes that have been made to version 6.0
 
  - Labs now also have text which direct students to complete tasks within the RStudio/Posit interface in <span style="color:midnightblue;">**blue**</span> font
  - GPS no longer reports precise location
- - There are anonymized datasets available for the Food Habits, Personality Colors, and Time Use (unformatted) Campaigns. They can be acccessed by running the following code:
+ - There are anonymized datasets available for the Food Habits, Personality Colors, and Time Use (unformatted) Campaigns. They can be accessed by running the following code:
         
         extra_data('food_ids')
         extra_data('color_ids')
