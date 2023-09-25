@@ -2,7 +2,7 @@ If you have any question, please contact us at [support@idsucla.org](mailto:supp
 
 Introduction to Data Science, [http://www.idsucla.org](http://www.idsucla.org){:target="_blank"}
 
-This website was last updated on September 15, 2023.
+This website was last updated on September 25, 2023.
 
 Changes that have been made to version 6.0
 
@@ -28,7 +28,8 @@ Changes that have been made to version 6.0
 
 **Unit 2**
 
-**Unit 3**
-    - Stress/chill campaing survey questions
+- Stress/Chill campaign questions have been modified for clarity (and picture question has been removed)
+
+**Unit 3** 
 
 **Unit 4**
