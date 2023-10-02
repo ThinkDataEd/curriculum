@@ -1,4 +1,4 @@
-#Unit3, Section1: Testing, Testing…1, 2, 3…
+#Unit 3, Section 1: Testing, Testing… 1, 2, 3…
 Instructional Days: 7
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
@@ -53,7 +53,7 @@ materials and find patterns in human behavior.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 5. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used, and how to work with it.
+of data, how it is collected, how it is used, and how to work with it.
 
 6. Students will engage in partner and whole group discussions and presentations to express their
 understanding of data science concepts.
