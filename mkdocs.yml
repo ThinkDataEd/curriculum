@@ -181,7 +181,7 @@ nav:
             - 'Testing, Testing…1, 2, 3…' : unit3/section1.md
             - 'Lesson 1: Anecdotes vs. Data' : unit3/lesson1.md
             - 'Lesson 2: What Is an Experiment?' : unit3/lesson2.md
-            - 'Lesson 3:Let’s Try an Experiment!' : unit3/lesson3.md
+            - 'Lesson 3: Let’s Try an Experiment!' : unit3/lesson3.md
             - 'Lesson 4: Predictions, Predictions' : unit3/lesson4.md
             - 'Lesson 5: Time Perception Experiment' : unit3/lesson5.md
             - 'Lab 3A: The Results Are In!' : unit3/lab3a.md
@@ -228,7 +228,7 @@ nav:
         # - Lessons:
         #     - 'Lesson 1: Anecdotes vs. Data' : unit3/lesson1.md
         #     - 'Lesson 2: What Is an Experiment?' : unit3/lesson2.md
-        #     - 'Lesson 3:Let’s Try an Experiment!' : unit3/lesson3.md
+        #     - 'Lesson 3: Let’s Try an Experiment!' : unit3/lesson3.md
         #     - 'Lesson 4: Predictions, Predictions' : unit3/lesson4.md
         #     - 'Lesson 5: Time Perception Experiment' : unit3/lesson5.md
         #     - 'Lesson 6: Observational Studies' : unit3/lesson6.md
