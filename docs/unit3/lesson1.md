@@ -146,7 +146,7 @@ based more on data. Ask a couple of students to explain their choices and give e
     to make their claims. Students may refer to a statistic used in the article as an example.***
 
 17. Class discussion: ***Data Beat Anecdotes!*** Ask students to come up with reasons why this
-statement is true. Have them come up with situations where you have to **have** an anecdote. For
+statement is true. Have them come up with situations where you **have** to have an anecdote. For
 example, if asked what it’s like to walk on the moon, only a few people would be able to tell us.
 
 ###**Class Scribes:**
