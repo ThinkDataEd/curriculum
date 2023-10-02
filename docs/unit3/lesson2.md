@@ -98,7 +98,7 @@ which is one method of data collection.
 over the next several lessons.
 
 8. Guide students to identify the elements of an experiment by referring back to the video clip:
-    100. **Research Question**—the question to be answered by the experiment (<span style="color:grey">***Is Yawning
+    100. **Research Question** — the question to be answered by the experiment (<span style="color:grey">***Is Yawning
     Contagious?)***</span>
 
     100. **Subjects** – people or objects that are participating in the experiment (<span style="color:grey">***the 50 adults***</span>)
@@ -113,15 +113,15 @@ over the next several lessons.
     subjects who were placed into rooms – no yawn from Kari***</span>)
 
     100. **Random assignment** – subjects are randomly assigned to either the treatment or control
-    group (<span style="color:grey">***two out of every three subjects received the treatment***</span>) **<u>Note:</u>** In this
-    experiment, random assignment was not used (or if it was, we were not told so.)
+    group (<span style="color:grey">***two out of every three subjects received the treatment - in this
+    experiment, random assignment was not used (or if it was, we were not told so)***</span>)
     
     100. **Outcome** – the variable that the treatment is meant to influence. (<span style="color:grey">***whether or not a
     person yawned***</span>)
     
-    100. **Statistic**—A method for comparing the outcomes of the control and treatment groups is
-    needed. <span style="color:grey">***In this case, the MythBusters used the difference between the percent of
-    subjects that yawned in the treatment group was 4% higher than the control group.***</span>
+    100. **Statistic** — a method for comparing the outcomes of the control and treatment groups (this is
+    needed) <span style="color:grey">***In this case, the MythBusters used the difference between the percent of
+    subjects that yawned in the treatment group, which was 4% higher than the control group.***</span>
     
     **<u>Note:</u>** In this experiment, and in those found in the IDS curriculum, we use a treatment and a
     control group. However, a control group is not a necessary element of an experiment. Sometimes
@@ -140,16 +140,16 @@ them.
     morning, were assigned to the treatment group, and the last few people, later in the day,
     ended up in the control group. Would you believe in the conclusions? <span style="color:grey">***No, because the
     two groups were different. The first group might have been sleepier, and so more
-    likely to yawn anyways. Explain that this --another explanation for the cause-andeffect--
-    is caused a confounding variable.***</span>
+    likely to yawn anyways. Explain that this --another explanation for the cause-and-effect--
+    is called a confounding variable.***</span>
     
     100. Explain that in order to make the two groups as similar as possible, experimenters
     usually assign subjects randomly. How might we randomly assign about half of the
     subjects to the treatment and half to the control? <span style="color:grey">***We might flip a coin, and those who
     get Heads go to Treatment.***</span>
     
-    100. Why would random assignment improve the MythBusters study? <span style="color:grey">***Because then the two
-    groups would be more similar. So we wouldn't have a confounding variable to
+    100. Why would random assignment improve the MythBusters experiment? <span style="color:grey">***Because then the two
+    groups would be more similar, so we wouldn't have a confounding variable to
     worry about.***</span>
 
 10. **Emphasize that without random assignment, we cannot determine causation because we
