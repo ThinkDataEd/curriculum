@@ -65,5 +65,5 @@ external data sets.
 !!! abstract "babies"
       extra_data('babies')
 
-      [babies].rda file](../data/babies.rda)
+      [babies.rda file](../data/babies.rda)
 [comment]: <> (check data folder to add .rda)
