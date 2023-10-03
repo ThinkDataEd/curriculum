@@ -59,3 +59,11 @@ external data sets.
 
       [time_exp.rda file](../data/time_exp.rda)
 [comment]: <> (check data folder to add .rda)
+
+### babies
+
+!!! abstract "babies"
+      extra_data('babies')
+
+      [babies].rda file](../data/babies.rda)
+[comment]: <> (check data folder to add .rda)
