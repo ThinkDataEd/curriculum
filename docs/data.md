@@ -51,3 +51,11 @@ external data sets.
 
       [colors_ids.rda file](../data/colors_ids.rda)
 [comment]: <> (check data folder to add .rda)
+
+### time_exp
+
+!!! abstract "time_exp"
+      extra_data('time_exp')
+
+      [time_exp.rda file](../data/time_exp.rda)
+[comment]: <> (check data folder to add .rda)
