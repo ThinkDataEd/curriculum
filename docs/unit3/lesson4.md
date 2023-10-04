@@ -47,7 +47,7 @@ board):
 3. In their teams, ask students to share their responses from reading the *10 Ways Our Minds Warp
 Time* article and agree on the responses as a team.
 
-4. Do a quick *Whip Around* of the responses (see step #2 for responses).
+4. Do a quick *Whip Around* of the responses (see step #2 for possible responses).
 
 5. Remind students that they designed a class experiment during the previous lesson but did not
 select an actual treatment. As a class, decide on a treatment to use for the experiment. Students
