@@ -83,3 +83,11 @@ external data sets.
 
       [c6_colors_stress.rda file](../data/c6_colors_stress.rda)
 [comment]: <> (check data folder to add .rda)
+
+### babies
+
+!!! abstract "babies"
+      extra_data('babies')
+
+      [babies.rda file](../data/babies.rda)
+[comment]: <> (check data folder to add .rda)
