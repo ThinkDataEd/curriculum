@@ -60,10 +60,26 @@ external data sets.
       [time_exp.rda file](../data/time_exp.rda)
 [comment]: <> (check data folder to add .rda)
 
-### babies
+### c6_colors
 
-!!! abstract "babies"
-      extra_data('babies')
+!!! abstract "c6_colors"
+      extra_data('c6_colors')
 
-      [babies.rda file](../data/babies.rda)
+      [c6_colors.rda file](../data/c6_colors.rda)
+[comment]: <> (check data folder to add .rda)
+
+### c6_stress
+
+!!! abstract "c6_stress"
+      extra_data('c6_stress')
+
+      [c6_stress.rda file](../data/c6_stress.rda)
+[comment]: <> (check data folder to add .rda)
+
+### c6_colors_stress
+
+!!! abstract "c6_colors_stress"
+      extra_data('c6_colors_stress')
+
+      [c6_colors_stress.rda file](../data/c6_colors_stress.rda)
 [comment]: <> (check data folder to add .rda)
