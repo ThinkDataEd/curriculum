@@ -91,3 +91,11 @@ external data sets.
 
       [babies.rda file](../data/babies.rda)
 [comment]: <> (check data folder to add .rda)
+
+### hiring
+
+!!! abstract "hiring"
+      extra_data('hiring')
+
+      [hiring.rda file](../data/hiring.rda)
+[comment]: <> (check data folder to add .rda)
