@@ -1,8 +1,8 @@
 If you have any question, please contact us at [support@idsucla.org](mailto:support@idsucla.org)
 
-Introduction to Data Science, [http://www.idsucla.org](http://www.idsucla.org){:target="_blank"}
+Introduction to Data Science, [https://www.idsucla.org](https://www.idsucla.org){:target="_blank"}
 
-This website was last updated on September 25, 2023.
+This website was last updated on October 10, 2023.
 
 Changes that have been made to version 6.0
 
