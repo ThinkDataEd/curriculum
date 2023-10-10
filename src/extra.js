@@ -38,10 +38,8 @@ function additionalCheck() {
     if (xhr.readyState === 4) {
       if (xhr.status === 200) {
         // console.log(xhr.responseText);
-        var data = JSON.parse(xhr.responseText).data;
-        if (xhr.responseText.includes("success") &&
-          (Object.values(data).some((dat) => dat?.permissions?.can_create_classes || document.location.pathname == '/navbar/curriculum/video/'))
-        ) {
+        var data = JSON.parse(xhr.responseText).data; 
+        if (xhr.responseText.includes("success") && Object.values(data).some((dat)=>dat?.permissions?.can_create_classes)) {
           document.body.style.display = 'block';
           console.log("PASSED");
         } else {
