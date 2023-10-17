@@ -71,6 +71,7 @@ if (window.location == window.top.location) {
   }
 }
 
+if(document.location.pathname.endsWith('/applications/')==false){
 if (window.location == window.top.location) {
   //   document.getElementById("demo").innerHTML="";
   //   document.getElementById("demo").style.visibility='hidden';
@@ -128,4 +129,5 @@ if (window.location == window.top.location) {
     window.location.href = window.location.origin + "/#login";
   };
   xhr.send(null);
+}
 }
