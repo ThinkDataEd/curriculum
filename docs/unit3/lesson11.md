@@ -67,7 +67,7 @@ Sampling Activity 1 on page 1 of the handout.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf)</div>
 
 6. Inform students that they will get 30 seconds to select 10 words that they think are representative
-of all words in the speech.
+of all words in the speech. This is our first sampling plan.
 
     **<u>Note:</u>** It is important that students work fast so they are forced to choose based on first
     impressions and don't have time to reflect. Also, this activity tends to not work well if students are
@@ -123,10 +123,8 @@ ask:
     are talking about the "trend" or typical outcome. The typical outcome is usually too
     high.***</span>
 
-13. Explain that self-selected samples often produce biased results. **Sampling bias** is a description
-of the process, or the sampling plan, that is used to collect data. If the resulting samples tend to
-produce results that are influenced in one particular direction, we say that the sampling plan is
-biased.
+13. Explain that our sampling plan was a self-selected sample, which often produces biased results. **Sampling bias** occurs when the resulting samples tend to
+produce results that are influenced in one particular direction.
 
     **<u>Note:</u>** Bias is NOT the same as prejudice. Bias is a tendency to lean towards a certain belief or
     viewpoint, and is mostly unconscious. Prejudice is a very conscious phenomenon though, where
