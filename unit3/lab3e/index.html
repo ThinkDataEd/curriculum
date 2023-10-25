@@ -3576,7 +3576,7 @@
   <h1>Lab 3E: Scraping Web Data</h1>
 
 <h2 id="lab-3e-scraping-web-data"><strong><em><u>Lab 3E - Scraping web data</u></em></strong></h2>
-<p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your journal.</p>
+<p>Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;"><strong>blue</strong></span> on your computer, and answering the questions in <span style="color:firebrick;"><strong>red</strong></span> in your journal.</p>
 <h3 id="the-web-as-a-data-source"><strong>The web as a data source</strong></h3>
 <ul>
 <li>
@@ -3607,14 +3607,14 @@ differently.</p>
 <h3 id="our-first-web-scraper"><strong>Our first web scraper</strong></h3>
 <ul>
 <li>
-<p>Copy and paste the link below into a web browser to view the website of data we'd like to <em>scrape</em>
-and analyze.<br>
+<p><span style="color:midnightblue;"><strong>Copy and paste the link below into a web browser to view the website of data we'd like to <em>scrape</em>
+and analyze.</strong></span><br>
     <a href="https://labs.idsucla.org/extras/webdata/mountains.html" target="_blank" title="https://labs.idsucla.org/extras/webdata/mountains.html">https://labs.idsucla.org/extras/webdata/mountains.html</a></p>
 </li>
 <li>
-<p><strong>Briefly describe what the data on the website is about.</strong></p>
-<p>– <strong>Then write down 3 questions you'd be interested in answering by analyzing this
-data.</strong></p>
+<p><span style="color:firebrick;"><strong>Briefly describe what the data on the website is about.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Then write down 3 questions you'd be interested in answering by analyzing this
+data.</strong></span></p>
 </li>
 </ul>
 <h3 id="html"><strong>HTML</strong></h3>
@@ -3624,10 +3624,10 @@ data.</strong></p>
 </li>
 <li>
 <p>The following slide shows the <code>HTML</code> code used to create the first two rows of the web data.</p>
-<p>– <strong>How is the data table in <code>HTML</code> different than the data tables we're used to seeing in
-<code>R</code>, for example, when we use the <code>View()</code> function?</strong></p>
-<p>– <strong>What do you think the <em>tags</em> <code>&lt;TABLE&gt;</code>, <code>&lt;TR&gt;</code>, <code>&lt;TH&gt;</code>, <code>&lt;TD&gt;</code> mean? How does <code>HTML</code> use
-these <em>tags</em> to display the table?</strong></p>
+<p>– <span style="color:firebrick;"><strong>How is the data table in <code>HTML</code> different than the data tables we're used to seeing in
+<code>R</code>, for example, when we use the <code>View()</code> function?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>What do you think the <em>tags</em> <code>&lt;TABLE&gt;</code>, <code>&lt;TR&gt;</code>, <code>&lt;TH&gt;</code>, <code>&lt;TD&gt;</code> mean? How does <code>HTML</code> use
+these <em>tags</em> to display the table?</strong></span></p>
 </li>
 </ul>
 <pre><code>&lt;TABLE&gt;
@@ -3660,11 +3660,13 @@ these <em>tags</em> to display the table?</strong></p>
 <h3 id="get-to-scraping"><strong>Get to scraping!</strong></h3>
 <ul>
 <li>
-<p>Use your browser to go back to the website with the data we're interested in scraping.</p>
+<p><span style="color:midnightblue;"><strong>Use your browser to go back to the website with the data we're interested in scraping.</strong></span></p>
 </li>
 <li>
-<p>Find the URL address for the site and assign it the name <code>data_url</code> in <code>R</code>.</p>
-<p>– Then fill in the blanks below to have <code>R</code> scrape <em>every</em> web table available on the site:</p>
+<p><span style="color:midnightblue;"><strong>Find the URL address for the site and assign it the name <code>data_url</code> in <code>R</code>.</strong></span></p>
+</li>
+<li>
+<p><span style="color:midnightblue;"><strong>Then fill in the blanks below to have <code>R</code> scrape <em>every</em> web table available on the site:</strong></span></p>
 <pre><code>tables &lt;- readHTMLTable(____)
 </code></pre>
 </li>
@@ -3678,7 +3680,7 @@ which table has the data we're interested in.</p>
 <p>– This means we need to check all 3 tables to find the one we're interested in.</p>
 </li>
 <li>
-<p>Use the <code>length()</code> function to find out how many tables of data were scraped in our set of <code>tables</code>.</p>
+<p><span style="color:midnightblue;"><strong>Use the <code>length()</code> function to find out how many tables of data were scraped in our set of <code>tables</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="saving-tables"><strong>Saving tables</strong></h3>
@@ -3686,10 +3688,11 @@ which table has the data we're interested in.</p>
 <li>
 <p>Now that we know how many tables we've scraped, we can go back and scrape individual tables
 by adding the which argument to the <code>readHTMLTable()</code> function.</p>
-<p>– Use <code>readHTMLTable()</code> to re-scrape the data from the web but this time use the <code>which</code>
-argument to scrape just the individual table.</p>
+</li>
+<li>
+<p><span style="color:midnightblue;"><strong>Use <code>readHTMLTable()</code> to re-scrape the data from the web but this time use the <code>which</code> argument to scrape just the individual table.</strong></span></p>
 <p>– The <code>which</code> argument should be the integer denoting which table you want scraped.</p>
-<p>– Assign the scraped data the name <code>mtns</code></p>
+<p>– Assign the scraped data the name <code>mtns</code>.</p>
 </li>
 </ul>
 <h3 id="check-save-and-use"><strong>Check, save and use!</strong></h3>
@@ -3698,15 +3701,15 @@ argument to scrape just the individual table.</p>
 <p>After scraping the data, the only thing left to do is to save it and use it.</p>
 </li>
 <li>
-<p>Fill in the blanks to save the data and give it a file name</p>
+<p><span style="color:midnightblue;"><strong>Fill in the blanks to save the data and give it a file name.</strong></span></p>
 <pre><code>save(____, file = "____.Rda")
 </code></pre>
 </li>
 <li>
-<p><strong>What is the mean and standard deviation of <code>elev_ft</code>?</strong></p>
+<p><span style="color:firebrick;"><strong>What is the mean and standard deviation of <code>elev_ft</code>?</strong></span></p>
 </li>
 <li>
-<p><strong>Which <code>state</code> has the most mountains in our data?</strong></p>
+<p><span style="color:firebrick;"><strong>Which <code>state</code> has the most mountains in our data?</strong></span></p>
 </li>
 </ul>
 

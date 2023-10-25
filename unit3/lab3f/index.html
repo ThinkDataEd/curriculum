@@ -3576,7 +3576,7 @@
   <h1>Lab 3F: Maps</h1>
 
 <h2 id="lab-3f-maps"><strong><em><u>Lab 3F - Maps</u></em></strong></h2>
-<p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your journal.</p>
+<p>Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;"><strong>blue</strong></span> on your computer, and answering the questions in <span style="color:firebrick;"><strong>red</strong></span> in your journal.</p>
 <h3 id="informative-and-fun"><strong>Informative and Fun!</strong></h3>
 <ul>
 <li>
@@ -3611,15 +3611,15 @@
 </li>
 <li>
 <p>You'll find it very helpful, for this lab, to write all of the commands, including the <code>load_lab(23)</code>
-command, as an <code>R</code> script.</p>
+command, as an <code>R</code> Script.</p>
 <p>– This way you can edit the code that builds the map and quickly reload the lab.</p>
 </li>
 </ul>
 <h3 id="load-your-data"><strong>Load your data!</strong></h3>
 <ul>
 <li>
-<p>In <a href="../lab3e/">Lab 3E</a> you created a dataset. Load it into Rstudio now by filling in the blank with the file name
-of the data.</p>
+<p><span style="color:midnightblue;"><strong>In <a href="../lab3e/">Lab 3E</a> you created a dataset. Load it into Rstudio now by filling in the blank with the file name
+of the data.</strong></span></p>
 <pre><code>load("___.Rda")
 </code></pre>
 </li>
@@ -3633,15 +3633,15 @@ of the data.</p>
 <p>Let's start by building a basic map!</p>
 </li>
 <li>
-<p>Use the <code>leaflet()</code> function and the <code>mtns</code> data to create the <code>leaf</code> that we can use for mapping.</p>
+<p><span style="color:midnightblue;"><strong>Use the <code>leaflet()</code> function and the <code>mtns</code> data to create the <code>leaf</code> that we can use for mapping.</strong></span></p>
 <pre><code>mtns_leaf &lt;- leaflet(____)
 </code></pre>
 </li>
 <li>
-<p>Then, insert <code>mtns_leaf</code> into the <code>addTiles()</code> function and assign the output the name <code>mtns_map</code></p>
+<p><span style="color:midnightblue;"><strong>Then, insert <code>mtns_leaf</code> into the <code>addTiles()</code> function and assign the output the name <code>mtns_map</code>.</strong></span></p>
 </li>
 <li>
-<p>Run <code>mtns_map</code> in the console to look at your basic map with no data displayed.</p>
+<p><span style="color:midnightblue;"><strong>Run <code>mtns_map</code> in the console to look at your basic map with no data displayed.</strong></span></p>
 <p>– Be sure to try clicking on the map to pan and zoom.</p>
 </li>
 </ul>
@@ -3649,16 +3649,18 @@ of the data.</p>
 <ul>
 <li>
 <p>Now we can add markers for the locations of the mountains using the <code>addMarkers()</code> function.</p>
-<p>– Fill in the blanks below with the basic map we've created and the values for latitude and
-longitude.</p>
+</li>
+<li>
+<p><span style="color:midnightblue;"><strong>Fill in the blanks below with the basic map we've created and the values for latitude and longitude.</strong></span></p>
 <pre><code>addMarkers(map = ____, lng = ~____, lat = ~____)
 </code></pre>
 </li>
 <li>
-<p>Supply the <code>peak</code> variable, in a similar way as we supplied the <code>lat</code> and <code>long</code> variables, to the
-<code>popup</code> argument and include it in the code above.</p>
-<p>– <strong>Click on a marker within California and write down the name of the mountain you
-clicked on.</strong></p>
+<p><span style="color:midnightblue;"><strong>Supply the <code>peak</code> variable, in a similar way as we supplied the <code>lat</code> and <code>long</code> variables, to the
+<code>popup</code> argument and include it in the code above.</strong></span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>Click on a marker within California and write down the name of the mountain you clicked on.</strong></span></p>
 </li>
 </ul>
 <h3 id="colorize"><strong>Colorize</strong></h3>
@@ -3667,32 +3669,32 @@ clicked on.</strong></p>
 <p>Our current map looks pretty good, but what if we wanted to add some colors to our plot?</p>
 </li>
 <li>
-<p>Fill in the blanks below to create a new variable that assigns a color to each mountain based on
-the <code>state</code> its located.</p>
+<p><span style="color:midnightblue;"><strong>Fill in the blanks below to create a new variable that assigns a color to each mountain based on
+the <code>state</code> it's located in.</strong></span></p>
 <pre><code>mtns &lt;- mutate(____, state_colors = colorize(____))
 </code></pre>
 </li>
 <li>
 <p>Now that we've added a new variable, we need to re-build <code>mtns_leaf</code> and <code>mtns_map</code> to use it.</p>
-<p>– Create <code>mtns_leaf</code> and <code>mtns_map</code> as you did before.</p>
-<p>– Then change <code>addMarkers</code> to <code>addCircleMarkers</code> and keep all of the arguments the
-same.</p>
+<p>– <span style="color:midnightblue;"><strong>Create <code>mtns_leaf</code> and <code>mtns_map</code> as you did before.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>Then change <code>addMarkers</code> to <code>addCircleMarkers</code> and keep all of the arguments the
+same.</strong></span></p>
 </li>
 </ul>
 <h3 id="showing-off-our-colors"><strong>Showing off our colors</strong></h3>
 <ul>
 <li>
-<p>To add the colors to our plot, use the <code>addCircleMarkers</code> like before but this time include <code>color =
-~state_colors</code> as an argument.</p>
+<p><span style="color:midnightblue;"><strong>To add the colors to our plot, use the <code>addCircleMarkers</code> like before but this time include <code>color =
+~state_colors</code> as an argument.</strong></span></p>
 </li>
 <li>
 <p>It's hard to know just what the different colors mean so let's add a legend.</p>
 <ul>
 <li>
-<p>First, assign the map with the circle markers as <code>mtns_map</code>.</p>
+<p><span style="color:midnightblue;"><strong>First, assign the map with the circle markers as <code>mtns_map</code>.</strong></span></p>
 </li>
 <li>
-<p>Then, fill in the blanks below to place a legend in the top-right hand corner.</p>
+<p><span style="color:midnightblue;"><strong>Then, fill in the blanks below to place a legend in the top-right hand corner.</strong></span></p>
 <p>addLegend(<strong><em>_, colors = ~unique(</em></strong>_), labels = ~unique(____)).</p>
 </li>
 </ul>
