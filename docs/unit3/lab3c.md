@@ -67,7 +67,7 @@ sample* will look more or less similar to the distribution from the whole ```cdc
 * <span style="color:firebrick;">**How do the distributions change as the size of the sample increases? Why do you
 think this occurs?**</span>
 
-* `<span style="color:midnightblue;">**``tally()``` the proportion of ```grade```s for your *convenience* sample and all your *random*
+* <span style="color:midnightblue;">**```tally()``` the proportion of ```grade```s for your *convenience* sample and all your *random*
 samples.**</span>
 
     – <span style="color:firebrick;">**Which set of proportions looks most similar to the proportions of the
