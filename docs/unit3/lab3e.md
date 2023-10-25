@@ -1,5 +1,6 @@
 ##***<u>Lab 3E - Scraping web data</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**The web as a data source**
 * The internet contains huge amounts of information.
@@ -17,25 +18,25 @@ differently.
     - Step 2: Clean it up and turn it into a usable data frame for [```Lab 3F```](lab3f.md).
 
 ###**Our first web scraper**
-* Copy and paste the link below into a web browser to view the website of data we'd like to *scrape*
-and analyze.<br>
+* <span style="color:midnightblue;">**Copy and paste the link below into a web browser to view the website of data we'd like to *scrape*
+and analyze.**</span><br>
     [https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html"){:target="_blank"}
 
-* **Briefly describe what the data on the website is about.**
+* <span style="color:firebrick;">**Briefly describe what the data on the website is about.**</span>
 
-    – **Then write down 3 questions you'd be interested in answering by analyzing this
-    data.**
+    – <span style="color:firebrick;">**Then write down 3 questions you'd be interested in answering by analyzing this
+    data.**</span>
 
 ###**HTML**
 * ```HTML``` is the code that's used to render every website you've ever visited.
 
 * The following slide shows the ```HTML``` code used to create the first two rows of the web data.
 
-    – **How is the data table in ```HTML``` different than the data tables we're used to seeing in
-    ```R```, for example, when we use the ```View()``` function?**
+    – <span style="color:firebrick;">**How is the data table in ```HTML``` different than the data tables we're used to seeing in
+    ```R```, for example, when we use the ```View()``` function?**</span>
 
-    – **What do you think the *tags* ```<TABLE>```, ```<TR>```, ```<TH>```, ```<TD>``` mean? How does ```HTML``` use
-    these *tags* to display the table?**
+    – <span style="color:firebrick;">**What do you think the *tags* ```<TABLE>```, ```<TR>```, ```<TH>```, ```<TD>``` mean? How does ```HTML``` use
+    these *tags* to display the table?**</span>
 
 ```
 <TABLE>
@@ -67,11 +68,11 @@ and analyze.<br>
 ```
 
 ###**Get to scraping!**
-* Use your browser to go back to the website with the data we're interested in scraping.
+* <span style="color:midnightblue;">**Use your browser to go back to the website with the data we're interested in scraping.**</span>
 
-* Find the URL address for the site and assign it the name ```data_url``` in ```R```.
+* <span style="color:midnightblue;">**Find the URL address for the site and assign it the name ```data_url``` in ```R```.**</span>
 
-    – Then fill in the blanks below to have ```R``` scrape *every* web table available on the site:
+* <span style="color:midnightblue;">**Then fill in the blanks below to have ```R``` scrape *every* web table available on the site:**</span>
 
         tables <- readHTMLTable(____)
 
@@ -83,27 +84,26 @@ which table has the data we're interested in.
 
     – This means we need to check all 3 tables to find the one we're interested in.
 
-* Use the ```length()``` function to find out how many tables of data were scraped in our set of ```tables```.
+* <span style="color:midnightblue;">**Use the ```length()``` function to find out how many tables of data were scraped in our set of ```tables```.**</span>
 
 ###**Saving tables**
 
 * Now that we know how many tables we've scraped, we can go back and scrape individual tables
 by adding the which argument to the ```readHTMLTable()``` function.
 
-    – Use ```readHTMLTable()``` to re-scrape the data from the web but this time use the ```which```
-    argument to scrape just the individual table.
+* <span style="color:midnightblue;">**Use ```readHTMLTable()``` to re-scrape the data from the web but this time use the ```which``` argument to scrape just the individual table.**</span>
 
     – The ```which``` argument should be the integer denoting which table you want scraped.
 
-    – Assign the scraped data the name ```mtns```
+    – Assign the scraped data the name ```mtns```.
 
 ###**Check, save and use!**
 * After scraping the data, the only thing left to do is to save it and use it.
 
-* Fill in the blanks to save the data and give it a file name
+* <span style="color:midnightblue;">**Fill in the blanks to save the data and give it a file name.**</span>
 
         save(____, file = "____.Rda")
 
-* **What is the mean and standard deviation of ```elev_ft```?**
+* <span style="color:firebrick;">**What is the mean and standard deviation of ```elev_ft```?**</span>
 
-* **Which ```state``` has the most mountains in our data?**
+* <span style="color:firebrick;">**Which ```state``` has the most mountains in our data?**</span>
