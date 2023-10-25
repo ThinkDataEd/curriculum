@@ -72,7 +72,7 @@ humans agree upon beforehand. Every time that trigger happens, we collect data.
 
 ###**<u>[Lesson 17: Creating Our Own Participatory Sensing Campaign](lesson17.md)</u>**
 Creating a Participatory Sensing Campaign requires that survey questions must be completed whenever
-they are “triggered”. Research questions provide an overall direction in Participatory Sensing Campaign.
+they are “triggered”. Research questions provide an overall direction in a Participatory Sensing Campaign.
 
 ###**<u>[Lesson 18: Evaluating Our Own Participatory Sensing Campaign](lesson18.md)</u>**
 Statistical questions guide a Participatory Sensing Campaign so that we can learn about a community or

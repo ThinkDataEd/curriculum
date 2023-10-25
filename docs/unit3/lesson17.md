@@ -13,7 +13,7 @@ survey on a topic of interest chosen by the class.
 
 !!! note "Essential Concepts: "
     Creating a Participatory Sensing Campaign requires that survey questions must be
-    completed whenever they are “triggered”. Research questions provide an overall direction in Participatory
+    completed whenever they are “triggered”. Research questions provide an overall direction in a Participatory
     Sensing Campaign.
 
 ###**Lesson:**
