@@ -1908,15 +1908,15 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#our-new-data" class="md-nav__link">
-    Our new data
+  <a href="#importing-our-data" class="md-nav__link">
+    Importing our data
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#importing-our-data" class="md-nav__link">
-    Importing our data
+  <a href="#our-new-data" class="md-nav__link">
+    Our new data
   </a>
   
 </li>
@@ -3526,15 +3526,15 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#our-new-data" class="md-nav__link">
-    Our new data
+  <a href="#importing-our-data" class="md-nav__link">
+    Importing our data
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#importing-our-data" class="md-nav__link">
-    Importing our data
+  <a href="#our-new-data" class="md-nav__link">
+    Our new data
   </a>
   
 </li>
@@ -3604,13 +3604,13 @@
   <h1>Lab 3B: Confound It All!</h1>
 
 <h2 id="lab-3b-confound-it-all"><strong><em><u>Lab 3B - Confound it all!</u></em></strong></h2>
-<p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your journal.</p>
+<p>Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;"><strong>blue</strong></span> on your computer, and answering the questions in <span style="color:firebrick;"><strong>red</strong></span> in your journal.</p>
 <h3 id="finding-data-in-new-places"><strong>Finding data in new places</strong></h3>
 <ul>
 <li>
-<p>Since your first forays into doing data science, you've used data from two-sources:</p>
+<p>Since your first forays into doing data science, you've used data from two sources:</p>
 <p>– Built-in datasets from RStudio.</p>
-<p>– Campaign data from IDS Campaign Manager.</p>
+<p>– Campaign data from the Campaign Manager.</p>
 </li>
 <li>
 <p>Data can be found in many other places though, especially online.</p>
@@ -3621,13 +3621,32 @@
 capacity.</p>
 </li>
 </ul>
-<h3 id="our-new-data"><strong>Our new data</strong></h3>
+<h3 id="importing-our-data"><strong>Importing our data</strong></h3>
 <ul>
+<li>
+<p>Rather than <em>export</em>-ing the data and then <em>upload</em>-ing and <em>importing</em>-ing it, we'll pull the data
+straight from the webpage into R.</p>
+</li>
 <li>
 <p>You can find the data online here:</p>
 <p>– (Right-click and select <em>Open in New Window</em>)<br> 
 <a href="https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv" target="_blank" title="https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv">https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv</a></p>
 </li>
+<li>
+<p><span style="color:midnightblue;"><strong>Click on the <em>Import Dataset</em> button under the <em>Environment</em> tab.</strong></span></p>
+<p>– Then click on the <em>From Text (readr)</em> option.</p>
+<p>– Type or copy/paste the URL into the box.</p>
+<p>– Click <em>Update</em>.</p>
+</li>
+<li>
+<p><span style="color:midnightblue;"><strong>Before importing, change the following <em>Import Options</em>:</strong></span></p>
+<p>– Name: <code>lungs</code></p>
+<p>– <em>Uncheck</em> the <em>First Row as Names</em></p>
+<p>– <em>Change Delimiter</em> to <em>Whitespace</em></p>
+</li>
+</ul>
+<h3 id="our-new-data"><strong>Our new data</strong></h3>
+<ul>
 <li>
 <p>Variables that were measured include:</p>
 <p>– Age in years.</p>
@@ -3637,46 +3656,32 @@ capacity.</p>
 <p>– Whether the participant was a smoker, <code>"1"</code>, or non-smoker <code>"0"</code>.</p>
 </li>
 </ul>
-<h3 id="importing-our-data"><strong>Importing our data</strong></h3>
-<ul>
-<li>
-<p>Rather than <em>export</em>-ing the data and then <em>upload</em>-ing and <em>importing</em>-ing it, we'll pull the data
-straight from the webpage into R.</p>
-</li>
-<li>
-<p>Click on the <em>Import Dataset</em> button under the <em>Environment</em> tab.</p>
-<p>– Then click on the <em>From Text (readr)</em> option.</p>
-<p>– Type or copy/paste the URL into the box and then hit <em>Update</em>.</p>
-</li>
-<li>
-<p>Before importing, change the following Import Options:</p>
-<p>– Name: <code>lungs</code></p>
-<p>– <em>Uncheck</em> the <em>First Row as Data box</em></p>
-<p>– <em>Change Delimiter</em> to <em>Whitespace</em></p>
-</li>
-</ul>
 <h3 id="about-the-data"><strong>About the data</strong></h3>
 <ul>
 <li>
 <p>The data come from the <em>Forced Expiratory Volume (FEV)</em> study that took place in the late
 1970's.</p>
-<p>– The observations come from a sample of 654 youths, aged 3 to 19, in/around East
-Boston.</p>
-<p>– Researchers were interested in answering the <em>research question</em>:</p>
+</li>
+<li>
+<p>The observations come from a sample of 654 youths, aged 3 to 19, in/around East
+    Boston.</p>
+</li>
+<li>
+<p>Researchers were interested in answering the <em>research question</em>:</p>
 <p><em>What is the effect of childhood smoking on lung health?</em></p>
 </li>
 </ul>
 <h3 id="cleaning-your-data"><strong>Cleaning your data</strong></h3>
 <ul>
 <li>
-<p>Now that we've got the data loaded, we need to clean it to get it ready for use (<em>Look at <a href="../../unit1/lab1f/">lab
-1F</a> for help</em>). Specifically:</p>
+<p><span style="color:midnightblue;"><strong>Now that we've got the data loaded, we need to clean it to get it ready for use (<em>Look at <a href="../../unit1/lab1f/">lab
+1F</a> for help</em>). Specifically:</strong></span></p>
 <p>– We want to name the variables: <code>"age"</code>, <code>"lung_cap"</code>, <code>"height"</code>,
 <code>"gender"</code>,<code>"smoker"</code>, in that order.</p>
 <p>– Change the type of variable for <code>gender</code> and <code>smoker</code> from <em>numeric</em> to <em>character</em>.</p>
 </li>
 <li>
-<p>After changing the variable types for <code>gender</code> and <code>smoker</code>:</p>
+<p><span style="color:midnightblue;"><strong>After changing the variable types for <code>gender</code> and <code>smoker</code>:</strong></span></p>
 <p>– For <code>gender</code>, use <code>recode</code> to change <code>"1"</code> to <code>"Male"</code> and <code>"0"</code> to <code>"Female"</code>.</p>
 <p>– For <code>smoker</code>, use <code>recode</code> to change <code>"1"</code> to <code>"Yes"</code> and <code>"0"</code> to <code>"No"</code>.</p>
 </li>
@@ -3687,55 +3692,55 @@ Boston.</p>
 <p>Our <code>lungs</code> data is from an observational study.</p>
 </li>
 <li>
-<p><strong>Write down a reason the researchers couldn't use an experiment to test the effects of
-smoking on children's lungs.</strong></p>
+<p><span style="color:firebrick;"><strong>Write down a reason the researchers couldn't use an experiment to test the effects of
+smoking on children's lungs.</strong></span></p>
 </li>
 <li>
 <p>Observational studies are often helpful for analyzing how variables are related:</p>
+<ul>
+<li><span style="color:firebrick;"><strong>Do you think that a person's age affects their lung capacity? Make a sketch of what
+you think a scatterplot of the two variables would look like and explain.</strong></span></li>
+</ul>
 </li>
 <li>
-<p><strong>Do you think that a person's age affects their lung capacity? Make a sketch of what
-you think a scatterplot of the two variables would look like and explain.</strong></p>
-</li>
-<li>
-<p>Use the <code>lungs</code> data to create an <code>xyplot</code> of <code>age</code> and <code>lung_cap</code>.</p>
-<p>– <strong>Interpret the plot and describe why the relationship between the two variables
-makes sense.</strong></p>
+<p><span style="color:midnightblue;"><strong>Use the <code>lungs</code> data to create an <code>xyplot</code> of <code>age</code> and <code>lung_cap</code>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Interpret the plot and describe why the relationship between the two variables
+makes sense.</strong></span></p>
 </li>
 </ul>
 <h3 id="smoking-and-lung-capacity"><strong>Smoking and lung capacity</strong></h3>
 <ul>
 <li>
-<p>Make a plot that can be used to answer the statistical question:</p>
+<p><span style="color:midnightblue;"><strong>Make a plot that can be used to answer the statistical investigative question:</strong></span></p>
 <p><em>Do people who smoke tend to have lower lung capacity than those who do not smoke?</em></p>
 </li>
 <li>
-<p><strong>Use your plot to answer the question.</strong></p>
-<p>– <strong>Were you surprised by the answer? Why?</strong></p>
-<p>– <strong>Can you suggest a possible confounding factor that might be affecting the
-result?</strong></p>
+<p><span style="color:firebrick;"><strong>Use your plot to answer the question.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Were you surprised by the answer? Why?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Can you suggest a possible confounding factor that might be affecting the
+result?</strong></span></p>
 </li>
 </ul>
 <h3 id="lets-compare"><strong>Let's compare</strong></h3>
 <ul>
 <li>
-<p>Create three subsets of the data:</p>
-<p>– One that includes <em>only</em> 13 year olds ...</p>
-<p>– One that includes <em>only</em> 15 year olds ...</p>
-<p>– and one that includes <em>only</em> 17 year olds.</p>
+<p><span style="color:midnightblue;"><strong>Create three subsets of the data:</strong></span></p>
+<p>– One that includes <em>only</em> 13-year-olds ...</p>
+<p>– One that includes <em>only</em> 15-year-olds ...</p>
+<p>– and one that includes <em>only</em> 17-year-olds.</p>
 </li>
 <li>
-<p>Make a plot that compares the lung capacity of smokers and non-smokers for each subset.</p>
+<p><span style="color:midnightblue;"><strong>Make a plot that compares the lung capacity of smokers and non-smokers for each subset.</strong></span></p>
 </li>
 <li>
-<p><strong>How does the relationship between smoking and lung capacity change as we
-increase the age from 13 to 15 to 17?</strong></p>
+<p><span style="color:firebrick;"><strong>How does the relationship between smoking and lung capacity change as we
+increase the age from 13 to 15 to 17?</strong></span></p>
 </li>
 </ul>
 <h3 id="sum-it-up"><strong>Sum it up!</strong></h3>
 <ul>
 <li>
-<p><strong>Does smoking affect lung capacity? If so, how?</strong></p>
+<p><span style="color:firebrick;"><strong>Does smoking affect lung capacity? If so, how?</strong></span></p>
 <p>– Support your answers with appropriate plots.</p>
 <p>– Explain why you included the variables you used in your plots.</p>
 </li>
