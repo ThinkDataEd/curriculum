@@ -1,6 +1,6 @@
 ##***<u>Lab 3A - The results are in!</u>***
 
-Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Conducting experiments**
 * Previously in class, you conducted an experiment to gauge how a stimulus affected people's
