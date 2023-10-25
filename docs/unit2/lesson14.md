@@ -20,7 +20,7 @@ They will understand that these differences are usually small.
     We can also "shuffle" data based on numerical variables. The statistic we use is the
     difference in medians. The distribution we form by this form of shuffling still represents what happens if
     chance were the only factor at play. When differences are small, we suspect that they might be due to
-    chance. When differences are big, we suspect they might be 'real.'
+    chance. When differences are big, we suspect they might be 'real'.
 
 ###**Lesson:**
 1. Remind students that they previously learned how to determine if a difference is due to chance by
@@ -63,12 +63,12 @@ for his/her cabin (the fare price) had anything to do with whether or not he/she
 9. 40 strips were created for large classes. If your class has less than 40 students, assign the
 students to two groups such that roughly 40% of them are in the survivor group (15/40 = 37.5% ≈
 40%), and the rest are in the victim group. If your class is small (smaller than 10), then put the
-students in two equal sized groups. The split does not have to be exactly 40%.
+students in two equal sized groups. The split does not have to be exactly 40%, as the actual value from our data is 38.8%.
 
 10. Inform the smaller group that they are the survivors and distribute a survivor strip with its
 corresponding fare to each student. Set aside any leftover strips. Tell them that the price on the
 strip represents the amount of money paid for their ticket to board the *Titanic*. Notify them that
-$20 in 1912 is worth about $500 today.
+£20 in 1912 is worth about £1126 today.
 
 11. Divulge to the larger group that they, unfortunately, are the victims and distribute a victim strip
 with its corresponding fare to each student. Set aside any leftover strips.
@@ -86,7 +86,7 @@ group.
     <span style="color:grey">***If all 15 survivor cards and all 25 victim cards are used, the difference is
     medians would be:***</span>
 
-    <span style="color:grey">***$26.00 – $13.00 = $13.00***</span>
+    <span style="color:grey">***£26.00 – £13.00 = £13.00***</span>
 
 14. Explain that one of the controversies of the *Titanic* disaster was that some people felt that the rich
 people were given better access to the lifeboats than were the poor, so rich people were more
@@ -100,7 +100,7 @@ the real data and are considered representative of the 800 passengers.
     survive? In other words, did passengers who paid more for their tickets have a better
     chance of survival? <span style="color:grey">***Yes, there is evidence that rich passengers survived more often
     than poorer passengers. The median difference between the fare prices of the
-    survivors and the victims is $13.00 (see Step 13). Most survivors had higher fare
+    survivors and the victims is £13.00 (see Step 13). Most survivors had higher fare
     prices than the victims, so the distribution of survivor fares is shifted to the right
     and is more right-skewed.***</span>
 
@@ -137,14 +137,14 @@ above BEFORE the shuffles have taken place.
 
     | Median Fare Price of Survivors | Median Fare Price of Victims | Difference in Medians (Survivors - Victims) |
     |------------------------------|----------------------------|-------------------------------------------|
-    | $26.00 | $13.00 | $26.00 - $13.00 = $13.00 |
+    | £26.00 | £13.00 | £26.00 - £13.00 = £13.00 |
     | ? |  |  |
 
 21. Note that values in the “Difference in Medians” column can be positive or negative because
 sometimes the survivors will pay more for their tickets, and other times the victims will pay more
 for their tickets.
 
-22. Draw a dotplot on the board labeled “Difference in Medians.” Include a vertical line at $13.00 (or
+22. Draw a dotplot on the board labeled “Difference in Medians.” Include a vertical line at £13.00 (or
 whatever value was calculated in Step 13 by the class) to represent the actual difference in the
 median fare prices between the survivors and the victims (see example below).
 
@@ -153,9 +153,9 @@ median fare prices between the survivors and the victims (see example below).
 23. Using the information from Steps 19 and 20, place a dot at the corresponding value
 for the shuffled data’s difference in medians. Ask the students:
 
-    100. How does this difference compare to the actual difference of $13.00 (from Step 13)?
+    100. How does this difference compare to the actual difference of £13.00 (from Step 13)?
     <span style="color:grey">***Answers will vary by class. Most likely, the difference in medians will be much
-    smaller than $13.00. In fact, the difference in medians will be centered around 0.***</span>
+    smaller than £13.00. In fact, the difference in medians will be centered around 0.***</span>
 
 24. Remind students that small differences might be due to chance and big differences typically
 mean that there is a “real” difference between groups. In this case, a big difference might mean
@@ -165,7 +165,7 @@ survival was just a matter of plain luck.
 25. Repeat Steps 17 – 23 a few more times (depending on how much class time you have available).
 
 26. In pairs, ask students to discuss whether they think the real difference in median fare prices they
-calculated in Step 13 ($13.00 if all cards were used) is small or large. <span style="color:grey">***Answers will vary by
+calculated in Step 13 (£13.00 if all cards were used) is small or large. <span style="color:grey">***Answers will vary by
 class. Guide students to look at the MAD value of the distribution of differences in median
 fares.***</span>
 
