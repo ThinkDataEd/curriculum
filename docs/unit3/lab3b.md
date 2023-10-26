@@ -88,7 +88,7 @@ smoking on children's lungs.**</span>
 
 * Observational studies are often helpful for analyzing how variables are related:
 
-    - <span style="color:firebrick;">**Do you think that a person's age affects their lung capacity? Make a sketch of what you think a scatterplot of the two variables would look like and explain.**</span>
+    – <span style="color:firebrick;">**Do you think that a person's age affects their lung capacity? Make a sketch of what you think a scatterplot of the two variables would look like and explain.**</span>
 
 * <span style="color:midnightblue;">**Use the ```lungs``` data to create an ```xyplot``` of ```age``` and ```lung_cap```.**</span>
 
