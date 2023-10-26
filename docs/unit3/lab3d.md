@@ -41,11 +41,11 @@ living in the U.S.**</span>
 
 * We can create a single *bootstrapped* sample for the ```mean``` in three steps:
 
-    `1. Sample the number of the rows to use in our *bootstrap*.
+    1. Sample the number of the rows to use in our *bootstrap*.
 
-    `2. ```slice``` those rows from our original data into our *bootstrap* data.
+    2. ```slice``` those rows from our original data into our *bootstrap* data.
 
-    `3. Calculate the mean of our *bootstrapped* data.
+    3. Calculate the mean of our *bootstrapped* data.
 
 ###**Our first bootstrap**
 * <span style="color:midnightblue;">**Fill in the blanks to ```sample``` the row numbers we'll use in our *bootstrapped* sample.**</span>
