@@ -14,7 +14,9 @@ purposes.
 4. *Online Data-ing* handout ([LMR_3.19_Online Data-ing](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf))
 
 ###**Vocabulary:**
-data farm, tags, HTML
+[data farm](../../vocabulary/unit3/#data-farm "a physical space where high capacity servers are placed to store large amounts of data"){ .md-button }
+[tags](../../vocabulary/unit3/#tags "the variable names are stored at the beginning of the code, in between ```<th>``` and ```</th>```"){ .md-button }
+[HTML](../../vocabulary/unit3/#html-hyper-text-markup-language "a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on web pages"){ .md-button }
 
 ###**Essential Concepts:**
 

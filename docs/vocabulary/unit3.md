@@ -201,7 +201,7 @@
 ### tags
 
 !!! note ""
-    the variable names are stored at the beginning of the code, in between <th> and </th>. <th> and </th>
+    the variable names are stored at the beginning of the code, in between ```<th>``` and ```</th>```
 
 ### theory
 
