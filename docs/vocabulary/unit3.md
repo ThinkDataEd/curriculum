@@ -11,7 +11,7 @@
 ### associated
 
 !!! note ""
-    joined together often in a working relationship
+    joined together, often in a working relationship
 
 ### bootstrapping
 

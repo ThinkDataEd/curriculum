@@ -10,7 +10,9 @@ is why causation can never be concluded with observational studies, only associa
 2. *Spurious Correlations* website ([tylervigen.com](http://tylervigen.com/spurious-correlations))
 
 ###**Vocabulary:**
-cause, confounding factors, associated
+[cause](../../vocabulary/unit3/#cause "a reason for an action or condition"){ .md-button }
+[confounding factors](../../vocabulary/unit3/#confounding-factors "an “extra” variable that you didn’t account for"){ .md-button }
+[associated](../../vocabulary/unit3/#associated "joined together, often in a working relationship"){ .md-button }
 
 ###**Essential Concepts:**
 

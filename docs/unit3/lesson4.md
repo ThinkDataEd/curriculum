@@ -11,7 +11,7 @@ be collected from the class experiment and make predictions about the outcome.
 2. Experiment Predictions handout ([LMR_3.1_Experiment Predictions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf))
 
 ###**Vocabulary:**
-theory
+[theory](../../vocabulary/unit3/#theory "an idea used to explain a situation"){ .md-button }
 
 ###**Essential Concepts:**
 

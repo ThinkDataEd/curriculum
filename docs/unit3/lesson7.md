@@ -9,7 +9,9 @@ ethics, cost limitations, and feasibility when deciding between the two data col
 1. *What Should We Do?* handout ([LMR_3.3_ObsStudies vs Experiments](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.3_ObsStudies vs Experiments.pdf))
 
 ###**Vocabulary:**
-ethics, cost limitations, feasibility
+[ethics](../../vocabulary/unit3/#ethics "a system of moral principles"){ .md-button }
+[cost limitations](../../vocabulary/unit3/#cost-limitations "the limitation of funds or money"){ .md-button }
+[feasibility](../../vocabulary/unit3/#feasibility "how easy or difficult it is to do something"){ .md-button }
 
 ###**Essential Concepts:**
 

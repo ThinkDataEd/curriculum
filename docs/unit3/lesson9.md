@@ -16,7 +16,10 @@ types of questions are used in a survey, and how a survey is conducted.
 2. *Designing a Survey* handout ([LMR_3.4_Designing a Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf))
 
 ###**Vocabulary:**
-survey, self-reported, open-ended questions, closed-ended questions
+[survey](../../vocabulary/unit3/#survey "an investigation about the characteristics of a given population by means of collecting data from a sample of that population and estimating their characteristics through the systematic use of statistical methodology"){ .md-button }
+[self-reported](../../vocabulary/unit3/#self-reported "when participants answer questions themselves"){ .md-button }
+[open-ended questions](../../vocabulary/unit3/#open-ended-questions "offer a free-response/text approach"){ .md-button }
+[closed-ended questions](../../vocabulary/unit3/#closed-ended-questions "give a fixed set of choices"){ .md-button }
 
 ###**Essential Concepts:**
 

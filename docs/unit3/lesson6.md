@@ -13,7 +13,7 @@ about the results.
 2. *Turning Observations into Data* handout ([LMR_3.2_Observations_to_Data](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.2_Observations to Data.pdf))
 
 ###**Vocabulary:**
-observational study
+[observational study](../../vocabulary/unit3/#observational-study "a data collection method in which subjects are observed and outcomes are recorded"){ .md-button }
 
 ###**Essential Concepts:**
 
