@@ -14,7 +14,7 @@ discern whether the evidence presented is based on anecdotes or data.
 
 ###**Vocabulary:**
 [anecdote](../../vocabulary/unit2/#anecdote "stories that someone tells about his/her own experience or the experience of someone he/she knows")
-[data] (../../vocabulary/unit2/#data "information, or observations, that have been gathered and recorded")
+[data](../../vocabulary/unit2/#data "information, or observations, that have been gathered and recorded")
 
 ###**Essential Concepts:**
 
