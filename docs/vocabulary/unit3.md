@@ -51,7 +51,7 @@
 ### data
 
 !!! note ""
-    Data are information, or observations, that have been gathered and recorded.
+    information, or observations, that have been gathered and recorded
 
 ### data farm
 
