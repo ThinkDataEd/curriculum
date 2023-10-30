@@ -13,8 +13,8 @@ discern whether the evidence presented is based on anecdotes or data.
 [https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/](https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/ "https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/"){:target="_blank"}
 
 ###**Vocabulary:**
-[anecdote](../../vocabulary/unit2/#anecdote "stories that someone tells about his/her own experience or the experience of someone he/she knows"){ .md-button }
-[data](../../vocabulary/unit2/#data "information, or observations, that have been gathered and recorded"){ .md-button }
+[anecdote](../../vocabulary/unit3/#anecdote "stories that someone tells about his/her own experience or the experience of someone he/she knows"){ .md-button }
+[data](../../vocabulary/unit3/#data "information, or observations, that have been gathered and recorded"){ .md-button }
 
 ###**Essential Concepts:**
 
