@@ -67,7 +67,7 @@ the actual outcome (as in MAD) and is sometimes called a “residual.”
         <span style="color:grey">***For example, using the minimum and outcomes above, gives you a mean squared
         deviation of:***</span>
 
-        <center><img src="https://latex.codecogs.com/gif.latex?\frac{\sum&space;(66-64.20)^2&plus;(67-64.20)^2&plus;...&plus;(67-64.20)^2}{10}=229/10=22.9\&space;square\&space;in." title="\frac{\sum (66-64.20)^2+(67-64.20)^2+...+(67-64.20)^2}{10}=229/10=22.9\ square\ in." /></center>
+        <center><img src="https://latex.codecogs.com/gif.latex?\frac{\(66-64.20)^2&plus;(67-64.20)^2&plus;...&plus;(67-64.20)^2}{10}=229/10=22.9\&space;square\&space;in." title="\frac{\sum (66-64.20)^2+(67-64.20)^2+...+(67-64.20)^2}{10}=229/10=22.9\ square\ in." /></center>
 
         <span style="color:grey">***Note to teacher: The value of the mean squared deviation will always be in square
         units. In order to convert back to the original units, simply take the square root of the
