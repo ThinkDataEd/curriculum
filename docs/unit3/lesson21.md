@@ -19,7 +19,7 @@ sense for web data to be formatted as XML.
 4. *Mountains – HTML vs. XML* handout ([LMR_3.20_Mountains - HTML vs. XML](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.20_Mountains - HTML vs. XML.pdf))
 
 ###**Vocabulary:**
-XML
+[XML](../../vocabulary/unit3/#xml-extensible-markup-language "a popular format for storing data on the internet; it creates readable web pages, and also because it allows programmers to easily update values in the data table if those values change"){ .md-button }
 
 ###**Essential Concepts:**
 
