@@ -15,7 +15,12 @@ Students will learn how to collect random samples from a population in order to 
 5. *Parameters & Statistics* handout ([LMR_3.6_Parameters and Statistics](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.6_Parameters and Statistics.pdf))
 
 ###**Vocabulary:**
-population, sample, representative, random sample, parameter, statistic
+[population](../../vocabulary/unit3/#population "consists of all of the people we want to learn something about"){ .md-button }
+[sample](../../vocabulary/unit3/#sample "people (or objects) that are selected from the population"){ .md-button }
+[representative](../../vocabulary/unit3/#representative "a subset of a population that seeks to accurately reflect the characteristics of the larger group"){ .md-button }
+[random sample](../../vocabulary/unit3/#random-sample "a sample that is chosen randomly"){ .md-button }
+[parameter](../../vocabulary/unit3/#parameter "any number that summarizes a population"){ .md-button }
+[statistic](../../vocabulary/unit3/#statistic "a term used for numbers that summarize a sample"){ .md-button }
 
 ###**Essential Concepts:**
 

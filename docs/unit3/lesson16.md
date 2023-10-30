@@ -12,7 +12,7 @@ writing sensor questions.
 3. *Sensor or Survey?* handout ([LMR_3.14_Sensor or Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.14_Sensor or Survey.pdf))
 
 ###**Vocabulary:**
-Participatory Sensing
+[Participatory Sensing](../../vocabulary/unit3/#participatory-sensing "an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to systematically explore interesting aspects of their worlds ranging from health to culture"){ .md-button }
 
 ###**Essential Concepts:**
 

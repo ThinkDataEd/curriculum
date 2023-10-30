@@ -15,7 +15,9 @@ Students will learn what sensors are and how they are used to collect data.
     **Advanced preparation required** (see Step 10 below)
 
 ###**Vocabulary:**
-sensor, trigger, algorithm
+[sensor](../../vocabulary/unit3/#sensor "a converter that measures a physical quantity and converts it into a signal, which can be read by an observer or by an instrument"){ .md-button }
+[trigger](../../vocabulary/unit3/#trigger "something that responds to an event so that an action can occur"){ .md-button }
+[algorithm](../../vocabulary/unit3/#algorithm "a process or set of rules that are followed"){ .md-button }
 
 ###**Essential Concepts:**
 

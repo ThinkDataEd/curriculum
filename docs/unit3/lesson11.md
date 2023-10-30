@@ -26,7 +26,7 @@ population and estimating the population parameter.
     way (this can be either on poster paper or by simply taking a photo).
 
 ###**Vocabulary:**
-sampling bias
+[sampling bias](../../vocabulary/unit3/#sampling-bias "occurs when the resulting samples tend to produce results that are influenced in one particular direction"){ .md-button }
 
 ###**Essential Concepts:**
 

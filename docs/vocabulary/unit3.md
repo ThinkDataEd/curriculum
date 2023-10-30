@@ -166,7 +166,7 @@
 ### sampling bias
 
 !!! note ""
-    a description of the process, or the sampling plan, that is used to collect data, and oftens produces a biased result; the resulting samples tend to produce results that are influenced in one particular direction
+    occurs when the resulting samples tend to produce results that are influenced in one particular direction
 
 ### self-reported
 

@@ -7,7 +7,8 @@ Students will learn about informal confidence intervals and estimates for the ma
 1. Dotplot titled “Mean Word Length, Random Sample, Size = 10” – from [Lesson 11](lesson11.md)
 
 ###**Vocabulary:**
-margin of error, bootstrapping
+[margin of error](../../vocabulary/unit3/#margin-of-error "tells you how many percentage points your results will differ from the real population value"){ .md-button }
+[bootstrapping](../../vocabulary/unit3/#bootstrapping "where we take random samples of really large samples"){ .md-button }
 
 ###**Essential Concepts:**
 

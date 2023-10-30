@@ -10,7 +10,9 @@ based on statistics from random samples.
 2. Dotplot titled “Number Correct” displayed on the board (or on poster paper)
 
 ###**Vocabulary:**
-inferences, interval, confidence interval
+[inferences](../../vocabulary/unit3/#inferences "the process of drawing conclusions about an underlying population based on a sample or subset of the data"){ .md-button }
+[interval](../../vocabulary/unit3/#interval "a data type which is measured along a scale, in which each point is placed at equal distance from one another"){ .md-button }
+[confidence interval](../../vocabulary/unit3/#confidence-interval "an estimated range of values which is likely to include an unknown population parameter, the estimated range being calculated from a given set of sample data"){ .md-button }
 
 ###**Essential Concepts:**
 

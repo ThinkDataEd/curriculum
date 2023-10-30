@@ -11,7 +11,10 @@ and how to select a better sample.
 2. Poster paper
 
 ###**Vocabulary:**
-survey sample, over-represented, under-represented, random sampling
+[survey sample](../../vocabulary/unit3/#survey-sample "people who are asked to participate in a survey"){ .md-button }
+[over-represented](../../vocabulary/unit3/#over-represented "represented excessively especially; having representatives in a proportion higher than the average"){ .md-button }
+[under-represented](../../vocabulary/unit3/#under-represented "a subset of a population that holds a smaller percentage within a significant subgroup than the subset holds in the general population"){ .md-button }
+[random sampling](../../vocabulary/unit3/#random-sampling "a sample that is chosen randomly"){ .md-button }
 
 ###**Essential Concepts:**
 
