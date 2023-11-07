@@ -9,6 +9,8 @@ topic of interest, then begin data collection.
 
 2. Campaign Authoring Tool ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"})
 
+3. Video showing how to create a Campaign found **[here](https://www.youtube.com/watch_popup?v=PzwMCHOghnI "https://www.youtube.com/watch_popup?v=PzwMCHOghnI"){:target="_blank"}**. 
+
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
