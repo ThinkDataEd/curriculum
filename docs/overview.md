@@ -43,7 +43,7 @@ or Google Chrome). This will allow students to access RStudio from an external s
 searches and make use of a variety of websites and Internet tools. RStudio is available at
 [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}. The IDS team will provide the remainder of the software used in the IDS
 curriculum, available at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
-This software includes the [IDS UCLA app](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=edu.ucla.oit.idsucla){:target="_blank"} and [iOS](https://itunes.apple.com/us/app/ids-ucla/id1422869521){:target="_blank"} smartphones and
+This software includes the [IDS UCLA app](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=org.idsucla.app.survey){:target="_blank"} and [iOS](https://apps.apple.com/us/app/ids-ucla-authorized/id6469903361){:target="_blank"} smartphones and
 tablets, as well as through the web browser on a desktop or laptop computer. The app allows students to
 collect the Participatory Sensing data that is a motivational foundation for the course. In addition to the
 app, students will use the IDS software to access and manipulate their Participatory Sensing data, and to
