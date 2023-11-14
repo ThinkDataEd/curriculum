@@ -17,7 +17,7 @@ Students will learn how to collect random samples from a population in order to 
 ###**Vocabulary:**
 [population](../../vocabulary/unit3/#population "consists of all of the people we want to learn something about"){ .md-button }
 [sample](../../vocabulary/unit3/#sample "people (or objects) that are selected from the population"){ .md-button }
-[representative](../../vocabulary/unit3/#representative "a subset of a population that seeks to accurately reflect the characteristics of the larger group"){ .md-button }
+[representative sample](../../vocabulary/unit3/#representative-sample "a subset of a population that seeks to accurately reflect the characteristics of the larger group"){ .md-button }
 [random sample](../../vocabulary/unit3/#random-sample "a sample that is chosen randomly"){ .md-button }
 [parameter](../../vocabulary/unit3/#parameter "any number that summarizes a population"){ .md-button }
 [statistic](../../vocabulary/unit3/#statistic "a term used for numbers that summarize a sample"){ .md-button }
@@ -90,7 +90,7 @@ following two questions:
     the ages of 13 and 17. People could be from many states, but we would not want to
     sample only people from California, or only people from Los Angeles. It would be
     impossible to survey every single person in the US; this is why we create a random***</span>
-    **representative** <span style="color:grey">***sample of the population.***</span>
+    **representative sample** <span style="color:grey">*** of the population.***</span>
 
     **<u>Note:</u>** Steer the discussion so that students see that a sample has to be “like” or “similar to” or
     “representative of” the population.
