@@ -106,7 +106,7 @@
 ### outcome
 
 !!! note ""
-    the variable that the treatment is meant to influence
+    the variable that the treatment is meant to influence; this is sometimes known as the response, or dependent, variable
 
 ### over-represented
 
@@ -143,10 +143,6 @@
 !!! note ""
     a sample that is chosen randomly
 
-### representative
-
-!!! note ""
-    a subset of a population that seeks to accurately reflect the characteristics of the larger group
 
 ### representative sample
 
@@ -211,7 +207,7 @@
 ### treatment
 
 !!! note ""
-    the procedure that is assigned to a group of subjects
+    the variable that is deliberately manipulated to investigate its influence on the outcome; this is sometimes known as the explanatory, or independent, variable 
 
 ### treatment group
 

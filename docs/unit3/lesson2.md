@@ -14,11 +14,11 @@ learn to distinguish claims of causation from claims of association.
 ###**Vocabulary:**
 [experiment](../../vocabulary/unit3/#experiment "one method of data collection; something that can be repeated that has a set of possible results"){ .md-button }
 [subjects](../../vocabulary/unit3/#subjects "people or objects that are participating in the experiment"){ .md-button }
-[treatment](../../vocabulary/unit3/#treatment "the procedure that is assigned to a group of subjects"){ .md-button }
+[treatment](../../vocabulary/unit3/#treatment "the variable that is deliberately manipulated to investigate its influence on the outcome; this is sometimes known as the explanatory, or independent, variable "){ .md-button }
 [treatment group](../../vocabulary/unit3/#treatment-group "the group of subjects that receive the treatment"){ .md-button }
 [control group](../../vocabulary/unit3/#control-group "the group that does not receive a treatment"){ .md-button }
 [random assignment](../../vocabulary/unit3/#random-assignment "subjects are randomly assigned to either the treatment or control group"){ .md-button }
-[outcome](../../vocabulary/unit3/#outcome "the variable that the treatment is meant to influence"){ .md-button }
+[outcome](../../vocabulary/unit3/#outcome "the variable that the treatment is meant to influence; this is sometimes known as the response, or dependent, variable"){ .md-button }
 [research question](../../vocabulary/unit3/#research-question "the question to be answered by the experiment"){ .md-button }
 [confounding factors](../../vocabulary/unit3/#confounding-factors "an “extra” variable that you didn’t account for"){ .md-button }
 
