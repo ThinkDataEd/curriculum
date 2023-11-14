@@ -18,7 +18,6 @@ learn to distinguish claims of causation from claims of association.
 [treatment group](../../vocabulary/unit3/#treatment-group "the group of subjects that receive the treatment"){ .md-button }
 [control group](../../vocabulary/unit3/#control-group "the group that does not receive a treatment"){ .md-button }
 [random assignment](../../vocabulary/unit3/#random-assignment "subjects are randomly assigned to either the treatment or control group"){ .md-button }
-[representative sample](../../vocabulary/unit3/#representative-sample "a subset of a population that seeks to accurately reflect the characteristics of the larger group"){ .md-button }
 [outcome](../../vocabulary/unit3/#outcome "the variable that the treatment is meant to influence"){ .md-button }
 [research question](../../vocabulary/unit3/#research-question "the question to be answered by the experiment"){ .md-button }
 [confounding factors](../../vocabulary/unit3/#confounding-factors "an “extra” variable that you didn’t account for"){ .md-button }
@@ -111,7 +110,7 @@ over the next several lessons.
 
     100. **Subjects** – people or objects that are participating in the experiment (<span style="color:grey">***the 50 adults***</span>)
 
-    100. **Treatment** – the procedure that is assigned to a group of subjects (<span style="color:grey">***Kari yawned before
+    100. **Treatment** – the variable that is deliberately manipulated to investigate its influence on the outcome; this is sometimes known as the explanatory, or independent, variable (<span style="color:grey">***Kari yawned before
     subject entered the room***</span>)
 
     100. **Treatment group** – the group of subjects that receive the treatment (<span style="color:grey">***two out of every
@@ -124,7 +123,7 @@ over the next several lessons.
     group (<span style="color:grey">***two out of every three subjects received the treatment - in this
     experiment, random assignment was not used (or if it was, we were not told so)***</span>)
     
-    100. **Outcome** – the variable that the treatment is meant to influence. (<span style="color:grey">***whether or not a
+    100. **Outcome** – the variable that the treatment is meant to influence; this is sometimes known as the response, or dependent, variable (<span style="color:grey">***whether or not a
     person yawned***</span>)
     
     100. **Statistic** — a method for comparing the outcomes of the control and treatment groups (this is
