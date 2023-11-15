@@ -11,7 +11,7 @@ confounding variables.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Randomized assignment is required to determine cause and effect.
+    Randomized assignment is required to determine cause-and-effect.
 
 ###**Lesson:**
 1. Inform students that they will be exploring the question “Why do we need randomized
