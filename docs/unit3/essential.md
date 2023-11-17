@@ -50,8 +50,7 @@ parameter, the statistic is 'unbiased.' Bias means that we tend to “miss the m
 sampling, we can get biased estimates.
 
 ###**<u>[Lesson 12: Bias in Survey Sampling](lesson12.md)</u>**
-Another popular data collection method involves collecting data from a random sample of people or
-objects. Percentages based on random samples tend to ‘center’ on the population parameter value.
+Bias concerning survey sampling includes identifying sampling methods that may lead to biased samples, recognizing potential over- or under-representation in samples, and acquiring skills to choose more reliable sampling techniques.
 
 ###**<u>[Lesson 13: The Confidence Game](lesson13.md)</u>**
 We can estimate population parameters. This means that we can give an estimate “plus or minus” some

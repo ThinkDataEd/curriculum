@@ -19,9 +19,7 @@ and how to select a better sample.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Another popular data collection method involves collecting data from a random
-    sample of people or objects. Percentages based on random samples tend to ‘center’ on the population
-    parameter value.
+    Bias concerning survey sampling includes identifying sampling methods that may lead to biased samples, recognizing potential over- or under-representation in samples, and acquiring skills to choose more reliable sampling techniques.
 
 ###**Lesson:**
 1. Remind students that they learned about biased samples during the last few lessons. Today, they
