@@ -74,8 +74,8 @@ students to write down what they think is the answer to each question.
 
     100. What about all the other people? How many were successes, how many failures? <span style="color:grey">***We
     don’t know for sure.***</span>
-
-    e. How could we answer such questions? <span style="color:grey">***Collect data!***</span>
+    
+    100. How could we answer such questions? <span style="color:grey">***Collect data!***</span>
 
 6. Inform students that the statements are called testimonials and they are examples of **anecdotes**.
 Anecdotes are stories that someone tells about his/her own experience or the experience of
