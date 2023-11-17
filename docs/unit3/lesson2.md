@@ -25,7 +25,7 @@ learn to distinguish claims of causation from claims of association.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Science is often concerned with the question "What causes things to happen?" To
+    Science is often concerned with the question "What causes things to happen?". To
     answer this, controlled experiments are required. Controlled experiments have several key features: (1)
     there is a treatment variable and a response variable, and we wish to see if the treatment causes a
     change that we can measure with the response variable; (2) There is a comparison/control group; (3)
@@ -106,7 +106,7 @@ over the next several lessons.
 
 8. Guide students to identify the elements of an experiment by referring back to the video clip:
     100. **Research Question** — the question to be answered by the experiment (<span style="color:grey">***Is Yawning
-    Contagious?)***</span>
+    Contagious?***</span>)
 
     100. **Subjects** – people or objects that are participating in the experiment (<span style="color:grey">***the 50 adults***</span>)
 

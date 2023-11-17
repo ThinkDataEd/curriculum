@@ -6,7 +6,7 @@ sound conclusions. Anecdotes can contain personal bias, might be carefully selec
 particular point of view, and, in general, may be completely different from the general trend.
 
 ###**<u>[Lesson 2: What is an Experiment?](lesson2.md)</u>**
-Science is often concerned with the question "What causes things to happen?" To answer this, controlled
+Science is often concerned with the question "What causes things to happen?". To answer this, controlled
 experiments are required. Controlled experiments have several key features: (1) there is a treatment
 variable and a response variable, and we wish to see if the treatment causes a change that we can
 measure with the response variable; (2) There is a comparison/control group; (3) Subjects are assigned
