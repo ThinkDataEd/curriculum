@@ -21,8 +21,7 @@ purposes.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    We stretch students' conception of data, to help them see that many web pages
-    present information that can be turned into data.
+    Stretching the conception of data involves seeing that many web pages present information that can be turned into data.
 
 ###**Lesson:**
 1. By a show of hands, ask students if they have ever heard of the term **data farm**. If any of them

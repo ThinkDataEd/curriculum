@@ -53,12 +53,10 @@ sampling, we can get biased estimates.
 Bias concerning survey sampling includes identifying sampling methods that may lead to biased samples, recognizing potential over- or under-representation in samples, and acquiring skills to choose more reliable sampling techniques.
 
 ###**<u>[Lesson 13: The Confidence Game](lesson13.md)</u>**
-We can estimate population parameters. This means that we can give an estimate “plus or minus” some
-amount that we are confident contains the true value (the population parameter).
+There is uncertainty when we estimate population parameters. Because of this, it is better to give a range of plausible values, rather than a single value.
 
 ###**<u>[Lesson 14: How Confident Are You?](lesson14.md)</u>**
-We can estimate population parameters. This means that we can give an estimate “plus or minus” some
-amount that we are confident contains the true value (the population parameter).
+The margin of error expresses our uncertainty in an estimate. The estimate, plus or minus the margin of error, gives us an interval in which we are very confident the true value lies.
 
 ###**<u>[Lesson 15 Ready, Sense, Go!](lesson15.md)</u>**
 Sensors are another data collection method. Unlike what we have seen so far, sensors do not involve
@@ -74,7 +72,7 @@ Creating a Participatory Sensing Campaign requires that survey questions must be
 they are “triggered”. Research questions provide an overall direction in a Participatory Sensing Campaign.
 
 ###**<u>[Lesson 18: Evaluating Our Own Participatory Sensing Campaign](lesson18.md)</u>**
-Statistical questions guide a Participatory Sensing Campaign so that we can learn about a community or
+Statistical investigative questions guide a Participatory Sensing Campaign so that we can learn about a community or
 ourselves. These Campaigns should be evaluated before implementing to make sure they are reasonable
 and ethically sound.
 
@@ -82,8 +80,7 @@ and ethically sound.
 Practicing data collection prior to implementation allows optimization of a Participatory Sensing Campaign.
 
 ###**<u>[Lesson 20: Online Data-ing](lesson20.md)</u>**
-We stretch students' conception of data, to help them see that many web pages present information that
-can be turned into data.
+Stretching the conception of data involves seeing that many web pages present information that can be turned into data.
 
 ###**<u>[Lesson 21: Learning to Love XML](lesson21.md)</u>**
 XML is a programming language that we use with our campaigns. We create basic XML "tags" in the
