@@ -56,7 +56,7 @@ one minute. Ensure each student records her/his estimate in the DS journal.
 found in the Survey Taking Tool at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} or by using the [IDS UCLA App](../download/app.md) in their
 iOS or Android devices.
 
-13. Inform students that they will be analyzing the results from the experiment in *[Lab 3.1: The results
+13. Inform students that they will be analyzing the results from the experiment in *[Lab 3A: The results
 are in!](lab3a.md)*
 
 ###**Class Scribes:**
