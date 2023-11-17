@@ -25,7 +25,7 @@ If causal, state why it’s causal.
 
     • Microbe linked to Alzheimer’s Disease. <span style="color:grey">***not causal, re-writing answers will vary***</span>
 
-    • Luckiest people “born in summer” <span style="color:grey">***causal, explanations will vary***</span>
+    • Luckiest people “born in summer”. <span style="color:grey">***causal, explanations will vary***</span>
 
 3. Why is a control group important? <span style="color:grey">***The control group is important because it allows us to
 measure the effects of the treatment group with an untreated comparable group. Without
