@@ -27,6 +27,8 @@ observational studies; explain how randomization relates to each.
 
 S-IC 6: Evaluate reports based on data.
 
+S-IC B.4 Use data from a sample survey to estimate a population mean or proportion; develop a margin of error through the use of simulation models for random sampling.
+
 <ins>*Data Science:*</ins>
 
 Understand that bias and sampling error should be minimized when conducting surveys. The wording of

@@ -24,7 +24,7 @@ observational studies; explain how randomization relates to each.
 
 S-IC 6: Evaluate reports based on data.
 
-S-IC.B.5 Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant.
+S-IC B.5 Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant.
 
 <ins>*Focus Standards for Mathematical Practice for All of Unit 3:*</ins>
 
