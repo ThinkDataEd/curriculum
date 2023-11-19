@@ -30,7 +30,7 @@ types of questions are used in a survey, and how a survey is conducted.
 ###**Lesson:**
 1. Introduce one of the videos listed above by informing students that they will be watching a clip
 from the television game show *Family Feud*. This segment of the show is called *Fast Money*,
-where the winning family plays for an additional $20,000. Two family members are chosen to play
+where the winning family plays for an additional $20,000 (in the older video, they are playing for an additional $10,000 instead of $20,000). Two family members are chosen to play
 and must reach a combined score of 200 points to win the money. The goal is to guess the most
 common responses to five questions. For example, if the question “What animal is a common
 pet?” were asked, each family member might answer with “dog” or “cat” since these are popular
@@ -73,23 +73,23 @@ text approach, whereas closed-ended questions give a fixed set of choices.
 8. Display the following list to the class. With a partner, have the students categorize the following
 types of questions as either open-ended or closed-ended:
 
-    (a.) Multiple choice <span style="color:grey">***(closed)***</span>
+    100. Multiple choice <span style="color:grey">***(closed)***</span>
 
-    (b.) Write a paragraph <span style="color:grey">***(open)***</span>
+    100. Write a paragraph <span style="color:grey">***(open)***</span>
 
-    (c.) Yes/No <span style="color:grey">***(closed)***</span>
+    100. Yes/No <span style="color:grey">***(closed)***</span>
 
-    (d.) Comments <span style="color:grey">***(open)***</span>
+    100. Comments <span style="color:grey">***(open)***</span>
 
-    (e.) Essays <span style="color:grey">***(open)***</span>
+    100. Essays <span style="color:grey">***(open)***</span>
 
-    (f.) On a scale from 1 to 5 <span style="color:grey">***(closed)***</span>
+    100. On a scale from 1 to 5 <span style="color:grey">***(closed)***</span>
 
-    (g.) Choose from a list <span style="color:grey">***(closed)***</span>
+    100. Choose from a list <span style="color:grey">***(closed)***</span>
 
-    (h.) Write a sentence <span style="color:grey">***(open)***</span>
+    100. Write a sentence <span style="color:grey">***(open)***</span>
 
-    (i.) Check a box <span style="color:grey">***(closed)***</span>
+    100. Check a box <span style="color:grey">***(closed)***</span>
 
 9. Do a quick *Whip Around* to share the categorization for each type of question. Be sure that
 students make corrections to the list if any items were miscategorized.
@@ -111,38 +111,38 @@ States?)***</span>.
 13. Inform students that the left side of the handout will be completed as a class, and then student
 teams will work together to complete the right side.
 
-14. Using the Data Cycle as a guide, students should brainstorm a statistical question that is related
+14. Using the Data Cycle as a guide, students should brainstorm a statistical investigative question that is related
 to the research question. One might be: <span style="color:grey">***What is the typical family size in the United States?***</span>
 
     **<u>Note:</u>** This requires a definition of “family,” which can have a variety of meanings to different
     people. Different definitions will likely guide the discussion of possible survey questions in the
     following step.
 
-15. Next, students need to determine 3 survey questions to help answer the statistical question. The
+15. Next, students need to determine 3 survey questions to help answer the statistical investigative question. The
 goal in creating survey questions is to make sure they (1) are unambiguous, and (2) address the
-statistical question. Some examples are listed below (which come from different definitions of
+statistical investigative question. Some examples are listed below (which come from different definitions of
 “family”):
 
-    **<u>Note:</u>** Survey questions MUST match the statistical question.
+    **<u>Note:</u>** Survey questions MUST match the statistical investigative question.
 
-    (a.) How many siblings do you have?
+    100. How many siblings do you have?
 
-    (b.) How many people live with you?
+    100. How many people live with you?
 
 16. It may help to actually collect data once the first survey question has been created. For example:
 “How many siblings do you have?” – each student would give a response and the values could be
 recorded in a dotplot (if desired). If the question is too vague (do we include half-siblings, step-siblings,
 etc.?), students can revise the question.
 
-17. Once the class has agreed upon 3 survey questions for the first statistical question, allow
+17. Once the class has agreed upon 3 survey questions for the first statistical investigative question, allow
 students to join their student teams for the remainder of the activity.
 
-18. Each team should come up with a statistical question that might answer the research question,
-then determine 3 survey questions that match their statistical question. Have the students create
+18. Each team should come up with a statistical investigative question that might answer the research question,
+then determine 3 survey questions that match their statistical investigative question. Have the students create
 both open- and closed-ended questions in the handout. Each survey question should be a
 different type (see Step 8).
 
-19. Have student teams share out their statistical questions and related survey questions with the
+19. Have student teams share out their statistical investigative questions and related survey questions with the
 rest of the class.
 
 ###**Class Scribes:**
@@ -151,7 +151,7 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 For homework, students should choose one of their team’s survey questions and rewrite it 3 ways, using
-3 different question types (see Step 8). Example rewrites for the statistical question “How many siblings
+3 different question types (see Step 8). Example rewrites for the survey question “How many siblings
 do you have?” are given below for reference.
 
 <span style="color:grey">***(a.) Multiple choice:***</span>
