@@ -78,5 +78,5 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-For the next 6 days, students will collect data for the *Stress/Chill* campaign either through the UCLA [IDS
+For the next 6 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
 UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
