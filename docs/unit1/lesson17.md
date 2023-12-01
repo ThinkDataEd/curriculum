@@ -158,7 +158,7 @@ student team.
 can be used to answer each statistical question. They will then answer each statistical question,
 citing a numerical summary as evidence.
 
-    **<u>Note:</u>** Student teams may tapeu or glue visuals and numerical summaries onto [LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf), or they
+    **<u>Note:</u>** Student teams may tape or glue visuals and numerical summaries onto [LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf), or they
     can simply write the plot letter and table number in the appropriate box. The blank column is for
     student teams to write a statistical question than can be answered with a visual and a numerical
     summary that was not used.
