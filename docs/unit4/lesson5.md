@@ -38,7 +38,7 @@ contest want you to tell them how they should determine the winner.
 team that came in third place. Your team must come up with two things:
 
     100. You must support your choice of a winner by using a **rule** for calculating a total score for
-    each team. The rule must be applied to each team’s guess to determine their placement
+    each team. The rule must be applied to each team’s prediction to determine their placement
     and your team must be able to explain how your rule helped select the winner.
 
     100. You must write instructions to the judges that explain how to use your rule to select a
