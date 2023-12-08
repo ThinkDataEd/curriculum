@@ -194,7 +194,7 @@ based on the following questions:
     from the Gettysburg Address.
 
     100. If we could determine the mean for each of these samples and produce a dotplot for all of
-    these means, then the center of the dotplot would lie exactly at 4.22.
+    these means, then the center of the dotplot would lie exactly at 4.22. And while on the subject of characteristics, like center, the shape of the dotplot is symmetric and unimodal.
     
     100. The resulting distribution of the means from all possible samples is called the sampling
     distribution for the sample mean (for samples of size 10 from this population).
