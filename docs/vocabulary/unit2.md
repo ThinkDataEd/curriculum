@@ -51,7 +51,7 @@
 ### first quartile (Q1)
 
 !!! note ""
-      a number for which 75% of the data is less than that number
+      a number for which 25% of the data is less than that number
 
 ### five-number summary
 
@@ -200,7 +200,7 @@
 ### third quartile (Q3)
 
 !!! note ""
-      the median of the upper half of the data set
+      a number for which 75% of the data is less than that number
 
 ### typical
 
