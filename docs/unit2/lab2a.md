@@ -15,7 +15,7 @@ answered by calculating the mean, median and MAD.
 ###**How to talk about data**
 * When we make plots of our data, we usually want to know:
 
-* Where is the *bulk* of the data??
+* Where is the *bulk* of the data?
 
 * Where is the data more *sparse*, or *thin*?
 
