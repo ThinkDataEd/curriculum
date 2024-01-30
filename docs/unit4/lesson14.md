@@ -1,80 +1,128 @@
-##***<u>Lesson 14: Improving Your Model</u>***
+##***<u>Lesson 14: More Variables to Make Better Predictions</u>***
 
 ###**Objective:**
-Students will learn to describe associations that are not linear.
+Students will see that information from different variables can be used together to create linear models
+that make more accurate predictions.
 
 ###**Materials:**
-1. *Describe the Association* handout ([LMR_4.14_Describe the Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Describe the Association.pdf))
+1. *Advertising Plots Part 1* handout ([LMR_4.12_Advertising Plots 1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.12_Advertising Plots 1.pdf))
+
+2. *Advertising Plots Part 2* handout ([LMR_4.13_Advertising Plots 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf))
+
+3. *Article: How Long Can a Spinoff Like ‘Better Call Saul’ Last?*<br>
+    [http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"){:target="_blank"}
 
 ###**Vocabulary:**
-non-linear, polynomial trends
+market
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    If a linear model is fit to a non-linear trend, it will not do a good job of predicting. For this reason, we need to identify non-linear trends by looking at a scatterplot or the model needs to match the trend.
+    We can use scatterplots to assess which variables might lead to strong predictive models.
+    Sometimes using several predictors in one model can produce stronger models.
 
 ###**Lesson:**
-1. Remind students that they have been learning a great deal about linear associations. However, there are other types of associations, and today they will learn to describe them.
+1. Remind students that models are used to make predictions. Ask a volunteer to think of a TV show
+that had a “spinoff” and to name both of the shows. Ask if he/she knows whether or not the
+original was more or less successful than the spinoff. Then, ask the class: Is there a way to
+predict spinoff success?
 
-2. Distribute *Describe the Association* ([LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Describe the Association.pdf)). In teams, students will examine the trend of each plot. Their task is to write a description of the trend that they see in the data and what the trend means.
+2. Next, using the *Talking to the Text* instructional strategy, ask students to read the article titled: *How Long Can a Spinoff Like Better Call Saul Last?*
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Describe the Association.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Describe the Association.pdf)</div>
+    **<u>Note:</u>** If this is the first time using this strategy with your students, make sure you model/explain it
+    before they begin reading it. See [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md) for a description.
 
-3. Allow students time to discuss and record their descriptions for each plot in their DS journals. Walk around the room monitoring student teamwork. Look for descriptions that are interesting to share with the whole class.
+3. After reading the article, ask students to discuss three *Talking to the Text* responses with a
+partner. You may set a time limit for each student to share with his/her partner.
 
-4. Select a team to present a description of one plot to the class. Teams will listen to each
-presentation, compare it to their description of the plot, and as a team they will agree or disagree. If there is disagreement, lead a discussion that guides students to reason toward the correct description.
+4. Then, in teams, students will answer the following questions pertaining to the article:
 
-5. Summarize the discussion for each plot and ask students take notes or revise their descriptions in their DS journals.
+    100. What is the article trying to predict?
+    
+    100. How many variables are used?
 
-6. Repeat steps 4 and 5 for the rest of the plots.
+    100. What other variables might affect a spinoff?
 
-    Plot Descriptions for *Describe the Association* ([LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Describe the Association.pdf)):
+    100. The dotted line in the plot is not a regression line. How would you draw a regression line
+    to make predictions?
 
-	* <span style="color:grey">***Plot A: There is no trend (perhaps some may see a very, very weak linear trend), so there is no/hardly any association. There is a great deal of scatter in the data. It means that y does not depend on x.***</span>
+    100. What other information would you like to know to predict a spinoff’s success?
 
-	* <span style="color:grey">***Plot B: There appears to be a linear trend. The association is negative and appears somewhat strong. It means that as x increases, y decreases.***</span>
+5. Allow students time to discuss and record their answers. Then conduct a share out of their
+responses to the discussion questions.
 
-	* <span style="color:grey">***Plot C: There is a linear trend. The association is positive and it is very strong. It means that the y-value increases at approximately the same rate for every increase in x value. This is a line.***</span>
+6. Discuss the following questions with the class:
 
-	* <span style="color:grey">***Plot D: The trend is non-linear. There seems to be a weak association because there is scatter in the data. Cannot tell if the association is positive or negative. It has the shape of a parabola; therefore, it is quadratic. For smaller x-values, the y-value is decreasing and for larger x values, the y value is increasing.***</span>
+    100. What effect does advertising have on retail sales?
 
-	* <span style="color:grey">***Plot E: The trend is non-linear. There seems to be a strong association because
-	there is little scatter in the data. It is also in the shape of a parabola, so it is
-	quadratic.***</span>
+    100. Where do stores advertise (What mediums do they use)? Does each method of
+    advertisement reach the same people?
 
-7. Using the *Cheat Notes* strategy, ask teams to write notes about how to describe associations.
+    100. Does each method of advertisement have a similar effect? Or are some methods more
+    effective than others?
 
-8. Plots A, B, and C should be familiar to the students by now. However, plots D and E show a
-different type of trend. Although the trends are non-linear, they can still tell us important
-information about the y-values based on values of x. Ask:
+7. Distribute the 3 plots from the *Advertising Plots Part 1* handout ([LMR_4.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.12_Advertising Plots 1.pdf)) and inform the students about the data using the details below:
 
-    * What happens if we were to fit a linear model to these non-linear trends? Would it still
-    make good predictions? <span style="color:grey">***No. They would not make good predictors.***</span>
+    <img src="../../img/41207.png" /><div align="right">*(Plots are presented separately in the LMR)*</div>
 
-9. To examine why they would not make good predictors, draw an approximate linear best-fit line
-and get students to understand that in some regions, the model would almost always over-predict,
-and in others would almost always under-predict. We want a model that goes, more or less,
-through the 'middle' of the points. Ask:
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.12_Advertising Plots 1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.12_Advertising Plots 1.pdf)</div>
 
-    * How can we get a model that goes, more or less, through the middle of all the data
-    points? <span style="color:grey">***Answer: We need to change the model.***</span>
+    100. These 3 plots show the number of items sold by a retailer (in 200 different markets) and the amount of money the company spent on *TV*, *Radio* and *Newspaper* advertisements.
 
-10. Trends like the quadratic ones show in plots D and E can be described as **polynomial trends**.
-Plots that follow quadratic, cubic, quartic, etc. shapes all exhibit polynomial trends. We need to
-adjust the model. You may show students several choices of equations (quadratic, trinomial,
-linear) along with their graphs and ask them which might be a good candidate.
+    100. The data has 200 observations, one for each different market. A **market** is simply a location where an item is sold. For example, Los Angeles and San Francisco are two
+    different markets.
 
-11. When investigating the data for trends, the model needs to fit the data.
+    100. Each observation has 4 variables: (1) The number of items sold (in 10’s of thousands of units), (2) the money spent on TV ads (in thousands of dollars), (3) the money spent on
+    radio ads (in thousands of dollars), and (4) the money spent on newspaper ads (in
+    thousands of dollars).
+
+    100. The data were collected using an observational study.
+
+8. To illustrate a-d above, ask students to refer to plot A (TV ads) and circle the market in which this retailer sold the least number of items (see circles in plots above). Ask: How many items did this market sell? <span style="color:grey">***About 20,000 items. The actual number of items sold was 1.6 (in 10,000’s of units) which is 16,000 items.***</span> How much money did this retailer spend on TV ads in this market? <span style="color:grey">***This retailer spent zero dollars on TV ads. The actual amount the retailer spent on TV ads was 0.7 thousands of dollars, which is $700.***</span>
+
+9. Students should then refer to plot B (Radio ads), find the same market (the one in which the retailer sold about 20,000 items) and circle it. Ask: How much money did the retailer spend on Radio ads in the same market? <span style="color:grey">***About 40 thousand dollars. The actual amount spent on Radio ads was 39.6 thousands of dollars, which is $39,600.***</span>
+
+10. Finally, ask students to refer to plot C (Newspaper ads), find the same market (the one in which the retailer sold about 20,000 items), and circle it. Ask: How much money did the retailer spend on Newspaper ads in the same market? <span style="color:grey">***About 10 thousand dollars. About The actual amount spent on Newspaper ads is 8.7 thousands of dollars, which is $8,700***</span>
+
+    <img src="../../img/41210.png" />
+
+11. Based on the above plots, use a Pair-Share to discuss the following:
+
+    100. Describe the relationship between advertisements and the number of items sold.
+
+    100. Which type of advertisement is the most strongly correlated with the number of units
+    sold? How can you tell?
+
+12. Distribute the *Advertising Plots Part 2* handout ([LMR_4.13_Advertising Plots 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf)), which contains plots A-C, but now include the line of best fit.
+
+    <img src="../../img/41212.png" /><div align="right">*(Plots are presented separately in the LMR)*</div>
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf)</div>
+
+13. Ask students to recall from [Lesson 6](lesson6.md) that a method statisticians use to figure out which predicted values is closest to the actual data is the mean absolute error (MAE).
+
+    **<u>Note to teacher:</u>** In the labs, students will use the mean squared error (MSE) - also learned in [Lesson 6](lesson6.md) - which calculates the regression line. In the lessons, we discuss the issue more generally using the mean absolute error (MAE).
+
+14. In teams, ask students to discuss the following:
+
+    100. How would you use the mean absolute error to determine which plot would make the
+    most accurate predictions? <span style="color:grey">***Answers will vary, but you would expect to hear something like: “the prediction line that has the least amount of distance to all the points on the plot would make the most accurate prediction because the predicted values will be closer to the actual data.”***</span>
+
+15. Next, have students select a statement they think is best (a or b), then write a justification for their selection based on what they learned in this lesson. This may be completed as homework.
+
+    100. Combining multiple variables (e.g., TV and Newspaper ads, TV and Radio ads, TV,
+    Radio, and Newspaper ads, etc.) into one model will lead to worse predictions because
+    the variables that make poor predictions will contaminate those that make good
+    predictions.
+
+    100. Combining multiple variables (e.g., TV and Newspaper ads, TV and Radio ads, TV,
+    Radio, and Newspaper ads, etc.) into one model will lead to better predictions because
+    the model can use more information to make predictions.
+
+16. Inform students that RStudio has the capability of creating models that combine multiple variables to make predictions about another variable. For example, it can make a model to predict number of items sold using both money spent on TV and money spent on Newspaper ads. Students will learn more about it during the [next lesson](lesson13.md).
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
 
-###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-Students may finish their *Cheat Notes* for homework, if not completed in class.
-
-[<u>***LAB 4F: Some Models Have Curves***</u>](lab4f.md)
-
-Complete [Lab 4F](lab4f.md) prior to [Lesson 15](lesson15.md).
+###<p style="background: black; color: white; text-align: center;">**Homework**</p>
+Students may continue writing their justifications for the selected statement in item 15 if they were unable to finish.

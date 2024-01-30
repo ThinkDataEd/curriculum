@@ -1,78 +1,85 @@
-##***<u>Lesson 15: The Growth of Landfills</u>***
+##***<u>Lesson 15: Combination of Variables</u>***
 
 ###**Objective:**
-Students will engage in a modeling activity to learn about reducing the burden of trash landfills.
+Students will learn that we can make better predictions by including more variables. Then they will wrestle
+with how the information should be combined.
 
 ###**Materials:**
-1. *Landfill Article* handout ([LMR_4.15_Landfill Article](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Landfill Article.pdf))
-
-2. *Landfill Readiness Questions* handout ([LMR_4.16_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Landfill Readiness Questions.pdf))
-
-3. *Landfill Activity* handout ([LMR_4.17_Landfill Activity](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Landfill Activity.pdf))
-
-4. Computers
-
-5. IDS public dashboard: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
-
-6. *Trash Data Exploration* handout ([LMR_4.18_Trash Data Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Trash Data Exploration.pdf))
+1. *Advertising Plots Part 2* handout ([LMR_4.13_Advertising Plots 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf)) from [Lesson 12](lesson12.md)
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    Modeling does not always have to produce an equation. Instead, we can create
-    models to answer real-world problems related to our community.
+    If multiple predictors are associated with the response variable, a better predictive model will be produced, as measured by the mean absolute error.
 
 ###**Lesson:**
-1. Inform students that they will investigate a problem that faces many cities in the United States today: trash. Explain that the next 4 days will be dedicated to completing the investigation and will follow this general structure:
+1. Display the plots and statements from the previous day:
 
-    100. Day 1: Introduce assignment, initial exploration of data, creation of statistical questions.
+    <img src="../../img/41212.png" />    
 
-    100. Day 2: Analysis of data via the IDS public dashboard.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf)</div>
 
-    100. Day 3: Verify analysis via RStudio.
+    100. Combining multiple variables (e.g., money spent on TV and Newspaper ads, TV and
+    Radio ads, TV, Radio, and Newspaper ads, etc.) into one model will lead to worse
+    predictions because the variables that make poor predictions will contaminate those that
+    make good predictions.
 
-    100. Day 4: Team presentations.
+    100. Combining multiple variables (e.g., TV and Newspaper ads, TV and Radio ads, TV,
+    Radio, and Newspaper ads, etc.) into one model will lead to better predictions because
+    the model can use more information to make predictions.
 
-2. Distribute the Landfill Article handout ([LMR_4.15_Landfill Article](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Landfill Article.pdf)) and explain that the reading is an excerpt from a CNN article titled *Trash City: Inside America’s Largest Landfill Site*. The article will set the context for the real-world problem of growing landfills.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Landfill Article.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.15_Landfill Article](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Landfill Article.pdf)</div>
+2. Ask the students to share out their opinions in an Active Debate (see [Unit 2](../unit2/overview.md) [Lesson 6](lesson6.md) as an
+example).
 
-3. Using the *5 Ws* strategy, ask students to read the article individually and to write down the 5 Ws in their DS journals. The 5 Ws summarize the What, Who, Why, When, and Where of the article.
+3. Next, inform teams that they will have 2 minutes to come up with as many combinations of ads (variables) as they can think of (e.g., TV + Newspaper ads, TV+ Radio ads, TV + Radio +
+Newspaper ads, etc.)
 
-4. After they have finished reading, students should answer the questions provided on the *Landfill Readiness Questions* handout ([LMR_4.16_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Landfill Readiness Questions.pdf)). Then, in teams, students will discuss their insights, questions, and/or reactions to the both the article and the questions. Follow up the team discussion with a class discussion to gauge what students actually know about trash and recycling.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Landfill Readiness Questions.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Landfill Readiness Questions.pdf)</div>
+4. After 2 minutes, list all the different combinations by conducting a Whip Around and eliciting a combination from each team.
 
-5. Next, introduce students to the main task they will be investigating about landfills by distributing the *Landfill Activity* handout ([LMR_4.17_Landfill Activity](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Landfill Activity.pdf)). This handout asks the students to come up with one or two recommendations to help reduce the burden of landfills on the environment. In order to complete the assignment, students will use 2 data analysis tools: the IDS dashboard and RStudio.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Landfill Activity.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Landfill Activity.pdf)</div>
+5. By a show of hands, ask students to select which combination or single model will be the best predictor for the number of items sold by the retailer.
 
-6. Once all students have read the assignment, use the following questions to check for
-understanding of what the task is:
+6. Then inform students that we will determine which of the statements is true by comparing the mean absolute error (MAE) of single models (like the ones we showed in the previous lesson) vs. combined models. But first, use the line of best fit for the combined variables:
 
-    100. What organization is asking for your help? <span style="color:grey">***The Los Angeles County Sanitation District (LACSD).***</span>
+    <center><img src="https://latex.codecogs.com/gif.latex?\widehat{sales}=0.045449(tv)&plus;0.186570(radio)-0.004952(newspaper)&plus;3.029878" title="\widehat{sales}=0.045449(tv)+0.186570(radio)-0.004952(newspaper)+3.029878" /></center>
 
-    100. What type of data did the organization collect, and whom did they collect it from?
-    <span style="color:grey">***Participatory Sensing data via the Trash campaign. The campaign was city-wide and taken by high school students in LAUSD.***</span>
+    **Note:** The function that produced the line of best fit using RStudio was
 
-    100. How many recommendations will you present to the organization? <span style="color:grey">***One or two.***</span>
+        lm(Sales ~ TV + Radio + Newspaper, data= retail)
 
-    100. What does the organization hope to do with your recommendations? <span style="color:grey">***Create a public awareness campaign to help reduce the burden on landfills.***</span>
+    100. Use this equation to predict the amount of sales for the same market they circled in the previous lesson. <span style="color:grey">***Students’ calculation should yield the predicted value in (b), below.***</span>
+    
+        **<u>Note:</u>** Remind students that they need to substitute the values as they appear in the x-axis of the plots without converting to thousands of dollars. For example, the circled market spent about 10 thousand dollars on newspaper ads, so students should substitute 10 instead of the expanded value in the equation.
 
-7. At this point, students will begin exploring the data via the IDS public dashboard:
-[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+        <img src="../../img/41210.png" />
 
-8. They should use the “Trash” campaign data and select “Dashboard” from the “Action” button.
+    100. Does the predicted value (10.407) seem like a plausible number of sales? Why? <span style="color:grey">***It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 104,070 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
 
-9. The dashboard is a visual tool for exploring and analyzing data. An example screenshot of the Trash campaign in the dashboard is shown below.
-<img src="../../img/41509.png" />
+7. Reveal that RStudio calculated the mean absolute error for different combinations plus the single models, and the results are displayed on the table below. This means that, for example, when using the TV model to predict number of items sold, our predictions will typically be off by about 2.337808 (in 10,000s) of units or 23,378 units. Then ask students:
 
-10. Students do not need to complete any analyses during today’s lesson. Instead, they should
-simply “play” with the data and brainstorm possible statistical questions that will help them
-complete the activity.
+    | Model | Mean Absolute Error |
+    |--------------------|---------------------|
+    | TV | 2.337808 |
+    | Radio | 3.565113 |
+    | Newspaper | 4.538444 |
+    | TV-Radio | 1.160937 |
+    | TV-Newspaper | 2.344971 |
+    | Radio-Newspaper | 2.93832 |
+    | TV-Radio-Newspaper | 1.161068 |
 
-11. To assist students’ interaction with the dashboard, distribute the *Trash Dashboard Exploration* handout ([LMR_4.18_Trash Data Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Trash Data Exploration.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Trash Data Exploration.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Trash Data Exploration.pdf)</div>
+    100. Which model is the best predictor of number of items sold? <span style="color:grey">***Answer: The TV-Radio model is the best predictor of number of items sold because it had the least amount of error, on average. When using the TV-Radio model to predict number of items sold, our predictions will typically be off by 11,609 units.***</span>
 
-12. Leave 10-15 minutes at the end of class to share out and discuss some of these statistical
-questions. During this time, the teacher should also check for data understanding.
+    100. Which model was the least reliable in predicting the number of items sold? <span style="color:grey">***Answer: The Newspaper model is the least reliable predictor of number of items sold because it had the most amount of error, on average. When using the Newspaper model to predict number of items sold, our predictions will typically be off by 45,384 units.***</span>
+
+    100. What else do you notice about the models? <span style="color:grey">***Answer: It appears that combining the variables into one model is much better than any of the single-variable models.***</span>
+
+8. Inform the students that, in the next lab, they will find out how to create the line of best fit for models that include many variables.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
+
+###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
+Ask students to think of a reason or reasons about why it would not be a good idea to make a scatterplot for models that include more than 3 predictor variables? <span style="color:grey">***The answer is mainly because humans are limited to seeing things in 3 dimensions. For example, the model that combines all of the variables together is a 4 dimensional model. What does that look like?***</span>
+
+[<u>***LAB 4E: This Model is Big Enough for All of Us***</u>](lab4e.md)
+
+Complete [Lab 4E](lab4e.md) prior to [Practicum](practicum1.md).

@@ -264,45 +264,43 @@ nav:
         - 'Daily Overview' : unit4/overview.md
         - 'Essential Concepts': unit4/essential.md
         - 'Section 1': 
-            - 'Predictions and Models' : unit4/section1.md
-            - 'Lesson 1: Water Usage' : unit4/lesson1.md
-            - 'Lesson 2: Exploring Water Usage' : unit4/lesson2.md
-            - 'Lesson 3: Evaluating and Implementing a Water Campaign' : unit4/lesson3.md
-            - 'Lesson 4: Refining the Water Campaign' : unit4/lesson4.md
-            - 'Lesson 5: Statistical Predictions Using One Variable' : unit4/lesson5.md
-            - 'Lesson 6: Statistical Predictions by Applying the Rule' : unit4/lesson6.md
-            - 'Lesson 7: Statistical Predictions Using Two Variables' : unit4/lesson7.md
-            - 'LAB 4A: If the Line Fits…' : unit4/lab4a.md
-            - 'LAB 4B: What’s the Score?' : unit4/lab4b.md
-            - 'Lesson 8: What’s the Trend?' : unit4/lesson8.md
-            - 'Lesson 9: Spaghetti Line' : unit4/lesson9.md
-            - 'LAB 4C: Cross-Validation' : unit4/lab4c.md
-            - 'Lesson 10: Predicting Values' : unit4/lesson10.md
-            - 'Lesson 11: How Strong Is It?' : unit4/lesson11.md
-            - 'LAB 4D: Interpreting Correlations' : unit4/lab4d.md
+            - 'Campaigns and Community' : unit4/section1.md
+            - 'Lesson 1: Drought' : unit4/lesson1.md
+            - 'Lesson 2: Trash' : unit4/lesson2.md
+            - 'Lesson 3: Exploring Water Usage' : unit4/lesson3.md
+            - 'Lesson 4: Evaluating and Implementing a Water Campaign' : unit4/lesson4.md
+            - 'Lesson 5: Refining the Water Campaign' : unit4/lesson5.md
         - 'Section 2': 
-            - 'Piecing It Together' : unit4/section2.md
-            - 'Lesson 12: More Variables to Make Better Predictions' : unit4/lesson12.md
-            - 'Lesson 13: Combination of Variables' : unit4/lesson13.md
-            - 'LAB 4E: This Model Is Big Enough for All of Us' : unit4/lab4e.md
-            - 'Practicum: Predictions' : unit4/practicum1.md
-            - 'Lesson 14: Improving your Model' : unit4/lesson14.md
-            - 'LAB 4F: Some Models Have Curves' : unit4/lab4f.md
+            - 'Predictions and Models' : unit4/section2.md
+            - 'Lesson 6: Statistical Predictions Using One Variable' : unit4/lesson6.md
+            - 'Lesson 7: Statistical Predictions by Applying the Rule' : unit4/lesson7.md
+            - 'Lesson 8: Statistical Predictions Using Two Variables' : unit4/lesson8.md
+            - 'Lesson 9: Spaghetti Line' : unit4/lesson9.md
+            - 'LAB 4A: If the Line Fits…' : unit4/lab4a.md
+            - 'Lesson 10: What’s the Best Line?' : unit4/lesson10.md
+            - 'LAB 4B: What’s the Score?' : unit4/lab4b.md
+            - 'LAB 4C: Cross-Validation' : unit4/lab4c.md
+            - 'Lesson 11: What’s the Trend?' : unit4/lesson11.md
+            - 'Lesson 12: How Strong Is It?' : unit4/lesson12.md
+            - 'LAB 4D: Interpreting Correlations' : unit4/lab4d.md
+            - 'Lesson 13: Improving your Model' : unit4/lesson13.md
+            - 'LAB 4E: Some Models Have Curves' : unit4/lab4e.md
         - 'Section 3': 
-            - 'The Growth of Landfills' : unit4/section3.md
-            - 'Lesson 15: The Growth of Landfills' : unit4/lesson15.md
-            - 'Lesson 16: Exploring Trash Via the Dashboard' : unit4/lesson16.md
-            - 'Lesson 17: Exploring Trash Via RStudio' : unit4/lesson17.md
+            - 'Piecing it Together' : unit4/section3.md
+            - 'Lesson 14: More Variables to Make Better Predictions' : unit4/lesson14.md
+            - 'Lesson 15: Combination of Variables' : unit4/lesson15.md
+            - 'LAB 4F: This Model Is Big Enough for All of Us' : unit4/lab4f.md
+            - 'Practicum: Predictions' : unit4/practicum1.md
         - 'Section 4': 
             - 'Decisions, Decisions!' : unit4/section4.md
-            - 'Lesson 18: Grow Your Own Decision Tree' : unit4/lesson18.md
-            - 'Lesson 19: Data Scientists or Doctors?' : unit4/lesson19.md
+            - 'Lesson 16: Grow Your Own Decision Tree' : unit4/lesson16.md
+            - 'Lesson 17: Data Scientists or Doctors?' : unit4/lesson17.md
             - 'LAB 4G: Growing Trees' : unit4/lab4g.md            
         - 'Section 5': 
             - 'Ties That Bind' : unit4/section5.md
-            - 'Lesson 20: Where Do I Belong?' : unit4/lesson20.md
+            - 'Lesson 18: Where Do I Belong?' : unit4/lesson18.md
             - 'LAB 4H: Finding Clusters' : unit4/lab4h.md            
-            - 'Lesson 21: Our Class Network' : unit4/lesson21.md
+            - 'Lesson 19: Our Class Network' : unit4/lesson19.md
             - 'End of Unit 3 and 4 Design Project and Oral Presentation: Water Usage' : unit4/end.md
 
         # - Sections:

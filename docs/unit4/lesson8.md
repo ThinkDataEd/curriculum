@@ -1,111 +1,104 @@
-##***<u>Lesson 8: What’s the Trend?</u>***
+##***<u>Lesson 8: Statistical Predictions Using Two Variables</u>***
 
 ###**Objective:**
-Students will understand that the regression line is a model for a linear association (trend). They will learn
-to identify the direction and strength of trends.
+Students will learn how to predict height using arm span data - and vice versa - visually on a scatterplot.
 
 ###**Materials:**
-1. *What’s the Trend?* handout ([LMR_4.7_What’s the Trend](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf))
+1. *Arm span vs. Height Scatterplot* ([LMR_4.9_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf))
 
-    **<u>Note:</u>** This handout will be referenced and used in subsequent lessons.
+    **Note:** This handout will be referenced in subsequent lessons.
 
-2. *Strength of Association* handout ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf))
+2. Assorted color markers (dry erase or overhead) — See step 3 of lesson.
 
-###**Vocabulary:**
-trend, positive association, negative association, no association, shape, linear, model, strength of
-association
+3. Overhead or LCD projector
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    Associations are important because they help us make better predictions; the stronger the
-    trend, the better the prediction we can make. “Better” in this case means that our mean squared residuals can
-    be made smaller.
+    When predicting values of a variable *y* - and if *y* is linearly associated with *x* - then we can get
+    improved predictions by using our knowledge about *x*. For every value of *x*, find the mean of the *y* values for that value of *x*. If the resulting mean follows a trend, we can model this trend to generalize to unseen values of *x*.
 
 ###**Lesson:**
-1. Distribute *What’s the Trend?* ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)). Students will analyze the two scatterplots on the
-handout. The *Profits per Explosion* plot shows the relationship between the number of explosions
-in Michael Bay’s movies and the profit earned by each movie. The *Scores Over Time* plot shows
-the relationship between M. Night Shyamalan movies made since *The Sixth Sense* was released
-in 1999 and their Internet Movie Database (IMBD) scores.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)</div>
+1. Remind students that in the previous lessons they were working with height data to predict the
+typical height of all the students at a large high school, implementing a method used by statisticians to help them make good predictions.
 
-2. In teams, students will discuss and record their responses to the following questions for each plot:
+2. In addition to the height data, it turns out that each student’s arm span data was also collected and recorded.
 
-    100. What kind of plot is this? <span style="color:grey">***Scatterplot.***</span>
+3. Display the *Arm Span vs. Height Scatterplot* ([LMR_4.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)) on a white board or overhead projector
+(you will write on the board or the transparency later in the lesson — see step 9).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)</div>
 
-    100. What do the numbers on the x-axis represent? What do the numbers on the y-axis
-    represent? <span style="color:grey">***The x-axis shows number of explosions and y-axis shows profit in
-    millions of dollars.***</span>
+4. Distribute the *Arm Span vs. Height* handout ([LMR_4.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)). Students will refer to this handout again later in a subsequent lesson.
 
-    100. What is this plot telling us? <span style="color:grey">***Answers will vary. One example could be that if there are
-    more explosions in a movie, then the movie will earn a greater profit.***</span>
+5. In teams, ask students to analyze the plot and discuss the following questions:
 
-    100. What kind of plot is this? <span style="color:grey">***Scatterplot.***</span>
+    • What kind of plot is this? <span style="color:grey">***Answer: Scatterplot.***</span>
 
-    100. What do the numbers on the x-axis represent? What do the numbers on the y-axis
-    represent? <span style="color:grey">***The x-axis shows the number of years since 1999 and the y-axis shows
-    the movie’s IMDB score.***</span>
+    • How many variables are displayed in this plot? <span style="color:grey">***Answer: Two variables.***</span>
 
-    100. What is this plot telling us? <span style="color:grey">***Answers will vary. One example could be that as M. Night
-    Shyamalan has produced more movies, their IMDB ratings have gone down.***</span>
+    • Which variable is shown on the x-axis? On the y-axis? <span style="color:grey">***Answer: Arm span is shown on the x-axis and height is shown on the y-axis.***</span>
 
-3. Allow students time to discuss and record their answers to the questions.
+    • What is this plot showing? <span style="color:grey">***Answer: It is showing the relationship between a person’s height and the person’s corresponding arm span measurement.***</span>
 
-4. Display both plots, if possible (students may also refer to the plots in their own handout). Discuss
-the following questions with the whole class:
+    • How can I find out the height of the person whose arm span measures 68 inches? <span style="color:grey">***Answer: Find 68 on the x-axis. Then find the data point located at 68. Place finger on the data point and track its location on the y-axis. The height is also 68 inches.***</span>
 
-    * What is happening in each plot? What seems to be the trend? <span style="color:grey">***Guide students to understand that the Profits per Explosion plot shows an increasing trend, while the
-    Scores Over Time plot shows a decreasing trend. An increasing ***</span>***trend***<span style="color:grey">*** is called a
-     ***</span>***positive association***<span style="color:grey">*** and a decreasing ***</span>***trend***<span style="color:grey">*** is called a  ***</span>***negative association***<span style="color:grey">***.***</span>
+6. Using Talk Moves, conduct a class discussion of the questions in step 5.
 
-    * What does it mean to have an increasing trend and a positive association? <span style="color:grey">***In Profits per
-    Explosion, it means that as the number of explosions increase, the movie profits also
-    increase.***</span>
+7. Remind students that we’ve learned that the mean is the best way of predicting heights. The
+mean heights of these people is 64 inches.
 
-    * What does it mean to have a decreasing trend and a negative association? <span style="color:grey">***In Scores Over
-    Time, it means that as the years after 1999 pass, the movie IMBD ratings decrease.***</span>
+8. Ask the students: Do you think we can do better? Is 64" a good prediction for someone whose arm
+span is 72”? What about 60”? How can you come up with a rule for determining the best
+predicted height *if you know the person’s arm span?*
 
-5. Quickwrite: What if we had a plot with **no association**? Ask students to sketch what they think a
-scatterplot that shows no association looks like. A correct sketch will show a scatterplot with
-data points that show no positive or negative association; no trend or pattern. There
-would be no association or a very weak one. The data would be scattered.
+    **<u>Note to teacher:</u>** Lead students to realize that they can do this by “subsetting” the data for the fixed *x* value. For example, if arm span is 60", they should consider only the heights of people whose arm span is 60" and find the mean.
 
-6. Select a couple of sketches to share with the whole class. Discuss why the sketches show no
-association.
+9. In teams, ask students to approximate the mean height for people whose arm span is 60", 64", 68", and 72".
 
-7. Ask students to discuss their thoughts about why a line was drawn through the points of the two
-plots and why there are equations for each plot.
+    **<u>Note:</u>** Because the plot does not clearly show duplicate ordered pairs, an approximation is sufficient at this point. You may have students use RStudio to calculate the mean height for the specific armspans. Refer to the OPTIONAL section at the end of the lesson.
 
-8. Conduct a share out of their observations. Guide students to the understanding that the **shape** of
-both plots is **linear**. The line represents a *model* for the relationship between two variables. The
-equation shown in the plots above represents the line through the points. It provides a description
-of the data and the relationship between the variables.
+10. Then plot these points on the graph. We will use this later – the points should be roughly along a straight line. <span style="color:grey">***These arm spans have a range of height values associated with them. Students may take a mean of the heights, but answers may vary.***</span>
 
-9. Distribute *Strength of Association* ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf)). In teams, students will
-examine the scatterplots (b) through (e). Their task is to discuss the **strength of the association**
-for each plot. They will determine which plots they think show strong associations and which ones
-they believe show weak associations. They must explain how they made their decision. Reasons
-must reference the plots.
+11. Ask students if they see any patterns or rules they can use from this to help with predictions.
+Because there were multiple height values associated with each arm span length, you will likely get multiple answers from students. The goal now is to come up with a rule that suggests a
+plausible height value for anyone with a particular arm span.
 
-10. As an example, demonstrate how to describe plot (a) in the [*Strength of Association*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf) handout.
-<span style="color:grey">***Possible description: Plot (a) shows a negative association, or decreasing trend. The
-association appears to be fairly strong because the points are relatively close together,
-forming a moderate linear pattern.***</span>
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf)</div>
+12. A sentence starter to guide students: If a person has a bigger arm span, then we should predict <u>&nbsp;&nbsp;&nbsp;&nbsp;</u>[a bigger height]<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>. If time permits, you might push them to be more precise. Let’s take someone who has a 60 inch arm span. You predicted a height of <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>. How much should we increase our prediction for people with a 62 inch arm span? Can you do this without subsetting the data and re-calculating?
 
-11. Once all teams have completed the handout, assign one plot to each team for a share out. If two
-teams have the same plot, one team will share its explanation first and the second team can
-agree, disagree, or add to the first team’s description.
+13. Conceptually, students are wrestling with the notion of the slope of the regression line but there’s no need to point this out just yet. <br> Important: The equation of the line of best fit will be revealed in [Lesson 9](lesson9.md).
 
-12. Guide students to understand that a strong association has points closer to each other and a
-weak association has points more scattered.
+    **OPTIONAL FOR ITEM 9**
+    If you want to obtain the exact mean height for each arm span value in step 9, copy the code below and run it in an RScript.
 
-13. If students run out of time, they will complete the remainder of the activity for homework.
+        xyplot(height~armspan, data = arm_span, 
+            scales = list(x = list(at = seq(58, 72, 1)), y = list(at = seq(52, 72, 1))), 
+            xlab = "Arm span (inches)", ylab = "Height (inches)")
+
+        armspan_60 <- filter(arm_span, armspan==60)
+        mean(~height, data = armspan_60)
+        #62.66667
+
+        armspan_64 <- filter(arm_span, armspan==64)
+        mean(~height, data = armspan_64)
+        #64
+
+        armspan_68 <- filter(arm_span, armspan==68)
+        mean(~height, data = armspan_68)
+        #68
+
+        armspan_72 <- filter(arm_span, armspan==72)
+        mean(~height, data = armspan_72)
+        #71.5
+
+        #Base R Code
+        #syntax to create a scatterplot using base R
+        plot(arm_span$armspan, arm_span$height)
+
+        #Points function in base R is more user friendly
+        points(60, 62.6667, col = "red", cex = 2)
+        points(64, 64, col = "red", cex = 2)
+        points(68, 68, col = "red", cex = 2)
+        points(72, 71.5, col = "red", cex = 2)
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
-
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Complete the *Strength of Association* handout ([LMR_4.8_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf)).
+One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.

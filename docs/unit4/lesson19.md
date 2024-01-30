@@ -1,119 +1,96 @@
-##***<u>Lesson 19: Data Scientists or Doctors?</u>***
+##***<u>Lesson 19: Our Class Network</u>***
 
 ###**Objective:**
-Students will create their own decision trees based on training data (i.e., the data from the previous day's
-lessons), and then see how well their decision tree works on new test data.
+Students will participate in an activity to map out their own network based on acquaintances between two people.
 
 ###**Materials:**
-1. *Decision Tree for Heart Attack Risk* graphic ([LMR_4.22_CART Heart Attacks](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Heart Attacks.pdf))
+1. *Friend Network Graphic* ([LMR_4.25_Friend Network Graphic](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.25_Friend Network Graphic.pdf))
 
-2. *Make Your Own Decision Tree* handout ([LMR_4.23_Your Own Decision Tree](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.23_Your Own Decision Tree.pdf))
+2. Index cards
+
+3. *Network Code* file ([LMR_4.26_Network Code R Script](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.26_Network Code R Script))
 
 ###**Vocabulary:**
-training data, testing data
+network
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    We can determine the usefulness of decision trees by comparing the number of
-    misclassifications in each.
+    Networks are made when observations are interconnected. In a social setting, we
+    can examine how different people are connected by finding relationships between other people in a
+    network.
 
 ###**Lesson:**
+1. Display the *Friend Network Graphic* ([LMR_4.25](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.25_Friend Network Graphic.pdf)), which shows a WolframAlpha visualization of someone’s Facebook friends. Inform the students that this type of model is called a **network**, which is simply a group of people or things that are interconnected in some way.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.25_Friend Network Graphic.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.25](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.25_Friend Network Graphic.pdf)</div>
 
-1. Ask students the following question:
+2. Ask the following questions about the graphic:
 
-    ***If a close friend or family member were having chest pains, would you want to take that
-    person to a doctor or to a data scientist?***
+    100. What does each dot represent? <span style="color:grey">***Each dot represents one person.***</span>
 
-2. Give the students some time to think about the question and have a few of them share out their responses with the class.
+    100. What does each line represent? <span style="color:grey">***Each line represents a friendship between two
+    people.***</span>
 
-    **Note:** It’s likely that most students will choose to bring their loved one to a doctor.
+    100. How are all the people in this graphic connected to each other? <span style="color:grey">***They are all friends with the person whose Facebook this is.***</span>
+    
+    100. Why are some areas denser than others? <span style="color:grey">***A lot of people in the darker spots know each other, so there are more connections/friendships.***</span>
 
-3. As it turns out, back in the late 1970s, a cardiologist (and early data scientist) named Lee Goldman developed a decision tree based on millions of patient observations. The decision tree was made to diagnose whether people were or were not having a heart attack. Interestingly, the results of the decision tree compared to how actual doctor diagnoses are shown below:
+    100. Why are some people not in groups at all (the dots at the edges of the graphic)? <span style="color:grey">***The main person does not have any friends in common with this person.***</span>
 
-    100. Correct diagnoses using the decision tree were above 95%.
+    100. What might some of the groupings (the denser spots) represent? <span style="color:grey">***Answers will vary. Some examples include high school friends, college friends, graduate school friends, family members, or people who participate in similar hobbies.***</span>
 
-    100. Correct diagnoses based on individual doctors’ expertise? Anywhere between 75-90%.
+3. Ask the students what other types of social networks, other than Facebook, they belong to?
+Responses will most likely include TikTok, Twitter, Instagram, Snapchat, LinkedIn, Google+, etc.
 
-4. Display the graphic from the* Decision Tree for Heart Attack Risk* file ([LMR_4.22_CART Heart Attacks](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Heart Attacks.pdf)) and explain that this is one example of what the decision tree might have looked like.
+4. Next, inform the students that networks can be as big or as small as we want. We can even
+determine our own class’s social network and create visualizations from it!
 
-    **Note:** This is NOT the actual tree Goldman developed.
+5. Network Activity:
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Heart Attacks.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.22](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Heart Attacks.pdf)</div>
+    100. Distribute index cards to students. Each student will need enough cards to make a
+    connection with every other person in the class. For example, if there are 20 students in a class, then each student needs 19 cards.
 
-5. Using a *Pair-Share*, ask students to discuss the following questions using the graphic above, as well as what they learned during the previous lesson’s activity.
+    100. On EVERY index card, the student should write his/her first AND last name in the lower left-hand corner (see image below).
 
-    a. What are decision trees?
+        <img src="../../img/42105b.png" />
 
-    b. How do they work at classifying data into groups?
+    100. Next, each student will walk around the classroom and put another student’s first AND
+    last name in the top right-hand corner of an index card (see image below).
 
-6. Then display the following data (the same data from the player cards used in the previous
-lesson):
+        <img src="../../img/42105c.png" />
 
-    | **Team** | **Player** | **Height (inches)** | **Weight (pounds)** | **Age** | **League** |
-    |------------------|--------------------|-----------------|-----------------|-----|--------|
-    | Carolina  | Cam Newton | 77 | 245 | 26 | NFL |
-    | Chicago  | Sean Johnson | 75 | 217 | 26 | USMNT |
-    | Dallas  | Matt Cassel | 76 | 230 | 33 | NFL |
-    | Dallas  | Tony Romo | 74 | 230 | 35 | NFL |
-    | Dallas  | Matt Hedges | 76 | 190 | 25 | USMNT |
-    | Kansas  City | Alex Smith | 76 | 216 | 31 | NFL |
-    | Kansas City | Matt Besler | 72 | 170 | 28 | USMNT |
-    | New England | Tom Brady | 76 | 225 | 38 | NFL |
-    | New England | Jermaine Jones | 72 | 179 | 34 | USMNT |
-    | Seattle | Russell Wilson | 71 | 206 | 27 | NFL |
-    | Seattle | Clint Dempsey | 73 | 170 | 32 | USMNT |
-    | Toronto | Michael Bradley | 73 | 179 | 28 | USMNT |
-    | Toronto | Jozy Altidore | 73 | 174 | 26 | USMNT |
-    | Washington, D.C. | Robert Griffin III | 74 | 223 | 25 | NFL |
-    | Washington, D.C. | Steve Birnbaum | 74 | 181 | 28 | USMNT |
+    100. In the center of the index card, the students should write the name of the closest 3<sup>rd</sup> person that they BOTH know (see image below). The person can be someone in the class, someone outside of the class, or someone who doesn’t even attend the same
+    school.
 
-7. Distribute the *Make Your Own Decision Tree* handout ([LMR_4.23_Your Own Decision Tree](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.23_Your Own Decision Tree.pdf)) and give students time to come up with their own decision trees based on the **training data** they are given. Students may work in pairs or teams. They should follow the directions on page 1 of the handout and come up with a series of possible yes/no questions that they could ask to classify each player into his correct league (the NFL or the USMNT).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.23_Your Own Decision Tree.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.23](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.23_Your Own Decision Tree.pdf)</div>
+        <img src="../../img/42105d.png" />
 
-8. Once the students have finished creating their decision trees, ask the following questions:
+    100. Once all of the students have completed their cards, they will turn them in to the teacher so the teacher can create a visualization of the network.
 
-    100. Will you be able to classify other players from a new data set correctly using this
-    particular decision tree?
+    100. This will probably take an entire class period to complete, which is fine because the
+    graphics can be created and shown the next day.
 
-    100. Is this decision tree too specific to the training data?
+6. At this point, the teacher will need to manually input the data from the index cards into a
+spreadsheet. ***It is recommended that the spreadsheet be saved as a .csv file.*** Two sample
+index cards are included, along with how you would input the data.
 
-9. Inform the students that they should now use the **testing data** on page 2 of the handout to try to classify 5 *mystery players* into one of the two leagues. They should record the classification that their tree outputs in the data table on page 2.
+    <img src="../../img/42106.png" />
 
-10. Let the students compare their decision trees and league assignments with one another.
-Hopefully, there will be a bit of variety in terms of the trees and the classifications.
+    **<u>Note:</u>** The first index card corresponds to rows 1 and 2 in the spreadsheet (the purple box). The second index card corresponds to rows 3 and 4 in the spreadsheet (the pink box). So, each card will take up two rows in the spreadsheet.
 
-11. Next, show students the correct league classifications for the 5 mystery players. The mystery player names are also included in this table.
+    **<u>Note:</u>** It is probably best to input the data after class and present the visualization during the next day.
 
-    | **Team** | **Player** | **Height (inches)** | **Weight (pounds)** | **Age** | **League** |
-    |----------------|-----------------|-----------------|-----------------|-----|--------|
-    | Toronto | Michael Bradley | 74 | 175 | 28 | USMNT |
-    | New York | Eli Manning | 76 | 218 | 34 | NFL |
-    | New Orleans | Drew Brees | 72 | 209 | 36 | NFL |
-    | Washington, DC | Perry Kitchen | 72 | 160 | 23 | USMNT |
-    | New England | Lee Nguyen | 68 | 150 | 29 | USMNT |
+7. Once all data has been input into a spreadsheet, use the code provided in the *Network Code* file ([LMR_4.26](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.26_Network Code R Script)) to produce graphs for the class’s social network.
 
-12. By a show of hands, ask:
+    **<u>Note:</u>** The R Script file can be opened and viewed in the “source” pane of RStudio. There are 2 places where the code needs to be edited by the teacher:
 
-    a. How many students misclassified all of the players in the testing data?
+    100. Be sure to change the file name when reading in the .csv file in Line 7 of the code.
+    
+    100. Read the comments in Lines 91-96 to help find the 5 most popular people in the class’s network. This may require some edits to Lines 97 and 108
 
-    b. How many misclassified 4 of the 5 players?
-
-    c. How many misclassified 3 of the 5 players?
-
-    d. How many misclassified 2 of the 5 players?
-
-    e. Did anyone correctly classify ALL 5 mystery players? If so, ask those students to share
-    their decision trees with the rest of the class.
-
-13. Inform students that, when faced with much more data, creating classification trees becomes much harder to make by hand. It is so difficult, in fact, that data scientists rely on software to grow their trees for them. Students will learn how to create decision trees in RStudio during the next lab.
+        <img src="../../img/42107.png" />
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
 
-###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-Write a paragraph describing the role testing data and training data play in creating a classification tree.
-
-[<u>***LAB 4G: Growing Trees***</u>](lab4g.md)
-
-Complete [Lab 4G](lab4g.md) prior to [Lesson 20](lesson20.md).
+###<p style="background: black; color: white; text-align: center;">**Next Day**</p>
+Students will end their water usage campaign data collection after today’s lesson. Starting the next day, they will analyze their data as part of the [End of Unit 4 project](end.md).

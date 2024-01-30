@@ -1,152 +1,111 @@
-##***<u>Lesson 6: Statistical Predictions Applying the Rule</u>***
+##***<u>Lesson 6: Statistical Predictions in One Variable</u>***
 
 ###**Objective:**
-Students will apply the rule statisticians use to determine the best method for predicting heights for
-students at a high school.
+Students will devise a rule to determine how to choose a winner when predicting the typical height of all
+students in a large high school and measure the success of their prediction. They will consider different
+measures of success.
 
 ###**Materials:**
-1. Each team’s rule for determining a winner (from previous lesson)
-
-2. *Prediction Games* handout ([LMR_4.5_Prediction Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Prediction Games.pdf))
+1. *Heights of Students at a Large High School* handout ([LMR_4.6_HS Student Heights](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_HS Student Heights.pdf))
 
 ###**Vocabulary:**
-mean squared deviation, mean absolute error
+rule
 
 ###**Essential Concepts:**
 
-!!! note "Essential Concepts: " 
-    If we use the squared residuals rule, then the mean of our current data is the best
-    prediction of future values. If we use the mean absolute error rule, then the median of the current data is the
-    best prediction of future values
+!!! note "Essential Concepts: "  
+    Anyone can make a prediction. But statisticians measure the success of their predictions.
+    This lesson encourages the classroom to consider different measures of success.
 
 ###**Lesson:**
-1. Ask students to recall that in the previous lesson, each student team created a rule to determine
-a winner. Which team’s rules worked well for determining a winner?
+1. Inform the class that for this lesson, our class will help judge a contest held at a particular high
+school. This school held a contest in which they selected students at random from a classroom
+and reported their height.
 
-2. Remind them that in their DS Journals, they took notes about each team’s rule as they presented.
-This time, they will be switching roles – instead of creating a rule to judge the given predictions,
-they will be given a rule and it’s their job to find the best procedure to win the contest.
+2. The information in Steps 3 – 7 is included in the *Heights of Students at a Large High School*
+handout ([LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_HS Student Heights.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_HS Student Heights.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_HS Student Heights.pdf)</div>
 
-3. Inform students that the question we are trying to answer is:
+3. Our class will help judge a contest held at a particular high school to see who can make the best predictions. Height data for 40 randomly selected students were provided to three teams. Using this data, each team was asked to predict the heights of a random sample of 10 students. Here is the catch: teams were allowed to give only ONE number that had to be used to predict all 10 heights. As the judges of this contest, you will determine the winner.
 
-    **How can we create a general rule that will always select the BEST guess to win no matter
-    what 10 data points we are given?**
 
-4. Explain to students that data scientists use the “mean squared deviation” rule (also called the
-“mean squared error” or “mean squared residual” rule or “residual sums of squares” rule, the
-latter term being the most common). A “*deviation*” is the difference between our prediction and
-the actual outcome (as in MAD) and is sometimes called a “residual.”
+4. Your job is to determine the winning team. You must come up with two things:
 
-    **<u>Note to Teacher:</u>** Basically, students are being asked to determine which of these predicted
-    values is "closest" to the data. One issue that comes up is dealing with positive and negative
-    differences.
+    100. You must support your choice of a winner by using a **rule** for calculating a total score for
+    each team.
+    
+    100. The rule must be applied to each team’s prediction, and you must be able to explain how your rule helped select the winner. For example, do you choose the team with the largest score? The smallest?
 
-5. Distribute the *Prediction Games* handout ([LMR_4.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Prediction Games.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Prediction Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Prediction Games.pdf)</div>
+6. Here are the predictions of the three teams:
 
-6. Explain the rules of the game as follows:
+    Team A: 67.9 inches
 
-    You are allowed to use just one value for each game, and your value should be based on the
-    data. The **mean squared deviation** rule says: Your score is determined by finding the average of
-    the squared differences between your guess and the actual values. The winner is the team with
-    the lowest mean squared deviation. For each of the games below, try the provided statistics and
-    determine which one works best.
+    Team B: 68.1 inches
 
-    <center><img src="https://latex.codecogs.com/gif.latex?\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" title="\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" /></center>
+    Team C: 70.9 inches
 
-    100. <u>Game 1:</u> Predict the heights of 10 randomly chosen people.
-    **<u>Remember:</u>** You must choose
-    just one statistic to use as a prediction from this list:
+7. Display Dataset A, found on page 1 of the *Heights of Students at a High School* handout ([LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_HS Student Heights.pdf)).
 
-        <img src="../../img/40606a.png" />
+    **<u>Notes to teacher:</u>**
 
-        Outcomes: here are the actual heights that were selected – 66, 67, 73, 68, 68, 73, 69, 64, 66,
-        67. Which of these numbers did best? Compare your score using the mean squared
-        deviations.
+    100. Students may have to be reminded that negative values with large absolute value are
+    larger than positive values with small absolute values (e.g., |-10| is larger than |3| because 10 is larger than 3).
 
-        <span style="color:grey">***For example, using the minimum and outcomes above, gives you a mean squared
-        deviation of:***</span>
+    100. Let students struggle for a little bit. A prompt to get them started: Look at the difference
+    between a team's prediction and the actual outcomes (e.g., for the first height, Team A
+    predicted 67.9, actual outcome was 70.1, so 67.9-70.1=-2.2=|-2.2|=2.2). They might also need to be nudged
+    towards the *sum* of these differences – they need to produce a single score, not 10
+    separate scores.
 
-        <center><img src="https://latex.codecogs.com/gif.latex?\frac{\(66-64.20)^2&plus;(67-64.20)^2&plus;...&plus;(67-64.20)^2}{10}=229/10=22.9\&space;square\&space;in." title="\frac{\sum (66-64.20)^2+(67-64.20)^2+...+(67-64.20)^2}{10}=229/10=22.9\ square\ in." /></center>
-
-        <span style="color:grey">***Note to teacher: The value of the mean squared deviation will always be in square
-        units. In order to convert back to the original units, simply take the square root of the
-        mean squared deviation.***</span>
-
-        <span style="color:grey">***Interpretation: When using the minimum height to make predictions about all heights,
-        our predictions will typically be off by <img src="https://latex.codecogs.com/gif.latex?\inline&space;\sqrt{22.9}=4.79" title="\sqrt{22.9}=4.79" /> inches.***</span>    
-
-    100. <u>Game 2:</u> Predict the number of steps, as counted by a FitBit, this person will take in the future.
-    Choose your prediction from these values:
-
-        <img src="../../img/40606b.png" />
-
-        Outcomes: here are the actual daily steps that this person took – 0, 27903, 6044, 0, 0, 17436,
-        2697, 14944, 8060, 0. Which of these numbers did best? Compare your score using the
-        mean squared deviations.
-
-        **Note to teacher:** For Game 2, you might consider allowing students to utilize RStudio to
-        calculate the mean squared deviation. The example below can be used to calculate the mean
-        squared deviation for predicting daily steps using the minimum. Before revealing the codes,
-        elicit a class discussion about how RStudio can be used to calculate the MSD.
-
-        Step 1: Create a vector of the given daily steps
-
-        **> steps<-c(0,27903,6044,0,0,17436,2697,14944,8060,0)**
-
-        Step 2: Store the squared deviations
-
-        **> sqr_dev<-((steps-0)^2)**
-
-        Step 3: Find the mean of the squared deviations
-
-        **> mean(sqr_dev)**
-
-        The code can be shortened to two steps if you apply a composition of the last two functions
-
-        **> mean((steps-0)^2)**
-
-    100. <u>Game 3:</u> Predict the number of minutes it took 10 randomly selected teenagers to run the
-    Cherry Blossom 10 Mile Race in Washington, D.C.
-
-        <img src="../../img/40606c.png" />
+    100. Here are some rules you can “feed” to the class to move them along. Ask them: (a)
+    Describe this rule in words. (b) Is it better to get a high score or a low score or some
+    other score? (c) Which teams win for each? (Note, some of these rules produce ties).
+    
+        200. Rule 1: sum(heights-predicted.value == 0) <span style="color:grey"> <br> ***Translated into words: the number of exactly
+        correct predictions***</span>
         
-        Outcomes: here are the actual race times of the teenagers – 74, 123, 121, 103, 75, 72, 85,
-        71, 86, 101. Which of these numbers did best? Compare your score using the mean squared
-        deviations.
+        200. Rule 2: sum(heights-predicted.value) <span style="color:grey"> <br> ***Translated into words: the sum of the differences
+        between predicted value and the actual heights***</span>
+        
+        200. Rule 3: sum(abs(heights-estimate)) <span style="color:grey"> <br> ***Translated into words: the sum of the absolute values of
+        the deviations***</span>
+    
+        200. Rule 4: sum((heights-estimate)^2) <span style="color:grey"> <br> ***Translated into words: the sum of the squared deviations***</span>
 
-7. Using the mean squared deviations, which statistic is the winner and which statistics placed
-second and third? Discuss which statistic made the best predictions in all three games.
+            **Note:** It is unlikely that students will think of the last two. That’s okay, because
+            we will introduce them in a future lesson, but you might want to present one (or
+            both) to see what they think about these rules.
 
-    **<u>Note to teacher:</u>** Explain that the mean worked best for all three contests. Data scientists (and
-    mathematicians) can prove that the mean will **always** work best (except in a few weird cases
-    from time to time). So if you want to predict the future, the mean is the best single guess you can
-    make.
+8. Allow student teams time to discuss and complete the task for Dataset A.
 
-8. Ask: What if another data science class has a best rule that is different from ours?
+9. Do not share their responses to Dataset A. Instead, display the following questions:
 
-9. Another agreed upon method that data scientists and statisticians often use is the **mean
-absolute error**. It’s unlikely that students will figure this out on their own. The reasons why we do
-it in statistics date back to the 18th century, so it won't make a lot of sense; but it’s what
-statisticians do. The mean absolute error is expressed as (where <align><img src="https://latex.codecogs.com/svg.image?\hat{x}"&space;" title="\hat{x}" " /></align> stands for the predicted value):
+    100. What if we had a different set of 10 randomly selected students?
 
-<center><img src="https://latex.codecogs.com/gif.latex?MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" title="MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" ></center>
+    100. Would the same team win?
 
-10. Explain that each team will now use the statisticians’ method for declaring a winner. Display the
-mean absolute error formula and discuss what each symbol means.
+10. Allow teams to discuss the questions, then share a couple of responses to the questions in the
+previous step.
 
-11. Using our previous examples, recalculate your predictions using the MAE.
+11. Display Dataset B, found on page 2 of the *Heights of Students at a High School* handout ([LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_HS Student Heights.pdf)),
+then have them find the winner using this new sample. Is it the same as they chose before?
 
-12. Using the mean absolute error, which statistic is the winner and which statistics placed second
-and third?
+    **<U>Note:</u>** We do NOT know the value of the true population mean/ typical value. This is what we are
+    really trying to predict.
 
-    <span style="color:grey">***Answers:***</span>
+12. Teams will take turns to share their work as follows:
 
-    <img src="../../img/40612.png" />
+    100. Which team did you select as the winner using Dataset A?
 
-    **<u>Note to teacher:</u>** Explain that in this instance, the median is the “winner.” This means that the
-    way you play the game depends on the rules of the game. If we used squared deviations, play
-    with the mean. If we use the mean absolute error (MAE), play with the median.
+    100. Explain the method, or **rule**, your team used to declare the winner.
+
+    100. Which team did you select as the winner using Dataset B? Is the winner the same?
+
+    100. Did you use the same rule to select a winner or did it change? If it changed, explain.
+
+13. During the share out, students will take notes about the other teams’ rules in their DS journals.
+
+14. Teams may continue to share at the start of the [next lesson](lesson7.md), if they run out of time.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the

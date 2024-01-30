@@ -1,85 +1,80 @@
-##***<u>Lesson 13: Combination of Variables</u>***
+##***<u>Lesson 13: Improving Your Model</u>***
 
 ###**Objective:**
-Students will learn that we can make better predictions by including more variables. Then they will wrestle
-with how the information should be combined.
+Students will learn to describe associations that are not linear.
 
 ###**Materials:**
-1. *Advertising Plots Part 2* handout ([LMR_4.13_Advertising Plots 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf)) from [Lesson 12](lesson12.md)
+1. *Describe the Association* handout ([LMR_4.16_Describe the Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Describe the Association.pdf))
+
+###**Vocabulary:**
+non-linear, polynomial trends
 
 ###**Essential Concepts:**
 
-!!! note "Essential Concepts: " 
-    If multiple predictors are associated with the response variable, a better predictive model will be produced, as measured by the mean absolute error.
+!!! note "Essential Concepts: "
+    If a linear model is fit to a non-linear trend, it will not do a good job of predicting. For this reason, we need to identify non-linear trends by looking at a scatterplot or the model needs to match the trend.
 
 ###**Lesson:**
-1. Display the plots and statements from the previous day:
+1. Remind students that they have been learning a great deal about linear associations. However, there are other types of associations, and today they will learn to describe them.
 
-    <img src="../../img/41212.png" />    
+2. Distribute the *Describe the Association* handout ([LMR_4.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Describe the Association.pdf)). In teams, students will examine the trend of each plot. Their task is to write a description of the trend that they see in the data and what the trend means.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Describe the Association.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Describe the Association.pdf)</div>
 
-    100. Combining multiple variables (e.g., money spent on TV and Newspaper ads, TV and
-    Radio ads, TV, Radio, and Newspaper ads, etc.) into one model will lead to worse
-    predictions because the variables that make poor predictions will contaminate those that
-    make good predictions.
+3. Allow students time to discuss and record their descriptions for each plot in their DS journals. Walk around the room monitoring student teamwork. Look for descriptions that are interesting to share with the whole class.
 
-    100. Combining multiple variables (e.g., TV and Newspaper ads, TV and Radio ads, TV,
-    Radio, and Newspaper ads, etc.) into one model will lead to better predictions because
-    the model can use more information to make predictions.
+4. Select a team to present a description of one plot to the class. Teams will listen to each
+presentation, compare it to their description of the plot, and as a team they will agree or disagree. If there is disagreement, lead a discussion that guides students to reason toward the correct description.
 
-2. Ask the students to share out their opinions in an Active Debate (see [Unit 2](../unit2/overview.md) [Lesson 6](lesson6.md) as an
-example).
+5. Summarize the discussion for each plot and ask students take notes or revise their descriptions in their DS journals.
 
-3. Next, inform teams that they will have 2 minutes to come up with as many combinations of ads (variables) as they can think of (e.g., TV + Newspaper ads, TV+ Radio ads, TV + Radio +
-Newspaper ads, etc.)
+6. Repeat steps 4 and 5 for the rest of the plots.
 
-4. After 2 minutes, list all the different combinations by conducting a Whip Around and eliciting a combination from each team.
+    Plot Descriptions for *Describe the Association* ([LMR_4.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Describe the Association.pdf)):
 
-5. By a show of hands, ask students to select which combination or single model will be the best predictor for the number of items sold by the retailer.
+	* <span style="color:grey">***Plot A: There is no trend (perhaps some may see a very, very weak linear trend), so there is no/hardly any association. There is a great deal of scatter in the data. It means that y does not depend on x.***</span>
 
-6. Then inform students that we will determine which of the statements is true by comparing the mean absolute error (MAE) of single models (like the ones we showed in the previous lesson) vs. combined models. But first, use the line of best fit for the combined variables:
+	* <span style="color:grey">***Plot B: There appears to be a linear trend. The association is negative and appears somewhat strong. It means that as x increases, y decreases.***</span>
 
-    <center><img src="https://latex.codecogs.com/gif.latex?\widehat{sales}=0.045449(tv)&plus;0.186570(radio)-0.004952(newspaper)&plus;3.029878" title="\widehat{sales}=0.045449(tv)+0.186570(radio)-0.004952(newspaper)+3.029878" /></center>
+	* <span style="color:grey">***Plot C: There is a linear trend. The association is positive and it is very strong. It means that the y-value increases at approximately the same rate for every increase in x value. This is a line.***</span>
 
-    **Note:** The function that produced the line of best fit using RStudio was
+	* <span style="color:grey">***Plot D: The trend is non-linear. There seems to be a weak association because there is scatter in the data. Cannot tell if the association is positive or negative. It has the shape of a parabola; therefore, it is quadratic. For smaller x-values, the y-value is decreasing and for larger x values, the y value is increasing.***</span>
 
-        lm(Sales ~ TV + Radio + Newspaper, data= retail)
+	* <span style="color:grey">***Plot E: The trend is non-linear. There seems to be a strong association because
+	there is little scatter in the data. It is also in the shape of a parabola, so it is
+	quadratic.***</span>
 
-    100. Use this equation to predict the amount of sales for the same market they circled in the previous lesson. <span style="color:grey">***Students’ calculation should yield the predicted value in (b), below.***</span>
-    
-        **<u>Note:</u>** Remind students that they need to substitute the values as they appear in the x-axis of the plots without converting to thousands of dollars. For example, the circled market spent about 10 thousand dollars on newspaper ads, so students should substitute 10 instead of the expanded value in the equation.
+7. Using the *Cheat Notes* strategy, ask teams to write notes about how to describe associations.
 
-        <img src="../../img/41210.png" />
+8. Plots A, B, and C should be familiar to the students by now. However, plots D and E show a
+different type of trend. Although the trends are non-linear, they can still tell us important
+information about the y-values based on values of x. Ask:
 
-    100. Does the predicted value (10.407) seem like a plausible number of sales? Why? <span style="color:grey">***It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 104,070 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
+    * What happens if we were to fit a linear model to these non-linear trends? Would it still
+    make good predictions? <span style="color:grey">***No. They would not make good predictors.***</span>
 
-7. Reveal that RStudio calculated the mean absolute error for different combinations plus the single models, and the results are displayed on the table below. This means that, for example, when using the TV model to predict number of items sold, our predictions will typically be off by about 2.337808 (in 10,000s) of units or 23,378 units. Then ask students:
+9. To examine why they would not make good predictors, draw an approximate linear best-fit line
+and get students to understand that in some regions, the model would almost always over-predict,
+and in others would almost always under-predict. We want a model that goes, more or less,
+through the 'middle' of the points. Ask:
 
-    | Model | Mean Absolute Error |
-    |--------------------|---------------------|
-    | TV | 2.337808 |
-    | Radio | 3.565113 |
-    | Newspaper | 4.538444 |
-    | TV-Radio | 1.160937 |
-    | TV-Newspaper | 2.344971 |
-    | Radio-Newspaper | 2.93832 |
-    | TV-Radio-Newspaper | 1.161068 |
+    * How can we get a model that goes, more or less, through the middle of all the data
+    points? <span style="color:grey">***Answer: We need to change the model.***</span>
 
-    100. Which model is the best predictor of number of items sold? <span style="color:grey">***Answer: The TV-Radio model is the best predictor of number of items sold because it had the least amount of error, on average. When using the TV-Radio model to predict number of items sold, our predictions will typically be off by 11,609 units.***</span>
+10. Trends like the quadratic ones shown in plots D and E can be described as **polynomial trends**.
+Plots that follow quadratic, cubic, quartic, etc. shapes all exhibit polynomial trends. We need to
+adjust the model. You may show students several choices of equations (quadratic, trinomial,
+linear) along with their graphs and ask them which might be a good candidate.
 
-    100. Which model was the least reliable in predicting the number of items sold? <span style="color:grey">***Answer: The Newspaper model is the least reliable predictor of number of items sold because it had the most amount of error, on average. When using the Newspaper model to predict number of items sold, our predictions will typically be off by 45,384 units.***</span>
-
-    100. What else do you notice about the models? <span style="color:grey">***Answer: It appears that combining the variables into one model is much better than any of the single-variable models.***</span>
-
-8. Inform the students that, in the next lab, they will find out how to create the line of best fit for models that include many variables.
+11. When investigating the data for trends, the model needs to fit the data.
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
+One team of students will give a brief talk to discuss what they think the 3 most important topics of the
+day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-Ask students to think of a reason or reasons about why it would not be a good idea to make a scatterplot for models that include more than 3 predictor variables? <span style="color:grey">***The answer is mainly because humans are limited to seeing things in 3 dimensions. For example, the model that combines all of the variables together is a 4 dimensional model. What does that look like?***</span>
+Students may finish their *Cheat Notes* for homework, if not completed in class.
 
-[<u>***LAB 4E: This Model is Big Enough for All of Us***</u>](lab4e.md)
+[<u>***LAB 4E: Some Models Have Curves***</u>](lab4e.md)
 
-Complete [Lab 4E](lab4e.md) prior to [Practicum](practicum1.md).
+Complete [Lab 4E](lab4e.md) prior to [Lesson 14](lesson14.md).

@@ -1,16 +1,18 @@
-#Unit4, Section2: Piecing it Together
-Instructional Days: 5
+#Unit4, Section2: Predictions and Models
+Instructional Days: 16
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
-Real-life phenomena are often complex. Data scientists use multiple regression models to create simple
-equations to help explain and predict these phenomena. Data scientists can also use polynomial
-transformations to add flexibility to rigid linear models.
+The regression line is a prediction machine. We give it an x-value, it gives us a predicted y-value. The
+regression line summarizes the trend in the data, but there may still remain variability in the dependent
+variable that is not explained by the independent variable. Although the regression line provides optimal
+predictions when the association is linear, other models are needed for when it is not linear.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will read the article titled *How Long Can a Spinoff Like Better Call Saul Last?* that will set the
-context for students to begin thinking about more than one explanatory variable to make better
-predictions. The article can be found at:<br>
-[http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"){:target="_blank"}
+Students will analyze a map from the Medical Daily website. The map and its article called *How Twitter
+Can Predict Heart Disease: Negative Tweets Associated With Stress, Higher Risk Of Disease*, shows a
+side-by-side comparison of CDC heart attack deaths data and Twitter’s predicted data. They will engage
+in a discussion comparing and contrasting the visualization. The map can be found at:   
+[https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830](https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830 "https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
@@ -24,28 +26,52 @@ related.
     of the data. <i>Use given functions or choose a function suggested by the context.
     Emphasize linear models.</i>
     </li>
+	<li>
+    b. Informally assess the fit of a function by plotting and analyzing residuals.
+    </li>
+	<li>
+    c. Fit a linear function for a scatter plot that suggests a linear association.
+    </li>
 </ul>
+
+S-ID 7: Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the
+context of the data.
+
+S-ID 8: Compute (using technology) and interpret the correlation coefficient of a linear fit.
+
+S-IC 6: Evaluate reports based on data.\*
+\*This standard is woven throughout the course. It is a recurring standard for every unit.
+
+<ins>*Focus Standards for Mathematical Practice for All of Unit 4:*</ins>
+
+SMP-2: Reason abstractly and quantitatively.
+
+SMP-4: Model with mathematics.
+
+SMP-7: Look for and make use of structure.
 
 <ins>*Data Science:*</ins>
 
-Understand that multiple regression can be a better tool for predicting that simple linear regression and
-know when it is appropriate to use multiple regression versus simple linear regression. Understand when
-linear models are not appropriate based on the shape of the scatterplot.
+Judge whether or not the linear model is appropriate. Learn to interpret a correlation coefficient in a linear
+model and interpret slope and intercept. Evaluate the strength of a linear association. Evaluate the
+potential error in a linear model.
 
 <ins>*Applied Computational Thinking using RStudio:*</ins>
 
-• Use multiple linear regression models with other predictor variables
+• Use linear regression models to predict response values based on sets of predictors.
 
-• Fit regression lines to data and predict outcomes.
+• Fit a regression line to data and predict outcomes.
 
-• Create non-linear models to look for relationships.
+• Compute the correlation coefficient of a linear model.
 
-• Fit polynomials functions to data.
+• Create a Participatory Sensing campaign using a campaign Authoring Tool.
 
 <ins>*Real-World Connections:*</ins>
 
-Economists and marketing firms use multiple regression to predict changes in the market and adjust
-strategies to fit the demands of changes in the marketplace.
+Many studies are published in which predictions are made, and media reports often cite data that make
+predictions. They involve one or more explanatory variable and a response variable, such as income vs.
+education, weight vs. exercise, and cost of insurance vs. age. Understanding linear regression helps
+evaluate these studies and reports.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 1. Students will use complex sentences to construct summary statements about their understanding
@@ -54,18 +80,19 @@ of data, how it is collected, how it used and how to work with it.
 2. Students will engage in partner and whole group discussions and presentations to express their
 understanding of data science concepts.
 
-3. Students will read informative texts to evaluate claims based on data.
+3. Students will use complex sentences to write informative short reports that use data science
+concepts and skills.
+
+4. Students will read informative texts to evaluate claims based on data.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-<ins>*Data Set:*</ins>
-
-1. NFL data set
-
-2. USMNT data set
-
 <ins>*Data File:*</ins>
 
-3. Movies: data(movie)
+1. Movies (movie)
+
+<ins>*Data Collection:*</ins>
+
+Students will collect data for their team participatory sensing campaign.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

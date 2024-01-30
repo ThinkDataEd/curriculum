@@ -1,107 +1,87 @@
-##***<u>Lesson 3: Evaluating and Implementing a Water Campaign</u>***
+##***<u>Lesson 3: Community Connection</u>***
 
 ###**Objective:**
-Students will complete the design of their water usage Participatory Sensing campaign, create the
-campaign using the campaign authoring tool, and implement a mock campaign to evaluate the feasibility
-of the campaign.
+Students will research and review articles from accredited sources to guide the design of their community focused Participatory Sensing campaign.
 
 ###**Materials:**
-1. *Water Campaign* ([LMR_4.2_Water Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)) from previous lesson
+1. Resource: *Web Literacy for Student Fact-Checkers* <br> [https://pressbooks.pub/webliteracy/](https://pressbooks.pub/webliteracy/ "https://pressbooks.pub/webliteracy/"){:target="_blank"}
 
-2. Posters from previous lesson
+2. Video: *Online Verification Skills - Investigate the Source* found at: <br>
+    [https://www.youtube.com/watch_popup?v=hB6qjIxKltA](https://www.youtube.com/watch_popup?v=hB6qjIxKltA "https://www.youtube.com/watch_popup?v=hB6qjIxKltA"){:target="_blank"}
+    
+    <div align="right"><iframe width="420" height="315"
+    src="https://www.youtube.com/watch_popup?v=hB6qjIxKltA" allowfullscreen>
+    </iframe><br><a href="https://www.youtube.com/watch_popup?v=hB6qjIxKltA">https://www.youtube.com/watch_popup?v=hB6qjIxKltA</a></div>
 
-3. Markers
+3. Video: *Online Verification Skills - Verifying Images and Videos* found at: <br>
+    [https://www.youtube.com/watch_popup?v=7eKG9RuqUE4](https://www.youtube.com/watch_popup?v=7eKG9RuqUE4 "https://www.youtube.com/watch_popup?v=7eKG9RuqUE4"){:target="_blank"}
+    
+    <div align="right"><iframe width="420" height="315"
+    src="https://www.youtube.com/watch_popup?v=7eKG9RuqUE4" allowfullscreen>
+    </iframe><br><a href="https://www.youtube.com/watch_popup?v=7eKG9RuqUE4">https://www.youtube.com/watch_popup?v=7eKG9RuqUE4</a></div>
 
-4. *Campaign Authoring Instructions* handout ([LMR_4.3_Campaign Authoring](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Campaign Authoring.pdf))
+4. Video: *Online Verification Skills - Find the Original Source* found at: <br>
+    [https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs](https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs "https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs"){:target="_blank"}
+    
+    <div align="right"><iframe width="420" height="315"
+    src="https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs" allowfullscreen>
+    </iframe><br><a href="https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs">https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs</a></div>
+
+5. *Team Campaign Creation* handout ([LMR_4.4_Team Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Campaign Creation.pdf))
+
+6. Article: *3 reasons why California's drought isn't really over, despite the rain* <br> [https://www.npr.org/2023/03/23/1165378214/3-reasons-why-californias-drought-isnt-really-over-despite-all-the-rain/](https://www.npr.org/2023/03/23/1165378214/3-reasons-why-californias-drought-isnt-really-over-despite-all-the-rain/ "https://www.npr.org/2023/03/23/1165378214/3-reasons-why-californias-drought-isnt-really-over-despite-all-the-rain/"){:target="_blank"}
+
+7. Article: *Great Pacific Garbage Patch: The World's Biggest Landfill in the Pacific Ocean* <br> [https://science.howstuffworks.com/environmental/earth/oceanography/great-pacific-garbage-patch.htm](https://science.howstuffworks.com/environmental/earth/oceanography/great-pacific-garbage-patch.htm "https://science.howstuffworks.com/environmental/earth/oceanography/great-pacific-garbage-patch.htm"){:target="_blank"}
+
+8. Article: *The number of homeless people in America grew in 2023 as high cost of living took a toll* <br> [https://www.usatoday.com/story/news/nation/2023/12/15/homelessness-in-america-grew-2023/71926354007/](https://www.usatoday.com/story/news/nation/2023/12/15/homelessness-in-america-grew-2023/71926354007/ "https://www.usatoday.com/story/news/nation/2023/12/15/homelessness-in-america-grew-2023/71926354007/"){:target="_blank"}
+
+9. Article: *COVID-19 pandemeic triggers 25% increase in prevalence of anxiety and depression worldwide* <br> [https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide](https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide "https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide"){:target="_blank"}
 
 ###**Essential Concepts:**
 
-!!! note "Essential Concepts: "
-    Statistical questions guide a participatory sensing campaign so that we can learn about a
-    community or ourselves. These campaigns should be evaluated before implementing to make sure they are
-    reasonable and ethically sound.
+!!! note "Essential Concepts: " 
+    Data collected through Participatory Sensing Campaigns will be used to create models that answer real-world problems related to our community.
 
 ###**Lesson:**
-1. Student teams will continue designing their water usage Participatory Sensing campaign. Allow
-them a couple of minutes to review the information on their posters before moving on to round 4.
+1. Display the DWP data using RStudio. In pairs, ask students to recall what each of the variables
+mean.
 
-2. <u>Round 4:</u> Now that the teams have decided on a trigger and the type of data needed, they will
-discuss and create survey questions/prompts to ask when the trigger is set. The questions should
-consider all of the possible data they might collect at this trigger event.
+2. Next, ask student teams to refer back to the statistical questions they generated in the previous lesson - they will need it for the data exploration.
 
-3. Once teams have created their survey questions/prompts, they will evaluate each survey
-question. For each question they should consider:
+3. An option for checking the credibility of sources is the SIFT method (The "SIFT" method is adapted from [https://pressbooks.pub/webliteracy/](https://pressbooks.pub/webliteracy/ "https://pressbooks.pub/webliteracy/"){:target="_blank"} by Michael A. Caulfield):
 
-    100. What type of survey question/prompt will this be (e.g. single choice, text, photo,
-    numerical, discrete numerical, categorical, location)?
+    100. **Stop** - First, ask yourself if you know and/or trust the source of the page. Don't read it or share it until you know what it is. Second, if you have started working through the moves and find yourself in a “click cycle”, STOP and remind yourself what your goal is - don’t lead yourself astray down a rabbit hole of facts/links.
 
-    100. How does this question/prompt help address the research question?
+    100. **Investigate the Source** - Take time to figure out where it is from before reading it. If it’s from an unfamiliar source, do a Google or Wikipedia search. Here’s a video to help with investigating a source: <br>
+    [https://www.youtube.com/watch_popup?v=hB6qjIxKltA](https://www.youtube.com/watch_popup?v=hB6qjIxKltA "https://www.youtube.com/watch_popup?v=hB6qjIxKltA"){:target="_blank"}
 
-    100. Does the question/prompt need to be reworded? (Is it clear what is being asked for? Do
-    they know how to answer it?) One way to do this is to pair teams and take turns asking
-    each other prompts. The team that is being asked may explain what information they
-    think the question is asking for.
+    100. **Find Trusted Coverage** - This is where we determine if a claim is reliable. Do a Google News search for relevant stories and use known fact-checking sites like snopes.com, factcheck.org, or politifact.com. If there are images in your source, you can do a reverse image search via Google to check its validity or if it’s used elsewhere. Here’s a helpful video on how to do a reverse image search: <br>
+    [https://www.youtube.com/watch_popup?v=7eKG9RuqUE4](https://www.youtube.com/watch_popup?v=7eKG9RuqUE4 "https://www.youtube.com/watch_popup?v=7eKG9RuqUE4"){:target="_blank"}
 
-4. If survey questions need to be rewritten, students will decide as a team on the changes.
+    100: **Trace claims, quotes, and media back to the original context** - A lot of what we see on the web is a re-reporting or commentary of a story. When you see phrases like “As reported by…” or “According to…”, it can be an indication of this. Here’s a video to help navigate finding an original source: <br>
+    [https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs](https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs "https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs"){:target="_blank"}
 
-5. Once finalized, they will record the survey question/prompt that goes along with each data
-variable on their *Water Campaign* handout ([LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)), being cognizant of question bias.
+4. Now that you know how to check the credibility of sources, we will review characteristics of a participatory sensing campaign.
 
-6. <u>Round 5:</u> In teams, students will now generate three statistical questions that they might answer
-with the data they will collect and to guide their campaign. They need to make sure that their
-statistical questions are interesting and relevant to the water usage topic. They will record these
-statistical questions on their posters. Remind students that they will also have data about the date,
-time, and place of data collection.
+5. Move on to review their class created campaign from Unit 3. Using a Pair-Share strategy, ask students to discuss when a Participatory Sensing campaign should be used rather than a survey. <span style="color:grey"> Answers will vary. Research questions that include variation across time or across locations are good candidates for Participatory Sensing campaigns; therefore, a trigger is necessary in order to record observations at multiple time points and locations. If a question needs to be answered only once, then a survey is a better method. </span>
 
-7. Confirm that the questions are statistical and that they can be answered with the data the
-students propose to collect by circulating around the room to check on each team. Each team will
-decide on no more than 3 statistical questions to guide their campaign.
+6. Remind students that in the last unit, they created one campaign for the entire class. In this unit, each student team will be creating and implementing a campaign on a topic that addresses a community concern or interest.
 
-8. Now that they have all the pieces of the campaign, teams will evaluate whether their campaign is
-reasonable and ethically sound. Each team will hold a discussion on the following questions:
+7. Distribute the *Team Campaign Creation* handout ([LMR_4.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Creation Campaign.pdf)). Use the remainder of the class for students to find and review articles that will be the basis for their team participatory sensing campaigns. They will decide on a topic today and continue to create their campaigns in the next class period. Facilitate the student teams' brainstorm session by circulation around the room to check for understanding. If teams need help with finding an article and choosing a topic, you may recomend one of the following:
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Creation Campaign.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Creation Campaign.pdf)</div>
 
-    100. Are answers to your survey questions likely to *vary* when the trigger occurs? (If not, you'll
-    get bored entering the same data again and again)
+    100. Article: *3 reasons why California's drought isn't really over, despite the rain* <br> [https://www.npr.org/2023/03/23/1165378214/3-reasons-why-californias-drought-isnt-really-over-despite-all-the-rain/](https://www.npr.org/2023/03/23/1165378214/3-reasons-why-californias-drought-isnt-really-over-despite-all-the-rain/ "https://www.npr.org/2023/03/23/1165378214/3-reasons-why-californias-drought-isnt-really-over-despite-all-the-rain/"){:target="_blank"} <br> **NOTE**: This article aligns with the topic of California drought brought up in lesson 1
 
-    100. Can the team carry out the campaign?
+    100. Article: *Great Pacific Garbage Patch: The World's Biggest Landfill in the Pacific Ocean* <br> [https://science.howstuffworks.com/environmental/earth/oceanography/great-pacific-garbage-patch.htm](https://science.howstuffworks.com/environmental/earth/oceanography/great-pacific-garbage-patch.htm "https://science.howstuffworks.com/environmental/earth/oceanography/great-pacific-garbage-patch.htm"){:target="_blank"} <br> **NOTE**: This article aligns with the topic of trash brought up in lesson 2
 
-    100. Do triggers occur so rarely that you'll have very little data? Do they occur so often that
-    you'll get frustrated entering too much data?
+    100. Article: *The number of homeless people in America grew in 2023 as high cost of living took a toll* <br> [https://www.usatoday.com/story/news/nation/2023/12/15/homelessness-in-america-grew-2023/71926354007/](https://www.usatoday.com/story/news/nation/2023/12/15/homelessness-in-america-grew-2023/71926354007/ "https://www.usatoday.com/story/news/nation/2023/12/15/homelessness-in-america-grew-2023/71926354007/"){:target="_blank"}
 
-    100. Ethics: Would sharing these data with strangers or friends be embarrassing or undermine
-    someone's privacy?
+    100. Article: *COVID-19 pandemeic triggers 25% increase in prevalence of anxiety and depression worldwide* <br> [https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide](https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide "https://www.who.int/news/item/02-03-2022-covid-19-pandemic-triggers-25-increase-in-prevalence-of-anxiety-and-depression-worldwide"){:target="_blank"}
 
-    100. Can you change your trigger or survey questions to improve your evaluation?
-
-    100. Will you be able to gather enough relevant data from your survey questions to be able to
-    answer your statistical questions?
-
-9. Students have collaboratively created their Water Usage Participatory Sensing campaign. They
-will now use the Campaign Authoring tool to create a campaign like the ones they see on their
-smart devices or the computer.
-
-10. Distribute the *Campaign Authoring Instructions* handout ([LMR_4.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Campaign Authoring.pdf)). Each team will select a
-member to type the information required to create their campaign. Then, they will follow the
-instructions on the handout.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Campaign Authoring.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Campaign Authoring.pdf)</div>
-
-11. To name their campaign, a naming convention is suggested. Otherwise, you will have multiple
-campaigns with the same name. For example, teams may include their team name or number in
-order to easily identify their campaigns.
-
-12. Once their campaign is authored, students will save their work and make edits after they mock
-implement the campaign for a few days.
-
-13. They will collect data during the mock implementation of their campaign using the information
-they recorded on the *Water Campaign* handout ([LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)) and record the answers to the
-survey/prompts on paper. They will make observations about how well their campaign worked
-and what improvements or changes need to be made.
-
-14. Round 6 will be completed once students have mock-implemented their campaigns.
+8. Take time near the end of class to have student teams share out their chosen topics.
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
 
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students will collect data by mock implementing their Water Usage Participatory Sensing campaign.
+###**Homework:**
+Students will come up with at least 2 possible research questions for their participatory sensing campaign. They will come to a consensus about their research question with their team in the next class period

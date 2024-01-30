@@ -1,86 +1,65 @@
-#Unit4, Section1: Predictions and Models
-Instructional Days: 16
+#Unit4, Section1: Campaigns and Community
+Instructional Days: 5
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
-The regression line is a prediction machine. We give it an x-value, it gives us a predicted y-value. The
-regression line summarizes the trend in the data, but there may still remain variability in the dependent
-variable that is not explained by the independent variable. Although the regression line provides optimal
-predictions when the association is linear, other models are needed for when it is not linear.
+Model Eliciting Activities (MEAs) engage students in a complete modeling experience. MEAs are
+designed to make students’ thinking visible and audible by encouraging them to be metacognitive about
+the process of inventing and testing a model, ask questions as they go through the process, and
+recognize the iterative nature of modeling.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will analyze a map from the Medical Daily website. The map and its article called *How Twitter
-Can Predict Heart Disease: Negative Tweets Associated With Stress, Higher Risk Of Disease*, shows a
-side-by-side comparison of CDC heart attack deaths data and Twitter’s predicted data. They will engage
-in a discussion comparing and contrasting the visualization. The map can be found at:   
-[https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830](https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830 "https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830"){:target="_blank"}
+Students will read an excerpt from a CNN article called *Trash City: Inside America’s Largest Landfill Site*.
+This article will set the context of the real-world problem facing many cities—the growth of landfills. The
+article provides background information as well as baseline data to launch the modeling process.
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
 
-S-ID 6: Represent data on two quantitative variables on a scatter plot, and describe how the variables are
-related.
+According to the California Common Core State Standards-Mathematics (CCSS-M) Framework:
 
-<ul style="list-style-type:none">
-	<li>
-    a. Fit a function to the data; use functions fitted to data to solve problems in the context
-    of the data. <i>Use given functions or choose a function suggested by the context.
-    Emphasize linear models.</i>
-    </li>
-	<li>
-    b. Informally assess the fit of a function by plotting and analyzing residuals.
-    </li>
-	<li>
-    c. Fit a linear function for a scatter plot that suggests a linear association.
-    </li>
-</ul>
+“Modeling links classroom mathematics and statistics to everyday life, work, and decision-making.
+Modeling is the process of choosing and using appropriate mathematics and statistics to analyze
+empirical situations, to understand them better, and to improve decisions. Quantities and their
+relationships in physical, economic, public policy, social, and everyday situations can be modeled using
+mathematical and statistical methods. When making mathematical models, technology is valuable for
+varying assumptions, exploring consequences, and comparing predictions with data.
 
-S-ID 7: Interpret the slope (rate of change) and the intercept (constant term) of a linear model in the
-context of the data.
+Modeling is best interpreted not as a collection of isolated topics, but rather in relation to other standards.
+Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards
+appear throughout the high school standards indicated by a star symbol (★).”
 
-S-ID 8: Compute (using technology) and interpret the correlation coefficient of a linear fit.
+Every Statistics and Probability standard in the California CCSS-M High School Conceptual Category is
+considered a modeling standard, indicated by the star symbol; therefore, rather than listing every content
+standard individually, the modeling activities in this section are designed so that students apply the
+Statistics and Probability standards learned throughout the curriculum.
 
-S-IC 6: Evaluate reports based on data.\*
-\*This standard is woven throughout the course. It is a recurring standard for every unit.
-
-<ins>*Focus Standards for Mathematical Practice for All of Unit 4:*</ins>
-
-SMP-2: Reason abstractly and quantitatively.
+<ins>*Focus Standards for Mathematical Practice:*</ins>
 
 SMP-4: Model with mathematics.
 
-SMP-7: Look for and make use of structure.
-
 <ins>*Data Science:*</ins>
 
-Judge whether or not the linear model is appropriate. Learn to interpret a correlation coefficient in a linear
-model and interpret slope and intercept. Evaluate the strength of a linear association. Evaluate the
-potential error in a linear model.
+Students will apply the conceptual understandings learned up to this point in the curriculum.
 
 <ins>*Applied Computational Thinking using RStudio:*</ins>
 
-• Use linear regression models to predict response values based on sets of predictors.
-
-• Fit a regression line to data and predict outcomes.
-
-• Compute the correlation coefficient of a linear model.
-
-• Create a Participatory Sensing campaign using a campaign Authoring Tool.
+• Previous techniques from the curriculum will be used in order to complete the task.
 
 <ins>*Real-World Connections:*</ins>
 
-Many studies are published in which predictions are made, and media reports often cite data that make
-predictions. They involve one or more explanatory variable and a response variable, such as income vs.
-education, weight vs. exercise, and cost of insurance vs. age. Understanding linear regression helps
-evaluate these studies and reports.
+Engineers, data scientists, and statisticians, to name a few, use modeling in their everyday work. Whether
+it is for creating a scale model of a bridge or a mathematical model of force impact measures, modeling is
+an integral part of what they do in the real world.
+
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used and how to work with it.
+of data, how it is collected, how it used, and how to work with it.
 
 2. Students will engage in partner and whole group discussions and presentations to express their
 understanding of data science concepts.
 
-3. Students will use complex sentences to write informative short reports that use data science
+3. Students will use complex sentences to write a letter of recommendation that use data science
 concepts and skills.
 
 4. Students will read informative texts to evaluate claims based on data.
@@ -88,13 +67,7 @@ concepts and skills.
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 <ins>*Data File:*</ins>
 
-1. LA DWP (dwp_2010)
-
-2. Movies (movie)
-
-<ins>*Data Collection:*</ins>
-
-Students will collect data for their water usage campaign.
+1. Trash: data (trash)
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

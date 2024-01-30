@@ -1,57 +1,101 @@
-##***<u>Lab 4E - This model is big enough for all of us!</u>***
+##***<u>Lab 4E - Some models have curves</u>***
 
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
-###**Building better models**
-* So far, in the labs, we've learned how to make predictions using the *line of best fit*
+###**Making models do yoga**
+* So far, we have only worked with prediction models that fit the *line of best fit* to the data.
 
-    – Which we also call *linear models* or *regression models*.
+* What happens if the true relationship between the data is nonlinear?
 
-* We've also learned how to measure our model's prediction accuracy by cross-validation.
+* In this lab, we will learn about prediction models that fit *best fitting curves* to data.
 
-* In this lab, we'll investigate the following question:
+* <span style="color:midnightblue;">**Before moving on, load the ```movie``` data and split it into two sets:**</span>
 
-    *Will including more variables in our model improve its predictions?*
+    – <span style="color:midnightblue;">**A set named ```training``` that includes 75% of the data.**</span>
 
-###**Divide & Conquer**
+    – <span style="color:midnightblue;">**And a set named ```testing``` that includes the remaining 25%.**</span>
 
-* Start by loading the ```movie``` data and split it into two sets (See [Lab 4C](lab4c.md) for help). Remember to use ```set.seed```.
+    – <span style="color:midnightblue;">**Remember to use ```set.seed```.**</span>
 
-    – A set named ```training``` that includes 75% of the data.
+###**Problems with lines**
+* Before learning how to fit curves, let's first fit a linear model for reference.
 
-    – A set named ```testing``` that includes the remaining 25%.
+* <span style="color:midnightblue;">**Train a linear model predicting ```audience_rating``` based on ```critics_rating``` for the ```training``` data. Assign this model to ```movie_linear```.**</span>
 
-* Create a linear model, using the ```training``` data, that predicts ```gross``` using ```runtime```.
+* <span style="color:midnightblue;">**Fill in the blanks below to create a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```testing``` data.**</span>
 
-    – Compute the MSE of the model by making predictions for the ```testing``` data.
+        xyplot(____ ~ ____, data = ____)
 
-* **Do you think that a movie's ```runtime``` is the only factor that goes into how much a
-movie will make? What else might affect a movie's ```gross```?**
+* Previously, you used ```add_line``` to plot the *line of best fit*. An alternative function for plotting the *line of best fit* is ```add_curve```, which takes the name of the model as an argument.
 
-###**Including more info**
-* Data scientists often find that including more relevant information in their models leads to
-better predictions.
+* <span style="color:midnightblue;">**Run the code below to add the *line of best fit* for the ```training``` data to the plot.**</span>
 
-    – Fill in the blanks below to predict ```gross``` using ```runtime``` and ```reviews_num```.
+        add_curve(movie_linear)
 
-        lm(____ ~ ____ + ____, data = training)
+* <span style="color:firebrick;">**Describe, in words, how the line fits the data. Are there any values for ```critics_rating``` that would make obviously poor predictions?**</span>
 
-* **Does this new model make more or less accurate predictions? Describe the process
-you used to arrive at your conclusion.**
+    – Hint: how does the linear model perform on very low and very high values of ```critics_rating```?
 
-* **Write down the code you would use to include a 3rd variable, of your choosing, in
-your ```lm()```.**
+* <span style="color:firebrick;">**Compute the MSE of the linear model for the ```testing``` data and write it down for later.**</span>
 
-###**Own your own**
-* **Write down which other variables in the ```movie``` data you think would help you make
-better predictions.**
+    – Hint: refer to lab 4B.
 
-    – **Are there any variables that you think would not improve our predictions?**
+###**Adding flexibility**
+* You don't need to be a full-fledged Data Scientist to realize that trying to fit a line to curved data is a poor modeling choice.
 
-* **Create a model for all of the variables you think are relevant.**
+* If our data is curved, we should try to model it with a curve.
 
-    – **Assess whether your model makes more accurate predictions for the ```testing```   
-    data than the model that included only ```runtime``` and ```reviews_num```**
+* Instead of fitting a line, with equation of the form
 
-* **With your neighbors, determine which combination of variables leads to the best
-predictions for the ```testing``` data.**
+<center><img src="https://latex.codecogs.com/gif.latex?{y=a+bx}" title="{y=a+bx}" ></center>
+
+* we might consider fitting a *quadratic curve*, with equation of the form
+
+<center><img src="https://latex.codecogs.com/gif.latex?{y=a+bx+cx^2}" title="{y=a+bx+cx^2}" ></center>
+
+* or even a *cubic curve*, with equation of the form
+
+<center><img src="https://latex.codecogs.com/gif.latex?{y=a+bx+cx^2+dx^3}" title="{y=a+bx+cx^2+dx^3}" ></center>
+
+* In general, the more coefficients in the model, the more flexible its predictions can be.
+
+<img src="../../img/4xf0a.png" />
+
+###**Making bend-y models**
+* To fit a quadratic model in ```R```, we can use the ```poly()``` function.
+
+    – <span style="color:midnightblue;">**Fill in the blanks below to train a quadratic model predicting ```audience_rating``` from ```critics_rating```, and assign that model to ```movie_quad```.**</span>
+
+        movie_quad <- lm(____ ~ poly(____, 2), data = training)
+
+* <span style="color:firebrick;">**What is the role of the number 2 in the ```poly()``` function?**</span>
+
+###**Comparing lines and curves**
+* <span style="color:midnightblue;">**Fill in the blanks below to**</span>
+
+    – <span style="color:midnightblue;">**create a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```testing``` data, and**</span>
+
+    – <span style="color:midnightblue;">**add the *line of best fit* and *best fitting quadratic curve*.**</span>
+
+    – Hint: the ```col``` argument is added to the ```add_curve``` functions to help distinguish the two curves.
+
+        xyplot(____ ~ ____, data = ____)
+        add_curve(____, col = "blue")
+        add_curve(____, col = "red")
+
+* <span style="color:firebrick;">**Compare how the *line of best fit* and the *quadratic* model fit the data. Which do you think has a lower ```test``` MSE?**</span>
+
+* <span style="color:firebrick;">**Compute the MSE of the quadratic model for the ```test``` data and write it down for later.**</span>
+
+* <span style="color:firebrick;">**Use the difference in each model's ```test``` MSE to describe why one model fits better than the other.**</span>
+
+###**On your own**
+* <span style="color:midnightblue;">**Create a model that predicts ```audience_rating``` using a cubic curve (polynomial with degree ```3```), and assign this model to ```movie_cubic```.**</span>
+
+* <span style="color:midnightblue;">**Create a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```test``` data.**</span>
+
+* <span style="color:midnightblue;">**Using the names of the three models you have trained, add the *line of best fit*, *best fitting quadratic curve*, and *best fitting cubic curve* for the ```training data``` to the plot.**</span>
+
+* <span style="color:firebrick;">**Based on the plot, which model do you think is the best at predicting the ```testing``` data?**</span>
+
+* <span style="color:firebrick;">**Use the difference in testing MSE to verify which model is the best at predicting the ```testing data```.**</span>

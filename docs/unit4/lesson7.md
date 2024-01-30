@@ -1,113 +1,117 @@
-##***<u>Lesson 7: Statistical Predictions Using Two Variables</u>***
+##***<u>Lesson 7: Statistical Predictions Applying the Rule</u>***
 
 ###**Objective:**
-Students will learn how to predict height using arm span data - and vice versa - visually on a scatterplot.
+Students will apply the rule statisticians use to determine the best method for predicting heights for
+students at a high school.
 
 ###**Materials:**
-1. *Arm span vs. Height Scatterplot* ([LMR_4.6_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf))
+1. Each team’s rule for determining a winner (from previous lesson)
 
-    **Note:** This handout will be referenced in subsequent lessons.
+2. *A Tale of Two Rules* handout ([LMR_4.7_A Tale of Two Rules](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf))
 
-2. Assorted color markers (dry erase or overhead)—See step 3 of lesson.
+3. *Prediction Games* handout ([LMR_4.8_Prediction Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf))
 
-3. Overhead or LCD projector
+###**Vocabulary:**
+training data, testing data, mean squared error, mean absolute error, residual
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    When predicting values of a variable *y* - and if *y* is associated with *x* - then we can get
-    improved predictions by using our knowledge about *x*. We essentially “subset” the data for a given value of *x*
-    and use the mean *y* for those subset values. If the resulting means follow a trend, we can model this trend to
-    generalize to as-yet unseen values of *x*.
+    If we use the mean squared errors rule, then the mean of our current data is the best
+    prediction of future values. If we use the mean absolute errors rule, then the median of the current data is the
+    best prediction of future values
 
 ###**Lesson:**
-1. Remind students that in the previous lessons they were working with height data to predict the
-typical height of all the students at a large high school, implementing a method used by statisticians to help them make good predictions.
+1. Ask students to recall that in the previous lesson, each student team created a rule to determine
+a winner. Which team’s rules worked well for determining a winner?
 
-2. In addition to the height data, it turns out that each student’s arm span data was also collected and recorded.
+2. Remind them that in their DS Journals, they took notes about each team’s rule as they presented.
+This time, they will be switching roles – instead of creating a rule to judge the given predictions,
+they will be given a rule and it’s their job to find the best prediction to win the contest.
 
-3. Display the *Arm Span vs. Height Scatterplot* ([LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf)) on a white board or overhead projector
-(you will write on the board or the transparency later in the lesson—see step 9).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf)</div>
+3. Have students refer back to the *Heights of Students at a Large High School* handout (LMR_4.6) from the previous lesson. 
 
-4. Distribute the *Arm Span vs. Height* handout ([LMR_4.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf)). Students will refer to this handout again later in a subsequent lesson.
+4. Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the **training data** where we create a model to make predictions. Then we use the **testing data** (dataset A and dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:
 
-5. In teams, ask students to analyze the plot and discuss the following questions:
+    100. Team A used the mean.
 
-    • What kind of plot is this? <span style="color:grey">***Scatterplot.***</span>
+    100. Team B used the median.
 
-    • How many variables are displayed in this plot? <span style="color:grey">***Two variables.***</span>
+    100. Team C used the third quartile.
 
-    • Which variable is shown on the x-axis? On the y-axis? <span style="color:grey">***Arm span is shown on the x-axis and height is shown on the y-axis.***</span>
+5. In the previous lesson, you created your own rules to determine the winner. Today, you will learn rules that statisticians and data scientists use. The first is called the **mean squared error** rule. <br> **Teacher note**: acknowledge any groups who came up with MSE or MAE on their own in the previous lesson.
 
-    • What is this plot showing? <span style="color:grey">***It is showing the relationship between a person’s height and the person’s corresponding arm span measurement.***</span>
+6. An "*error*" is the difference between our prediction and the actual outcome and is sometimes called a "residual". The mean squared error is also called:
 
-    • How can I find out the height of the person whose arm span measures 68 inches? <span style="color:grey">***Find 68 on the x-axis. Then find the data point located at 68. Place finger on the data point and track its location on the y-axis. The height is also 68 inches.***</span>
+    100. Mean squared deviation
 
-6. Using Talk Moves, conduct a class discussion of the questions in step 5.
+    100. Mean squared residual
 
-7. Remind students that we’ve learned that the mean is the best way of predicting heights. The
-mean heights of these people is 64 inches.
+    100. Residual sum of squares
 
-8. Ask the students: Do you think we can do better? Is 64 a good prediction for someone whose arm
-span is 72”? What about 60”? How can you come up with a rule for determining the best
-predicted height *if you know the person’s arm span?*
+    The formula looks like this, where <img src="https://latex.codecogs.com/gif.latex?\hat{x}" title="\hat{x}" /> is the prediction: <center><img src="https://latex.codecogs.com/gif.latex?MSE=\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" title="\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" /></center>
 
-    **<u>Note to teacher:</u>** Lead students to realize that they can do this by “subsetting” the data for the fixed *x* value. For example, if arm span is 60, they should consider only the heights of people whose arm span is 60 and find the mean.
+    Using this formula, the teams' scores are determined by finding the average of the squared differences between their predictions and the actual values. The winner is the team with the lowest mean squared error.   
 
-9. In teams, ask students to approximate the mean height for people whose arm span is 60, 64, 68, and 72.
+7. Let’s use R to do the heavy lifting for us. Demonstrate how to find the mean squared error by typing the following commands in the console (throughout the process, show what is happening in the Environment and the dataframe):
+        #First, let's create a vector of the heights in our first dataset:
+        height <- c(70.1, 61, 70.1, 68.1, 63, 66.1, 61, 70.1, 72.8, 70.9)
+        
+        #Next, convert this vector into a dataframe:
+        datasetA <- data.frame(height)
+        
+        #Now we find the residuals using one of the statistics.
+        #For this example, we'll use the first quartile from the training data (65 inches): 
+        datasetA <- mutate(datasetA, residual=height-65)
+        
+        #Next, we will square each residual:
+        datasetA <- mutate(datasetA, sq_res=residual^2)
+        #Finally, we use the mean function to sum up the squared residuals
+        #and divide by 10 to find our mean squared deviation:
+        mean(~sq_res, data=datasetA)
+    
+    This process gives us the mean squared error of 22.05.
 
-    **<u>Note:</u>** Because the plot does not clearly show duplicate ordered pairs, an approximation is sufficient at this point. You may have students use RStudio to calculate the mean height for the specific armspans. Refer to the OPTIONAL section at the end of the lesson.
+    **<u>Note to teacher:</u>** The value of the mean squared error will always be in square units. In order to convert back to the original units, simply take the square root of the mean squared error. <br> Interpretation: When using the Q1 height to make predictions about all heights, our predictions will typically be off by <img src="https://latex.codecogs.com/gif.latex?\inline&space;\sqrt{22.05}=4.6957" title="\sqrt{22.05}=4.6957" /> inches.
 
-10. Then plot these points on the graph. We will use this later – the points should be roughly along a straight line. <span style="color:grey">***These arm spans have a range of height values associated with them. Students may take a mean of the heights, but answers may vary.***</span>
+8. Distribute the *A Tale of Two Rules* handout ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf)</div>
 
-11. Ask students if they see any patterns or rules they can use from this to help with predictions.
-Because there were multiple height values associated with each arm span length, you will likely get multiple answers from students. The goal now is to come up with a rule that suggests a
-plausible height value for anyone with a particular arm span.
+9. Let's see how well our teams' predictions did on the heights of the testing data. Students will work in teams to answer: Using the mean squared errors, which statistic is the winner? Discuss which statistic made the best predictions in all three games.
 
-12. A sentence starter to guide students: If a person has a bigger arm span, then we should predict<u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>[a bigger height]. If time permits, you might push them to be more precise. Let’s take someone who has a 60 inch arm span. You predicted a height of <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>. How much should we increase our prediction for people with a 62 inch arm span? Can you do this without subsetting the data and re-calculating?
+    <span style="color:grey">***Answers:***</span>
 
-13. Conceptually, students are wrestling with the notion of the slope of the regression line but there’s no need to point this out just yet. Important: The equation of the line of best fit will be revealed in [Lesson 10](lesson10.md).
+    <img src="../../img/40606b.png" />
 
-    **OPTIONAL FOR ITEM 9**
-    If you want to obtain the exact mean height for each arm span value in step 9, copy the code below and run it in an RScript.
+    **<u>Note to teacher:</u>** Explain that the mean/ Team A was the winner of this contest. Data scientists (and
+    mathematicians) can prove that the mean will **always** work best (except in a few weird cases
+    from time to time). So if you want to predict the future, the mean is the best single guess you can
+    make.
 
-        xyplot(height~armspan, data = arm_span, 
-            scales = list(x = list(at = seq(58, 72, 1)), y = list(at = seq(52, 72, 1))), 
-            xlab = "Arm span (inches)", ylab = "Height (inches)")
+10. Ask: What if another data science class has a best rule that is different from ours?
 
-        armspan_60 <- filter(arm_span, armspan==60)
-        mean(~height, data = armspan_60)
-        #62.66667
+11. Another agreed upon method that data scientists and statisticians often use is the **mean
+absolute error**. It’s unlikely that students will figure this out on their own. The reasons why we do
+it in statistics can be proven mathematically but it's beyond the scope of this course. The mean absolute error is expressed as (where <align><img src="https://latex.codecogs.com/svg.image?\hat{x}"&space;" title="\hat{x}" " /></align> stands for the predicted value): <center><img src="https://latex.codecogs.com/gif.latex?MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" title="MAE=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\hat{x}|}{n}" ></center>
 
-        armspan_64 <- filter(arm_span, armspan==64)
-        mean(~height, data = armspan_64)
-        #64
+12. Explain that each team will now use the statisticians’ method for declaring a winner. Display the
+mean absolute error formula and discuss what each symbol means.
 
-        armspan_68 <- filter(arm_span, armspan==68)
-        mean(~height, data = armspan_68)
-        #68
+13. Using our previous examples, recalculate your predictions using the MAE.
 
-        armspan_72 <- filter(arm_span, armspan==72)
-        mean(~height, data = armspan_72)
-        #71.5
+14. Using the mean absolute error, which statistic/ team is the winner?
 
-        #Base R Code
-        #syntax to create a scatterplot using base R
-        plot(arm_span$armspan, arm_span$height)
+    <span style="color:grey">***Answers:***</span>
 
-        #Points function in base R is more user friendly
-        points(60, 62.6667, col = "red", cex = 2)
-        points(64, 64, col = "red", cex = 2)
-        points(68, 68, col = "red", cex = 2)
-        points(72, 71.5, col = "red", cex = 2)
+    <img src="../../img/40612.png" />
+
+    **<u>Note to teacher:</u>** Explain that in this instance, the median/ Team B is the “winner.” This means that the
+    way you play the game depends on the rules of the game. If we used squared errors, play
+    with the mean. If we use the mean absolute error (MAE), play with the median.
+
+15. Optional practice: Students can practice finding the mean squared deviation and mean absolute error using the mean and median with the *Prediction Games* handout ([LMR_4.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf)). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf)</div>
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
-
-###<p style="background: black; color: white; text-align: center;">**Homework & Next 2 Days**</p>
-[<u>***LAB 4A: If the Line Fits…***</u>](lab4a.md)
-
-[<u>***LAB 4B: What’s the Score?***</u>](lab4b.md)
-
-Complete [Labs 4A](lab4a.md) and [4B](lab4b.md) prior to [Lesson 8](lesson8.md).
+One team of students will give a brief talk to discuss what they think the 3 most important topics of the
+day were.

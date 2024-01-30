@@ -1,73 +1,71 @@
-#Unit4, Section3: The Growth of Landfills
+#Unit4, Section3: Piecing it Together
 Instructional Days: 5
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
-Model Eliciting Activities (MEAs) engage students in a complete modeling experience. MEAs are
-designed to make students’ thinking visible and audible by encouraging them to be metacognitive about
-the process of inventing and testing a model, ask questions as they go through the process, and
-recognize the iterative nature of modeling.
+Real-life phenomena are often complex. Data scientists use multiple regression models to create simple
+equations to help explain and predict these phenomena. Data scientists can also use polynomial
+transformations to add flexibility to rigid linear models.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will read an excerpt from a CNN article called *Trash City: Inside America’s Largest Landfill Site*.
-This article will set the context of the real-world problem facing many cities—the growth of landfills. The
-article provides background information as well as baseline data to launch the modeling process.
+Students will read the article titled *How Long Can a Spinoff Like Better Call Saul Last?* that will set the
+context for students to begin thinking about more than one explanatory variable to make better
+predictions. The article can be found at:<br>
+[http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
 
-According to the California Common Core State Standards-Mathematics (CCSS-M) Framework:
+S-ID 6: Represent data on two quantitative variables on a scatter plot, and describe how the variables are
+related.
 
-“Modeling links classroom mathematics and statistics to everyday life, work, and decision-making.
-Modeling is the process of choosing and using appropriate mathematics and statistics to analyze
-empirical situations, to understand them better, and to improve decisions. Quantities and their
-relationships in physical, economic, public policy, social, and everyday situations can be modeled using
-mathematical and statistical methods. When making mathematical models, technology is valuable for
-varying assumptions, exploring consequences, and comparing predictions with data.
-
-Modeling is best interpreted not as a collection of isolated topics, but rather in relation to other standards.
-Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards
-appear throughout the high school standards indicated by a star symbol (★).”
-
-Every Statistics and Probability standard in the California CCSS-M High School Conceptual Category is
-considered a modeling standard, indicated by the star symbol; therefore, rather than listing every content
-standard individually, the modeling activities in this section are designed so that students apply the
-Statistics and Probability standards learned throughout the curriculum.
-
-<ins>*Focus Standards for Mathematical Practice:*</ins>
-
-SMP-4: Model with mathematics.
+<ul style="list-style-type:none">
+	<li>
+    a. Fit a function to the data; use functions fitted to data to solve problems in the context
+    of the data. <i>Use given functions or choose a function suggested by the context.
+    Emphasize linear models.</i>
+    </li>
+</ul>
 
 <ins>*Data Science:*</ins>
 
-Students will apply the conceptual understandings learned up to this point in the curriculum.
+Understand that multiple regression can be a better tool for predicting that simple linear regression and
+know when it is appropriate to use multiple regression versus simple linear regression. Understand when
+linear models are not appropriate based on the shape of the scatterplot.
 
 <ins>*Applied Computational Thinking using RStudio:*</ins>
 
-• Previous techniques from the curriculum will be used in order to complete the task.
+• Use multiple linear regression models with other predictor variables
+
+• Fit regression lines to data and predict outcomes.
+
+• Create non-linear models to look for relationships.
+
+• Fit polynomials functions to data.
 
 <ins>*Real-World Connections:*</ins>
 
-Engineers, data scientists, and statisticians, to name a few, use modeling in their everyday work. Whether
-it is for creating a scale model of a bridge or a mathematical model of force impact measures, modeling is
-an integral part of what they do in the real world.
-
+Economists and marketing firms use multiple regression to predict changes in the market and adjust
+strategies to fit the demands of changes in the marketplace.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used, and how to work with it.
+of data, how it is collected, how it used and how to work with it.
 
 2. Students will engage in partner and whole group discussions and presentations to express their
 understanding of data science concepts.
 
-3. Students will use complex sentences to write a letter of recommendation that use data science
-concepts and skills.
-
-4. Students will read informative texts to evaluate claims based on data.
+3. Students will read informative texts to evaluate claims based on data.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
+<ins>*Data Set:*</ins>
+
+1. NFL data set
+
+2. USMNT data set
+
 <ins>*Data File:*</ins>
 
-1. Trash: data (trash)
+3. Movies: data(movie)
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

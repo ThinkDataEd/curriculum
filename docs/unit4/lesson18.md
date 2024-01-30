@@ -1,126 +1,118 @@
-##***<u>Lesson 18: Grow Your Own Decision Tree</u>***
+##***<u>Lesson 18: Where Do I Belong?</u>***
 
 ###**Objective:**
-Students will learn what decision trees look like and how they can be used to classify people or objects into groups. They will engage in an activity to see how making slight changes to the tree can lead to drastic rises or reductions in misclassifications.
+Students will learn what clustering is and how to classify groups of people into clusters based on unknown similarities.
 
 ###**Materials:**
-1. *CART Activity Player Stats* ([LMR_4.19_CART Player Stats](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Player Stats.pdf))
-
-2. *CART Activity Round 1 Questions* ([LMR_4.20_CART Round 1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Round 1.pdf))
-
-3. *CART Activity Round 2 Questions* ([LMR_4.21_CART Round 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 2.pdf))
-
-    **Advanced preparation required** (see Step 8 below)
+1. *Find the Clusters* handout ([LMR_4.24_Find the Clusters](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf))
 
 ###**Vocabulary:**
-classify, decision tree, Classification and Regression Trees (CART), nodes, misclassifications
+clustering, cluster, k-means
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    Some trends are not linear, so the approaches we’ve done so far won’t be helpful.
-    We need to model such trends differently. Decision trees are a non-linear tool for classifying observations into groups when the trend is non-linear.
+    We can identify groups, or “clusters,” in data based on a few characteristics. For
+    example, it is easy to classify a classroom into males and females, but what if you only knew each person’s arm span? How well could you classify their genders now?
 
 ###**Lesson:**
-1. Inform students that, during today’s lesson, they will be participating in an activity to try to **classify** professional athletes into one of two groups: (1) soccer players on the US Men’s National Team, OR (2) football players in the National Football League (NFL).
+1. Inform the students that they will continue to explore different types of models, and today they will be focusing on **clustering**. Clustering is the process of grouping a set of objects (or people) together in such a way that people in the same group (called a **cluster**) are more similar to each other than to those in other groups.
 
-2. Remind students that this unit has focused on linear models and making predictions. In the real world, data can be modeled in a variety of ways, many of which are non-linear, and because of this, we can’t easily write down a mathematical equation to help us make predictions. However, we can use what we have learned so far to determine whether or not other models can provide a good fit to the data.
+2. Have the students recall that, in the previous lessons, they used decision trees and CART to classify people into different groups based on whether or not a person had a specific
+characteristic (e.g., whether or not a professional athlete’s team is based in the US).
 
-3. Introduce the topic of **decision trees** and explain that it is simply a non-linear way to model data.
+3. But, sometimes we don’t know what these specific characteristics are. We are simply given
+numerical variables and asked to find similarities. This is where clustering comes in – similar people will congregate towards each other, and we want to see if we can identify their groupings.
 
-4. Explain that decision trees are “grown” by using algorithms, or rules, to test many, many different decision trees to find the one that makes the best predictions.
+4. We will look at a very basic example first. Suppose the following 6 observations are given:
 
-5. A decision tree is basically a series of questions that are asked sequentially. Observations start by answering the first question (at the root of the tree), and then proceed along the different branches based on the answers they give to the questions that follow. At the end, based on all of the questions asked, observations are then classified as one of *k* classifications.
+    | **Obs** | **X<sub>1</sub>** | **X<sub>2</sub>** |
+    |-----|---------------|---------------|
+    | 1 | 160 | 74 |
+    | 2 | 165 | 72 |
+    | 3 | 165 | 74 |
+    | 4 | 175 | 68 |
+    | 5 | 180 | 70 |
+    | 6 | 185 | 72 |
 
-6. Remind students that algorithms are a series of steps that are repeated a large number of times. For decision trees, this enables us to (1) explore many possible paths, beginning from the same initial point, or (2) find different starting points based on where we ended during the previous iteration.
+5. Plot the X<sub>1</sub> and X<sub>2</sub> points on a scatterplot either on the board or on poster paper (X<sub>1</sub> can be on the horizontal axis and X<sub>2</sub> can be on the vertical axis). The graph should look like the one below:
 
-7. Ask students to recall that they created and worked with *linear models* earlier in the unit. We are continuing our work with models and will learn another method of modeling called **CART**, which stands for **Classification and Regression Trees**. This is another name for decision trees.
+    <img src="../../img/42005.png" />
 
-8. CART Activity: to get a sense of how decision trees work, the students will see one in action. We are going to try to classify 15 professional athletes into either soccer or football players based on some of their characteristics.
+6. Ask students if they think there are any clusters, or groups, that stand out to them. It is likely that they will say there are 2 clusters in the graph: the top left corner 3 points, and the bottom right 3 points.
 
-    **<u>Note:</u>** Advanced preparation required. The cards in each of the LMRs listed above (and displayed below) need to be cut out prior to class time.
+7. Now pose the following scenario that further describes the data:
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Player Stats.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Player Stats.pdf)</div>
+    100. A doctor provides yearly physicals to the men’s football and men’s swimming teams at a local high school.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Round 1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Round 1.pdf)</div>
+    100. He has collected data over the past few years on each player’s weight (in pounds) and
+    height (in inches). He informs us that weight was coded as the variable X<sub>1</sub>, and height was coded as the variable X<sub>2</sub>. You can re-label the scatterplot with this new information.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 2.pdf)</div>
+        <img src="../../img/42007.png" />
 
-9. Ask for 15 volunteers and hand each of them a data card from the *CART Activity Player Stats* handout ([LMR_4.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Player Stats.pdf)). These students will be known as the “players.” Each card lists the following variables for 15 different professional athletes:
+    100. Unfortunately, the doctor never recorded what sport each person played.
 
-    a. team location
+8. Using the information about height and weight, ask the students to decide:
 
-    b. name
+    100. Which group of points most likely represents players from the swimming team? <span style="color:grey">***The points in the upper left corner are probably swimmers because swimmers are usually tall (and have large arm spans) and thin.***</span>
 
-    c. age
+    100. Which group of points most likely represents players from the football team? <span style="color:grey">***The points in the bottom right corner are probably football players because they tend to be heavier and more muscular.***</span>
 
-    d. height (in inches)
+9. Now suppose a new player comes into the doctor’s office for a physical. His weight and height are recorded as 166 pounds and 73 inches, respectively, but the doctor forgets to ask what sport he plays. Plot this point on the graph and ask students to determine which sport they think this student plays. <span style="color:grey">***This student is most likely a swimmer because he is tall and thin, and his point is near the swimming cluster.***</span><img src="../../img/42009.png" />
 
-    e. weight (in pounds)
+10. That was an easy one! But what if a player comes in and has the following measurements: weight = 173 pounds, height = 73 inches?
 
-    f. league
+11. Distribute the *Find the Clusters* handout ([LMR_4.24](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf)) and tell the students that the new point has been added to the “Round 1” graph.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.24](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf)</div>
 
-10. The “players” will only be allowed to say “yes” or “no” in this activity. No other talking is permitted.
+12. Ask students:
 
-11. Now, ask for 7 additional volunteers to be the ***nodes***, or *leaves*, on the decision tree. Each student will be known as a “leaf.”
+    100. On which team do you think this person plays? <span style="color:grey">***It is much more difficult to tell now because it looks like it is right in between the two clusters.***</span>
 
-12. Distribute one question/classification from the *CART Activity Round 1 Questions* ([LMR_4.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Round 1.pdf)) to each “leaf.”
+13. In order to determine group placement, we can use an algorithm called **k-means clustering**. With this method, we select k clusters that we want to identify. Since we know we only have 2 types of athletes, football players and swimmers, we will be finding k = 2 clusters.
 
-13. Arrange the 7 “leaves” in the room as depicted by the graphic below:
-<img src="../../img/41813.png" />
+14. To introduce the students to this idea, circle the 3 points in the upper left corner (the ones that are likely the swimmers) and have students find the “mean point.” This means that they should find the mean x-value and the mean y-value of the 3 points. They can then plot this new point and use it as the mean of this particular group, or cluster.
 
-14. Now, each “player,” one at a time, will approach *Leaf 1*, who will ask the “player” the question listed on his/her card. Depending on the player’s answer, *Leaf 1* will direct the “player” to the next “leaf.”
+15. The goal of this algorithm is to keep recalculating means as the possible clusters change. To begin, we will randomly pick 2 arbitrary points on the plot (we can call them A and B) to be our starting means for each cluster. There is no incorrect way to pick the starting means, but the further away the means are from the actual points, the longer it will take the algorithm to complete. If you would like to use the point found in Step 14 and label it as “A,” that is completely fine. You can simply pick just one other random point and label it as “B.”
 
-15. The “player” continues through the nodes until a “leaf” declares the “player” to be either (1) a soccer player on the US Men’s National Team, OR (2) a football player in the National Football League (NFL).
+16. For now, we will start with the following two points as guesses for the means of each group: A: (170, 70) and B: (175, 74). In the “Round 1” plot on the *Find the Clusters* handout, each student should plot and label these two points.
 
-16. Allow all the “players” to go through the “leaves” until each one is classified as either a soccer or football player.
+    <img src="../../img/42016.png" />
 
-17. After each player has been classified, tally the number of correct and incorrect classifications and display a simple table (see example below) on the board.
+17. Inform the students that they will be drawing lines from each original point to both means. Then, they will decide if the point is closer to mean A or mean B and label the point with that letter. Lines have been draw from the top left point to the means in the plot below as a guide. You can draw this on the board as a reference for the students as well.
 
-    | |**Classified Correctly**| **Classified Incorrectly**|
-    |------|------|------|
-    |**USMNT Soccer Player**| ?| ?|
-    |**NFL Football Player**| ?| ?| 
+    <img src="../../img/42017.png" />
 
-18. Ask students to calculate the misclassification rate (MCR) which is the proportion of observations who were predicted to be in one category but were actually in another. If all the activity player stats cards were used, the misclassification rate would be 5/15.
+18. Since the line to point A is smaller, we would classify that point as being in cluster A (as shown below).
 
-19. After proceeding through “Round 1,” ask an additional 5 students to come up as more “leaves,” distribute the cards from the CART Activity Round 2 Questions file ([LMR_4.21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 2.pdf)), and arrange the students like the diagram below:
-<img src="../../img/41819.png" />
+    <img src="../../img/42018.png" />
 
-20. Have each “player” go through this new set of “leaves” until they are re-classified by these new rules.
+19. The students should draw similar lines for every point on the graph and make a decision as to which cluster each belongs in. They can simply eyeball it. Even if they guess incorrectly, the algorithm should be able to find the correct groups after some time. The correct classifications for Round 1 are as follows:
 
-21. Again, tally the number of correct and incorrect classifications and display them on the board and calculate the misclassification rate. If all the activity player stats cards were used, the misclassification rate would be 3/15.
+    <img src="../../img/42019.png" />
 
-22. Once the activity has been completed, ask students the following questions:
+20. Once the class has agreed on the first round’s cluster classifications, they should compute new values for the k-means (A and B). For mean A, they simply need to find the mean x-value for the 4 points and the mean y-value for the 4 points. The new means for A and B have been calculated below. The students should be calculating these on their own and recording their new means on the handout.
 
-    100. How do decision trees classify objects/people as being a member of a group? <span style="color:grey">***By asking a series of questions, one at a time, and sending the participant down a particular path until he/she is classified.***</span>
+    x-value for A = (160 + 165 + 165 + 175)/4 = 166.25
 
-    100. Did we do as well, worse, or better in Round 2 compared to Round 1 at correctly
-    guessing which sport the “players” participate in? Explain. <span style="color:grey">***Answers will vary according to results of the activity.***</span>
+    y-value for A = (74 + 72 + 74 + 68)/4 = 72
 
-    100. How can we figure out what questions to ask and in what order to minimize the number of **misclassifications**? (This one might not be obvious. The point is for the students to wrestle with how they might think it can be done.)
+    x-value for B = (173 + 180 + 185)/3 = 179.3
 
-23. Also have the students discuss the following questions:
+    y-value for B = (73 + 70 + 72)/3 = 71.67
 
-    100. How is a decision tree/CART similar to or different than a linear model?
-    
-    100. Can we really call a decision tree a model? Why or why not?
+    new A = (166.25, 72)
 
-24. In [lab 4G](lab4g.md) you will use RStudio to create tree models that will make good predictions without needing a lot of branches. RStudio can also calculate the misclassification rate. However, you might find the visual a little confusing to interpret, so we will use the Round 2 classification tree to see what the output from RStudio might look like.
-<img src="../../img/41824.png" />
+    new B = (179.3, 71.67)
 
-25. Project the image above and explain to the students that if all 15 of the activity player stats cards were used, then RStudio would give ratios for each of the leaves where a classification was made. The denominator tells us how many observations ended up in that leaf and the numerator tells us the number of misclassifications. Ask students:
-
-    100. What does the output 3/9 represent? <span style="color:grey">***Answer: The 9 tells us that nine players were classified as NFL players based solely on the fact that they were taller than 74 inches. The 3 represents soccer players that were misclassified so 6 football players were classified correctly.***</span>
-    
-    100. How would you calculate the misclassification rate (MCR)? <span style="color:grey">***Answer: You would add all of the numerators which represent the misclassifications and divide by the total number of observations which you could obtain by adding all the denominators. (3+0+0)/(9+1+5)=3/15.***</span>
+21. Have the students continue working through the handout until the cluster membership remains the same between 2 consecutive rounds. This means that, from one iteration to the next, the points in each cluster do not change.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
 
-###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students will record their responses to the following discussion questions about CARTs and submit them the following day:
+###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
+Write a paragraph that describes k-means clustering in your own words.
 
-a. How is a decision tree/CART similar to or different than a linear model?
+[<u>***LAB 4H: Finding Clusters***</u>](lab4h.md)
 
-b. Can we really call a decision tree a model? Why or why not?
+Complete [Lab 4H](lab4h.md) prior to [Lesson 21](lesson21.md).

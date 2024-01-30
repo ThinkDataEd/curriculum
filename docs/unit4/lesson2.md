@@ -1,96 +1,79 @@
-##***<u>Lesson 2: Exploring Water Usage</u>***
+##***<u>Lesson 2: Trash</u>***
 
 ###**Objective:**
-Students will engage in exploratory data analysis with a Los Angeles Department of Water and Power
-(DWP) data set and begin the creation of a water usage Participatory Sensing campaign to observe
-patterns of water use in their neighborhoods.
+Students will learn about reducing the burden of trash landfills.
 
 ###**Materials:**
-1. *Exploring the DWP Data* ([LMR_4.1_Exploring DWP Data](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Exploring DWP Data.pdf))
+1. Video: *Fighting Pollution Through Video* found at:<br>
+    [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"}
+    
+    <div align="right"><iframe width="420" height="315"
+    src="https://www.youtube.com/watch?v=xOYAIXjHveA" allowfullscreen>
+    </iframe><br><a href="https://www.youtube.com/watch?v=xOYAIXjHveA">https://www.youtube.com/watch?v=xOYAIXjHveA</a></div>
 
-2. *Water Campaign* ([LMR_4.2_Water Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf))
+2. *Landfill Readiness Questions* handout ([LMR_4.1_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf))
 
-3. Poster paper
+3. *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration ](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf))
 
-4. Markers
-
-5. Class Created Campaign Information (from [Unit 3](../unit3/overview.md), [Lessons 17](../unit3/lesson17.md)-[19](../unit3/lesson19.md))
+4. *Trash Campaign Creation* handout ([LMR_4.3_Trash Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf))
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    Exploring different datasets can give us insight about the same processes. Information
-    from an official dataset compared with a participatory sensing dataset can yield more information than one
-    dataset alone. Research questions provide an overall direction to make comparisons between datasets.
+    Exploring different datasets can give us insight about the same processes. Information from an official dataset compared with a participatory sensing dataset can yield more information than one dataset alone.
 
 ###**Lesson:**
-1. Display the DWP data using RStudio. In pairs, ask students to recall what each of the variables
-mean.
+1. Inform students that they will investigate a problem that faces many cities in the United States today: trash.
 
-2. Next, ask student teams to refer back to the statistical questions they generated in the previous lesson - they will need it for the data exploration.
+2. Using the 5 Ws strategy, ask students to write down the 5 Ws in their DS journals as they watch a video about trash. The 5 Ws summarize the What, Who, Why, When, and Where of the resource.
 
-3. Distribute the *Exploring the DWP Data* handout ([LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Exploring DWP Data.pdf)). In their teams, allow students about
-20-30 minutes to explore the DWP data set and complete the handout.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Exploring DWP Data.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Exploring DWP Data.pdf)</div>
+3. Play the Fighting Plastic Pollution Through Data video, found at: [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"} <br> **NOTE**: While the video is just over 13 minutes long, students should be able to answer the 5 Ws from the content of the firt 10 minutes.
 
-4. After students have had time to explore the DWP data, conduct a whole class discussion based
-on the following (answers will vary based on student teams’ data exploration):
+4. After they have finished watching the video, engage in a class discussion around the following questions and discuss their insights, questions, and/or reactions to the video:
 
-    `1. What were some interesting findings?
+    100. What types of data did they collect in the video? <span style="color:grey">***Answer: Photos, location, brand names, weight (kg), waste categories (plastic bags, straws, toothpaste, etc), and number of packaging.***</span>
 
-    `2. Which number statistics provided you information to help answer the research
-    question?
+    100. How are they useful in fighting plastic pollution? <span style="color:grey">***Answer: Brand accountability, community involvement, cleaning rivers/ dumping sites, and finding sources of pollution.***</span>
 
-    `3. Which plots gave you some insights into Los Angeles’ water usage?
+5. Now we'll take inventory of our own understanding of landfills and how trash travels there. Distribute the *Landfill Readiness Questions* handout ([LMR_4.1_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf)). Allow students private think-time before having them discuss in their teams.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf)</div>
 
-    `4. Based on your findings and by citing evidence from your analysis, what would you
-    say about how water is being used in Los Angeles and who is using it?
+6. Let students now that they will be exploring data from a trash Participatory Sensing campaign, titled the “Trash Campaign,” that was conducted at a number of high schools in the Los Angeles Unified School District (LAUSD).
 
-5. To prepare for the creation of the Participatory Sensing campaign, ask students to discuss the
-following in their teams:
+7. Concerned students in LAUSD engaged in a model eliciting activity and created a trash participatory sensing campaign to investigate possible trash issues in their communities. Based on the data collected, they made recommendations to the Los Angeles County Sanitation District (LACSD) that would help reduce the use of the regional landfills.
 
-    100. How do you think water usage has changed since 2010?
+8. Distribute the *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)) to assist in students' interaction with the IDS public dashboard.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)</div>
 
-    100. What sectors do you think have changed the most?
+9. Navigate students will to the IDS public dashboard:
+[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
-6. Now that students have an idea about water usage in Los Angeles based on the DWP 2010 data
-exploration, inform them that they will create a water usage campaign. The research question fro
-this campaign is:
+10. They should use the “Trash” campaign data and select “Dashboard” from the “Action” button.
 
-    **How can we save water in our neighborhood?**
+11. The dashboard is a visual tool for exploring and analyzing data. An example screenshot of the Trash campaign in the dashboard is shown below. <img src="../../img/41509.png" />
 
-7. Quickly review their class campaign from Unit 3; placing emphasis on the trigger and at how the
-data they decided to collect answers the research question.
+12. Students should “play” with the data and think about characteristics of the campaign. Answers to the questions in LMR_4.2 are provided here for reference:
 
-8. Distribute the *Water Campaign* handout ([LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)). Ask students to notice that Rounds 1 and 2
-are completed. Their task is to design the rest of the campaign by completing the remaining
-rounds.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)</div>
+    100. How many observations are in this data set? <span style="color:grey">***Answer: 2,631.***</span>
 
-9. <u>Round 3:</u> Allow student teams a reasonable amount of time to engage in a *Brainstorm*, in which
-they will discuss what kind of data needs to be collected in order to answer this research question
-and when is the best time to trigger the data collection/completion of the survey. Before they
-begin, ask students to keep the following question in mind: Which of these data will give us
-information that addresses our research question?
+    100. Where was the majority of trash generated? <span style="color:grey">***Answer: School (1,254).***</span>
 
-10. Facilitate the student teams’ *Brainstorm* session by circulating around the room to check for
-understanding. If teams need help with deciding which data they should collect, you may ask
-them to ponder the following:
+    100. How many observations were generated at school? At work? <span style="color:grey">***Answer: School has 1,254 and Work has 59..***</span>
 
-    100. What are some water sources?
+    100. What material or item was most commonly thrown away? <span style="color:grey">***Answer: Recyclable (1,302) or Paper (477).***</span>
 
-    100. What do we use water for?
+    100. Between what hours is the largest percentage of trash generated at home? <span style="color:grey">***Answer: Between 2100 and 2200, which is 9pm to 10pm (106).***</span>
 
-    100. Where might we see water as we walk around our neighborhoods?
+    100. Which activity generates the largest percentage of landfill-destined trash? <span style="color:grey">***Answer: Eating/cooking with 69.02% (822/1,191).***</span>
 
-    100. What would you consider wasted water?
-    
-    100. What are some uses of water that cannot be avoided?
+    100. Is eating or drinking more likely to generate a recyclable piece of trash? <span style="color:grey">***Answer: Drinking, because it resulted in 480 recyclables versus Eating resulted in 399 recyclables, out of 1,302 total.***</span>
 
-11. Ask students to record the information from each round on poster paper - in this lesson, Rounds
-1-3.
+    100. When recycle bins were present, did a higher proportion of recyclable items end up in the trash bin when people were at home or at school? <span style="color:grey">***Answer: School (134/225) had a higher proportion of recyclable items end up in the trash than Home (76/225).***</span>
 
-12. Inform students that they will be completing Rounds 4 and 5 during the [next lesson](lesson3.md).
+    100. When someone littered, how many times was the person not arround any type of waste receptacle? <span style="color:grey">***Answer: 15 out of 58.***</span>
+
+13. Take time at the end of class to share out and discuss the components of the Trash Campaign. If needed, you may use the *Trash Campaign Creation* handout ([LMR_4.3_Trash Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf)) as an additional resource to help with the distribution of the Trash Campaign.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf)</div>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.

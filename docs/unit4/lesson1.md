@@ -1,178 +1,64 @@
-##***<u>Lesson 1: Water Usage</u>***
+##***<u>Lesson 1: Drought</u>***
 
 ###**Objective:**
-Students will compare and contrast an official data set versus a Participatory Sensing data set. They will
-begin to analyze an official data set from 2010 provided by the Los Angeles Department of Water and
-Power (DWP) to help them understand how water was used in the Los Angeles area in the recent past,
-before the drought.
+Students will learn about the cause of California droughts and its effect on other states.
 
 ###**Materials:**
-1. *Video: California Drought Crisis Reaches Worst Level as It Spreads North*<br> [https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516"){:target="_blank"}
+1. *Article: California, 'America's garden', is drying out* <br> [https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/](https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/ "https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/"){:target="_blank"}
 
-    OR [http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "http://web.archive.org/web/20170505192356/http://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516"){:target="_blank"}
-    
-	<div align="right"><iframe width="420" height="315"
-	src="https://www.nbcnews.com/news/embedded-video/mmvo42767429933" allowfullscreen>
-	</iframe><br><a href="https://www.nbcnews.com/news/embedded-video/mmvo42767429933">https://www.nbcnews.com/news/embedded-video/mmvo42767429933</a></div>
-
-2. *Webpage: Twitter vs. Heart Disease* Webpage (Found at: <br> [https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830](https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830 "https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830"){:target="_blank"} 
-)
-
-3. Class Created Campaign Information (from [Unit 3](../unit3/overview.md), [Lessons 17](../unit3/lesson17.md)-[19](../unit3/lesson19.md))
-
-###**Vocabulary:**
-census
+2. US drought data interactive map <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Data can be used to make predictions. Official data sets rely on censuses or random
-    samples and can be used to make generalizations. On the other hand, data from Participatory Sensing
-    campaigns are not random and rely on the sensors, in our case, humans, to be gathered and limits the ability to
-    generalize.
+    Exploring different datasets can give us insight about the same processes. Information from an official dataset compared with a participatory sensing dataset can yield more information than one dataset alone.
 
 ###**Lesson:**
-1. Ask students to recall that statistics are used to make predictions about population parameters.
+1. Begin the lesson with the quote: “The consequences of drought in California are felt well outside the state’s borders. California is effectively America’s garden – it produces two-thirds of all fruits and nuts grown in the U.S.”
 
-2. Project the map found on the Medical Daily website. Inform students that Twitter data was
-compared to CDC heart disease deaths data on side-by-side maps. Using a *Think, Pair, Share*
-ask students to discuss:
+2. Using the K-L-W strategy in their DS journals, give students a couple of minutes to write what they Know about droughts.
 
-    100. What is the source of the data on each map? <span style="color:grey">***A: Tweets as predicted by Twitter
-    and heart attacks as listed on a death certificate and recorded by the CDC.***</span>
+3. Then, students will write what they Learned about the California drought as they read the article titled California, ‘America’s garden’, is drying up. The article is found at: <br> [https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/](https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/ "https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/"){:target="_blank"}
 
-    100. What do the colors on the map mean? <span style="color:grey">***A: On the spectrum from green to red,
-    green means fewer deaths by heart attack and red means a greater number of
-    deaths by heart attacks.***</span>
+4. Finally, they will write 2-3 questions about what they Want to know/learn about droughts.
 
-    100. How are the maps the same? How are they different?
+5. Do a quick Whip Around to share some of the students’ responses to the K-L-W.
 
-    100. How reliable are the methods used to report these data? <span style="color:grey">***A: In the case of the CDC
-    data, we have verifiability (death certificates). On the other hand, the Twitter
-    data predicts based on a person’s word.***</span>
+6. Next, load an interactive map of US drought data by visiting: <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
 
-    100. How scalable are the methods and can they be generalized? <span style="color:grey">***A: Official data sets
-    are usually censuses or random samples; they address things at a high level.
-    Participatory Sensing or, in this case the Twitter data, is not random, but
-    addresses things at a personal or local level; however, because it is not a
-    census nor a random sample, it is difficult to be precise about uncertainty or
-    ability to generalize.***</span>
+7. Lead a discussion about what is on the page. Ask:
 
-3. Quickly share student responses to the discussion. Then, inform them that this unit focuses on
-data to make predictions.
+    100. What do the colors and percentages on the legend mean? <span style="color:grey">***Answer: The color is the drought type (Abnormally Dry, Moderate Drought, etc.) and the percentage is the percentage of area of the U.S. that is that type of drought.***</span>
 
-4. Set the context for the next three lessons. Inform students that they will be delving into the topic
-of water usage. In California, water usage is extremely important, given that the state has been in
-an exceptional drought in the second decade of the 21<sup>st</sup> century.
+    100. What do the colors, percentages, and years on the graph mean? <span style="color:grey">***Answer: The colors correspond to the drought type (as mentioned in the previous question), the percentages correspond to the percentage of area of the U.S. that is that type of drought (as mentioned in the previous question), and the years signify the dates for which the data is available.***</span>
 
-5. Using the K-L-W strategy in their DS journals, give students a couple of minutes to write what
-they *Know* about droughts. Then, students will write what they *Learned* about the California
-drought as they watch the brief NB News video clip titled *California Drought Crisis Reaches Worst
-Level as It Spreads North*. Finally, they will write 2-3 questions about what they *Want* to
-know/learn about droughts. Video clip is found at: [https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516](https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516 "https://www.nbcnews.com/storyline/california-drought/california-drought-crisis-reaches-worst-level-it-spreads-north-n169516"){:target="_blank"}.
+    100. What information are the map and graph displaying? <span style="color:grey">***Answer: The map tells us the areas of drought and the graph tells us percentages of drought over time.***</span>
 
-6. Do a quick *Whip Around* to share some of the students’ responses to the *K-L-W*.
+    100. Which date is selected by default and what percent of the US is in *Exceptional Drought* that day?? <span style="color:grey">***Answer: July 10, 2012 and 0.62% is in Exceptional Drought.***</span> <br> **NOTE**: Hover your cursor over the graph to line up with the date to see types of drought and their percentages.
 
-7. Inform students that they will be learning about water usage in their own neighborhoods. The
-LADWP data provides information at a high level about some (most) neighborhoods in L.A.
-Students will investigate how they can learn more using participatory sensing. In statistics, the
-Data Cycle provides a process by which we can learn about or investigate a particular topic of
-interest. To review the components of the Data Cycle, give students two minutes to Quick Sketch
-each phase of the cycle in their DS Journals.
+8. Then click on a new date to update the map. Ask:
 
-8. After students have had an opportunity to do their sketches, display the Data Cycle graphic below
-to review it:
+    100. What date did you choose? <span style="color:grey">***Answers will vary.***</span>
 
-    <img style="max-width:320px;" src="../../img/2xp0a.png" />
+    100. What information is the map displaying? <span style="color:grey">***Answers will depend on the chosen date above.***</span>
 
-9. Next, review their class created campaign from [Unit 3](../unit3/overview.md). Using a Pair-Share strategy, ask students
-to discuss when a Participatory Sensing campaign should be used rather than a survey. <span style="color:grey">***A:
-Answers will vary. Research questions that include variation across time or across
-locations are good candidates for Participatory Sensing campaigns; therefore, a <u>trigger</u> is
-necessary in order to record observations at multiple time points and locations. If a
-question needs to be answered only once, then a survey is a better method.***</span>
+    100. Which states are affected by drought? <span style="color:grey">***Answers will depend on the chosen date above.***</span> <br> **NOTE**: You can click on a state to display its name.
 
-10. Remind students that in the last unit, they created one campaign for the entire class. In this unit,
-each student team will be creating and implementing a campaign on the topic of water usage.
+9. Then click on the Combine States option, choose a state, and click Combine. Ask:
 
-11. Before they start creating their campaign, they are going to explore an official data set provided by the Los Angeles Department of Water and Power (DWP) to learn more about water usage in
-the Los Angeles area. Some students may receive services from the DWP.
+    100. What information is the map displaying now? <span style="color:grey">***Answers will vary but students should see the chosen state as the new map.***</span>
 
-12. Explain how the data were collected:
+    100. What else do you see? <span style="color:grey">***Answers will depend on the chosen state above.***</span>
 
-    * The data you will see reflects the water usage in Los Angeles in the fiscal year that
-    began in 2010 (July 2010-June 2011). At this time, L.A. was entering a drought, but
-    water conservation efforts had not yet begun.
+    100. What are some wonderings you have about the data? <span style="color:grey">***Answers will vary.***</span> <br> **NOTE**: There are multiple options here. You can choose to display multiple states by adding another state (or states) and choosing Combine. You can also designate a specific time period in the Time Series Options.
 
-    * The DWP supplies water to businesses and addresses within its boundaries. It records
-    the amount of water delivered to each address each month. For privacy purposes, it
-    doesn't report how much water a single address uses.
+10. Now that they know the overall layout of the interactive map and its options, ask student teams to generate two statistical investigative questions about the data. Allow them time to explore the interactive map to help guide their thinking. Below are two examples of possible statistical investigative questions:
 
-    * Instead, it combines these into neighborhoods. These neighborhoods are defined by the
-    U.S. Census and called Census Blocks. A census block is usually one, sometimes two,
-    square blocks.
+    100. For the US, what date had the greatest land percentage of drought?
 
-    * The DWP reports separate water usage figures for businesses, government structures
-    (such as schools), and residences. For privacy purposes, this data set eliminated any
-    Census Block that had fewer than 15 addresses.
+    100. Which US state had the least land percentage of drought in 2020?
 
-    * Water use is reported in Hundreds of Cubic Feet (HCF) per month (one HCF is about 748
-    gallons). Display the picture below, which shows a truck that holds about 6 HCF, so
-    students can get a sense of the amount of water as reported.
-
-    <img src="../../img/40112.png" />
-
-13. Load and display the DWP data set in RStudio using the command **data(dwp_2010)**. Then,
-expand the spreadsheet (<img src="../../img/40113.png" />) and explain what each variable in the data set means (they may
-want to record these in their DS journals):
-
-    100. census = census block
-
-    100. sector_type = category of facility
-
-    100. longitude, latitude = GPS coordinates for center of census block location
-
-    100. census_pop = population of census block (number of water users)
-
-    100. total = total number of HFCs used by sector type per block in 2010
-
-    100. july through june = number of HFCs used by sector type per 
-    
-    100. count = number of facilities per census block for that sector type
-
-14. Next, load an interactive map of the DWP 2010 data by visiting:<br>
-    [https://labs.idsucla.org/extras/animations/watermap/watermap.html](https://labs.idsucla.org/extras/animations/watermap/watermap.html "https://labs.idsucla.org/extras/animations/watermap/watermap.html"){:target="_blank"}
-
-15. Lead a discussion about what is on the page. Ask:
-
-    100. What do the colors and percentages on the legend mean?
-
-    100. What trends do you see?
-
-16. Then click on a marker (circle) to show the popup. Ask:
-
-    100. What information is the popup displaying?
-
-    100. How is the popup displaying the information?
-
-17. Then, click on the Size by census_pop circle under the legend. Ask:
-
-    100. What do you notice about the markers?
-
-    100. What is the size of each marker telling us?
-
-    100. What else do you see?
-
-18. Now that they know what the variables mean, ask student teams to generate two statistical
-questions about the data. Below are three examples of possible statistical questions:
-
-    100. What month uses the most water?
-
-    100. Typically, how much water do residences consume during that month?
-
-    100. Does this change if you factor in the number of people living in that census block?
-
-19. If time permits, conduct a share-out of the teams’ statistical questions.
+11. If time permits, conduct a share-out of the teams' statistical investigative question. <br> **NOTE**: The interactive map has a download data feature that allows customization/ filtering of US drought data. Keep this in mind as an option for students who may be interested in this topic.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the

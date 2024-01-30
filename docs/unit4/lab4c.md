@@ -1,7 +1,8 @@
 ##***<u>Lab 4C - Cross-Validation</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
 
-###**Predictions**
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
+
+###**What is cross-validation?**
 * In the previous two labs, we learned how to:
 
     – Create a linear model predicting ```height``` from the ```arm_span``` data (4A).
@@ -27,19 +28,19 @@ population once every 10 years, for example.
 * Instead of waiting for new observations, data scientists will take their current data and divide
 it into two distinct sets.
 
-* Split the ```arm_span``` data into ```training``` and ```testing``` data sets using the following steps.
+* <span style="color:midnightblue;">**Split the ```arm_span``` data into ```training``` and ```test``` sets using the following two steps.**</span>
 
-* First, fill in the blanks below to randomly select which rows of ```arm_span``` will go into the ```training``` set.
+* <span style="color:midnightblue;">**First, fill in the blanks below to randomly select which rows of ```arm_span``` will go into the ```training``` set.**</span>
 
         set.seed(123)
         train_rows <- sample(1:____, size = 85)
 
-* Second, use the ```slice``` function to create two dataframes: one called ```train``` consisting of the ```train_rows```, and another called ```test``` consisting of the remaining rows of ```arm_span```.
+* <span style="color:midnightblue;">**Second, use the ```slice``` function to create two dataframes: one called ```train``` consisting of the ```train_rows```, and another called ```test``` consisting of the remaining rows of ```arm_span```.**</span>
 
         train <- slice(arm_span, ____)
         test <- slice(____, - ____)
 
-* **Explain these lines of code and describe the ```train``` and ```test``` data sets.**
+* <span style="color:firebrick;">**Explain these lines of code and describe the ```train``` and ```test``` datasets.**</span>
 
 ###**Aside: set.seed()**
 * When we split data, we're randomly separating our observations into *training* and *testing*
@@ -63,12 +64,12 @@ our data so that we can build a good model.
 
     – This is why we kept 85 observations in our ```training``` data.
 
-* As data sets grow larger, we can use a larger proportion of the data to *test* with.
+* As datasets grow larger, we can use a larger proportion of the data to ```test``` with.
 
 ###**Step 2: train the model**
 * Step 2 is to create a linear model relating ```height``` and ```armspan``` using the ```training``` data.
 
-* Fit a line of best fit model to our ```training``` data and assign it the name ```best_train```.
+* <span style="color:midnightblue;">**Fit a line of best fit model to our ```training``` data and assign it the name ```best_train```.**</span>
 
 * Recall that the slope and intercept of our linear model are chosen to minimize MSE.
 
@@ -82,22 +83,22 @@ our data so that we can build a good model.
 * Because we're using the *line of best fit*, we can use the ```predict()``` function we introduced in
 the [last lab](lab4b.md) to make predictions.
 
-    – Fill in the blanks below to add predicted heights to our ```test``` data:
+    – <span style="color:midnightblue;">**Fill in the blanks below to add predicted heights to our ```test``` data:**</span>
 
         test <- mutate(test, ____ = predict(best_train, newdata = ____))
 
 * Hint: the ```predict``` function without the argument ```newdata``` will output predictions on the ```training``` data. To output predictions on the ```test``` data, supply the ```test``` data to the ```newdata``` argument.
 
-* **Calculate the MSE in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).**
+* <span style="color:midnightblue;">**Calculate the *test MSE* in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).**</span>
 
 ###**Recap**
 * Another way to describe the three steps is
 
-* Step 1: Split the data into ```training``` and ```test``` sets.
+    - Step 1: Split the data into ```training``` and ```test``` sets.
 
-* Step 2: Choose a slope and intercept that minimize training MSE.
+    - Step 2: Choose a slope and intercept that minimize training MSE.
 
-* Step 3: Using the same slope and intercept from step 2, make predictions on the ```test``` set, and use these predictions to compute test MSE.
+    - Step 3: Using the same slope and intercept from step 2, make predictions on the ```test``` set, and use these predictions to compute test MSE.
 
 * This begs the question, why do we care about test MSE?
 
@@ -119,15 +120,15 @@ the [last lab](lab4b.md) to make predictions.
 
 * We randomly select 7 points from the ```arm_span``` dataset and fit two models: a linear model, and a *polynomial model*.
 
-    – You will learn how to fit a polynomial model in lab 4F.
+    – You will learn how to fit a polynomial model in the next lab.
 
 * Below is a plot of these 7 ```training``` points, and two curves representing the value of height each model would predict given a value of armspan.
 
 <img src="../../img/4xc0b.png" />
 
-* **Which model does a better job of predicting the 7 ```training``` points?**
+* <span style="color:firebrick;">**Which model does a better job of predicting the 7 ```training``` points?**</span>
 
-* **Which model do you think will do a better job of predicting the rest of the data?**
+* <span style="color:firebrick;">**Which model do you think will do a better job of predicting the rest of the data?**</span>
 
 ###**Example of overfitting, continued**
 
@@ -135,4 +136,4 @@ the [last lab](lab4b.md) to make predictions.
 
 <img src="../../img/4xc0c.png" />
 
-* **Which model does a better job of generalizing to the rest of the ```arm_span``` dataset?**
+* <span style="color:firebrick;">**Which model does a better job of generalizing to the rest of the ```arm_span``` dataset?**</span>
