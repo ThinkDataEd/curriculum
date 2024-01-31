@@ -34,7 +34,7 @@ Students will learn about the cause of California droughts and its effect on oth
 
     100. What information are the map and graph displaying? <span style="color:grey">***Answer: The map tells us the areas of drought and the graph tells us percentages of drought over time.***</span>
 
-    100. Which date is selected by default and what percent of the US is in *Exceptional Drought* that day?? <span style="color:grey">***Answer: July 10, 2012 and 0.62% is in Exceptional Drought.***</span> <br> **NOTE**: Hover your cursor over the graph to line up with the date to see types of drought and their percentages.
+    100. Which date is selected by default and what percent of the US is in *Exceptional Drought* that day?? <span style="color:grey">***Answer: July 10, 2012 and 0.62% is in Exceptional Drought.***</span> <br> **NOTE**: If you used a different link other than was listed here, you may have a different default date. In order to see the types of droughts and their percentages, hover your cursor over the graph to line up with the date.
 
 8. Then click on a new date to update the map. Ask:
 
