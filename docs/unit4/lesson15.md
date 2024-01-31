@@ -5,7 +5,7 @@ Students will learn that we can make better predictions by including more variab
 with how the information should be combined.
 
 ###**Materials:**
-1. *Advertising Plots Part 2* handout ([LMR_4.13_Advertising Plots 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf)) from [Lesson 12](lesson12.md)
+1. *Advertising Plots Part 2* handout ([LMR_4.7_A Tale of Two Rules](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf)) from [Lesson 12](lesson12.md)
 
 ###**Essential Concepts:**
 
@@ -17,7 +17,7 @@ with how the information should be combined.
 
     <img src="../../img/41212.png" />    
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf)</div>
 
     100. Combining multiple variables (e.g., money spent on TV and Newspaper ads, TV and
     Radio ads, TV, Radio, and Newspaper ads, etc.) into one model will lead to worse
@@ -52,7 +52,7 @@ Newspaper ads, etc.)
 
         <img src="../../img/41210.png" />
 
-    100. Does the predicted value (10.407) seem like a plausible number of sales? Why? <span style="color:grey">***It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 104,070 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
+    100. Does the predicted value (10.407) seem like a plausible number of sales? Why? <span style="color:grey">***It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 104,070 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
 
 7. Reveal that RStudio calculated the mean absolute error for different combinations plus the single models, and the results are displayed on the table below. This means that, for example, when using the TV model to predict number of items sold, our predictions will typically be off by about 2.337808 (in 10,000s) of units or 23,378 units. Then ask students:
 

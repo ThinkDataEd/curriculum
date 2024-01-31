@@ -172,37 +172,37 @@
 
 ##**IDS_LMR_Unit 4_v_6.0**	
 
-[LMR_4.1_Exploring DWP Data.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Exploring DWP Data.pdf)
+[LMR_4.5_Campaign Authoring.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Campaign Authoring.pdf)
 
-[LMR_4.2_Water Campaign.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Water Campaign.pdf)
+[LMR_4.2_Trash Campaign Exploration.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)
 
-[LMR_4.3_Campaign Authoring.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Campaign Authoring.pdf)
+[LMR_4.3_Trash Campaign Creation.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf)
 
-[LMR_4.4_HS Student Heights.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_HS Student Heights.pdf)
+[LMR_4.6_HS Student Heights.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_HS Student Heights.pdf)
 
-[LMR_4.5_Prediction Games.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Prediction Games.pdf)
+[LMR_4.8_Prediction Games.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf)
 
-[LMR_4.6_Arm Span vs Height.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.6_Arm Span vs Height.pdf)
+[LMR_4.9_Arm Span vs Height.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)
 
-[LMR_4.7_What’s the Trend.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_What’s the Trend.pdf)
+[LMR_4.12_What’s the Trend.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.12_What’s the Trend.pdf)
 
-[LMR_4.8_Strength of Association.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Strength of Association.pdf)
+[LMR_4.14_Strength of Association.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Strength of Association.pdf)
 
-[LMR_4.9_The Spaghetti Line.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_The Spaghetti Line.pdf)
+[LMR_4.10_The Spaghetti Line.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.10_The Spaghetti Line.pdf)
 
-[LMR_4.10_Predicting Values.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.10_Predicting Values.pdf)
+[LMR_4.13_Predicting Values.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Predicting Values.pdf)
 
-[LMR_4.11_Correlation Coefficient.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Correlation Coefficient.pdf)
+[LMR_4.15_Correlation Coefficient.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf)
 
-[LMR_4.12_Advertising Plots 1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.12_Advertising Plots 1.pdf)
+[LMR_4.4_Team Creation Campaign.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Creation Campaign.pdf)
 
-[LMR_4.13_Advertising Plots 2.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Advertising Plots 2.pdf)
+[LMR_4.7_A Tale of Two Rules.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf)
 
-[LMR_4.14_Describe the Association.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Describe the Association.pdf)
+[LMR_4.16_Describe the Association.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Describe the Association.pdf)
 
-[LMR_4.15_Landfill Article.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Landfill Article.pdf)
+[LMR_4.11_Testing Line of Best Fit.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf)
 
-[LMR_4.16_Landfill Readiness Questions.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.16_Landfill Readiness Questions.pdf)
+[LMR_4.1_Landfill Readiness Questions.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf)
 
 [LMR_4.17_Landfill Activity.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Landfill Activity.pdf)
 
