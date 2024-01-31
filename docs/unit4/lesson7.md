@@ -54,6 +54,7 @@ they will be given a rule and it’s their job to find the best prediction to wi
     Using this formula, the teams' scores are determined by finding the average of the squared differences between their predictions and the actual values. The winner is the team with the lowest mean squared error.   
 
 7. Let’s use R to do the heavy lifting for us. Demonstrate how to find the mean squared error by typing the following commands in the console (throughout the process, show what is happening in the Environment and the dataframe):
+
         #First, let's create a vector of the heights in our first dataset:
         height <- c(70.1, 61, 70.1, 68.1, 63, 66.1, 61, 70.1, 72.8, 70.9)
         
