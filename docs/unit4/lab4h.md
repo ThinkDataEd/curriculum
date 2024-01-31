@@ -1,5 +1,6 @@
 ##***<u>Lab 4H - Finding clusters</u>***
-Directions: Follow along with the slides and answer the questions in **bold** font in your journal.
+
+Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Clustering data**
 * We've seen previously that data scientists have methods to predict values of specific
@@ -23,12 +24,12 @@ clusters.
 
 * The algorithm works *only* for numerical variables and *only* when we have no missing data.
 
-* To start, use the ```data``` function to load the ```futbol``` data set.
+* <span style="color:midnightblue;">**To start, use the ```data``` function to load the ```futbol``` data set.**</span>
 
     – This data contains 23 players from the US Men's National Soccer team (USMNT)
     and 22 quarterbacks from the National Football League (NFL).
 
-* Create a scatterplot of the players ```ht_inches``` and ```wt_lbs``` and color each dot based on the ```league``` they play for.
+* <span style="color:midnightblue;">**Create a scatterplot of the players ```ht_inches``` and ```wt_lbs``` and color each dot based on the ```league``` they play for.**</span>
 
 ###**Running k-means**
 * After plotting the player's heights and weights, we can see that there are two clusters, or
@@ -37,13 +38,13 @@ different types, of players:
     – Players in the NFL tend to be taller and weigh more than the shorter and lighter
     USMNT players.
 
-* Fill in the blanks below to use k-means to cluster the same height and weight data into two
-groups:
+* <span style="color:midnightblue;">**Fill in the blanks below to use k-means to cluster the same height and weight data into two
+groups:**</span>
 
         kclusters(____~____, data = futbol, k = ____)
 
-* Use this code and the mutate function to add the values from ```kclusters``` to the ```futbol```
-data. Call the variable ```clusters```.
+* <span style="color:midnightblue;">**Use this code and the ```mutate``` function to add the values from ```kclusters``` to the ```futbol```
+data. Call the variable ```clusters```.**</span>
 
 ###**k-means vs. ground-truth**
 * In comparing our football and soccer players, we *know* for certain which league each player
@@ -53,17 +54,17 @@ plays in.
 
 * Knowing the *ground-truth* for this example is helpful to illustrate how k-means works, but in reality, data-scientists would run k-means not knowing the *ground-truth*.
 
-* **Compare the clusters chosen by k-means to the ground-truth. How successful was k-means
-at recovering the ```league``` information?**
+* <span style="color:firebrick;">**Compare the clusters chosen by k-means to the ground-truth. How successful was k-means
+at recovering the ```league``` information?**</span>
 
 ###**On your own**
-* Load your class' ```timeuse``` data (remember to run ```timeuse_format``` so each row represents the mean time each student spent participating in the various activities).
+* <span style="color:midnightblue;">**Load your class' ```timeuse``` data (remember to run ```timeuse_format``` so each row represents the mean time each student spent participating in the various activities).**</span>
 
-* Create a scatterplot of ```homework``` and ```videogames``` variables.
+* <span style="color:midnightblue;">**Create a scatterplot of ```homework``` and ```videogames``` variables.**</span>
 
-    – Based on this graph, identify and remove any outliers by using the ```subset``` function.
+    – <span style="color:midnightblue;">**Based on this graph, identify and remove any outliers by using the ```filter``` function.**</span>
 
-* Use ```kclusters``` with ```k=2``` for ```homework``` and ```videogames```.
+* <span style="color:midnightblue;">**Use ```kclusters``` with ```k=2``` for ```homework``` and ```videogames```.**</span>
 
-    – **Describe how the groups differ from each other in terms of how long each
-    group spends playing ```videogames``` and doing ```homework```.**
+    – <span style="color:firebrick;">**Describe how the groups differ from each other in terms of how long each
+    group spends playing ```videogames``` and doing ```homework```.**</span>
