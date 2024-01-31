@@ -6,10 +6,6 @@ Students will learn about reducing the burden of trash landfills.
 ###**Materials:**
 1. Video: *Fighting Pollution Through Video* found at:<br>
     [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"}
-    
-    <div align="right"><iframe width="420" height="315"
-    src="https://www.youtube.com/watch?v=xOYAIXjHveA" allowfullscreen>
-    </iframe><br><a href="https://www.youtube.com/watch?v=xOYAIXjHveA">https://www.youtube.com/watch?v=xOYAIXjHveA</a></div>
 
 2. *Landfill Readiness Questions* handout ([LMR_4.1_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf))
 
