@@ -3506,12 +3506,11 @@
   <h1>LAB 4F: This Model Is Big Enough for All of Us</h1>
 
 <h2 id="lab-4f-this-model-is-big-enough-for-all-of-us"><strong><em><u>Lab 4F - This model is big enough for all of us!</u></em></strong></h2>
-<p>Directions: Follow along with the slides and answer the questions in <strong>bold</strong> font in your journal.</p>
+<p>Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;"><strong>blue</strong></span> on your computer, and answering the questions in <span style="color:firebrick;"><strong>red</strong></span> in your journal.</p>
 <h3 id="building-better-models"><strong>Building better models</strong></h3>
 <ul>
 <li>
-<p>So far, in the labs, we've learned how to make predictions using the <em>line of best fit</em></p>
-<p>– Which we also call <em>linear models</em> or <em>regression models</em>.</p>
+<p>So far, in the labs, we've learned how to make predictions using the <em>line of best fit</em>, also knowns as <em>linear models</em> or <em>regression models</em>.</p>
 </li>
 <li>
 <p>We've also learned how to measure our model's prediction accuracy by cross-validation.</p>
@@ -3524,17 +3523,20 @@
 <h3 id="divide-conquer"><strong>Divide &amp; Conquer</strong></h3>
 <ul>
 <li>
-<p>Start by loading the <code>movie</code> data and split it into two sets (See <a href="../lab4c/">Lab 4C</a> for help). Remember to use <code>set.seed</code>.</p>
-<p>– A set named <code>training</code> that includes 75% of the data.</p>
-<p>– A set named <code>testing</code> that includes the remaining 25%.</p>
+<p><span style="color:midnightblue;"><strong>Start by loading the <code>movie</code> data and split it into two sets (See <a href="../lab4c/">Lab 4C</a> for help).</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>A set named <code>training</code> that includes 75% of the data.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>A set named <code>testing</code> that includes the remaining 25%.</strong></span></p>
+<ul>
+<li><span style="color:midnightblue;"><strong>Remember to use <code>set.seed</code>.</strong></span></li>
+</ul>
 </li>
 <li>
-<p>Create a linear model, using the <code>training</code> data, that predicts <code>gross</code> using <code>runtime</code>.</p>
-<p>– Compute the MSE of the model by making predictions for the <code>testing</code> data.</p>
+<p><span style="color:midnightblue;"><strong>Create a linear model, using the <code>training</code> data, that predicts <code>gross</code> using <code>runtime</code>.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>Compute the MSE of the model by making predictions for the <code>testing</code> data.</strong></span></p>
 </li>
 <li>
-<p><strong>Do you think that a movie's <code>runtime</code> is the only factor that goes into how much a
-movie will make? What else might affect a movie's <code>gross</code>?</strong></p>
+<p><span style="color:firebrick;"><strong>Do you think that a movie's <code>runtime</code> is the only factor that goes into how much a
+movie will make? What else might affect a movie's <code>gross</code>?</strong></span></p>
 </li>
 </ul>
 <h3 id="including-more-info"><strong>Including more info</strong></h3>
@@ -3542,34 +3544,34 @@ movie will make? What else might affect a movie's <code>gross</code>?</strong></
 <li>
 <p>Data scientists often find that including more relevant information in their models leads to
 better predictions.</p>
-<p>– Fill in the blanks below to predict <code>gross</code> using <code>runtime</code> and <code>reviews_num</code>.</p>
+<p>– <span style="color:midnightblue;"><strong>Fill in the blanks below to predict <code>gross</code> using <code>runtime</code> and <code>reviews_num</code>.</strong></span></p>
 <pre><code>lm(____ ~ ____ + ____, data = training)
 </code></pre>
 </li>
 <li>
-<p><strong>Does this new model make more or less accurate predictions? Describe the process
-you used to arrive at your conclusion.</strong></p>
+<p><span style="color:firebrick;"><strong>Does this new model make more or less accurate predictions? Describe the process
+you used to arrive at your conclusion.</strong></span></p>
 </li>
 <li>
-<p><strong>Write down the code you would use to include a 3rd variable, of your choosing, in
-your <code>lm()</code>.</strong></p>
+<p><span style="color:firebrick;"><strong>Write down the code you would use to include a 3rd variable, of your choosing, in
+your <code>lm()</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="own-your-own"><strong>Own your own</strong></h3>
 <ul>
 <li>
-<p><strong>Write down which other variables in the <code>movie</code> data you think would help you make
-better predictions.</strong></p>
-<p>– <strong>Are there any variables that you think would not improve our predictions?</strong></p>
+<p><span style="color:firebrick;"><strong>Write down which other variables in the <code>movie</code> data you think would help you make
+better predictions.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Are there any variables that you think would not improve our predictions?</strong></span></p>
 </li>
 <li>
-<p><strong>Create a model for all of the variables you think are relevant.</strong></p>
-<p>– <strong>Assess whether your model makes more accurate predictions for the <code>testing</code> <br />
-data than the model that included only <code>runtime</code> and <code>reviews_num</code></strong></p>
+<p><span style="color:midnightblue;"><strong>Create a model for all of the variables you think are relevant.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Assess whether your model makes more accurate predictions for the <code>testing</code> <br />
+data than the model that included only <code>runtime</code> and <code>reviews_num</code></strong></span></p>
 </li>
 <li>
-<p><strong>With your neighbors, determine which combination of variables leads to the best
-predictions for the <code>testing</code> data.</strong></p>
+<p><span style="color:firebrick;"><strong>With your neighbors, determine which combination of variables leads to the best
+predictions for the <code>testing</code> data.</strong></span></p>
 </li>
 </ul>
 
