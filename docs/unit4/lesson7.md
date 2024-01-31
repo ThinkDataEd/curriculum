@@ -12,11 +12,11 @@ students at a high school.
 3. *Prediction Games* handout ([LMR_4.8_Prediction Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf))
 
 ###**Vocabulary:**
-[training data](../../vocabulary/unit3/#training-data ""){ .md-button }
-[testing data](../../vocabulary/unit3/#testing-data ""){ .md-button }
-[mean squared error](../../vocabulary/unit3/#mean-squared-error "tells you how close a regression line is to a set of points; is determined by finding the average of the squared differences between your guess and the actual values"){ .md-button }
-[mean absolute error](../../vocabulary/unit3/#mean-absolute-error "the amount of error in your measurements; it is the difference between the measured value adn the "true" value"){ .md-button }
-[residual](../../vocabulary/unit3/#residual ""){ .md-button }
+[training data](../../vocabulary/unit4/#training-data ""){ .md-button }
+[testing data](../../vocabulary/unit4/#testing-data ""){ .md-button }
+[mean squared error](../../vocabulary/unit4/#mean-squared-error "tells you how close a regression line is to a set of points; is determined by finding the average of the squared differences between your guess and the actual values"){ .md-button }
+[mean absolute error](../../vocabulary/unit4/#mean-absolute-error "the amount of error in your measurements; it is the difference between the measured value adn the "true" value"){ .md-button }
+[residual](../../vocabulary/unit4/#residual "the difference between our prediction and the actual outcome; also called an "error""){ .md-button }
 
 ###**Essential Concepts:**
 

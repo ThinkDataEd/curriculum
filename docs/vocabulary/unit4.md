@@ -3,6 +3,10 @@
 !!! note ""
     an official count or survey of a population, typically recording various details of individuals
 
+### residual
+!!! note ""
+    the difference between our prediction and the actual outcome; also called an "error"
+
 ### rule
 
 !!! note ""
