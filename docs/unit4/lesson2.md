@@ -19,7 +19,7 @@ Students will learn about reducing the burden of trash landfills.
     Exploring different datasets can give us insight about the same processes. Information from an official dataset compared with a participatory sensing dataset can yield more information than one dataset alone.
 
 ###**Lesson:**
-1. Inform students that they will investigate a problem that faces many cities in the United States today: trash.
+1. Inform students that they will investigate a problem that faces many cities around the world today: trash.
 
 2. Using the 5 Ws strategy, ask students to write down the 5 Ws in their DS journals as they watch a video about trash. The 5 Ws summarize the What, Who, Why, When, and Where of the resource.
 
