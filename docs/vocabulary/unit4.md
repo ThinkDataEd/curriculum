@@ -8,7 +8,7 @@
 !!! note ""
     a set way to calculate or solve a problem
 
-### mean squared deviation
+### mean squared error
 
 !!! note ""
     tells you how close a regression line is to a set of points; is determined by finding the average of the squared differences between your guess and the actual values
