@@ -2,10 +2,7 @@
 Instructional Days: 5
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
-Model Eliciting Activities (MEAs) engage students in a complete modeling experience. MEAs are
-designed to make students’ thinking visible and audible by encouraging them to be metacognitive about
-the process of inventing and testing a model, ask questions as they go through the process, and
-recognize the iterative nature of modeling.
+Model-Eliciting Activities (MEAs) are posed as open-ended problems that are designed to challenge students to build models in order to solve complex, real-world problems. They may be used to engage students in statistical reasoning and provide a means to better understand students' thinking.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
 Students will read an excerpt from a CNN article called *Trash City: Inside America’s Largest Landfill Site*.
