@@ -98,4 +98,4 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:firebrick;">**Based on the plot, which model do you think is the best at predicting the ```testing``` data?**</span>
 
-* <span style="color:firebrick;">**Use the difference in testing MSE to verify which model is the best at predicting the ```testing data```.**</span>
+* <span style="color:firebrick;">**Use the test MSE to verify which model is the best at predicting the ```testing``` data.**</span>
