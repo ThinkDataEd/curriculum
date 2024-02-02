@@ -12,10 +12,10 @@ students at a high school.
 3. *Prediction Games* handout ([LMR_4.8_Prediction Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf))
 
 ###**Vocabulary:**
-[training data](../../vocabulary/unit4/#training-data ""){ .md-button }
-[testing data](../../vocabulary/unit4/#testing-data ""){ .md-button }
+[training data](../../vocabulary/unit4/#training-data "a random subset consisting of about 75-85% of the original dataset on which a model is trained"){ .md-button }
+[testing data](../../vocabulary/unit4/#testing-data "a random subset consisting of about 15-25% of the original dataset on which a model is tested"){ .md-button }
 [mean squared error](../../vocabulary/unit4/#mean-squared-error "tells you how close a regression line is to a set of points; is determined by finding the average of the squared differences between your guess and the actual values"){ .md-button }
-[mean absolute error](../../vocabulary/unit4/#mean-absolute-error "the amount of error in your measurements; it is the difference between the measured value adn the "true" value"){ .md-button }
+[mean absolute error](../../vocabulary/unit4/#mean-absolute-error "the amount of error in your measurements; it is the difference between the measured value and the "true" value"){ .md-button }
 [residual](../../vocabulary/unit4/#residual "the difference between our prediction and the actual outcome; also called an "error""){ .md-button }
 
 ###**Essential Concepts:**
@@ -35,7 +35,7 @@ they will be given a rule and it’s their job to find the best prediction to wi
 
 3. Have students refer back to the *Heights of Students at a Large High School* handout (LMR_4.6) from the previous lesson. 
 
-4. Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the **training data** where we create a model to make predictions. Then we use the **testing data** (dataset A and dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:
+4. Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the **training data** where we train a model to make predictions. Then we use the **testing data** (dataset A and dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:
 
     100. Team A used the mean.
 
@@ -71,13 +71,18 @@ they will be given a rule and it’s their job to find the best prediction to wi
         
         #Next, we will square each residual:
         datasetA <- mutate(datasetA, sq_res=residual^2)
-        #Finally, we use the mean function to sum up the squared residuals
-        #and divide by 10 to find our mean squared deviation:
+        #Finally, we use the mean function to:
+        #sum up the squared residuals and divide by 10 to find our mean squared deviation:
         mean(~sq_res, data=datasetA)
     
     This process gives us the mean squared error of 22.05.
 
     **<u>Note to teacher:</u>** The value of the mean squared error will always be in square units. In order to convert back to the original units, simply take the square root of the mean squared error. <br> Interpretation: When using the Q1 height to make predictions about all heights, our predictions will typically be off by <img src="https://latex.codecogs.com/gif.latex?\inline&space;\sqrt{22.05}=4.6957" title="\sqrt{22.05}=4.6957" /> inches.
+
+    Here is the vector of heights for Dataset B:
+
+        heightB <- c(70.1, 72, 68.9, 61.8, 70.9, 59.8, 72, 65, 66.1, 68.9)
+
 
 8. Distribute the *A Tale of Two Rules* handout ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf)).
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf)</div>
@@ -101,6 +106,19 @@ it in statistics can be proven mathematically but it's beyond the scope of this 
 
 12. Explain that each team will now use the statisticians’ method for declaring a winner. Display the
 mean absolute error formula and discuss what each symbol means.
+
+    Here is the script for MAE:
+    
+        #find the absolute value of the residuals using one of the statistics
+        #For this example, we will use the first quartile from the training data (65 inches): 
+        datasetA <- mutate(datasetA, residual=abs(heightA-65))
+
+        #Finally, we use the mean function to:
+        #sum up the residuals and divide by 10 to find our mean absolute error:
+        mean(~residual, data=datasetA)
+
+    This process gives us the mean absolute error of 4.32.
+
 
 13. Using our previous examples, recalculate your predictions using the MAE.
 
