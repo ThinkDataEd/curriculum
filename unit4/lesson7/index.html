@@ -3550,10 +3550,10 @@ students at a high school.</p>
 </li>
 </ol>
 <h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
-<p><a class="md-button" href="../../vocabulary/unit4/#training-data" title="">training data</a>
-<a class="md-button" href="../../vocabulary/unit4/#testing-data" title="">testing data</a>
+<p><a class="md-button" href="../../vocabulary/unit4/#training-data" title="a random subset consisting of about 75-85% of the original dataset on which a model is trained">training data</a>
+<a class="md-button" href="../../vocabulary/unit4/#testing-data" title="a random subset consisting of about 15-25% of the original dataset on which a model is tested">testing data</a>
 <a class="md-button" href="../../vocabulary/unit4/#mean-squared-error" title="tells you how close a regression line is to a set of points; is determined by finding the average of the squared differences between your guess and the actual values">mean squared error</a>
-<a class="md-button" href="../../vocabulary/unit4/#mean-absolute-error" title="the amount of error in your measurements; it is the difference between the measured value adn the &quot;true&quot; value">mean absolute error</a>
+<a class="md-button" href="../../vocabulary/unit4/#mean-absolute-error" title="the amount of error in your measurements; it is the difference between the measured value and the &quot;true&quot; value">mean absolute error</a>
 <a class="md-button" href="../../vocabulary/unit4/#residual" title="the difference between our prediction and the actual outcome; also called an &quot;error&quot;">residual</a></p>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
 <div class="admonition note">
@@ -3577,7 +3577,7 @@ they will be given a rule and it’s their job to find the best prediction to wi
 <p>Have students refer back to the <em>Heights of Students at a Large High School</em> handout (LMR_4.6) from the previous lesson. </p>
 </li>
 <li>
-<p>Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the <strong>training data</strong> where we create a model to make predictions. Then we use the <strong>testing data</strong> (dataset A and dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:</p>
+<p>Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the <strong>training data</strong> where we train a model to make predictions. Then we use the <strong>testing data</strong> (dataset A and dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:</p>
 <ol>
 <li>
 <p>Team A used the mean.</p>
@@ -3623,12 +3623,15 @@ datasetA &lt;- mutate(datasetA, residual=height-65)
 
 #Next, we will square each residual:
 datasetA &lt;- mutate(datasetA, sq_res=residual^2)
-#Finally, we use the mean function to sum up the squared residuals
-#and divide by 10 to find our mean squared deviation:
+#Finally, we use the mean function to:
+#sum up the squared residuals and divide by 10 to find our mean squared deviation:
 mean(~sq_res, data=datasetA)
 </code></pre>
 <p>This process gives us the mean squared error of 22.05.</p>
 <p><strong><u>Note to teacher:</u></strong> The value of the mean squared error will always be in square units. In order to convert back to the original units, simply take the square root of the mean squared error. <br> Interpretation: When using the Q1 height to make predictions about all heights, our predictions will typically be off by <img src="https://latex.codecogs.com/gif.latex?\inline&space;\sqrt{22.05}=4.6957" title="\sqrt{22.05}=4.6957" /> inches.</p>
+<p>Here is the vector of heights for Dataset B:</p>
+<pre><code>heightB &lt;- c(70.1, 72, 68.9, 61.8, 70.9, 59.8, 72, 65, 66.1, 68.9)
+</code></pre>
 </li>
 <li>
 <p>Distribute the <em>A Tale of Two Rules</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.7_A%20Tale%20of%20Two%20Rules.pdf">LMR_4.7</a>).
@@ -3654,6 +3657,16 @@ it in statistics can be proven mathematically but it's beyond the scope of this 
 <li>
 <p>Explain that each team will now use the statisticians’ method for declaring a winner. Display the
 mean absolute error formula and discuss what each symbol means.</p>
+<p>Here is the script for MAE:</p>
+<pre><code>#find the absolute value of the residuals using one of the statistics
+#For this example, we will use the first quartile from the training data (65 inches): 
+datasetA &lt;- mutate(datasetA, residual=abs(heightA-65))
+
+#Finally, we use the mean function to:
+#sum up the residuals and divide by 10 to find our mean absolute error:
+mean(~residual, data=datasetA)
+</code></pre>
+<p>This process gives us the mean absolute error of 4.32.</p>
 </li>
 <li>
 <p>Using our previous examples, recalculate your predictions using the MAE.</p>
