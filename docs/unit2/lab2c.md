@@ -186,7 +186,7 @@ songs.**</span>
 * Suppose there are 1,200 students at your school. 400 of them went to the movies last
 Friday, 600 went to the park and the rest read at home.
 
-*If we select a student at random, what is the probability that this student is one of the one's who went to
+*If we select a student at random, what is the probability that this student is one of those who went to
 the movies last Friday?*
 
 * <span style="color:midnightblue;">**Answer this by estimating the probability that a randomly chosen student went to the
