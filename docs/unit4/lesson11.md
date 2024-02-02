@@ -10,7 +10,12 @@ to identify the direction of trends and interpret the slope and the intercept of
 2. *Predicting Values* handout ([LMR_4.13_Predicting Values](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Predicting Values.pdf))
 
 ###**Vocabulary:**
-trend, positive association, negative association, no association, linear, model
+[trend](../../vocabulary/unit4/#trend "often referred to as a line of best fit, is a line that is used to represent the behavior of a set of data to determine if there is a certain pattern"){ .md-button }
+[positive association](../../vocabulary/unit4/#possitive-association "when the values of one variable tend to increase as the values of the other variable increase"){ .md-button }
+[negative association](../../vocabulary/unit4/#negative-association "when the values of one variable tend to decrease as the values of the other variable increase"){ .md-button }
+[no association](../../vocabulary/unit4/#no-association "means that there is no line and all the dots are scattered"){ .md-button }
+[linear](../../vocabulary/unit4/#linear "used to describe a straight-line relationship between two variables"){ .md-button }
+[model](../../vocabulary/unit4/#model "a mathematical model that embodies a set of statistical assumptions concerning the generation of sample data (and similar data from a larger population)"){ .md-button }
 
 ###**Essential Concepts:**
 

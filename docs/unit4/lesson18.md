@@ -7,7 +7,9 @@ Students will learn what clustering is and how to classify groups of people into
 1. *Find the Clusters* handout ([LMR_4.24_Find the Clusters](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf))
 
 ###**Vocabulary:**
-clustering, cluster, k-means
+[clustering](../../vocabulary/unit4/#clustering "is the process of grouping a set of objects (or people) in such a way that objects (or people) in the same group are more similar to each other than those in other groups"){ .md-button }
+[cluster](../../vocabulary/unit4/#cluster "a group of similar things or people positioned or occurring closely together"){ .md-button }
+[k-means](../../vocabulary/unit4/#k-means "aims to partition data into k clusters in a way that data points in the same cluster are similar and data points in the different clusters are farther apart"){ .md-button }
 
 ###**Essential Concepts:**
 

@@ -13,7 +13,7 @@ that make more accurate predictions.
     [http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"){:target="_blank"}
 
 ###**Vocabulary:**
-market
+[market](../../vocabulary/unit4/#market "refers to the live streaming of trade-related data; it encompasses a range of information such as price, bid/ask quotes and market volume"){ .md-button }
 
 ###**Essential Concepts:**
 

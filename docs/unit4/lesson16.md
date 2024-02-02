@@ -13,7 +13,11 @@ Students will learn what decision trees look like and how they can be used to cl
     **Advanced preparation required** (see Step 8 below)
 
 ###**Vocabulary:**
-classify, decision tree, Classification and Regression Trees (CART), nodes, misclassifications
+[classify](../../vocabulary/unit4/#classify "is the problem of identifying which of a set of categories (sub-populations) an observation (or observations), belongs to"){ .md-button }
+[decision tree](../../vocabulary/unit4/#decision-tree "a decision support tool that uses a tree-like model of decisions and their possible consequences, including chance outcomes"){ .md-button }
+[Classification and Regression Trees (CART)](../../vocabulary/unit4/#classification-and-regression-trees-cart "a predictive algorithm used in machine leanring; it explains how a target variable's values can be predicted based on other values"){ .md-button }
+[nodes](../../vocabulary/unit4/#nodes "a point of intersection/connection within a data communication network"){ .md-button }
+[misclassifications](../../vocabulary/unit4/#misclassifications "when a participant is placed into the wrong population or subgroup or category because of some kind of observational or measurement error"){ .md-button }
 
 ###**Essential Concepts:**
 

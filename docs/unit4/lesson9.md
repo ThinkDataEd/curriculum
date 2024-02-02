@@ -20,7 +20,7 @@ a modeling tool.
 6. Poster paper
 
 ###**Vocabulary:**
-line of best fit
+[line of best fit](../../vocabulary/unit4/#line-of-best-fit "a line through a scatterplot of data points that best expresses the relationship between those points"){ .md-button }
 
 ###**Essential Concepts:**
 

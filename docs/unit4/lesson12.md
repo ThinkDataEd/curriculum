@@ -13,7 +13,8 @@ associations only.
     distribute as-is to students.
 
 ###**Vocabulary:**
-correlation coefficient, strength of association
+[correlation coefficient](../../vocabulary/unit4/#correlation-coefficient "a statistical measure that calculates the strength of the relationship between the relative movements of two variables"){ .md-button }
+[strength of association](../../vocabulary/unit4/#strength-of-association "how much two variables covary and the extent to which the INDEPENDENT VARIABLE affects the DEPENDENT VARIABLE"){ .md-button }
 
 ###**Essential Concepts:**
 

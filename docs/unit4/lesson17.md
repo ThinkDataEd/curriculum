@@ -10,7 +10,8 @@ lessons), and then see how well their decision tree works on new test data.
 2. *Make Your Own Decision Tree* handout ([LMR_4.23_Your Own Decision Tree](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.23_Your Own Decision Tree.pdf))
 
 ###**Vocabulary:**
-training data, testing data
+[training data](../../vocabulary/unit4/#training-data ""){ .md-button }
+[testing data](../../vocabulary/unit4/#testing-data ""){ .md-button }
 
 ###**Essential Concepts:**
 

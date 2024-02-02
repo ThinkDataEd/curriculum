@@ -30,7 +30,7 @@
 ### positive association
 
 !!! note ""
-    when the values of one variable tend to increase as the values of the otther variable increase
+    when the values of one variable tend to increase as the values of the other variable increase
 
 ### negative assocation
 
@@ -65,7 +65,7 @@
 ### line of best fit
 
 !!! note ""
-    a line through a scatter plot of data points that best expresses the relationship between those points
+    a line through a scatterplot of data points that best expresses the relationship between those points
 
 ### regression line
 
