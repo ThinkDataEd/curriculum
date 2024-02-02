@@ -1,65 +1,75 @@
-##***<u>Lesson 1: Drought</u>***
+##***<u>Lesson 1: Trash</u>***
 
 ###**Objective:**
-Students will learn about the cause of California droughts and its effect on other states.
+Students will learn about reducing the burden of trash landfills.
 
 ###**Materials:**
-1. *Article: California, 'America's garden', is drying out* <br> [https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/](https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/ "https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/"){:target="_blank"}
+1. Video: *Fighting Pollution Through Video* found at:<br>
+    [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"}
 
-2. US drought data interactive map <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
+2. *Landfill Readiness Questions* handout ([LMR_4.1_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf))
+
+3. *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration ](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf))
+
+4. *Trash Campaign Creation* handout ([LMR_4.3_Trash Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf))
 
 ###**Essential Concepts:**
 
-!!! note "Essential Concepts: "
+!!! note "Essential Concepts: " 
     Exploring different datasets can give us insight about the same processes. Information from an official dataset compared with a participatory sensing dataset can yield more information than one dataset alone.
 
 ###**Lesson:**
-1. Begin the lesson with the quote: “The consequences of drought in California are felt well outside the state’s borders. California is effectively America’s garden – it produces two-thirds of all fruits and nuts grown in the U.S.”
+1. Inform students that they will investigate a problem that faces many cities around the world today: trash.
 
-2. Using the K-L-W strategy in their DS journals, give students a couple of minutes to write what they Know about droughts.
+2. Using the 5 Ws strategy, ask students to write down the 5 Ws in their DS journals as they watch a video about trash. The 5 Ws summarize the What, Who, Why, When, and Where of the resource.
 
-3. Then, students will write what they Learned about the California drought as they read the article titled California, ‘America’s garden’, is drying up. The article is found at: <br> [https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/](https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/ "https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/"){:target="_blank"}
+3. Play the Fighting Plastic Pollution Through Data video, found at: [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"} <br> **NOTE**: While the video is just over 13 minutes long, students should be able to answer the 5 Ws from the content of the firt 10 minutes.
 
-4. Finally, they will write 2-3 questions about what they Want to know/learn about droughts.
+4. After they have finished watching the video, engage in a class discussion around the following questions and discuss their insights, questions, and/or reactions to the video:
 
-5. Do a quick Whip Around to share some of the students’ responses to the K-L-W.
+    100. What types of data did they collect in the video? <span style="color:grey">***Answer: Photos, location, brand names, weight (kg), waste categories (plastic bags, straws, toothpaste, etc), and number of packaging.***</span>
 
-6. Next, load an interactive map of US drought data by visiting: <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
+    100. How are they useful in fighting plastic pollution? <span style="color:grey">***Answer: Brand accountability, community involvement, cleaning rivers/ dumping sites, and finding sources of pollution.***</span>
 
-7. Lead a discussion about what is on the page. Ask:
+5. Now we'll take inventory of our own understanding of landfills and how trash travels there. Distribute the *Landfill Readiness Questions* handout ([LMR_4.1_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf)). Allow students private think-time before having them discuss in their teams.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf)</div>
 
-    100. What do the colors and percentages on the legend mean? <span style="color:grey">***Answer: The color is the drought type (Abnormally Dry, Moderate Drought, etc.) and the percentage is the percentage of area of the U.S. that is that type of drought.***</span>
+6. Let students now that they will be exploring data from a trash Participatory Sensing campaign, titled the “Trash Campaign,” that was conducted at a number of high schools in the Los Angeles Unified School District (LAUSD).
 
-    100. What do the colors, percentages, and years on the graph mean? <span style="color:grey">***Answer: The colors correspond to the drought type (as mentioned in the previous question), the percentages correspond to the percentage of area of the U.S. that is that type of drought (as mentioned in the previous question), and the years signify the dates for which the data is available.***</span>
+7. Concerned students in LAUSD engaged in a model eliciting activity and created a trash participatory sensing campaign to investigate possible trash issues in their communities. Based on the data collected, they made recommendations to the Los Angeles County Sanitation District (LACSD) that would help reduce the use of the regional landfills.
 
-    100. What information are the map and graph displaying? <span style="color:grey">***Answer: The map tells us the areas of drought and the graph tells us percentages of drought over time.***</span>
+8. Distribute the *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)) to assist in students' interaction with the IDS public dashboard.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)</div>
 
-    100. Which date is selected by default and what percent of the US is in *Exceptional Drought* that day?? <span style="color:grey">***Answer: July 10, 2012 and 0.62% is in Exceptional Drought.***</span> <br> **NOTE**: If you used a different link other than was listed here, you may have a different default date. In order to see the types of droughts and their percentages, hover your cursor over the graph to line up with the date.
+9. Navigate students will to the IDS public dashboard:
+[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
-8. Then click on a new date to update the map. Ask:
+10. They should use the “Trash” campaign data and select “Dashboard” from the “Action” button.
 
-    100. What date did you choose? <span style="color:grey">***Answers will vary.***</span>
+11. The dashboard is a visual tool for exploring and analyzing data. An example screenshot of the Trash campaign in the dashboard is shown below. <img src="../../img/41509.png" />
 
-    100. What information is the map displaying? <span style="color:grey">***Answers will depend on the chosen date above.***</span>
+12. Students should “play” with the data and think about characteristics of the campaign. Answers to the questions in LMR_4.2 are provided here for reference:
 
-    100. Which states are affected by drought? <span style="color:grey">***Answers will depend on the chosen date above.***</span> <br> **NOTE**: You can click on a state to display its name.
+    100. How many observations are in this data set? <span style="color:grey">***Answer: 2,631.***</span>
 
-9. Then click on the Combine States option, choose a state, and click Combine. Ask:
+    100. Where was the majority of trash generated? <span style="color:grey">***Answer: School (1,254).***</span>
 
-    100. What information is the map displaying now? <span style="color:grey">***Answers will vary but students should see the chosen state as the new map.***</span>
+    100. How many observations were generated at school? At work? <span style="color:grey">***Answer: School has 1,254 and Work has 59..***</span>
 
-    100. What else do you see? <span style="color:grey">***Answers will depend on the chosen state above.***</span>
+    100. What material or item was most commonly thrown away? <span style="color:grey">***Answer: Recyclable (1,302) or Paper (477).***</span>
 
-    100. What are some wonderings you have about the data? <span style="color:grey">***Answers will vary.***</span> <br> **NOTE**: There are multiple options here. You can choose to display multiple states by adding another state (or states) and choosing Combine. You can also designate a specific time period in the Time Series Options.
+    100. Between what hours is the largest percentage of trash generated at home? <span style="color:grey">***Answer: Between 2100 and 2200, which is 9pm to 10pm (106).***</span>
 
-10. Now that they know the overall layout of the interactive map and its options, ask student teams to generate two statistical investigative questions about the data. Allow them time to explore the interactive map to help guide their thinking. Below are two examples of possible statistical investigative questions:
+    100. Which activity generates the largest percentage of landfill-destined trash? <span style="color:grey">***Answer: Eating/cooking with 69.02% (822/1,191).***</span>
 
-    100. For the US, what date had the greatest land percentage of drought?
+    100. Is eating or drinking more likely to generate a recyclable piece of trash? <span style="color:grey">***Answer: Drinking, because it resulted in 480 recyclables versus Eating resulted in 399 recyclables, out of 1,302 total.***</span>
 
-    100. Which US state had the least land percentage of drought in 2020?
+    100. When recycle bins were present, did a higher proportion of recyclable items end up in the trash bin when people were at home or at school? <span style="color:grey">***Answer: School (134/225) had a higher proportion of recyclable items end up in the trash than Home (76/225).***</span>
 
-11. If time permits, conduct a share-out of the teams' statistical investigative question. <br> **NOTE**: The interactive map has a download data feature that allows customization/ filtering of US drought data. Keep this in mind as an option for students who may be interested in this topic.
+    100. When someone littered, how many times was the person not arround any type of waste receptacle? <span style="color:grey">***Answer: 15 out of 58.***</span>
+
+13. Take time at the end of class to share out and discuss the components of the Trash Campaign. If needed, you may use the *Trash Campaign Creation* handout ([LMR_4.3_Trash Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf)) as an additional resource to help with the distribution of the Trash Campaign.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf)</div>
 
 ###**Class Scribes:**
-One team of students will give a brief talk to discuss what they think the 3 most important topics of the
-day were.
+One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
