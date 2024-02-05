@@ -231,7 +231,7 @@
   <tr>
     <td class="tg-c3ow">End of Unit<br>Project<br>(7 days)</td>
     <td class="tg-c3ow">29-<br>36</td>
-    <td class="tg-0pky"><a href="../../unit4/end">End of Unit 4 Model Eliciting Activity (MEA) Project and Oral Presentations</a></td>
+    <td class="tg-0pky"><a href="../../unit4/end">End of Unit 4 Modeling Activity Project and Oral Presentations</a></td>
     <td class="tg-0pky">Team Campaign</td>
     <td class="tg-0pky">Synthesis of above</td>
     <td class="tg-c3ow"><a href="../../unit4/end">388</a></td>
