@@ -1,4 +1,4 @@
-##***<u>End of Unit Design Project and Oral Presentation: Water Usage</u>***
+##***<u>End of Unit 4 Modeling Activity Project and Presentation</u>***
 
 ###**Objective:**
 Students will apply their learning of the third and fourth units of the curriculum by completing an end of unit design project.
@@ -8,7 +8,7 @@ Students will apply their learning of the third and fourth units of the curricul
 
 2. *IDS Unit 4 – Project and Oral Presentation* ([LMR_U4_Design Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_Design Project.pdf))
 
-<center>**End of Unit 4 Project and Oral Presentation: Water Usage**</center>
+<center>**End of Unit 4 Project and Presentation**</center>
 
 At the beginning of this unit, you explored a 2010 data set from the Los Angeles Department of Water and Power (DWP). You also created a Participatory Sensing campaign to investigate water usage around your community.
 
