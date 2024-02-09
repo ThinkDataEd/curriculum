@@ -23,7 +23,7 @@ Students will learn about reducing the burden of trash landfills.
 
 2. Using the 5 Ws strategy, ask students to write down the 5 Ws in their DS journals as they watch a video about trash. The 5 Ws summarize the What, Who, Why, When, and Where of the resource.
 
-3. Play the Fighting Plastic Pollution Through Data video, found at: [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"} <br> **NOTE**: While the video is just over 13 minutes long, students should be able to answer the 5 Ws from the content of the firt 10 minutes.
+3. Play the Fighting Plastic Pollution Through Data video, found at: [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"} <br> **NOTE**: While the video is just over 13 minutes long, students should be able to answer the 5 Ws from the content of the first 10 minutes.
 
 4. After they have finished watching the video, engage in a class discussion around the following questions and discuss their insights, questions, and/or reactions to the video:
 
