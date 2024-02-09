@@ -4,7 +4,7 @@
 Students will revise their community focused Participatory Sensing campaign according to the finding from the mock implementation of their campaign to refine it. Student teams will then create their campaigns using the campaign authoring tool.
 
 ###**Materials:**
-1. *Campaign Authoring* handout ([LMR_4.5_Campaign Authoring](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Campaign Authoring.pdf)) from previous lesson
+1. *Campaign Authoring* handout ([LMR_4.5_Campaign Authoring](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Campaign Authoring.pdf))
 
 ###**Essential Concepts:**
 
@@ -20,7 +20,7 @@ their campaign. Allow them time to share their findings with their team members.
 
 3. Now they will use the Campaign Authoring tool to create a campaign like the ones they see on their smart devices or the computer.
 
-4. Distribute the Campaign Authoring handout . Each team will select a member to type the information required to create their campaign. Then, they will follow the instructions on the handout. <br> **NOTE**: To name their campaign, a naming convention is suggested. Otherwise, you will have multiple
+4. Distribute the Campaign Authoring handout ([LMR_4.5_Campaign Authoring](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Campaign Authoring.pdf)). Each team will select a member to type the information required to create their campaign. Then, they will follow the instructions on the handout. <br> **NOTE**: To name their campaign, a naming convention is suggested. Otherwise, you will have multiple
 campaigns with the same name. For example, teams may include their team name or number in
 order to easily identify their campaigns.
 
