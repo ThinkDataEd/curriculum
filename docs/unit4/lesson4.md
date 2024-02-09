@@ -6,8 +6,6 @@ Students will complete the design of their community focused Participatory Sensi
 ###**Materials:**
 1. *Team Campaign Creation* handout ([LMR_4.4_Team Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Campaign Creation.pdf)) from previous lesson
 
-2. *Campaign Authoring* handout ([LMR_4.5_Campaign Authoring](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.5_Campaign Authoring.pdf))
-
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
@@ -48,7 +46,7 @@ question. For each question they should consider:
 7. Once finalized, they will record the survey question/ prompt that goes along with each data
 variable on their *Team Campaign Creation* handout ([LMR_4.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4 _Team Campaign Creation.pdf)), being cognizant of question bias.
 
-8. <u>Round 5:</u> In teams, students will now generate three statistical questions that they might answer
+8. <u>Round 5:</u> In teams, students will now generate three statistical investigative questions that they might answer
 with the data they will collect and to guide their campaign. They need to make sure that their
 statistical investigative questions are interesting and relevant to their chosen topic. Remind students that they will also have data about the date,
 time, and place of data collection.
@@ -74,7 +72,7 @@ reasonable and ethically sound. Each team will hold a discussion on the followin
     100. Can you change your trigger or survey questions to improve your evaluation?
 
     100. Will you be able to gather enough relevant data from your survey questions to be able to
-    answer your statistical questions?
+    answer your statistical investigative questions?
 
 11. During their discussion about whether their campaign is reasonable and ethically sound, if teams discover that they need to make changes, they can make adjustments at this time.
 
