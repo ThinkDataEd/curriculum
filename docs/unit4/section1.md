@@ -19,16 +19,7 @@ Modeling is the process of choosing and using appropriate mathematics and statis
 empirical situations, to understand them better, and to improve decisions. Quantities and their
 relationships in physical, economic, public policy, social, and everyday situations can be modeled using
 mathematical and statistical methods. When making mathematical models, technology is valuable for
-varying assumptions, exploring consequences, and comparing predictions with data.
-
-Modeling is best interpreted not as a collection of isolated topics, but rather in relation to other standards.
-Making mathematical models is a Standard for Mathematical Practice, and specific modeling standards
-appear throughout the high school standards indicated by a star symbol (★).”
-
-Every Statistics and Probability standard in the California CCSS-M High School Conceptual Category is
-considered a modeling standard, indicated by the star symbol; therefore, rather than listing every content
-standard individually, the modeling activities in this section are designed so that students apply the
-Statistics and Probability standards learned throughout the curriculum.
+varying assumptions, exploring consequences, and comparing predictions with data."
 
 <ins>*Focus Standards for Mathematical Practice:*</ins>
 
