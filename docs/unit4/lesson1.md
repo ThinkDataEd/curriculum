@@ -9,7 +9,7 @@ Students will learn about reducing the burden of trash landfills.
 
 2. *Landfill Readiness Questions* handout ([LMR_4.1_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf))
 
-3. *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration ](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf))
+3. *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf))
 
 4. *Trash Campaign Creation* handout ([LMR_4.3_Trash Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf))
 
@@ -48,7 +48,7 @@ Students will learn about reducing the burden of trash landfills.
 
 11. The dashboard is a visual tool for exploring and analyzing data. An example screenshot of the Trash campaign in the dashboard is shown below. <img src="../../img/41509.png" />
 
-12. Students should “play” with the data and think about characteristics of the campaign. Answers to the questions in LMR_4.2 are provided here for reference:
+12. Students should “play” with the data and think about characteristics of the campaign. Answers to the questions in the *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)) are provided here for reference:
 
     100. How many observations are in this data set? <span style="color:grey">***Answer: 2,631.***</span>
 
