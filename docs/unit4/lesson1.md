@@ -16,7 +16,7 @@ Students will learn about reducing the burden of trash landfills.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    Exploring different datasets can give us insight about the same processes. Information from an official dataset compared with a participatory sensing dataset can yield more information than one dataset alone.
+    Exploring different datasets can give us insight about the same processes. Data from our Participatory Sensing campaigns rely on human sensors and limit the ability to generalize to the greater population.
 
 ###**Lesson:**
 1. Inform students that they will investigate a problem that faces many cities around the world today: trash.

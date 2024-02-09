@@ -15,7 +15,7 @@ Students will learn how to predict height using arm span data - and vice versa -
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    When predicting values of a variable *y* - and if *y* is linearly associated with *x* - then we can get
+    When predicting values of a variable *y*, and if *y* is linearly associated with *x*, then we can get
     improved predictions by using our knowledge about *x*. For every value of *x*, find the mean of the *y* values for that value of *x*. If the resulting mean follows a trend, we can model this trend to generalize to unseen values of *x*.
 
 ###**Lesson:**

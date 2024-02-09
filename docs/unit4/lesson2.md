@@ -13,7 +13,7 @@ Students will learn about the cause of California droughts and its effect on oth
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Exploring different datasets can give us insight about the same processes. Information from an official dataset compared with a participatory sensing dataset can yield more information than one dataset alone.
+    Data can be used to make predictions. Official datasets rely on censuses or random samples and can be used to make generalizations.
 
 ###**Lesson:**
 1. Begin the lesson with the quote: “The consequences of drought in California are felt well outside the state’s borders. California is effectively America’s garden – it produces two-thirds of all fruits and nuts grown in the U.S.”

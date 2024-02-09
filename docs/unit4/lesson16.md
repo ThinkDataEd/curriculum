@@ -22,8 +22,7 @@ Students will learn what decision trees look like and how they can be used to cl
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    Some trends are not linear, so the approaches we’ve done so far won’t be helpful.
-    We need to model such trends differently. Decision trees are a non-linear tool for classifying observations into groups when the trend is non-linear.
+    Some trends are not linear, so the approaches we’ve done so far won’t be helpful. We need to model such trends differently. Decision trees are a non-linear tool for classifying observations into groups when the trend is non-linear.
 
 ###**Lesson:**
 1. Inform students that, during today’s lesson, they will be participating in an activity to try to **classify** professional athletes into one of two groups: (1) soccer players on the US Men’s National Team, OR (2) football players in the National Football League (NFL).

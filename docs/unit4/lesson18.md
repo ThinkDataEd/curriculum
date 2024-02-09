@@ -14,8 +14,7 @@ Students will learn what clustering is and how to classify groups of people into
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    We can identify groups, or “clusters,” in data based on a few characteristics. For
-    example, it is easy to classify a classroom into males and females, but what if you only knew each person’s arm span? How well could you classify their genders now?
+    We can identify groups, or “clusters,” in data based on a few characteristics. For example, it is easy to classify a group of people into football players and swimmers, but what if you only knew each person’s arm span? How well could you classify them into football players and swimmers now?
 
 ###**Lesson:**
 1. Inform the students that they will continue to explore different types of models, and today they will be focusing on **clustering**. Clustering is the process of grouping a set of objects (or people) together in such a way that people in the same group (called a **cluster**) are more similar to each other than to those in other groups.
