@@ -54,7 +54,7 @@ Students will learn about reducing the burden of trash landfills.
 
     100. Where was the majority of trash generated? <span style="color:grey">***Answer: School (1,254).***</span>
 
-    100. How many observations were generated at school? At work? <span style="color:grey">***Answer: School has 1,254 and Work has 59..***</span>
+    100. How many observations were generated at school? At work? <span style="color:grey">***Answer: School has 1,254 and Work has 59.***</span>
 
     100. What material or item was most commonly thrown away? <span style="color:grey">***Answer: Recyclable (1,302) or Paper (477).***</span>
 
