@@ -6,7 +6,7 @@ Students will learn about the cause of California droughts and its effect on oth
 ###**Materials:**
 1. *Article: California, 'America's garden', is drying out* <br> [https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/](https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/ "https://yaleclimateconnections.org/2021/06/california-americas-garden-is-drying-out/"){:target="_blank"}
 
-2. US drought data interactive map <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
+2. U.S. drought data interactive map <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
 
 3. *Team Campaign Creation* handout ([LMR_4.4_Team Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Campaign Creation.pdf))
 
@@ -26,7 +26,7 @@ Students will learn about the cause of California droughts and its effect on oth
 
 5. Do a quick Whip Around to share some of the students’ responses to the K-L-W.
 
-6. Next, load an interactive map of US drought data by visiting: <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
+6. Next, load an interactive map of U.S. drought data by visiting: <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
 
 7. Lead a discussion about what is on the page. Ask:
 
@@ -36,11 +36,11 @@ Students will learn about the cause of California droughts and its effect on oth
 
     100. What information are the map and graph displaying? <span style="color:grey">***Answer: The map tells us the areas of drought and the graph tells us percentages of drought over time.***</span>
 
-    100. Which date is selected by default and what percent of the US is in *Exceptional Drought* that day?? <span style="color:grey">***Answer: July 10, 2012 and 0.62% is in Exceptional Drought.***</span> <br> **NOTE**: If you used a different link other than was listed here, you may have a different default date. In order to see the types of droughts and their percentages, hover your cursor over the graph to line up with the date.
+    100. Which date is selected by default and what percent of the U.S. is in *Exceptional Drought* that day?? <span style="color:grey">***Answer: July 10, 2012 and 0.62% is in Exceptional Drought.***</span> <br> **NOTE**: If you used a different link other than was listed here, you may have a different default date. In order to see the types of droughts and their percentages, hover your cursor over the graph to line up with the date.
 
 8. Then click on a new date to update the map. Ask:
 
-    100. What date did you choose? <span style="color:grey">***Answers will vary.***</span>
+    100. What date is displayed now? <span style="color:grey">***Answers will vary.***</span>
 
     100. What information is the map displaying? <span style="color:grey">***Answers will depend on the chosen date above.***</span>
 
