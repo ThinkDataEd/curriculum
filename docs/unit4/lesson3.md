@@ -98,5 +98,5 @@ Students will research and review articles from accredited sources to guide the 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
 
-###**Homework:**
+###<p style="background: black; color: white; text-align: center;">**Homework**</p> 
 Students will come up with at least 2 possible research questions for their participatory sensing campaign. They will come to a consensus about their research question with their team in the next class period
