@@ -27,7 +27,7 @@ Students will research and review articles from accredited sources to guide the 
     src="https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs" allowfullscreen>
     </iframe><br><a href="https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs">https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs</a></div>
 
-5. *Team Campaign Creation* handout ([LMR_4.4_Team Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Campaign Creation.pdf))
+5. *Team Campaign Creation* handout ([LMR_4.4_Team Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Campaign Creation.pdf)) <br> **NOTE**: This handout was used in [Lesson 2](lesson2.md) but a new copy should be used for this lesson.
 
 6. Article: *3 reasons why California's drought isn't really over, despite the rain* <br> [https://www.npr.org/2023/03/23/1165378214/3-reasons-why-californias-drought-isnt-really-over-despite-all-the-rain/](https://www.npr.org/2023/03/23/1165378214/3-reasons-why-californias-drought-isnt-really-over-despite-all-the-rain/ "https://www.npr.org/2023/03/23/1165378214/3-reasons-why-californias-drought-isnt-really-over-despite-all-the-rain/"){:target="_blank"}
 
@@ -51,10 +51,9 @@ Students will research and review articles from accredited sources to guide the 
     Data collected through Participatory Sensing Campaigns will be used to create models that answer real-world problems related to our community.
 
 ###**Lesson:**
-1. Display the DWP data using RStudio. In pairs, ask students to recall what each of the variables
-mean.
+1. In this lesson, students will decide on a topic and research question for their Team Participatory Sensing Campaign. They will review articles and choose at least one to set the context for the real-world problem that they will be addressing with their campaign.
 
-2. Next, ask student teams to refer back to the statistical questions they generated in the previous lesson - they will need it for the data exploration.
+2. It is important to check the reliability of your sources so that you are not spreading misinformation or basing your research on untrustworthy or inaccurate information.
 
 3. An option for checking the credibility of sources is the SIFT method (The "SIFT" method is adapted from [https://pressbooks.pub/webliteracy/](https://pressbooks.pub/webliteracy/ "https://pressbooks.pub/webliteracy/"){:target="_blank"} by Michael A. Caulfield):
 
@@ -65,13 +64,13 @@ mean.
 
     100. **Find Trusted Coverage** - This is where we determine if a claim is reliable. Do a Google News search for relevant stories and use known fact-checking sites like snopes.com, factcheck.org, or politifact.com. If there are images in your source, you can do a reverse image search via Google to check its validity or if it’s used elsewhere. Here’s a helpful video on how to do a reverse image search: <br>
     [https://www.youtube.com/watch_popup?v=7eKG9RuqUE4](https://www.youtube.com/watch_popup?v=7eKG9RuqUE4 "https://www.youtube.com/watch_popup?v=7eKG9RuqUE4"){:target="_blank"}
-
-    100: **Trace claims, quotes, and media back to the original context** - A lot of what we see on the web is a re-reporting or commentary of a story. When you see phrases like “As reported by…” or “According to…”, it can be an indication of this. Here’s a video to help navigate finding an original source: <br>
+    
+    100. **Trace claims, quotes, and media back to the original context** - A lot of what we see on the web is a re-reporting or commentary of a story. When you see phrases like “As reported by…” or “According to…”, it can be an indication of this. Here’s a video to help navigate finding an original source: <br>
     [https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs](https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs "https://www.youtube.com/watch_popup?v=tRZ-N3OvvUs"){:target="_blank"}
 
 4. Now that you know how to check the credibility of sources, we will review characteristics of a participatory sensing campaign.
 
-5. Move on to review their class created campaign from Unit 3. Using a Pair-Share strategy, ask students to discuss when a Participatory Sensing campaign should be used rather than a survey. <span style="color:grey"> Answers will vary. Research questions that include variation across time or across locations are good candidates for Participatory Sensing campaigns; therefore, a trigger is necessary in order to record observations at multiple time points and locations. If a question needs to be answered only once, then a survey is a better method. </span>
+5. Refer back to their class created campaign from Unit 3 to review. Using a *Pair-Share* strategy, ask students to discuss when a Participatory Sensing campaign should be used rather than a survey. <span style="color:grey"> ***Answers will vary. Research questions that include variation across time or across locations are good candidates for Participatory Sensing campaigns; therefore, a trigger is necessary in order to record observations at multiple time points and locations. If a question needs to be answered only once, then a survey is a better method.*** </span>
 
 6. Remind students that in the last unit, they created one campaign for the entire class. In this unit, each student team will be creating and implementing a campaign on a topic that addresses a community concern or interest.
 
