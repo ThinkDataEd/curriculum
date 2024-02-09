@@ -7,7 +7,7 @@ Modeling Activities are posed as open-ended problems that are designed to challe
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
 Students will watch a video called *Fighting Pollution Through Data*.
 This video will set the context of the real-world problem facing many cities around the world — trash. The
-video provides background information as well as a baseline topic to launch ideas for the modeling process.
+video provides background information as well as a baseline topic to launch ideas for the modeling process. The video can be found at: [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
