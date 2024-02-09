@@ -2,12 +2,12 @@
 Instructional Days: 5
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
-Model-Eliciting Activities (MEAs) are posed as open-ended problems that are designed to challenge students to build models in order to solve complex, real-world problems. They may be used to engage students in statistical reasoning and provide a means to better understand students' thinking.
+Modeling Activities are posed as open-ended problems that are designed to challenge students to build models in order to solve complex, real-world problems. They may be used to engage students in statistical reasoning and provide a means to better understand students' thinking.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will read an excerpt from a CNN article called *Trash City: Inside America’s Largest Landfill Site*.
-This article will set the context of the real-world problem facing many cities—the growth of landfills. The
-article provides background information as well as baseline data to launch the modeling process.
+Students will watch a video called *Fighting Pollution Through Data*.
+This video will set the context of the real-world problem facing many cities around the world — trash. The
+video provides background information as well as a baseline topic to launch ideas for the modeling process.
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
@@ -53,13 +53,10 @@ an integral part of what they do in the real world.
 1. Students will use complex sentences to construct summary statements about their understanding
 of data, how it is collected, how it used, and how to work with it.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
+2. Students will engage in partner and whole group discussions to express their
 understanding of data science concepts.
 
-3. Students will use complex sentences to write a letter of recommendation that use data science
-concepts and skills.
-
-4. Students will read informative texts to evaluate claims based on data.
+3. Students will read informative texts to evaluate claims based on data.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 <ins>*Data File:*</ins>
