@@ -63,12 +63,12 @@ header on the table is denoted as “Game.” Ask:
 compare how the information is stored in the table with its corresponding HTML source code.
 Each team should answer the following questions in the DS journals.
 
-    100. Where are the variable names stored? <span style="color:grey">***The variable names are stored at the
-    beginning of the code, in between &lt;th> and &lt;/th>. &lt;th> and &lt;/th> are called***</span> **tags** <span style="color:grey">***–
+    100. Each group was given HTML code for a different game. Which one did your group get? <span style="color:grey">***Answers will vary. The variable names are stored at the
+    beginning of the code, in between &lt;th> and &lt;/th> and are called***</span> **tags** <span style="color:grey">***–
     they tell the browser to represent the information between them as a header in the
     table.***</span>
 
-    100. How are different values of the variables stored? <span style="color:grey">***Values are stored between the &lt;td>
+    100. Between what tags are the different values of the variables stored? <span style="color:grey">***Values are stored between the &lt;td>
     and &lt;/td> tags.***</span>
 
     100. Why do you think the data are stored in such a complex way? Why can’t we just put them
