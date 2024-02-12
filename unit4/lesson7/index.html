@@ -3591,7 +3591,7 @@ they will be given a rule and it’s their job to find the best prediction to wi
 </ol>
 </li>
 <li>
-<p>In the previous lesson, you created your own rules to determine the winner. Today, you will learn rules that statisticians and data scientists use. The first is called the <strong>mean squared error</strong> rule. <br> <strong>Teacher note</strong>: acknowledge any groups who came up with MSE or MAE on their own in the previous lesson.</p>
+<p>In the previous lesson, you created your own rules to determine the winner. Today, you will learn rules that statisticians and data scientists use. The first is called the <strong>mean squared error</strong> rule. <br> <strong>Note to teacher</strong>: acknowledge any groups who came up with MSE or MAE on their own in the previous lesson.</p>
 </li>
 <li>
 <p>An "<em>error</em>" is the difference between our prediction and the actual outcome and is sometimes called a "residual". The mean squared error is also called:</p>
@@ -3606,7 +3606,7 @@ they will be given a rule and it’s their job to find the best prediction to wi
 <p>Residual sum of squares</p>
 </li>
 </ol>
-<p>The formula looks like this, where <img src="https://latex.codecogs.com/gif.latex?\hat{x}" title="\hat{x}" /> is the prediction: <center><img src="https://latex.codecogs.com/gif.latex?MSE=\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" title="\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" /></center></p>
+<p>The formula looks like this, where <img src="https://latex.codecogs.com/gif.latex?\hat{x}" title="\hat{x}" /> stands for the predicted value: <center><img src="https://latex.codecogs.com/gif.latex?MSE=\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" title="\frac{\sum_{i=1}^{n}(x_i-\hat{x})^2}{n}" /></center></p>
 <p>Using this formula, the teams' scores are determined by finding the average of the squared differences between their predictions and the actual values. The winner is the team with the lowest mean squared error.   </p>
 </li>
 <li>
@@ -3641,7 +3641,7 @@ mean(~sq_res, data=datasetA)
 <p>Let's see how well our teams' predictions did on the heights of the testing data. Students will work in teams to answer: Using the mean squared errors, which statistic is the winner? Discuss which statistic made the best predictions in all three games.</p>
 <p><span style="color:grey"><strong><em>Answers:</em></strong></span></p>
 <p><img src="../../img/40606b.png" /></p>
-<p><strong><u>Note to teacher:</u></strong> Explain that the mean/ Team A was the winner of this contest. Data scientists (and
+<p><strong><u>Note to teacher:</u></strong> Explain that the mean/Team A was the winner of this contest. Data scientists (and
 mathematicians) can prove that the mean will <strong>always</strong> work best (except in a few weird cases
 from time to time). So if you want to predict the future, the mean is the best single guess you can
 make.</p>
@@ -3658,8 +3658,8 @@ it in statistics can be proven mathematically but it's beyond the scope of this 
 <p>Explain that each team will now use the statisticians’ method for declaring a winner. Display the
 mean absolute error formula and discuss what each symbol means.</p>
 <p>Here is the script for MAE:</p>
-<pre><code>#find the absolute value of the residuals using one of the statistics
-#For this example, we will use the first quartile from the training data (65 inches): 
+<pre><code>#Find the absolute value of the residuals using one of the statistics
+#For this example, we'll use the first quartile from the training data (65 inches): 
 datasetA &lt;- mutate(datasetA, residual=abs(heightA-65))
 
 #Finally, we use the mean function to:
@@ -3672,15 +3672,15 @@ mean(~residual, data=datasetA)
 <p>Using our previous examples, recalculate your predictions using the MAE.</p>
 </li>
 <li>
-<p>Using the mean absolute error, which statistic/ team is the winner?</p>
+<p>Using the mean absolute error, which statistic/team is the winner?</p>
 <p><span style="color:grey"><strong><em>Answers:</em></strong></span></p>
 <p><img src="../../img/40612.png" /></p>
-<p><strong><u>Note to teacher:</u></strong> Explain that in this instance, the median/ Team B is the “winner.” This means that the
-way you play the game depends on the rules of the game. If we used squared errors, play
+<p><strong><u>Note to teacher:</u></strong> Explain that in this instance, the median/Team B is the “winner.” This means that the
+way you play the game depends on the rules of the game. If we used the mean squared error (MSE), play
 with the mean. If we use the mean absolute error (MAE), play with the median.</p>
 </li>
 <li>
-<p>Optional practice: Students can practice finding the mean squared deviation and mean absolute error using the mean and median with the <em>Prediction Games</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.8_Prediction%20Games.pdf">LMR_4.8</a>). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare.
+<p>Optional practice: Students can practice finding the mean squared error and mean absolute error using the mean and median with the <em>Prediction Games</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.8_Prediction%20Games.pdf">LMR_4.8</a>). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.8_Prediction%20Games.pdf">LMR_4.8</a></div></p>
 </li>
 </ol>
