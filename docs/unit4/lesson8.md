@@ -57,13 +57,13 @@ predicted height *if you know the person’s arm span?*
 
     **<u>Note:</u>** Because the plot does not clearly show duplicate ordered pairs, an approximation is sufficient at this point. You may have students use RStudio to calculate the mean height for the specific armspans. Refer to the OPTIONAL section at the end of the lesson.
 
-10. Then plot these points on the graph. We will use this later – the points should be roughly along a straight line. <span style="color:grey">***These arm spans have a range of height values associated with them. Students may take a mean of the heights, but answers may vary.***</span>
+10. Then plot these points on the graph. We will use this later – the points should be roughly along a straight line. <br> <u>**Note:**</u> These arm spans have a range of height values associated with them. Students may take a mean of the heights, but answers may vary.
 
 11. Ask students if they see any patterns or rules they can use from this to help with predictions.
 Because there were multiple height values associated with each arm span length, you will likely get multiple answers from students. The goal now is to come up with a rule that suggests a
 plausible height value for anyone with a particular arm span.
 
-12. A sentence starter to guide students: If a person has a bigger arm span, then we should predict <u>&nbsp;&nbsp;&nbsp;&nbsp;</u>[a bigger height]<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>. If time permits, you might push them to be more precise. Let’s take someone who has a 60 inch arm span. You predicted a height of <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>. How much should we increase our prediction for people with a 62 inch arm span? Can you do this without subsetting the data and re-calculating?
+12. A sentence starter to guide students: If a person has a bigger arm span, then we should predict <u>&nbsp;&nbsp;&nbsp;&nbsp;</u>[a bigger height]<u>&nbsp;&nbsp;&nbsp;&nbsp;</u>. If time permits, you might push them to be more precise. Let’s take someone who has a 60-inch arm span. You predicted a height of <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>. How much should we increase our prediction for people with a 62-inch arm span? Can you do this without subsetting the data and re-calculating?
 
 13. Conceptually, students are wrestling with the notion of the slope of the regression line but there’s no need to point this out just yet. <br> Important: The equation of the line of best fit will be revealed in [Lesson 9](lesson9.md).
 
