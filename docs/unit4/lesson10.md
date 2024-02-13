@@ -22,7 +22,7 @@ Students will understand that the mean squared error (MSE) is a way to assess th
 
 ###**Lesson:**
 1. Reveal the equation of the line of best fit for the Arm Span vs. Height data and ask students to
-check their equations from the homework assignment:
+check their equations from Lab 4A:
 
     <center><img src="https://latex.codecogs.com/gif.latex?\widehat{height}=0.7328(armspan)&plus;17.4957" title="\widehat{height}=0.7328(armspan)+17.4957" /></center>
 
@@ -30,7 +30,7 @@ check their equations from the homework assignment:
     variable.
 
 2. Whose equation came closest to the equation of the regression line? Ask the student whose
-equation came closest to share how he/ she came up with the equation.
+equation came closest to share how he/she came up with the equation.
 
 3. Inform students that the equation of the line is a rule that predicts the height based on a second
 variable, in this case, arm span.
@@ -45,9 +45,9 @@ can be used to make predictions.
 
 6. Inform students that data scientists have a way of finding the best line. They choose the line so that the mean squared distances between the points and the line is as small as possible. Discuss with students:
 
-    100. What methods have we used so far? <span style="color:grey">***Answer: We've used Mean Squared Error and Mean Absolute Error [lesson 7](lesson7.md)***</span>
+    100. What methods have we used so far? <span style="color:grey">***Answer: We've used Mean Squared Error and Mean Absolute Error [(Lesson 7)](lesson7.md)***</span>
 
-    100. When is it appropriate to use each method? <span style="color:grey">***Answer: It was best ot use Mean Squared Error when we were looking at mean and Mean Absolute Error when we were looking at median.***</span>
+    100. When is it appropriate to use each method? <span style="color:grey">***Answer: It was best to use Mean Squared Error when we were looking at mean and Mean Absolute Error when we were looking at median.***</span>
 
 7. [See graphic below] Students will calculate the distances and squares of two
 different points and their predictions so that they can understand what it means. Data points are **observed values** and points on the line are **predicted values**.

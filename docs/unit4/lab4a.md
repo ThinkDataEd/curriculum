@@ -65,7 +65,7 @@ mean ```height```.
 
 * <span style="color:midnightblue;">**On the *Plot* pane, click two data points to draw a line through.**</span>
 
-* NOTE: If your line does not appear, zoom out on your browser (50% if you have a Mac, 80% on Windows). Then run the ```add_line()``` function again and click on two points.
+* NOTE: If your line does not appear or it appears but is above the points you selected, zoom out on your browser (typically 50% if you have a Mac, 80% on Windows). Or if your line appears below the points you selected, zoom in on your browser. Then run the ```add_line()``` function again and click on two points. Zoom out (or in) until your line appears through the points you selected.
 
 ###**Predicting with lines**
 * <span style="color:firebrick;">**Draw a line that you think is a good *fit* and write down its equation. Using this equation:**</span>
