@@ -32,9 +32,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Predicting heights knowing arm spans**
 * <span style="color:midnightblue;">**Create two subsets of our ```arm_span``` data:**</span>
 
-    – <span style="color:midnightblue;">**One for ```armspan >= 61 and armspan <= 63```.**</span>
+    – <span style="color:midnightblue;">**One for ```armspan >= 61``` and ```armspan <= 63```.**</span>
     
-    – <span style="color:midnightblue;">**A second for ```armspan >= 64 and armspan <= 66```.**</span>
+    – <span style="color:midnightblue;">**A second for ```armspan >= 64``` and ```armspan <= 66```.**</span>
 
 * <span style="color:midnightblue;">**Create a ```histogram``` for the ```height``` of people in each subset.**</span>
 
@@ -70,12 +70,12 @@ mean ```height```.
 ###**Predicting with lines**
 * <span style="color:firebrick;">**Draw a line that you think is a good *fit* and write down its equation. Using this equation:**</span>
 
-    – <span style="color:firebrick;">**Predict how tall a person with a 62 ```armspan``` and a person with a 65 inch ```armspan``` would be.**</span>
+    – <span style="color:firebrick;">**Predict how tall a person with a 62-inch ```armspan``` and a person with a 65-inch ```armspan``` would be.**</span>
 
 * Using a line to make predictions also lets us make predictions for ```armspan```s that aren't in our
 data.
 
-    – <span style="color:firebrick;">**How tall would you predict a person with a 63.5 inch ```armspan``` to be?**</span>
+    – <span style="color:firebrick;">**How tall would you predict a person with a 63.5-inch ```armspan``` to be?**</span>
 
 * <span style="color:firebrick;">**Compare your answers with a neighbor. Did both of you come up with the same
 equation for a line? If not, can you tell which line fits the data best?**</span>
