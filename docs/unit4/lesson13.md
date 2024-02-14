@@ -39,7 +39,7 @@ presentation, compare it to their description of the plot, and as a team they wi
 
 	* <span style="color:grey">***Plot C: There is a linear trend. The association is positive and it is very strong. It means that the y-value increases at approximately the same rate for every increase in x value. This is a line.***</span>
 
-	* <span style="color:grey">***Plot D: The trend is non-linear. There seems to be a weak association because there is scatter in the data. Cannot tell if the association is positive or negative. It has the shape of a parabola; therefore, it is quadratic. For smaller x-values, the y-value is decreasing and for larger x values, the y value is increasing.***</span>
+	* <span style="color:grey">***Plot D: The trend is non-linear. There seems to be a weak association because there is scatter in the data. We cannot tell if the association is positive or negative. It has the shape of a parabola; therefore, it is quadratic. For smaller x-values, the y-value is decreasing and for larger x values, the y value is increasing.***</span>
 
 	* <span style="color:grey">***Plot E: The trend is non-linear. There seems to be a strong association because
 	there is little scatter in the data. It is also in the shape of a parabola, so it is
@@ -52,7 +52,7 @@ different type of trend. Although the trends are non-linear, they can still tell
 information about the y-values based on values of x. Ask:
 
     * What happens if we were to fit a linear model to these non-linear trends? Would it still
-    make good predictions? <span style="color:grey">***No. They would not make good predictors.***</span>
+    make good predictions? <span style="color:grey">***Answer: Fitting a linear model to a non-linear trend would not properly describe the trend of the data. Therefore no, it would not make good predictions.***</span>
 
 9. To examine why they would not make good predictors, draw an approximate linear best-fit line
 and get students to understand that in some regions, the model would almost always over-predict,
