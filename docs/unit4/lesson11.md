@@ -69,9 +69,9 @@ the following questions with the whole class:
     Time, it means that as the years after 1999 pass, the movie IMBD ratings decrease.***</span>
 
 5. Quickwrite: What if we had a plot with **no association**? Ask students to sketch what they think a
-scatterplot that shows no association looks like. A correct sketch will show a scatterplot with
+scatterplot that shows no association looks like. <span style="color:grey">***Answer: A correct sketch will show a scatterplot with
 data points that show no positive or negative association; no trend or pattern. There
-would be no association or a very weak one. The data would be scattered.
+would be no association or a very weak one. The data would be scattered.***</span>
 
 6. Select a couple of sketches to share with the whole class. Discuss why the sketches show no
 association.
@@ -80,10 +80,10 @@ association.
 plots and why there are equations for each plot.
 
 8. Conduct a share out of their observations. Guide students to the understanding that both plots follow a **linear** trend. This line then represents a **model** for the relationship between the two variables. The
-equations shown in the plots above represent the lines through the points. They provides a description
+equations shown in the plots above represent the lines through the points. They provide a description
 of the data and the relationship between the variables.
 
-9. Ask student teams to refer back to *What’s the Trend?* handout ([LMR_4.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.12_What’s the Trend.pdf)). They should discuss
+9. Ask student teams to refer back to the *What’s the Trend?* handout ([LMR_4.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.12_What’s the Trend.pdf)). They should discuss
 the following questions and record their responses on the *Predicting Values* handout ([LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Predicting Values.pdf)):
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Predicting Values.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.13_Predicting Values.pdf)</div>
@@ -100,7 +100,7 @@ the following questions and record their responses on the *Predicting Values* ha
     100. According to the equation, what is the slope of this line? What does the slope mean in
     relation to the number of explosions? <span style="color:grey">***Answer: The slope is 3.2536. It is the rate of change
     between the number of explosions and the profit. It means that for every explosion
-    increase the profit increases by 3.2536 dollars.***</span>
+    increase of 1 the profit increases by 3.2536 dollars.***</span>
 
     100. When the number of explosions (x-value) is zero, what is the profit (y-value)? How do you
     know? What does this mean? <span style="color:grey">***Answer: The profit is 154.3654 million dollars. Students may
