@@ -46,15 +46,15 @@ coefficient only applies to linear relationships, which must be checked visually
 Later we will learn how to calculate this number using RStudio.
 
     **<u>Note to teacher:</u>** Advance preparation is needed for this lesson. Each team needs one envelope
-    with cutouts of plots A-F in [LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Correlation Coefficient.pdf) (Part 1). Make envelopes according to the number of
-    teams in the class. This process will be repeated for [LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Correlation Coefficient.pdf) (Part 2).
+    with cutouts of plots A-F in [LMR_4.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf) (Part 1). Make envelopes according to the number of
+    teams in the class. This process will be repeated for [LMR_4.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf) (Part 2).
 
 6. Distribute the envelopes to the teams. Students will examine the strength of association in each
 plot. Their task is to assign the correlation coefficient that corresponds to each plot and to explain
 why they assigned that correlation coefficient to that particular plot. The only piece of information
 they will receive is that a correlation coefficient equal to 1 has the strongest linear association and
 a correlation coefficient equal to 0 has the weakest association.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Correlation Coefficient.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Correlation Coefficient.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf)</div>
 
 7. Assign each team one plot. If there are more teams than plots, these teams will be assigned a
 plot in the next round. Each team will share the correlation coefficient they assigned to their plot
@@ -88,8 +88,8 @@ and a correlation coefficient equal to 0 has the weakest association.
 11. Teams previously not assigned a plot are now assigned one. Each team will share the correlation
 coefficient they assigned to their plot and the explanation that goes with it.
 
-8. Using the *Voting Cards* strategy, the rest of the teams will show whether they approve,
-disapprove, or are uncertain about the teams’ assignment and/ or explanation. Lead a class
+12. Using the *Voting Cards* strategy, the rest of the teams will show whether they approve,
+disapprove, or are uncertain about the teams’ assignment and/or explanation. Lead a class
 discussion whenever there is disapproval or uncertainty. Repeat for each plot. The correlation
 coefficients for each plot are:
 
@@ -105,7 +105,7 @@ coefficients for each plot are:
 
     • <span style="color:grey">***Plot L: r = 0.00***</span>
 
-9. Journal Entry: What is a correlation coefficient, what does it do, and what does it tell us about a
+13. Journal Entry: What is a correlation coefficient, what does it do, and what does it tell us about a
 scatterplot?
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
