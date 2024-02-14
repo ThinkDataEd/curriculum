@@ -99,9 +99,9 @@ responses to the discussion questions.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.13]()</div>
 
-13. Ask students to recall from [Lesson 6](lesson6.md) that a method statisticians use to figure out which predicted values is closest to the actual data is the mean absolute error (MAE).
+13. Ask students to recall from [Lesson 7](lesson7.md) that a method statisticians use to figure out which predicted values is closest to the actual data is the mean absolute error (MAE).
 
-    **<u>Note to teacher:</u>** In the labs, students will use the mean squared error (MSE) - also learned in [Lesson 6](lesson6.md) - which calculates the regression line. In the lessons, we discuss the issue more generally using the mean absolute error (MAE).
+    **<u>Note to teacher:</u>** In the labs, students will use the mean squared error (MSE) - also learned in [Lesson 7](lesson7.md) - which calculates the regression line. In the lessons, we discuss the issue more generally using the mean absolute error (MAE).
 
 14. In teams, ask students to discuss the following:
 
