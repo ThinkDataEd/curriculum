@@ -77,7 +77,7 @@ explanation. Repeat for each plot. The correlation coefficients for each plot ar
     • <span style="color:grey">***Plot F: r = 0.00***</span>
 
 9. The last set of plots showed positive associations. Now students will assign the correlation
-coefficients for plots G-L for [LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Correlation Coefficient.pdf) (Part 2).
+coefficients for plots G-L for [LMR_4.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf) (Part 2).
 
 10. Distribute the envelopes to the teams. Students will examine the strength of association in each
 plot. Their task is to assign the correlation coefficient that corresponds to each plot and to explain
