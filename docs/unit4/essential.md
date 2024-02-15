@@ -43,7 +43,7 @@ score on the mean squared errors as small as possible.
 
 ###**<u>[Lesson 11: What’s the Trend?](lesson11.md)</u>**
 Associations are important because they help us make better predictions; the stronger the trend, the
-better the prediction we can make. “Better” in this case means that our mean squared residuals can be
+better the prediction we can make. “Better” in this case means that our mean squared errors can be
 made smaller.
 
 ###**<u>[Lesson 12: How Strong Is It?](lesson12.md)</u>**
