@@ -7,15 +7,15 @@ Exploring different datasets can give us insight about the same processes. Data 
 Data can be used to make predictions. Official datasets rely on censuses or random samples and can be used to make generalizations.
 
 ###**<u>[Lesson 3: Community Connection](lesson3.md)</u>**
-Data collected through Participatory Sensing Campaigns will be used to create models that answer real-world problems related to our community.
+Data collected through Participatory Sensing campaigns will be used to create models that answer real-world problems related to our community.
 
 ###**<u>[Lesson 4: Evaluate and Implement the Campaign](lesson4.md)</u>**
-Statistical questions guide a Participatory Sensing campaign so that we can learn about a community or
+Statistical investigative questions guide a Participatory Sensing campaign so that we can learn about a community or
 ourselves. These campaigns should be evaluated before implementing to make sure they are reasonable
 and ethically sound.
 
 ###**<u>[Lesson 5: Refine and Create the Campaign](lesson5.md)</u>**
-Statistical questions guide a Participatory Sensing campaign so that we can learn about a community or
+Statistical investigative questions guide a Participatory Sensing campaign so that we can learn about a community or
 ourselves. These campaigns should be tried before implementing to make sure they are collecting the
 data they are meant to collect and refined accordingly.
 
@@ -62,14 +62,14 @@ using several predictors in one model can produce stronger models.
 If multiple predictors are associated with the response variable, a better predictive model will be produced,
 as measured by the mean absolute error.
 
-###**<u>[Lesson 16: Grow Your Own Decision Tree](lesson16.md)</u>**
+###**<u>[Lesson 16: Footbal or Futbol?](lesson16.md)</u>**
 Some trends are not linear, so the approaches we’ve done so far won’t be helpful. We need to model such trends differently. Decision trees are a non-linear tool for classifying observations into groups when the trend is non-linear.
 
-###**<u>[Lesson 17: Data Scientists or Doctors?](lesson17.md)</u>**
+###**<u>[Lesson 17: Grow Your Own Decision Tree](lesson17.md)</u>**
 We can determine the usefulness of decision trees by comparing the number of misclassifications in each.
 
 ###**<u>[Lesson 18: Where Do I Belong?](lesson18.md)</u>**
-We can identify groups, or “clusters,” in data based on a few characteristics. For example, it is easy to classify a group of people into football players and swimmers, but what if you only knew each person’s arm span? How well could you classify them into football players and swimmers now?
+We can identify groups, or “clusters”, in data based on a few characteristics. For example, it is easy to classify a group of people into football players and swimmers, but what if you only knew each person’s arm span? How well could you classify them into football players and swimmers now?
 
 ###**<u>[Lesson 19: Our Class Network](lesson19.md)</u>**
 Networks are made when observations are interconnected. In a social setting, we can examine how
