@@ -71,7 +71,7 @@
 ### model
 
 !!! note ""
-    a mathematical model that embodies a set of statistical assumptions concerning the generation of sample data (and similar data from a larger population)
+    provides a simplified version or representation of real-life situations or data. It is used to make sense of data or make predictions based on it.
 
 
 ### negative assocation
