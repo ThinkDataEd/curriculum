@@ -45,11 +45,11 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Leafier trees**
 * <span style="color:midnightblue;">**Similar to how you included multiple variables for a linear model, create a ```tree``` that predicts whether a person ```survived``` based on their ```gender```, ```age```, ```class```, and where they ```embarked```.**</span>
 
-    – <span style="color:midnightblue;">**Assign this model the name ```tree2```.**</span>
+    – <span style="color:midnightblue;">**Call this model ```tree2```.**</span>
 
 * <span style="color:firebrick;">**Create a treeplot for this model and answer the following question:**</span>
 
-    – <span style="color:firebrick;">**Mrs. Cumings was a 38 year old female with a 1st class ticket from Cherbourg.
+    – <span style="color:firebrick;">**Mrs. Cumings was a 38-year-old female with a 1st class ticket from Cherbourg.
     Does the model predict that she survived?**</span>
 
     – <span style="color:firebrick;">**Which variable ended up not being used by ```tree```?**</span>
@@ -78,17 +78,27 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
         titanic_test <- mutate(____, prediction = predict(____, newdata = ____, type = "class"))
 
-###**Misclassification rate**
-* Now that we have predictions on our test data, we need a way to measure the accuracy of those predictions.
-
+###**Measuring model performance**
 * Similar to how we use the *mean squared error* to describe how well our model predicts numerical variables, we use the *misclassification rate* to describe how well our model predicts categorical variables.
 
     – The *misclassification rate* (MCR) is the number of people who were predicted to be in
     one category but were actually in another.
 
-    – <span style="color:midnightblue;">**Fill in the blanks to create a function to calculate the MCR.**</span>
+* <span style="color:midnightblue;">**Run the following command to see a side-by-side comparison of the actual outcome and the predicted outcome:**</span>
 
-    - Note: The operator ```!=``` checks if the left hand side and right hand side are *not* equal. It is the opposite of ```==```.
+        View(select(titanic_test, survived, prediction))
+
+* <span style="color:firebrick;">**Where does the first misclassification occur?**</span>
+
+###**Misclassification rate**
+
+* In order to tally up the total number of misclassifications, we need to create a function that compares the actual outcome with the predicted outcome. The **not equal to** operator (!=) will be useful here.
+
+* <span style="color:midnightblue;">**Fill in the blanks to create a function to calculate the MCR.**</span>
+
+* Hint: sum(____!=____) will count the number of times that the left-hand side does not equal the right-hand side.
+
+    - We want to count the number of times that actual does not equal predicted and then divide by the total number of observations.
 
         calc_mcr <- function(actual, predicted) {
         sum(____ != ____) / length(____)
