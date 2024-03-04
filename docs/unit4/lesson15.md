@@ -28,13 +28,12 @@ with how the information should be combined.
     Radio, and Newspaper ads, etc.) into one model will lead to better predictions because
     the model can use more information to make predictions.
 
-2. Ask the students to share out their opinions in an Active Debate (see [Unit 2](../unit2/overview.md) [Lesson 6](lesson6.md) as an
-example).
+2. Ask the students to share out their opinions using the *Agree/Disagree* strategy.
 
 3. Next, inform teams that they will have 2 minutes to come up with as many combinations of ads (variables) as they can think of (e.g., TV + Newspaper ads, TV+ Radio ads, TV + Radio +
 Newspaper ads, etc.)
 
-4. After 2 minutes, list all the different combinations by conducting a Whip Around and eliciting a combination from each team.
+4. After 2 minutes, list all the different combinations by conducting a *Whip Around* and eliciting a combination from each team.
 
 5. By a show of hands, ask students to select which combination or single model will be the best predictor for the number of items sold by the retailer.
 
@@ -46,13 +45,13 @@ Newspaper ads, etc.)
 
         lm(Sales ~ TV + Radio + Newspaper, data= retail)
 
-    100. Use this equation to predict the amount of sales for the same market they circled in the previous lesson. <span style="color:grey">***Students’ calculation should yield the predicted value in (b), below.***</span>
+    100. Use this equation to predict the amount of sales for the same market they circled in the previous lesson. <span style="color:grey">***Student calculations should yield the predicted value in (b), below.***</span>
     
         **<u>Note:</u>** Remind students that they need to substitute the values as they appear in the x-axis of the plots without converting to thousands of dollars. For example, the circled market spent about 10 thousand dollars on newspaper ads, so students should substitute 10 instead of the expanded value in the equation.
 
         <img src="../../img/41210.png" />
 
-    100. Does the predicted value (10.407) seem like a plausible number of sales? Why? <span style="color:grey">***It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 104,070 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
+    100. Does the predicted value (10.407) seem like a plausible number of sales? Why? <span style="color:grey">***Answer: It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 104,070 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
 
 7. Reveal that RStudio calculated the mean absolute error for different combinations plus the single models, and the results are displayed on the table below. This means that, for example, when using the TV model to predict number of items sold, our predictions will typically be off by about 2.337808 (in 10,000s) of units or 23,378 units. Then ask students:
 
@@ -72,7 +71,24 @@ Newspaper ads, etc.)
 
     100. What else do you notice about the models? <span style="color:grey">***Answer: It appears that combining the variables into one model is much better than any of the single-variable models.***</span>
 
-8. Inform the students that, in the next lab, they will find out how to create the line of best fit for models that include many variables.
+8. Think back to our statements from the last lesson and the beginning of this lesson:
+
+    100. Combining multiple variables (e.g., TV and Newspaper ads, TV and Radio ads, TV,
+    Radio, and Newspaper ads, etc.) into one model will lead to worse predictions because
+    the variables that make poor predictions will contaminate those that make good
+    predictions.
+
+    100. Combining multiple variables (e.g., TV and Newspaper ads, TV and Radio ads, TV,
+    Radio, and Newspaper ads, etc.) into one model will lead to better predictions because
+    the model can use more information to make predictions.
+
+    Engage students in a discussion to check understanding of multiple variables in a model.
+
+    100. Has their statement selection changed or stayed the same? Why?
+
+    100. What evidence do they have to support their statement selection? <span style="color:grey">***Answers will vary because students can make an argument for either statement, both statements, or neither statements being true. There is evidence in step 7 that supports that more variables will lead to worse predictions (like TV-Radio-Newspaper) but there is also evidence that more variables lead to better predictions (like TV-Radio).***</span>
+
+9. Inform the students that, in the next lab, they will find out how to create the line of best fit for models that include many variables.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
@@ -80,6 +96,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Ask students to think of a reason or reasons about why it would not be a good idea to make a scatterplot for models that include more than 3 predictor variables? <span style="color:grey">***The answer is mainly because humans are limited to seeing things in 3 dimensions. For example, the model that combines all of the variables together is a 4 dimensional model. What does that look like?***</span>
 
-[<u>***LAB 4F: This Model is Big Enough for All of Us***</u>](lab4e.md)
+[<u>***LAB 4F: This Model is Big Enough for All of Us***</u>](lab4f.md)
 
 Complete [Lab 4F](lab4f.md) prior to [Practicum](practicum1.md).

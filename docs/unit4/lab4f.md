@@ -16,13 +16,13 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – <span style="color:midnightblue;">**A set named ```training``` that includes 75% of the data.**</span>
 
-    – <span style="color:midnightblue;">**A set named ```testing``` that includes the remaining 25%.**</span>
+    – <span style="color:midnightblue;">**A set named ```test``` that includes the remaining 25%.**</span>
 
     - <span style="color:midnightblue;">**Remember to use ```set.seed```.**</span>
 
 * <span style="color:midnightblue;">**Create a linear model, using the ```training``` data, that predicts ```gross``` using ```runtime```.**</span>
 
-    – <span style="color:midnightblue;">**Compute the MSE of the model by making predictions for the ```testing``` data.**</span>
+    – <span style="color:midnightblue;">**Compute the MSE of the model by making predictions for the ```test``` data.**</span>
 
 * <span style="color:firebrick;">**Do you think that a movie's ```runtime``` is the only factor that goes into how much a
 movie will make? What else might affect a movie's ```gross```?**</span>
@@ -49,8 +49,8 @@ better predictions.**</span>
 
 * <span style="color:midnightblue;">**Create a model for all of the variables you think are relevant.**</span>
 
-    – <span style="color:firebrick;">**Assess whether your model makes more accurate predictions for the ```testing```   
+    – <span style="color:firebrick;">**Assess whether your model makes more accurate predictions for the ```test```   
     data than the model that included only ```runtime``` and ```reviews_num```**</span>
 
 * <span style="color:firebrick;">**With your neighbors, determine which combination of variables leads to the best
-predictions for the ```testing``` data.**</span>
+predictions for the ```test``` data.**</span>

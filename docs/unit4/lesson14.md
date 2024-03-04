@@ -37,16 +37,16 @@ partner. You may set a time limit for each student to share with his/her partner
 
 4. Then, in teams, students will answer the following questions pertaining to the article:
 
-    100. What is the article trying to predict?
+    100. What is the article trying to predict? <span style="color:grey">***Answer: The success of a spinoff show.***</span>
     
-    100. How many variables are used?
+    100. How many variables are used? <span style="color:grey">***Answer: Four - the original show name, the number of episodes of the original show, the name of the spinoff show, and the number of episodes of the spinoff show.***</span>
 
-    100. What other variables might affect a spinoff?
+    100. What other variables might affect a spinoff? <span style="color:grey">***Possible answers are budget or actors.***</span>
 
     100. The dotted line in the plot is not a regression line. How would you draw a regression line
-    to make predictions?
+    to make predictions? <span style="color:grey">***Answers will vary but we would want to try to "fit" a line to the plotted data.***</span>
 
-    100. What other information would you like to know to predict a spinoff’s success?
+    100. What other information would you like to know to predict a spinoff’s success? <span style="color:grey">***Answers will vary but may be similar to (c) above.***</span>
 
 5. Allow students time to discuss and record their answers. Then conduct a share out of their
 responses to the discussion questions.
@@ -78,20 +78,20 @@ responses to the discussion questions.
 
     100. The data were collected using an observational study.
 
-8. To illustrate a-d above, ask students to refer to plot A (TV ads) and circle the market in which this retailer sold the least number of items (see circles in plots above). Ask: How many items did this market sell? <span style="color:grey">***About 20,000 items. The actual number of items sold was 1.6 (in 10,000’s of units) which is 16,000 items.***</span> How much money did this retailer spend on TV ads in this market? <span style="color:grey">***This retailer spent zero dollars on TV ads. The actual amount the retailer spent on TV ads was 0.7 thousands of dollars, which is $700.***</span>
+8. To illustrate a-d above, ask students to refer to plot A (TV ads) and circle the market in which this retailer sold the least number of items (see circles in plots above). Ask: How many items did this market sell? <span style="color:grey">***Answer: About 20,000 items. The actual number of items sold was 1.6 (in 10,000’s of units) which is 16,000 items.***</span> How much money did this retailer spend on TV ads in this market? <span style="color:grey">***Answer: This retailer spent zero dollars on TV ads. The actual amount the retailer spent on TV ads was 0.7 thousands of dollars, which is $700.***</span>
 
-9. Students should then refer to plot B (Radio ads), find the same market (the one in which the retailer sold about 20,000 items) and circle it. Ask: How much money did the retailer spend on Radio ads in the same market? <span style="color:grey">***About 40 thousand dollars. The actual amount spent on Radio ads was 39.6 thousands of dollars, which is $39,600.***</span>
+9. Students should then refer to plot B (Radio ads), find the same market (the one in which the retailer sold about 20,000 items) and circle it. Ask: How much money did the retailer spend on Radio ads in the same market? <span style="color:grey">***Answer: About 40 thousand dollars. The actual amount spent on Radio ads was 39.6 thousands of dollars, which is $39,600.***</span>
 
-10. Finally, ask students to refer to plot C (Newspaper ads), find the same market (the one in which the retailer sold about 20,000 items), and circle it. Ask: How much money did the retailer spend on Newspaper ads in the same market? <span style="color:grey">***About 10 thousand dollars. About The actual amount spent on Newspaper ads is 8.7 thousands of dollars, which is $8,700***</span>
+10. Finally, ask students to refer to plot C (Newspaper ads), find the same market (the one in which the retailer sold about 20,000 items), and circle it. Ask: How much money did the retailer spend on Newspaper ads in the same market? <span style="color:grey">***Answer: About 10 thousand dollars. About The actual amount spent on Newspaper ads is 8.7 thousands of dollars, which is $8,700***</span>
 
     <img src="../../img/41210.png" />
 
 11. Based on the above plots, use a Pair-Share to discuss the following:
 
-    100. Describe the relationship between advertisements and the number of items sold.
+    100. Describe the relationship between advertisements and the number of items sold. <span style="color:grey">***Answers will vary but we would expect the number of items sold to increase with increased advertisements.***</span>
 
     100. Which type of advertisement is the most strongly correlated with the number of units
-    sold? How can you tell?
+    sold? How can you tell? <span style="color:grey">***Answer: Plot A, TV advertisements, appears to be the most strongly correlated with the number of units sold. We can tell because the points are more closely packed/together than in plots B or C.***</span>
 
 12. Distribute the *Advertising Plots Part 2* handout ([LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf)), which contains plots A-C, but now include the line of best fit.
 
