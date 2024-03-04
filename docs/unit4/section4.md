@@ -2,10 +2,10 @@
 Instructional Days: 3
 
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
-Decision trees are used to classify observations into similar groupings based on known characteristics. Yes/no questions are asked, then the observations are sorted based on the responses to the questions. After a specified number of iterations, a final group membership is decided. One particular modeling tool we use for decision trees is known as CART (Classification and Regression Trees).
+Decision trees are used to classify observations into similar groupings based on known characteristics. Questions are asked, then the observations are sorted based on the responses to the questions. After a specified number of iterations, a final group membership is decided. One particular modeling tool we use for decision trees is known as CART (Classification and Regression Trees).
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will participate in the *CART Activity* described in [Lesson 12](lesson12.md). They will classify football and soccer players into categories based on player characteristics.
+Students will be presented with the question about whether they would rather trust a doctor or a data scientist to diagnose them if they were having a chest pains. This will set the context for decision trees and how they are used to make predictions.
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
@@ -25,14 +25,24 @@ Understand that classification and regression trees can be used to predict membe
 Cardiologists may use a decision tree to diagnose whether people are or are not having a heart attack. Since the late 1870’s, this method has been found to correctly diagnose a heart attack in over 95% of cases compared to correct diagnoses based on individual doctors’ expertise, which ranged between 75 and 90%.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding of data, how it is collected, how it is used, and how to work with it.
+1. Students will engage in partner and whole group discussions to express their understanding of classification trees.
 
-2. Students will engage in partner and whole group discussions and presentations to express their understanding of data science concepts.
+2. Students will explain orally and in writing how to determine the accuracy of their non-linear model.
+
+3. Students will make connections between decision trees and linear models in writing.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
+<ins>*Dataset:*</ins>
+
+1. USMNT/NFL dataset
+
 <ins>*Data File:*</ins>
 
-1. Titanic: data(titanic)
+1. Titanic: ```data(titanic)```
+
+<ins>*Data Collection:*</ins>
+
+Students will collect data for their Team Participatory Sensing campaign.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)
