@@ -112,7 +112,7 @@ numerical variables and asked to find similarities. This is where clustering com
 
 19. Have the students continue working through the handout until the cluster membership remains the same between 2 consecutive rounds. This means that, from one iteration to the next, the points in each cluster do not change.
 
-20. Where you choose your initial points matters in determining which points end up in which clusters. Demonstrate this to the class using the K-means Clustering App, located on the Applications page on Portal under Explore [https://portal.idsucla.org/#curriculum/applications/](https://portal.idsucla.org/#curriculum/applications/ "https://portal.idsucla.org/#curriculum/applications/"){:target="_blank"}.
+20. Where you choose your initial points matters in determining which points end up in which clusters. Demonstrate this to the class using the K-means Clustering App, located on the Applications page on Portal under Explore ([https://portal.idsucla.org/#curriculum/applications/](https://portal.idsucla.org/#curriculum/applications/ "https://portal.idsucla.org/#curriculum/applications/"){:target="_blank"}).
 
     100. In the app, "centroids" is the academic term for cluster centers. For this example, we will use 3 centroids and choose a "Clustered Initialization" with 100 points and 3 Clusters. See image below for how to adjust the settings.
 
