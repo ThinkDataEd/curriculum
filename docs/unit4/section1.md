@@ -31,7 +31,7 @@ Students will apply the conceptual understandings learned up to this point in th
 
 <ins>*Applied Computational Thinking using RStudio:*</ins>
 
-• Previous techniques from the curriculum will be used in order to complete the task.
+• Create a Participatory Sensing campaign using a campaign Authoring Tool.
 
 <ins>*Real-World Connections:*</ins>
 
@@ -52,7 +52,7 @@ understanding of data science concepts.
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 <ins>*Data File:*</ins>
 
-1. Trash: data (trash)
+1. Trash: ```data(trash)```
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

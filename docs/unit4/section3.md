@@ -38,8 +38,6 @@ linear models are not appropriate based on the shape of the scatterplot.
 
 • Fit regression lines to data and predict outcomes.
 
-• Create non-linear models to look for relationships.
-
 • Fit polynomials functions to data.
 
 <ins>*Real-World Connections:*</ins>
@@ -48,24 +46,22 @@ Economists and marketing firms use multiple regression to predict changes in the
 strategies to fit the demands of changes in the marketplace.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used and how to work with it.
+1. Students will read informative texts to evaluate claims based on data.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will engage in partner and whole group discussions about how adding variables to a model will help or hinder its predictions.
 
-3. Students will read informative texts to evaluate claims based on data.
+3. Students will construct their own linear model using multiple variables to compare and contrast which model makes the best predictions.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-<ins>*Data Set:*</ins>
-
-1. NFL data set
-
-2. USMNT data set
-
 <ins>*Data File:*</ins>
 
-3. Movies: data(movie)
+1. Movies: ```data(movie)```
+
+2. Cereal brands: ```data(cereal)```
+
+<ins>*Data Collection:*</ins>
+
+Students will collect data for their Team Participatory Sensing campaign.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

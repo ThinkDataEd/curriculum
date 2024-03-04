@@ -8,11 +8,7 @@ variable that is not explained by the independent variable. Although the regress
 predictions when the association is linear, other models are needed for when it is not linear.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will analyze a map from the Medical Daily website. The map and its article called *How Twitter
-Can Predict Heart Disease: Negative Tweets Associated With Stress, Higher Risk Of Disease*, shows a
-side-by-side comparison of CDC heart attack deaths data and Twitter’s predicted data. They will engage
-in a discussion comparing and contrasting the visualization. The map can be found at:   
-[https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830](https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830 "https://www.medicaldaily.com/how-twitter-can-predict-heart-disease-negative-tweets-associated-stress-higher-risk-318830"){:target="_blank"}
+Students will will explore and make predictions with a dataset consisting of arm span and height values from a group of Los Angeles high school students. The Arm Span vs. Height data allows for a real-world connection while learning about linear models and predictions. They will engage in multiple discussions as they build their understanding of linear models, refine how they make their predictions, and test the accuracy of those predictions.   
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
@@ -64,8 +60,6 @@ potential error in a linear model.
 
 • Compute the correlation coefficient of a linear model.
 
-• Create a Participatory Sensing campaign using a campaign Authoring Tool.
-
 <ins>*Real-World Connections:*</ins>
 
 Many studies are published in which predictions are made, and media reports often cite data that make
@@ -74,25 +68,24 @@ education, weight vs. exercise, and cost of insurance vs. age. Understanding lin
 evaluate these studies and reports.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used and how to work with it.
+1. Students will use complex sentences to construct summary statements about their understanding of Mean Squared Error and Mean Absolute Error.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will engage in partner and whole group discussions to express their understanding of linear regression and how to measure its accuracy.
 
-3. Students will use complex sentences to write informative short reports that use data science
-concepts and skills.
+3. Students will use mathematical vocabulary to explain orally and in writing the attributes of various scatterplots.
 
-4. Students will read informative texts to evaluate claims based on data.
+4. Students will make connections, in writing, between predictions using different types of models (i.e., linear, quadratic, cubic).
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 <ins>*Data File:*</ins>
 
-1. Movies (movie)
+1. Arm Spans vs. Heights: ```data(arm_span)```
+
+2. Movies: ```data(movie)```
 
 <ins>*Data Collection:*</ins>
 
-Students will collect data for their team participatory sensing campaign.
+Students will collect data for their Team Participatory Sensing campaign.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)
