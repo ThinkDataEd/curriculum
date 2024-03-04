@@ -19,7 +19,7 @@ Your team will use the data to make predictions using linear models and compare 
 model to the rest of your classmates. Finally, the class will determine which team had the best prediction.
 Follow the directions below to explore and analyze the data:
 
-1. You will have two data sets: one for training named ***cereal*** and one for testing named ***cereal_test***. Load both data sets. Write down
+1. You will have two data sets: one training named ***cereal*** and one test named ***cereal_test***. Load both data sets. Write down
 the code you used.
 
 2. Explore the training data. Make several plots of different variable combinations and fit a linear
@@ -31,10 +31,10 @@ regression line through them. Select the model that you think best makes the bes
 
     b. Explain why you selected that particular model.
 
-    c. Compute the mean absolute error of your model using your testing data.
+    c. Compute the mean absolute error of your model using your test data.
 
-    d. Now make a set of predictions with your testing data. Calculate the mean absolute error
-    for the testing data. Is it better or worse than for the training data, or about the same?
+    d. Now make a set of predictions with your test data. Calculate the mean absolute error
+    for the test data. Is it better or worse than for the training data, or about the same?
 
 4. Present your team’s linear model to the class. Explain why you chose your model and the typical
 amount of error in its predictions.
