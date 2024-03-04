@@ -2978,6 +2978,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#measuring-model-performance" class="md-nav__link">
+    Measuring model performance
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#misclassification-rate" class="md-nav__link">
     Misclassification rate
   </a>
@@ -3526,6 +3533,13 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#measuring-model-performance" class="md-nav__link">
+    Measuring model performance
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#misclassification-rate" class="md-nav__link">
     Misclassification rate
   </a>
@@ -3610,11 +3624,11 @@ How do you know?</strong></span></p>
 <ul>
 <li>
 <p><span style="color:midnightblue;"><strong>Similar to how you included multiple variables for a linear model, create a <code>tree</code> that predicts whether a person <code>survived</code> based on their <code>gender</code>, <code>age</code>, <code>class</code>, and where they <code>embarked</code>.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Assign this model the name <code>tree2</code>.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>Call this model <code>tree2</code>.</strong></span></p>
 </li>
 <li>
 <p><span style="color:firebrick;"><strong>Create a treeplot for this model and answer the following question:</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Mrs. Cumings was a 38 year old female with a 1st class ticket from Cherbourg.
+<p>– <span style="color:firebrick;"><strong>Mrs. Cumings was a 38-year-old female with a 1st class ticket from Cherbourg.
 Does the model predict that she survived?</strong></span></p>
 <p>– <span style="color:firebrick;"><strong>Which variable ended up not being used by <code>tree</code>?</strong></span></p>
 </li>
@@ -3652,19 +3666,35 @@ Does the model predict that she survived?</strong></span></p>
 </ul>
 </li>
 </ul>
-<h3 id="misclassification-rate"><strong>Misclassification rate</strong></h3>
+<h3 id="measuring-model-performance"><strong>Measuring model performance</strong></h3>
 <ul>
-<li>
-<p>Now that we have predictions on our test data, we need a way to measure the accuracy of those predictions.</p>
-</li>
 <li>
 <p>Similar to how we use the <em>mean squared error</em> to describe how well our model predicts numerical variables, we use the <em>misclassification rate</em> to describe how well our model predicts categorical variables.</p>
 <p>– The <em>misclassification rate</em> (MCR) is the number of people who were predicted to be in
 one category but were actually in another.</p>
-<p>– <span style="color:midnightblue;"><strong>Fill in the blanks to create a function to calculate the MCR.</strong></span></p>
+</li>
+<li>
+<p><span style="color:midnightblue;"><strong>Run the following command to see a side-by-side comparison of the actual outcome and the predicted outcome:</strong></span></p>
+<pre><code>View(select(titanic_test, survived, prediction))
+</code></pre>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>Where does the first misclassification occur?</strong></span></p>
+</li>
+</ul>
+<h3 id="misclassification-rate"><strong>Misclassification rate</strong></h3>
 <ul>
 <li>
-<p>Note: The operator <code>!=</code> checks if the left hand side and right hand side are <em>not</em> equal. It is the opposite of <code>==</code>.</p>
+<p>In order to tally up the total number of misclassifications, we need to create a function that compares the actual outcome with the predicted outcome. The <strong>not equal to</strong> operator (!=) will be useful here.</p>
+</li>
+<li>
+<p><span style="color:midnightblue;"><strong>Fill in the blanks to create a function to calculate the MCR.</strong></span></p>
+</li>
+<li>
+<p>Hint: sum(<strong><em>_!=</em></strong>_) will count the number of times that the left-hand side does not equal the right-hand side.</p>
+<ul>
+<li>
+<p>We want to count the number of times that actual does not equal predicted and then divide by the total number of observations.</p>
 <p>calc_mcr &lt;- function(actual, predicted) {
 sum(<strong><em>_ != </em></strong>_) / length(____)
 }</p>
