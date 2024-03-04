@@ -63,10 +63,10 @@
 !!! note ""
     tells you how close a regression line is to a set of points; is determined by finding the average of the squared differences between your guess and the actual values
 
-### misclassifications
+### misclassification rate
 
 !!! note ""
-    when a participant is placed into the wrong population or subgroup or category because of some kind of observational or measurement error
+    the proportion of observations who were predicted to be in one category but were actually in another
 
 ### model
 
