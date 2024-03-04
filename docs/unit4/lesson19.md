@@ -26,16 +26,16 @@ Students will participate in an activity to map out their own network based on a
 
 2. Ask the following questions about the graphic:
 
-    100. What does each dot represent? <span style="color:grey">***Each dot represents one person.***</span>
+    100. What does each dot represent? <span style="color:grey">***Answer: Each dot represents one person.***</span>
 
-    100. What does each line represent? <span style="color:grey">***Each line represents a friendship between two
+    100. What does each line represent? <span style="color:grey">***Answer: Each line represents a friendship between two
     people.***</span>
 
-    100. How are all the people in this graphic connected to each other? <span style="color:grey">***They are all friends with the person whose Facebook this is.***</span>
+    100. How are all the people in this graphic connected to each other? <span style="color:grey">***Answer: They are all friends with the person whose Facebook this is.***</span>
     
-    100. Why are some areas denser than others? <span style="color:grey">***A lot of people in the darker spots know each other, so there are more connections/friendships.***</span>
+    100. Why are some areas denser than others? <span style="color:grey">***Answer: A lot of people in the darker spots know each other, so there are more connections/friendships.***</span>
 
-    100. Why are some people not in groups at all (the dots at the edges of the graphic)? <span style="color:grey">***The main person does not have any friends in common with this person.***</span>
+    100. Why are some people not in groups at all (the dots at the edges of the graphic)? <span style="color:grey">***Answer: The main person does not have any friends in common with this person.***</span>
 
     100. What might some of the groupings (the denser spots) represent? <span style="color:grey">***Answers will vary. Some examples include high school friends, college friends, graduate school friends, family members, or people who participate in similar hobbies.***</span>
 
@@ -85,7 +85,7 @@ index cards are included, along with how you would input the data.
 
     100. Be sure to change the file name when reading in the .csv file in Line 7 of the code.
     
-    100. Read the comments in Lines 91-96 to help find the 5 most popular people in the class’s network. This may require some edits to Lines 97 and 108
+    100. Read the comments in Lines 91-96 to help find the 5 most popular people in the class’s network. This may require some edits to Lines 97 and 108.
 
         <img src="../../img/42107.png" />
 
@@ -93,4 +93,4 @@ index cards are included, along with how you would input the data.
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Next Day**</p>
-Students will end their water usage campaign data collection after today’s lesson. Starting the next day, they will analyze their data as part of the [End of Unit 4 project](end.md).
+Students will end their Team Participatory Sensing campaign data collection after today’s lesson. Starting the next day, they will analyze their data as part of the [End of Unit 4 project](end.md).
