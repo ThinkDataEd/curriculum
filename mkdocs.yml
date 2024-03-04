@@ -293,8 +293,8 @@ nav:
             - 'Practicum: Predictions' : unit4/practicum1.md
         - 'Section 4': 
             - 'Decisions, Decisions!' : unit4/section4.md
-            - 'Lesson 16: Grow Your Own Decision Tree' : unit4/lesson16.md
-            - 'Lesson 17: Data Scientists or Doctors?' : unit4/lesson17.md
+            - 'Lesson 16: Football or Futbol?' : unit4/lesson16.md
+            - 'Lesson 17: Grow Your Own Decision Tree' : unit4/lesson17.md
             - 'LAB 4G: Growing Trees' : unit4/lab4g.md            
         - 'Section 5': 
             - 'Ties That Bind' : unit4/section5.md
