@@ -11,9 +11,7 @@ Networks classify people into groupings based on who knows whom. Nodes are forme
 relationship between two people is present.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will participate in the *Find the Clusters Activity* described in [Lesson 14](lesson14.md). They will determine
-which points in a plot should be grouped as football players and which points should be grouped as
-swimmers.
+Students will determine which points in a plot should be grouped as football players and which points should be grouped as swimmers based on clustering of characteristics.
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
@@ -41,14 +39,22 @@ example, dividing countries into similar groups using k-means to make fair compa
 applicable.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used, and how to work with it.
+1. Students will write, in their own words, an explanation of k-means clustering.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will describe the differences between time spent on videogames and time spent on homework, from their own class data.
 
-3. Students will use complex sentences to write informative short reports that use data science
-concepts and skills.
+3. Students will create visualizations and numerical summaries to explain and justify, orally and in writing, a recommendation to better their community.
+
+##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
+<ins>*Data File:*</ins>
+
+1. USMNT and NFL: ```data(titanic)```
+
+2. Students' *TimeUse* campaign data
+
+<ins>*Data Collection:*</ins>
+
+Students will collect data for their Team Participatory Sensing campaign.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)
