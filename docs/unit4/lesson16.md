@@ -99,7 +99,7 @@ Students will learn what decision trees look like and how they can be used to cl
 16. Distribute one question/classification from the *CART Activity Round 1 Questions* ([LMR_4.21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 1.pdf)) to each node.
 
 17. Arrange the 7 nodes in the room as depicted by the graphic below:
-<img src="../../img/41813.png" />
+<center><img src="../../img/41813.png" /></center>
 
 18. Now, each “player”, one at a time, will approach *1 - Root Node*, who will ask the “player” the question listed on his/her card. Depending on the player’s answer, *1 - Root Node* will direct the “player” to the next node.
 
@@ -109,7 +109,7 @@ Students will learn what decision trees look like and how they can be used to cl
 
 21. After each player has been classified, record the classifications in the table below. The tally marks below correspond with classified incorrectly (red) and classified correctly (black), if all the player stats cards are used.
 
-<img src="../../img/tree1.png" />
+<center><img src="../../img/tree1.png" /></center>
 
 **<u>Note:</u>** This table will be referenced again later. A filled-out version is available in the next lesson.
 
@@ -118,7 +118,8 @@ Students will learn what decision trees look like and how they can be used to cl
 22. Ask students, "How successful were we in classifying players correctly?" <span style="color:grey">***Answers will vary but if all the activity player stats cards were used then 10/15, or 67%, were classfied correctly. Students might measure success by saying that we only misclassified players 5/15, or 33%, of the time - this is called the misclassification rate (MCR) and will be defined in the next lesson.***</span>
 
 23. After proceeding through “Round 1,” ask an additional 5 students to come up as more nodes, distribute the cards from the CART Activity Round 2 Questions strips ([LMR_4.22](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Round 2.pdf)), and arrange the students like the diagram below:
-<img src="../../img/41819.png" />
+
+<center><img src="../../img/41819.png" /></center>
 
 24. Have each “player” go through this new set of nodes until they are re-classified by these new rules.
 
