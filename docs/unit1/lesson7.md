@@ -31,6 +31,15 @@ distribution prior to the lesson**
     data whenever a "trigger" event occurs. Our ability to learn about the patterns in our life through these
     data depends on our being reliable data collectors.
 
+!!! warning "Before implementing the IDS curriculum, ensure that:"
+    a) Students have been placed in teams and each student understands his or
+    her role in the team.
+
+    b) Each student knows who his/her partner is within each team.
+
+    c) Expectations regarding collaborative teamwork are discussed and
+    understood (see [Team Roles](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_CPM_Team Roles.pdf) in [Teacher Resources](../download/resources.md)).
+    
 ###**Lesson:**
 1. Become familiar with the *Food Habits Campaign* guidelines (shown at the end of this lesson),
 especially the big questions found under “1. The Issues,” to help guide students during the

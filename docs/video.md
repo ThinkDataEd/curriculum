@@ -5,10 +5,11 @@
     <img src = ../img/manager.png></img>
     <div>
     <details>
-    <summary>Campaign Instructions</summary>
+    <summary>Campaign Manager</summary>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/ZTGPbhgqIc0')">Managing Campaign Settings</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/RLIOoLhakg8')">Managing Campaign Responses</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/4mChtv5qy1g')">Export, Upload, Import</a><br>
-      <a href="javascript:openVideoModal('https://www.youtube.com/embed/ZTGPbhgqIc0')">Managing Campaign Settings</a><br>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/PzwMCHOghnI')">Creating a Campaign</a><br>
     </details>
     </div>
   </div>
@@ -16,8 +17,9 @@
     <img src = ../img/survey.png></img>
     <div>
     <details>
-    <summary>Survey Instructions</summary>
-      <a href="javascript:openVideoModal('https://www.youtube.com/embed/98MQnD05aDM')">Survey Taking</a><br>
+    <summary>Survey Taking</summary>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/hksbF5QWY2E')">Survey Taking via Browser</a><br>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/GbR22R32mhU')">Survey Taking via App</a><br>
     </details>
     </div>
   </div>
@@ -25,7 +27,7 @@
     <img src = ../img/dashboard.png></img>
     <div>
     <details>
-    <summary>Dashboard Instructions</summary>
+    <summary>Dashboard</summary>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/d0BDaHKOqOg')">Navigating the Dashboard</a><br>
     </details>
     </div>
@@ -34,7 +36,7 @@
     <img src = ../img/plotapp.png></img>
     <div>
     <details>
-    <summary>PlotApp Instructions</summary>
+    <summary>PlotApp</summary>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/Jks39Gxi6dA')">PlotApp</a><br>
     </details>
     </div>
@@ -43,7 +45,7 @@
     <img src = ../img/monitoring.png></img>
     <div>
     <details>
-    <summary>Monitoring Instructions</summary>
+    <summary>Campaign Monitoring</summary>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/EV-uEh_0ogM')">Teacher Campaign Monitoring Tool</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/Xg9Fl9arETw')">Student Campaign Monitoring Tool</a><br>
     </details>
@@ -53,7 +55,7 @@
     <img src = ../img/document.png></img>
     <div>
     <details>
-    <summary>Documents Instructions</summary>
+    <summary>Documents</summary>
       No video
     </details>
     </div>
@@ -71,7 +73,7 @@
     <img src = ../img/classsetup.png></img>
     <div>
     <details>
-    <summary>Class Setup Instructions</summary>
+    <summary>Class Management</summary>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/0M2vG7NYHkQ')">Create and Manage a Class</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/dtWF291XwzE')">Splitting Columns in Excel</a><br>
     </details>
@@ -81,12 +83,12 @@
     <img src = ../img/rstudio.png></img>
     <div>
     <details>
-    <summary>RStudio Instructions</summary>
+    <summary>RStudio</summary>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/vgh7C8U8Ekk')">Accessing RStudio through Posit Cloud</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/1bXLsKwY7bY')">Posit Cloud Admin View</a><br>
-      <a href="javascript:openVideoModal('https://www.youtube.com/embed/WkxCfaol3pE')">Navigating Rstudio</a><br>
-      <a href="javascript:openVideoModal('https://www.youtube.com/embed/4mChtv5qy1g')">Export, Upload, Import</a><br>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/WkxCfaol3pE')">Rstudio Basics (Unit 1 Lesson 13)</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/v3qPfE4ruQA')">Lab 1A</a><br>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/4mChtv5qy1g')">Export, Upload, Import</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/N5KpS0MFk7Y')">Decluttering Environment</a><br>
       <a href="javascript:openVideoModal('https://www.youtube.com/embed/vZpwB6KM0Pg')">Moving Files Between Projects</a><br>
 
@@ -97,9 +99,8 @@
     <img src = ../img/dropdown.png></img>
     <div>
     <details>
-    <summary>Dropdown Menu Items</summary>
-      <a href="javascript:openVideoModal('https://www.youtube.com/embed/rKZa4MW1dHU')">Accessing Curriculum</a><br>
-      <a href="javascript:openVideoModal('https://www.youtube.com/embed/ZzXL3MXRSdY')">Screenshot and History Tools</a><br>
+    <summary>Dropdown Menu</summary>
+      <a href="javascript:openVideoModal('https://www.youtube.com/embed/NxQaRIovY3s')">Navigating the Dropdown Menu</a><br>
     </details>
     </div>
   </div>
