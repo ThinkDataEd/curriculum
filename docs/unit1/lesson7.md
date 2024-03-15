@@ -15,6 +15,8 @@ distribution prior to the lesson**
 
 4. *Food Habits Campaign* guidelines ([LMR_U1_Campaign_Food Habits](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Food Habits.pdf))
 
+5. Optional: You can show [this video](https://www.youtube.com/embed/hksbF5QWY2E) to show students how to take a survey using the browser or [this video](https://www.youtube.com/embed/GbR22R32mhU) for the app..
+
 ###**Vocabulary:**
 [Participatory Sensing](../../vocabulary/unit1/#participatory sensing "an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to explore interesting aspects of their worlds ranging from health to culture"){ .md-button }
 [campaign](../../vocabulary/unit1/#campaign "gather and collect data"){ .md-button }
@@ -31,15 +33,11 @@ distribution prior to the lesson**
     data whenever a "trigger" event occurs. Our ability to learn about the patterns in our life through these
     data depends on our being reliable data collectors.
 
-!!! warning "Before implementing the IDS curriculum, ensure that:"
-    a) Students have been placed in teams and each student understands his or
-    her role in the team.
+!!! warning "Before students begin collecting data, ensure that:"
+    a) The campaign settings are set to your preference.
 
-    b) Each student knows who his/her partner is within each team.
+    b) Watch [this video](https://www.youtube.com/embed/ZTGPbhgqIc0) to learn about campaign settings.
 
-    c) Expectations regarding collaborative teamwork are discussed and
-    understood (see [Team Roles](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_CPM_Team Roles.pdf) in [Teacher Resources](../download/resources.md)).
-    
 ###**Lesson:**
 1. Become familiar with the *Food Habits Campaign* guidelines (shown at the end of this lesson),
 especially the big questions found under “1. The Issues,” to help guide students during the
@@ -109,7 +107,8 @@ campaign. If no campaigns are visible, ask them to tap the refresh option, locat
 hand side of the screen.
 
 13. Using one of their nutrition facts cutouts or pictures, ask students to complete their first survey by
-going through the questions in the app.
+going through the questions in the app.  
+Optional: This is where you can show [this video](https://www.youtube.com/embed/hksbF5QWY2E) to show students how to take a survey using the browser or [this video](https://www.youtube.com/embed/GbR22R32mhU) for the app.
 
 14. After every student has had the opportunity to complete at least one survey, ask students the
 meaning of the word **ethics**. For this course, they will need to understand **photo ethics**. They

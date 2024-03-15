@@ -46,6 +46,10 @@ the distributions give us information about the variability of the data.
     Distributions organize data for us by telling us (a) which values of a variable were
     observed, and (b) how many times the values were observed (their frequency).
 
+!!! warning "In preparation for this lesson, ensure that:"
+    a) You watch [this video](https://www.youtube.com/embed/EV-uEh_0ogM) on the Campaign Monitoring Tool.
+
+    b) Each day, preview student responses to ensure appropriate inputs. Watch [this video](https://www.youtube.com/embed/RLIOoLhakg8) to learn how to manage student responses.
 
 ###**Lesson:**
 

@@ -21,6 +21,11 @@ They will use the Dashboard and PlotApp, tools that are easy to learn. This firs
     perform the analysis step of the Data Cycle, though humans need to tell the computer which plots we
     wish to examine.
 
+!!! warning "In preparation for this lesson, watch these two videos:"
+    a) [Navigating the Dashboard](https://www.youtube.com/embed/d0BDaHKOqOg)
+
+    b) [Navigating the Plot App](https://www.youtube.com/embed/Jks39Gxi6dA)
+
 ###**Lesson:**
 1. Ask students to reflect about their experience so far with the Food Habits Participatory Sensing
 campaign by completing the *Food Habits Check-In* handout ([LMR_1.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.11_Food Habits Check-In.pdf)).

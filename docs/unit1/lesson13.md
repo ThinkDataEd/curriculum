@@ -35,6 +35,9 @@ data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )
 
     c) You are familiar with managing your RStudio/Posit Teacher Space. See video **[here](https://www.youtube.com/watch_popup?v=1bXLsKwY7bY "https://www.youtube.com/watch_popup?v=1bXLsKwY7bY"){:target="_blank"}**.
 
+!!! warning "In preparation for this lesson, watch this video:"  
+    [RStudio Basics](https://www.youtube.com/embed/WkxCfaol3pE)
+
 ###**Lesson:**
 1. Inform students that the Dashboard and PlotApp are data visualization tools that are coded in R,
 the statistical programming software that academics and professional statisticians use. The

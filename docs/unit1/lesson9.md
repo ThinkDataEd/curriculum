@@ -12,6 +12,10 @@ determining any point clusters.
 
 3. Markers, dot stickers, or sticky notes
 
+4. [Student Monitoring Tool Video](https://www.youtube.com/embed/Xg9Fl9arETw)
+
+5. Optional: [Real-time Data Collection App Video](https://www.youtube.com/embed/N-CkhD33IxE)
+
 ###**Vocabulary:**
 [typical](../../vocabulary/unit1/#typical ""mean" or "average"; expected values"){ .md-button }
 [center](../../vocabulary/unit1/#center "useful for numerical variables, the center of the distribution often corresponds with the notion of 'typical value'"){ .md-button }
@@ -24,6 +28,9 @@ determining any point clusters.
     The “center” of a distribution is a deliberately vague term, but it is one way to
     answer the subjective question "what is a typical value?" The center could be the perceived balancing
     point or the value that approximately cuts the area of the distribution in half.
+
+!!! warning "Optional: Advanced Preparation Needed"
+    Watch [this video](https://www.youtube.com/embed/N-CkhD33IxE) to learn how to collect data in real time! You may consider using this tool for steps 12-13 in this lesson.
 
 ###**Lesson:**
 1. **<u>Food Habits Campaign Data Collection Monitoring:</u>**
@@ -42,6 +49,8 @@ determining any point clusters.
         
         200. Using TPS, ask students to think about what they can do to increase their data
         collection.
+
+    100. Encourage students to monitor their own data collection. Show [this video](https://www.youtube.com/embed/Xg9Fl9arETw).
 
 2. Inform students that today they will be learning about a distribution’s **typical** value.
 
@@ -128,7 +137,7 @@ variability? Why or why not?
 13. Next, have the students write down the number of hours of sleep they hope to get this Saturday.
 How do they think this plot will differ from the first plot? Focus discussion on the shape, center,
 and spread of the distributions. Repeat steps 8-9 and discuss how this plot is similar and/or
-different than the first plot.
+different than the first plot.  
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics

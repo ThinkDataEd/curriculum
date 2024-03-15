@@ -152,6 +152,11 @@ day were.
 Students should calculate the MAD values for each of the other 3 personality color scores and
 compare the values of the 4 color scores.
 
+!!! warning "Declutter your Environment Pane"
+    Unit 2 utilizes new datasets so it's a good idea to declutter your Environment Pane.
+
+    Refer students to [this video](https://www.youtube.com/embed/N5KpS0MFk7Y) or demonstrate it on your own Environment.
+
 [<u>***LAB 2A: All About Distributions***</u>](lab2a.md)
 
 Complete [Lab 2A](lab2a.md) prior to [Lesson 5](lesson5.md).
