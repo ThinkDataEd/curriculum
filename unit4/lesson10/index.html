@@ -2688,8 +2688,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#homework-next-2-days" class="md-nav__link">
-    Homework &amp; Next 2 Days
+  <a href="#homework-next-day" class="md-nav__link">
+    Homework &amp; Next Day
   </a>
   
 </li>
@@ -3519,8 +3519,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#homework-next-2-days" class="md-nav__link">
-    Homework &amp; Next 2 Days
+  <a href="#homework-next-day" class="md-nav__link">
+    Homework &amp; Next Day
   </a>
   
 </li>
@@ -3552,7 +3552,12 @@
 <p>Students will understand that the mean squared error (MSE) is a way to assess the fit of a linear model. The MSE measures the total squared distances between all the data values from the line of best fit and divides it by the number of observations in the dataset.</p>
 <h3 id="materials"><strong>Materials:</strong></h3>
 <ol>
-<li><em>Arm Span vs. Height</em> Scatterplot (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.9_Arm%20Span%20vs%20Height.pdf">LMR_4.9_Arm Span vs Height</a>) from <a href="../lesson8/">lesson 8</a></li>
+<li>
+<p><em>Arm Span vs. Height</em> Scatterplot (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.9_Arm%20Span%20vs%20Height.pdf">LMR_4.9_Arm Span vs Height</a>) from <a href="../lesson8/">lesson 8</a></p>
+</li>
+<li>
+<p><em>Testing Line of Best Fit</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.11_Testing%20Line%20of%20Best%20Fit.pdf">LMR_4.11_Testing Line of Best Fit</a>)</p>
+</li>
 </ol>
 <h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
 <p><a class="md-button" href="../../vocabulary/unit4/#regression-line" title="a regression line is a line that best describes the behavior of a set of data">regression line</a>
@@ -3568,6 +3573,17 @@ make your score on the mean squared errors as small as possible.</p>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
 <ol>
 <li>
+<p>Ask student teams to refer back to the <em>Arm Span vs. Height</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.9_Arm%20Span%20vs%20Height.pdf">LMR_4.9</a>) but this time have them look at the zoomed out scatterplot.
+<img src="../../img/40908.png" /></p>
+</li>
+<li>
+<p>Using their understanding of a line of best fit from The Spaghetti Line lesson and Lab 4A, have them draw (or use strands of spaghetti) what they believe to be the line of best fit for the data.
+<strong><u>Note:</u></strong> They can use their equations from Lab 4A as a guide but note that it will be difficult to plot decimals on this scatterplot.</p>
+</li>
+<li>
+<p>Ask students: How does this line compare to the lines from the team posters in The Spaghetti Line lesson? <span style="color:grey"><strong><em>Answers will vary but students may notice that the y-intercepts may be similar or that the overall slope appears similar (they are not writing an equation for the line in step 2, but they may notice where their line intercepts the y-axis and/or the steepness of the line, i.e., slope).</em></strong></span></p>
+</li>
+<li>
 <p>Reveal the equation of the line of best fit for the Arm Span vs. Height data and ask students to
 check their equations from Lab 4A:</p>
 <p><center><img src="https://latex.codecogs.com/gif.latex?\widehat{height}=0.7328(armspan)&plus;17.4957" title="\widehat{height}=0.7328(armspan)+17.4957" /></center></p>
@@ -3580,15 +3596,23 @@ equation came closest to share how he/she came up with the equation.</p>
 </li>
 <li>
 <p>Inform students that the equation of the line is a rule that predicts the height based on a second
-variable, in this case, arm span.</p>
+variable, in this case, arm span. Data points are <strong>observed values</strong> and points on the line are <strong>predicted values</strong>.</p>
 </li>
 <li>
 <p>Team discussion question:</p>
 <p><strong>Using the equation of the line of best fit provided, how can we predict the height of
 a student whose arm span is 67 inches?</strong></p>
+<ol>
+<li>
+<p>What was the actual height for someone with an arm span of 67 inches? <span style="color:grey"><strong><em>Answer: There are three points on our Arm Span vs Height scatterplot at an arm span of 67 inches; 66-inch height, 67-inch height, and 70-inch height.</em></strong></span></p>
 </li>
 <li>
-<p>Let students know that lines of best fit are also known as <strong>regression lines</strong> and they are models that
+<p>How close was our predicted height? <span style="color:grey"><strong><em>Answer: Our line of best fit predicted that someone with an arm span of 67 inches has a height of 66.5933 inches, which rounded to the nearest whole number is 67 inches. This is pretty close as it matches one of the possible heights for someone with an arm span of 67 inches in our data.</em></strong></span></p>
+</li>
+</ol>
+</li>
+<li>
+<p>Remind students know that lines of best fit are also known as <strong>regression lines</strong> and they are models that
 can be used to make predictions.</p>
 </li>
 <li>
@@ -3603,15 +3627,26 @@ can be used to make predictions.</p>
 </ol>
 </li>
 <li>
-<p>[See graphic below] Students will calculate the distances and squares of two
-different points and their predictions so that they can understand what it means. Data points are <strong>observed values</strong> and points on the line are <strong>predicted values</strong>.
-<img src="../../img/40908.png" /></p>
+<p>Distribute the <em>Testing Line of Best Fit</em> handout (<a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Lines of Best Fit.pdf">LMR_4.11</a>). Students will calculate MSE by using the distances between the actual heights (the points) and their predicted heights (the points on the line) of two different lines. They do this so that they can understand what those distances mean - that together they form our "error" that help us determine the best fitting line.</p>
+<p><div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.11_Testing%20Line%20of%20Best%20Fit.pdf">LMR_4.11</a></div></p>
+</li>
+<li>
+<p>Discuss with students:</p>
+<ol>
+<li>
+<p>What did you have to do to your MSE value to make it useable for interpretation? <span style="color:grey"><strong><em>Answer: We had to take the square root of our MSE value in order to convert it back to inches.</em></strong></span></p>
+</li>
+<li>
+<p>Which linear model was the better fit? How do you know? <span style="color:grey">***Answers will vary but this is where students should compare the MSE values - a smaller MSE indicates a smaller error, and therefore a better fit.</p>
+</li>
+</ol>
+<p><strong><u>Note:</u></strong> Students may ask for an easier and/or faster way to calculate MSE. They will be using RStudio to calculate MSE in the next lab.</p>
 </li>
 </ol>
 <h3 id="class-scribes"><strong>Class Scribes:</strong></h3>
 <p>One team of students will give a brief talk to discuss what they think the 3 most important topics of the
 day were.</p>
-<h3 id="homework-next-2-days"><p style="background: black; color: white; text-align: center;"><strong>Homework &amp; Next 2 Days</strong></p></h3>
+<h3 id="homework-next-day"><p style="background: black; color: white; text-align: center;"><strong>Homework &amp; Next Day</strong></p></h3>
 <p><a href="../lab4b/"><u><strong><em>LAB 4B:…</em></strong></u></a></p>
 <p><a href="../lab4c/"><u><strong><em>LAB 4C:</em></strong></u></a></p>
 <p>Complete <a href="../lab4b/">Labs 4B</a> and <a href="../lab4c/">4C</a> prior to <a href="../lesson11/">Lesson 11</a>.</p>
