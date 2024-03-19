@@ -6,8 +6,6 @@ Students will understand that the mean squared error (MSE) is a way to assess th
 ###**Materials:**
 1. *Arm Span vs. Height* Scatterplot ([LMR_4.9_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)) from [lesson 8](lesson8.md)
 
-2. *Testing Line of Best Fit* handout ([LMR_4.11_Testing Line of Best Fit](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf))
-
 ###**Vocabulary:**
 [regression line](../../vocabulary/unit4/#regression-line "a regression line is a line that best describes the behavior of a set of data"){ .md-button }
 [observed value](../../vocabulary/unit4/#observed-value "the value that is actually observed (what actually happened)"){ .md-button }
