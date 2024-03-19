@@ -60,7 +60,7 @@ can be used to make predictions.
 
     100. When is it appropriate to use each method? <span style="color:grey">***Answer: It was best to use Mean Squared Error when we were looking at mean and Mean Absolute Error when we were looking at median.***</span>
 
-10. Distribute the *Testing Line of Best Fit* handout ([LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Lines of Best Fit.pdf)). Students will calculate MSE by using the distances between the actual heights (the points) and their predicted heights (the points on the line) of two different lines. They do this so that they can understand what those distances mean - that together they form our "error" that help us determine the best fitting line.
+10. Distribute the *Testing Line of Best Fit* handout ([LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf)). Students will calculate MSE by using the distances between the actual heights (the points) and their predicted heights (the points on the line) of two different lines. They do this so that they can understand what those distances mean - that together they form our "error" that help us determine the best fitting line.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf)</div>
 
