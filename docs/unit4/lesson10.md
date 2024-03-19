@@ -24,8 +24,7 @@ Students will understand that the mean squared error (MSE) is a way to assess th
 1. Ask student teams to refer back to the *Arm Span vs. Height* handout ([LMR_4.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)) but this time have them look at the zoomed out scatterplot.
 <img src="../../img/40908.png" />
 
-2. Using their understanding of a line of best fit from The Spaghetti Line lesson and Lab 4A, have them draw (or use strands of spaghetti) what they believe to be the line of best fit for the data.
-**<u>Note:</u>** They can use their equations from Lab 4A as a guide but note that it will be difficult to plot decimals on this scatterplot.
+2. Using their understanding of a line of best fit from The Spaghetti Line lesson and Lab 4A, have them draw (or use strands of spaghetti) what they believe to be the line of best fit for the data. <br> **<u>Note:</u>** They can use their equations from Lab 4A as a guide but note that it will be difficult to plot decimals on this scatterplot.
 
 3. Ask students: How does this line compare to the lines from the team posters in The Spaghetti Line lesson? <span style="color:grey">***Answers will vary but students may notice that the y-intercepts may be similar or that the overall slope appears similar (they are not writing an equation for the line in step 2, but they may notice where their line intercepts the y-axis and/or the steepness of the line, i.e., slope).***</span>
 
@@ -69,7 +68,7 @@ can be used to make predictions.
 
     100. What did you have to do to your MSE value to make it useable for interpretation? <span style="color:grey">***Answer: We had to take the square root of our MSE value in order to convert it back to inches.***</span>
 
-    100. Which linear model was the better fit? How do you know? <span style="color:grey">***Answers will vary but this is where students should compare the MSE values - a smaller MSE indicates a smaller error, and therefore a better fit.
+    100. Which linear model was the better fit? How do you know? <span style="color:grey">***Answers will vary but this is where students should compare the MSE values - a smaller MSE indicates a smaller error, and therefore a better fit.***</span>
 
     **<u>Note:</u>** Students may ask for an easier and/or faster way to calculate MSE. They will be using RStudio to calculate MSE in the next lab.
 
