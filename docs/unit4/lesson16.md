@@ -152,4 +152,4 @@ a. identify the nodes - root, internal, and leaf
 
 b. describe the population that it applies to
 
-c. describe what the decision tree is predicting, i.e., waht are the classifications at the leaves?
+c. describe what the decision tree is predicting, i.e., what are the classifications at the leaves?
