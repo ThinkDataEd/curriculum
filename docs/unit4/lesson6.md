@@ -1,4 +1,4 @@
-##***<u>Lesson 6: Statistical Predictions in One Variable</u>***
+##***<u>Lesson 6: Statistical Predictions Using One Variable</u>***
 
 ###**Objective:**
 Students will devise a rule to determine how to choose a winner when predicting the typical height of all
