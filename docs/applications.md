@@ -22,7 +22,7 @@
 
 
 
-5. [K-means Clustering](https://curriculum.idsucla.org/apps/kmeans.html)  
+5. [K-means Clustering](https://kmeans.idsucla.org/)  
     Author: IDS Team
 
 
