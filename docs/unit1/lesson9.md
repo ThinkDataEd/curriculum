@@ -97,10 +97,9 @@ distribution.***</span>
         200. Overall range of the data.
 
 7. Ask students to reconsider the typical number of sugar grams. What is the typical amount of
-sugar (in grams) in our snacks? ***For example, students may come up with the same answer
-for different reasons: “The typical amount of sugar grams is 10.” The reasons may include
-the data points are half below and half above; it’s the mode; it has plurality.*** Then, tie it
-back to the synonyms they provided. Ask: Which synonym are you using?
+sugar (in grams) in our snacks? <span style="color:grey">**For example, students may come up with the same answer for different reasons: “The typical amount of sugar grams is 10.” The reasons may include
+the data points are half below and half above; it’s the mode; it has plurality. Then, tie it
+back to the synonyms for "typical" they provided earlier. Ask: Which synonym are you using?**</span>
 
 8. In pairs, ask students to discuss the question:
 
