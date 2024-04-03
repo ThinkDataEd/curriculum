@@ -2,7 +2,7 @@ If you have any question, please contact us at [support@idsucla.org](mailto:supp
 
 Introduction to Data Science, [https://www.idsucla.org](https://www.idsucla.org){:target="_blank"}
 
-This website was last updated on October 10, 2023.
+This website was last updated on April 3rd, 2024.
 
 Changes that have been made to version 6.0
 
@@ -33,3 +33,13 @@ Changes that have been made to version 6.0
 **Unit 3** 
 
 **Unit 4**
+
+ - Section 1 is now Campaigns and Community where we set the stage for the End of Unit Project (also updated)
+ - Section 2 has been rehauled to improve the flow for the lessons on linear regression
+ - Section 2 also caps off with non-linear models with Lesson 13: Improving your Model (previously Lesson 14)
+ - Section 3 is now Piecing it Together with only the two lessons on multivariable regression
+ - The lessons in Section 4 have been slightly rearranged - part of Lesson 17 was moved to Lesson 16 for better building of concepts.
+ - Lesson 18: the LMR was modified for clarity. We also added instructions for the k-means clustering app.
+ - The End of Unit Project is student choice around a community issue
+ - Unit 4 Assessments have been updated (access through the Documents tool on Portal) - link to lungs data and solutions.
+
