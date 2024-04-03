@@ -102,7 +102,7 @@ Hopefully, there will be a bit of variety in terms of the trees and the classifi
 
 15. In the next lab, you will use RStudio to create tree models that will make good predictions without needing a lot of branches. RStudio can also calculate the misclassification rate. However, you might find the visual a little confusing to interpret, so we will preview and break down one of the firsts outputs you’ll see in the lab.
 
-<center><img src="../../img/treetitanic.png" /></center>
+    <center><img src="../../img/treetitanic.png" /></center>
 
 16. Project the image above and explain to the students that the lab uses the titanic data, so we are looking at a total of 1000 observations (in this case, people). Much like the ratios we saw for our Round 1 and Round 2 classification trees, RStudio gives us ratios for each of the leaf nodes where a classification was made. The denominator tells us how many observations ended up in that node and the numerator tells us the number of misclassifications. Also notice that the questions are not shown in the classification tree, but the characteristics are visible instead. Ask students:
 
