@@ -44,10 +44,10 @@ numerical variables and asked to find similarities. This is where clustering com
 
 7. Now pose the following scenario that further describes the data:
 
-    100. A doctor provides yearly physicals to the men’s football and men’s swimming teams at a local high school.
+    100. A doctor provides yearly physicals to the football and swimming teams at a local high school.
 
-    100. He has collected data over the past few years on each player’s weight (in pounds) and
-    height (in inches). He informs us that weight was coded as the variable X<sub>1</sub>, and height was coded as the variable X<sub>2</sub>. You can re-label the scatterplot with this new information.
+    100. The doctor has collected data over the past few years on each player’s weight (in pounds) and
+    height (in inches). She informs us that weight was coded as the variable X<sub>1</sub>, and height was coded as the variable X<sub>2</sub>. You can re-label the scatterplot with this new information.
 
         <img src="../../img/42007.png" />
 

@@ -27,13 +27,13 @@ lessons), and then see how well their decision tree works on new test data.
 
 4. Refer back to your tallied decision trees and correct/incorrect classification tables from the previous lesson. What were the overall proportion of incorrect classifications for Round 1? What about for Round 2? <span style="color:grey">***Answers will vary. If all activity player stats cards were used then the MCR for Round 1 is 5/15, or 0.33, and for Round 2 is 3/15, or 0.20. You can reference the decision trees and tables from the previous lesson so that students can see the connection between them.***</span>
 
-<img src="../../img/tree1mcr.png" />
+    <img src="../../img/tree1mcr.png" />
 
-<img src="../../img/tree1tablemcr.png" />
+    <img src="../../img/tree1tablemcr.png" />
 
-<img src="../../img/tree2mcr.png" />
+    <img src="../../img/tree2mcr.png" />
 
-<img src="../../img/tree2tablemcr.png" />
+    <img src="../../img/tree2tablemcr.png" />
 
 5. These proportions of incorrect classifications are our misclassification rates.
 
@@ -98,7 +98,7 @@ Hopefully, there will be a bit of variety in terms of the trees and the classifi
     e. Did anyone correctly classify ALL 5 mystery players? If so, ask those students to share
     their decision trees with the rest of the class.
 
-14. Inform students that, when faced with much more data, creating classification trees becomes much harder to make by hand. It is so difficult, in fact, that data scientists rely on software to grow their trees for them. Students will learn how to create decision trees in RStudio during the next lab. <br> **<u>Note:</u>** Included below is a front-load of teh calculation/interpretation of MCR in RStudio.
+14. Inform students that, when faced with much more data, creating classification trees becomes much harder to make by hand. It is so difficult, in fact, that data scientists rely on software to grow their trees for them. Students will learn how to create decision trees in RStudio during the next lab. <br> **<u>Note:</u>** Included below is a front-load of the calculation/interpretation of MCR in RStudio.
 
 15. In the next lab, you will use RStudio to create tree models that will make good predictions without needing a lot of branches. RStudio can also calculate the misclassification rate. However, you might find the visual a little confusing to interpret, so we will preview and break down one of the firsts outputs you’ll see in the lab.
 
