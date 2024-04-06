@@ -64,7 +64,7 @@ Students will learn what decision trees look like and how they can be used to cl
 
 12. CART Activity: to get a sense of how decision trees work, the students will see one in action. We are going to try to classify 15 professional athletes into either soccer or football players based on some of their characteristics.
 
-    **<u>Note:</u>** Advanced preparation required. The cards in LMR4.20, 4.21, and 4.22 listed above (and previewed below) need to be cut out prior to class time.
+    **<u>Note:</u>** Advanced preparation required. The cards in LMR_4.20, 4.21, and 4.22 listed above (and previewed below) need to be cut out prior to class time.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Player Stats.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Player Stats.pdf)</div>
 
