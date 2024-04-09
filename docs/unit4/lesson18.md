@@ -118,7 +118,7 @@ numerical variables and asked to find similarities. This is where clustering com
 
     <img src="../../img/appCentroids.png" />
 
-    100. Move two of the centroids so that they are close to/within one cluster. An example is shown below.
+    100. Move two of the centroids so that they are close to/within one cluster. Move the remaining centroid in between the other two clusters. An example is shown below.
 
     <img src="../../img/round0.png" width="300" height="300"/>
 
@@ -126,11 +126,11 @@ numerical variables and asked to find similarities. This is where clustering com
 
     <img src="../../img/round1.png" width="300" height="300"/>
 
-    100. While we still have three clusters, we can clearly see that our initial points have influenced the end result of those clusters. You can move the centroids to the center of the clusters to illustrate this point (see image below of correctly clustered groups).
+    100. While we still have three clusters, we can clearly see that our initial points have influenced the end result of those clusters. You can click “Restart and play again” to move the centroids to the center of the clusters and click “Next step” until no points change from the previous update to illustrate this point (see image below of correctly clustered groups).
 
     <img src="../../img/round2.png" width="300" height="300"/>
 
-    **<u>Note:</u>** You can click "Re-Initialize Centroids" and it will move your cluster centers to new positions while still using the same 100 points. You can repeat the same process as in step (c) to discover different additonal groupings, although they may not be opimized as shown in step (d).
+    **<u>Note:</u>** Clicking "Restart and play again" allows you to move your cluster centers to new positions while still using the same 100 points. You can repeat the same process as above to create different additional groupings.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
