@@ -37,9 +37,9 @@ Newspaper ads, etc.)
 
 5. By a show of hands, ask students to select which combination or single model will be the best predictor for the number of items sold by the retailer.
 
-6. Then inform students that we will determine which of the statements is true by comparing the mean absolute error (MAE) of single models (like the ones we showed in the previous lesson) vs. combined models. But first, use the line of best fit for the combined variables:
+6. Then inform students that we will determine which of the statements is true by comparing the mean aquared error (MSE) of single models (like the ones we showed in the previous lesson) vs. combined models. But first, use the line of best fit for the combined variables:
 
-    <center><img src="https://latex.codecogs.com/gif.latex?\widehat{sales}=0.045449(tv)&plus;0.186570(radio)-0.004952(newspaper)&plus;3.029878" title="\widehat{sales}=0.045449(tv)+0.186570(radio)-0.004952(newspaper)+3.029878" /></center>
+    <center><img src="https://latex.codecogs.com/gif.latex?\widehat{sales}=0.044889(tv)&plus;0.194199(radio)-0.007392(newspaper)&plus;3.154843" title="\widehat{sales}=0.0444889(tv)+0.194199(radio)-0.007392(newspaper)+3.154843" /></center>
 
     **Note:** The function that produced the line of best fit using RStudio was
 
@@ -51,23 +51,23 @@ Newspaper ads, etc.)
 
         <img src="../../img/41210.png" />
 
-    100. Does the predicted value (10.407) seem like a plausible number of sales? Why? <span style="color:grey">***Answer: It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 104,070 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
+    100. Does the predicted value (10.81224) seem like a plausible number of sales? Why? <span style="color:grey">***Answer: It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 108,122 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
 
-7. Reveal that RStudio calculated the mean absolute error for different combinations plus the single models, and the results are displayed on the table below. This means that, for example, when using the TV model to predict number of items sold, our predictions will typically be off by about 2.337808 (in 10,000s) of units or 23,378 units. Then ask students:
+7. Reveal that RStudio calculated the mean squared error for different combinations plus the single models, and the results are displayed on the table below. This means that, for example, when using the TV model to predict number of items sold, our predictions will typically be off by about 3.373579 (in 10,000s) of units or 33,736 units. Then ask students the questions below. <br>**<u>Note:</u>** Remember that the MSE will always be in square units. In order to convert back to the original units, simply take the square root of the MSE.
 
-    | Model | Mean Absolute Error |
-    |--------------------|---------------------|
-    | TV | 2.337808 |
-    | Radio | 3.565113 |
-    | Newspaper | 4.538444 |
-    | TV-Radio | 1.160937 |
-    | TV-Newspaper | 2.344971 |
-    | Radio-Newspaper | 2.93832 |
-    | TV-Radio-Newspaper | 1.161068 |
+    | Model | Mean Squared Error (MSE) | | Square Root MSE |
+    |--------------------|---------------------||---------------------|
+    | TV | 11.38103 | 3.373579 |
+    | Radio | 25.35521 | 5.035396 |
+    | Newspaper | 31.44164 | 5.607285 |
+    | TV-Radio | 4.456745 | 2.1111 |
+    | TV-Newspaper | 9.246567 | 3.040817 |
+    | Radio-Newspaper | 27.26889 | 5.221963 |
+    | TV-Radio-Newspaper | 4.70338 | 2.168728 |
 
-    100. Which model is the best predictor of number of items sold? <span style="color:grey">***Answer: The TV-Radio model is the best predictor of number of items sold because it had the least amount of error, on average. When using the TV-Radio model to predict number of items sold, our predictions will typically be off by 11,609 units.***</span>
+    100. Which model is the best predictor of number of items sold? <span style="color:grey">***Answer: The TV-Radio model is the best predictor of number of items sold because it had the least amount of error, on average. When using the TV-Radio model to predict number of items sold, our predictions will typically be off by 21,111 units.***</span>
 
-    100. Which model was the least reliable in predicting the number of items sold? <span style="color:grey">***Answer: The Newspaper model is the least reliable predictor of number of items sold because it had the most amount of error, on average. When using the Newspaper model to predict number of items sold, our predictions will typically be off by 45,384 units.***</span>
+    100. Which model was the least reliable in predicting the number of items sold? <span style="color:grey">***Answer: The Newspaper model is the least reliable predictor of number of items sold because it had the most amount of error, on average. When using the Newspaper model to predict number of items sold, our predictions will typically be off by 56,073 units.***</span>
 
     100. What else do you notice about the models? <span style="color:grey">***Answer: It appears that combining the variables into one model is much better than any of the single-variable models.***</span>
 

@@ -99,14 +99,12 @@ responses to the discussion questions.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf)</div>
 
-13. Ask students to recall from [Lesson 7](lesson7.md) that a method statisticians use to figure out which predicted values is closest to the actual data is the mean absolute error (MAE).
-
-    **<u>Note to teacher:</u>** In the labs, students will use the mean squared error (MSE) - also learned in [Lesson 7](lesson7.md) - which calculates the regression line. In the lessons, we discuss the issue more generally using the mean absolute error (MAE).
+13. Ask students to recall from [Lesson 7](lesson7.md) that a method statisticians use to figure out which predicted values is closest to the actual data is the mean squared error (MSE).
 
 14. In teams, ask students to discuss the following:
 
-    100. How would you use the mean absolute error to determine which plot would make the
-    most accurate predictions? <span style="color:grey">***Answers will vary, but you would expect to hear something like: “the prediction line that has the least amount of distance to all the points on the plot would make the most accurate prediction because the predicted values will be closer to the actual data.”***</span>
+    100. How would you determine which plot would make the
+    most accurate predictions? <span style="color:grey">***Answers will vary, but you would expect to hear something like: “the prediction line that has the least amount of distance to all the points on the plot would make the most accurate prediction because the predicted values will be closer to the actual data”.***</span>
 
 15. Next, have students select a statement they think is best (a or b), then write a justification for their selection based on what they learned in this lesson. This may be completed as homework.
 

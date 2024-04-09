@@ -11,7 +11,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – The branches help sort our data into *leaves* which can then be used to make predictions.
 
-* <span style="color:midnightblue;">**Start, by loading the ```titanic``` data.</span>
+* <span style="color:midnightblue;">**Start, by loading the ```titanic``` data.**</span>
 
 ###**Our first tree**
 * <span style="color:midnightblue;">**Use the ```tree()``` function to create a *classification* tree that predicts whether a person ```survived``` the Titanic based on their ```gender```.**</span>
