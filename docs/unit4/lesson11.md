@@ -20,9 +20,7 @@ to identify the direction of trends and interpret the slope and the intercept of
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    Associations are important because they help us make better predictions; the stronger the
-    trend, the better the prediction we can make. “Better” in this case means that our mean squared errors can
-    be made smaller.
+    A positive or negative association between variables provides valuable insights into increasing or decreasing trends, particularly in making predictions. By understanding these associations, we can anticipate future outcomes or behaviors more accurately.
 
 ###**Lesson:**
 1. Distribute *What’s the Trend?* handout ([LMR_4.12](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.12_What’s the Trend.pdf)). Students will analyze the two scatterplots on the
