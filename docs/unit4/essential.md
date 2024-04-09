@@ -42,9 +42,7 @@ works for exactly the same reason the mean works well for one variable: the pred
 score on the mean squared errors as small as possible.
 
 ###**<u>[Lesson 11: What’s the Trend?](lesson11.md)</u>**
-Associations are important because they help us make better predictions; the stronger the trend, the
-better the prediction we can make. “Better” in this case means that our mean squared errors can be
-made smaller.
+A positive or negative association between variables provides valuable insights into increasing or decreasing trends, particularly in making predictions. By understanding these associations, we can anticipate future outcomes or behaviors more accurately.
 
 ###**<u>[Lesson 12: How Strong Is It?](lesson12.md)</u>**
 A high absolute value for correlation means a strong linear trend. A value close to 0 means a weak linear
