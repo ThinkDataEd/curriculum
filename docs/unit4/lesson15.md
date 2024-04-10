@@ -10,7 +10,7 @@ with how the information should be combined.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    If multiple predictors are associated with the response variable, a better predictive model will be produced, as measured by the mean absolute error.
+    If multiple predictors are associated with the response variable, a better predictive model will be produced, as measured by the mean squared error.
 
 ###**Lesson:**
 1. Display the plots and statements from the previous day:

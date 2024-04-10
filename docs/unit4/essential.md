@@ -58,7 +58,7 @@ using several predictors in one model can produce stronger models.
 
 ###**<u>[Lesson 15: Combination of Variables](lesson15.md)</u>**
 If multiple predictors are associated with the response variable, a better predictive model will be produced,
-as measured by the mean absolute error.
+as measured by the mean squared error.
 
 ###**<u>[Lesson 16: Footbal or Futbol?](lesson16.md)</u>**
 Some trends are not linear, so the approaches we’ve done so far won’t be helpful. We need to model such trends differently. Decision trees are a non-linear tool for classifying observations into groups when the trend is non-linear.
