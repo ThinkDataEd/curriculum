@@ -23,7 +23,7 @@ students at a high school.
 !!! note "Essential Concepts: " 
     If we use the mean squared errors rule, then the mean of our current data is the best
     prediction of future values. If we use the mean absolute errors rule, then the median of the current data is the
-    best prediction of future values
+    best prediction of future values.
 
 ###**Lesson:**
 1. Ask students to recall that in the previous lesson, each student team created a rule to determine
