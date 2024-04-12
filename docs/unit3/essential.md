@@ -33,12 +33,12 @@ Experiments are not always possible because of various factors such as ethics, c
 feasibility.
 
 ###**<u>[Lesson 8: Monsters that Hide in Observational Studies](lesson8.md)</u>**
-Confounding factors/variables make it difficult to determine a cause-and-effect relation between two
+Confounding factors/variables make it difficult to determine a cause-and-effect relationship between two
 variables.
 
 ###**<u>[Lesson 9: Survey Says…](lesson9.md)</u>**
 Surveys ask simple, straightforward questions in order to collect data that can be used to answer
-statistical questions. Writing such questions can be hard (but fun)!
+statistical investigative questions. Writing such questions can be hard (but fun)!
 
 ###**<u>[Lesson 10: We’re So Random](lesson10.md)</u>**
 Another popular data collection method involves collecting data from a random sample of people or

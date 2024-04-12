@@ -18,7 +18,7 @@ is why causation can never be concluded with observational studies, only associa
 
 !!! note "Essential Concepts: "
     Confounding factors/variables make it difficult to determine a cause-and-effect
-    relation between two variables.
+    relationship between two variables.
 
 ###**Lesson:**
 1. Ask students to recall that they looked at the relationship between a student’s GPA and the

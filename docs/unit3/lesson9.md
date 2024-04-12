@@ -25,7 +25,7 @@ types of questions are used in a survey, and how a survey is conducted.
 
 !!! note "Essential Concepts: "
     Surveys ask simple, straightforward questions in order to collect data that can be
-    used to answer statistical questions. Writing such questions can be hard (but fun)!
+    used to answer statistical investigative questions. Writing such questions can be hard (but fun)!
 
 ###**Lesson:**
 1. Introduce one of the videos listed above by informing students that they will be watching a clip
