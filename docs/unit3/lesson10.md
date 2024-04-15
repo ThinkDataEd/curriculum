@@ -26,7 +26,7 @@ Students will learn how to collect random samples from a population in order to 
 
 !!! note "Essential Concepts: "
     Another popular data collection method involves collecting data from a random
-    sample of people or objects. Percentages based on random samples tend to ‘center’ on the population
+    sample of people or objects. Percentages based on random samples tend to "center" on the population
     parameter value.
 
 ###**Lesson:**

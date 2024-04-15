@@ -11,7 +11,7 @@ Students will create statistical questions and evaluate their Participatory Sens
 
 !!! note "Essential Concepts: "
     Statistical investigative questions guide a Participatory Sensing Campaign so that we can learn
-    about a community or ourselves. These Campaigns should be evaluated before implementing to make
+    about a community or ourselves. These campaigns should be evaluated before implementing to make
     sure they are reasonable and ethically sound.
 
 ###**Lesson:**

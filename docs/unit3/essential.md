@@ -42,11 +42,11 @@ statistical investigative questions. Writing such questions can be hard (but fun
 
 ###**<u>[Lesson 10: We’re So Random](lesson10.md)</u>**
 Another popular data collection method involves collecting data from a random sample of people or
-objects. Percentages based on random samples tend to ‘center’ on the population parameter value.
+objects. Percentages based on random samples tend to "center" on the population parameter value.
 
 ###**<u>[Lesson 11: The Gettysburg Address](lesson11.md)</u>**
 Statistics vary from sample to sample. If the typical value across many samples is equal to the population
-parameter, the statistic is 'unbiased.' Bias means that we tend to “miss the mark.” If we don't do random
+parameter, the statistic is "unbiased". Bias means that we tend to “miss the mark.” If we don't do random
 sampling, we can get biased estimates.
 
 ###**<u>[Lesson 12: Bias in Survey Sampling](lesson12.md)</u>**
@@ -73,7 +73,7 @@ they are “triggered”. Research questions provide an overall direction in a P
 
 ###**<u>[Lesson 18: Evaluating Our Own Participatory Sensing Campaign](lesson18.md)</u>**
 Statistical investigative questions guide a Participatory Sensing Campaign so that we can learn about a community or
-ourselves. These Campaigns should be evaluated before implementing to make sure they are reasonable
+ourselves. These campaigns should be evaluated before implementing to make sure they are reasonable
 and ethically sound.
 
 ###**<u>[Lesson 19: Implementing Our Own Participatory Sensing Campaign](lesson19.md)</u>**

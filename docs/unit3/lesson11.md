@@ -32,7 +32,7 @@ population and estimating the population parameter.
 
 !!! note "Essential Concepts: "
     Statistics vary from sample to sample. If the typical value across many samples is
-    equal to the population parameter, the statistic is 'unbiased.' Bias means that we tend to “miss the mark.”
+    equal to the population parameter, the statistic is "unbiased". Bias means that we tend to “miss the mark.”
     If we don't do random sampling, we can get biased estimates.
 
 ###**Lesson:**
