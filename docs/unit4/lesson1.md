@@ -41,10 +41,10 @@ Students will learn about reducing the burden of trash landfills.
 8. Distribute the *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)) to assist in students' interaction with the IDS public dashboard.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)</div>
 
-9. Navigate students will to the IDS public dashboard:
-[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+9. Navigate students to the IDS public dashboard:
+[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} <img src="../../img/40109.png" />
 
-10. They should use the “Trash” campaign data and select “Dashboard” from the “Action” button.
+10. They should use the “Trash” campaign data and select “Dashboard” from the “Action” button. <img src="../../img/40110.png" />
 
 11. The dashboard is a visual tool for exploring and analyzing data. An example screenshot of the Trash campaign in the dashboard is shown below. <img src="../../img/41509.png" />
 
