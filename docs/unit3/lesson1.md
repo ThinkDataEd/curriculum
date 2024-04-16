@@ -137,7 +137,7 @@ will report to their new partner the following information about the article he/
 
     100. The name and publisher of the article.
 
-    100. His/her response to the four questions in the DS journal.
+    100. His/her response to the four questions in their DS journal.
     
 16. Quickly survey students about which article was based more on anecdotes and which one was
 based more on data. Ask a couple of students to explain their choices and give examples.
