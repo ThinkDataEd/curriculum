@@ -1,8 +1,7 @@
 ##***<u>Lesson 14: More Variables to Make Better Predictions</u>***
 
 ###**Objective:**
-Students will see that information from different variables can be used together to create linear models
-that make more accurate predictions.
+Students will see that different variables can be used to make predictions about the same outcome (response variable) and consider whether combining these variables could improve prediction accuracy.
 
 ###**Materials:**
 1. *Advertising Plots Part 1* handout ([LMR_4.17_Advertising Plots 1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Advertising Plots 1.pdf))
