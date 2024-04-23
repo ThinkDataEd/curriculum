@@ -55,7 +55,7 @@ lesson):
     | New England | Jermaine Jones | 72 | 179 | 34 | USMNT |
     | Seattle | Russell Wilson | 71 | 206 | 27 | NFL |
     | Seattle | Clint Dempsey | 73 | 170 | 32 | USMNT |
-    | Toronto | Michael Bradley | 73 | 179 | 28 | USMNT |
+    | Toronto | Michael Bradley | 74 | 185 | 30 | USMNT |
     | Toronto | Jozy Altidore | 73 | 174 | 26 | USMNT |
     | Washington, D.C. | Robert Griffin III | 74 | 223 | 25 | NFL |
     | Washington, D.C. | Steve Birnbaum | 74 | 181 | 28 | USMNT |
@@ -79,7 +79,7 @@ Hopefully, there will be a bit of variety in terms of the trees and the classifi
 
     | **Team** | **Player** | **Height (inches)** | **Weight (pounds)** | **Age** | **League** |
     |----------------|-----------------|-----------------|-----------------|-----|--------|
-    | Toronto | Michael Bradley | 74 | 175 | 28 | USMNT |
+    | Baltimore, MD | Justin Morrow | 73 | 181 | 34 | NFL |
     | New York | Eli Manning | 76 | 218 | 34 | NFL |
     | New Orleans | Drew Brees | 72 | 209 | 36 | NFL |
     | Washington, DC | Perry Kitchen | 72 | 160 | 23 | USMNT |
