@@ -1,7 +1,7 @@
-##**<u>Lesson 9: Bias Detective</u>**
+##**<u>Lesson 9: Dice Detective</u>**
 
 ###**Objective:**
-Students will learn how to use simulations to detect biased probability.
+Students will learn how to use simulations to detect an unfair die.
 
 ###**Materials:**
 1. Poster paper – with 6 columns labeled 1, 2, 3, 4, 5, 6
@@ -12,14 +12,11 @@ Students will learn how to use simulations to detect biased probability.
 
 3. Projector for RStudio functions
 
-###**Vocabulary:**
-[bias](../../vocabulary/unit2/#bias "the act of favoring one outcome over another"){ .md-button }
-
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
     In the short-term, actual outcomes of chance experiments vary from what is 'ideal.'
-    An ideal die has equally likely outcomes. But that does not mean we will see exactly the same number of
+    A fair die has equally likely outcomes. But that does not mean we will see exactly the same number of
     one-dots, two-dots, etc.
 
 ###**Lesson:**
@@ -108,9 +105,8 @@ than the **rflip()** function from yesterday. We cannot simply put **roll_die(1)
 to roll a die one time. Instead, the function was built with 2 possible dice to choose from – die A
 and die B.
 
-12. Inform the students that one of the dice in the function is fair and the other has been created with
-**bias**. Bias is the act of favoring one outcome over another. They will attempt to determine which
-dice is the biased one by doing multiple simulations.
+12. Inform the students that one of the dice in the function is fair and the other is unfair. A die is unfair if it favors one outcome over another. They will attempt to determine which
+dice is the unfair one by doing multiple simulations.
 
     **Note to Teacher:** Many simulations require multiple functions, or code, to perform. This is where
     RScripts are helpful. An RScript can be used to test code, write notes, and let us easily execute
@@ -177,14 +173,14 @@ not exact. With the sample sizes of each simulation being fairly small, we canno
 clear difference between the two dice yet.***</span>
 
 21. Let the students explore by changing the number of times RStudio rolls the dice. Remind them
-that the goal is to determine which of the two dice is biased. The sample sizes need to be
+that the goal is to determine which of the two dice is unfair. The sample sizes need to be
 very large in order for them to see a clear difference between the 2 histograms. The pattern
 becomes more visible when **times = 2000**.  
 
-    **<u>Note:</u>**  The maximum value for `times` within the `roll_die()` command is 500. Simulations can be combined using the concatenate function `c()`. For example, suppose s1 represents 500 rolls of die A and s2 is a second sample of 500 rolls for die A. To combine these two samples the following can be used `more_rolls <- c(s1, s2)`
+    **<u>Note:</u>**  The maximum value for `times` within the `roll_die()` command is 2000. Simulations can be combined using the concatenate function `c()`. For example, suppose s1 represents 2000 rolls of die A and s2 is a second sample of 2000 rolls for die A. To combine these two samples the following can be used `more_rolls <- c(s1, s2)`
 
-22. When students have had enough time to make a decision regarding which dice is biased and how,
-engage the class in a discussion to verify that everyone agrees. <span style="color:grey">***Die B is biased; Die A is fair.
+22. When students have had enough time to make a decision regarding which dice is unfair and how,
+engage the class in a discussion to verify that everyone agrees. <span style="color:grey">***Die B is unfair; Die A is fair.
 Die B favors the number 3.***</span>
 
 23. Then, steer the conversation towards why the sample size affected the results. <span style="color:grey">***The sample size
@@ -198,4 +194,4 @@ day were.
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Students will consider a four-sided die and imagine rolling it 20 times. They should sketch a
 histogram of (a) the ideal, expected outcome, (b) an outcome that they think is “realistic,” and (c) an
-outcome they might see if the die were biased to produce more 4’s.
+outcome they might see if the die were unfair such that it produced more 4’s.
