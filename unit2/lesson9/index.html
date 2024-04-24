@@ -78,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#lesson-9-bias-detective" class="md-skip">
+        <a href="#lesson-9-dice-detective" class="md-skip">
           Skip to content
         </a>
       
@@ -1209,11 +1209,11 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#lesson-9-bias-detective" class="md-nav__link">
-    Lesson 9: Bias Detective
+  <a href="#lesson-9-dice-detective" class="md-nav__link">
+    Lesson 9: Dice Detective
   </a>
   
-    <nav class="md-nav" aria-label="Lesson 9: Bias Detective">
+    <nav class="md-nav" aria-label="Lesson 9: Dice Detective">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -1226,13 +1226,6 @@
           <li class="md-nav__item">
   <a href="#materials" class="md-nav__link">
     Materials:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#vocabulary" class="md-nav__link">
-    Vocabulary:
   </a>
   
 </li>
@@ -3469,11 +3462,11 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#lesson-9-bias-detective" class="md-nav__link">
-    Lesson 9: Bias Detective
+  <a href="#lesson-9-dice-detective" class="md-nav__link">
+    Lesson 9: Dice Detective
   </a>
   
-    <nav class="md-nav" aria-label="Lesson 9: Bias Detective">
+    <nav class="md-nav" aria-label="Lesson 9: Dice Detective">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
@@ -3486,13 +3479,6 @@
           <li class="md-nav__item">
   <a href="#materials" class="md-nav__link">
     Materials:
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#vocabulary" class="md-nav__link">
-    Vocabulary:
   </a>
   
 </li>
@@ -3547,9 +3533,9 @@
 
   <h1>Lesson 9: Bias Detective</h1>
 
-<h2 id="lesson-9-bias-detective"><strong><u>Lesson 9: Bias Detective</u></strong></h2>
+<h2 id="lesson-9-dice-detective"><strong><u>Lesson 9: Dice Detective</u></strong></h2>
 <h3 id="objective"><strong>Objective:</strong></h3>
-<p>Students will learn how to use simulations to detect biased probability.</p>
+<p>Students will learn how to use simulations to detect an unfair die.</p>
 <h3 id="materials"><strong>Materials:</strong></h3>
 <ol>
 <li>
@@ -3563,13 +3549,11 @@
 <p>Projector for RStudio functions</p>
 </li>
 </ol>
-<h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
-<p><a class="md-button" href="../../vocabulary/unit2/#bias" title="the act of favoring one outcome over another">bias</a></p>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
 <div class="admonition note">
 <p class="admonition-title">Essential Concepts: </p>
 <p>In the short-term, actual outcomes of chance experiments vary from what is 'ideal.'
-An ideal die has equally likely outcomes. But that does not mean we will see exactly the same number of
+A fair die has equally likely outcomes. But that does not mean we will see exactly the same number of
 one-dots, two-dots, etc.</p>
 </div>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
@@ -3681,9 +3665,8 @@ to roll a die one time. Instead, the function was built with 2 possible dice to 
 and die B.</p>
 </li>
 <li>
-<p>Inform the students that one of the dice in the function is fair and the other has been created with
-<strong>bias</strong>. Bias is the act of favoring one outcome over another. They will attempt to determine which
-dice is the biased one by doing multiple simulations.</p>
+<p>Inform the students that one of the dice in the function is fair and the other is unfair. A die is unfair if it favors one outcome over another. They will attempt to determine which
+dice is the unfair one by doing multiple simulations.</p>
 <p><strong>Note to Teacher:</strong> Many simulations require multiple functions, or code, to perform. This is where
 RScripts are helpful. An RScript can be used to test code, write notes, and let us easily execute
 multiple lines of code at one time. This would be a good place to introduce students to RScripts.</p>
@@ -3754,14 +3737,14 @@ clear difference between the two dice yet.</em></strong></span></p>
 </li>
 <li>
 <p>Let the students explore by changing the number of times RStudio rolls the dice. Remind them
-that the goal is to determine which of the two dice is biased. The sample sizes need to be
+that the goal is to determine which of the two dice is unfair. The sample sizes need to be
 very large in order for them to see a clear difference between the 2 histograms. The pattern
 becomes more visible when <strong>times = 2000</strong>.  </p>
-<p><strong><u>Note:</u></strong>  The maximum value for <code>times</code> within the <code>roll_die()</code> command is 500. Simulations can be combined using the concatenate function <code>c()</code>. For example, suppose s1 represents 500 rolls of die A and s2 is a second sample of 500 rolls for die A. To combine these two samples the following can be used <code>more_rolls &lt;- c(s1, s2)</code></p>
+<p><strong><u>Note:</u></strong>  The maximum value for <code>times</code> within the <code>roll_die()</code> command is 2000. Simulations can be combined using the concatenate function <code>c()</code>. For example, suppose s1 represents 2000 rolls of die A and s2 is a second sample of 2000 rolls for die A. To combine these two samples the following can be used <code>more_rolls &lt;- c(s1, s2)</code></p>
 </li>
 <li>
-<p>When students have had enough time to make a decision regarding which dice is biased and how,
-engage the class in a discussion to verify that everyone agrees. <span style="color:grey"><strong><em>Die B is biased; Die A is fair.
+<p>When students have had enough time to make a decision regarding which dice is unfair and how,
+engage the class in a discussion to verify that everyone agrees. <span style="color:grey"><strong><em>Die B is unfair; Die A is fair.
 Die B favors the number 3.</em></strong></span></p>
 </li>
 <li>
@@ -3776,7 +3759,7 @@ day were.</p>
 <h3 id="homework"><p style="background: black; color: white; text-align: center;"><strong>Homework</strong></p></h3>
 <p>Students will consider a four-sided die and imagine rolling it 20 times. They should sketch a
 histogram of (a) the ideal, expected outcome, (b) an outcome that they think is “realistic,” and (c) an
-outcome they might see if the die were biased to produce more 4’s.</p>
+outcome they might see if the die were unfair such that it produced more 4’s.</p>
 
 
   
