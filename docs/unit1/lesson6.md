@@ -28,7 +28,7 @@ recorded in order to attain consistency.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts:"
-    After raising statistical questions, we examine and record data to see if the
+    After raising statistical investigative questions, we examine and record data to see if the
     questions are appropriate.
 
 ###**Lesson:**
