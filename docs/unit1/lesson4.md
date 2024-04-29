@@ -125,11 +125,11 @@ website by Nikhil Sonnad as a data visualization. He collected the data via Twit
 
 15. Ask students to write *Dude Map* under the analyze data of their data cycle and the information about where the data came from (see #13) in the consider data part of their Data Cycle sketch.
 
-16. Have each team discuss a possible investigative question that could be answered using the *Dude Map* graphic. Have the reporter/recorder write the question on a sticky note and the resource manager bring it up to the board.
+16. Have each team discuss a possible investigative question that could be answered using the *Dude Map* graphic. Have the Recorder/Reporter write the question on a sticky note and the resource manager bring it up to the board.
 
 17. Lead a class discussion around the investigative questions the student teams created, and as a class, choose one to write down as an example. <span style="color:grey">***Example: Where in the United States is the term dude more common to use when referring to a friend?***</span>
 
-18. Allow the teams to work together to answer the investigative question. Ask the reporter/recorder to share their team's interpretation. Have students write down the answer that resonated the most with them under the interpret part of the data cycle.
+18. Allow the teams to work together to answer the investigative question. Ask the Recorder/Reporter to share their team's interpretation. Have students write down the answer that resonated the most with them under the interpret part of the data cycle.
 
 19. Assign ONE of the pages from the *Bros & Dudes Graphics* handout ([LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.5_Bros & Dudes Graphics.pdf)) to each team. There are 10 different
 versions of word pairings (10 combinations of 2 words chosen from the 5 options), so multiple

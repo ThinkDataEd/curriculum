@@ -132,7 +132,7 @@ submitting surveys regularly.
 
 18. Go over the previous day’s homework. Ask the facilitator from each table group conduct a round
 robin during which each team member shares one simple statistical question and one complex
-statistical question. The recorder/reporter will select and share out one of the team’s simple
+statistical question. The Recorder/Reporter will select and share out one of the team’s simple
 statistical questions and one complex statistical question with the class.
 
 ###**Class Scribes:**
