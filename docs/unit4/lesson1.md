@@ -64,6 +64,8 @@ Students will learn about reducing the burden of trash landfills.
 
     100. Is eating or drinking more likely to generate a recyclable piece of trash? <span style="color:grey">***Answer: Drinking, because it resulted in 480 recyclables versus Eating resulted in 399 recyclables, out of 1,302 total.***</span>
 
+    100. When recycle bins were present, what percentage of time did a recyclable item end up in a trash bin? <span style="color:grey">***Answer: 26.6% (225/846).***</span>
+
     100. When recycle bins were present, did a higher proportion of recyclable items end up in the trash bin when people were at home or at school? <span style="color:grey">***Answer: School (134/225) had a higher proportion of recyclable items end up in the trash than Home (76/225).***</span>
 
     100. When someone littered, how many times was the person not arround any type of waste receptacle? <span style="color:grey">***Answer: 15 out of 58.***</span>
