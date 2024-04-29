@@ -23,7 +23,7 @@ recorded in order to attain consistency.
 3. *Food Habits Data Collection* handout ([LMR_1.8_Food Habits Data Collection](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf))
 
 ###**Vocabulary:**
-[data set(s)](../../vocabulary/unit1/#data set(s) "a collection of data"){ .md-button }
+[dataset(s)](../../vocabulary/unit1/#data set(s) "a collection of data"){ .md-button }
 
 ###**Essential Concepts:**
 
@@ -87,7 +87,7 @@ example: “What’s the name of your snack?” = Name
 9. Share the one-word variable identifiers with the class by conducting a quick team Whip Around
 (see [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)).
 
-10. For homework, students will begin to formulate statistical questions based on their *Food Habits*
+10. For homework, students will begin to formulate statistical investigative questions based on their *Food Habits*
 data.
 
 11. Inform students that they are permitted to bring mobile devices to the next class.
@@ -98,7 +98,7 @@ of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Ask students to examine the data in their *Food Habits Data Collection* handout ([LMR_1.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf)) and to
-generate two simple and two complex statistical questions that they think can be answered by the data
+generate two simple and two complex statistical investigativequestions that they think can be answered by the data
 they collected. A simple statistical question involves one variable, whereas a complex statistical question
 involves two or more variables.
 

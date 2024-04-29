@@ -88,7 +88,7 @@
 !!! note ""
     a single fact or piece of information
 
-### data set(s)
+### dataset(s)
 
 !!! note ""
     a collection of data
