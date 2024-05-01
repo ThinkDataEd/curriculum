@@ -108,10 +108,10 @@ the following questions and record their responses on the *Predicting Values* ha
 
     100. If you wanted to know the profit for the point that lies the closest to the line, what would
     the equation be? Write the equation and solve it. <span style="color:grey">***Answer: Profit=3.2536(105)+154.3654.
-    Profit= 495.9934or 495,993,400 million dollars.***</span>
+    Profit=495.9934or 495,993,400 million dollars.***</span>
 
     100. What was the actual profit for the point that lies closest to the line? <span style="color:grey">***Answer: The actual profit was
-    836,303,693 million dollars.***</span>
+    553,700,000 million dollars.***</span>
 
     100. What if Michael Bay made a movie that had 325 explosions? What would his predicted
     profit be? Show how you arrived at the solution. <span style="color:grey">***Answer: By substituting 325 in the value of x in
