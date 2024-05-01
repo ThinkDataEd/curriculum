@@ -107,8 +107,8 @@ the following questions and record their responses on the *Predicting Values* ha
     would be his projected profit.***</span>
 
     100. If you wanted to know the profit for the point that lies the closest to the line, what would
-    the equation be? Write the equation and solve it. <span style="color:grey">***Answer: Profit=3.2536(211)+154.3654.
-    Profit=840.875 or 840,875,000 million dollars.***</span>
+    the equation be? Write the equation and solve it. <span style="color:grey">***Answer: Profit=3.2536(105)+154.3654.
+    Profit= 495.9934or 495,993,400 million dollars.***</span>
 
     100. What was the actual profit for the point that lies closest to the line? <span style="color:grey">***Answer: The actual profit was
     836,303,693 million dollars.***</span>
