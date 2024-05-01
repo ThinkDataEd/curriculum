@@ -111,7 +111,7 @@ the following questions and record their responses on the *Predicting Values* ha
     Profit=495.9934or 495,993,400 million dollars.***</span>
 
     100. What was the actual profit for the point that lies closest to the line? <span style="color:grey">***Answer: The actual profit was
-    553,700,000 million dollars.***</span>
+    553,700,000 million dollars. <br> Note: An estimate is okay in this case as the exact values are not given.***</span>
 
     100. What if Michael Bay made a movie that had 325 explosions? What would his predicted
     profit be? Show how you arrived at the solution. <span style="color:grey">***Answer: By substituting 325 in the value of x in
