@@ -47,7 +47,7 @@ graphs provides useful information about the real world as viewed through the da
 **How long should the campaign last?** About nine days. Ideally, two of these days will include a weekend.
 
 ###**4. Motivation:**
-As a class, come to an agreement about how many surveys each student should submit. All students should submit roughly the same number of surveys, and each student should submit at least four surveys. After the first day, use the campaign monitoring tool to see who has collected data. After two to three days, direct students’ attention to the Total Responses by Day plot and comment on any patterns. For example, if they see a plot like the one below, ask "What story does this tell us about our data collection?”
+As a class, come to an agreement about how many surveys each student should submit. All students should submit roughly the same number of surveys, and each student should submit at least four surveys. After the first day, use the Campaign Monitoring tool to see who has collected data. After two to three days, direct students’ attention to the Total Responses by Day plot and comment on any patterns. For example, if they see a plot like the one below, ask "What story does this tell us about our data collection?”
 
 **<u>Story:</u>** They collected a lot of data together in class. Data collection increased every day from
 Wednesday to Friday. There was little to no data collection over the weekend. Data collection
@@ -71,4 +71,4 @@ c. Typically, how healthy were your snacks? How does this compare to the class a
 d. What were some of the characteristics of healthy snacks? What about unhealthy snacks?
 
 ###**7. Report:**
-Students will complete a practicum in which they answer a statistical question based on the Food Habits data collected.
+Students will complete a practicum in which they answer a statistical investigative question based on the Food Habits data collected.
