@@ -25,7 +25,7 @@ distribution might be one shape or another.
 ###**Lesson:**
 
 1. Distribute the cutouts from the *Sorting Histograms* handout ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)). Give each student team
-all of the 24 histograms (can be paper-clipped together or put in small zippered bags).
+all of the 24 histograms (can be paper clipped together or put in small zippered bags).
 
     **<u>Advanced preparation required:</u>** Print the *Sorting Histogram*s file ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf)). Cut each
     histogram so that it is on its own piece of paper. Create enough sets for each team to have all 24
