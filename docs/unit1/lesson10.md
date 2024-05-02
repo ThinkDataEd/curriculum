@@ -90,13 +90,13 @@ crust. The more literal you are by doing exactly what the instructions say, the 
 will be and the more likely you are to get your point across about the importance of clear
 instructions.
 
-9. After your first sandwich, ask you students if they think their instructions were clear or not. What
+9. After your first sandwich, ask your students if they think their instructions were clear or not. What
 are some things they might have done differently?
 
 10. Select another student to read his/her instructions. They will be sure to use clarifications of the
 instructions you acted upon before - this is a good thing!
 
-11. After your finish the sandwich, ask you students if they think clear instructions are important.
+11. After you finish the sandwich, ask your students if they think clear instructions are important.
 Why?
 
 12. Let students know that they will now develop an algorithm for building a histogram to represent
