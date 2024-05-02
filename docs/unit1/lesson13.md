@@ -2,7 +2,7 @@
 
 ###**Objective:**
 Students will learn RStudio/Posit Cloud’s interface, as well as a few basic commands to discover the structure behind
-a data set.
+a dataset.
 
 ###**Materials:**
 1. Computer
@@ -60,7 +60,7 @@ Then, click on the RStudio (Posit Cloud) icon on the page.
 
     100. **environment** - where they will see values and objects
 
-5. Inform students that they will be looking at a data set from The Centers for Disease Control and
+5. Inform students that they will be looking at a dataset from The Centers for Disease Control and
 Prevention (CDC), a government agency that collects data about teenagers on a variety of topics.
 
 6. Demonstrate how to load and view the CDC data file to the workspace by typing the following
@@ -73,30 +73,30 @@ command in the console:
 7. Examine the environment pane. Ask a student to describe how the data are displayed. <span style="color:grey">***The data
 are displayed in rows and columns.***</span>
 
-8. Demonstrate how to list the variables found in the CDC data set. Students may take notes and
+8. Demonstrate how to list the variables found in the CDC dataset. Students may take notes and
 write down commands in their DS journals:
 
     100. **>names(cdc)**
 
-    100. Ask: What do you notice? What is one variable of this data set? How many variables are
+    100. Ask: What do you notice? What is one variable of this dataset? How many variables are
     there? How does this output compare to the information in the preview pane?  <span style="color:grey">***This
-    command lists the names of each variable in the data set.***</span>
+    command lists the names of each variable in the dataset.***</span>
 
-9. Demonstrate how to obtain more detailed information about the data set by typing the following
+9. Demonstrate how to obtain more detailed information about the dataset by typing the following
 command in the console
 
     100. **>help(cdc)**
 
     100. Ask: What unit of measurement is height reported in? <span style="color:grey">***Height was reported in meters.***</span>
 
-10. Demonstrate how to find the number of rows and columns in the data set.
+10. Demonstrate how to find the number of rows and columns in the dataset.
 
     100. **>dim(cdc)**
 
     100. Ask: Which number do you think represents the rows? Which one represents the
     columns? How does this output compare to the information in the preview and
-    environment panes? How many observations are there in the data set? How many
-    variables does this data set contain? <span style="color:grey">***There are 13,677 rows, or 13,677 observations;
+    environment panes? How many observations are there in the dataset? How many
+    variables does this dataset contain? <span style="color:grey">***There are 13,677 rows, or 13,677 observations;
     and there are 30 columns, or 30 variables. This information is also visible in the
     preview pane.***</span>
 
@@ -128,7 +128,7 @@ discuss the following question:
 14. Summarize: In data science, the variable seat_belt is what we call a **categorical variable**, and
 the variable height is what we call a **numerical variable**.
 
-15. Let’s look at the other variables in this data set. In pairs, categorize each variable as categorical
+15. Let’s look at the other variables in this dataset. In pairs, categorize each variable as categorical
 or numerical:
 
     100. eat_fruit <span style="color:grey">***(categorical)***</span>
