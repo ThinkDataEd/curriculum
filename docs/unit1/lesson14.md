@@ -30,7 +30,7 @@ about multiple variable plots using a four-fold graphic organizer.
 
 ###**Lesson:**
 
-1. Begin by informing students that there will learn how to make visual displays using more than one
+1. Begin by informing students that they will learn how to make visual displays using more than one
 variable, and by asking them to ponder the following questions:
 
     100. What do you think is the relation between people’s heights and weights?

@@ -2,7 +2,7 @@ If you have any question, please contact us at [support@idsucla.org](mailto:supp
 
 Introduction to Data Science, [https://www.idsucla.org](https://www.idsucla.org){:target="_blank"}
 
-This website was last updated on April 3rd, 2024.
+This website was last updated on May 9, 2024.
 
 Changes that have been made to version 6.0
 
@@ -42,4 +42,5 @@ Changes that have been made to version 6.0
  - Lesson 18: the LMR was modified for clarity. We also added instructions for the k-means clustering app.
  - The End of Unit Project is student choice around a community issue
  - Unit 4 Assessments have been updated (access through the Documents tool on Portal) - link to lungs data and solutions.
+ - Lab 4D lab solutions, MSE for 2nd variable changed to use y-variable, ```critics_rating```, in residual calculation/code
 
