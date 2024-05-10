@@ -53,7 +53,7 @@ Based on the data you chose (*Food Habits* or *Personality Color*), you need to:
 3. Analyze the data to provide evidence that supports the answer to your question. Include plot(s)
 and numerical summaries (mean, median, MAD, IQR, etc.) related to your plots.
 
-4. Interpret the data to answer your statistical question. You should:
+4. Interpret the data to answer your statistical investigative question. You should:
 
     a. Provide the plot(s) and numerical summaries related to your plot(s).
 
@@ -62,7 +62,7 @@ and numerical summaries (mean, median, MAD, IQR, etc.) related to your plots.
     c. Explain why you chose to make that particular plot(s) and the related numerical
     summaries.
 
-    d. Explain how the plot and numerical summary answer your statistical question.
+    d. Explain how the plot and numerical summary answer your statistical investigative question.
 
 5. Write and submit a one-page report.
 
