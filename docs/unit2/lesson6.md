@@ -2,7 +2,7 @@
 
 ###**Objective:**
 Students will informally compare two or more distributions using their knowledge of shape, center, and
-spread to answer statistical questions. They will learn how to find the difference between two means and
+spread to answer statistical investigative questions. They will learn how to find the difference between two means and
 two medians using a histogram or dotplot.
 
 ###**Materials:**
@@ -38,7 +38,7 @@ make a decision.
 
 3. In teams, have students complete the *Comparing Commute Times with Dotplots* handout
 ([LMR_2.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.8_Commute Times - Dotplots.pdf)). Allow students time to read the “Background” portion of the handout, and then
-discuss what statistical question(s) the student in the scenario is trying to answer.
+discuss what statistical investigative question(s) the student in the scenario is trying to answer. <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.8_Commute Times - Dotplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.8_Commute Times - Dotplots.pdf)</div>
 
 4. Once teams decide on their recommendation, engage half of the class in an *Active Debate*. Half
@@ -66,7 +66,7 @@ evidence is in the data or show that the data does not support the claim.
 
 11. In teams, have students complete the *Comparing Exam Scores with Histograms* handout
 ([LMR_2.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.9_Exam Scores - Histograms.pdf)). Allow students time to read the “Background” portion of the handout, and then
-discuss what statistical question(s) the student in the scenario is trying to answer.
+discuss what statistical investigative question(s) the student in the scenario is trying to answer. <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.9_Exam Scores - Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.9_Exam Scores - Histograms.pdf)</div>
 
 12. Repeat debate process (Steps 4 - 10) with the other half of the class.
@@ -84,5 +84,5 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Similar to the activities they did during class today, for homework, students should complete the
-*Comparing Fuel Efficiency with Boxplots* handout ([LMR_2.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)).
+*Comparing Fuel Efficiency with Boxplots* handout ([LMR_2.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)). <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)</div>
