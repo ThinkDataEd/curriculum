@@ -68,7 +68,7 @@ students in two equal sized groups. The split does not have to be exactly 40%, a
 10. Inform the smaller group that they are the survivors and distribute a survivor strip with its
 corresponding fare to each student. Set aside any leftover strips. Tell them that the price on the
 strip represents the amount of money paid for their ticket to board the *Titanic*. Notify them that
-£20 in 1912 is worth about £1126 today.
+£20 in 1912 is worth about £2952 today.
 
 11. Divulge to the larger group that they, unfortunately, are the victims and distribute a victim strip
 with its corresponding fare to each student. Set aside any leftover strips.
