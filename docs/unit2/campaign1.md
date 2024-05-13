@@ -12,7 +12,7 @@ b) Do different personality types have different things that make them happy/sad
 
 c) Do you like to be alone or with people?
 
-d) Is your stress/chill level a function of the environment in which you are?
+d) Is your stress/chill level a function of the environment in which you are in?
 
 ###**2. Objectives:**
 
@@ -20,7 +20,7 @@ Upon completing this campaign, students will have compared groups and gained an 
 variability within and between groups. They will have learned how to conduct and use permutations to
 model variability, perform informal inference, and how to do simulations to make predictions.
 
-###**3. Survey Questions:**:
+###**3. Survey Questions:**
 
 Use a random number generator to generate two random times a day for the next 6 days, including a
 weekend if possible. If a time falls within the school day, it is up to the discretion of the teacher to use
@@ -63,7 +63,7 @@ a) Have students generate predictions and check up on their predictions.
 
 b) What’s the typical stress/chill level of the class across the campaign?
 
-c) What’s my typical stress/chill level and how does it compare to whole class?
+c) What’s my typical stress/chill level and how does it compare to the whole class?
 
 d) Do the stress/chill levels vary by weekday or weekend or the type of people you are with?
 
