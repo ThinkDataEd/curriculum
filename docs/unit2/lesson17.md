@@ -59,7 +59,7 @@ measurements because distance is always positive.
 9. Ask students to recall that they calculated MAD values in the *How Far Apart?* handout ([LMR_2.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf))
 during [Lesson 4](lesson4.md) of this unit.
 
-10. Show and discuss the formula for calculating the standard deviation of a data set:
+10. Show and discuss the formula for calculating the standard deviation of a dataset:
 
     <center><img src="https://latex.codecogs.com/gif.latex?s=\sqrt{\frac{\sum_{i=1}^{n}&space;(x_i-\bar{x})^2}{n}}" title="s=\sqrt{\frac{\sum_{i=1}^{n} (x_i-\bar{x})^2}{n}}" /></center>
 
