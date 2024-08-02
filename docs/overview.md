@@ -8,7 +8,7 @@ Introduction to Data Science (IDS) is designed to introduce students to the exci
 at the intersection of data analysis, computing, and mathematics through hands-on activities. Data are
 everywhere, and this curriculum will help prepare students to live in a world of data. The curriculum
 focuses on practical applications of data analysis to give students concrete and applicable skills. Instead
-of using small, tailored, curated data sets as in a traditional statistics curriculum, this curriculum engages
+of using small, tailored, curated datasets as in a traditional statistics curriculum, this curriculum engages
 students with a wider world of data that fall into the "Big Data" paradigm and are relevant to students'
 lives. In contrast to the traditional formula-based approach, in IDS, statistical inference is taught
 algorithmically, using modern randomization and simulation techniques. Students will learn to find and
@@ -38,12 +38,11 @@ external server. The IDS instructor must have access to a computer and a project
 
 ###**Software**
 
-Each computer in the classroom should have a modern, updated web browser installed (such as Firefox
-or Google Chrome). This will allow students to access RStudio from an external server, and to perform
-searches and make use of a variety of websites and Internet tools. RStudio is available at
+Each computer (tablets are not recommended) in the classroom should have a modern, updated web browser installed (such as Firefox or Google Chrome). This will allow students to access RStudio via the RStudio Cloud platform, and to perform searches and make use of a variety of websites and internet tools. RStudio is accessible at [https://posit.cloud/](https://posit.cloud/ "https://posit.cloud/"){:target="_blank"} or through the IDS home page at
 [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}. The IDS team will provide the remainder of the software used in the IDS
-curriculum, available at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
-This software includes the [IDS UCLA app](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=org.idsucla.app.survey){:target="_blank"} and [iOS](https://apps.apple.com/us/app/ids-ucla-authorized/id6469903361){:target="_blank"} smartphones and
+curriculum, also available at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}.
+
+This software includes the [IDS UCLA app](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=org.idsucla.app.survey){:target="_blank"} and [iOS](https://apps.apple.com/us/app/ids-ucla-authorized/id6469903361){:target="_blank"} (Apple) smartphones and
 tablets, as well as through the web browser on a desktop or laptop computer. The app allows students to
 collect the Participatory Sensing data that is a motivational foundation for the course. In addition to the
 app, students will use the IDS software to access and manipulate their Participatory Sensing data, and to
@@ -161,11 +160,11 @@ IDS will emphasize the use of statistics and computation as tools for creative w
 telling stories with data. Seen in this way, its content will also prepare students to "read" and think
 critically about existing data stories. Ultimately, this course will be about how we discern good stories
 from bad through a practice that involves compiling evidence from one or more sources, and which often
-requires hands-on examination of one or more data sets.
+requires hands-on examination of one or more datasets.
 
 IDS will develop the tools, techniques, and principles for reasoning about the world with data. It will
 present a process that is iterative and authentically inquiry-based, comparing multiple "views" of one or
-more data sets. Inevitably, these views are the result of some kind of computation, producing numerical
+more datasets. Inevitably, these views are the result of some kind of computation, producing numerical
 summaries or graphical displays. Their interpretation relies on a special kind of computation known as
 simulation to describe the uncertainty in each view. This kind of reasoning is exploratory and
 investigatory, sometimes framed as hypothesis evaluation, and sometimes as hypothesis generation.
@@ -173,7 +172,7 @@ investigatory, sometimes framed as hypothesis evaluation, and sometimes as hypot
 ###**Interpreting Categorical and Quantitative Data**
 
 A handful of data interpretations are standard. Some, including summaries of shape, center, and spread
-of one or more variables in a data set - as well as graphical displays like histograms and scatterplots - are
+of one or more variables in a dataset - as well as graphical displays like histograms and scatterplots - are
 standard in the sense that they provide interpretable information in a number of research contexts. They
 are portable from one set of data to the next, and the rules for their use are simple. And yet, our
 interpretation of data is rarely “standard.” Data have no natural look - even a spreadsheet or a table of
@@ -203,11 +202,11 @@ organizations compare? What stories have been told previously with these data, a
 This course answers these questions, in part, by using the tools and techniques already mentioned. The
 ability to read and critique published stories and visualizations are additions to these tools and
 techniques. Finally, as an act of comparison, students should also be able to formulate questions, identify
-existing data sets, and evaluate how the new stories stack up against the old. To support this cycle of
+existing datasets, and evaluate how the new stories stack up against the old. To support this cycle of
 inquiry, students will examine the basic publication mechanisms for data and develop a set of questions
 to ask of any data source - computation meets critical thinking. In some cases, data will exhibit special
 structures that can be used to aid in inference. The simulation techniques for calibrating different views of
-a data set take on new life when some form of random process was followed to generate the data. Polls,
+a dataset take on new life when some form of random process was followed to generate the data. Polls,
 for example, rely on random samples of the population, and clinical trials randomly assign patients to
 treatment and control groups. A simulation strategy that repeats these random mechanisms can be used
 to assess uncertainty in the data, assigning a margin of error to poll results, or identifying new drugs that
