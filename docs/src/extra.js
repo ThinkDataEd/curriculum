@@ -93,7 +93,7 @@ if (window.location == window.top.location) {
     }).then((result) => {
       if (result.isConfirmed) {
         console.log('confirmed');
-        var url = "http://portal2023.idsucla.org/#curriculum/";
+        var url = "http://portal.idsucla.org/#curriculum/";
         document.location = url;
       } else if (result.dismiss === Swal.DismissReason.cancel) {
         console.log('cancelled');
