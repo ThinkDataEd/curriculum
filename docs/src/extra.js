@@ -79,7 +79,7 @@ if (window.location == window.top.location) {
     Swal.fire({
       icon: 'info',
       title: 'Login Required.',
-      iconHtml: '<img style="width: 100px;height: 100px;" src="//curriculum.idsucla.org/img/IDS-logo.png">',
+      iconHtml: '<img style="width: 100px;height: 100px;" src="//ids-curriculum.idsucla.org/img/IDS-logo.png">',
 //      showCancelButton: true,
 //      cancelButtonText: 'Visitors: Request Access',
       showConfirmButton: true,
@@ -103,7 +103,7 @@ if (window.location == window.top.location) {
     });
   }
 } else {
-  //   document.getElementById("demo").innerHTML="https://curriculum.idsucla.org";
+  //   document.getElementById("demo").innerHTML="https://ids-curriculum.idsucla.org";
   var xhr = new XMLHttpRequest();
   xhr.open("GET", window.location.origin + "/app/user/whoami?client=Curri", true);
   xhr.onload = function (e) {

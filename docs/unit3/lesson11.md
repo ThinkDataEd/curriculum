@@ -47,7 +47,7 @@ population and estimating the population parameter.
 
 2. Read the Gettysburg Address aloud to the class OR have students read it aloud. The text of the
 speech can be found in the *Gettysburg Address* handout ([LMR_3.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.7_Gettysburg Address.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.7_Gettysburg Address.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.7_Gettysburg Address.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.7_Gettysburg Address.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.7_Gettysburg Address.pdf)</div>
 
 3. Today we will use the Gettysburg Address to learn about different sampling techniques.
 
@@ -64,7 +64,7 @@ Sampling Activity 1 on page 1 of the handout.
     **<u>Note:</u>** This activity was originally created by Allan Rossman and Beth Chance, and has been
     modified for the IDS curriculum.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.8_Sampling the Gettysburg Address.pdf)</div>
 
 6. Inform students that they will get 30 seconds to select 10 words that they think are representative
 of all words in the speech. This is our first sampling plan.
@@ -111,7 +111,7 @@ based on the questions listed below.
 11. Next, display the histogram from the *Gettysburg Address – Word Length Histogram* file
 ([LMR_3.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.9_Gettysburg Histogram.pdf)), which shows the distribution of word lengths for the entire population of words in the
 Gettysburg Address.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.9_Gettysburg Histogram.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.9_Gettysburg Histogram.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.9_Gettysburg Histogram.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.9_Gettysburg Histogram.pdf)</div>
 
 12. Remind students that the population is the 272 words from the speech, and inform them that the
 mean word length of the population, or the population parameter, is 4.22. Using *Think-Pair-Share*,
@@ -150,7 +150,7 @@ possible 272 using RStudio.
 18. Each student should generate his or her own set of 10 random numbers. Once students have
 created their random numbers, distribute the *Gettysburg Address Word Lengths* handout
 ([LMR_3.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.10_Gettysburg Words.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.10_Gettysburg Words.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.10_Gettysburg Words.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.10_Gettysburg Words.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.10_Gettysburg Words.pdf)</div>
 
 19. Explain that the table contains the word number, word, and length of each word in the Gettysburg
 Address. Demonstrate how to find a word that corresponds to one of the random numbers

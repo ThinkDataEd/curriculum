@@ -50,7 +50,7 @@ turn it into something useful to us?
 2. Inform students that they will be learning about the **Data Cycle** today. The Data Cycle is a guide
 we can use when learning to think about data. We usually start with posing statistical investigative questions. Display the
 graphic from *The Data Cycle* file ([LMR_1.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.3_Data Cycle.pdf)):
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.3_Data Cycle.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.3_Data Cycle.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.3_Data Cycle.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.3_Data Cycle.pdf)</div>
 
 3. Display the Data Cycle on the board or on a projector, and give a brief explanation of the 4
 components (listed below).
@@ -134,7 +134,7 @@ website by Nikhil Sonnad as a data visualization. He collected the data via Twit
 19. Assign ONE of the pages from the *Bros & Dudes Graphics* handout ([LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.5_Bros & Dudes Graphics.pdf)) to each team. There are 10 different
 versions of word pairings (10 combinations of 2 words chosen from the 5 options), so multiple
 teams will have the same graphic if there are more than 10 teams in a class.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.5_Bros %26 Dudes Graphics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.5_Bros & Dudes Graphics.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.5_Bros %26 Dudes Graphics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.5_Bros & Dudes Graphics.pdf)</div>
 
 20. The goal of this activity is for each team to complete a full statistical investigation with the *Bros & Dudes Graphics* assigned to them. Tell the teams that they need to create a Data Cycle poster using their assigned graphic for the analyze stage. The cycle should be clearly labeled and have appropriate responses for each of the 4 components.
 

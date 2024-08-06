@@ -1,7 +1,7 @@
 
 #dev_addr: '10.142.0.2:80'
 #dev_addr: '0.0.0.0:80'
-site_url: 'http://curriculum.idsucla.org'
+site_url: 'http://ids-curriculum.idsucla.org'
 plugins:
    - search
 #plugins:
@@ -377,7 +377,7 @@ nav:
    
     - Updates: updates.md
 
-google_analytics: ['UA-149684808-1', 'curriculum.idsucla.org']
+google_analytics: ['UA-149684808-1', 'ids-curriculum.idsucla.org']
 
 gtag:
   - G-K2MVBFZP2D

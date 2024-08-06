@@ -46,7 +46,7 @@ paper for each of the two datasets. For example, Data Set 1 could be on plain wh
 Data Set 2 could be on blue paper. Cut the paper by creating horizontal strips of each observation
 of data. For example, from the screenshot below, of the first page of Data Set 1, you would create 12 different strips of paper, one
 for each observation.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf)</div>
 
 
 6. Hand each student in the class a strip of paper. Ask them to try to find someone with the other

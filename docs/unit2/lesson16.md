@@ -36,7 +36,7 @@ the original handout of that lesson (*Sorting* Histograms handout ([LMR_1.10](..
     **<u>Note:</u>** You do not need the original handout from [Unit 1](../unit1/overview.md) – all relevant plots have been compiled in
     the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)) for accessibility. Six plots are included: SAT Math, SAT Verb,
     ACT Mathematics, ACT Reading, ACT English, and ACT Science Reasoning.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)</div>
 
 3. Display the group of bell-shaped distributions from page 1 of the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)) to
 the class and ask the students:
