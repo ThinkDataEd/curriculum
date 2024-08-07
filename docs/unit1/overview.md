@@ -32,49 +32,49 @@
     <td class="tg-y698"><a href="../../unit1/lesson1">Lesson 1: Data Trails</a></td>
     <td class="tg-y698"></td>
     <td class="tg-y698">Defining data, consumer privacy</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson1">27</a></td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson1">24</a></td>
   </tr>
   <tr>
     <td class="tg-yj5y">2</td>
     <td class="tg-y698"><a href="../../unit1/lesson2">Lesson 2: Stick Figures</a></td>
     <td class="tg-y698"></td>
     <td class="tg-y698">Organizing &amp; collecting data</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson2">29</a></td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson2">26</a></td>
   </tr>
   <tr>
     <td class="tg-yj5y">3</td>
     <td class="tg-y698"><a href="../../unit1/lesson3">Lesson 3: Data Structures</a></td>
     <td class="tg-y698"></td>
     <td class="tg-y698">Organizing data, rows &amp; columns, variables</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson3">31</a></td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson3">28</a></td>
   </tr>
   <tr>
     <td class="tg-yj5y">4</td>
     <td class="tg-y698"><a href="../../unit1/lesson4">Lesson 4: The Data Cycle</a></td>
     <td class="tg-y698"></td>
-    <td class="tg-y698">Data cycle, statistical questions</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson4">34</a></td>
+    <td class="tg-y698">Data cycle, statistical investigative questions</td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson4">30</a></td>
   </tr>
   <tr>
     <td class="tg-yj5y">5</td>
     <td class="tg-y698"><a href="../../unit1/lesson5">Lesson 5: So Many Questions</a></td>
     <td class="tg-y698"></td>
-    <td class="tg-y698">Statistical questions, variability</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson5">38</a></td>
+    <td class="tg-y698">Statistical investigative questions, variability</td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson5">35</a></td>
   </tr>
   <tr>
-    <td class="tg-yj5y">6^</td>
+    <td class="tg-yj5y">6</td>
     <td class="tg-y698"><a href="../../unit1/lesson6">Lesson 6: What Do I Eat?</a></td>
     <td class="tg-y698">Food Habits</td>
-    <td class="tg-y698">Collecting data, statistical questions</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson6">40</a></td>
+    <td class="tg-y698">Data cycle, collecting data</td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson6">39</a></td>
   </tr>
   <tr>
-    <td class="tg-yj5y">7</td>
+    <td class="tg-yj5y">7^</td>
     <td class="tg-y698"><a href="../../unit1/lesson7">Lesson 7: Setting the Stage</a></td>
     <td class="tg-y698">Food Habits – data</td>
     <td class="tg-y698">Participatory sensing</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson7">43</a></td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson7">42</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow" rowspan="14">Visualizing<br>Data<br>(14 days)</td>
@@ -82,14 +82,14 @@
     <td class="tg-0pky"><a href="../../unit1/lesson8">Lesson 8: Tangible Plots</a></td>
     <td class="tg-0pky">Food Habits – data</td>
     <td class="tg-0pky">Dotplots, minimum/maximum,<br>frequency</td>
-    <td class="tg-c3ow"><a href="../../unit1/lesson8">49</a></td>
+    <td class="tg-c3ow"><a href="../../unit1/lesson8">48</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">9</td>
     <td class="tg-0pky"><a href="../../unit1/lesson9">Lesson 9: What Is Typical?</a></td>
     <td class="tg-0pky">Food Habits – data</td>
     <td class="tg-0pky">Typical value, center</td>
-    <td class="tg-c3ow"><a href="../../unit1/lesson9">53</a></td>
+    <td class="tg-c3ow"><a href="../../unit1/lesson9">52</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">10</td>
@@ -152,7 +152,7 @@
     <td class="tg-0pky"><a href="../../unit1/lab1d">Lab 1D: Zooming Through Data</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Subsetting</td>
-    <td class="tg-c3ow"><a href="../../unit1/lab1d">80</a></td>
+    <td class="tg-c3ow"><a href="../../unit1/lab1d">79</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">19</td>
@@ -181,7 +181,7 @@
     <td class="tg-y698"><a href="../../unit1/lesson15">Lesson 15: Americans’ Time on Task</a></td>
     <td class="tg-y698">Time Use – data</td>
     <td class="tg-y698">Evaluating claims</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson15">90</a></td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson15">89</a></td>
   </tr>
   <tr>
     <td class="tg-yj5y">23</td>
@@ -195,34 +195,34 @@
     <td class="tg-y698"><a href="../../unit1/lesson16">Lesson 16: Categorical Associations</a></td>
     <td class="tg-y698">Time Use – data</td>
     <td class="tg-y698">Joint relative frequencies in 2- way tables</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson16">98</a></td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson16">99</a></td>
   </tr>
   <tr>
     <td class="tg-yj5y">25</td>
     <td class="tg-y698"><a href="../../unit1/lesson17">Lesson 17: Interpreting Two-Way Tables</a></td>
     <td class="tg-y698">Time Use – data</td>
     <td class="tg-y698">Marginal &amp; conditional relative frequencies</td>
-    <td class="tg-yj5y"><a href="../../unit1/lesson17">100</a></td>
+    <td class="tg-yj5y"><a href="../../unit1/lesson17">101</a></td>
   </tr>
   <tr>
     <td class="tg-yj5y">26+</td>
     <td class="tg-y698"><a href="../../unit1/lab1g">Lab 1G: What’s the FREQ?</a></td>
     <td class="tg-y698">Time Use – data</td>
     <td class="tg-y698">2-way tables, tally</td>
-    <td class="tg-yj5y"><a href="../../unit1/lab1g">105</a></td>
+    <td class="tg-yj5y"><a href="../../unit1/lab1g">106</a></td>
   </tr>
   <tr>
     <td class="tg-yj5y">27</td>
     <td class="tg-y698"><a href="../../unit1/practicum2">Practicum: Teen Depression</a></td>
     <td class="tg-y698">Time Use</td>
-    <td class="tg-y698">Statistical questions, interpreting plots</td>
-    <td class="tg-yj5y"><a href="../../unit1/practicum2">107</a></td>
+    <td class="tg-y698">Statistical investigative question, interpreting plots</td>
+    <td class="tg-yj5y"><a href="../../unit1/practicum2">109</a></td>
   </tr>
   <tr>
     <td class="tg-yj5y">28</td>
     <td class="tg-y698">Practicum Presentations<br></td>
     <td class="tg-y698"></td>
-    <td class="tg-y698">Statistical questions, interpreting plots</td>
+    <td class="tg-y698">Statistical investigative question, interpreting plots</td>
     <td class="tg-yj5y">-</td>
   </tr>
   <tr>
@@ -230,15 +230,15 @@
     <td class="tg-y698"><a href="../../unit1/lab1h">Lab 1H: Our Time</a></td>
     <td class="tg-y698"></td>
     <td class="tg-y698">Data cycle, synthesis</td>
-    <td class="tg-yj5y"><a href="../../unit1/lab1h">109</a></td>
+    <td class="tg-yj5y"><a href="../../unit1/lab1h">111</a></td>
   </tr>
   <tr>
     <td class="tg-c3ow">Unit 1<br>Project<br>(5 Days)</td>
     <td class="tg-c3ow">31-35</td>
-    <td class="tg-0pky"><a href="../../unit1/end">End of Unit Project and Oral Presentation: Analyzing Data to Evaluate Claims</a></td>
+    <td class="tg-0pky"><a href="../../unit1/end">End of Unit Project and Presentation: Analyzing Data to Evaluate Claims</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Data cycle</td>
-    <td class="tg-c3ow"><a href="../../unit1/end">110</a></td>
+    <td class="tg-c3ow"><a href="../../unit1/end">112</a></td>
   </tr>
 </table>
 
