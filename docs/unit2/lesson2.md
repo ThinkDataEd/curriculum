@@ -5,7 +5,11 @@ Students will learn that values that gather around the center of a distribution 
 value is also referred to as the mean, or average.
 
 ###**Materials:**
-1. *Pennies on a Ruler* handout ([LMR_2.2_Pennies on a Ruler](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2_Pennies on a Ruler.pdf))
+1. *Pennies on a Ruler* handout ([LMR_U2_L2_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf))
+
+**Digitial Option:** IDS Balancing Point app
+
+*Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf))
 
 2. Markers (1 for each table)
 
@@ -15,20 +19,13 @@ value is also referred to as the mean, or average.
 
 5. Tape
 
-    **Digital Option**: 
-
-    [IDS Balancing Point app](https://www.idsucla.org/wp-content/uploads/mean.html)
-
-    *Balancing Point* handout ([LMR_2.2b_Balancing_Point.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2b_Balancing_Point.pdf))
-
-
 6. Exported, printed, and reproduced class’s *Personality Color* survey data
 
-    **Advanced preparation required**: The teacher must share students’ data on the IDS Home page
+    **Advance preparation required:** The teacher must share students’ data on the IDS Home page
     ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}) before it can be exported and printed. Students will keep for use in
-    subsequent lessons.
+    subsequent lessons (see step 9 of lesson).
 
-7. *Mr. Jones Mile Run Times* handout ([LMR_2.3_Mr. Jones Run Times](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf))
+7. *Mr. Jones Mile Run Times* handout ([LMR_U2_L2_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf))
 
 ###**Vocabulary:**
 [measures of central tendency (or center)](../../vocabulary/unit2/#measures-of-central-tendency-or-center "a central or typical value for a probability distribution"){ .md-button } 
@@ -49,13 +46,15 @@ value is also referred to as the mean, or average.
 ###**Lesson:**
 1. In student pairs, ask students to discuss what they think the following terms mean:
 
-    100. Measures of central tendency. <span style="color:grey">***A value that shows the tendency of quantitative data
+    100. Measures of central tendency. <span style="color:grey">***Answer: A value that shows the tendency of quantitative data
     to gather around a central, or***</span> ***typical***<span style="color:grey">***, value. Also known as measures of ***</span> ***center***<span style="color:grey">***.
     Students will learn about two such measures: the mean and the median.***</span>
     
-    100. Measures of variability. <span style="color:grey">***Values that show how much the quantitative data varies.
-    Also known as measures of***</span> *** spread***<span style="color:grey">***. Note: This is not taught during this lesson, but
-    will be addressed as part of [Lesson 4](lesson4.md).***</span>
+    100. Measures of variability. <span style="color:grey">***Answer: Values that show how much the quantitative data varies.
+    Also known as measures of***</span> *** spread***. 
+    
+    **Note:** This is not taught during this lesson, but
+    will be addressed as part of [Lesson 4](lesson4.md).***
 
 2. Ask a pair to share what they think these two terms mean. Pairs who are listening must decide
 whether they agree or disagree with the pair that shared. Lead a discussion based on their
@@ -70,12 +69,17 @@ tell us about data as we progress through this unit.
 the numbers. Then divide by how many numbers there are.***</span>
 
 6. Another way to find the mean is to find the **balancing point** of a distribution. They will learn about
-the balancing point via the activity in Steps 7 & 8.
+the balancing point via the activity in steps 7 and 8 below.
 
-7. Distribute the *Pennies on a Ruler* handout ([LMR_2.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2_Pennies on a Ruler.pdf)) along with a marker, ruler, tape, and 6
+7. Distribute the *Pennies on a Ruler* handout ([LMR_U2_L2_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf)) along with a marker, ruler, tape, and 6
 pennies to each table group. If you prefer to not print the document, you can project it on the
 board instead.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2_Pennies on a Ruler.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2_Pennies on a Ruler.pdf)</div>
+
+**Note:** Alternatively, you can substitute the digital version of this activity using the *Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)).
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf)</div>
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)</div>
 
 8. Guide the students through the handout and have them share their findings throughout the
 activity. Be sure to emphasize the idea that <u>the mean of a distribution can be identified by finding
@@ -107,7 +111,7 @@ responses from Step 5 above.
 
 14. Now that they have calculated the mean for the <span style="color:blue">***Blue***</span> score, ask them to identify each symbol in
 the formula with a step in their algorithm for finding the mean, and discuss the meaning of the
-symbols in the formula as a class. <span style="color:grey">***x<sub>i</sub> represents each individual data point and n
+symbols in the formula as a class. <span style="color:grey">***Answer: x<sub>i</sub> represents each individual data point and n
 represents the total number of observations.***</span>
 
 15. Indicate the location of the calculated mean on the dot plots by drawing a vertical line at the value
@@ -115,7 +119,7 @@ on the x-axis. Ask student pairs to engage in a conversation about how close the
 their predicted balancing point and why their prediction was made that way. Select a pair to share
 their discussion with the whole class.
 
-16. Using the *Personality Color* survey data from Step 9, ask student pairs to compute the mean
+16. Using the *Personality Color* survey data from Step 9 above, ask student pairs to compute the mean
 score for each of the other three personality colors.
 
 17. Inform the students that, during the [next lesson](lesson3.md), they will learn about another method that can be
@@ -136,8 +140,8 @@ will be able to use this command for quick calculations now.
 
     &nbsp;&nbsp;&nbsp;&nbsp;**> mean(~variable, data = datafile)**
 
-    So, for our specific example, **blue** is the **variable** we want to find the mean value of,
-    and **colors** is the **datafile**.
+    So, for our specific example, ```blue``` is the ```variable``` we want to find the mean value of,
+    and ```colors``` is the ```datafile```.
 
 19. Have the students *Think-Pair-Share* to discuss how the mean value of a group of data could be
 used to easily describe complicated things. For example, instead of giving someone the entire
@@ -149,16 +153,16 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students should complete the *Mr. Jones Mile Run Times* handout ([LMR_2.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf)) for homework. They
+Students should complete the *Mr. Jones Mile Run Times* handout ([LMR_U2_L2_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf)) for homework. They
 can practice finding the mean of distributions by determining a balancing point for the data. Answers
-to the handout are below. **<u>Note:</u>** The mean values in part (3) do NOT need to be exact.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf)</div>
+to the handout are below. <br> **<u>Note:</u>** The mean values in part (3) do NOT need to be exact.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf)</div>
 
 
-1. What kind of plots did Mr. Jones create for his classes? <span style="color:grey">***Histograms.***</span>
+1. What kind of plots did Mr. Jones create for his classes? <span style="color:grey">***Answer: Histograms.***</span>
 
 2. Where does each distribution balance? Find and label the balancing point of each distribution.
-<span style="color:grey">***The balancing point for all of these distributions is at the mean.***</span>
+<span style="color:grey">***Answer: The balancing point for all of these distributions is at the mean.***</span>
 
 3. Based on the balancing points you found, what would you say the mean mile run time is for
 each class?

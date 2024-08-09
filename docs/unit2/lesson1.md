@@ -5,11 +5,11 @@ Students will collect data that might tell them about their personality type, an
 subset their data.
 
 ###**Materials:**
-1. *True Colors Personality Test* ([LMR_2.1_True Colors Personality Test](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.1_True Colors Personality Test.pdf))
+1. *True Colors Personality Test* ([LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf))
 
 2. Posted signs for each Personality Color: Blue, Gold, Green, and Orange
 
-    **Advanced preparation required** (see step 5 below)
+    **Advance preparation required:** Posters need to be labeled and posted (see step 5 in lesson)
 
 3. Poster paper
 
@@ -34,11 +34,11 @@ subset their data.
     100. How well do you know your classmates?
 
 2. There are things students know and don’t know about themselves. The *True Colors Personality
-Test* ([LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.1_True Colors Personality Test.pdf)) claims to identify personality types (Later, students can gather more evidence to
+Test* ([LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)) claims to identify personality types (later, students can gather more evidence to
 test these claims). Students will use these data to explore fundamental statistical concepts.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://stemc.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.1_True Colors Personality Test.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.1_True Colors Personality Test.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://stemc.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)</div>
 
-3. Distribute the first 2 pages of the *True Colors Personality Test* ([LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.1_True Colors Personality Test.pdf)). DO NOT include the
+3. Distribute the first 2 pages of the *True Colors Personality Test* ([LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)). DO NOT include the
 final page, which contains the descriptions of each color. Instruct students on how to complete
 the test, and allow time for them to complete it (see page 2 in handout).
 
@@ -123,22 +123,20 @@ visualizations:
 15. Ask students to summarize their impressions of the class’s personality color data by writing this
 summary in their DS journals.
 
-16. Distribute the description of each personality color to students (page 3 of [LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.1_True Colors Personality Test.pdf)). Remind
+16. Distribute the description of each personality color to students (page 3 of [LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)). Remind
 them that the highest score is considered their predominant color and the second highest score is
 considered their secondary color. If there is a tie for their predominant or secondary colors, ask
 students to choose the color that describes their personality better.
 
 17. Compare the given descriptions on the handout to the characteristics listed on the board for each
-group during step 7. Do the descriptions match what the students originally thought? How
+group during step 7 above. Do the descriptions match what the students originally thought? How
 accurate are the descriptions? If time allows, ask a couple of students to share their comparisons.
 
-18. Students will now record their data by completing the *Personality Color* campaign on the UCLA
-[IDS UCLA App](../download/app.md) or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+18. Students will now record their data by completing the *Personality Color* campaign on the [IDS UCLA App](../download/app.md) or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-If not finished in class, students should complete the *Personality Color* survey either through the UCLA
-[IDS UCLA App](../download/app.md) or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+If not finished in class, students should complete the *Personality Color* survey either through the [IDS UCLA App](../download/app.md) or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}

@@ -18,6 +18,8 @@ collected in a survey using the [IDS UCLA App](../download/app.md) or via web br
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
 
+A-SSE A: Interpret the structure of expressions.
+
 S-ID 2: Use statistics appropriate to the shape of the data distribution to compare center (median, mean)
 and spread (interquartile range, standard deviation) of two or more different data sets.
 
@@ -39,10 +41,9 @@ is a graphical representation of a numerical summary.
 
 <ins>*Applied Computational Thinking using RStudio:*</ins>
 
-• Calculate numerical summaries (mean, median, Sum of Absolute Deviations (SAD), and Mean of
-Absolute Deviations (MAD)).
+• Calculate numerical summaries (mean, median, Mean of Absolute Deviations (MAD), and Interquartile Range (IQR)).
 
-• Create graphical representations to compare two or more data sets, including boxplots.
+• Create graphical representations to compare two or more datasets, including boxplots.
 
 <ins>*Real-World Connections:*</ins>
 
@@ -51,21 +52,23 @@ media is continuously publishing articles that include statistical references. C
 that we understand the information provided in summaries of data.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding of
-data, how it is collected, how it is used and how to work with it.
+1. Students will conside the appropriateness of using mean or median as the measure of center for different types of distributions.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will determine and explain eappropriate measure of spread.
+
+3. Students will engage in an "Active Debate" activity to compare shape, center, and spread of distributions.
+
+4. Students will engage in partner and whole group distributions and presentations to express their understanding of statistical investigations.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
+<ins>*Data Files:*</ins>
+
+1. Students’ *Personality Color* survey: ```data(colors)```
+
 <ins>*Data Collection Method:*</ins>
 
 1. **True Colors Personality Test:** Students will complete the *Personality Color* survey that will
 collect their data about their personality styles.
-
-<ins>*Data Files:*</ins>
-
-1. Students’ *True Colors Personality* survey data *(colors)*
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

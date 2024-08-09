@@ -56,13 +56,13 @@
 
 ##**IDS_LMR_Unit 2_v_6.0**		
 
-[LMR_2.1_True Colors Personality Test.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.1_True Colors Personality Test.pdf)
+[LMR_U2_L1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)
 
-[LMR_2.2_Pennies on a Ruler.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2_Pennies on a Ruler.pdf)
+[LMR_U2_L2_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf)
 
 [LMR_2.2b_Balancing_Point.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2b_Balancing_Point.pdf)
 
-[LMR_2.3_Mr. Jones Run Times.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.3_Mr. Jones Run Times.pdf)
+[LMR_U2_L2_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf)
 
 [LMR_2.4_Medians - Dotplots or Histograms.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.4_Medians - Dotplots or Histograms.pdf)
 
