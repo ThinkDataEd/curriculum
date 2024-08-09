@@ -3587,7 +3587,7 @@ a dataset.</p>
 <a class="md-button" href="../../vocabulary/unit1/#plot" title="a pane within RStudio; where plots/graphs/visualizations will be generated">plot</a>
 <a class="md-button" href="../../vocabulary/unit1/#environment" title="a pane within RStudio; where values and objects can be viewed">environment</a></p>
 <h3 id="rstudio-commands"><strong>RStudio Commands:</strong></h3>
-<p>data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )</p>
+<p><code>data( )</code>, <code>View( )</code>, <code>names( )</code>, <code>help( )</code>, <code>dim( )</code>, <code>tally( )</code>, <code>load_labs( )</code></p>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
 <div class="admonition note">
 <p class="admonition-title">Essential Concepts:</p>
@@ -3598,10 +3598,7 @@ a dataset.</p>
 <p>a) Students sign-in to RStudio/Posit Cloud using the "Log In With Google" option using their school email address.</p>
 <p>b) Each student watches the video showing how to log into RStudio/Posit Cloud for the first time found <strong><a href="https://www.youtube.com/watch_popup?v=vgh7C8U8Ekk" target="_blank" title="https://www.youtube.com/watch_popup?v=vgh7C8U8Ekk">here</a></strong>.</p>
 <p>c) You are familiar with managing your RStudio/Posit Teacher Space. See video <strong><a href="https://www.youtube.com/watch_popup?v=1bXLsKwY7bY" target="_blank" title="https://www.youtube.com/watch_popup?v=1bXLsKwY7bY">here</a></strong>.</p>
-</div>
-<div class="admonition warning">
-<p class="admonition-title">In preparation for this lesson, watch this video:</p>
-<p><a href="https://www.youtube.com/embed/WkxCfaol3pE">RStudio Basics</a></p>
+<p>d) In preparation for this lesson watch <strong><a href="https://www.youtube.com/embed/WkxCfaol3pE" target="_blank" title="https://www.youtube.com/embed/WkxCfaol3pE">this video</a></strong>.</p>
 </div>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
 <ol>
@@ -3643,8 +3640,8 @@ Prevention (CDC), a government agency that collects data about teenagers on a va
 <li>
 <p>Demonstrate how to load and view the CDC data file to the workspace by typing the following
 command in the console:</p>
-<p><strong>&gt;data(cdc)</strong></p>
-<p><strong>&gt;View(cdc)</strong></p>
+<p><strong><code>&gt;data(cdc)</code></strong></p>
+<p><strong><code>&gt;View(cdc)</code></strong></p>
 </li>
 <li>
 <p>Examine the environment pane. Ask a student to describe how the data are displayed. <span style="color:grey"><strong><em>The data
@@ -3655,12 +3652,12 @@ are displayed in rows and columns.</em></strong></span></p>
 write down commands in their DS journals:</p>
 <ol>
 <li>
-<p><strong>&gt;names(cdc)</strong></p>
+<p><strong><code>&gt;names(cdc)</code></strong></p>
 </li>
 <li>
 <p>Ask: What do you notice? What is one variable of this dataset? How many variables are
-there? How does this output compare to the information in the preview pane?  <span style="color:grey"><strong><em>This
-command lists the names of each variable in the dataset.</em></strong></span></p>
+there? How does this output compare to the information in the preview pane?  <span style="color:grey"><strong><em>Answer: This
+command lists the names of each variable in the dataset. There are 32 variables; age, sex, grade, height, weight, etc. Answers will vary about how this output compares to the information in the preview pane.</em></strong></span></p>
 </li>
 </ol>
 </li>
@@ -3669,10 +3666,10 @@ command lists the names of each variable in the dataset.</em></strong></span></p
 command in the console</p>
 <ol>
 <li>
-<p><strong>&gt;help(cdc)</strong></p>
+<p><strong><code>&gt;help(cdc)</code></strong></p>
 </li>
 <li>
-<p>Ask: What unit of measurement is height reported in? <span style="color:grey"><strong><em>Height was reported in meters.</em></strong></span></p>
+<p>Ask: What unit of measurement is height reported in? <span style="color:grey"><strong><em>Answer: Height was reported in meters.</em></strong></span></p>
 </li>
 </ol>
 </li>
@@ -3680,14 +3677,14 @@ command in the console</p>
 <p>Demonstrate how to find the number of rows and columns in the dataset.</p>
 <ol>
 <li>
-<p><strong>&gt;dim(cdc)</strong></p>
+<p><strong><code>&gt;dim(cdc)</code></strong></p>
 </li>
 <li>
 <p>Ask: Which number do you think represents the rows? Which one represents the
 columns? How does this output compare to the information in the preview and
 environment panes? How many observations are there in the dataset? How many
-variables does this dataset contain? <span style="color:grey"><strong><em>There are 13,677 rows, or 13,677 observations;
-and there are 30 columns, or 30 variables. This information is also visible in the
+variables does this dataset contain? <span style="color:grey"><strong><em>Answer: The first number represents the rows and the second number represents the columns. There are 17,232 rows, or 17,232 observations;
+and there are 32 columns, or 32 variables. This information is also visible in the
 preview pane.</em></strong></span></p>
 </li>
 </ol>
@@ -3696,12 +3693,12 @@ preview pane.</em></strong></span></p>
 <p>Next, show students how to access the number of observations of a specific variable.</p>
 <ol>
 <li>
-<p><strong>&gt;tally(~seat_belt, data = cdc)</strong></p>
+<p><strong><code>&gt;tally(~seat_belt, data = cdc)</code></strong></p>
 </li>
 <li>
-<p>Ask: What do you notice? Describe the output. <span style="color:grey"><strong><em>Notice that six categories are
+<p>Ask: What do you notice? Describe the output. <span style="color:grey"><strong><em>Answer: Notice that six categories are
 displayed. Each category shows the number of observations contained in it. E.g,.
-“Never” has 294 observations, meaning 294 teens reported never wearing their
+“Never” has 265 observations, meaning 265 teens reported never wearing their
 seat belt as a passenger in a motor vehicle. &lt;NA&gt; = Not Available, represents teens
 that did not provide information about their seat belt habits.</em></strong></span></p>
 </li>
@@ -3711,20 +3708,20 @@ that did not provide information about their seat belt habits.</em></strong></sp
 <p>Change the variable to height.</p>
 <ol>
 <li>
-<p><strong>&gt;tally(~height, data = cdc)</strong></p>
+<p><strong><code>&gt;tally(~height, data = cdc)</code></strong></p>
 </li>
 <li>
-<p>Ask: What do you notice? Describe the output. <span style="color:grey"><strong><em>The levels are missing. It happened
-because the variable height contains numbers, not categories.</em></strong></span></p>
+<p>Ask: What do you notice? Describe the output. <span style="color:grey"><strong><em>Answer: The levels are missing. It happened
+because the variable 'height' contains numbers, not categories.</em></strong></span></p>
 </li>
 </ol>
 </li>
 <li>
 <p>Let’s take a closer look at the variables seat_belt and height. Maximize the console. Ask teams to
 discuss the following question:</p>
-<p>What is the difference between the data from the variables seat_belt and height? <span style="color:grey"><strong><em>The
-data from the</em></strong> <em>seat_belt</em> <strong><em>variable is categorical, which means it consists of
-groupings. The data from the variable</em></strong> <em>height</em> <strong><em>is numerical, which means it consists
+<p>What is the difference between the data from the variables seat_belt and height? <span style="color:grey"><strong><em>Answer: The
+data from the 'seat_belt' variable is categorical, which means it consists of
+groupings. The data from the variable 'height' is numerical, which means it consists
 of numbers.</em></strong></span></p>
 </li>
 <li>
@@ -3736,16 +3733,16 @@ the variable height is what we call a <strong>numerical variable</strong>.</p>
 or numerical:</p>
 <ol>
 <li>
-<p>eat_fruit <span style="color:grey"><strong><em>(categorical)</em></strong></span></p>
+<p>eat_fruit <span style="color:grey"><strong><em>Answer: categorical</em></strong></span></p>
 </li>
 <li>
-<p>weight <span style="color:grey"><strong><em>(numerical)</em></strong></span></p>
+<p>weight <span style="color:grey"><strong><em>Answer: numerical</em></strong></span></p>
 </li>
 <li>
-<p>grade <span style="color:grey"><strong><em>(categorical)</em></strong></span></p>
+<p>grade <span style="color:grey"><strong><em>Answer: categorical</em></strong></span></p>
 </li>
 <li>
-<p>gender <span style="color:grey"><strong><em>(categorical)</em></strong></span></p>
+<p>drive_text <span style="color:grey"><strong><em>Answer: categorical</em></strong></span></p>
 </li>
 </ol>
 </li>
@@ -3755,7 +3752,7 @@ RStudio labs throughout the course.</p>
 </li>
 <li>
 <p>Demonstrate how to load the menu of labs by typing the following code:</p>
-<p><strong>&gt;load_labs( )</strong></p>
+<p><strong><code>&gt;load_labs( )</code></strong></p>
 </li>
 <li>
 <p>The load labs command displays a list of available labs and a selection prompt. To select Lab 1A,

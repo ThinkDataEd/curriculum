@@ -3579,11 +3579,11 @@
 <h3 id="how-do-we-summarize-categorical-variables"><strong>How do we summarize categorical variables?</strong></h3>
 <ul>
 <li>
-<p>When we're dealing with categorical variables, we can't just calculate an <strong>average</strong> to describe a <em>typical</em> value.</p>
+<p>When we're dealing with categorical variables, we can't just calculate an <em>average</em> to describe a <em>typical</em> value.</p>
 <p>– (Honestly, what's the average of categories <em>orange</em>, <em>apple</em> and <em>banana</em>, for instance?)</p>
 </li>
 <li>
-<p>When trying to describe categorical variables with numbers, we calculate <strong>frequency tables</strong></p>
+<p>When trying to describe categorical variables with numbers, we calculate <em>frequency tables</em>.</p>
 </li>
 </ul>
 <h3 id="frequency-tables"><strong>Frequency tables?</strong></h3>
@@ -3604,11 +3604,11 @@
 </li>
 <li>
 <p>For example, what if we wanted to answer the question:</p>
-<p>– Does one <code>gender</code> seem to have a higher occurrence of physical challenges than the other?</p>
+<p>– Does one <code>sex</code> seem to have a higher occurrence of physical challenges than the other?</p>
 </li>
 <li>
 <p>We could use the following plot to try and answer this question:</p>
-<pre><code>bargraph(~phys_challenge | gender, data = atu_clean)
+<pre><code>bargraph(~phys_challenge | sex, data = atu_clean)
 </code></pre>
 </li>
 </ul>
@@ -3618,7 +3618,7 @@
 <p>The split <code>bargraph</code> helps us get an idea of the answer to the question, but we need to provide precise values.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use a line of code, that’s similar to how we facet plots, to obtain a <code>tally</code> of the number of people with physical challenges and their genders.</strong></span></p>
+<p><span style="color:midnightblue;"><strong>Use a line of code, that’s similar to how we facet plots, to obtain a <code>tally</code> of the number of people with physical challenges and their sex.</strong></span></p>
 <ul>
 <li><span style="color:firebrick;"><strong>Write down the resulting table.</strong></span></li>
 </ul>
@@ -3627,7 +3627,7 @@
 <h3 id="interpreting-2-way-frequency-tables"><strong>Interpreting 2-way frequency tables</strong></h3>
 <ul>
 <li>
-<p>Recall that there were 1153 more women than men in our data set.</p>
+<p>Recall that there were 1153 more women than men in our dataset.</p>
 <p>– If there are more women, then we might expect women to have more physical challenges (compared to men).</p>
 </li>
 <li>
@@ -3635,7 +3635,7 @@
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Include: <code>format = "percent"</code> as an option to the code you used to make your 2-way frequency table.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Does one <code>gender</code> seem to have a higher occurrence of physical challenges than the other? If so, which one and explain your reasoning?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>Does one <code>sex</code> seem to have a higher occurrence of physical challenges than the other? If so, which one and explain your reasoning?</strong></span></p>
 </li>
 <li>
 <p>It’s often helpful to display totals in our 2-way frequency tables.</p>
@@ -3644,18 +3644,18 @@
 </ul>
 <h3 id="conditional-relative-frequencies"><strong>Conditional Relative Frequencies</strong></h3>
 <ul>
-<li>There is as difference between <code>phys_challenge | gender</code> and <code>gender | phys_challenge</code>!<pre><code>tally(~phys_challenge | gender, data = atu_clean, margin = TRUE)
+<li>There is as difference between <code>phys_challenge | sex</code> and <code>sex | phys_challenge</code>!<pre><code>tally(~phys_challenge | sex, data = atu_clean, margin = TRUE)
 
-##                 gender
+##                 sex
 ## phys_challenge   Male Female
 ##   No difficulty  4140   5048
 ##   Has difficulty  530    775
 ##   Total          4670   5823
 
-tally(~gender | phys_challenge, data = atu_clean, margin = TRUE)
+tally(~sex | phys_challenge, data = atu_clean, margin = TRUE)
 
 ##         phys_challenge
-## gender   No difficulty Has difficulty
+## sex   No difficulty Has difficulty
 ##   Male            4140            530
 ##   Female          5048            775
 ##   Total           9188           1305
@@ -3673,7 +3673,7 @@ tally(~gender | phys_challenge, data = atu_clean, margin = TRUE)
 <li>
 <p>What does this mean?        </p>
 <p>– In the first two-way frequency table the groups being compared are <code>Male</code> and <code>Female</code> on the distribution of physical challenges.</p>
-<p>– In the second two-way frequency table the groups being compared are the people with <code>No difficulty</code> and those that <code>Has difficulty</code> on the distribution of gender.</p>
+<p>– In the second two-way frequency table the groups being compared are the people with <code>No difficulty</code> and those that <code>Has difficulty</code> on the distribution of sex.</p>
 </li>
 <li>
 <p><span style="color:firebrick;"><strong>Add the option <code>format = "percent"</code> to the first <code>tally</code> function. How were the percents calculated? Interpret what they mean.</strong></span></p>
@@ -3688,7 +3688,7 @@ tally(~gender | phys_challenge, data = atu_clean, margin = TRUE)
 <p><span style="color:firebrick;"><strong>How are the types of statistical investigative questions that 2-way frequency tables can answer different than 1-way frequency tables?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which <code>gender</code> has a higher rate of <em>part time employment</em>?</strong></span></p>
+<p><span style="color:firebrick;"><strong>Which <code>sex</code> has a higher rate of <em>part time employment</em>?</strong></span></p>
 </li>
 </ul>
 

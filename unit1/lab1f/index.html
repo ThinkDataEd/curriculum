@@ -3760,7 +3760,7 @@ View(atu_dirty)
 <p>The description of the actual variables:</p>
 <p>– <code>caseid</code>: Anonymous ID of survey taker.</p>
 <p>– <code>V1</code>: The age of the respondent.</p>
-<p>– <code>V2</code>: The gender of the respondent.</p>
+<p>– <code>V2</code>: The sex of the respondent.</p>
 <p>– <code>V3</code>: Whether the person is employed full-time or part-time.</p>
 <p>– <code>V4</code>: Whether the person has a physical difficulty.</p>
 <p>– <code>V5</code>: How long the person sleeps, in minutes.</p>
@@ -3774,7 +3774,7 @@ View(atu_dirty)
 <p>To fix the variable names, we need to <em>assign</em> a new set of names in place of the old ones.</p>
 <p>– Below is an example of the <code>rename</code> function:</p>
 <pre><code>atu_cleaner &lt;- rename(atu_dirty, age = V1,
-            gender = V2)
+            sex = V2)
 </code></pre>
 </li>
 <li>
@@ -3851,7 +3851,7 @@ View(atu_dirty)
 <ul>
 <li>
 <p>We mentioned earlier that we sometimes code categorical variables as numbers.</p>
-<p>– For example, our <code>gender</code> variable uses <code>"01"</code> and <code>"02"</code> for <code>"Male"</code> and <code>"Female"</code>, respectively.</p>
+<p>– For example, our <code>sex</code> variable uses <code>"01"</code> and <code>"02"</code> for <code>"Male"</code> and <code>"Female"</code>, respectively.</p>
 </li>
 <li>
 <p>It's often much easier to analyze and interpret when we use more descriptive categories, such as <code>"Male"</code> and <code>"Female"</code>.</p>
@@ -3867,8 +3867,8 @@ View(atu_dirty)
 <p>– The individual categories are called <em>levels</em>.</p>
 </li>
 <li>
-<p>To see the levels of <code>gender</code> and their counts <em>type</em>:</p>
-<pre><code>tally(~gender, data = atu_cleaner)
+<p>To see the levels of <code>sex</code> and their counts <em>type</em>:</p>
+<pre><code>tally(~sex, data = atu_cleaner)
 </code></pre>
 </li>
 <li>
@@ -3878,12 +3878,12 @@ View(atu_dirty)
 <h3 id="a-level-by-any-other-name"><strong>A level by any other name...</strong></h3>
 <ul>
 <li>
-<p>If we know that <code>'01'</code> means <code>'Male'</code> and <code>'02'</code> means <code>'Female'</code> then we can use the following code to recode the <em>levels</em> of <em>gender</em>.</p>
+<p>If we know that <code>'01'</code> means <code>'Male'</code> and <code>'02'</code> means <code>'Female'</code> then we can use the following code to recode the <em>levels</em> of <em>sex</em>.</p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Type the following command into your console:</strong></span></p>
-<pre><code>atu_cleaner &lt;- mutate(atu_cleaner, gender =
-        recode(gender,
+<pre><code>atu_cleaner &lt;- mutate(atu_cleaner, sex =
+        recode(sex,
             "01"="Male",
             "02" = "Female"))
 </code></pre>
@@ -3893,8 +3893,8 @@ View(atu_dirty)
 </li>
 </ul>
 <h3 id="allow-me-to-explain"><strong>Allow me to explain</strong></h3>
-<pre><code>atu_cleaner &lt;- mutate(atu_cleaner, gender =
-        recode(gender, "01"="Male",
+<pre><code>atu_cleaner &lt;- mutate(atu_cleaner, sex =
+        recode(sex, "01"="Male",
             "02" = "Female"))
 </code></pre>
 <ul>
@@ -3902,7 +3902,7 @@ View(atu_dirty)
 <p>This code is saying:</p>
 <p>– Replace my current version of <code>atu_cleaner</code>...</p>
 <p>– with a mutated one where ...</p>
-<p>– the <code>gender</code> variable's levels ...</p>
+<p>– the <code>sex</code> variable's levels ...</p>
 <p>– have been recoded..."</p>
 <p>– where <code>"01"</code> will now be <code>"Male"</code>...</p>
 <p>– and <code>"02"</code> will now be <code>"Female"</code>.</p>
