@@ -9,11 +9,11 @@ context of the data.
 
 2. Markers
 
-3. *Analyzing Categorical Variables* ([LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf))
+3. *Analyzing Categorical Variables* ([LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf))
 
-    **Advanced preparation required** (see step 19 below)
+    **Advance preparation required** Needs to be cut into sets (see step 23 in lesson)
 
-4. *Interpreting Categorical Variables* ([LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf))
+4. *Interpreting Categorical Variables* ([LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf))
 
 ###**Vocabulary:**
 [marginal frequency](../../vocabulary/unit1/#marginal (relative) frequency "the margins on the table that show the cells with the initial total counts"){ .md-button }
@@ -44,26 +44,25 @@ context of the data.
         
         200. Using TPS, ask students to think about what can they do to increase their data
         collection.
+        
+    100. Remind students that this is the last day to collect data.
 
-2. Remind students that this is the last day to collect data.
-
-3. Ask student teams to take out the 2 questions and the two-way table that they created in the
+2. Ask student teams to take out the 2 questions and the two-way table that they created in the
 previous day’s lesson.
 
-4. Before teams ask the class their questions, ask them to strategize about how they will collect and
+3. Before teams ask the class their questions, ask them to strategize about how they will collect and
 record their data, because they can only ask the 2 questions.
 
-5. Students in the class will respond to each question by raising their hands.
+4. Students in the class will respond to each question by raising their hands.
 
-6. In a *Whip Around*, have each team ask their 2 questions. Pause briefly between teams so that the
+5. In a *Whip Around*, have each team ask their 2 questions. Pause briefly between teams so that the
 asking team has time to collect and record their data.
 
-7. Students will use their frequency tables before the end of the lesson.
+6. Students will use their frequency tables before the end of the lesson.
 
-8. Recall that in the previous lesson, students learned to calculate relative frequencies. Now it’s time
-to look at other ways of understanding a two-way frequency table.
+7. Recall that in the previous lesson, students learned to calculate relative frequencies.
 
-9. Display the *Cat Ownership and Instruments* table:
+8. Display the *Cat Ownership and Instruments* table:
 
     **Cat Ownership and Instruments**
 
@@ -73,115 +72,110 @@ to look at other ways of understanding a two-way frequency table.
     | **No cats** | 10 | 9 | 19 |
     | **Total** | 17 | 18 | 35 |
 
-10. Suppose that we want to know the following information (display questions):
+9. Suppose that we want to know the following information (display questions):
 
-    100. How many students own a cat? <span style="color:grey">***16***</span>
+    100. How many students own a cat and play an instrument? <span style="color:grey">***Answer: 7***</span>
 
-    100. What is the proportion of students who own a cat? <span style="color:grey">***16/35 ≈ 0.46***</span>
+    100. What is the proportion of students who own a cat and play an instrument? <span style="color:grey">***Answer: 7/35 = 0.2***</span>
 
-    100. What is the proportion of students who do not play an instrument? <span style="color:grey">***18/35 ≈ 0.51***</span>
+    100. What is the proportion of students who do not own a cat and do not play an instrument? <span style="color:grey">***Answer: 9/35 ≈ 0.257***</span>
 
-11. In teams, discuss where on the table you would find this information and how you would calculate
-it. The specific answers are not important; but what is important is to know how to obtain the
-information. <span style="color:grey">***Possible answer: You would find the proportion of students who do not play
-an instrument by dividing the number in the “Total” row that is in the "Does not play
-instrument" column by the total number of students (35).***</span>
+10. In teams, discuss where on the table you would find this information and how you would calculate
+it. The questions should look familiar because they are the same type of questions asked in the previous lesson. The specific answers are not important; but what is important is to know how to obtain the
+information. <span style="color:grey">***Possible answer: You would find the answers in the cells that make
+up the body of the table.***</span>
 
-12. After a few minutes, ask a team to volunteer a response. Mark up the margins on the table to
-show that the cells with the initial total counts are called **marginal frequencies**. Note: 10 b and c
-are marginal relative frequencies.
+11. After a few minutes, ask a team to volunteer a response. Mark up the cells in the body of the table to show that the cells with the initial counts are called **joint frequencies**, like in 91. When you take the value of each cell over the total number of observations (the proportion), these are the ***joint relative frequencies***, like in 9b and c. <span style="color:grey">***See example:***</span>
 
-13. Now suppose that we want to know the following information (display questions):
+<img src="../../img/u1_l17_s11.png" />
 
-    100. How many students own a cat and play an instrument? <span style="color:grey">***7***</span>
+12. There are multiple types of relative frequencies. Let's look at other ways of understanding a two-way frequency table using another type of relative frequency.
 
-    100. What is the proportion of students that own a cat and play and instrument? <span style="color:grey">***7/35=0.2***</span>
+13. Suppose that we want to know the following information (display questions):
 
-    100. What is the proportion of students who do not own a cat and play an instrument? <span style="color:grey">***10/35 ≈
-    0.286***</span>
+    100. How many students own a cat? <span style="color:grey">***Answer: 16***</span>
+
+    100. What is the proportion of students who own a cat? <span style="color:grey">***Answer: 16/35 ≈ 0.46***</span>
+
+    100. What is the proportion of students who do not play an instrument? <span style="color:grey">***Answer: 18/35 ≈
+    0.51***</span>
 
 14. In teams, discuss where on the table you would find this information and how you would calculate
 it. The specific answers are not important; but what is important is to know how to obtain the
-information. <span style="color:grey">***Possible answer: You would find the answers in the cells that make up the
-body of the table. The value for each proportion is the frequency for each cell over the
-total number of observations.***</span>
+information. <span style="color:grey">***Possible answer: You would find the proportion of students who do not play an instrument by dividing the number in the "Total" row that is in the "Does not play instrument" column by the total number of students (35).***</span>
 
-15. After a few minutes, ask a team to volunteer a response. Mark up the cells in the body of the
-table to show that the cells with the initial counts are called **joint frequencies**. Note: 13 b and c
-are joint relative frequencies.
+15. After a few minutes, ask a team to volunteer a response. Mark up the margins on the table to show that the cells with the initial total counts are called **marginal frequencies**, like in 13a. When you take the total of each row (or column) over the total number of observations, these are the ***marginal relative frequencies***, like in 13b and c. <span style="color:grey">***See example:***</span>
 
-16. Finally, suppose that we wanted to answer the question: Do a greater proportion of students in
-Rosa’s art class who do not own cats prefer to play an instrument than those who do own cats?
+<img src="../../img/u1_l17_s15.png" />
+
+16. Suppose that we wanted to answer the question: Of the students who play an instrument, what proportion own a cat?
 
 17. In teams, discuss where on the table you would find this information and how you would calculate
 it. The specific answers are not important; but what is important is to know how to obtain the
-information.
+information. <span style="color:grey">***Possible answer: You would first find the "Total" number of students who play an instrument (17). Then, to find the proportion of those students who own a cat, you would look at how many students own a cat within that column (7) and divide it by the "Total" who "Plays an instrument" (7/17).***</span>
 
 18. After a few minutes, ask a team to volunteer a response. Encourage students to agree or
-disagree with the explanations provided. Lead students to see that the total for the “No cats” row
-is important because we are only concerned with that subset of the group. Mark up “No cats” row
-on the table to show that we have conditioned, or are bound, by this variable. Compare the
-values that show the **conditional relative frequency** for the row. More non-cat owners slightly
-prefer to play an instrument (display table below).
+disagree with the explanations provided. Lead students to see that the total for the “Plays an isntrument” column is important because we are only concerned with that subset of the group. Mark up the "Plays an instrument" column on the table to show that we have conditioned, or are bound, by this variable. This is a ***conditional relative frequency*** by *column*.
 
-    **Cat Ownership and Instruments**
+<img src="../../img/u1_l17_s18.png" />
 
-    **Conditional Relative Frequencies by Row**
-    
-    |  | **Plays an instrument** | **Does not play instrument** | **Total** |
-    | ------------ | ------------- | ------------ | ------------ |
-    | **Owns a cat** | 7/16 ≈ 0.44 | 9/16 ≈ 0.56 | 16/16 ≈ 1.00 |
-    | **No cats** | 10/19 ≈ 0.53 | 9/19 ≈ 0.47 | 19/19 ≈ 1.00 |
-    | **Total** | 17/35 ≈ 0.49 | 18/35 ≈ 0.51 | 35/35 = 1.00 |
+19. Finally, suppose that we wanted to answer the question: Do a greater proportion of students in Rosa's art class who do not play an instrument own a cat than those who do play an instrument?
 
-    **<u>Note:</u>** This is a conditional relative frequency by row. We can also calculate conditional relative
-    frequencies by column if we were interested in knowing the difference in cat preference for those
-    who play instruments versus those who don’t.
+20. In teams, discuss where on the table you would find this information and how you would calculate it. The specific answers are not important; but what is important is to know how to obtain the information. <span style="color:grey">***Possible answer: You would need to find an additional proportion. You would first find the "Total" number of students who do not play an instrument (18). Then, to find the proportion of those students who own a cat, you would look at how many students own a cat within that column (9) and divide it by the "Total" who "Does not play an instrument" (9/18).***</span>
 
-19. Distribute one full set of cards from the *Analyzing Categorical Variables* file ([LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)) to each
+21. After a few minutes, ask a team to volunteer a response. Encourage students to agree or disagree with the explanations provided. Lead students to see that the total for the "Does not play instrument" column is important because we are now also concerned with that subset of the group. Mark up the "Does not play instrument" column on the table to show that we have conditioned, or are bound, by this variable. Compare the values that show the ***conditional relative frequency*** for each *column*, "Does not play instrument" and "Plays an instrument". A higher proportion of students who do not play an instrument own a cat than students who do play an instrument.
+
+<img src="../../img/u1_l17_s21.png" />
+
+**Note:** These are conditional relative frequency by column. We can also calculate conditional relative frequencies by row if we were interested in knowing the difference in playing an instrument for those who own cats versus those who do not.
+
+22. Was Rosa right? <span style="color:grey">***Answer: Looking back at our scenario introduced in the last lesson, "Rosa has a theory that musicians are more likely to own a cat," our analysis in steps 19-21 above does not provide evidence to support her theory. We found that a higher proportion of students who do not play an instrument own a cat than students who do play an instrument.***</span>
+
+23. Distribute one full set of cards from the *Analyzing Categorical Variables* file ([LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)) to each
 student team.
 
-    **<u>Advanced preparation required:</u>**
+    **<u>Advance preparation required:</u>**
 
-    Print the *Analyzing Categorical Variables* file ([LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)). The handouts can then be cut into a
+    Print the *Analyzing Categorical Variables* file ([LMR_U1_l17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)). The handouts can then be cut into a
     total of 20 cards (12 visuals, 8 numerical summaries). You will need enough sets of the cards for
     each student team to share one full set. For example, if there are 5 student teams in a class, then
     5 copies of the file will need to be printed so that each team gets all 20 cards.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.18_Analyzing Categorical Variables.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)</div>
 
-20. Distribute [LMR_1.19_*Interpreting Categorical Variables*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf) to each student team.
+24. Distribute the *Interpreting Categorical Variables* [LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf) to each student team.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf)</div>
 
-21. Each student team will work together and decide which visualization(s) and numerical summaries
-can be used to answer each statistical question. They will then answer each statistical question,
+25. Each student team will work together and decide which visualization(s) and numerical summaries
+can be used to answer each statistical investigative question. They will then answer each statistical investigative question,
 citing a numerical summary as evidence.
 
-    **<u>Note:</u>** Student teams may tape or glue visuals and numerical summaries onto [LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf), or they
+    **<u>Note:</u>** Student teams may tape or glue visuals and numerical summaries onto [LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf), or they
     can simply write the plot letter and table number in the appropriate box. The blank column is for
-    student teams to write a statistical question than can be answered with a visual and a numerical
+    student teams to write a statistical investigative question than can be answered with a visual and a numerical
     summary that was not used.
 
-22. After student teams have been allotted ample time to complete [LMR_1.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.19_Interpreting Categorical Variables.pdf), lead a class
+26. After student teams have been allotted ample time to complete [LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf), lead a class
 discussion to go over the answers. It is extremely important to have students justify their answers
-by referring to their visuals and tables. For example, the statistical question “How many students
-neither own a cat or play an instrument?” can be answered with Plot E, Plot G, Plot K, Plot I, and
-with Tables 1 and 7.
+by referring to their visuals and tables. For example, the statistical investigative question “How many students
+neither own a cat or play an instrument?” can be answered with Plot E, Plot G, Plot I, Plot K, and with Tables 1 and 7.
 
-23. Ask students to refer back to the two-way frequency tables they created earlier. Have each team
-create one poster that shows their two-way frequency table. Then, ask each team to ask 4
+27. Ask students to refer back to the two-way frequency tables they created earlier. Have each team
+create one poster that shows their two-way frequency table. Then, ask each team to ask 5
 questions about the data in their table that must be answered by a:
 
     100. marginal frequency
 
     100. marginal relative frequency
 
+    100. joint frequency
+
     100. joint relative frequency
 
     100. conditional relative frequency (either by row or column)
 
-24. If time permits, pair teams up and ask them to present their findings to each other.
+28. If time permits, pair teams up and ask them to present their findings to each other.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics
@@ -191,14 +185,14 @@ of the day were.
 Using the data below, generate 2 questions: one must be answered with a marginal relative
 frequency and the other must be answered by a conditional relative frequency.
 
-Gender and the Color Red
+Work Preference and the Color Red
 
 Which emotion do you most relate with the color red?
 
 | |Love | Anger | Fear |Total |
 | ------------ | ------------- | ------------ | ------------ | ------------ |
-| Male| 7 | 11 | 5 | 23 |
-| Female| 12 | 15 | 10 | 37 |
+| Morning shift| 7 | 11 | 5 | 23 |
+| Evening shift| 12 | 15 | 10 | 37 |
 | Total| 19 | 26 | 15 | 60 |
 
 [<u>***Lab 1G: What’s the FREQ?***</u>](lab1g.md)

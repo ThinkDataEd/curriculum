@@ -4,10 +4,11 @@
 Students will learn the features of a good statistical investigative question.
 
 ###**Materials:**
-1. Sticky notes
+1. Post-its
+2. *Statistical Investigative Questions Scenarios* handout ([LMR_U1_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L5.pdf))
 
 ###**Vocabulary:**
-[(statistical) investigative questions](../../vocabulary/unit1/#statistical investigative questions "questions that address variability and can be answered with data"){ .md-button }
+[statistical investigative questions (summary, comparison, association)](../../vocabulary/unit1/#statistical-investigative-questions "questions that address variability and can be answered with data"){ .md-button }
 
 ###**Essential Concepts:**
 
@@ -33,7 +34,7 @@ ticket that displays the 4 components of the Data Cycle.
 
 2. Inform students that they will learn about what makes a good investigative question. Ask them to recall the definition of an investigative question: 
 
-    Investigative questions are questions that address variability and can be answered with data. They are questions we ask of the data. A good way to determine this is to ask: *Do we need to see the data to answer the question?*
+    Statistical investigative questions are questions that address variability and can be answered with data. They are questions we ask of the data. A good way to determine this is to ask: *Do we need to see the data to answer the question?*
 
 3. Remind students of the two questions from the previous lesson, noting that one of the questions was an investigative question, and the other was not:
 
@@ -45,7 +46,7 @@ ticket that displays the 4 components of the Data Cycle.
 come to an agreement about which one is an investigative question.
 
 5. Using Agree/Disagree (see [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)), ask a pair of students
-for their results. Discuss why the first question **IS NOT** an investigative question (<span style="color:grey">***there is only one
+for their results. Discuss why the first question **IS NOT** a statistical investigative question (<span style="color:grey">***there is only one
 possible value so there is no variability in the data***</span>) and why the second question **IS** an investigative question (<span style="color:grey">***not all students are the
 same age. The ages vary, so there is variability in the data***</span>).
 
@@ -69,11 +70,11 @@ same age. The ages vary, so there is variability in the data***</span>).
 
     <b>Note:</b> This sorting activity will help students begin to distinguish between different types of investigative questions. 
     
-    Summary investigative questions are questions about a single variable.
+    **Summary investigative questions** are questions about a single variable.
     
-    Comparison investigative questions compare a numerical variable across groups. 
+    **Comparison investigative questions** compare a numerical variable across groups. 
     
-    Association investigative questions look for a relationship between paired numerical or paired categorical variables.
+    **Association investigative questions** look for a relationship between paired numerical or paired categorical variables.
 
 11. As a class, begin the process of transforming some of the summary investigative questions so that they have all of the features of a good investigative question. Here is an example to get you started: 
 
@@ -112,6 +113,9 @@ same age. The ages vary, so there is variability in the data***</span>).
 13. Using the criteria of a good statistical investigative question, student teams will go back and modify their statistical investigative questions. Facilitators will ensure the team goes through the criteria for each investigative question. Task Managers will encourage everyone to contribute. Resource Managers will ensure all materials are easily accessible for recording and reporting. Recorders in each team will capture team members’ responses while the teacher circulates the room to check for understanding.
 
 14. Ask the Reporters of selected teams to share their revised statistical investigative question(s). Students in the audience will listen to the presentations and provide feedback about each team’s statistical investigative question(s). Be sure to discuss disagreements before moving on to different questions.
+
+Additional practice: Students can practice identifying types of investigative questions and rewriting them to be good statistical investigative questions using the *Statistical Investigative Questions Scenarios* handout ([LMR_U1_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L5.pdf)). This can be done in groups during class or individually for homework.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L5.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L5.pdf)</div>
 
 15. Inform students that, in the next lesson, they will begin using the Data Cycle to learn about their food habits. To prepare for this, students should begin collecting the “Nutrition Facts” labels from foods/snacks they typically eat.
 

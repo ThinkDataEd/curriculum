@@ -6,7 +6,7 @@ and outcomes are recorded. They will learn how to collect this type of data and 
 about the results.
 
 ###**Materials:**
-1. *Stick Figures Cutouts* ([LMR_1.2_Stick Figures](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)) from [Unit 1](../unit1/overview.md), [Lesson 2](../unit1/lesson2.md)
+1. *Stick Figures Cutouts* ([LMR_U1_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)) from [Unit 1](../unit1/overview.md), [Lesson 2](../unit1/lesson2.md)
 
     **<u>Note:</u> Advanced preparation required** (see step 1 below).
 
@@ -23,16 +23,16 @@ about the results.
 
 ###**Lesson:**
 1. From [Unit 1](../unit1/overview.md), [Lesson 2](../unit1/lesson2.md), redistribute one full set of 8 cards from the *Stick Figures* handout
-([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)) to each student team.
+([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)) to each student team.
 
-    **<u>Advanced preparation required:</u>** Print the *Stick Figures* handout ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)). The handout can
+    **<u>Advanced preparation required:</u>** Print the *Stick Figures* handout ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)). The handout can
     then be cut into the 8 cards. You will need enough sets of the cards for each student team to
     share a full set. For example, if there are 5 student teams in a class, then 5 copies of the file will
     need to be printed so that each team gets all 8 cards.
 
 2. Have students recall that they used these cards in [Unit 1](../unit1/overview.md), [Lesson 2](../unit1/lesson2.md). When they used them in
 [Lesson 2](../unit1/lesson2.md), the data was collected, recorded, and organized, but without particular structure to it.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)</div>
 
 3. Then, distribute one copy per student of the *Turning Observations into Data* handout ([LMR_3.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.2_Observations to Data.pdf)).
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.2_Observations to Data.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.2_Observations to Data.pdf)</div>

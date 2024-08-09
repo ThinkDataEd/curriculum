@@ -12,10 +12,11 @@ Students will understand what are data, how they are collected, and possible eff
     src="https://www.youtube.com/embed/XvSA-6BJkx4" allowfullscreen>
     </iframe><br><a href="https://www.youtube.com/embed/XvSA-6BJkx4">https://www.youtube.com/embed/XvSA-6BJkx4</a></div>
 
-2. Data Science (DS) journal (quad-ruled composition book or similar); MUST be available for every
+2. Data Science (DS) journal (quad-ruled composition book or similar)
+<br> **Note:** MUST be available for every
 lesson
 
-3. *Data Diary* handout ([LMR_1.1_Data Diary](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf))
+3. *Data Diary* handout ([LMR_U1_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf))
 
 4. Video: *Terms and Conditions* found at:<br>
     [https://www.youtube.com/watch?v=ZcjtEKNP05c](https://www.youtube.com/watch?v=ZcjtEKNP05c "https://www.youtube.com/watch?v=ZcjtEKNP05c"){:target="_blank"}
@@ -57,17 +58,17 @@ lesson
 Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)):
 
     100. How do you think Target knew about the daughter? In other words, how did Target know
-    the daughter was pregnant before her father did? <span style="color:grey">***Target used the information
+    the daughter was pregnant before her father did? <span style="color:grey">***Answer: Target used the information
     gathered from the daughter’s Red Card and compared it to information about other
     shoppers. Typically, women who bought those particular products were pregnant.***</span>
 
 3. :material-chat-outline:{title="Discussion"} After students have had time to share their responses, engage in a whole class discussion
 regarding:
 
-    100. What are **data**? <span style="color:grey">***Data are information, or ***</span> ***observations***<span style="color:grey">***, that have been gathered and 
+    100. What are **data**? <span style="color:grey">***Answer: Data are information, or ***</span> ***observations***<span style="color:grey">***, that have been gathered and 
     recorded.***</span>
 
-    100. Where do data come from? <span style="color:grey">***Data can come from a variety of places. Some examples
+    100. Where do data come from? <span style="color:grey">***Answer: Data can come from a variety of places. Some examples
     might include: cell phones, computers, school records, surveys, etc.***</span>
 
     100. Give an example of data. <span style="color:grey">***Answers will vary. One example might be information
@@ -82,10 +83,10 @@ collected about us as individuals that could be used to see the patterns in our 
 Inform the students that they will learn about their own data trails by keeping a data diary and
 logging entries over the next 24 hours. It is likely that students do not realize how often they leave a data trail or what information is being collected about them on a regular basis.
 
-5. Distribute the *Data Diary* handout ([LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf)) and be sure to go over the instructions, along with
+5. Distribute the *Data Diary* handout ([LMR_U1_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf)) and be sure to go over the instructions, along with
 the first example to give the students an idea of how to proceed.  
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.1_Data Diary.pdf)</div>  
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf)</div>  
 
 
 6. :material-checkbox-outline:{title="Assessments"} Inform the students that you will collect the handouts during the next class in order to assess their

@@ -16,7 +16,7 @@ the distributions give us information about the variability of the data.
 
 3. Nutrition facts labels or pictures (collected previously by students)
 
-4. *Food Habits Data Collection* handout (from [lesson 6](lesson6.md), [LMR_1.8_Food Habits Data Collection](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.8_Food Habits Data Collection.pdf))
+4. *Food Habits Data Collection* handout (from [lesson 6](lesson6.md), [LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf))
 
 5. 3 pieces of tape per student
 
@@ -24,7 +24,7 @@ the distributions give us information about the variability of the data.
 
 7. Dot stickers or sticky notes
 
-8. *Tangible Plot* handout ([LMR_1.9_Tangible Plot](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf))
+8. *Tangible Plot* handout ([LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf))
 
 ###**Vocabulary:**
 [x-axis](../../vocabulary/unit1/#x-axis "horizontal axis of a coordinate plane"){ .md-button }
@@ -35,8 +35,6 @@ the distributions give us information about the variability of the data.
 [frequency](../../vocabulary/unit1/#frequency "the number of times an outcome occurs"){ .md-button }
 [distribution](../../vocabulary/unit1/#distribution "a function or a listing which shows all the possible values"){ .md-button }
 [range](../../vocabulary/unit1/#range "the largest value minus the smallest value"){ .md-button }
-[typical](../../vocabulary/unit1/#typical ""mean" or "average"; expected values"){ .md-button }
-[symmetric](../../vocabulary/unit1/#symmetric "a type of distribution where the left side of the distribution mirrors the right side"){ .md-button }
 [data points](../../vocabulary/unit1/#data points "a single fact or piece of information"){ .md-button }
 [dotplot](../../vocabulary/unit1/#dotplot "a graphical display of data using dots"){ .md-button }
 
@@ -78,22 +76,22 @@ the distributions give us information about the variability of the data.
 which describes the importance of graphical representations of data. As they watch the video,
 students should respond to the following in their DS journals:
 
-    100. What is data visualization?
+    100. What is data visualization? <span style="color:grey">***Answer: Data visualization is the graphical representation of data or information***</span>
 
-    100. List one example of how visualization can be used to increase data comprehension.
+    100. List one example of how visualization can be used to increase data comprehension. <span style="color:grey">***Answers will vary. Some examples are graphs, maps, charts, and infographics.***</span>
 
 4. Have a whole class discussion regarding the video’s last statement: “Your message is only as
 good as your ability to share it.” Ask students:
 
-    100. What does this statement mean?
+    100. What does this statement mean? <span style="color:grey">***Answers will vary.***</span>
 
-    100. What makes a good message in terms of data and visualizations?
+    100. What makes a good message in terms of data and visualizations? <span style="color:grey">***Answers will vary.***</span>
 
 5. Have students take out their nutrition facts labels or pictures, and also their *Food Habits Data
 Collection* handout (from [lesson 6](lesson6.md)).
 
 6. On poster paper, make the first quadrant of a coordinate plane. Leave the labels for the **x-axis**
-and **y-axis** blank for now (see step 10).
+and **y-axis** blank for now (see step 10 below).
 
 7. Distribute 3 pieces of tape to each student. Make sure they fold each piece of tape to make two
 sticky sides. Have each student tape one sticky side to the back of each label and ask them to
@@ -120,10 +118,10 @@ category. Make sure to leave spaces between the bars, and that bars are the same
 
 12. Ask students to respond to the following questions in their DS journals:
 
-    100. How many **data points** does this distribution have? Why?
+    100. How many **data points** does this distribution have? Why? <span style="color:grey">***Answers will vary by class.***</span>
 
     100. What information is this visualization telling us about <u>[insert categorical variable
-    name]</u> in the snacks we consume?
+    name]</u> in the snacks we consume? <span style="color:grey">***Answers will vary by class.***</span>
 
 13. Use another piece of poster paper to create a distribution for the first numerical variable chosen
 by the students.
@@ -161,7 +159,7 @@ dotplot. Ask students to respond to the following questions in their DS journals
     100. What is the amount of <u>[insert variable name]</u> that appears most often in a snack? Why?
     <span style="color:grey">***Answers will vary by class.***</span>
 
-    100. What do you think the phrase *distribution* of the *data set* means? <span style="color:grey">***It shows us how
+    100. What do you think the phrase *distribution* of the *data set* means? <span style="color:grey">***Answer: It shows us how
     values are distributed. We learn where there are many values, where there are only
     a few values, and where there are no values at all.***</span>
 
@@ -172,7 +170,7 @@ dotplot. Ask students to respond to the following questions in their DS journals
 
     100. A distribution tells us two things: the values of the variable and the frequency of the
     values. "Frequency" is just another way of saying "the count." Why is this dotplot a
-    picture of the distribution of [variable name]? <span style="color:grey">***Because the location of the labels on the
+    picture of the distribution of [variable name]? <span style="color:grey">***Answer: Because the location of the labels on the
     x-axis tells us the values we saw, and the number of labels at that value tells us the
     frequency for that value.***</span>
 
@@ -192,10 +190,10 @@ horizontal axis. Do this for each nutrition facts label in the plot. Once all va
 represented, ask the students how this new plot IS or IS NOT better than the original. Explain that
 we can call this type of plot a **dotplot** since we’re using dots to represent each observation.
 
-21. Distribute the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf)). Each student should pick one of the 2 numerical
+21. Distribute the *Tangible Plot* handout ([LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)). Each student should pick one of the 2 numerical
 variables plotted on the poster paper. Then, they should complete part 1 of the *Tangible Plot*
 handout before leaving class. They will complete part 2 of the handout for homework.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)</div>
 
 22. Ask students to think about the statistical investigative questions they came up with. Can the visualizations
 they created in class help answer their statistical investigative question? If yes, answer the question; if not,
@@ -206,7 +204,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students will complete part 2 of the *Tangible Plot* handout ([LMR_1.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.9_Tangible Plot.pdf)) and bring it to the next class for
+Students will complete part 2 of the *Tangible Plot* handout ([LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)) and bring it to the next class for
 assessment.
 
 Students should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing

@@ -12,15 +12,15 @@ Although we might take its existence for granted today, the Nutrition Facts labe
 
 ###**2. Objectives:**
 Upon completing this campaign, students will have the enduring understanding that interpreting
-graphs provides useful information about the real world as viewed through the data represented in the graphs. We can explore the relationship between two variables, and if there is a relationship, it is driven by the change in the independent variable, x, which causes a change in the dependent variable, y.
+graphs provides useful information about the real world as viewed through the data represented in the graphs. We can explore the relationship between two variables, and if there is a relationship, it is driven by the change in the independent variable, *x*, which causes a change in the dependent variable, *y*.
 
 ###**3. Survey Questions:** (students will enter data about the snacks they consume):
 
 **Consider Data:** Before students submit a survey for their first snack, a class consensus of the meaning of the variables must be reached so that proper analysis and interpretations can be made. Two examples are listed below:
 
-`when` - If students have different definitions of "<i>evening</i>", it might make it hard to compare snacking patterns across students. As a class, come to a consensus about what time intervals are considered <i>morning</i>, <i>afternoon</i>, <i>evening</i> and <i>night</i>. 
+```when``` - If students have different definitions of "<i>evening</i>", it might make it hard to compare snacking patterns across students. As a class, come to a consensus about what time intervals are considered <i>morning</i>, <i>afternoon</i>, <i>evening</i> and <i>night</i>. 
 
-`cost` - If a student has a bowl of cereal as a snack, are they going to include the cost of the entire box or are they going to calculate the unit cost for one serving? This needs to be a class decision.
+```cost``` - If a student has a bowl of cereal as a snack, are they going to include the cost of the entire box or are they going to calculate the unit cost for one serving? This needs to be a class decision.
 
 
 |**Prompt**|**Variable**|**Data Type**|

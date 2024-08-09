@@ -21,7 +21,7 @@ a dataset.
 [environment](../../vocabulary/unit1/#environment "a pane within RStudio; where values and objects can be viewed"){ .md-button }
 
 ###**RStudio Commands:**
-data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )
+```data( )```, ```View( )```, ```names( )```, ```help( )```, ```dim( )```, ```tally( )```, ```load_labs( )```
 
 ###**Essential Concepts:**
 
@@ -35,8 +35,7 @@ data( ), View( ), names( ), help( ), dim( ), tally( ), load_labs( )
 
     c) You are familiar with managing your RStudio/Posit Teacher Space. See video **[here](https://www.youtube.com/watch_popup?v=1bXLsKwY7bY "https://www.youtube.com/watch_popup?v=1bXLsKwY7bY"){:target="_blank"}**.
 
-!!! warning "In preparation for this lesson, watch this video:"  
-    [RStudio Basics](https://www.youtube.com/embed/WkxCfaol3pE)
+    d) In preparation for this lesson watch **[this video](https://www.youtube.com/embed/WkxCfaol3pE "https://www.youtube.com/embed/WkxCfaol3pE"){:target="_blank"}**.
 
 ###**Lesson:**
 1. Inform students that the Dashboard and PlotApp are data visualization tools that are coded in R,
@@ -66,9 +65,9 @@ Prevention (CDC), a government agency that collects data about teenagers on a va
 6. Demonstrate how to load and view the CDC data file to the workspace by typing the following
 command in the console:
 
-    **>data(cdc)**
+    **```>data(cdc)```**
 
-    **>View(cdc)**
+    **```>View(cdc)```**
 
 7. Examine the environment pane. Ask a student to describe how the data are displayed. <span style="color:grey">***The data
 are displayed in rows and columns.***</span>
@@ -76,53 +75,53 @@ are displayed in rows and columns.***</span>
 8. Demonstrate how to list the variables found in the CDC dataset. Students may take notes and
 write down commands in their DS journals:
 
-    100. **>names(cdc)**
+    100. **```>names(cdc)```**
 
     100. Ask: What do you notice? What is one variable of this dataset? How many variables are
-    there? How does this output compare to the information in the preview pane?  <span style="color:grey">***This
-    command lists the names of each variable in the dataset.***</span>
+    there? How does this output compare to the information in the preview pane?  <span style="color:grey">***Answer: This
+    command lists the names of each variable in the dataset. There are 32 variables; age, sex, grade, height, weight, etc. Answers will vary about how this output compares to the information in the preview pane.***</span>
 
 9. Demonstrate how to obtain more detailed information about the dataset by typing the following
 command in the console
 
-    100. **>help(cdc)**
+    100. **```>help(cdc)```**
 
-    100. Ask: What unit of measurement is height reported in? <span style="color:grey">***Height was reported in meters.***</span>
+    100. Ask: What unit of measurement is height reported in? <span style="color:grey">***Answer: Height was reported in meters.***</span>
 
 10. Demonstrate how to find the number of rows and columns in the dataset.
 
-    100. **>dim(cdc)**
+    100. **```>dim(cdc)```**
 
     100. Ask: Which number do you think represents the rows? Which one represents the
     columns? How does this output compare to the information in the preview and
     environment panes? How many observations are there in the dataset? How many
-    variables does this dataset contain? <span style="color:grey">***There are 13,677 rows, or 13,677 observations;
-    and there are 30 columns, or 30 variables. This information is also visible in the
+    variables does this dataset contain? <span style="color:grey">***Answer: The first number represents the rows and the second number represents the columns. There are 17,232 rows, or 17,232 observations;
+    and there are 32 columns, or 32 variables. This information is also visible in the
     preview pane.***</span>
 
 11. Next, show students how to access the number of observations of a specific variable.
 
-    100. **>tally(~seat_belt, data = cdc)**
+    100. **```>tally(~seat_belt, data = cdc)```**
 
-    100. Ask: What do you notice? Describe the output. <span style="color:grey">***Notice that six categories are
+    100. Ask: What do you notice? Describe the output. <span style="color:grey">***Answer: Notice that six categories are
     displayed. Each category shows the number of observations contained in it. E.g,.
-    “Never” has 294 observations, meaning 294 teens reported never wearing their
+    “Never” has 265 observations, meaning 265 teens reported never wearing their
     seat belt as a passenger in a motor vehicle. &lt;NA> = Not Available, represents teens
     that did not provide information about their seat belt habits.***</span>
 
 12. Change the variable to height.
 
-    100. **>tally(~height, data = cdc)**
+    100. **```>tally(~height, data = cdc)```**
 
-    100. Ask: What do you notice? Describe the output. <span style="color:grey">***The levels are missing. It happened
-    because the variable height contains numbers, not categories.***</span>
+    100. Ask: What do you notice? Describe the output. <span style="color:grey">***Answer: The levels are missing. It happened
+    because the variable 'height' contains numbers, not categories.***</span>
 
 13. Let’s take a closer look at the variables seat_belt and height. Maximize the console. Ask teams to
 discuss the following question:
 
-    What is the difference between the data from the variables seat_belt and height? <span style="color:grey">***The
-    data from the*** *seat_belt* ***variable is categorical, which means it consists of
-    groupings. The data from the variable*** *height* ***is numerical, which means it consists
+    What is the difference between the data from the variables seat_belt and height? <span style="color:grey">***Answer: The
+    data from the 'seat_belt' variable is categorical, which means it consists of
+    groupings. The data from the variable 'height' is numerical, which means it consists
     of numbers.***</span>
 
 14. Summarize: In data science, the variable seat_belt is what we call a **categorical variable**, and
@@ -131,20 +130,20 @@ the variable height is what we call a **numerical variable**.
 15. Let’s look at the other variables in this dataset. In pairs, categorize each variable as categorical
 or numerical:
 
-    100. eat_fruit <span style="color:grey">***(categorical)***</span>
+    100. eat_fruit <span style="color:grey">***Answer: categorical***</span>
 
-    100. weight <span style="color:grey">***(numerical)***</span>
+    100. weight <span style="color:grey">***Answer: numerical***</span>
 
-    100. grade <span style="color:grey">***(categorical)***</span>
+    100. grade <span style="color:grey">***Answer: categorical***</span>
 
-    100. gender <span style="color:grey">***(categorical)***</span>
+    100. drive_text <span style="color:grey">***Answer: categorical***</span>
 
 16. Inform students that they will be learning RStudio code to work with data. They will be completing
 RStudio labs throughout the course.
 
 17. Demonstrate how to load the menu of labs by typing the following code:
 
-    **>load_labs( )**
+    **```>load_labs( )```**
 
 18. The load labs command displays a list of available labs and a selection prompt. To select Lab 1A,
 type number 1 after the selection prompt.

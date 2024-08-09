@@ -48,21 +48,18 @@ Students will continue to understand that data on its own is just collected; but
 to discoveries or understandings.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it is used and how to work with it.
+1. Students will describe orally and in writing the center, shape, and spread of distributions.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will discuss the appropriateness of dotplots, bargraphs, histograms, and scatterplots for various data analyses and the pros and cons of each.
 
-3. Students will use complex sentences to write informative short reports that use data science
-concepts and skills.
+3. Students will compare and contrast their hand-drawn data visualizations to computer-generated RStudio/Posit Cloud data visualizations.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 *<u>Data Files:</u>*
 
 1. Students’ *Food Habits Campaign* Data
 
-2. CDC Data File
+2. Centers for Disease Control and Prevention (CDC): ```data(cdc)```
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

@@ -1,19 +1,27 @@
 ##**<u>Lesson 15: Americans' Time on Task</u>**
 
 ###**Objective:**
-Introduction to Time Use Campaign. Students will explore a multimedia graphic that incorporates data from the American Time Use Survey to spark their interest about how they spend their time. They will begin to learn how to evaluate reports that make claims based on data by reading The Washington Post article Teens Are Spending More Time Consuming Social Media, On Mobile Devices.
+Introduction to Time Use Campaign. Students will explore a multimedia graphic that incorporates data from the American Time Use Survey to spark their interest about how they spend their time. They will begin to learn how to evaluate reports that make claims based on data by reading the Pew Research Center's article Teens and social media: Key findings from Pew Research Center surveys.
+
 ###**Materials:**
 1. Computers
 
 2. Data Collection Devices
 
-3. Interactive multimedia graphic titled *How Men and Women Spend Their Days* found at: [https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/"){:target="_blank"}
+3. Interactive multimedia graphic: *The New York Time's How Different Groups Spend Their Time* found at: [https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+metrics-graphic.html](https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+metrics-graphic.html "https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+metrics-graphic.html"){:target="_blank"}
 
-4. Article: *The Washington Post’s Teens Are Spending More Time Consuming Social Media, on
-Mobile Devices* found at: 
-([LMR_Teens_Consuming_Media](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_Teens_Consuming_Media.pdf))
+4. Article: *Pew Research Center's Teens and social media: Key findings from Pew Research Center surveys* found at: 
+[https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-
+key-findings-from-pew-research-center-surveys/](https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-
+key-findings-from-pew-research-center-surveys/ "https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-
+key-findings-from-pew-research-center-surveys/")
 
 5. K-L-W Graphic Organizer ([LMR_TR_K-L-W Chart](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_K-L-W Chart.pdf))
+
+6. *Time Use Campaign* guidelines ([LMR_U1_Campaign_Time_Use](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Time_Use.pdf))
 
 ###**Vocabulary:**
 [evaluate](../../vocabulary/unit1/#evaluate "to think critically"){ .md-button }
@@ -35,19 +43,21 @@ Guidelines*.
 3. Next, inform students that *The Bureau of Labor Statistics* (BLS) collects data about Americans’
 daily time use and that they will be exploring time use through an interactive graphic.
 
-4. Ask students to go to the multimedia graphic at the following URL:[https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/"){:target="_blank"}
+4. Ask students to go to the multimedia graphic at the following URL:[https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+metrics-graphic.html](https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+metrics-graphic.html "https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+metrics-graphic.html"){:target="_blank"}
     
 5. Students will spend 10 minutes exploring the interactive graphic. Their task is to answer the
 following questions (display questions to students):
 
-    100. What variables are represented in this graphic? <span style="color:grey">***The variables represented are
-    activities that Americans spend their time doing. These include sleeping, working,
-    traveling, etc. Gender, employment status and weekday/weekend are also variables that are represented.***</span>
+    100. What variables are represented in this graphic? <span style="color:grey">***Answer: The variables represented are
+    activities that Americans spend their time doing. These include sleeping, eating, traveling socializing, etc.***</span>
 
-    100. Explain what the graphic is telling you. <span style="color:grey">***The graphic shows the proportion of people living in the United States, broken down by employment status and gender, who are engaged in different activities (Denoted by the colors) at different times of the day.***</span>
+    100. Explain what the graphic is telling you. <span style="color:grey">***Answer: The graphic shows how much time Americans over the age of 15 are spending doing these activities. This information is broken down by different categories of Americans (e.g., sex, ethnicity) and the percentage of Americans doing particular activity at a particular time (e.g., 5% of Americans are working at 6:00 am). The average time spent on a particular activity is also shown (e.g., average time spent at work for all Americans is 3 hours and 25 minutes).***</span>
 
-    100. Where did the data come from? <span style="color:grey">***The data come from thousands of Americans over
-    the age of 15 who took a survey recalling every minute of a day in 2020.***</span>
+    100. Where did the data come from? <span style="color:grey">***Answer: The data come from thousands of Americans over
+    the age of 15 who took a survey recalling every minute of a day in 2008.***</span>
 
     100. What are some interesting findings? Be prepared to share. <span style="color:grey">***Answers will vary.***</span>
 
@@ -63,7 +73,7 @@ about the topic in the Know column.
     the graphic organizer.
 
 8. Next, ask students to read the article individually:<br>
-    [LMR_Teens_Consuming_Media](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_Teens_Consuming_Media.pdf)
+    [https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/](https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/ "https://www.pewresearch.org/short-reads/2023/04/24/teens-and-social-media-key-findings-from-pew-research-center-surveys/")
 
 9. As they read, students may complete the Learn column of the [KLW graphic organizer](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_K-L-W Chart.pdf).
 
@@ -74,43 +84,31 @@ about the topic in the Know column.
 
 12. Ask students to work in teams to evaluate the article based on the questions below:
 
-    100. Who was observed and what were the variables observed? <span style="color:grey">***A group of 8 to 18-year-olds
-    were observed, and the variables observed had to do with consuming media -
-    watching TV, listening to music, surfing the Web, playing video games, and time
-    spent on mobile devices.***</span>
+    100. Who was observed and what were the variables observed? <span style="color:grey">***Answer: 1,316 U.S. teens (13 to 17-year-olds), and one parent from each household, were surveyed. The variables had to do with experiences with social media – time spent on YouTube, TikTok, Snapchat, Instagram, Facebook, and the effects it had on them.***</span>
 
-    100. What statistical questions were they trying to answer? <span style="color:grey">***Possible statistical question:
-    How much time per day does today’s typical 8 to 18-year-old spend consuming
-    media?***</span>
+    100. What statistical investigative questions were they trying to answer? <span style="color:grey">***Possible statistical investigative question: How much time per day does today’s typical 13 to 17-year-old spend on TikTok?***</span>
 
-    100. Who collected the data? <span style="color:grey">***There were 3 sources cited. The Kaiser Family Foundation
-    collected data in a 2010 study, the Pew Internet and American Life Project
-    collected data in a 2011 study, and the Bureau of Labor Statistics collected data in
-    2011 with the American Time Use Survey.***</span>
+    100. Who collected the data? <span style="color:grey">***Answer: The Pew Research Center conducted the study but the survey was conducted online by Ipsos.***</span>
 
-    100. How was the data collected? <span style="color:grey">***Two were studies whose data collection method is not
-    stated, and one was a survey.***</span>
+    100. How was the data collected? <span style="color:grey">***Answer: Online by Ipsos via a survey from April 14 to May 4, 2022.***</span>
 
-    100. What claim(s) did the article make? <span style="color:grey">***Main claim: “Today’s teens spend more than 7.5
-    hours a day consuming media.”***</span>
+    100. What claim(s) did the article make? <span style="color:grey">***Answer: There were 11 claims made in the article. The first claim: "Majorities of teens report ever using YouTube, TikTok, Instagram, and Snapchat."***</span>
 
-    100. What are some statistics that the article used to make the claim(s)? <span style="color:grey">***Examples include:
-    Teens use their cellphones to send an average of 60 texts a day. On average, high
-    school students spent less than one hour per weekday on sports, exercise, and
-    recreation.***</span>
+    100. What are some statistics that the article used to make the claim(s)? <span style="color:grey">***Examples include: Two-thirds of teens report using TikTok, followed by roughly six-in-ten who say they use Instagram (62%) and Snapchat (59%). Six-in-ten teens say they think they have little (40%) or no control (20%) over the personal information that social media companies collect about them. Some 22% of teens think their parents are extremely or very worried about them using social media.***</span>
     
 13. Select a whole group share-out/discussion strategy from the [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) [Teacher
 Resource](../download/resources.md) to discuss the answers to the evaluation questions.
 
-14. Inform students that they will engage in the Time-Use Participatory Sensing campaign and will
-begin to collect data about their own time use. Follow the *Time-Use Guidelines*.
+14. Inform students that they will engage in the Time-Use Participatory Sensing campaign ([LMR_U1_Campaign_Time_Use](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Time_Use.pdf)) and will
+begin to collect data about their own time use.
 
     **<u>Reminder:</u>** Once logged into the app or the browser-based version, students may go to
     **Campaigns** to see the campaigns in which they are participating. They can then add the
     campaign by tapping the name of the campaign. If no campaigns are visible, ask them to click the
     refresh option.
 
-15. Emphasize that this data should be logged in a journal three times per day. Students should set reminders.
+15. Emphasize  that this data will be tracked throughout the day via a log of some sort – it might be helpful to split the log into three intervals where students pause and think about what they did before school, after school and in the evening. Once the log is complete/accounts for all 1,440 minutes of their day, students should then submit the survey corresponding to that day. They will
+keep a log for at least 5 days (of which 2 days include a weekend) but no more than 10 days.
 
 
 ###**Class Scribes:**

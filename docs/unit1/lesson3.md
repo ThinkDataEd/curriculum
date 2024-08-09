@@ -63,8 +63,8 @@ from “Height.”
 **categorical variables** and **numerical variables**. Typically, categorical variables represent
 values that have words, while numerical variables represent values that have numbers.
 
-    **Note:** Categorical variables can sometimes be coded as numbers (e.g., “Gender” could have
-    values 0 and 1, where 0=Male and 1=Female).
+    **Note:** Categorical variables can sometimes be coded as numbers (e.g., “Shoe” could have
+    values 0 and 1, where 0 = Sneakers and 1 = Sandals).
 
 5. As a class, determine which variables from the *Stick Figures* data are numerical, and which
 variables are categorical. The students should create two lists in their DS journals similar to the
@@ -93,10 +93,10 @@ is that columns go from top to bottom, and rows go from left to right.
 
 9. :material-chat-outline:{title="Discussion"} Ask students:
 
-    100. What should each row represent? <span style="color:grey">***Each row should represent one observation, or
+    100. What should each row represent? <span style="color:grey">***Answer: Each row should represent one observation, or
     one stick figure person in this case.***</span>
 
-    100. What should each column represent? <span style="color:grey">***Each column should represent one variable. As
+    100. What should each column represent? <span style="color:grey">***Answer: Each column should represent one variable. As
     you go down a column, all the values represent the same characteristic (e.g.,
     Height).***</span>
 
@@ -115,7 +115,7 @@ of the table should represent one person on a card.
     vary. One example could be that Dakota, Kamryn, Emerson, and London all wear
     sneakers. Another example could be that Charlie and Jessie are both 61 inches tall.***</span>
  
-    100. Do any of the people in the data have different values for a given variable? <span style="color:grey">***Absolutely.
+    100. Do any of the people in the data have different values for a given variable? <span style="color:grey">***Answer: Absolutely.
     There are many instances of this in the data table.***</span>
 
 13. Discuss the term **variability**. As in question (b) above, the values for each variable vary

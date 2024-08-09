@@ -4,9 +4,9 @@
 Students will learn how to observe, record, and organize data.
 
 ###**Materials:**
-1. *Stick Figures* cutouts ([LMR_1.2_Stick Figures](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf))
+1. *Stick Figures* cutouts ([LMR_U1_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf))
 
-    **Advanced preparation required** (see step 3 below)
+    **Advance preparation required** Needs to be cut into cards (see step 3 in lesson)
 
 2. Poster paper
 
@@ -44,18 +44,18 @@ of people who appear to be completely two-dimensional. Their goal is to **record
 information as possible about these people, and to then **organize** the information in any way they
 choose.
 
-3. Distribute one full set of 8 cards from the *Stick Figures* file ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)) to each student team.
+3. Distribute one full set of 8 cards from the *Stick Figures* file ([LMR_U1_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)) to each student team.
 
-    **<u>Advanced preparation required:</u>**
+    **<u>Advance preparation required:</u>**
 
-    Print the *Stick Figures* file ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)). The handout can then be cut into the 8 cards. You will
+    Print the *Stick Figures* file ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)). The handout can then be cut into the 8 cards. You will
     need enough sets of the cards for each student team to share one full set. For example, if there
     are 5 student teams in a class, then 5 copies of the file will need to be printed so that each team
     gets all 8 cards.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.2_Stick Figures.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)</div>
 
 
-4. Every student from the team will select one of the cards from the team’s pile of 8, and should
+4. Every student from the team will select one of the cards from the team’s pile of 8 and should
 record all possible information in their DS journal. Once each student has completed this, the
 team should come together to share individual findings.
 
@@ -77,8 +77,8 @@ note and add it to the poster to provide feedback for the original team.
     100. Describe some differences among the team posters. How were the data organized
     differently across teams? <span style="color:grey">***Answers will vary by class.***</span>
  
-    100. What information was available about the stick figures on each card? <span style="color:grey">***The person’s
-    name, height, GPA, shoe style, sport, and number of friends on social media.***</span>
+    100. What information was available about the stick figures on each card? <span style="color:grey">***Answer: The person’s
+    name, height, GPA, shoe style, sport, and number of friends on social media.***</span> <br> **Note:** The names of the stick figures were purposely chosen as gender-neutral, as we never want to make assumptions about our data unless it's explicitly stated.
 
     100. Which representations made it easy to see what (or who) the objects were that were
     observed? Which representations made it easy to see whether different stick figures had
@@ -88,7 +88,7 @@ note and add it to the poster to provide feedback for the original team.
     vary by class.***</span>
 
     100. If you were handed a blank stick figure and knew only the person's name, could you fill in
-    the rest of the information? <span style="color:grey">***No. You would not know a person’s height, GPA, shoe
+    the rest of the information? <span style="color:grey">***Answer: No. You would not know a person’s height, GPA, shoe
     preference, etc. just by knowing their name.***</span>
 
 8. Explain to the students that the general categories of information, such as a person’s height, are

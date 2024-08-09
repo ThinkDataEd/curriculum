@@ -66,9 +66,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:midnightblue;">**Find the pane that has a *tab* titled *Environment* and click on the *tab*.**</span>
 
-    – This pane contains a list of everything that's currently available for R to use.
+    – This pane contains a list of everything that's currently available for ```R``` to use.
 
-    – Notice that R knows we have our ```cdc``` data loaded.
+    – Notice that ```R``` knows we have our ```cdc``` data loaded.
 
 * <span style="color:firebrick;">**How many students are in our ```cdc``` data set?**</span>
 
@@ -123,7 +123,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     - The variable(s) containing the information we want the function to use.
 
-    - The data set containing the variables.
+    - The dataset containing the variables.
 
 * Notice that when we analyze a single variable the value for *y* is left blank.
 
@@ -151,7 +151,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:firebrick;">**Do you think it’s unusual for students in the data to be taller than 1.8 meters? Why or why not?**</span>
 
-    - Hint: Use the arrow keys on the *Plots* tab to toggle between the plots.
+* Hint: Use the arrow keys on the *Plots* tab to toggle between the plots.
 
 ###**On your own:**
 

@@ -18,13 +18,13 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * Categorical Variables have values that describe or categorize our observations.
 
-* <span style="color:midnightblue;">**```View``` your ```cdc``` data and find the columns for ```height``` and ```gender``` (use the *History* pane again if you need help to ```View``` your data).**</span>
+* <span style="color:midnightblue;">**```View``` your ```cdc``` data and find the columns for ```height``` and ```sex``` (use the *History* pane again if you need help to ```View``` your data).**</span>
 
     – <span style="color:firebrick;">**Is ```height``` a numerical or categorical variable? Why?**</span>
 
-    – <span style="color:firebrick;">**Is ```gender``` a numerical or categorical variable? Why?**</span>
+    – <span style="color:firebrick;">**Is ```sex``` a numerical or categorical variable? Why?**</span>
 
-    – <span style="color:firebrick;">**List either the different categories or what you think the measured units are for ```height``` and ```gender```.**</span>
+    – <span style="color:firebrick;">**List either the different categories or what you think the measured units are for ```height``` and ```sex```.**</span>
 
 ###**Which is which?**
 * <span style="color:midnightblue;">**Run the code you used in the previous lab to display the ```names``` of your ```cdc``` data's variables (Use the code displayed in the *History* pane to resubmit previously typed commands).</span> <span style="color:firebrick;">Use the code's output to help you complete the following:**</span>
@@ -85,7 +85,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – <span style="color:firebrick;">**Approximately what percent of the people texted while driving for 20 or more days?**</span> (Hint: There's 13,677 students in our data.)
 
-###**Does texting and driving differ by gender?**
+###**Does texting and driving differ by sex?**
 * <span style="color:midnightblue;">**Fill in the blanks with the correct variables to create a side-by-side bargraph:**</span>
 
         bargraph (~ ____ , data = ____ , groups = ____ )
@@ -121,7 +121,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:firebrick;">**Do you think males and females have similar heights? Use the plot you create to justify your answer.**</span>
 
-* <span style="color:midnightblue;">**Just like we did for the ```histogram```, is it possible to create a *split* ```bargraph```? Try to create a ```bargraph``` of ```drive_text``` that's split by ```gender``` to find out.**</span>
+* <span style="color:midnightblue;">**Just like we did for the ```histogram```, is it possible to create a *split* ```bargraph```? Try to create a ```bargraph``` of ```drive_text``` that's split by ```sex``` to find out.**</span>
 
 ###**On your own:**
 * In this lab, we looked at the texting & driving habits of boys and girls.

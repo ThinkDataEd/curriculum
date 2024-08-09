@@ -4,7 +4,7 @@ Instructional Days: 7
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
 Data play an important role in our everyday lives. Organizing it can provide evidence about real-life
 events and people. The data collected by answering survey questions produce variability. Distributions,
-graphs, and plots are useful tools for organizing data to understand variability. Statistical questions
+graphs, and plots are useful tools for organizing data to understand variability. Statistical investigative questions
 address people, processes, and/or events that contain variability. Situations with variability can
 sometimes be simplified with some basic statistics.
 
@@ -26,7 +26,7 @@ has transformed the way data are collected, used, and analyzed. Video can be fou
 
 S-ID: Summarize, represent, and interpret data on a single count or measurement variable.
 
-S-ID 1: Represent data with plots on the real number line (dotplots, histograms, bar plots, and boxplots.
+S-ID 1: Represent data with plots on the real number line (dotplots, histograms, bar plots, and boxplots).
 
 S-ID 2: Use statistics appropriate to the shape of the data distribution to compare center (median, mean)
 of two or more different data sets. (Measures of spread will be studied in unit 2.)
@@ -74,15 +74,14 @@ once interpreted, it can lead to discoveries or understandings.
 1. Students will use complex sentences to construct summary statements about their understanding
 of data, how it is collected, how it is used, and how to work with it.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students use mathematical vocabulary to describe data and how it is organized in various forms.
 
 3. Students will use complex sentences to write informative short reports that use data science
 concepts and skills.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 
-*<u>Data Collection Method:</u>*
+*<u>Data Collection:</u>*
 
   1. Students will keep a Data Diary for 24 hours to track their daily data output.
 

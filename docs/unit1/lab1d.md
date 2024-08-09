@@ -11,7 +11,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – We'll also learn a few ways to manipulate the plots we've been making to make them easier to use for analyses.
 
-* Import the data from your class' *Food Habits* campaign and name it ```food```.
+* Import the data from your class's *Food Habits* campaign and name it ```food```.
 
 ###**Another plotting function**
 * A ```dotPlot``` is another plot that can be used to analyze a numerical variable.
@@ -24,7 +24,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – The code to create a ```dotPlot``` is exactly like you’d use to make a ```histogram```.
 
-    – Make sure to use a capital P in ```dotPlot```.
+    – Make sure to use a capital *P* in ```dotPlot```.
 
 ###**More options**
 * While a ```dotPlot``` should conserve the exact value of each data point, sometimes it behaves like a ```histogram``` in that it lumps values together.
@@ -61,7 +61,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
         layout = c(1,2)
 
-* *Hint:* Use a similar syntax used with the ```nint``` option to add the ```layout``` option to the ```dotPlot``` function.
+* Hint: Use a similar syntax used with the ```nint``` option to add the ```layout``` option to the ```dotPlot``` function.
 
 ###**Subsetting**
 * Subsetting is a term we use to describe the process of looking at only the data that conforms to some set of rules:
@@ -81,19 +81,19 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
         food_salty <- filter(____ , ____ == "Salty")
 
-* <span style="color:midnightblue;">**View ```food_salty``` and write down the number of observations in it.**</span>
+* <span style="color:firebrick;">**```View``` ```food_salty``` and write down the number of observations in it.**</span>
 
 ###**So what's really going on?**
 
 * Coding in R is really just about supplying directions in a way that ```R``` understands.
 
-    – We'll start by focusing on everything to the right of the "&lt;-" symbol
+    – We'll start by focusing on everything to the right of the ```<-``` symbol
 
         food_salty <- filter(____ , ____ == "Salty")
 
 * ```filter()``` tells ```R``` that we're going to look at only the values in our data that follow a *rule*.
 
-* The first blank should be the data we're going to filter down into a smaller set (Based on our rule).
+* The first blank should be the data we're going to filter down into a smaller set (based on our rule).
 
 * ```salty_sweet == "Salty"``` is the rule to follow.
 
@@ -126,9 +126,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – When we *save* something in ```R``` what we are really doing is giving a value, or set of values, a specific name for us to use later.
 
-* The arrow &lt;- is called the "assignment" operator. It assigns names (on the left) to values (on the right)
+* The arrow ```<-``` is called the "assignment" operator. It assigns names (on the left) to values (on the right)
 
-    – We now focus on everything to the left of, and including, the "<-" symbol
+    – We now focus on everything to the left of, and including, the ```<-``` symbol
 
         food_salty <- filter(____ , ____ == "Salty")
 
@@ -137,9 +137,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * This code then:
 
-    – takes our subset data, (everything to the right of "&lt;-") ...
+    – takes our subset data, (everything to the right of ```<-```) ...
 
-    – and assigns the subset data, by using the arrow "&lt;-" ...
+    – and assigns the subset data, by using the arrow ```<-```> ...
 
     – the name ```food_salty```.
 

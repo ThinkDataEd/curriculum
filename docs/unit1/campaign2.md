@@ -23,12 +23,7 @@ States.
 
 **Note:** Students cannot double dip their time. For example, if they read during class, then those minutes spent reading do not count towards “read” but instead toward “school”. Below are the definitions of some of the variables in the ATUS documentation.
 
-`socialize` - This category includes face-to-face social communication and hosting or attending social functions.
-
-`consumer purchases` - This includes time spent purchasing or renting consumer goods (regardless of whether it was in person, online, via telephone, at home, or in store).
-
-**Note:** The ATUS variable `leisure` combines many activities in which people might participate (such as watching television, reading, relaxing or thinking, playing computer, board, or card games, using a computer or the Internet for personal interest, playing or listening to music, and attending arts, cultural, and entertainment events). We have opted to list specific leisure activities that high school students might be more likely to engage in and made them separate variables.
-
+Students will respond to the following questions:
 
 | **Prompt**                                                          |**Variable**| **Data Type**                   |
 |---------------------------------------------------------------------|------------|---------------------------------|
@@ -58,12 +53,15 @@ States.
 
 **When should you take the survey?** It is recommended that students keep a log of their time and submit one survey at the end of each day, accounting for every minute of each day of the campaign. It might be helpful to split the log into three intervals where students pause and think about what they did before school, after school and in the evening. Once the log is complete and accounts for all 1,440 minutes of their day, students should then submit the survey corresponding to that day.
 
-**How long should the campaign last?** At least five days (maximum of ten days). Ideally, two of these days would include a weekend.
+**How long?** At least five days (maximum of ten days). Ideally, two of these days would include a weekend.
 
 ###**4. Motivation:**
-Use the interactive graphic titled *How Men and Women Spend Their Time* found at: [https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/"){:target="_blank"}
+Use the [https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+metrics-graphic.html](https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+metrics-graphic.html "https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+metrics-graphic.html"){:target="_blank"} Interactive Time Use graphic to explore how Americans spend their time.
 
-After the first day, monitor the data collection and ensure that each student has submitted a survey for Day 1. Continue monitoring for the remainder of the campaign.
+After the first day, monitor the data collection and ensure that each student has submitted a survey for Day 1.
 
 Discuss data collection issues. What makes it hard? Does this affect the quality of data?
 
@@ -84,5 +82,5 @@ Frequency tables: One and two-way tables.
 3) Are there groups of students who spend their time similarly to one another?
 
 ###**7. Report:**
-Students will complete a practicum in which they answer a statistical investigative question based on the time-use data collected.
+Students will complete a practicum in which they answer a statistical investigative question based on the Time Use data collected.
 

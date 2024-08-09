@@ -13,7 +13,7 @@ tables.
 !!! note "Essential Concepts: "
     A two-way table is a summary of the association/relationship between two
     categorical variables. Joint relative frequencies answer questions of the form "what proportion of the
-    people/objects had *this* value on the first variable and *this* value on the second."
+    people/objects had *this* value on the first variable and *this* value on the second?".
 
 ###**Lesson:**
 1. Launch the lesson by displaying the following scenario:
@@ -35,7 +35,7 @@ table. What could those two questions be?
 
     <span style="color:grey">***Question 2—Do you own a cat?***</span>
 
-3. What variables did Rosa collect? What were the values of those variables?
+3. What variables did Rosa collect? What were the values of those variables? <span style="color:grey">***Answer: Variable 1: Owns Cat - yes/no. Variable 2: Plays Instrument - yes/no.***</span>
 
 4. In pairs, write out on paper what the original data must have looked like.
 
@@ -123,8 +123,8 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Rosa posed this statistical question:
+Rosa posed this statistical investigative question:
 
-***What proportion of students did not play an instrument and did not own a cat?***
+***What proportion of students did not play an instrument and did not own a cat?*** <span style="color:grey">***Answer: 0.29***</span>
 
 Use what you know about two-way tables to answer her question.

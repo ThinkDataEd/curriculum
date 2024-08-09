@@ -76,7 +76,7 @@ The teacher will function as the computer. Your job is to give him/her rules so 
 carry out and successfully make a PB&J sandwich.
 
 6. Every algorithm needs input and produces output. The output here will be a PB&J sandwich.
-What is the input? <span style="color:grey">***Steps, or actions to follow.***</span>
+What is the input? <span style="color:grey">***Answer: Steps, or actions to follow.***</span>
 
 7. Tell students that when they are done you will select someone to share their instructions and you
 will make a sandwich following the instructions.
@@ -128,7 +128,7 @@ for the data from the dotplot for “hours of sleep they hope to get on Saturday
 algorithm is a set of rules that can always be applied. Similar to the way they wrote a process for
 making a PB&J sandwich, students will write a process for creating a histogram. Tell students to
 continue thinking of the process to transform the data in the dotplot to create a histogram. The
-algorithm will produce an **output**, which will be a histogram. What's the **input**? <span style="color:grey">***Data, or maybe
+algorithm will produce an **output**, which will be a histogram. What's the **input**? <span style="color:grey">***Answer: Data, or maybe
 the dotplot.***</span>
 
 17. Inform the students that you will provide a piece of input: how wide the bin will be. For instance, it
@@ -148,9 +148,9 @@ size, ask them how to do that. Points to consider:
     Always at the greatest? A little to the left?
 
     100. What do we do with points that fall exactly on a boundary? Do they go to the bin on the
-    left or on the right? Does it matter? <span style="color:grey">***No.***</span>
+    left or on the right? Does it matter? <span style="color:grey">***Answer: No, it doesn't matter as long as they're consistent (all in the left or all in the right).***</span>
 
-    100. Can we do it differently every time? <span style="color:grey">***No. We need to be consistent. This is called
+    100. Can we do it differently every time? <span style="color:grey">***Answer: No. We need to be consistent. This is called
     either the left-hand rule or the right-hand rule, depending on which is chosen.***</span>
 
 20. After following 2 or 3 algorithms, ask students if they feel their algorithm is precise enough. Allow
@@ -159,10 +159,10 @@ students time to revise their algorithms.
 21. Have a class discussion about the similarities and differences between the original dotplot and a
 histogram. Ask:
 
-    100. What have we gained from the histogram? <span style="color:grey">***We now can see the shape of the
+    100. What have we gained from the histogram? <span style="color:grey">***Answer: We now can see the shape of the
     distribution as a whole.***</span>
 
-    100. What have we lost? <span style="color:grey">***We lost each individual observation by grouping them into bins.***</span>
+    100. What have we lost? <span style="color:grey">***Answer: We lost each individual observation by grouping them into bins.***</span>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics

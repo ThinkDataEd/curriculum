@@ -6,7 +6,7 @@ Data are useful for evaluating claims and reports. Summaries of categorical and 
 important features and patterns in the data. Data summaries provide evidence to make claims.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-The Bureau of Labor Statistics (BLS) collects data about daily time-use of Americans. Students will explore an interactive graphic titled *How Men and Women Spend Their Days* created by Nathan Yau, that uses data from the American Time Use Survey, to spark their curiosity about how they spend their own time. This graphic can be found at: [https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/](https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/ "https://flowingdata.com/2021/09/21/how-men-and-women-spend-their-days/"){:target="_blank"}
+The Bureau of Labor Statistics (BLS) collects data about daily time-use of Americans. Students will explore an interactive graphic titled *How Men and Women Spend Their Days* created by Nathan Yau, that uses data from the American Time Use Survey, to spark their curiosity about how they spend their own time. This graphic can be found at: [http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0](http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0 "http://www.nytimes.com/interactive/2009/07/31/business/20080801-metrics-graphic.html?_r=0"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 
@@ -41,28 +41,24 @@ Make claims that are based on data and begin to evaluate reports that make claim
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it is used, and how to work with it.
+1. Students will describe assocations between categorical variables.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will connect their time use activities with that of Americans.
 
-3. Students will use complex sentences to write informative short reports that use data science
-concepts and skills.
-
-4. Students will read informative texts to evaluate claims based on data.
+3. Students will read informative texts to evaluate claims based on data.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-*<u>Data Collection Method:</u>*
-
-**Time-Use Participatory Campaign:** Students will monitor the amount of time they devote to activities
-such as sleeping, studying, eating, and partaking in media.
 
 *<u>Data Files:</u>*
 
 1. Students’ *Time-Use* campaign data
 
-2. American Time-Use Survey (ATUS) data
+2. American Time-Use Survey (ATUS): ```data(cdc)```
+
+*<u>Data Collection Method:</u>*
+
+**Time-Use Participatory Campaign:** Students will monitor the amount of time they devote to activities
+such as sleeping, studying, eating, and partaking in media.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

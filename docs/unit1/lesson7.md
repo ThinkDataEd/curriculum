@@ -13,9 +13,9 @@ also about privacy issues and photo ethics when collecting and sharing data.
 3. Login information (username and password) for each student—**generated and ready for
 distribution prior to the lesson**
 
-4. *Food Habits Campaign* guidelines ([LMR_U1_Campaign_Food Habits](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Food Habits.pdf))
+4. *Food Habits Campaign* guidelines ([LMR_U1_Campaign_Food_Habits](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Food_Habits.pdf))
 
-5. Optional: You can show [this video](https://www.youtube.com/embed/hksbF5QWY2E) to show students how to take a survey using the browser or [this video](https://www.youtube.com/embed/GbR22R32mhU) for the app..
+5. Optional: You can show [this video](https://www.youtube.com/embed/hksbF5QWY2E) to show students how to take a survey using the browser or [this video](https://www.youtube.com/embed/GbR22R32mhU) for the app.
 
 ###**Vocabulary:**
 [Participatory Sensing](../../vocabulary/unit1/#participatory sensing "an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to explore interesting aspects of their worlds ranging from health to culture"){ .md-button }
@@ -84,10 +84,10 @@ they are providing data to external researchers, such as UCLA.
 collection experience, in which they will collect their own data using a smart device. Depending
 on the device, there are 3 different options available:
 
-    100. **Android.** A native Android application called “[IDS UCLA](https://play.google.com/store/apps/details?id=org.idsucla.app.survey){:target="_blank"}” is available from the Google
+    100. **Android.** A native Android application called “[IDS UCLA (authorized)](https://play.google.com/store/apps/details?id=org.idsucla.app.survey){:target="_blank"}” is available from the Google
     Play Store.
 
-    100. **iOS (Apple devices)** The mobile application called “[IDS UCLA](https://apps.apple.com/us/app/ids-ucla-authorized/id6469903361){:target="_blank"}” is available from the iOS
+    100. **iOS (Apple devices)** The mobile application called “[IDS UCLA (authorized)](https://apps.apple.com/us/app/ids-ucla-authorized/id6469903361){:target="_blank"}” is available from the iOS
     App Store.
 
     100. **No mobile device - browser-based version.** For students that do not have a mobile
@@ -130,10 +130,8 @@ the data collection period (days 7 though 15).
 17. Inform students that you will be monitoring their data collection to make sure that everyone is
 submitting surveys regularly.
 
-18. Go over the previous day’s homework. Ask the facilitator from each table group conduct a round
-robin during which each team member shares one simple statistical question and one complex
-statistical question. The Recorder/Reporter will select and share out one of the team’s simple
-statistical questions and one complex statistical question with the class.
+18. Go over the previous day’s homework. Ask the Facilitator from each table group to conduct a round
+robin during which each team member shares their statistical investigative questions. The Recorder/Reporter will select and share the team's statistical investigative questions (one of each type; summary, comparison, association) with the class.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics

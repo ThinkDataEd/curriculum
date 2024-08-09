@@ -16,7 +16,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 ###**First steps first.**
 
-* <span style="color:midnightblue;">***Export, Upload, Import*  the data from your class’ *Time Use* campaign.**</span>
+* <span style="color:midnightblue;">***Export, Upload, Import*  the data from your class’s *Time Use* campaign.**</span>
 
 * The data, as-is, is very messy and hard to interpret/analyze.
 
@@ -26,7 +26,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * This function formats/cleans the data so that each row represents a typical day for each student in the class
 
-* <span style="color:midnightblue;">**Hint: Search your *History* tab for the code to save your formatted ```timeuse``` data as an ```R``` data file (.Rda)**</span>
+* <span style="color:midnightblue;">**Hint: Search your *History* tab for the code to save your formatted ```timeuse``` data as an ```R``` data file (```.Rda```)**</span>
 
 ###**timeuse_format specifics**
 
@@ -52,7 +52,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – To do this, we'll perform a statistical investigation.
 
-* <span style="color:firebrick;">**State and answer two statistical questions based on our *research question*.**</span>
+* <span style="color:firebrick;">**State and answer two statistical investigative questions based on our *research question*.**</span>
 
     – <span style="color:firebrick;">**Also, state one way in which your personal data is *typical* and one way that it *differs* from the rest of the class.**</span>
 

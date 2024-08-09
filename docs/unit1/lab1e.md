@@ -26,7 +26,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * Variable 1: *height*
 
-* Variable 2: *gender*
+* Variable 2: *sex*
 
 * Multiple variable plots are tools for finding *relationships* between data.
 

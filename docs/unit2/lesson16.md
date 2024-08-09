@@ -31,7 +31,7 @@ Students will learn what a Normal distribution is and learn how to identify a No
 groups based on their shapes.
 
 2. The *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)) contains some of the unimodal **bell-shaped** distributions from
-the original handout of that lesson (*Sorting* Histograms handout ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.10_Sorting Histograms.pdf))).
+the original handout of that lesson (*Sorting* Histograms handout ([LMR_1.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L11.pdf))).
     
     **<u>Note:</u>** You do not need the original handout from [Unit 1](../unit1/overview.md) – all relevant plots have been compiled in
     the *Normal Plots* file ([LMR_2.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)) for accessibility. Six plots are included: SAT Math, SAT Verb,

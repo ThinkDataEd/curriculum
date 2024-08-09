@@ -12,10 +12,6 @@ determining any point clusters.
 
 3. Markers, dot stickers, or sticky notes
 
-4. [Student Monitoring Tool Video](https://www.youtube.com/embed/Xg9Fl9arETw)
-
-5. Optional: [Real-time Data Collection App Video](https://www.youtube.com/embed/N-CkhD33IxE)
-
 ###**Vocabulary:**
 [typical](../../vocabulary/unit1/#typical ""mean" or "average"; expected values"){ .md-button }
 [center](../../vocabulary/unit1/#center "useful for numerical variables, the center of the distribution often corresponds with the notion of 'typical value'"){ .md-button }
@@ -107,7 +103,7 @@ back to the synonyms for "typical" they provided earlier. Ask: Which synonym are
     numerical or categorical variables? <span style="color:grey">**Center is useful for numerical variables. The
     center of the distribution often corresponds to our notion of ‘typical value.’ For
     example, the typical height of the students in our class might be centered around
-    5’5.**</span>
+    5’5".**</span>
 
 9. Inform students that the value at the center of the distribution often matches up with our everyday
 notion of the typical value of a distribution. The middle observation is not always the typical value.

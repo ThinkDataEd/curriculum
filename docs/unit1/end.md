@@ -1,12 +1,12 @@
-##**<u>End of Unit Project and Oral Presentation: Analyzing Data to Evaluate Claims</u>**
+##**<u>End of Unit Project and Presentation: Analyzing Data to Evaluate Claims</u>**
 
 ###**Objective:**
 Students will apply their learning of the first unit in the curriculum by completing an End of Unit Project.
 
 ###**Materials:**
-1. *IDS Unit 1—End of Unit Project* ([LMR_U1_End of Unit Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_End of Unit Project.pdf))
+1. *IDS Unit 1—End of Unit Project* ([LMR_U1_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_End_of_Unit_Project.pdf))
 
-<center>**End of Unit 1 Project and Oral Presentation: Analyzing Data to Evaluate Claims**</center>
+<center>**End of Unit 1 Project and Presentation: Analyzing Data to Evaluate Claims**</center>
 
 Congratulations! You are on your way to becoming a Data Scientist. You have now learned some basic
 statistics concepts - along with RStudio skills - to help you analyze and interpret data. It is time to apply
@@ -18,26 +18,26 @@ You will apply what you have learned by engaging in the following:
 magazine, newspaper, or other media related to the topic of nutrition or time use that makes a
 claim. Use an article we have not used in class.
 
-    a. *How Americans Eat Today:*<br>
-    [http://www.cbsnews.com/news/how-americans-eat-today/](http://www.cbsnews.com/news/how-americans-eat-today/ "http://www.cbsnews.com/news/how-americans-eat-today/"){:target="_blank"}    
+    a. *Child Nutrition in America Today: A New Look at a Crisis of Our Own Making*<br>
+    [https://link.gale.com/apps/doc/A724157086/GPS?u=lnoca_brecksv&sid=bookmark-GPS&xid=f72e0a60](https://link.gale.com/apps/doc/A724157086/GPS?u=lnoca_brecksv&sid=bookmark-GPS&xid=f72e0a60 "https://link.gale.com/apps/doc/A724157086/GPS?u=lnoca_brecksv&sid=bookmark-GPS&xid=f72e0a60"){:target="_blank"}    
 
-    b. *Why do we still eat this way?:*<br> 
-    [https://www.washingtonpost.com/news/to-your-health/wp/2014/08/04/why-do-we-still-eat-this-way](https://www.washingtonpost.com/news/to-your-health/wp/2014/08/04/why-do-we-still-eat-this-way "https://www.washingtonpost.com/news/to-your-health/wp/2014/08/04/why-do-we-still-eat-this-way"){:target="_blank"}
+    b. *Americans Are Eating More Ultra-Processed Foods*<br> 
+    [https://www.nyu.edu/about/news-publications/news/2021/october/ultra-processed-foods.html](https://www.nyu.edu/about/news-publications/news/2021/october/ultra-processed-foods.html "https://www.nyu.edu/about/news-publications/news/2021/october/ultra-processed-foods.html"){:target="_blank"}
 
-    c. *Americans Snack Differently Than Other Nations:*<br>
-    [http://www.usatoday.com/story/money/business/2014/09/29/snacking-consumer-eating-habits-nielsen/16263375/?siteID=je6NUbpObpQ-3jFHwYITZ99FE23ytK_q9g](http://www.usatoday.com/story/money/business/2014/09/29/snacking-consumer-eating-habits-nielsen/16263375/?siteID=je6NUbpObpQ-3jFHwYITZ99FE23ytK_q9g "http://www.usatoday.com/story/money/business/2014/09/29/snacking-consumer-eating-habits-nielsen/16263375/?siteID=je6NUbpObpQ-3jFHwYITZ99FE23ytK_q9g"){:target="_blank"}    
+    c. *2022 Food and Health Survey Spotlight: Snacking*<br>
+    [https://foodinsight.org/survey-spotlight-snacking/](https://foodinsight.org/survey-spotlight-snacking/ "https://foodinsight.org/survey-spotlight-snacking/"){:target="_blank"}    
 
-    d. *The Surprising Amount of Time Kids Spend Looking at a Screen*<br> [http://www.theatlantic.com/education/archive/2015/01/the-surprising-amount-of-time-kidsspend-looking-at-screens/384737/](http://www.theatlantic.com/education/archive/2015/01/the-surprising-amount-of-time-kidsspend-looking-at-screens/384737/ "http://www.theatlantic.com/education/archive/2015/01/the-surprising-amount-of-time-kidsspend-looking-at-screens/384737/"){:target="_blank"}
+    d. *Screen Time Statistics: Average Screen Time by Country*<br> [https://www.comparitech.com/tv-streaming/screen-time-statistics/](https://www.comparitech.com/tv-streaming/screen-time-statistics/ "https://www.comparitech.com/tv-streaming/screen-time-statistics/"){:target="_blank"}
     
 
-    e. *Youths Spend 7+ Hours/Day Consuming Media:*<br>
-    [http://www.cbsnews.com/news/youths-spend-7-plus-hours-day-consuming-media/](http://www.cbsnews.com/news/youths-spend-7-plus-hours-day-consuming-media/ "http://www.cbsnews.com/news/youths-spend-7-plus-hours-day-consuming-media/"){:target="_blank"}    
+    e. *Gallup: Teens Spend More Time On Social Media Than On Homework*<br>
+    [https://www.forbes.com/sites/bradadgate/2023/10/18/gallup-teens-spend-more-time-on-social-media-than-on-homework/](https://www.forbes.com/sites/bradadgate/2023/10/18/gallup-teens-spend-more-time-on-social-media-than-on-homework/ "https://www.forbes.com/sites/bradadgate/2023/10/18/gallup-teens-spend-more-time-on-social-media-than-on-homework/"){:target="_blank"}    
 
 2. Analyze the article or report based on the following questions:
 
     a. What claim(s) did the article make?
 
-    b. What statistical questions were they trying to answer?
+    b. What statistical investigative questions were they trying to answer?
 
     c. Does the article cite data? If so:
 
@@ -57,7 +57,7 @@ inconclusive of the claim(s) made in the article.
 4. Use RStudio to do your analysis using either the Food Habits or Time Use campaign data, and
 create graphics/plots that support your reasoning.
 
-5. Generate other statistical questions that you would like to investigate further after you reach your
+5. Generate other statistical investigative questions that you would like to investigate further after you reach your
 conclusion.
 
 6. Write a summary of your analysis that is no more than 4 pages long. Include graphics/plots/tables

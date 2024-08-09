@@ -12,7 +12,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Export, upload, import**
 * Before we can perform any analysis, we have to load data into ```R```.
 
-* When we want to get our participatory sensing data into RStudio, we:
+* When we want to get our Participatory Sensing data into RStudio, we:
 
     – <span style="color:darkgreen;">Export</span> the data from your class’ campaign page.
 

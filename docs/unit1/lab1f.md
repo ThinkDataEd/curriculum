@@ -64,7 +64,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – ```V1```: The age of the respondent.
 
-    – ```V2```: The gender of the respondent.
+    – ```V2```: The sex of the respondent.
 
     – ```V3```: Whether the person is employed full-time or part-time.
 
@@ -82,7 +82,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
     – Below is an example of the ```rename``` function:
     
         atu_cleaner <- rename(atu_dirty, age = V1,
-                    gender = V2)   
+                    sex = V2)   
 
 * <span style="color:midnightblue;">**Use the example code and the variable information on the previous slide to rename the rest of the variables in ```atu_dirty```.**</span>
 
@@ -142,7 +142,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Deciphering Categorical Variables**
 * We mentioned earlier that we sometimes code categorical variables as numbers.
 
-    – For example, our ```gender``` variable uses ```"01"``` and ```"02"``` for ```"Male"``` and ```"Female"```, respectively.
+    – For example, our ```sex``` variable uses ```"01"``` and ```"02"``` for ```"Male"``` and ```"Female"```, respectively.
 
 * It's often much easier to analyze and interpret when we use more descriptive categories, such as ```"Male"``` and ```"Female"```.
 
@@ -153,19 +153,19 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – The individual categories are called *levels*.
 
-* To see the levels of ```gender``` and their counts *type*:
+* To see the levels of ```sex``` and their counts *type*:
 
-        tally(~gender, data = atu_cleaner)
+        tally(~sex, data = atu_cleaner)
 
 * <span style="color:firebrick;">**Use similar code as we used above to write down the levels for the three factors in our data.**</span>
 
 ###**A level by any other name...**
-* If we know that ```'01'``` means ```'Male'``` and ```'02'``` means ```'Female'``` then we can use the following code to recode the *levels* of *gender*.
+* If we know that ```'01'``` means ```'Male'``` and ```'02'``` means ```'Female'``` then we can use the following code to recode the *levels* of *sex*.
 
 * <span style="color:midnightblue;">**Type the following command into your console:**</span>
 
-        atu_cleaner <- mutate(atu_cleaner, gender =
-                recode(gender,
+        atu_cleaner <- mutate(atu_cleaner, sex =
+                recode(sex,
                     "01"="Male",
                     "02" = "Female"))
 
@@ -173,8 +173,8 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 ###**Allow me to explain**
 
-    atu_cleaner <- mutate(atu_cleaner, gender =
-            recode(gender, "01"="Male",
+    atu_cleaner <- mutate(atu_cleaner, sex =
+            recode(sex, "01"="Male",
                 "02" = "Female"))
 
 * This code is saying:
@@ -183,7 +183,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – with a mutated one where ...
 
-    – the ```gender``` variable's levels ...
+    – the ```sex``` variable's levels ...
 
     – have been recoded..."
 
