@@ -49,7 +49,7 @@ and largest values.
 
 * <span style="color:midnightblue;">**Make a ```dotPlot``` of your *predominant* color's scores. Make sure to include the ```nint``` option.**</span>
 
-* Visually (Don't worry about being super-precise):
+* Visually (don't worry about being super-precise):
 
     – <span style="color:midnightblue;">**Cut the distribution into quarters so the *number of data points* is equal for each piece.
     (Each piece should contain 25% of the data.)**</span>
@@ -144,7 +144,7 @@ calculate the absolute difference between the ```mean``` and ```median``` value 
 
     – Each of the *generic* arguments is used inside the ```mean``` and ```median``` functions.
 
-* <span style="color:midnightblue;">**Copy and paste the code above into an *R script* and *run* it.**</span>
+* <span style="color:midnightblue;">**Copy and paste the code above into an *R Script* and *run* it.**</span>
 
 * The ```mm_diff``` function will appear in your *Environment* pane.
 

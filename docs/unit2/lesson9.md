@@ -15,7 +15,7 @@ Students will learn how to use simulations to detect an unfair die.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    In the short-term, actual outcomes of chance experiments vary from what is 'ideal.'
+    In the short-term, actual outcomes of chance experiments vary from what is 'ideal'.
     A fair die has equally likely outcomes. But that does not mean we will see exactly the same number of
     one-dots, two-dots, etc.
 
@@ -26,9 +26,8 @@ the Tweets and select a few to share with the class. Of the Tweets shared, ask s
 one is closest to the definition: probability measures how often something happens in the “long
 run.”
 
-2. Remind students that, during the previous lesson, they were introduced to simulations. The
-progression following this path: chance → probability → simulations. The motivation for using
-simulations is that we can use the calculated sample proportions to estimate probabilities of reallife
+2. Remind students that, during the previous lesson, they were introduced to simulations. The motivation for using
+simulations is that we can use the calculated sample proportions to estimate probabilities of real-life
 events.
 
 3. During today’s lesson, we will be continuing to learn about probability and simulations to
@@ -36,14 +35,14 @@ determine if an event is not fair (one example: a coin is weighted and lands on 
 than tails).
 
 4. Ask students what they know about dice (number cubes). If they have never heard of them, show
-one to the class and explain how it works. <span style="color:grey">***A die (number cube) is a 6-sided cube. Each face of
+one to the class and explain how it works. <span style="color:grey">***Answer: A die (number cube) is a 6-sided cube. Each face of
 the cube is labeled with dots to represent a number between 1 and 6. For example, if the
 face has 3 dots, then it represents the number 3. The cube itself is weighted so that there
 is an equal probability of rolling each of the 6 numbers.***</span>
 
 5. Have a discussion about what the students would expect the probability of rolling the number 1
 should be if a die (number cube) were tossed into the air and allowed to fall back to the ground
-(or table). <span style="color:grey">***Since there are 6 numbers on the die, each number should be equally likely to
+(or table). <span style="color:grey">***Answer: Since there are 6 numbers on the die, each number should be equally likely to
 occur, so the probability of rolling a 1 is 1/6.***</span>
 
 6. Display a piece of poster paper on the board with columns labeled 1, 2, 3, 4, 5, 6. Explain that
@@ -53,14 +52,15 @@ the results of actual dice (number cube) rolls.
 7. Select two students to be dice (number cube) rollers and give each student one die. As noted in
 the *<u>Materials</u>* section above, you can have the students use either regular hard dice, or softer
 foam ones (can be found at dollar stores).
+
 8. Tell the class that each student roller will be rolling the dice 6 times (so there will be a total of 12
 rolls for our sample). Ask:
 
     100. If they are rolling the dice 6 times, how often do you think Student 1 will roll a 3? Would
-    you expect it to be the same for Student 2? <span style="color:grey">***Out of 6 rolls, we would expect to see
+    you expect it to be the same for Student 2? <span style="color:grey">***Answer: Out of 6 rolls, we would expect to see
     each of the numbers one time, so we will most likely see about one 3 for Student 1.***</span>
 
-    100. Would you expect the Student 2 to roll a 3 just as often? Why? <span style="color:grey">***Yes, we should expect
+    100. Would you expect the Student 2 to roll a 3 just as often? Why? <span style="color:grey">***Answer: Yes, we should expect
     the same thing from Student 2 because we have independent events. There are
     actually two ways that independence plays a part here: (1) each student is
     independent from the other and has no effect on what the other will roll, (2) the 6
@@ -70,7 +70,7 @@ rolls for our sample). Ask:
     get on the second roll.***</span>
 
     100. Since we will have 12 rolls (and therefore 12 samples), how many tally marks should we
-    expect in each column on the chart? <span style="color:grey">***We would expect to see 2 tally marks in each
+    expect in each column on the chart? <span style="color:grey">***Answer: We would expect to see 2 tally marks in each
     column (each number will probably be rolled twice).***</span>
 
 9. Have each student roller toss his/her die one time and share the outcomes with the rest of the
@@ -79,7 +79,7 @@ process 5 more times so that each student has a total of 6 rolls.
 
 10. As a class, observe the results in the chart and discuss the following:
 
-    100. Do the data from these 12 rolls match what we expected (see responses from Step 8)? Is
+    100. Do the data from these 12 rolls match what we expected (see responses from step 8)? Is
     this surprising? <span style="color:grey">***Answers will vary by class. Some values may have shown up more
     than we expected (example: the number 3 was rolled 3 times), and others may not
     have been rolled at all (example: the number 5 was never an outcome). We only
@@ -87,7 +87,7 @@ process 5 more times so that each student has a total of 6 rolls.
     expected outcomes.***</span>
 
     100. If the data do not match our expectations, does this mean the dice are unfair in some
-    way? <span style="color:grey">***Even if they don’t match our expectations, this does not mean the dice are
+    way? <span style="color:grey">***Answer: Even if they don’t match our expectations, this does not mean the dice are
     unfair – we simply don’t have enough data yet to know. We would need to roll the
     dice more.***</span>
 
@@ -100,8 +100,8 @@ process 5 more times so that each student has a total of 6 rolls.
     the original balance and favor certain sides.***</span>
 
 11. Similar to the previous day’s lesson with coin flipping, we can also simulate dice rolls in RStudio.
-The function required is called **roll_die()**. The arguments for this function are a bit different
-than the **rflip()** function from yesterday. We cannot simply put **roll_die(1)** for the computer
+The function required is called ```roll_die()```. The arguments for this function are a bit different
+than the ```rflip()``` function from yesterday. We cannot simply put ```roll_die(1)``` for the computer
 to roll a die one time. Instead, the function was built with 2 possible dice to choose from – die A
 and die B.
 
@@ -131,11 +131,11 @@ computer results to it for an easy comparison.
 
 16. Ask students how we could record data from these simulations if we wanted to roll the die 100
 times. Would they want to hand count the number of times each value occurred? Is there a
-function in RStudio that will count them for us? <span style="color:grey">***It would be difficult to count every individual
-value in the output on the screen. However, we can use the tally() function to find out
+function in RStudio that will count them for us? <span style="color:grey">***Answer: It would be difficult to count every individual
+value in the output on the screen. However, we can use the ```tally()``` function to find out
 how many times each die value appeared.***</span>
 
-17. To make using the **tally()** function easier, we should assign a name to each simulation so we
+17. To make using the ```tally()``` function easier, we should assign a name to each simulation so we
 don’t have to type the entire function multiple times. We can also have it calculate the proportions
 for each value. Add the functions below to your RScript and run them one at a time.
 
@@ -149,12 +149,12 @@ true probability of 1/6.
 
 19. Add the function below to your script, but before running it, ask the students what they think a
 histogram of the simulated data might look like and then run the command on your screen. Note:
-Be sure to include the argument **nint = 6** so that the resulting histogram has six bars. <span style="color:grey">***If the die
+Be sure to include the argument ```nint = 6``` so that the resulting histogram has six bars. <span style="color:grey">***Answer: If the die
 is fair, each of the bars in the histogram should be roughly the same height.***</span>
 
         histogram(sample1, nint = 6)
 
-    Note to teacher: Show students how to save an RScript. Inform students that they can take notes
+    **Note to teacher:** Show students how to save an RScript. Inform students that they can take notes
     on their RScript by including a hashtag (also known as a pound sign or #) at the beginning of the
     note. Data scientists refer to these types of notes as “code comments” or simply “comments”. See
     image below.
@@ -166,7 +166,7 @@ is fair, each of the bars in the histogram should be roughly the same height.***
 
 20. Allow the students to access their school computers now to start creating their own simulations in
 an RScript using die B. Students can pair up, if needed. Have them begin by asking RStudio to
-roll the die 100 times. They should note their output from both the **tally()** function and the
+roll the die 100 times. They should note their output from both the ```tally()``` function and the
 histogram. They can then compare the results to those from Step 14. Are they similar? Can they
 determine which die is unfair yet? <span style="color:grey">***Answers will vary by class. The results will be similar, but
 not exact. With the sample sizes of each simulation being fairly small, we cannot see a
@@ -175,15 +175,15 @@ clear difference between the two dice yet.***</span>
 21. Let the students explore by changing the number of times RStudio rolls the dice. Remind them
 that the goal is to determine which of the two dice is unfair. The sample sizes need to be
 very large in order for them to see a clear difference between the 2 histograms. The pattern
-becomes more visible when **times = 2000**.  
+becomes more visible when ```times = 2000```.  
 
-    **<u>Note:</u>**  The maximum value for `times` within the `roll_die()` command is 2000. Simulations can be combined using the concatenate function `c()`. For example, suppose s1 represents 2000 rolls of die A and s2 is a second sample of 2000 rolls for die A. To combine these two samples the following can be used `more_rolls <- c(s1, s2)`
+    **<u>Note:</u>**  The maximum value for ```times``` within the ```roll_die()``` command is 2000. Simulations can be combined using the concatenate function ```c()```. For example, suppose s1 represents 2000 rolls of die A and s2 is a second sample of 2000 rolls for die A. To combine these two samples the following can be used ```more_rolls <- c(s1, s2)```
 
 22. When students have had enough time to make a decision regarding which dice is unfair and how,
-engage the class in a discussion to verify that everyone agrees. <span style="color:grey">***Die B is unfair; Die A is fair.
+engage the class in a discussion to verify that everyone agrees. <span style="color:grey">***Answer: Die B is unfair; Die A is fair.
 Die B favors the number 3.***</span>
 
-23. Then, steer the conversation towards why the sample size affected the results. <span style="color:grey">***The sample size
+23. Then, steer the conversation towards why the sample size affected the results. <span style="color:grey">***Answer: The sample size
 needed to be large because the difference between the probabilities of the die rolls was
 very small. In order to detect small differences, we must have larger sample sizes.***</span>
 
@@ -193,5 +193,5 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Students will consider a four-sided die and imagine rolling it 20 times. They should sketch a
-histogram of (a) the ideal, expected outcome, (b) an outcome that they think is “realistic,” and (c) an
+histogram of (a) the ideal, expected outcome, (b) an outcome that they think is “realistic”, and (c) an
 outcome they might see if the die were unfair such that it produced more 4’s.

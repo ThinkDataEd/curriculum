@@ -6,13 +6,13 @@ spread to answer statistical investigative questions. They will learn how to fin
 two medians using a histogram or dotplot.
 
 ###**Materials:**
-1. *Comparing Commute Times with Dotplots* handout ([LMR_2.8_Commute Times – Dotplots](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.8_Commute Times - Dotplots.pdf))
+1. *Comparing Commute Times with Dotplots* handout ([LMR_U2_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf))
 
-2. *Comparing Exam Scores with Histograms* handout ([LMR_2.9_Exam Scores – Histograms](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.9_Exam Scores - Histograms.pdf))
+2. *Comparing Exam Scores with Histograms* handout ([LMR_U2_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf))
 
 3. Timer
 
-4. *Comparing Fuel Efficiency with Boxplots* handout ([LMR_2.10_Fuel Efficiency – Boxplots](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf))
+4. *Comparing Fuel Efficiency with Boxplots* handout ([LMR_U2_L6_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf))
 
 ###**Vocabulary:**
 [rebuttal](../../vocabulary/unit2/#rebuttal "an opposing argument or debate"){ .md-button }
@@ -37,13 +37,13 @@ knowledge of measures of center and measures of spread to compare 2 distribution
 make a decision.
 
 3. In teams, have students complete the *Comparing Commute Times with Dotplots* handout
-([LMR_2.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.8_Commute Times - Dotplots.pdf)). Allow students time to read the “Background” portion of the handout, and then
+([LMR_U2_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf)). Allow students time to read the “Background” portion of the handout, and then
 discuss what statistical investigative question(s) the student in the scenario is trying to answer. <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.8_Commute Times - Dotplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.8_Commute Times - Dotplots.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf)</div>
 
 4. Once teams decide on their recommendation, engage half of the class in an *Active Debate*. Half
 of the students will stand in a debate line and the other half will “fishbowl” the debate. Roles will
-reverse later in the lesson (see Step14).
+reverse later in the lesson (see step 12 below).
 
 5. Of those students standing on the debate line, half will argue the reasons why they recommend
 street travel and the other half will argue the reasons why they recommend freeway travel.
@@ -65,16 +65,16 @@ evidence is in the data or show that the data does not support the claim.
 10. Finally, ask debaters if any of them changed their recommendations after engaging in the debate.
 
 11. In teams, have students complete the *Comparing Exam Scores with Histograms* handout
-([LMR_2.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.9_Exam Scores - Histograms.pdf)). Allow students time to read the “Background” portion of the handout, and then
+([LMR_U2_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf)). Allow students time to read the “Background” portion of the handout, and then
 discuss what statistical investigative question(s) the student in the scenario is trying to answer. <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.9_Exam Scores - Histograms.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.9_Exam Scores - Histograms.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf)</div>
 
-12. Repeat debate process (Steps 4 - 10) with the other half of the class.
+12. Repeat debate process (steps 4 - 10b from above) with the other half of the class.
 
 13. Summarize the lesson by conducting a class discussion about what to look for when comparing
 distributions. Students should be precise when estimating values of means, medians, MAD, and
 IQR. They should also be able to comment on when it is most appropriate to use each measure
-of center and spread. <span style="color:grey">***If a distribution is symmetric, it is best to use the mean as a measure
+of center and spread. <span style="color:grey">***Answer: If a distribution is symmetric, it is best to use the mean as a measure
 of center and the MAD as a measure of spread. If a distribution is skewed, or has outliers,
 it is best to use the median as a measure of center and the IQR as a measure of spread.***</span>
 
@@ -84,5 +84,5 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Similar to the activities they did during class today, for homework, students should complete the
-*Comparing Fuel Efficiency with Boxplots* handout ([LMR_2.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)). <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)</div>
+*Comparing Fuel Efficiency with Boxplots* handout ([LMR_U2_L6_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf)). <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L6_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf)</div>

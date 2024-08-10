@@ -27,8 +27,8 @@ exact, but varies. Students practice converting percentages to proportions.
 1. Remind students that, during the previous two lessons, they learned how to estimate probabilities
 for a population with the help of simulations to create sample data. Both lessons had nice, prepackaged
 functions already available in RStudio, which made the simulations fairly quick and
-easy – in [Lesson 8](lesson8.md), the **rflip()** function was used to simulate flipping a coin; and in [Lesson 9](lesson9.md),
-the **roll_die()** function was used to simulate rolling one of two dice.
+easy – in [Lesson 8](lesson8.md), the ```rflip()``` function was used to simulate flipping a coin; and in [Lesson 9](lesson9.md),
+the ```roll_die()``` function was used to simulate rolling one of two dice.
 
 2. But what if we don’t have a nice function to perform a simulation for us? Can we create our own
 method? Yes! We will actually learn to create a simulation from scratch during [Lab 2C](lab2c.md).
@@ -36,7 +36,7 @@ method? Yes! We will actually learn to create a simulation from scratch during [
 3. Ask students:
 
     100. If you have a bag of 50 marbles, where 20 of them are blue and 30 of them are red, what
-    is the probability of drawing a red marble? <span style="color:grey">***30/50 or 60%.***</span>
+    is the probability of drawing a red marble? <span style="color:grey">***Answer: 30/50 or 60%.***</span>
 
 4. Select a student to answer the question. Ask the class if they agree or disagree. If they agree,
 ask them to raise their hand. If there are students who disagree, lead a class discussion until a
@@ -61,11 +61,11 @@ fractions into percentages, if necessary.
 
     100. Draw one marble out of the bag.
 
-    100. Record the marble’s color in their IDS journal.
+    100. Record the marble’s color in their DS journal.
 
     100. Replace the marble back into the bag. Inform them that this is called sampling **with
     replacement**. Ask them to consider what “with replacement” means and discuss with the
-    class. <span style="color:grey">***“With replacement” means that after you select a marble from the bag, you
+    class. <span style="color:grey">***Answer: “With replacement” means that after you select a marble from the bag, you
     have to put it back into the bag (replace it) before you select another marble.***</span>
 
     They should draw 10 marbles from the bag and record the observed colors.
@@ -95,7 +95,7 @@ true probability. If we were to continue drawing marbles forever, in the long ru
 proportion should equal our true probability.
 
 12. Have students consider what it might mean to sample **without replacement**. How would they do
-that with their bag of marbles? <span style="color:grey">***“Without replacement” means that after you select a marble
+that with their bag of marbles? <span style="color:grey">***Answer: “Without replacement” means that after you select a marble
 from the bag, you never put it back into the bag (do not replace it). Instead, you simply
 select another marble from the bag immediately. Students should recognize that, by not
 replacing the marble each time, the probabilities will change. This means each draw from

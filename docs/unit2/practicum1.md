@@ -2,10 +2,10 @@
 
 ###**Objective:**
 Students will engage in their first statistical investigation using the Data Cycle. They will pose a statistical investigative
-question based on a data set from a Participatory Sensing campaign, analyze, and interpret the data.
+question based on a dataset from a Participatory Sensing campaign, analyze, and interpret the data.
 
 ###**Materials:**
-1. The Summaries Practicum ([LMR_U2_Practicum_The Summaries](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The Summaries.pdf))
+1. The Summaries Practicum ([LMR_U2_Practicum_The_Summaries](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The_Summaries.pdf))
 
 **<u>Note to Teacher</u>**: Before assigning the practicum to your students, engage the class in a discussion
 about the sample statistical investigative questions below. Guide the discussion so that students identify not only the
@@ -15,11 +15,11 @@ them of the Data Cycle from [Unit 1](../unit1/overview.md).
 <img src="../../img/2xp0a.png" width="300" height="400" class="center">
 
 Using the *Food Habits* campaign data or *Personality Color* survey data, develop a new statistical investigative question
-that compares two or more groups. Some sample statistical investigative questions (about other data sets) are below:
+that compares two or more groups. Some sample statistical investigative questions (about other datasets) are below:
 
 * Which gender shows a bigger range in age, male or female Oscar winners?
 
-    *** Grouping variable: gender (male, female)***
+    *** Grouping variable: sex (male, female)***
 
     *** Variable: ages***
 
@@ -31,7 +31,7 @@ that compares two or more groups. Some sample statistical investigative question
 
 * How does the median height of teenage males compare to that of females?
 
-    ***Grouping variable: gender (male, female)***
+    ***Grouping variable: sex (male, female)***
 
     ***Variable: height***
 
@@ -66,4 +66,4 @@ and numerical summaries (mean, median, MAD, IQR, etc.) related to your plots.
 
 5. Write and submit a one-page report.
 
-<u>**Note**: You may use the scoring guide in [Unit 1](../unit1/overview.md) to give you an idea of how to score the Practicum.</u>
+<u>**Note:**</u> You may use the scoring guide in [Unit 1](../unit1/overview.md) to give you an idea of how to score the Practicum.

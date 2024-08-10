@@ -72,17 +72,17 @@
 
 [LMR_U2_L5.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L5.pdf)
 
-[LMR_2.8_Commute Times - Dotplots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.8_Commute Times - Dotplots.pdf)
+[LMR_U2_L6_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_A.pdf)
 
-[LMR_2.9_Exam Scores - Histograms.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.9_Exam Scores - Histograms.pdf)
+[LMR_U2_L6_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_B.pdf)
 
-[LMR_2.10_Fuel Efficiency - Boxplots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.10_Fuel Efficiency - Boxplots.pdf)
+[LMR_U2_L6_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L6_C.pdf)
 
-[LMR_2.11_Dotplots to Boxplots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.11_Dotplots to Boxplots.pdf)
+[LMR_U2_L7_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L7_A.pdf)
 
-[LMR_2.12_Plot Match.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.12_Plot Match.pdf)
+[LMR_U2_L7_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L7_B.pdf)
 
-[LMR_2.13_Compound Probabilities.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.13_Compound Probabilities.pdf)
+[LMR_U2_L11.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)
 
 [LMR_2.14_Tangible Data Merging.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf)
 
@@ -96,7 +96,7 @@
 
 [LMR_U2_Design Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design Project.pdf)
 
-[LMR_U2_Practicum_The Summaries.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The Summaries.pdf)
+[LMR_U2_Practicum_The_Summaries.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The_Summaries.pdf)
 
 [LMR_U2_Practicum_What Stresses Us.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_What Stresses Us.pdf)
 

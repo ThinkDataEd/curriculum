@@ -18,7 +18,7 @@ playlist with both rap and rock songs, if the choice is made at random.
 down its genre (*rock* or *rap*), put the song back in the playlist, and repeat 499 more times for
 a total of 500 times.
 
-* The statistical question we want to address is: *On average, what proportion of our
+* The statistical investigative question we want to address is: *On average, what proportion of our
 selections will be rap?*
 
 * <span style="color:firebrick;">**Why do we *put a song back* each time we make a selection?**</span>
@@ -120,7 +120,7 @@ multiple repetitions for us.
 
 * <span style="color:firebrick;">**What is the variable name?**</span>
 
-    - ```R``` defaulted to naming the variable based on the function used. You may use the data cleaning skills you learned in lab 6 to ```rename``` the variable if you wish.
+    - ```R``` defaulted to naming the variable based on the function used. You may use the data cleaning skills you learned in lab 1F to ```rename``` the variable if you wish.
 
 * <span style="color:midnightblue;">**Fill in the blank below to ```tally``` how often each genre was selected:**</span>
 
@@ -174,7 +174,7 @@ songs.**</span>
 
     – The blank in ```set.seed(___)``` should be the same number for both partners.
 
-    – <span style="color:firebrick;">**Verify that both partners compute the same proportion of ```"rap"``` songs.**</span>
+    – <span style="color:firebrick;">**What value of ```set.seed``` did you and your partner use and what was the proportion of ```"rap"``` songs you obtained?**</span>
 
 * <span style="color:midnightblue;">**Redo the 50 simulations one last time but have each partner choose a different number for
 ```set.seed(___)```.**</span>

@@ -5,7 +5,7 @@ Students will understand how AND/OR probabilities are defined and will be able t
 to compute these probabilities.
 
 ###**Materials:**
-1. *Compound Probabilities* handout ([LMR_2.13_Compound Probabilities](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.13_Compound Probabilities.pdf))
+1. *Compound Probabilities* handout ([LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf))
 
 2. Blue sticky notes
 
@@ -38,13 +38,13 @@ interested in divided by the total number of outcomes possible.
     
     100. How would we compute the probability of two outcomes occurring at the same time? For
     example, what is the probability that a randomly chosen student likes both pickles AND
-    mayonnaise?
+    mayonnaise? <span style="color:grey">***Answers will vary.***</span>
 
     100. How would we compute the probability of either of two outcomes occurring? For example,
     what is the probability that a randomly chosen student likes either pickles OR
-    mayonnaise?
+    mayonnaise? <span style="color:grey">***Answers will vary.***</span>
 
-4. For both questions, steer the students towards using the definition from Step 2. That is, we want
+4. For both questions, steer the students towards using the definition from step 2 above. That is, we want
 the students to realize that they can count the number of people that qualify for the given
 circumstance and divide by the total number of people to calculate a probability.
 
@@ -90,7 +90,7 @@ preferences as follows:
     100. What is the probability that a randomly selected student at the board likes both pickles
     AND mayonnaise? <span style="color:grey">***Answers will vary by class. The probability should be calculated
     by dividing the number of people who are standing under “Both” (number given in
-    Step 9(a)) by the number of students at the board (number given in Step 8).***</span>
+    step 9(a) above) by the number of students at the board (number given in step 8 above).***</span>
 
     <center><img src="https://latex.codecogs.com/gif.latex?\frac{\&hash;students\&space;under\&space;''&space;Both&space;''}{\&hash;students\&space;standing\&space;at\&space;the\&space;board}" title="\frac{\#students\ under\ '' Both ''}{\#students\ standing\ at\ the\ board}" /></center>
 
@@ -132,11 +132,11 @@ preferences as follows:
 
 13. Informs students that AND/OR probabilities are called **compound probabilities**. In teams, have
 students record their own definitions of AND/OR probabilities based on the activity they just
-completed. <span style="color:grey">***A compound probability is the probability of some combination of events
+completed. <span style="color:grey">***Answer: A compound probability is the probability of some combination of events
 occurring.***</span>
 
-14. Distribute the *Compound Probabilities* handout ([LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.13_Compound Probabilities.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.13_Compound Probabilities.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.13_Compound Probabilities.pdf)</div>
+14. Distribute the *Compound Probabilities* handout ([LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)</div>
 
 15. Pass out a blue sticky note to each student who plays a sport and a gold sticky note to each student who does not play a sport.
 
@@ -159,14 +159,14 @@ choose exactly one option): Vanilla, Chocolate or Rocky Road.
     number.
 
 20. Instruct the students to work in pairs to answer the questions on the *Compound Probabilities*
-handout ([LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.13_Compound Probabilities.pdf)).
+handout ([LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)).
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-If not completed in class, students should finish the *Compound Probabilities* handout ([LMR_2.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.13_Compound Probabilities.pdf)).
+If not completed in class, students should finish the *Compound Probabilities* handout ([LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)).
 
 [<u>***LAB 2D: Queue It Up!***</u>](lab2d.md)
 
