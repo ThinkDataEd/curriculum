@@ -7,7 +7,7 @@ compute and interpret another measure of spread: the IQR.
 ###**Materials:**
 1. Poster paper, 3-4 feet long
 
-    **Advanced preparation required** (see Step 9 below)
+    **Advance preparation required** Needs to be labeled and posted in class (see step 9 in lesson)
 
 2. Tape
 
@@ -15,7 +15,7 @@ compute and interpret another measure of spread: the IQR.
 
 4. Markers
 
-5. *Ages of Oscar Winners* handout ([LMR_2.7_Oscar Ages](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.7_Oscar Ages.pdf))
+5. *Ages of Oscar Winners* handout ([LMR_U2_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L5.pdf))
 
 ###**Vocabulary:**
 [boxplot](../../vocabulary/unit2/#boxplot "A special type of diagram showing Quartiles 1, 2 and 3 (where the data can be split into quarters) in a box, with lines extending to the lowest and highest values"){ .md-button }
@@ -45,7 +45,7 @@ look at data:
 
     100. Measures of spread – MAD
 
-    100. Graphing – dotPlots, histograms
+    100. Graphing – dotplots, histograms
 
 2. Explain that all of these tools help us describe data to someone who may not actually be viewing
 it. Today, we will explore another way to summarize and describe data to others with the use of
@@ -77,7 +77,7 @@ and have them decide which student represents the class’s median height.
 
 9. Have the median student stand next to the wall directly in front of the poster paper.
 
-    **Advanced preparation required:** Before class begins, tape a piece of poster paper,
+    **Advance preparation required:** Before class begins, tape a piece of poster paper,
     approximately 3-4 feet long, vertically to a wall in the classroom. The students will be
     creating a plot using lines drawn at certain students’ heights.
 
@@ -124,12 +124,12 @@ boxplot in their DS journals, with the appropriate labels.
 18. Ask students:
 
     100. What is the difference between the largest and smallest heights? Is there a large
-    difference between the tallest and shortest person? <span style="color:grey">***Students should calculate
+    difference between the tallest and shortest person? <span style="color:grey">***Answer: Students should calculate
     maximum – minimum.***</span> Inform students that this difference is known as the **range** of the
-    data set.
+    dataset.
 
     100. What is the difference between the quartiles Q<sub>1</sub> and Q<sub>3</sub>? What percent of our class falls
-    within these two values? <span style="color:grey">***Students should calculate Q<sub>3</sub> – Q<sub>1</sub>. 50% of the class falls
+    within these two values? <span style="color:grey">***Answer: Students should calculate Q<sub>3</sub> – Q<sub>1</sub>. 50% of the class falls
     between these two height values.***</span> Inform students that this difference is known as the
     **interquartile range (or IQR)**.
 
@@ -137,10 +137,10 @@ boxplot in their DS journals, with the appropriate labels.
 lesson, and tell them that we now have another measure of spread – the IQR. Pose the following
 questions to the students:
 
-    100. What does it mean when the IQR is small? <span style="color:grey">***The middle 50% of heights are close to
+    100. What does it mean when the IQR is small? <span style="color:grey">***Answer: The middle 50% of heights are close to
     each other.***</span>
 
-    100. What does it mean when the IQR is large? <span style="color:grey">***The middle 50% of heights are more
+    100. What does it mean when the IQR is large? <span style="color:grey">***Answer: The middle 50% of heights are more
     spread out.***</span>
 
 20. Finally, subset the class into introverts and extroverts. Ask each group of students (the introverts and
@@ -158,6 +158,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students should complete the *Ages of Oscar Winners* handout ([LMR_2.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.7_Oscar Ages.pdf)) for homework using their
-newly acquired knowledge of boxplots
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.7_Oscar Ages.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.7_Oscar Ages.pdf)</div>
+Students should complete the *Ages of Oscar Winners* handout ([LMR_U2_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L5.pdf)) for homework using their
+newly acquired knowledge of boxplots. <br> **Note:** Page 2 of the handout is an answer key for teacher reference only.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L5.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L5.pdf)</div>

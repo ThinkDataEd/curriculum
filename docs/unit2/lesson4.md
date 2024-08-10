@@ -2,14 +2,14 @@
 
 ###**Objective:**
 Students will understand that the mean of the absolute deviations (MAD) is a way to assess the degree of
-variation in the data from the mean and adjusts for differences in the number of points in the data set (*n*).
+variation in the data from the mean and adjusts for differences in the number of points in the dataset (*n*).
 The MAD measures the total distance between all the data values from the mean and divides it by the
-number of observations in the data set.
+number of observations in the dataset.
 
 ###**Materials:**
 1. Masking tape (or painter’s tape) – approximately 4-5 feet long – one for each student team
 
-2. *How Far Apart?* handout ([LMR_2.6_How Far Apart](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf)) – will be used again in [Lesson 17](lesson17.md)
+2. *How Far Apart?* handout ([LMR_U2_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf)) – will be used again in [Lesson 17](lesson17.md)
 
 3. Exported, printed, and reproduced class’s *Personality Color* survey data
 
@@ -21,7 +21,7 @@ number of observations in the data set.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    MAD measures the variability in a sample of data - the larger the value, the greater
+    Mean Absolute Deviation (MAD) measures the variability in a sample of data - the larger the value, the greater
     the variability. More precisely, the MAD is the typical distance of observations from the mean. There are
     other measures of spread as well, notably the standard deviation and the interquartile range (IQR).
 
@@ -42,7 +42,7 @@ of spread: (1) the mean of absolute deviations (MAD), and (2) the interquartile 
     **<u>Note:</u>** IQR will be discussed in detail during [Lesson 5](lesson5.md).
 
 3. Introduce the term **deviation**. Using *Think*, *Pair*, *Share*, ask students what they think this word
-means and how it could relate to variability. <span style="color:grey">***A deviation is the act of departing from an
+means and how it could relate to variability. <span style="color:grey">***Answer: A deviation is the act of departing from an
 established course or accepted standard. Common synonyms include departure, detour,
 difference, digression, divergence, fluctuation, inconsistency, modification, shift, etc.***</span>
 
@@ -68,7 +68,7 @@ on each side of the tape), and one is the recorder.
 
 8. Place a ruler perpendicular to the “rope” and measure the distance, in centimeters, from the path
 to the center of the back of their heel as the student walks and attempts to balance across the
-“rope.”
+“rope”.
 
 9. The performer will walk the tightrope by looking straight up to the sky – first they look to place a
 foot on the line, then walk naturally while looking up to the sky, and repeating one step at a time
@@ -101,7 +101,7 @@ data point from the mean, and then finds the average of all those distances.
 14. Display the formula for the MAD distribution for the whole class to see.
     <p><center><img src="https://latex.codecogs.com/svg.image?MAD=\frac{&space;&space;\sum_{i=1}^{n}&space;|x_i-\bar{x}|}{n}"&space;" title="MAD=\frac{ &space;\sum_{i=1}^{n}&space;|x_i-\bar{x}|}{n}" " /></center></p>
 
-15. Discuss what each symbol in the formula means and how we use it to perform the calculation. <span style="color:grey">***x<sub>i</sub>
+15. Discuss what each symbol in the formula means and how we use it to perform the calculation. <span style="color:grey">***Answer: x<sub>i</sub>
 represents each individual data point, x̄ represents the mean value, and n represents
 the total number of observations. The symbol Σ represents the summation – this tells us
 to add up all the absolute distances from each point to the mean.***</span>
@@ -109,12 +109,11 @@ to add up all the absolute distances from each point to the mean.***</span>
 16. To practice using this formula with actual data, students will calculate and compare the MAD
 values for 2 distributions.
 
-17. Distribute the *How Far Apart?* handout ([LMR_2.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf)), which contains 2 of the dot plots - plots (a)
-and (c) from the *Where is the Middle?* handout ([LMR_2.5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.5_Where is the Middle.pdf)) used in [Lesson 3](lesson3.md). As before, the dot
-plots depict the number of candies eaten by a group of 17 high school students on different days
+17. Distribute the *How Far Apart?* handout ([LMR_U2_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf)), which contains 2 of the dotplots - plots (a)
+and (c) from the *Where is the Middle?* handout ([LMR_U2_L3_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L3_B.pdf)) used in [Lesson 3](lesson3.md). As before, the dotplots depict the number of candies eaten by a group of 17 high school students on different days
 of the week. The means are also given.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf)</br>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf)</br>
     </div>
 
 
@@ -131,19 +130,19 @@ of the week. The means are also given.
 agreement on their answers, pose the following questions to the class as a whole:
     
     100. Which MAD value did you think would be larger based only on the look/shape of the
-    distributions? Why? <span style="color:grey">***Since plot (c) is skewed to the left, it probably has a larger MAD
+    distributions? Why? <span style="color:grey">***Answer: Since plot (c) is skewed to the left, it probably has a larger MAD
     because more points will be further away from the mean than in plot (a).***</span>
     
-    100. Which MAD value was actually larger when you calculated it? <span style="color:grey">***The MAD value for plot
+    100. Which MAD value was actually larger when you calculated it? <span style="color:grey">***Answer: The MAD value for plot
     (c) was larger (1.1418 > 0.8253).***</span>
     
     100. Did your prediction match the actual calculated values, or were you surprised by the
-    results? <span style="color:grey">***Yes. The distribution with the wider spread (more variability) had the larger
+    results? <span style="color:grey">***Answer: Yes. The distribution with the wider spread (more variability) had the larger
     MAD value.***</span>
 
 19. To continue exploring with the class’s Personality Color survey data, student teams should
 calculate the MAD value for their <span style="color:blue">***Blue***</span> scores. Does the MAD value seem reasonable based on
-the dot plot they created during [Lesson 2](lesson2.md)?
+the dotplot they created during [Lesson 2](lesson2.md)? <span style="color:grey">***Answers will vary by class.***</span>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
@@ -155,7 +154,7 @@ compare the values of the 4 color scores.
 !!! warning "Declutter your Environment Pane"
     Unit 2 utilizes new datasets so it's a good idea to declutter your Environment Pane.
 
-    Refer students to [this video](https://www.youtube.com/embed/N5KpS0MFk7Y) or demonstrate it on your own Environment.
+    Demonstrate it on your own Environment or refer students to [this video](https://www.youtube.com/embed/N5KpS0MFk7Y)
 
 [<u>***LAB 2A: All About Distributions***</u>](lab2a.md)
 

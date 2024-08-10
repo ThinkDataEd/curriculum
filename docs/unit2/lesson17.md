@@ -4,7 +4,7 @@
 Students will learn that standard deviation is another way to measure variability.
 
 ###**Materials:**
-1. *How Far Apart?* handout ([LMR_2.6_How Far Apart](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf)) – completed during [Lesson 4](lesson4.md)
+1. *How Far Apart?* handout ([LMR_U2_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf)) – completed during [Lesson 4](lesson4.md)
 
 2. *How Far Apart? (with standard deviation – SD)* handout ([LMR_2.16_How Far Apart SD](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf))
 
@@ -56,7 +56,7 @@ variability. The standard deviation is similar to the mean absolute deviation (M
 deviation squares the distances of each data point from the mean. Both methods result in positive
 measurements because distance is always positive.
 
-9. Ask students to recall that they calculated MAD values in the *How Far Apart?* handout ([LMR_2.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.6_How Far Apart.pdf))
+9. Ask students to recall that they calculated MAD values in the *How Far Apart?* handout ([LMR_2.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf))
 during [Lesson 4](lesson4.md) of this unit.
 
 10. Show and discuss the formula for calculating the standard deviation of a dataset:

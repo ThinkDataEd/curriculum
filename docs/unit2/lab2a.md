@@ -9,7 +9,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – We also learned how to clean data to prepare it for analyzing.
 
-* Starting with this lab, we'll learn to use R to answer statistical questions that can be
+* Starting with this lab, we'll learn to use ```R``` to answer statistical investigative questions that can be
 answered by calculating the mean, median and MAD.
 
 ###**How to talk about data**
@@ -29,20 +29,20 @@ answered by calculating the mean, median and MAD.
     *spread* out the data are, and what sort of *shape* the data has.
 
 ###**Let's begin!**
-* *Export*, *upload* and *import* your class' *Personality Color* data.
+* *Export*, *upload* and *import* your class's *Personality Color* data.
 
     – Name your data ```colors``` when you load it.
 
-* Before analyzing a new data set, it's often helpful to get familiar with it. So:
+* Before analyzing a new dataset, it's often helpful to get familiar with it. So:
 
     – <span style="color:firebrick;">**Write down the ```names``` of the 4 variables that contain the point-totals, or
     *scores*, for each personality color.**</span>
 
     – <span style="color:firebrick;">**Write down the ```names``` of the variables that tell us an observation's introvert/extrovert designation and whether they are involved in *sports*.**</span>
 
-    – <span style="color:firebrick;">**How many variables are in the data set?**</span>
+    – <span style="color:firebrick;">**How many variables are in the dataset?**</span>
 
-    – <span style="color:firebrick;">**How many observations are in the data set?**</span>
+    – <span style="color:firebrick;">**How many observations are in the dataset?**</span>
 
 ###**Estimating centers**
 * <span style="color:midnightblue;">**Create a ```dotPlot``` of the scores for your *predominant color*.**</span>
