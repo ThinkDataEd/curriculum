@@ -3608,19 +3608,19 @@ responses: card games, slot machines, the lottery, coin flipping, and rock-paper
 the following questions:</p>
 <ol>
 <li>
-<p>Is it <em>possible</em> to get 78 heads in a row when tossing a coin? <span style="color:grey"><strong><em>Yes, it is possible to get 78
+<p>Is it <em>possible</em> to get 78 heads in a row when tossing a coin? <span style="color:grey"><strong><em>Answer: Yes, it is possible to get 78
 heads in a row since one coin toss does not determine the next coin toss.</em></strong></span></p>
 </li>
 <li>
-<p>Do you think it is <em>likely</em> to get 78 heads in a row? <span style="color:grey"><strong><em>No, although it is possible to get 78
+<p>Do you think it is <em>likely</em> to get 78 heads in a row? <span style="color:grey"><strong><em>Answer: No, although it is possible to get 78
 heads in a row.</em></strong></span></p>
 </li>
 <li>
-<p>How many times should we get heads when tossing a coin? <span style="color:grey"><strong><em>1 out of 2 times, or 50% of
+<p>How many times should we get heads when tossing a coin? <span style="color:grey"><strong><em>Answer: 1 out of 2 times, or 50% of
 the time.</em></strong></span></p>
 </li>
 <li>
-<p>On average, how many times out of the 78 tosses should the characters have gotten heads? <span style="color:grey"><strong><em>Roughly 39 times.</em></strong></span></p>
+<p>On average, how many times out of the 78 tosses should the characters have gotten heads? <span style="color:grey"><strong><em>Answer: Roughly 39 times.</em></strong></span></p>
 </li>
 </ol>
 </li>
@@ -3655,7 +3655,7 @@ function:</p>
 </li>
 <li>
 <p>Explain that the value of 1 in the argument part of the function tells R to flip the coin 1 time. If we
-want to flip the coin 10 times, we could simply change the function to <strong>rflip(10)</strong>.</p>
+want to flip the coin 10 times, we could simply change the function to <code>rflip(10)</code>.</p>
 </li>
 <li>
 <p>Run the function again using 10 as the number of times to flip the coin. Ask students:</p>
@@ -3667,23 +3667,20 @@ want to flip the coin 10 times, we could simply change the function to <strong>r
 <p>How many Tails (“T”s) were there? <span style="color:grey"><strong><em>Answers will vary for each sample.</em></strong></span></p>
 </li>
 <li>
-<p>In the output, what does <strong>Flipping 10 coins [Prob(Heads) = 0.5]</strong> mean? <span style="color:grey"><strong><em>This is
+<p>In the output, what does <strong>Flipping 10 coins [Prob(Heads) = 0.5]</strong> mean? <span style="color:grey"><strong><em>Answer: This is
 RStudio telling us that we are tossing the coin 10 times and that the</em></strong></span> <strong>probability</strong> <span style="color:grey"><strong><em>of
 getting heads is 0.5 because it is a fair coin.</em></strong></span></p>
 </li>
 <li>
-<p>In the output, what does <strong>Number of Heads: 3 [Proportion Heads: 0.3]</strong> mean?</p>
+<p>In the output, what does <strong>Number of Heads: 3 [Proportion Heads: 0.3]</strong> mean? <span style="color:grey"><strong><em>Answer: This is RStudio telling us that in our sample, we got heads 3 out of the 10 times we flipped the coin. The</em></strong></span> <strong>sample proportion</strong> <span style="color:grey"><strong><em>is automatically calculated for us by dividing the number of heads by the total number of tosses (in this case, 3/10=0.3).</em></strong></span></p>
 <p><strong><u>Note:</u></strong> This is an example of an output. Your sample may have a different value for the number of
-heads that appeared, and therefore a different value for the proportion of heads. <span style="color:grey"><strong><em>This is
-RStudio telling us that in our sample, we got heads 3 out of the 10 times we flipped
-the coin. The</em></strong></span> <strong>sample proportion</strong> <span style="color:grey"><strong><em>is automatically calculated for us by dividing the
-number of heads by the total number of tosses (in this case, 3/10 = 0.3).</em></strong></span></p>
+heads that appeared, and therefore a different value for the proportion of heads.</p>
 </li>
 </ol>
 </li>
 <li>
 <p>To relate back to the video at the beginning of class, repeat the simulation once more, but use 78
-as the number of coin flips <strong>rflip(78)</strong>. Ask students:</p>
+as the number of coin flips <code>rflip(78)</code>. Ask students:</p>
 <ol>
 <li>
 <p>How many heads (“H”s) were there? Since we know to expect about 39 heads if the coin
@@ -3723,7 +3720,7 @@ vary.</em></strong></span></p>
 50%.</em></strong></span></p>
 </li>
 <li>
-<p>Why is there a 50% chance of getting heads during each coin flip? <span style="color:grey"><strong><em>Since there are two
+<p>Why is there a 50% chance of getting heads during each coin flip? <span style="color:grey"><strong><em>Answer: Since there are two
 sides to a coin, both should be equally likely to come up. So there is a 1 out of 2
 chance of getting heads and 1 out of 2 chance of getting tails.</em></strong></span></p>
 </li>
@@ -3752,7 +3749,7 @@ favstats(~heads, data = flips)
 <ol>
 <li>
 <p>What is this distribution telling us?
-<span style="color:grey"><strong><em>When flipping a fair coin 78 times, what typically happened was that it landed on heads between 36 and 40 times (36/78 = 0.46 to 40/78 = 0.51). It was not uncommon for the coin to land on heads 31-35 (0.40-0.45) times or 41-45 (0.52-0.58) times. Even landing on heads between 46-50 (0.59-0.64) times was not too uncommon. What was very uncommon, however, was landing on heads less than 30 times (less than 38%) or more than 51 times (more than 65%).</em></strong></span></p>
+<span style="color:grey"><strong><em>Answer: When flipping a fair coin 78 times, what typically happened was that it landed on heads between 36 and 42 times (36/78 = 0.46 to 42/78 = 0.54). It was not uncommon for the coin to land on heads 28-35 (0.36-0.45) times or 43-51 (0.55-0.65) times. What was very uncommon, however, was landing on heads less than 28 times (less than 36%) or more than 51 times (more than 65%).</em></strong></span></p>
 </li>
 <li>
 <p>Were your group's cut-offs (item #16) similar to what the chance model displayed?
@@ -3761,12 +3758,18 @@ favstats(~heads, data = flips)
 <li>
 <p>Using the chance model (histogram) which displays what typically happens when a fair coin is flipped 78 times, make a call for the scenarios below - fair or unfair?</p>
 <ol>
-<li>You flip a coin 78 times and get 37 heads.
-<span style="color:grey"><strong><em>Fair. 37 was very common based on the histogram.</em></strong></span></li>
-<li>You flip a coin 78 times and get 46 heads.
-<span style="color:grey"><strong><em>Fair. 46 was less common but not too uncommon.</em></strong></span></li>
-<li>You flip a coin 78 times and get 20 heads.
-<span style="color:grey"><strong><em>Unfair. In the 500 simulations not once did we see a FAIR coin land on heads 20 times. </em></strong></span></li>
+<li>
+<p>You flip a coin 78 times and get 37 heads.
+<span style="color:grey"><strong><em>Answer: Fair. 37 was very common based on the histogram.</em></strong></span></p>
+</li>
+<li>
+<p>You flip a coin 78 times and get 46 heads.
+<span style="color:grey"><strong><em>Answer: Fair. 46 was less common but not too uncommon.</em></strong></span></p>
+</li>
+<li>
+<p>You flip a coin 78 times and get 20 heads.
+<span style="color:grey"><strong><em>Answer: Unfair. In the 500 simulations not once did we see a FAIR coin land on heads 20 times. </em></strong></span></p>
+</li>
 </ol>
 </li>
 </ol>
@@ -3775,7 +3778,7 @@ favstats(~heads, data = flips)
 <p>Next pose the following question:</p>
 <ol>
 <li>If you get a heads on the first toss of a coin, will you definitely get a heads on the next
-toss? Will you definitely get a tails on the next toss? <span style="color:grey"><strong><em>No. One coin toss should not
+toss? Will you definitely get a tails on the next toss? <span style="color:grey"><strong><em>Answer: No. One coin toss should not
 affect another coin toss. Each time you flip the coin, the chances of getting heads
 versus tails remains the same.</em></strong></span></li>
 </ol>
