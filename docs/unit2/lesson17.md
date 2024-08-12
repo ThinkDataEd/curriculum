@@ -6,7 +6,7 @@ Students will learn that standard deviation is another way to measure variabilit
 ###**Materials:**
 1. *How Far Apart?* handout ([LMR_U2_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf)) – completed during [Lesson 4](lesson4.md)
 
-2. *How Far Apart? (with standard deviation – SD)* handout ([LMR_2.16_How Far Apart SD](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf))
+2. *How Far Apart? (with standard deviation – SD)* handout ([LMR_U2_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L17.pdf))
 
 3. Projector to display visuals using RStudio
 
@@ -29,9 +29,9 @@ Students will learn that standard deviation is another way to measure variabilit
 2. In pairs, ask students to recall methods they have learned so far for measuring center and
 measuring spread in distributions.
 
-    Measures of Center: <span style="color:grey">***mean (average or typical value), median***</span>
+    Measures of Center: <span style="color:grey">***Answer: mean (average or typical value), median***</span>
 
-    Measures of Spread: <span style="color:grey">***mean absolute deviation (MAD), interquartile range (IQR)***</span>
+    Measures of Spread: <span style="color:grey">***Answer: mean absolute deviation (MAD), interquartile range (IQR)***</span>
 
 3. Share out a pair’s explanation and ask the rest of the pairs to agree or disagree. If there is
 disagreement, hold a class discussion until the lists are correct.
@@ -56,7 +56,7 @@ variability. The standard deviation is similar to the mean absolute deviation (M
 deviation squares the distances of each data point from the mean. Both methods result in positive
 measurements because distance is always positive.
 
-9. Ask students to recall that they calculated MAD values in the *How Far Apart?* handout ([LMR_2.6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf))
+9. Ask students to recall that they calculated MAD values in the *How Far Apart?* handout ([LMR_U2_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf))
 during [Lesson 4](lesson4.md) of this unit.
 
 10. Show and discuss the formula for calculating the standard deviation of a dataset:
@@ -72,8 +72,8 @@ during [Lesson 4](lesson4.md) of this unit.
     is called the “sample estimate of the standard deviation.”)
 
 11. Guide the class to complete the *How Far Apart? (with standard deviation -- SD)* handout
-([LMR_2.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf)) to calculate standard deviations of the dotplots using the formula listed above.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf)</div>
+([LMR_U2_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L17.pdf)) to calculate standard deviations of the dotplots using the formula listed above.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L17.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L17.pdf)</div>
 
     <span style="color:grey">***Answers: Plot (a) – SD = 1.0847 candies; Plot (c) – SD = 1.3770 candies***</span>
 
@@ -107,13 +107,11 @@ values for the two plots in the handout.
 estimate the standard deviation for a few numerical distributions and explain the reasoning for
 their estimate. Load and view the atus data, then run the following functions one by one:
 
-    **> histogram(~sleep, data=atus, breaks=seq(0,1500,by=100),**
+    **> histogram(~sleep, data = atus, breaks = seq(0, 1500, by = 100), main = “Distribution of sleep in minutes”)**
 
-    **&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;main = “Distribution of sleep in minutes”)**
+    **> sleep_mean <- mean(~sleep, data = atus)**
 
-    **> sleep_mean<-mean(~sleep, data=atus)**
-
-    **> add_line(vline=sleep_mean)**
+    **> add_line(vline = sleep_mean)**
 
     <img src="../../img/21714.png" />
 
@@ -125,36 +123,36 @@ following sentence frame:
 
 16. Reveal the actual standard deviation by running the function:
 
-    **> sd(~sleep, data=atus)**
+    **> sd(~sleep, data = atus)**
 
 17. Choose a reporter from a student team that had a good approximation to explain their reasoning.
 
 18. Repeat this process with a few more numerical variables. Functions are provided below.
 
-    Household size
+    Household Activities
 
-    **> histogram(~household_size, data=atus, nint=13)**
+    **> histogram(~hh_activities, data = atus, nint = 13)**
 
-    **> household_mean<-mean(~household_size, data=atus)**
+    **> hh_activities_mean <- mean(~hh_activities, data = atus)**
 
-    **> add_line(vline=household_mean)**
+    **> add_line(vline = hh_activities_mean)**
 
-    “Household sizes typically vary from the mean by <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>people.”
+    “The time spent on household activities typically vary from the mean by <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>minutes.”
 
-    **> sd(~household_size, data=atus)**
+    **> sd(~hh_activities, data = atus)**
 
     Socializing
 
-    **> histogram(~socializing, data=atus, breaks=seq(0,2000,by=100))**
+    **> histogram(~socialize, data = atus, breaks = seq(0, 2000, by = 100))**
 
-    **> social_mean<-mean(~socializing, data=atus)**
+    **> social_mean<-mean(~socialize, data = atus)**
 
-    **> add_line(vline=social_mean)**
+    **> add_line(vline = social_mean)**
 
     “The time spent socializing (in minutes) typically varies from the mean by
     <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u>minutes.”
     
-    **> sd(~socializing, data=atus)**
+    **> sd(~socialize, data = atus)**
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the

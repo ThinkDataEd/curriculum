@@ -32,14 +32,14 @@ distributed.
 
     – <span style="color:firebrick;">**Is the distribution close to normal? Explain how you determined this. Describe the center and spread of the distribution.**</span>
 
-    – <span style="color:firebrick;">**Compute and write down the mean difference in the age of the *actual* survivors and the actual non-survivors.**</span>
+    – <span style="color:firebrick;">**Compute and write down the mean difference in the age of the *actual* survivors and the *actual* non-survivors.**</span>
 
 ###**Using the normal model**
 * Since the distribution of our ```diff``` variable appears normally distributed, we can use a
 normal model to estimate the probability of seeing differences that are more extreme than
 our actual data.
 
-    - <span style="color:firebrick;">**Draw a sketch of a normal curve. Label the mean age difference, based on your shuffles, and the actual age difference of survivors minus non-survivors from the actual data. Then shade in the areas, under normal the curve, that are *smaller* than the actual difference.**</span>
+* <span style="color:firebrick;">**Draw a sketch of a normal curve. Label the mean age difference, based on your shuffles, and the actual age difference of survivors minus non-survivors from the actual data. Then shade in the areas, under normal the curve, that are *smaller* than the actual difference.**</span>
 
 * <span style="color:midnightblue;">**Fill in the blanks to calculate the probability of an even smaller difference occurring than our actual difference using a normal model.</span>
 

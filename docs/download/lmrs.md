@@ -84,21 +84,21 @@
 
 [LMR_U2_L11.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)
 
-[LMR_2.14_Tangible Data Merging.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf)
+[LMR_U2_L15.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L15.pdf)
 
-[LMR_2.15_Normal Plots.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.15_Normal Plots.pdf)
+[LMR_U2_L16.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf)
 
-[LMR_2.16_How Far Apart SD.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.16_How Far Apart SD.pdf)
+[LMR_U2_L17.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L17.pdf)
 
 [LMR_Titanic_Strips.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf)
 
 [LMR_U2_Campaign_StressChill.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Campaign_StressChill.pdf)
 
-[LMR_U2_Design Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design Project.pdf)
+[LMR_U2_Design_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design_Project.pdf)
 
 [LMR_U2_Practicum_The_Summaries.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The_Summaries.pdf)
 
-[LMR_U2_Practicum_What Stresses Us.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_What Stresses Us.pdf)
+[LMR_U2_Practicum_What_Stresses_Us.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_What_Stresses_Us.pdf)
 
 [LMR_U2_Practicum_Win_Win_Win.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_Win_Win_Win.pdf)
 

@@ -5,11 +5,11 @@ Students will apply their learning of the first and second units of the curricul
 unit design project.
 
 ###**Materials:**
-1. *IDS Unit 2 – Design Project and Oral Presentation* ([LMR_U2_Design Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design Project.pdf))
+1. *IDS Unit 2 – Design Project and Oral Presentation* ([LMR_U2_Design_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design_Project.pdf))
 
-<center>**End of Unit 2 Design Project and Oral Presentation: Asking and Answering Statistical Questions of Our Own Data**</center>
+<center>**End of Unit 2 Design Project and Presentation: Asking and Answering Statistical Investigative Questions of Our Own Data**</center>
 
-Available data sets:
+Available datasets:
 
 1. Food Habits
 
@@ -19,7 +19,7 @@ Available data sets:
 
 4. Personality Color
 
-Your mission is to ask and answer a statistical question using at least one data set above.
+Your mission is to ask and answer a statistical investigative question using at least one dataset above.
 
 1. Your question must include a comparison of two distinct groups.
 
@@ -41,27 +41,29 @@ explanations:
 
 You will have 5 days to complete this project with your assigned partner. You need to:
 
-* ❏ Prepare an oral presentation (both partners need to participate) that includes:
+* ❏ Prepare an presentation (both partners need to participate) that includes:
 
-    * o A 4-slide, 5-minute presentation
+    * o A 4-slide, 5-minute presentation.
 
-    * o An explanation of why you think your statistical question is interesting.
+    * o An explanation of why you think your statistical investigative question is interesting.
 
     * o An interpretation of supporting plots and summaries that answer your question.
 
     * o A reasoning of whether you think the outcome might be due to chance.
 
-* ❏ Submit a 2 -4 page typed, double-spaced summary of your analysis.
+* ❏ Submit a 2-4 page typed, double-spaced summary of your analysis.
 
 *<u>Project Assignment Sequence:</u>*
 
-❏ Day 1: Decide on a statistical question with assigned partner; get approval from teacher
+❏ Day 1: Decide on a statistical investigative question with assigned partner.
 
-❏ Day 2: Working day for analysis – create plots and numerical summaries
+    ❏ Get approval from teacher.
 
-❏ Day 3: Working day for analysis – create presentation (4 slides maximum)
+❏ Day 2: Working day for analysis – create plots and numerical summaries.
 
-❏ Day 4: Presentations
+❏ Day 3: Working day for analysis – create presentation (4 slides maximum).
 
-❏ Day 5: Presentations    
+❏ Day 4: Presentations.
+
+❏ Day 5: Presentations.   
 

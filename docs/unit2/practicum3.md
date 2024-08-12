@@ -5,13 +5,13 @@ Students will use RStudio to make graphical representations or numerical summari
 and *Personality Color* data to answer research questions.
 
 ###**Materials:**
-1. *What Stresses Us? Practicum* ([LMR_U2_Practicum_What Stresses Us](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_What Stresses Us.pdf))
+1. *What Stresses Us? Practicum* ([LMR_U2_Practicum_What_Stresses_Us](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_What_Stresses_Us.pdf))
 
 <center>**Practicum**</center>
 
 <center>**What Stresses Us?**</center>
 
-We made a data set that combined our *Stress/Chill* data with our *Personality Color* data. You will use this
+We made a dataset that combined our *Stress/Chill* data with our *Personality Color* data. You will use this
 data to answer the following research questions:
 
 • Do color personalities really predict a person’s personality?

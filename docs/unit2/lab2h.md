@@ -13,7 +13,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – Easily compute probabilities.
 
-* In this lab, we'll look at some previous data sets to see if we can find data that are roughly
+* In this lab, we'll look at some previous datasets to see if we can find data that are roughly
 normally distributed.
 
 ###**The normal distribution**
@@ -50,7 +50,7 @@ normally distributed.
     distribution?**</span>
 
     – *Hint:* To help answer this question, try including the option ```fit = "normal"``` in the
-    histogram function. You might also try faceting by ```gender```.
+    histogram function. You might also try faceting by ```sex```.
 
 ###**Using normal models**
 * Data scientists like using normal models because it often resembles real data.

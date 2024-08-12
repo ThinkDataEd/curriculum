@@ -5,8 +5,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Putting data together**
 * In the labs so far, we've only ever looked at individual data files.
 
-* But often times, we gain additional insights by including additional information from a separate
-data set.
+    - But often times, we gain additional insights by including additional information from a separate dataset.
 
 * In this lab, we will learn how to merge information from our *personality color* data with our
 *stress/chill* data.
@@ -20,9 +19,9 @@ data set.
 
     *How do people's personality colors and/or sports participation affect their stress levels?*
 
-* We already have data about *personality color* and a separate data set about *stress*.
+* We already have data about *personality color* and a separate dataset about *stress*.
 
-    – What we don't have is a single data set with information from both ... yet.
+    – What we don't have is a single dataset with information from both ... yet.
 
 * We'll start then by strategizing how to merge our data together.
 
@@ -32,12 +31,12 @@ data set.
 * We can *stack* our datasets, that is, take one dataset's rows and add them to the bottom of the
 other dataset.
 
-* We can also *join* our data sets horizontally. This is where we take one dataset's columns and
+* We can also *join* our datasets horizontally. This is where we take one dataset's columns and
 add them to the end of the other dataset's columns based on matching an *ID* variable.
 
     – The *ID* variable will have entries that we use to *match* observations in both datasets.
 
-* <span style="color:firebrick;">**To answer the statistical question of interest, would it make more sense to *stack* or *join*
+* <span style="color:firebrick;">**To answer the research question, would it make more sense to *stack* or *join*
 our ```colors``` and ```stress``` data?**</span>
 
 ###**Finding variables in common:**
@@ -59,7 +58,7 @@ the exact same measurements.
     converting one to the other).
 
 * When *joining* data, we need to make sure that the *id* variable in our primary dataset matches to
-*one* and *only one* observation in the joining data.
+*one and only one* observation in the joining data.
 
     – Otherwise, ```R``` won't know which observation to match to.
 
@@ -68,7 +67,7 @@ the exact same measurements.
 
 * <span style="color:midnightblue;">**Start by ensuring that every ```user.id``` in the ```colors``` data is unique.**</span>
 
-    – <span style="color:midnightblue;">**If there's a duplicate, have your teacher remove the duplicate from your class' Web *Response Manager* and then re-*export*, *upload*, *import* your ```colors``` data.**</span>
+    – <span style="color:midnightblue;">**If there's a duplicate, have your teacher remove the duplicate from your class's Web Response Manager and then re-*export*, *upload*, *import* your ```colors``` data.**</span>
 
 * <span style="color:firebrick;">**After we add the data from *colors* to *stress*, how many rows should our merged data
 have? Write this number down.**</span>
@@ -81,7 +80,7 @@ both sets.
 
         merge(____, ____, by = "____")
 
-* <span style="color:midnightblue;">**```Assign``` this ```merged``` data set the name ```stress_colors```.**</span>
+* <span style="color:midnightblue;">**```Assign``` this ```merge```d dataset the name ```stress_colors```.**</span>
 
     – Make sure your data has the same number of observations that you wrote down on the
     previous slide.
@@ -91,9 +90,9 @@ both sets.
 
 * <span style="color:firebrick;">**Why didn't we stack the rows of data instead?**</span>
 
-* <span style="color:firebrick;">**What happens if you swap the order of the data sets in the ```merge``` function?**</span>
+* <span style="color:firebrick;">**What happens if you swap the order of the datasets in the ```merge``` function?**</span>
 
-* <span style="color:midnightblue;">**Fill in the blank below to save our ```stress_colors``` data for later use.**</span>
+* <span style="color:midnightblue;">**Use the code below to ```save``` our ```stress_colors``` data for later use.**</span>
 
         save(stress_colors, file = "stress_colors.rda")
 

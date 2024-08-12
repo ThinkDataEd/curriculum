@@ -6,9 +6,9 @@ Students will understand that a z-score can be used to measure how far - or how 
 ###**Materials:**
 1. Projector to display RStudio function
 
-2. *RScript with all of the functions in this lesson*
+2. RScript with all of the functions in this lesson
 
-3. *A ruler with centimeter marks on it*
+3. A ruler with centimeter marks on it
 
 ###**Vocabulary:**
 [z-score](../../vocabulary/unit2/#z-score "tells us how many standard deviations away from the mean an observation is"){ .md-button }
@@ -18,7 +18,7 @@ Students will understand that a z-score can be used to measure how far - or how 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    z-scores offer us a way to measure how extreme a value is, regardless of the units of measurement. Typically z-scores will range between -3 and +3, so values that are at or are more extreme than -3 or +3 standard deviations are considered extremely rare.
+    Z-scores offer us a way to measure how extreme a value is, regardless of the units of measurement. Typically z-scores will range between -3 and +3, so values that are at or are more extreme than -3 or +3 standard deviations are considered extremely rare.
 
 ###**Lesson:**
 1. Ask students to recall what they remember about normal distributions.
@@ -91,7 +91,7 @@ properties.
 
     <img src="../../img/21806.png" /width="300" height="50">
 
-8. Have students draw a number line with seven equally spaced intervals and label it “Baby birth weights in ounces.” Make sure students leave about 5 centimeters of space above the number line to draw a normal curve. Have students label the middle tick mark with the mean baby weight (round to the nearest tenth of an ounce=119.6 ounces). Then ask students:
+8. Have students draw a number line with seven equally spaced intervals and label it “Baby birth weights in ounces.” Make sure students leave about 5 centimeters of space above the number line to draw a normal curve. Have students label the middle tick mark with the mean baby weight (round to the nearest tenth of an ounce = 119.6 ounces). Then ask students:
 
     100. What weight is one standard deviation above the mean? <span style="color:grey">***Answer: A baby whose weight is 137.8 ounces is one standard deviation above the mean baby weight.***</span>
 
@@ -109,7 +109,7 @@ properties.
 
     <span style="color:grey">***Answer: In this sample of 1236 observations, there are 861 babies whose weights are one standard deviation from the mean, so 861/1236 = 0.697. This means that around 69.7% of the weights of the babies in this sample fall within one standard deviation from the mean baby weight. This is close to 68%, so it seems that the distribution of baby weights is approximately normally distributed.***</span>
 
-    <span style="color:grey">**<u>Note:</u>** If you continue this process for this sample, you will find that the distribution of baby weights is normally distributed as defined by the Empirical Rule. In this sample, 1171/1236 = 94.7% of the baby weights fall within two standard deviations of the mean, and 1229/1236 =99.4% of the baby weights fall within three standard deviations of the mean.</span>
+    **<u>Note:</u>** If you continue this process for this sample, you will find that the distribution of baby weights is normally distributed as defined by the Empirical Rule. In this sample, 1171/1236 = 94.7% of the baby weights fall within two standard deviations of the mean, and 1229/1236 =99.4% of the baby weights fall within three standard deviations of the mean.
 
 12. Now that it has been verified that a normal distribution is an appropriate model for this distribution,
 have students draw a normal curve above the number line. Suggested method to obtain a decent
@@ -145,27 +145,27 @@ means.
 
     <center><img src="https://latex.codecogs.com/gif.latex?z=\frac{x-\bar{x}}{s}" title="z=\frac{x-\bar{x}}{s}" /></center>
 
-16. Explain that z-scores answer the question: “How typical is x?” If x is the same as the typical value (the mean), then z = 0. If x is one standard deviation away from the mean, then z = -1 or +1. Remind students from the normal curve that as you move farther from the center (from the mean), there are fewer observations. Therefore, a large z-score is considered an unusual value.
+16. Explain that z-scores answer the question: “How typical is x?”. If x is the same as the typical value (the mean), then z = 0. If x is one standard deviation away from the mean, then z = -1 or +1. Remind students from the normal curve that as you move farther from the center (from the mean), there are fewer observations. Therefore, a large z-score is considered an unusual value.
 
 17. Have students calculate the z-score for a baby that weighs 100 ounces:  
     z = (100 - 119.6) / 18.2 = -1.08  
 Ask the class:
-    100. What does a negative z-score mean? <span style="color:grey">***A negative z-score means the x value is below
+    100. What does a negative z-score mean? <span style="color:grey">***Answer: A negative z-score means the x value is below
     the mean. This means that the weight is below average.***</span>
 
-    100. What does a positive z-score mean? <span style="color:grey">***A positive z-score means the x value is above
+    100. What does a positive z-score mean? <span style="color:grey">***Answer: A positive z-score means the x value is above
     the mean. This means that the weight is above average.***</span>
 
     100. What is the most negative z-score you think we will find? What is the most positive z-score?
-    <span style="color:grey">***Typically, values in a normal distribution rarely fall outside two or three standard deviations from the mean. For data derived from chance, we probably won’t see any values that are less than -3 or greater than +3.***</span>
+    <span style="color:grey">***Answer: Typically, values in a normal distribution rarely fall outside two or three standard deviations from the mean. For data derived from chance, we probably won’t see any values that are less than -3 or greater than +3.***</span>
 
-18. Ask students: “Where does a baby that weighs 100 ounces fall within the distribution of baby weights?” Have students find 100 ounces on the x-axis of the normal curve and draw a vertical line from the x-axis until it intersects the normal curve. Have them shade the area under the curve to the left of the vertical line.
+18. Ask students: “Where does a baby that weighs 100 ounces fall within the distribution of baby weights?”. Have students find 100 ounces on the x-axis of the normal curve and draw a vertical line from the x-axis until it intersects the normal curve. Have them shade the area under the curve to the left of the vertical line.
 
 19. Tell students that the shaded area represents a percentile in the distribution. A percentile is the exact value in which the desired proportion of observations lies below the specific value in a distribution. Use RStudio to calculate the percentile.
 
     **pnorm(100, mean = 119.6, sd = 18.2) = 0.140**
 
-20. Doctors report percentiles to describe a child's development compared to other children their age. For a baby that weighs 100 ounces, a doctor would report the following: “The baby is at the 14th percentile in weight.” This means that the baby weighs more than 14% of all babies.
+20. Doctors report percentiles to describe a child's development compared to other children their age. For a baby that weighs 100 ounces, a doctor would report the following: “The baby is at the 14th percentile in weight.” This means that the baby weighs more than 14% of all babies. This is between one and two standard deviations from the mean so there is no cause for concern with this baby's weight.
 
     <b>Note:</b> A z-score can also be used to calculate a percentile, but since a z-score is a standardized score, the mean of the distribution would be zero and the standard deviation would be one.
 

@@ -15,8 +15,6 @@ numerical summaries.
 
     *Is there any evidence to suggest that those who survived paid a higher fare than those who died?*
 
-* We will consider wealthier passengers to be those that paid a higher ```fare``` for their ticket.
-
 ###**The Titanic**
 * The Titanic was a ship that sank en route to the U.S.A. from England after hitting an Iceberg in
 1912.
@@ -58,7 +56,7 @@ in our data.**</span>
 * <span style="color:firebrick;">**Write up your answer as a statistical analysis. Create a plot and explain how the plot supports your conclusion. Be sure to also explain why shuffling your data is important.**</span>
 
 ###**Comparing Mean Fares**
-* What about if instead of calculating the median fare price for each group after a shuffle, we calculated the mean fare price and took the difference (mean_survivor – mean_victim).
+* What about if instead of calculating the median fare price for each group after a shuffle, we calculated the mean fare price and took the difference (mean_survivor – mean_victim)?
 
 * <span style="color:firebrick;">**If we did this 500 times, what do you predict the distribution of differences will look like?**</span>
 

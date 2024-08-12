@@ -31,7 +31,7 @@ RStudio.
 
 <ins>*Applied Computational Thinking Using RStudio:*</ins>
 
-• Use software to find the area under a Normal curve
+• Use software to find the area under a Normal curve.
 
 • Use software to compare sample distributions (with histograms, for example) with the
 Normal distribution and make a decision as to whether the distribution appears Normally
@@ -47,21 +47,18 @@ heights are Normally distributed. Using a Normal curve, we can find the probabil
 be a height of 6’ 2”.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used and how to work with it.
+1. Students will use mathematical vocabulary to explain Normal distributions and their attributes.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will compare and contrast standard deviation with mean absolute deviation (MAD).
 
-3. Students will use complex sentences to write informative short reports that use data science
-concepts and skills.
+3. Students will write informative short reports that use data science concepts and skills.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 <ins>*Data Files:*</ins>
 
-1. CDC data (*cdc*)
+1. CDC: ```data(cdc)```
 
-2. Titanic data (*titanic*)
+2. Titanic: ```data(titanic)```
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

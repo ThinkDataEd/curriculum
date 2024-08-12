@@ -4,13 +4,13 @@
 Students will learn how to merge two datasets and ask statistical investigative questions about the merged data.
 
 ###**Materials:**
-1. *Tangible Data Merging* file ([LMR_2.14_Tangible Data Merging](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf))
+1. *Tangible Data Merging* file ([LMR_U2_L15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L15.pdf))
 
-    **Advanced preparation required** (see Step 4 of lesson)
+    **Advance preparation required:** Needs to be cut into strips (see step 5 of lesson)
 
 2. Copy paper in two colors
 
-    **Advanced preparation required** (see Step 4 of lesson)
+    **Advance preparation required:** To distinguish between Dataset 1 & 2 (see step 5 of lesson)
 
 ###**Vocabulary:**
 [merge](../../vocabulary/unit2/#merge "to come together or combine"){ .md-button }
@@ -33,7 +33,7 @@ actually differ.
 statistical investigative questions of interest with their teams and record their questions in their DS journals.
 Encourage them to think of two- and three-variable questions.
 
-3. Conduct a share out of some of the questions students came up with. Examples include: <span style="color:grey">***(1) Do
+3. Conduct a share out of some of the questions students came up with. <span style="color:grey">***Examples include: (1) Do
 people whose predominant color is Gold tend to stress more than people whose
 predominant color is Blue? (2) Is there a difference between the sorts of things that stress
 out the different personality colors?***</span>
@@ -41,20 +41,20 @@ out the different personality colors?***</span>
 4. In order to answer the above questions, we will need to merge our class’s 2 datasets together
 (*Personality Color* and *Stress/Chill*). In order to do this, we will be practicing how to merge datasets today.
 
-5. Print out the material from the *Tangible Data Merging* file ([LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf)). Use a different color of
+5. Print out the material from the *Tangible Data Merging* file ([LMR_U2_L15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L15.pdf)). Use a different color of
 paper for each of the two datasets. For example, Data Set 1 could be on plain white paper and
 Data Set 2 could be on blue paper. Cut the paper by creating horizontal strips of each observation
-of data. For example, from the screenshot below, of the first page of Data Set 1, you would create 12 different strips of paper, one
+of data. For example, from the screenshot below, of the first page of Dataset 1, you would create 12 different strips of paper, one
 for each observation.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.14_Tangible Data Merging.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L15.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L15.pdf)</div>
 
 
 6. Hand each student in the class a strip of paper. Ask them to try to find someone with the other
 dataset (i.e., a person with a different colored strip of paper) that they can “match up,” or **merge**,
 with.
 
-7. For example, a student with the first row of data listed below from Data Set 1 might want to match
-up with the second row of data listed below from Data Set 2 because a person who is 21 has
+7. For example, a student with the first row of data listed below from Dataset 1 might want to match
+up with the second row of data listed below from Dataset 2 because a person who is 21 has
 probably graduated high school.
 
     |**Birth Month**| **Zip Code**| **Age**| **ID Number**| **Favorite Movie**|
@@ -70,20 +70,20 @@ in order to match up the data. They should realize that only 3 of the variables 
 both datasets: *Birth Month*, *Zip Code*, and *ID Number*.
 
     100. Since multiple people have the same *Birth Month*, discuss why this may not be the best
-    variable to merge with. <span style="color:grey">***Multiple people are born in January, so we would have no
+    variable to merge with. <span style="color:grey">***Answer: Multiple people are born in January, so we would have no
     way of differentiating between those people.***</span>
 
     100. The same is true for the *Zip Codes* variable. Although there are less repeats with *Zip
     Codes*, we still see some overlap between observations.
 
-    100. So, the only *UNIQUE* identifier in both data sets is *ID Number*. So the students should
-    end up in pairs at the end of the exercise – a student from Data Set 1 is matched with the
-    student from Data Set 2 that has the same *ID Number*.
+    100. So, the only *UNIQUE* identifier in both datasets is *ID Number*. So the students should
+    end up in pairs at the end of the exercise – a student from Dataset 1 is matched with the
+    student from Dataset 2 that has the same *ID Number*.
 
 9. Have the students write about the experience of tangible data merging in their DS journals and
 ask:
 
-    100. Why is it important to have at least one unique identifier for both datasets? <span style="color:grey">***It is the only
+    100. Why is it important to have at least one unique identifier for both datasets? <span style="color:grey">***Answer: It is the only
     way to know which information belongs to which person. We want to make sure we
     do not match up observations (in this case, people) incorrectly because that will
     compromise any analysis we do later.***</span>
@@ -95,7 +95,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-Students will collect data for one more day for the *Stress/Chill* campaign either through the UCLA [IDS
+Students will collect data for one more day for the *Stress/Chill* campaign either through the [IDS
 UCLA](../download/app.md) App or via web browser at https://portal.idsucla.org
 
 [<u>***LAB 2G: Getting it Together***</u>](lab2g.md)
