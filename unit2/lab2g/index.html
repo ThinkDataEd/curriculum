@@ -3581,10 +3581,9 @@
 <ul>
 <li>
 <p>In the labs so far, we've only ever looked at individual data files.</p>
-</li>
-<li>
-<p>But often times, we gain additional insights by including additional information from a separate
-data set.</p>
+<ul>
+<li>But often times, we gain additional insights by including additional information from a separate dataset.</li>
+</ul>
 </li>
 <li>
 <p>In this lab, we will learn how to merge information from our <em>personality color</em> data with our
@@ -3604,8 +3603,8 @@ data set.</p>
 <p><em>How do people's personality colors and/or sports participation affect their stress levels?</em></p>
 </li>
 <li>
-<p>We already have data about <em>personality color</em> and a separate data set about <em>stress</em>.</p>
-<p>– What we don't have is a single data set with information from both ... yet.</p>
+<p>We already have data about <em>personality color</em> and a separate dataset about <em>stress</em>.</p>
+<p>– What we don't have is a single dataset with information from both ... yet.</p>
 </li>
 <li>
 <p>We'll start then by strategizing how to merge our data together.</p>
@@ -3621,12 +3620,12 @@ data set.</p>
 other dataset.</p>
 </li>
 <li>
-<p>We can also <em>join</em> our data sets horizontally. This is where we take one dataset's columns and
+<p>We can also <em>join</em> our datasets horizontally. This is where we take one dataset's columns and
 add them to the end of the other dataset's columns based on matching an <em>ID</em> variable.</p>
 <p>– The <em>ID</em> variable will have entries that we use to <em>match</em> observations in both datasets.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>To answer the statistical question of interest, would it make more sense to <em>stack</em> or <em>join</em>
+<p><span style="color:firebrick;"><strong>To answer the research question, would it make more sense to <em>stack</em> or <em>join</em>
 our <code>colors</code> and <code>stress</code> data?</strong></span></p>
 </li>
 </ul>
@@ -3656,7 +3655,7 @@ converting one to the other).</p>
 </li>
 <li>
 <p>When <em>joining</em> data, we need to make sure that the <em>id</em> variable in our primary dataset matches to
-<em>one</em> and <em>only one</em> observation in the joining data.</p>
+<em>one and only one</em> observation in the joining data.</p>
 <p>– Otherwise, <code>R</code> won't know which observation to match to.</p>
 </li>
 </ul>
@@ -3667,7 +3666,7 @@ converting one to the other).</p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Start by ensuring that every <code>user.id</code> in the <code>colors</code> data is unique.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>If there's a duplicate, have your teacher remove the duplicate from your class' Web <em>Response Manager</em> and then re-<em>export</em>, <em>upload</em>, <em>import</em> your <code>colors</code> data.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>If there's a duplicate, have your teacher remove the duplicate from your class's Web Response Manager and then re-<em>export</em>, <em>upload</em>, <em>import</em> your <code>colors</code> data.</strong></span></p>
 </li>
 <li>
 <p><span style="color:firebrick;"><strong>After we add the data from <em>colors</em> to <em>stress</em>, how many rows should our merged data
@@ -3686,7 +3685,7 @@ both sets.</p>
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong><code>Assign</code> this <code>merged</code> data set the name <code>stress_colors</code>.</strong></span></p>
+<p><span style="color:midnightblue;"><strong><code>Assign</code> this <code>merge</code>d dataset the name <code>stress_colors</code>.</strong></span></p>
 <p>– Make sure your data has the same number of observations that you wrote down on the
 previous slide.</p>
 </li>
@@ -3700,10 +3699,10 @@ previous slide.</p>
 <p><span style="color:firebrick;"><strong>Why didn't we stack the rows of data instead?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What happens if you swap the order of the data sets in the <code>merge</code> function?</strong></span></p>
+<p><span style="color:firebrick;"><strong>What happens if you swap the order of the datasets in the <code>merge</code> function?</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blank below to save our <code>stress_colors</code> data for later use.</strong></span></p>
+<p><span style="color:midnightblue;"><strong>Use the code below to <code>save</code> our <code>stress_colors</code> data for later use.</strong></span></p>
 <pre><code>save(stress_colors, file = "stress_colors.rda")
 </code></pre>
 </li>

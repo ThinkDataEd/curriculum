@@ -3556,10 +3556,10 @@
 <p>Projector to display RStudio function</p>
 </li>
 <li>
-<p><em>RScript with all of the functions in this lesson</em></p>
+<p>RScript with all of the functions in this lesson</p>
 </li>
 <li>
-<p><em>A ruler with centimeter marks on it</em></p>
+<p>A ruler with centimeter marks on it</p>
 </li>
 </ol>
 <h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
@@ -3569,7 +3569,7 @@
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
 <div class="admonition note">
 <p class="admonition-title">Essential Concepts: </p>
-<p>z-scores offer us a way to measure how extreme a value is, regardless of the units of measurement. Typically z-scores will range between -3 and +3, so values that are at or are more extreme than -3 or +3 standard deviations are considered extremely rare.</p>
+<p>Z-scores offer us a way to measure how extreme a value is, regardless of the units of measurement. Typically z-scores will range between -3 and +3, so values that are at or are more extreme than -3 or +3 standard deviations are considered extremely rare.</p>
 </div>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
 <ol>
@@ -3642,7 +3642,7 @@ deviations of the mean</p>
 <p><img src="../../img/21806.png" /width="300" height="50"></p>
 </li>
 <li>
-<p>Have students draw a number line with seven equally spaced intervals and label it “Baby birth weights in ounces.” Make sure students leave about 5 centimeters of space above the number line to draw a normal curve. Have students label the middle tick mark with the mean baby weight (round to the nearest tenth of an ounce=119.6 ounces). Then ask students:</p>
+<p>Have students draw a number line with seven equally spaced intervals and label it “Baby birth weights in ounces.” Make sure students leave about 5 centimeters of space above the number line to draw a normal curve. Have students label the middle tick mark with the mean baby weight (round to the nearest tenth of an ounce = 119.6 ounces). Then ask students:</p>
 <ol>
 <li>
 <p>What weight is one standard deviation above the mean? <span style="color:grey"><strong><em>Answer: A baby whose weight is 137.8 ounces is one standard deviation above the mean baby weight.</em></strong></span></p>
@@ -3663,7 +3663,7 @@ deviations of the mean</p>
 <p>Use RStudio to confirm if indeed the distribution of baby weights is approximately normal.</p>
 <p><strong>one_sd_wt &lt;- filter(Gestation, wt &gt; 101.4, wt &lt; 137.8)</strong></p>
 <p><span style="color:grey"><strong><em>Answer: In this sample of 1236 observations, there are 861 babies whose weights are one standard deviation from the mean, so 861/1236 = 0.697. This means that around 69.7% of the weights of the babies in this sample fall within one standard deviation from the mean baby weight. This is close to 68%, so it seems that the distribution of baby weights is approximately normally distributed.</em></strong></span></p>
-<p><span style="color:grey"><strong><u>Note:</u></strong> If you continue this process for this sample, you will find that the distribution of baby weights is normally distributed as defined by the Empirical Rule. In this sample, 1171/1236 = 94.7% of the baby weights fall within two standard deviations of the mean, and 1229/1236 =99.4% of the baby weights fall within three standard deviations of the mean.</span></p>
+<p><strong><u>Note:</u></strong> If you continue this process for this sample, you will find that the distribution of baby weights is normally distributed as defined by the Empirical Rule. In this sample, 1171/1236 = 94.7% of the baby weights fall within two standard deviations of the mean, and 1229/1236 =99.4% of the baby weights fall within three standard deviations of the mean.</p>
 </li>
 <li>
 <p>Now that it has been verified that a normal distribution is an appropriate model for this distribution,
@@ -3702,7 +3702,7 @@ means.</p>
 <p><center><img src="https://latex.codecogs.com/gif.latex?z=\frac{x-\bar{x}}{s}" title="z=\frac{x-\bar{x}}{s}" /></center></p>
 </li>
 <li>
-<p>Explain that z-scores answer the question: “How typical is x?” If x is the same as the typical value (the mean), then z = 0. If x is one standard deviation away from the mean, then z = -1 or +1. Remind students from the normal curve that as you move farther from the center (from the mean), there are fewer observations. Therefore, a large z-score is considered an unusual value.</p>
+<p>Explain that z-scores answer the question: “How typical is x?”. If x is the same as the typical value (the mean), then z = 0. If x is one standard deviation away from the mean, then z = -1 or +1. Remind students from the normal curve that as you move farther from the center (from the mean), there are fewer observations. Therefore, a large z-score is considered an unusual value.</p>
 </li>
 <li>
 <p>Have students calculate the z-score for a baby that weighs 100 ounces:<br />
@@ -3710,28 +3710,28 @@ means.</p>
 Ask the class:</p>
 <ol>
 <li>
-<p>What does a negative z-score mean? <span style="color:grey"><strong><em>A negative z-score means the x value is below
+<p>What does a negative z-score mean? <span style="color:grey"><strong><em>Answer: A negative z-score means the x value is below
 the mean. This means that the weight is below average.</em></strong></span></p>
 </li>
 <li>
-<p>What does a positive z-score mean? <span style="color:grey"><strong><em>A positive z-score means the x value is above
+<p>What does a positive z-score mean? <span style="color:grey"><strong><em>Answer: A positive z-score means the x value is above
 the mean. This means that the weight is above average.</em></strong></span></p>
 </li>
 <li>
 <p>What is the most negative z-score you think we will find? What is the most positive z-score?
-<span style="color:grey"><strong><em>Typically, values in a normal distribution rarely fall outside two or three standard deviations from the mean. For data derived from chance, we probably won’t see any values that are less than -3 or greater than +3.</em></strong></span></p>
+<span style="color:grey"><strong><em>Answer: Typically, values in a normal distribution rarely fall outside two or three standard deviations from the mean. For data derived from chance, we probably won’t see any values that are less than -3 or greater than +3.</em></strong></span></p>
 </li>
 </ol>
 </li>
 <li>
-<p>Ask students: “Where does a baby that weighs 100 ounces fall within the distribution of baby weights?” Have students find 100 ounces on the x-axis of the normal curve and draw a vertical line from the x-axis until it intersects the normal curve. Have them shade the area under the curve to the left of the vertical line.</p>
+<p>Ask students: “Where does a baby that weighs 100 ounces fall within the distribution of baby weights?”. Have students find 100 ounces on the x-axis of the normal curve and draw a vertical line from the x-axis until it intersects the normal curve. Have them shade the area under the curve to the left of the vertical line.</p>
 </li>
 <li>
 <p>Tell students that the shaded area represents a percentile in the distribution. A percentile is the exact value in which the desired proportion of observations lies below the specific value in a distribution. Use RStudio to calculate the percentile.</p>
 <p><strong>pnorm(100, mean = 119.6, sd = 18.2) = 0.140</strong></p>
 </li>
 <li>
-<p>Doctors report percentiles to describe a child's development compared to other children their age. For a baby that weighs 100 ounces, a doctor would report the following: “The baby is at the 14th percentile in weight.” This means that the baby weighs more than 14% of all babies.</p>
+<p>Doctors report percentiles to describe a child's development compared to other children their age. For a baby that weighs 100 ounces, a doctor would report the following: “The baby is at the 14th percentile in weight.” This means that the baby weighs more than 14% of all babies. This is between one and two standard deviations from the mean so there is no cause for concern with this baby's weight.</p>
 <p><b>Note:</b> A z-score can also be used to calculate a percentile, but since a z-score is a standardized score, the mean of the distribution would be zero and the standard deviation would be one.</p>
 <p><strong>pnorm(-1.08, mean = 0, sd = 1) = 0.140</strong></p>
 </li>
