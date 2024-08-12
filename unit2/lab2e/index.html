@@ -3608,11 +3608,10 @@
 <h3 id="playing-with-permutations"><strong>Playing with permutations</strong></h3>
 <ul>
 <li>
-<p><em>Slasher</em> films are notoriously gory and are said to contain recurring biases.</p>
-<p>– One such bias, is that women in slasher films are more likely to survive than men.</p>
+<p>There is a common belief that women in <em>slasher</em> films are more likely to survive than men.</p>
 </li>
 <li>
-<p>This lab will focus on the statistical question: <em>Are women in slasher films more likely to
+<p>This lab will focus on the statistical investigative question: <em>Are women in slasher films more likely to
 survive until the end of the film than men?</em></p>
 </li>
 <li>
@@ -3685,7 +3684,7 @@ random shuffling.</p>
 <h3 id="do-the-shuffle"><strong>Do the shuffle!</strong></h3>
 <ul>
 <li>
-<p>When we shuffle data, we use our original data set as a starting point.</p>
+<p>When we shuffle data, we use our original dataset as a starting point.</p>
 <p>– <span style="color:firebrick;"><strong>Run the following and write down the resulting table on a piece of paper.</strong></span></p>
 <pre><code>tally(~survival | gender, data = slasher)
 </code></pre>
@@ -3693,8 +3692,7 @@ random shuffling.</p>
 <li>
 <p><span style="color:firebrick;"><strong>Now run the following to randomly reassign each <code>survival</code> status to each observation.
 Compare the resulting table to the one you wrote down.</strong></span></p>
-<pre><code>tally(~shuffle(survival) | gender,
-    data = slasher)
+<pre><code>tally(~shuffle(survival) | gender, data = slasher)
 </code></pre>
 </li>
 </ul>
@@ -3756,8 +3754,7 @@ to the differences in our shuffled data.</p>
 <p>To compute the differences for each shuffle we can use the <code>mutate</code> function.</p>
 <p>– <span style="color:midnightblue;"><strong>Fill in the blanks to add a new column that contains the difference between <code>Survives.Female</code> and
 <code>Survives.Male</code> to our <code>shuffled_outcomes</code> data.</strong></span></p>
-<pre><code>    shuffled_outcomes &lt;- mutate(shuffled_outcomes,
-            diff = ____ - ____)
+<pre><code>    shuffled_outcomes &lt;- mutate(shuffled_outcomes, diff = ____ - ____)
 </code></pre>
 </li>
 </ul>
