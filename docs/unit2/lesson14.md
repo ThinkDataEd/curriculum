@@ -6,11 +6,13 @@ They will understand that these differences are usually small.
 
 ###**Materials:**
 
-1. [*LMR_Titanic Strips*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic Strips.pdf)
+1. [*LMR_Titanic_Strips*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf)
 
-    **Advanced preparation required** (see Step 8 of lesson)
+    <u>**Advance preparation required:**</u> Cut strips based on number of students (see step 8 in lesson)
 
 2. Poster paper
+
+    <u>**Note:**</u> It may be helpful to have the x-axis scale pre-drawn on posters (-£30 to £30)
 
 3. Markers
 
@@ -50,15 +52,15 @@ much on your age, gender, and wealth.
 7. Inform the students that we are going to look at whether the amount of money a passenger paid
 for his/her cabin (the fare price) had anything to do with whether or not he/she survived.
 
-8. Each student will need a strip from the [*LMR_Titanic Strips*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic Strips.pdf) file—see below for instructions.
+8. Each student will need a strip from the [*LMR_Titanic_Strips*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf) file—see below for instructions.
 
-    **Advanced preparation required:**
+    **Advance preparation required:**
 
     The Titanic Strips LMR contains data from 40 actual passengers on the titanic. Each strip
     represents the data from one passenger: the left hand side shows the fare paid and right hand
     side contains the survival information of that passenger after the collision. Cut the LMR into strips
     such that the fare price is attached to the survivor status for each of the 40 observations.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic Strips.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_Titanic Strips](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic Strips.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_Titanic_Strips](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf)</div>
 
 9. 40 strips were created for large classes. If your class has less than 40 students, assign the
 students to two groups such that roughly 40% of them are in the survivor group (15/40 = 37.5% ≈
@@ -98,9 +100,9 @@ the real data and are considered representative of the 800 passengers.
 
     100. Based on the data from our dotplots, do you think rich people were more likely to
     survive? In other words, did passengers who paid more for their tickets have a better
-    chance of survival? <span style="color:grey">***Yes, there is evidence that rich passengers survived more often
+    chance of survival? <span style="color:grey">***Answer: Yes, there is evidence that rich passengers survived more often
     than poorer passengers. The median difference between the fare prices of the
-    survivors and the victims is £13.00 (see Step 13). Most survivors had higher fare
+    survivors and the victims is £13.00 (see step 13 above). Most survivors had higher fare
     prices than the victims, so the distribution of survivor fares is shifted to the right
     and is more right-skewed.***</span>
 
@@ -115,12 +117,12 @@ victim). Collect only the outcomes and randomly shuffle them. Students will keep
 
 18. Ask the students:
 
-    100. Why do we shuffle the survivor/victim strips and not the fare strips? <span style="color:grey">***We want to know if
+    100. Why do we shuffle the survivor/victim strips and not the fare strips? <span style="color:grey">***Answer: We want to know if
     the price someone paid for his/her ticket affects whether or not he/she survived.
     So, when we shuffle, we assume that fare price has nothing to do with survival, so
     the prices should be irrelevant.***</span>
 
-    100. What do you think the median fare difference of our shuffled groups will be? <span style="color:grey">***The median
+    100. What do you think the median fare difference of our shuffled groups will be? <span style="color:grey">***Answer: The median
     fare difference of the shuffled groups should be close to 0, meaning that there
     should be NO difference in fare price for the survivors and the victims. Everyone
     would have the same chances of surviving, regardless of their ticket price.***</span>
@@ -162,10 +164,10 @@ mean that there is a “real” difference between groups. In this case, a big d
 that the rich passengers were more likely to survive. And a small difference might mean that
 survival was just a matter of plain luck.
 
-25. Repeat Steps 17 – 23 a few more times (depending on how much class time you have available).
+25. Repeat Steps 17–23 from above a few more times (depending on how much class time you have available).
 
 26. In pairs, ask students to discuss whether they think the real difference in median fare prices they
-calculated in Step 13 (£13.00 if all cards were used) is small or large. <span style="color:grey">***Answers will vary by
+calculated in step 13 above (£13.00 if all cards were used) is small or large. <span style="color:grey">***Answers will vary by
 class. Guide students to look at the MAD value of the distribution of differences in median
 fares.***</span>
 
@@ -184,7 +186,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-For the next 3 days, students will collect data for the *Stress/Chill* campaign either through the UCLA [IDS
+For the next 3 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
 UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 [<u>***LAB 2F: The Titanic Shuffle***</u>](lab2f.md)

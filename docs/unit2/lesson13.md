@@ -31,13 +31,13 @@ between two groups.
 
 2. Inform students that you will be monitoring their data collection. Ask:
 
-    100. Who has collected the most data so far? *See User List and sort by Total.*
+    100. Who has collected the most data so far? <span style="color:grey">***See User List and sort by Total.***</span>
 
-    100. How many active users are there? How many inactive users are there? *Click on pie chart.*
+    100. How many active users are there? How many inactive users are there? <span style="color:grey">***Click on pie chart.***</span>
 
-    100. How many responses were submitted yesterday and today? *See Total Responses.*
+    100. How many responses were submitted yesterday and today? <span style="color:grey">***See Total Responses.***</span>
 
-    100. How many responses have been shared? How many remain private? *Click on pie chart.*
+    100. How many responses have been shared? How many remain private? <span style="color:grey">***Click on pie chart.***</span>
 
     100. Using TPS, ask students to think about what they can do to increase their data collection.
 
@@ -47,10 +47,7 @@ between two groups.
 possibility, prospect, expectation, unintentional, unplanned. The actual definition of
 chance is “a possibility of something happening.”***</span>
 
-5. To expand on the flow chart from [Lesson 9](lesson9.md) (chance → probability → simulations), explain that
-we can use **simulations** to show that sometimes, when we think two groups are different, the
-difference is really just because of chance, or **randomness**, and does not mean anything. This
-brings us back to “chance” in the flow chart.
+5. Explain that we can use **simulations** to show that sometimes, when we think two groups are different, the difference is really just because of chance, or **randomness**, and does not mean anything.
 
 6. Remind students that a simulation is a model for creating random outcomes. Randomness means
 that something just happens without a specific order.
@@ -66,11 +63,11 @@ the students record these situations in their DS journals. Some examples include
 
     • <span style="color:grey">***UCLA football players are better athletes than USC football players.***</span>
 
-    • <span style="color:grey">***You and a friend flipped a coin 10 times, and you got more "heads."***</span>
+    • <span style="color:grey">***You and a friend flipped a coin 10 times, and you got more "heads".***</span>
 
 8. Then, ask students to write next to each situation whether they think the differences are either
-real or due to chance because sometimes differences between two groups are real, but
-sometimes they might just be due to chance, and they will be learning ways to tell the difference.
+real or due to chance. Sometimes differences between two groups are real, but
+sometimes they might just be due to chance, and they will be learning ways to tell the difference. <span style="color:grey">***Answers will vary but the purpose here is to have a discussion about student perceptions.***</span>
 
 9. Explain to the class that we are interested in finding out who will survive by the end of a horror
 movie. Ask the students:
@@ -85,15 +82,15 @@ lesson.
 
 12. Explain that data from horror movies (sometimes called slasher films) were collected of 485
 characters from 50 films. For each character, 2 variables were recorded: Gender and Survival.
-The values for Gender were “Male” and “Female.” The values for Survival were “Dies” and
+The values for Gender were “Female” and "Male". The values for Survival were “Dies” and
 “Survives.”
 
-    |          | Gender |      |   |   |
-    |----------|:------:|------|---|---|
-    | Survival | Female | Male |   |   |
-    | Dies     | 172    | 228  |   |   |
-    | Survives | 50     | 35   |   |   |
-    | Total    | 222    | 263  |   |   |
+    |          | Gender |      |
+    |----------|:------:|------|
+    | Survival | Female | Male |
+    | Dies     | 172    | 228  |
+    | Survives | 50     | 35   |
+    | Total    | 222    | 263  |
 
     Notice that there were more male characters than female characters and that most characters in slasher films do not survive.
 
@@ -107,7 +104,7 @@ males.
 14. The percent of females who survived by the end of a horror movie was about **23%**, and the
 percent of males who survived by the end of a horror movie was about **13%**. Ask the students:
 
-    100. Is this what you expected? (Refer back to the discussion from Step 9.) <span style="color:grey">***Answers will
+    100. Is this what you expected (refer back to the discussion from step 9 above)? <span style="color:grey">***Answers will
     vary by class. If students thought males would survive more often, then these
     results would be unexpected. If students thought females would survive more
     often, then these results would be exactly what they expected. If students thought
@@ -125,12 +122,12 @@ percent of males who survived by the end of a horror movie was about **13%**. As
 data set is big or small. This will help them determine if there really is a difference in survival rates
 for males versus females, or if the 10% difference was just due to chance.
 
-16. Split the class into two groups, 46% of them on one side of the room and the other 54% on the other side of the room. Tell the smaller group they have been assigned to play female characters in the horror movie (regardless of their gender) and tell the larger group that they have been assigned to play male characters in the horror movie (regardless of their gender). Once those groups have been created, have the class calculate the number of students in each group that would have survived a horror film using the actual proportions given in Step 14. 
+16. Split the class into two groups, 46% of them on one side of the room and the other 54% on the other side of the room. Tell the smaller group they have been assigned to play female characters in the horror movie (regardless of their gender) and tell the larger group that they have been assigned to play male characters in the horror movie (regardless of their gender). Once those groups have been created, have the class calculate the number of students in each group that would have survived a horror film using the actual proportions given in step 14 above. 
 
     <span style="color:grey"><u>***For example:***</u></span>
     <span style="color:grey"><u>***For a class of 30 students:***</u></span>
 
-    • <span style="color:grey">**46% of 30 (0.46x30)  ≈ 14 students representing female characters. **</span>
+    • <span style="color:grey">**46% of 30 (0.46x30) ≈ 14 students representing female characters. **</span>
 
     • <span style="color:grey">**Of those 14 female characters, 23%, or 3 (0.23x14 ≈ 3), are survivors. **</span>
 
@@ -166,9 +163,9 @@ proportion of the survivors.
 
 21. On the board, create a table to display the proportions of survivors for each gender, and include a
 column for the difference (female survivors – male survivors). Fill in the table with the values the
-students found in Step 20. **<u>Note:</u>** The first row has been filled in with the example data from
+students found in step 20 above. <br> **<u>Note:</u>** The first row has been filled in with the example data from
 above BEFORE the shuffles have taken place. Exact numbers were not used so that the
-proportions would match the actual horror movie data set.
+proportions would match the actual horror movie dataset.
 
     | **# of Female Survivors** | **# of Male Survivors** | **Proportion of Female Survivors** | **Proportion of Male Survivors** | **Difference in Proportions (Female – Male)** |
     |-----------------------|---------------------|--------------------------------|------------------------------|-------------------------------------------|
@@ -183,14 +180,14 @@ represent the actual difference in gender survival rates in real horror movies (
 
     <img src="../../img/21323.png" />
 
-24. Using the information from Steps 20 and 21, place a dot at the corresponding value for the
+24. Using the information from steps 20 and 21 above, place a dot at the corresponding value for the
 shuffled data’s difference in proportions. Ask the students:
 
-    100. How does this difference compare to the actual data set’s difference of 10%? <span style="color:grey">***Answers
+    100. How does this difference compare to the actual dataset’s difference of 10%? <span style="color:grey">***Answers
     will vary by class. Most likely, the difference in proportions will be much smaller
     than 10%. In fact, the difference in proportions will be centered around 0.***</span>
 
-25. Repeat Steps 19 – 24 a few more times (depending on how much class time you have available).
+25. Repeat steps 19–24 from above a few more times (depending on how much class time you have available).
 
 26. Ask the students to record their responses to the following questions:
     
@@ -222,7 +219,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-For the next 5 days, students will collect data for the *Stress/Chill* campaign either through the UCLA [IDS
+For the next 5 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
 UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 [<u>***LAB 2E: The Horror Movie Shuffle***</u>](lab2e.md)

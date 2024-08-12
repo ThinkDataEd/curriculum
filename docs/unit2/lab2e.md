@@ -3,11 +3,9 @@
 Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Playing with permutations**
-* *Slasher* films are notoriously gory and are said to contain recurring biases.
+* There is a common belief that women in *slasher* films are more likely to survive than men.
 
-    – One such bias, is that women in slasher films are more likely to survive than men.
-
-* This lab will focus on the statistical question: *Are women in slasher films more likely to
+* This lab will focus on the statistical investigative question: *Are women in slasher films more likely to
 survive until the end of the film than men?*
 
 * To answer this question, we'll learn how to use permuted data to gauge how likely an event
@@ -68,7 +66,7 @@ conclude that the difference didn't just happen by chance.
 *chance*.
 
 ###**Do the shuffle!**
-* When we shuffle data, we use our original data set as a starting point.
+* When we shuffle data, we use our original dataset as a starting point.
 
     – <span style="color:firebrick;">**Run the following and write down the resulting table on a piece of paper.**</span>
 
@@ -77,8 +75,7 @@ conclude that the difference didn't just happen by chance.
 * <span style="color:firebrick;">**Now run the following to randomly reassign each ```survival``` status to each observation.
 Compare the resulting table to the one you wrote down.**</span>
 
-        tally(~shuffle(survival) | gender,
-            data = slasher)
+        tally(~shuffle(survival) | gender, data = slasher)
 
 ###**Let's compare ...**
 * <span style="color:firebrick;">**How many people, in total, survived the slasher film before shuffling? How many
@@ -126,8 +123,7 @@ to the differences in our shuffled data.
     – <span style="color:midnightblue;">**Fill in the blanks to add a new column that contains the difference between ```Survives.Female``` and
     ```Survives.Male``` to our ```shuffled_outcomes``` data.**</span>
 
-            shuffled_outcomes <- mutate(shuffled_outcomes,
-                    diff = ____ - ____)
+            shuffled_outcomes <- mutate(shuffled_outcomes, diff = ____ - ____)
 
 ###**Time to decide**
 * <span style="color:midnightblue;">**Create a ```histogram``` of the ```difference```s in our ```shuffled_outcomes``` data. Based on your plot, answer the following:**</span>

@@ -39,7 +39,7 @@ this time or not.
 
 **When?** Surveys are taken two to three times per day at pre-determined randomly selected times.
 
-**How Long?** About two weeks. Ideally, two of these days include a weekend.
+**How long?** About two weeks. Ideally, two of these days include a weekend.
 
 ###**4. Motivation:**
 

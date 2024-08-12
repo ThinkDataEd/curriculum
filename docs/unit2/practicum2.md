@@ -4,7 +4,7 @@
 Students will create and combine simulations to assess probabilities.
 
 ###**Materials:**
-1. Win Win Win Practicum ([LMR_U2_Practicum_Win Win Win](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_Win Win Win.pdf))
+1. Win Win Win Practicum ([LMR_U2_Practicum_Win_Win_Win](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_Win_Win_Win.pdf))
 
 <center>**Practicum**</center>
 
@@ -21,7 +21,7 @@ The California lottery has a game called the *Daily 3*.
 • To win the maximum amount of money, players must correctly choose the numbers that are
 drawn, in order.
 
-Based on what you learned in [*Lab 2C*](lab2c.md) and [*Lab 2D*](lab2d.md) (*Which Song Plays Next* and *Queue it Up!*) and using
+Based on what you learned in [*Lab 2C*](lab2c.md) and [*Lab 2D*](lab2d.md) (*Which song plays next?* and *Queue it up!*) and using
 the rules of the *Daily 3*, you need to:
 
 1. Write down the code to correctly simulate the *Daily 3* once.

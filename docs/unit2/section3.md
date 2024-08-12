@@ -29,15 +29,15 @@ Understand that a chance model serves as an indicator of whether or not associat
 are due to chance (understand why a plot might appear to have a trend, but may actually be the result of
 randomness). Understand that simulations provide a way of comparing expected chance outcomes to
 real outcomes in order to determine if a model and actual data appear consistent. Learn about merging
-data sets by understanding the structure of both data sets and the logic of the way they will be combined.
+datasets by understanding the structure of both datasets and the logic of the way they will be combined.
 
 <ins>*Applied Computational Thinking using RStudio:*</ins>
 
-• Permutations of data, determining if actual data is similar to permuted data
+• Permutations of data, determining if actual data is similar to permuted data.
 
-• Merge multiple data sets together based on a common variable
+• Merge multiple data sets together based on a common variable.
 
-• Create permutations using a merged data set
+• Create permutations using a merged dataset.
 
 <ins>*Real-World Connections:*</ins>
 
@@ -46,34 +46,29 @@ can ask the question: Does this happen by chance? Understanding chance helps us 
 reports of scientific and medical findings.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used, and how to work with it.
+1. Students will engage in partner and whole group discussions to express their understanding of chance occurrences and their probabilities.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will use complex sentences to write informative short reports that use data science concepts and skills.
 
-3. Students will use complex sentences to write informative short reports that use data science
-concepts and skills.
-
-4. Students will read informative texts to evaluate claims based on data.
+3. Students will write informative reports that use graphical representations and numerical summaries.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-<ins>*Data Collection Method:*</ins>
-
-1. **Stress/Chill Participatory Sensing Campaign:** Students will monitor how they feel at different
-times of the day – whether they are “stressing” or “chilling.” Along with how they feel, they will
-make observations regarding other factors, such as being alone or with others, what they are
-doing at that moment, and why they are doing that activity.
-
 <ins>*Data Files:*</ins>
 
-1. Students’ *Personality Color* survey data (*colors*)
+1. Students’ *Personality Color* survey: ```data(colors)```
 
 2. Students’ *Stress/Chill* campaign data
 
-3. Titanic data set (*titanic.rda*)
+3. Titanic: ```data(titanic)```
 
-4. Horror Movie data set (*slasher.rda*)
+4. Horror Movie: ```data(slasher)```
+
+<ins>*Data Collection Method:*</ins>
+
+1. **Stress/Chill Participatory Sensing Campaign:** Students will monitor how they feel at different
+times of the day – whether they are “stressing” or “chilling”. Along with how they feel, they will
+make observations regarding other factors, such as being alone or with others, what they are
+doing at that moment, and why they are doing that activity.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

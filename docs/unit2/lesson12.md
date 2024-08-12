@@ -11,6 +11,8 @@ may not be based on data.
 
 2. Data collection devices
 
+3. *Stress/Chill Campaign* guidelines (LMR_U2_Campaign_StressChill)
+
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
@@ -46,7 +48,7 @@ Conduct a *Share Out* of student responses.
 certain times of the day.
 
 8. Students will collect data using the *Stress/Chill* Participatory Sensing campaign. They will add the
-*Stress/Chill* campaign to their list of available campaigns either through the UCLA [IDS UCLA App](../download/app.md)
+*Stress/Chill* campaign to their list of available campaigns either through the [IDS UCLA App](../download/app.md)
 or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
 9. Ask students to complete their first survey.
