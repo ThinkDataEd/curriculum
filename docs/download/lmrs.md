@@ -110,11 +110,11 @@
 
 [LMR_Trophy_Hunting_Conservation.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_Trophy_Hunting_Conservation.pdf)
 
-[LMR_3.1_Experiment Predictions.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf)
+[LMR_U3_L4.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L4.pdf)
 
-[LMR_3.2_Observations to Data.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.2_Observations to Data.pdf)
+[LMR_U3_L6.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L6.pdf)
 
-[LMR_3.3_ObsStudies vs Experiments.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.3_ObsStudies vs Experiments.pdf)
+[LMR_U3_L7.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L7.pdf)
 
 [LMR_3.4_Designing a Survey.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf)
 
@@ -164,7 +164,7 @@
 
 [LMR_U3_Practicum_Build a Survey.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Build a Survey.pdf)
 
-[LMR_U3_Practicum_Music to My Ears.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Music to My Ears.pdf)
+[LMR_U3_Practicum_Music_to_My_Ears.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Music_to_My_Ears.pdf)
 
 [LMR_U3_Practicum_Our Own Campaign .pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Our Own Campaign .pdf)
 

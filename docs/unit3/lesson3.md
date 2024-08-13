@@ -19,15 +19,10 @@ assignment?” by conducting an experiment. Tell students that you have a treatm
 make people taller. Explain that the class will be divided into two groups, one group will get the
 treatment, and one group will not. The group that does not receive the treatment will be the
 control group. After the treatment, they will measure the groups to see which is taller. Now divide
-the class into two groups by placing the boys in the treatment group and the girls in the control
+the class into two groups by placing the taller students in the treatment group and the shorter students in the control
 group.
 
-    Remember that in an experiment we typically have a treatment group and a control group. In
-    the MythBusters experiment, they compared number of yawns after treatment, and not any
-    measurements before treatment, because they were comparing the treatment group to the
-    control group (the control group is specifically here because it is a comparable untreated
-    group - this allows us to not need “before” measurements). Therefore, in this case, we will run
-    the experiment and then compare average height of the treatment group to the control group.
+    Remember that in an experiment we typically have a treatment group and a control group. Some experiments do not require a before and after as long as the two groups being compared are similar (many medical studies use this method for experiments). In this case, we will run the experiment and *then* compare average height of the treatment group to the control group.
 
 2. Tell them that after the treatment group takes the treatment, your statistic to compare groups will
 be to measure the heights. If the treatment group is taller, then the treatment must have worked.
@@ -42,27 +37,24 @@ There are two possible outcomes to dividing the class this way:
     each group and ask them if they think this is good evidence (**do not say “proves”**) that
     the treatment is effective.
 
-3. Regardless of the outcome, students should recognize that by putting the boys in one group, the
-outcome was pre-determined, since boys tend to be taller than girls to begin with. This is an
+3. Regardless of the outcome, students should recognize that by putting the taller students in one group, the
+outcome was pre-determined, since they were taller to begin with. This is an
 example of a **confounding factor**. Confounding factors are variables that provide an alternative
 explanation of the effect of the treatment on the outcome variable.
 
 4. Ask students: “How should students be put into groups?”
 
-5. Discuss various other methods of grouping students. Someone will probably say to split the
-groups into equal numbers of boys and girls. At this suggestion, divide the class into two groups
-by placing the tallest boys and tallest girls in the treatment group, and the shorter boys and
-shorter girls in the control group. <span style="color:grey">***Students should be able to recognize that you shouldn’t
+5. Discuss various other methods of grouping students. <span style="color:grey">***Students should be able to recognize that you shouldn’t
 use any characteristics to decide the groups.***</span>
 
 6. Continue discussion of other ways to decide the groups. Use the following questions as a guide:
 
     100. What about flipping a coin?
 
-    100. What will the gender balance look like? <span style="color:grey">***Each group should have about the same
+    100. What will the height balance look like? <span style="color:grey">***Answer: Each group should have about the same
     balance as the class, though not exactly.***</span>
 
-    100. Why is it important that the groups be similar? <span style="color:grey">***Because otherwise, something else
+    100. Why is it important that the groups be similar? <span style="color:grey">***Answer: Because otherwise, something else
     might be the cause of the response changing.***</span>
 
 7. Inform students that today the class will begin to design their own experiment using what they
@@ -83,7 +75,7 @@ experiment:
     100. Who are the subjects that will be participating in the experiment?
 
     100. How should we randomly assign the subjects into treatment and control groups? (See
-    step 12 for an RStudio method that the teacher can use)
+    step 12 below for an RStudio method that the teacher can use)
 
     100. What is the outcome variable that we will be measuring? What unit of measurement
     should we use?
@@ -97,7 +89,7 @@ consensus for each question’s answer.
 the class’s experiment.
 
 12. At the end of the class, the students should be assigned to the treatment or control groups using
-the randomization method they chose as a class in step #9c.
+the randomization method they chose as a class in step #9c from above.
 
     **<u>Note:</u>** One method to determine group assignment would be to use the class roster and the
     sample() function in RStudio. The students have a number that corresponds to their placement on

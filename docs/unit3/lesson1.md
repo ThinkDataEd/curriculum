@@ -7,10 +7,10 @@ discern whether the evidence presented is based on anecdotes or data.
 ###**Materials:**
 1. Hans Rosling’s video *How Not to Be Ignorant About the World* found at
 [https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world](https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world "https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world"){:target="_blank"}
-2. *Article: Miracle at the KK Café* (also available in the LMR folder)
-[https://web.archive.org/web/20220809045912/https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741](https://web.archive.org/web/20220809045912/https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741 "https://web.archive.org/web/20220809045912/https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741"){:target="_blank"}
-3. *Article: Can Trophy Hunting Actually Help Conservation?* (also available in the LMR folder)
-[https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/](https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/ "https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/"){:target="_blank"}
+
+2. *Miracle at the KK Café* Article ([LMR_Miracle_Cafe](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_Miracle_Cafe.pdf))
+
+3. *Can Trophy Hunting Actually Help Conservation?*  Article ([LMR_Trophy_Hunting_Conservation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_Trophy_Hunting_Conservation.pdf))
 
 ###**Vocabulary:**
 [anecdote](../../vocabulary/unit3/#anecdote "stories that someone tells about his/her own experience or the experience of someone he/she knows"){ .md-button }
@@ -64,18 +64,18 @@ students to write down what they think is the answer to each question.
     product?, is Nutrisystem® a good diet program?, is Bank of America® a good
     bank?***</span>
 
-    100. Do you think this person’s experience is “typical?” Why? <span style="color:grey">***Maybe it is typical but maybe
+    100. Do you think this person’s experience is “typical?” Why? <span style="color:grey">***Answer: Maybe it is typical but maybe
     not. Their own experience might be very different.***</span>
 
-    100. Do you think the company chose this person? How do you know? <span style="color:grey">***Each company may
+    100. Do you think the company chose this person? How do you know? <span style="color:grey">***Answer: Each company may
     have chosen the first 2 statements because they were a success. In the case of the
     Seymour773, a competing company may have chosen his experience to make
     them appear better.***</span>
 
-    100. What about all the other people? How many were successes, how many failures? <span style="color:grey">***We
+    100. What about all the other people? How many were successes, how many failures? <span style="color:grey">***Answer: We
     don’t know for sure.***</span>
     
-    100. How could we answer such questions? <span style="color:grey">***Collect data!***</span>
+    100. How could we answer such questions? <span style="color:grey">***Answer: Collect data!***</span>
 
 6. Inform students that the statements are called testimonials and they are examples of **anecdotes**.
 Anecdotes are stories that someone tells about his/her own experience or the experience of
@@ -101,15 +101,13 @@ information and tell a story.
 on anecdotes or data. Then inform students that they will analyze two articles to find out if their
 claims are based on anecdotes or data.
 
-9. Students will read one of two articles, *Miracle at the KK Cafe* or *Can Trophy Hunting Actually
-Help Conservation*? to analyze whether the claims each makes are based on anecdotes or data.
-The articles can be found at the following links or in the LMR folder:
+9. Students will read one of two articles, *Miracle at the KK Cafe* ([LMR_Miracle_Cafe](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_Miracle_Cafe.pdf)) or *Can Trophy Hunting Actually
+Help Conservation*? ([LMR_Trophy_Hunting_Conservation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_Trophy_Hunting_Conservation.pdf)) to analyze whether the claims each makes are based on anecdotes or data.
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Miracle_Cafe.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_Miracle_Cafe](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Miracle_Cafe.pdf)</div>
 
-    *Miracle at KK Café*<br>
-    [https://web.archive.org/web/20220809045912/https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741](https://web.archive.org/web/20220809045912/https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741 "https://web.archive.org/web/20220809045912/https://archives.sfweekly.com/sanfrancisco/miracle-at-the-kk-cafe/Content?oid=2144741"){:target="_blank"}
+<div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Trophy_Hunting_Conservation.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_Trophy_Hunting_Conservation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Trophy_Hunting_Conservation.pdf)</div>
 
-    *Can Trophy Hunting Actually Help Conservation?*<br>
-    [https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/](https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/ "https://lastwordwildlife.com/2014/01/21/can-trophy-hunting-actually-help-conservation/"){:target="_blank"}
+<u>**Note:**</u> These articles, although published in 2002 and 2014, effectively demonstrate the difference in using anecdotes versus data to support claims. Please don't hesitate to utilize any additional articles that are more up-to-date or pertain to subjects that are particularly aligned with your student interests.
 
 10. Ask students to number themselves off as 1 or 2. Students whose number is 1 will read *Miracle at
 KK Café* and those whose number is 2 will read *Can Trophy Hunting Actually Help Conservation*?
@@ -142,9 +140,7 @@ will report to their new partner the following information about the article he/
 16. Quickly survey students about which article was based more on anecdotes and which one was
 based more on data. Ask a couple of students to explain their choices and give examples.
 
-    ***Miracle at KK Café makes claims that are anecdotal. Students may cite a customer’s claim
-    as an example of an anecdote. Can Trophy Hunting Actually Help Conservation? uses data
-    to make their claims. Students may refer to a statistic used in the article as an example.***
+    <span style="color:grey">***Miracle at KK Café makes claims that are anecdotal. Students may cite a customer’s claim as an example of an anecdote. Can Trophy Hunting Actually Help Conservation? uses data to make their claims. Students may refer to a statistic used in the article as an example.***</span>
 
 17. Class discussion: ***Data Beat Anecdotes!*** Ask students to come up with reasons why this
 statement is true. Have them come up with situations where you **have** to have an anecdote. For

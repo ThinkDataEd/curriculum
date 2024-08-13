@@ -8,7 +8,7 @@ be collected from the class experiment and make predictions about the outcome.
 1. Article: PsyBlog’s *10 Ways Our Minds Warp Time* found at:<br>
     [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php"){:target="_blank"}
 
-2. Experiment Predictions handout ([LMR_3.1_Experiment Predictions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf))
+2. *Experiment Predictions* handout ([LMR_U3_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L4.pdf))
 
 ###**Vocabulary:**
 [theory](../../vocabulary/unit3/#theory "an idea used to explain a situation"){ .md-button }
@@ -26,19 +26,19 @@ be collected from the class experiment and make predictions about the outcome.
 2. They will read the article critically to answer the following questions (displayed or written on the
 board):
 
-    100. Who was observed and what were the variables measured? <span style="color:grey">***People and their
+    100. Who was observed and what were the variables measured? <span style="color:grey">***Answer: People and their
     perceptions of time.***</span>
 
-    100. What statistical questions were the researchers trying to answer? <span style="color:grey">***How is time
+    100. What statistical questions were the researchers trying to answer? <span style="color:grey">***Answer: How is time
     perception affected by different stimuli?***</span>
     
-    100. Who collected the data? <span style="color:grey">***Researchers such as cave expert Michel Siffre collected
+    100. Who collected the data? <span style="color:grey">***Answer: Researchers such as cave expert Michel Siffre collected
     data.***</span>
 
-    100. How were the data collected? <span style="color:grey">***Data were collected through various
+    100. How were the data collected? <span style="color:grey">***Answer: Data were collected through various
     experiments/studies (13 were cited).***</span>
 
-    100. What claim(s) did the article make? <span style="color:grey">***There were 10 claims made regarding time
+    100. What claim(s) did the article make? <span style="color:grey">***Answer: There were 10 claims made regarding time
     perception.***</span>
 
     100. What are some statistics that the article used to make the claim(s)? <span style="color:grey">***Answers may vary.
@@ -73,15 +73,15 @@ believe that there will be differences.
 9. Then, ask those students who believe there are differences, how small or large they think the
 difference will be.
 
-10. Distribute the *Experiment Predictions* handout ([LMR_3.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf)) and, in pairs, have students discuss
+10. Distribute the *Experiment Predictions* handout ([LMR_U3_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L4.pdf)) and, in pairs, have students discuss
 and complete the answers for the handout.
 
-    **<u>Note:</u>** What will the distribution of time perceptions look like? <span style="color:grey">***The distributions will likely have
+    **<u>Note:</u>** What will the distribution of time perceptions look like? <span style="color:grey">***Answer: The distributions will likely have
     more points that are closer to 60 seconds, but will also have values that are shorter and
     longer than 60 seconds. Appropriate plots to use will include histograms, dotplots or
     boxplots.***</span>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.1_Experiment Predictions.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L4.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L4.pdf)</div>
 
 11. Using *Anonymous Author*, select student work to share with the whole class.
 

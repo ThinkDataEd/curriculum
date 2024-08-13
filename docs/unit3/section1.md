@@ -16,6 +16,8 @@ and, alternatively, how data provides basis for evidence. The video can be found
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
 
+S-IC B-5: Use data from a randomized experiment to compare two treatments; use simulations to decide if differences between parameters are significant.
+
 S-IC 1: Understand statistics as a process for making inferences about population parameters based on
 a random sample from that population.
 
@@ -54,26 +56,23 @@ Experiments are used to ensure safety and efficacy of medicines, reliability of 
 materials and find patterns in human behavior.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-5. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it is used, and how to work with it.
+1. Students will compare and contrast anecdotes with data.
 
-6. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will construct summary statements about their understanding of data, how it is collected, how it is used, and how to work with it when creating and conducting experiments.
 
-7. Students will use complex sentences to write informative short reports that use data science
-concepts and skills.
+3. Students will read informative texts to evaluate claims based on data and anticipate visualizations of that data.
 
-8. Students will read informative texts to evaluate claims based on data.
+4. Students will describe causal relationships.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-
-<ins>*Data Collection Method:*</ins>
-
-1. Students will gather data generated through a simple experiment.
 
 <ins>*Data File:*</ins>
 
 1. Students’ *Time Perception* experiment data.
+
+<ins>*Data Collection Method:*</ins>
+
+Students will gather data generated through a simple experiment.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

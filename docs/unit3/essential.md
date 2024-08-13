@@ -23,7 +23,7 @@ Designing an experiment requires making many decisions, including what to measur
 measure it.
 
 ###**<u>[Lesson 5: Time Perception Experiment](lesson5.md)</u>**
-Designing and carrying out an experiment helps us answer specific statistical questions of interest.
+Designing and carrying out an experiment helps us answer specific statistical investigative questions of interest.
 
 ###**<u>[Lesson 6: Observational Studies](lesson6.md)</u>**
 Observational studies are those for which there is no intervention applied by researchers.
@@ -80,7 +80,7 @@ and ethically sound.
 Practicing data collection prior to implementation allows optimization of a Participatory Sensing Campaign.
 
 ###**<u>[Lesson 20: Online Data-ing](lesson20.md)</u>**
-Stretching the conception of data involves seeing that many web pages present information that can be turned into data.
+We stretch students' conception of data, to help them see that many web pages present information that can be turned into data.
 
 ###**<u>[Lesson 21: Learning to Love XML](lesson21.md)</u>**
 XML is a programming language that we use with our campaigns. We create basic XML "tags" in the

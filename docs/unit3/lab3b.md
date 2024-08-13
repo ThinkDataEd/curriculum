@@ -23,7 +23,7 @@ straight from the webpage into R.
 * You can find the data online here:
 
     – (Right-click and select *Open in New Window*)<br> 
-    [https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv](https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv "https://raw.githubusercontent.com/IDSUCLA/dataset/main/fev.csv"){:target="_blank"}
+    [https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv](https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv "https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv"){:target="_blank"}
 
 * <span style="color:midnightblue;">**Click on the *Import Dataset* button under the *Environment* tab.**</span>
 
@@ -104,8 +104,7 @@ smoking on children's lungs.**</span>
 
     – <span style="color:firebrick;">**Were you surprised by the answer? Why?**</span>
 
-    – <span style="color:firebrick;">**Can you suggest a possible confounding factor that might be affecting the
-    result?**</span>
+    – <span style="color:firebrick;">**Can you suggest a possible confounding factor that might be affecting the result?**</span>
 
 ###**Let's compare**
 * <span style="color:midnightblue;">**Create three subsets of the data:**</span>

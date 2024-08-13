@@ -17,8 +17,7 @@ variables related to the number of friends a person has on social media.
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
 
-S-IC 1. Understand statistics as a process for making inferences about population parameters based on a
-random sample from that population.
+S-IC 1. Understand statistics as a process for making inferences about population parameters based on a random sample from that population.
 
 S-IC 3. Recognize the purposes of and differences among sample surveys, experiments, and
 observational studies; explain how randomization relates to each.
@@ -35,7 +34,7 @@ confounding factors.
 
 • Download data from the Internet that was collected via an observational study.
 
-• Clean data set by adding variable names.
+• Clean dataset by adding variable names.
 
 • Create scatterplots of two variables and determine possible relationships between them, as well
 as identify potential confounding variables.
@@ -47,30 +46,29 @@ example, observational studies are used in epidemiology to study outbreaks of il
 behavioral patterns.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used, and how to work with it.
+1. Students will use connect the data they gather through Participatory Sensing campaigns to observational studies.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will compare and contrast observational studies with experiments.
 
-3. Students will use complex sentences to write informative short reports that use data science
-concepts and skills.
-
-4. Students will read informative texts to evaluate claims based on data.
+3. Students will describe the relationship between causation and association.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-<ins>*Data Collection Method:*</ins>
-
-1. Students will record information about a set of high school students by observing characteristics
-given in a picture.
 
 <ins>*Data File:*</ins>
 
-1. *Lung Capacity of Children* data set information found at<br>
-    [https://jse.amstat.org/v13n2/datasets.kahn.html](https://jse.amstat.org/v13n2/datasets.kahn.html "https://jse.amstat.org/v13n2/datasets.kahn.html"){:target="_blank"}
+1. *Lung Capacity of Children* dataset information found at<br>
+    [https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv](https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv "https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv"){:target="_blank"}
     
-    NOTE: The raw data set can be found at<br>
+    **<u>Note:</u>** The raw dataset can be found at<br>
     [https://jse.amstat.org/datasets/fev.dat.txt](https://jse.amstat.org/datasets/fev.dat.txt "https://jse.amstat.org/datasets/fev.dat.txt"){:target="_blank"}
+
+    **<u>Note:</u>** The documentation can be found at<br>
+    [https://jse.amstat.org/v13n2/datasets.kahn.html](https://jse.amstat.org/v13n2/datasets.kahn.html "https://jse.amstat.org/v13n2/datasets.kahn.html"){:target="_blank"}
+
+<ins>*Data Collection Method:*</ins>
+
+Students will record information about a set of high school students by observing characteristics
+given in a picture.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

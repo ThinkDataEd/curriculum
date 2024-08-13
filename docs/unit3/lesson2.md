@@ -5,11 +5,9 @@ Students will learn about the elements of an experiment and the meaning of "caus
 learn to distinguish claims of causation from claims of association.
 
 ###**Materials:**
-1. Video: MythBusters’ *Is Yawning Contagious?*   
+1. Video: MythBusters’ *Are Hands-Free Calls Really Safer While Driving?* <br> [https://www.youtube.com/watch?v=C-RAKWdKDEk](https://www.youtube.com/watch?v=C-RAKWdKDEk "https://www.youtube.com/watch?v=C-RAKWdKDEk"){:target="_blank"}
 
-    **<u>Note:</u>** Please use a search engine (e.g., Google Video)
-    and type “MythBusters Is Yawning Contagious” to find it. The clip is a little over 5 minutes
-    in length. If you cannot access it, an alternate experiment (MythBusters' *How Does Music Affect Plants*) can be found at [https://youtu.be/C5dNhNfGyWQ](https://youtu.be/C5dNhNfGyWQ "https://youtu.be/C5dNhNfGyWQ"){:target="_blank"}
+    **<u>Note:</u>** If video is not found using link, please use a search engine (e.g., Google Video) and type "Mythbusters Are Hands-Free Calls Really Safer While Driving" to find it. The clip is a little over 9 minutes in length.
 
 ###**Vocabulary:**
 [experiment](../../vocabulary/unit3/#experiment "one method of data collection; something that can be repeated that has a set of possible results"){ .md-button }
@@ -20,7 +18,7 @@ learn to distinguish claims of causation from claims of association.
 [random assignment](../../vocabulary/unit3/#random-assignment "subjects are randomly assigned to either the treatment or control group"){ .md-button }
 [outcome](../../vocabulary/unit3/#outcome "the variable that the treatment is meant to influence; this is sometimes known as the response, or dependent, variable"){ .md-button }
 [research question](../../vocabulary/unit3/#research-question "the question to be answered by the experiment"){ .md-button }
-[confounding factors](../../vocabulary/unit3/#confounding-factors "an “extra” variable that you didn’t account for"){ .md-button }
+[statistic](../../vocabulary/unit3/#statistic "a term used for numbers that summarize a sample"){ .md-button }
 
 ###**Essential Concepts:**
 
@@ -47,13 +45,13 @@ learn to distinguish claims of causation from claims of association.
 
 2. Discuss each headline by asking the following questions:
 
-    100. What is the headline implying with its wording? <span style="color:grey">***1a is implying that you can stop global
+    100. What is the headline implying with its wording? <span style="color:grey">***Answer: 1a is implying that you can stop global
     warming by becoming a pirate, 1b is implying that it’s possible to shrink your brain
     if you aren’t getting enough sleep, 1c is implying that having early language skills
     will decrease preschool tantrums, 1d is implying that dogs are more aggressive
     when they’ve been walked by men.***</span>
 
-    100. Is it implying causation or association? <span style="color:grey">***Discuss definitions of causation and
+    100. Is it implying causation or association? <span style="color:grey">***Answer: Discuss definitions of causation and
     association. Causation means there is a cause and effect relationship between
     variables. For example, heat causes water to boil; whereas association or
     correlation means that high values of one variable tend to be associated with high
@@ -75,28 +73,26 @@ learn to distinguish claims of causation from claims of association.
     increase of pirates.***</span>
 
 3. Introduce the MythBusters video clip by answering the following questions, in teams, for their
-headline “Is Yawning Contagious?”
+headline “Are Hands-Free Calls Really Safer While Driving?”
 
-    100. What is the headline implying with its wording? <span style="color:grey">***That yawning may cause other people
-    to yawn.***</span>
+    100. What is the headline implying with its wording? <span style="color:grey">***Answer: That hands-free calls might not be safer than holding a phone while driving.***</span>
 
-    100. Is it implying causation or correlation? How do you know? <span style="color:grey">***Causation because
-    “contagious” yawns means that you are yawning because someone else has
-    yawned.***</span>
+    100. Is it implying causation or correlation? How do you know? <span style="color:grey">***Answer: Causation because
+    “really safer” implies that driving while on a hands-free call causes you to not drive safely.***</span>
 
-    100. How can we determine if this is true? <span style="color:grey">***Split the class into groups and have each team
+    100. How can we determine if this is true? <span style="color:grey">***Answer: Split the class into groups and have each team
     come up with a way to determine if this is true. Each group should assume that
-    they get to examine 50 people.***</span>
+    they get to examine 30 people.***</span>
 
-4. Show the MythBusters video clip called Is Yawning Contagious? The links to the clips can be found in the *Materials* above.
+4. Show the MythBusters video clip called *Are Hands-Free Calls Really Safer While Driving?* The clip can be found at: <br> [https://www.youtube.com/watch?v=C-RAKWdKDEk](https://www.youtube.com/watch?v=C-RAKWdKDEk "https://www.youtube.com/watch?v=C-RAKWdKDEk"){:target="_blank"}
 
 5. Focus students on the following guiding questions and ask them to take notes as they watch the video clip:
 
-    100. How did the MythBusters design the investigation?
+    100. How did the MythBusters design the investigation? <span style="color:grey">***Answer: They conducted a driving test. In this case, one group is driving while on a hands-free call (because in the eyes of the law, this is no different than driving without being on a call). The treatment group is driving while on a hands-free call. They determined that "safe" meant passing the driving course by following the turn-by-turn navigation correctly and having no accidents. Passing the driving course was considered a "success".***</span>
 
-    100. What steps did they take?
+    100. What steps did they take? <span style="color:grey">***Abswer: They split the 30 subjects into two groups, 15 in one group and 15 in the treatment group, and had them drive a car in a simulator.***</span>
 
-    100. How is this different than your team’s headline responses?
+    100. How is this different than your team’s headline responses in step 3 from above? Did the Mythbusters investigation match what you thought it would be about? <span style="color:grey">***Answers will vary depending on students' assumptions about the investigation prior to watching the video.***</span>
 
 6. After viewing the clip, inform students that the MythBusters have just conducted an **experiment**,
 which is one method of data collection.
@@ -105,30 +101,22 @@ which is one method of data collection.
 over the next several lessons.
 
 8. Guide students to identify the elements of an experiment by referring back to the video clip:
-    100. **Research Question** — the question to be answered by the experiment (<span style="color:grey">***Is Yawning
-    Contagious?***</span>)
+    100. **Research Question** — the question to be answered by the experiment <br>(<span style="color:grey">***Are Hands-Free Calls Really Safer While Driving?***</span>)
 
-    100. **Subjects** – people or objects that are participating in the experiment (<span style="color:grey">***the 50 adults***</span>)
+    100. **Subjects** – people or objects that are participating in the experiment <br>(<span style="color:grey">***The 30 adults.***</span>)
 
-    100. **Treatment** – the variable that is deliberately manipulated to investigate its influence on the outcome; this is sometimes known as the explanatory, or independent, variable (<span style="color:grey">***Kari yawned before
-    subject entered the room***</span>)
+    100. **Treatment** – the variable that is deliberately manipulated to investigate its influence on the outcome; this is sometimes known as the explanatory, or independent, variable <br>(<span style="color:grey">***Having drivers on a call without a cellphone in their hand. Using the research question as our guide, the question implies that we are experimenting with the hands-free calling, therefore that is the treatment as we are comparing it to hands-on calling.***</span>)
 
-    100. **Treatment group** – the group of subjects that receive the treatment (<span style="color:grey">***two out of every
-    three subjects who were placed into rooms – yawn from Kari***</span>)
+    100. **Treatment group** – the group of subjects that receive the treatment <br>(<span style="color:grey">***The 15 people who used the hands-free phone.***</span>)
 
-    100. **Control group** – the group that does not receive a treatment (<span style="color:grey">***one out of every three
-    subjects who were placed into rooms – no yawn from Kari***</span>)
+    100. **Control group** – the group that does not receive a treatment <br>(<span style="color:grey">***The remaining 15 people who used the hands-on phone.***</span>)
 
     100. **Random assignment** – subjects are randomly assigned to either the treatment or control
-    group (<span style="color:grey">***two out of every three subjects received the treatment - in this
-    experiment, random assignment was not used (or if it was, we were not told so)***</span>)
+    group <br>(<span style="color:grey">***It's unclear if random assignment was used in this video (if it was, we were not told so), but we're going to assume that people were randomly assigned to each group.***</span>)
     
-    100. **Outcome** – the variable that the treatment is meant to influence; this is sometimes known as the response, or dependent, variable (<span style="color:grey">***whether or not a
-    person yawned***</span>)
+    100. **Outcome** – the variable that the treatment is meant to influence; this is sometimes known as the response, or dependent, variable <br>(<span style="color:grey">***Success - whether or not a person was a safe driver by passing the test.***</span>)
     
-    100. **Statistic** — a method for comparing the outcomes of the control and treatment groups (this is
-    needed) <span style="color:grey">***In this case, the MythBusters used the difference between the percent of
-    subjects that yawned in the treatment group, which was 4% higher than the control group.***</span>
+    100. **Statistic** — a number such as a mean or proprtion used to summarize our findings for the control and treatment groups <br> <span style="color:grey">***In this case, the MythBusters gave raw data. A statistuc would have been that 6.7% (1 out of 15) of the control group passed the test. Similarly, 6.7% of the treatment group passed the test.***</span>
     
     **<u>Note:</u>** In this experiment, and in those found in the IDS curriculum, we use a treatment and a
     control group. However, a control group is not a necessary element of an experiment. Sometimes
@@ -139,23 +127,18 @@ over the next several lessons.
 9. Display the following questions on the board or projector. Using *T-I-P-S*, ask students to discuss
 them.
 
-    100. Why did the MythBusters follow all of these steps to design their experiment? <span style="color:grey">***In order to
-    determine if watching someone yawn can cause you to yawn.***</span>
+    100. Why did the MythBusters follow all of these steps to design their experiment? <span style="color:grey">***Answer: In order to determine if driving while on a hands-free call was really safer than driving while holding a cellphone on a call.***</span>
 
     100. We don't know how MythBusters chose who would be in the treatment group and who
-    would be in the control group. Suppose that the people who showed up first, early in the
-    morning, were assigned to the treatment group, and the last few people, later in the day,
-    ended up in the control group. Would you believe in the conclusions? <span style="color:grey">***No, because the
-    two groups were different. The first group might have been sleepier, and so more
-    likely to yawn anyways. Explain that this --another explanation for the cause-and-effect--
+    would be in the other group. Suppose that less-experienced drivers were assigned to one group and the more-experienced drivers ended up in the treatment group. Would you believe the conclusions? <span style="color:grey">***Answer: No, because less-experienced drivers would probably be more prone to mistakes (because they're inexperienced) than more-experienced drivers. Explain that this --another explanation for the cause-and-effect--
     is called a confounding variable.***</span>
     
     100. Explain that in order to make the two groups as similar as possible, experimenters
     usually assign subjects randomly. How might we randomly assign about half of the
-    subjects to the treatment and half to the control? <span style="color:grey">***We might flip a coin, and those who
+    subjects to the treatment and half to the control? <span style="color:grey">***Answer: We might flip a coin, and those who
     get Heads go to Treatment.***</span>
     
-    100. Why would random assignment improve the MythBusters experiment? <span style="color:grey">***Because then the two
+    100. Why would random assignment improve the MythBusters experiment? <span style="color:grey">***Answer: Because then the two
     groups would be more similar, so we wouldn't have a confounding variable to
     worry about.***</span>
 
