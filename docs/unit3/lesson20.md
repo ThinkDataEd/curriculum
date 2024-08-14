@@ -7,11 +7,11 @@ purposes.
 ###**Materials:**
 1. Video: *Explore a Google Data Center with Street View* found at:<br> [https://www.engadget.com/2012-10-17-google-inside-data-centers.html](https://www.engadget.com/2012-10-17-google-inside-data-centers.html "https://www.engadget.com/2012-10-17-google-inside-data-centers.html"){:target="_blank"}
 
-2. *Wikipedia – Video Games* handout ([LMR_3.17_Wikipedia - Video Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.17_Wikipedia - Video Games.pdf))
+2. *Wikipedia – Video Games* handout ([LMR_U3_L20_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf))
 
-3. *Wikipedia – Video Games – CSV Format* handout ([LMR_3.18_Video Games - CSV](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.18_Video Games - CSV.pdf))
+3. *Wikipedia – Video Games – CSV Format* handout ([LMR_U3_L20_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_B.pdf))
 
-4. *Online Data-ing* handout ([LMR_3.19_Online Data-ing](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf))
+4. *Online Data-ing* handout ([LMR_U3_L20_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf))
 
 ###**Vocabulary:**
 [data farm](../../vocabulary/unit3/#data-farm "a physical space where high capacity servers are placed to store large amounts of data"){ .md-button }
@@ -45,30 +45,30 @@ one of these large data farms used to store vast amounts of data.
 data on the Internet requires a different format than what we have seen. For example, Wikipedia
 has a page dedicated to the top video games.
 
-6. Distribute the *Wikipedia – Video Games* handout ([LMR_3.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.17_Wikipedia - Video Games.pdf)), and have students explain the
+6. Distribute the *Wikipedia – Video Games* handout ([LMR_U3_L20_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf)), and have students explain the
 information that the data table provides.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.17_Wikipedia - Video Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.17_Wikipedia - Video Games.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L20_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf)</div>
 
 7. Once the students understand what the data table describes, walk them through the first portion
 of the **HTML**, or Hypertext Markup Language, source code (on page 1). Notice that the first
 header on the table is denoted as “Game.” Ask:
 
-    100. How is “Game” represented in the source code? <span style="color:grey">***&lt;th>Game&lt;/th>***</span>
+    100. How is “Game” represented in the source code? <span style="color:grey">***Answer: &lt;th>Game&lt;/th>***</span>
 
-    100. What do you think the &lt;th> code represents? <span style="color:grey">***The &lt;th> is a tag for “table header”***</span>
+    100. What do you think the &lt;th> code represents? <span style="color:grey">***Answer: The &lt;th> is a tag for “table header”***</span>
 
-    100. If this were in RStudio, what would we call this header? <span style="color:grey">***A variable***</span>.
+    100. If this were in RStudio, what would we call this header? <span style="color:grey">***Answer: A variable***</span>.
 
 8. Assign each student team one video game from the Wikipedia data table. Each team will
 compare how the information is stored in the table with its corresponding HTML source code.
 Each team should answer the following questions in the DS journals.
 
-    100. Each group was given HTML code for a different game. Which one did your group get? <span style="color:grey">***Answers will vary. The variable names are stored at the
+    100. Where are the variable names stored? <span style="color:grey">***Answer: The variable names are stored at the
     beginning of the code, in between &lt;th> and &lt;/th> and are called***</span> **tags** <span style="color:grey">***–
     they tell the browser to represent the information between them as a header in the
     table.***</span>
 
-    100. Between what tags are the different values of the variables stored? <span style="color:grey">***Values are stored between the &lt;td>
+    100. How are different values of the variables stored? <span style="color:grey">***Answer: Values are stored between the &lt;td>
     and &lt;/td> tags.***</span>
 
     100. Why do you think the data are stored in such a complex way? Why can’t we just put them
@@ -76,34 +76,34 @@ Each team should answer the following questions in the DS journals.
     displayed in a way that allows a browser to make it look pretty (and readable) on a
     computer screen.***</span>
 
-    100. How could we get this into an R dataframe so we can analyze it? <span style="color:grey">***In its current form,
+    100. How could we get this into an R dataframe so we can analyze it? <span style="color:grey">***Answer: In its current form,
     this would be very difficult. We would need to represent the data in a different
     format in order for R to understand it.***</span>
 
-9. Distribute the *Wikipedia – Video Games – CSV Format* handout ([LMR_3.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.18_Video Games - CSV.pdf)) and explain that this
+9. Distribute the *Wikipedia – Video Games – CSV Format* handout ([LMR_U3_L20_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_B.pdf)) and explain that this
 is yet another way to represent the same video game data.
 
     **<u>Note:</u>** The handout only provides information on the first 5 rows of the Wikipedia table. A full
     version of the file (including all video games in the table) is located on the server with the title
     bestgames.csv.
     
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.18_Video Games - CSV.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.18_Video Games - CSV.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L20_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_B.pdf)</div>
 
 10. Inform students that a file with the CSV format is easily readable by R. Then ask:
 
-    a. Where are the variable names stored? <span style="color:grey">***The variable names are stored in the first row***</span>
+    a. Where are the variable names stored? <span style="color:grey">***Answer: The variable names are stored in the first row***</span>
 
-    b. How are values of the variables separated? <span style="color:grey">***The values are separated by commas.***</span>
+    b. How are values of the variables separated? <span style="color:grey">***Answer: The values are separated by commas.***</span>
 
-    c. If we were interested in using the online data, how would we obtain it? <span style="color:grey">***This is a
+    c. If we were interested in using the online data, how would we obtain it? <span style="color:grey">***Answer: This is a
     challenging problem – one which students may not know how to answer at this
     point. The objective is for them to struggle with how they would obtain data and
     recognize that it is not always as simple as “export, upload, import.”***</span>
 
-11. Split the class into their student teams and distribute the *Online Data-ing* handout ([LMR_3.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf)).
+11. Split the class into their student teams and distribute the *Online Data-ing* handout ([LMR_U3_L20_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf)).
 Assign each team a different website (each page of the handout lists a different site) and have
 them use this site to complete the questions in the handout.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.19_Online Data-ing.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L20_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf)</div>
 
 12. Have each student team share their findings with one other team. They should have their website
 displayed while discussing their results.
@@ -115,7 +115,7 @@ day were.
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next 2 Days**</p>
 For the next 4 days, students will collect data using their newly created Participatory Sensing campaign.
 
-[<u>***Lab 3E: Scraping Web Data***</u>](lab3e.md)
+[<u>***Lab 3E: Scraping web data***</u>](lab3e.md)
 
 [<u>***Lab 3F: Maps***</u>](lab3f.md)
 

@@ -5,9 +5,9 @@ Students will be guided through the creation of a new Participatory Sensing camp
 survey on a topic of interest chosen by the class.
 
 ###**Materials:**
-1. *Food Habits Campaign Questions* handout ([LMR_3.15_Food Habits Qs](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.15_Food Habits Qs.pdf))
+1. *Food Habits Campaign Questions* handout ([LMR_U3_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_A.pdf))
 
-2. *Campaign Creation Brainstorm* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf))
+2. *Campaign Creation Brainstorm* handout ([LMR_U3_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_B.pdf))
 
 ###**Essential Concepts:**
 
@@ -17,7 +17,7 @@ survey on a topic of interest chosen by the class.
     Sensing Campaign.
 
 ###**Lesson:**
-1. Review homework questions by asking a couple of students to share their responses. The rest of
+1. Review homework questions by asking a couple of students to share their responses. The rest of the 
 students will engage in *Agree/Disagree* as the questions are shared.
 
 2. Display the following definition of Participatory Sensing that some computer scientists have
@@ -45,8 +45,8 @@ campaigns in which they have engaged thus far. <span style="color:grey">***Answe
     because they were only completed once. Their data was not collected over time.
 
 4. Inform students that they will be creating a new, whole class Participatory Sensing campaign, but
-before they do that, they will analyze the *Food Habits Campaign Questions* handout ([LMR_3.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.15_Food Habits Qs.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.15_Food Habits Qs.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.15_Food Habits Qs.pdf)</div>
+before they do that, they will analyze the *Food Habits Campaign Questions* handout ([LMR_U3_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_A.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_A.pdf)</div>
 
 5. In teams, allow students two minutes to discuss the following as they analyze the Food Habits
 Campaign questions:
@@ -56,9 +56,9 @@ Campaign questions:
     questions and may identify the type of questions such as open-ended, single-choice,
     etc.***</span>
 
-    100. When do these questions need to be answered? <span style="color:grey">***Each time they eat a snack.***</span>
+    100. When do these questions need to be answered? <span style="color:grey">***Answer: Each time they eat a snack.***</span>
 
-    100. Who collects the data for this campaign? <span style="color:grey">***The participants collect their own data.***</span>
+    100. Who collects the data for this campaign? <span style="color:grey">***Answer: The participants collect their own data.***</span>
 
 6. Ask a few teams to share their insights about the discussion. In the share-out, guide students to
 see that the questions are in fact survey questions. Although survey questions are answered
@@ -68,8 +68,8 @@ Participatory Sensing.
 7. Ensure that team roles have defined duties to keep teams on task for the rest of this lesson.
 Creating this class campaign will follow a process in which consensus (or a majority rule) will be
 reached in each step of the campaign development within each team. Inform students that they
-will be creating a Participatory Sensing campaign on a topic of their interest using [LMR_3.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf)</div>
+will be creating a Participatory Sensing campaign on a topic of their interest using [LMR_U3_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_B.pdf).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_B.pdf)</div>
 
 8. <u>Round 1:</u> First, teams will discuss their hobbies, areas of interest, or places or processes they
 want to know more about. Prompt students to think about whether they want to learn about

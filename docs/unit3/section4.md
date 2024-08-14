@@ -40,23 +40,20 @@ well as personal habits. More and more, sensors are being used for personal trac
 medical field, to inform people about what they do.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used, and how to work with it.
+1. Students will engage in a "Gallery Walk" activity of sensors and how they are triggered.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will determine when it is appropriate to use surveys or sensors.
 
-3. Students will use write questions that use emphasize differences in data science concepts and
-skills.
+3. Students will engage in partner and whole group discussions to create a class Participatory Sensing Campaign.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-<ins>*Data Collection Method:*</ins>
-
-1. Students will gather data generated through a class-generated Participatory Sensing campaign.
-
 <ins>*Data File:*</ins>
 
 1. Students’ Participatory Sensing campaign data
+
+<ins>*Data Collection Method:*</ins>
+
+Students will gather data generated through a class-generated Participatory Sensing campaign.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

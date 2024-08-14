@@ -5,11 +5,9 @@ Students will mock-implement, create their Participatory Sensing campaign, surve
 topic of interest, then begin data collection.
 
 ###**Materials:**
-1. *Campaign Creation* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf)) from previous lesson
+1. *Campaign Creation* handout ([LMR_U3_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_B.pdf)) from previous lesson
 
-2. Campaign Authoring Tool ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"})
-
-3. Video showing how to create a Campaign found **[here](https://www.youtube.com/watch_popup?v=PzwMCHOghnI "https://www.youtube.com/watch_popup?v=PzwMCHOghnI"){:target="_blank"}**. 
+2. Campaign Authoring Tool ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}) 
 
 ###**Essential Concepts:**
 
@@ -23,7 +21,7 @@ topic of interest, then begin data collection.
 2. In teams, have students mock-implement the campaign they have created. They can do this by
 asking each other the survey questions to make sure they make sense/ will generate relevant
 data to their research question and statistical questions. They can use the evaluative questions
-from [Lesson 17](lesson17.md) step #10.
+from [Lesson 18](lesson17.md) step 10.
 
 3. If there are suggestions for improvement, have teams propose them to the class and make final
 changes to the campaign.
@@ -34,7 +32,9 @@ displayed on their mobile devices or computers.
 5. Login to the **IDS Home Page** found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}. Click on the **Campaigns tab** on
 the navigation bar at the top of the page. Then, follow the steps in the tool:
 
-    100. **<u>Campaign Info Window:</u>**
+    **<u>Note:</u>** If you would like a video tutorial to assist with the written instructions, it can be found here: [https://youtu.be/PzwMCHOghnI](https://youtu.be/PzwMCHOghnI "https://youtu.be/PzwMCHOghnI"){:target="_blank"}
+
+    100. **<u>Campaign Info:</u>**
 
         200. **Campaign Name:** Give your campaign a name. A name related to the topic is
         recommended.
@@ -43,9 +43,11 @@ the navigation bar at the top of the page. Then, follow the steps in the tool:
 
         200. **Description:** Provide a one-sentence description of your campaign.
 
+        200. **Campaign Status:** Select Running.
+
         200. **Data Sharing:** Select Disabled in order to monitor for improper responses.
 
-        200. **Campaign Status:** Select Running.
+        200. **Editable Responses:** Select Disabled.
 
         200. **Click the |<span style="text-decoration: overline underline;">+Add Survey</span>| button.**
 
@@ -57,21 +59,14 @@ the navigation bar at the top of the page. Then, follow the steps in the tool:
         200. **ID:** Give the survey a name (it may or may not be the same as the campaign
         name). Users do not see the survey ID.
 
-        200. **Description:** Provide a short description of the survey for display.
+        200. **Description:** Provide a short description of the survey for display (optional - may be the same as the **Description** in **<u>Campaign Info</u>**).
 
-        200. **Submit Text:** Provide a brief message to be displayed after survey submission.
-
-        200. **Anytime:** Select the checkbox if you want the survey to be available at anytime.
+        200. **Submission Message:** Provide a brief message to be displayed after survey submission. *Note: it is helpful to include a reminder to click the green button to submit the survey.*
 
         200. **Click the |<span style="text-decoration: overline underline;">+Add Prompt</span>| button and select the prompt type for your first
-        survey question. Note:** You should only select from the following choices:
-        Single choice, number, photo, and text. Multiple-choice does not mean select
-        one choice; it means select many choices. It is not recommended that multiple-choice
-        be used at this point.
+        survey question.**
 
     100. **<u>Prompt Information:</u>**
-
-        200. **Click <u>the new prompt bar</u>**.
 
         200. **Prompt ID:** This will be your first variable. A short one-word name or short two-word
         name separated by an underscore is recommended.
@@ -94,18 +89,16 @@ the navigation bar at the top of the page. Then, follow the steps in the tool:
     button.**
 
     100. **XML Code:** As you create the campaign, the code that creates it will be displayed. You
-    may select the checkbox titled **Enable Syntax Highlighting** so that students can keep
-    track of where the information you are adding is embedded in the code. Inform students
-    that they will be learning about XML syntax in the next several lessons.
+    may select the checkbox titled **Highlight XML** so that students can keep
+    track of where the information you are adding is embedded in the code. You will learn more about XML syntax in the next section of Unit 3.
     
     100. **Click the |<span style="text-decoration: overline underline;">Submit Campaign</span>| button on the top, right hand side of the page once all
-    prompts have been added.** This action will send the campaign to the server for users to
-    see.
+    prompts have been added.** This action will send the campaign to the server. Users will now be able to submit surveys.
 
 6. Once all prompts have been created, students may use their smart devices or login to the IDS
 Home Page to view the new campaign. Remember to **Refresh Campaigns**.
 
-7. Students should go through the entire participatory sensing survey to see how their questions are
+7. Students should go through the entire Participatory Sensing survey to see how their questions are
 displayed. They do not have to upload the survey.
 
 ###**Class Scribes:**

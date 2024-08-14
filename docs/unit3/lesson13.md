@@ -5,7 +5,7 @@ Students will learn about informal confidence intervals for making estimates abo
 based on statistics from random samples.
 
 ###**Materials:**
-1. *The Confidence Game* handout ([LMR_3.13_Confidence Game](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf))
+1. *The Confidence Game* handout ([LMR_U3_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf))
 
 2. Dotplot titled “Number Correct” displayed on the board (or on poster paper)
 
@@ -59,7 +59,7 @@ question:
     1,454 feet tall. Take a poll to see how many students’ intervals contained this value. We
     will learn what it means to have the true value in our intervals after we play the game.
 
-6. Now, we can actually play the game! Distribute *The Confidence Game* handout ([LMR_3.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf)) and
+6. Now, we can actually play the game! Distribute *The Confidence Game* handout ([LMR_U3_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf)) and
 explain the rules. Students will have about 5 minutes to complete the handout, which gives them
 approximately 30 seconds per question.
 
@@ -78,39 +78,39 @@ approximately 30 seconds per question.
     100. The winner is determined by who got the most questions correct. In the case of a tie, the
     winner is chosen by whose intervals were narrower.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf)</div>
 
-7. Once each student has completed *The Confidence Game* handout ([LMR_3.13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.13_Confidence Game.pdf)), have students
+7. Once each student has completed *The Confidence Game* handout ([LMR_U3_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf)), have students
 choose partners and exchange handouts so that they can grade each other. Remind them that a
-question is marked as “correct” if the actual value (see answers in Step 8) falls within the interval.
+question is marked as “correct” if the actual value (see answers in step 8 below) falls within the interval.
 
 8. Display the answers for each of the 10 questions from the handout found below:
 
-    1) In what year did Mickey Mouse make his film debut? <span style="color:grey">***1928***</span>
+    1) In what year did Mickey Mouse make his film debut? <span style="color:grey">***Answer: 1928.***</span>
 
-    2) What is the lowest temperature (in degrees Fahrenheit) ever recorded in California? <span style="color:grey">***-45
-    degrees Fahrenheit***</span>
+    2) What is the lowest temperature (in degrees Fahrenheit) ever recorded in California? <span style="color:grey">***Answer: -45
+    degrees Fahrenheit (in Boca, CA on January 20, 1937).***</span>
 
-    3) During the year 2014, how many television series were aired? <span style="color:grey">***1,715 TV shows***</span>
+    3) During the year 2014, how many television series were aired? <span style="color:grey">***Answer: 1,715 TV shows.***</span>
 
-    4) How far away, in miles, is Earth from the moon? <span style="color:grey">***238,900 miles***</span>
+    4) How far away, in miles, is Earth from the moon? <span style="color:grey">***Answer: 238,900 miles.***</span>
 
     5) What is the greatest number of children officially recorded that were all born to one
-    mother? <span style="color:grey">***69 children***</span>
+    mother? <span style="color:grey">***Answer: 69 children.***</span>
 
     6) In what year did Orville and Wilbur Wright, more commonly known as the Wright brothers,
-    make the first-ever powered flight in a plane? <span style="color:grey">***1903***</span>
+    make the first-ever powered flight in a plane? <span style="color:grey">***Answer: 1903.***</span>
 
     7) As of June 2015, how many of Rihanna’s songs have reached the Number 1 spot on
-    Billboard’s “Dance Club Hits” chart? <span style="color:grey">***23 songs***</span>
+    Billboard’s “Dance Club Hits” chart? <span style="color:grey">***Answer: 23 songs.***</span>
 
-    8) How many years have actors Will Smith and Jada Pinkett-Smith been married? <span style="color:grey">***As of January 2016, it was 18 years - they were married December 31, 1997.***</span>
+    8) How many years have actors Will Smith and Jada Pinkett-Smith been married? <span style="color:grey">***Answer: As of January 2024, it was 26 years - they were married December 31, 1997.***</span>
 
     9) How many hours will it take to complete a cross-country road trip from Los Angeles to
-    New York City according to Google Maps? <span style="color:grey">***41 hours (2,789.5 miles)***</span>
+    New York City according to Google Maps? <span style="color:grey">***Answer: 41 hours (2,789.5 miles).***</span>
     
     10) How many baseball fans can attend game at Dodger Stadium during any given day?
-    <span style="color:grey">***56,000 fans***</span>
+    <span style="color:grey">***Answer: 56,000 fans.***</span>
 
 9. Each student should write the total number of “correct” responses at the top of his or her partner’s
 handout, and then return it.
@@ -119,7 +119,7 @@ handout, and then return it.
 their intervals. The following questions can be used to steer the discussion:
 
     100. Remember that we were aiming to be 90% confident for each question. Based on this,
-    how many of the 10 questions should we each have gotten correct? <span style="color:grey">***If we are 90%
+    how many of the 10 questions should we each have gotten correct? <span style="color:grey">***Answer: If we are 90%
     confident, then we would expect 90% of the 10 intervals to include the true value,
     which is 9 intervals.***</span>
 
@@ -137,14 +137,14 @@ record his or her value. Then, ask:
     too low? Explain. <span style="color:grey">***Answers will vary by class. Most likely, the typical number of
     correct responses will be fairly low (maybe even 4 or less).***</span>
 
-    100. Why is our typical score so much lower than 9? <span style="color:grey">***We tend to be more confident than we
+    100. Why is our typical score so much lower than 9? <span style="color:grey">***Answer: We tend to be more confident than we
     should be, so we create narrower intervals.***</span>
 
     100. It looks like, even though we thought we were 90% confident, most of us (or all of us) did
-    not succeed 90% of the time. How could we increase our level of confidence? <span style="color:grey">***We could
+    not succeed 90% of the time. How could we increase our level of confidence? <span style="color:grey">***Answer: We could
     use wider intervals.***</span>
 
-12. Recall from Step 3 that, in statistics, to estimate something means that we can give a range of
+12. Recall from step 3 above that, in statistics, to estimate something means that we can give a range of
 values that we are confident include the population parameter value. This range of values, like
 the ones the students created during *The Confidence Game* activity, is known as a **confidence
 interval**.

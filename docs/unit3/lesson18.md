@@ -4,7 +4,8 @@
 Students will create statistical questions and evaluate their Participatory Sensing Campaign.
 
 ###**Materials:**
-1. *Campaign Creation* handout ([LMR_3.16_Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf)) from [previous lesson](lesson17.md)
+1. *Campaign Creation* handout ([LMR_U3_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_B.pdf)) from [previous lesson](lesson17.md)
+
 2. Class Campaign Information from [Lesson 16](lesson16.md)
 
 ###**Essential Concepts:**
@@ -38,7 +39,7 @@ social and civic change. Ask teams to consider the following questions and repor
 4. Display the campaign information students generated (and selected as a class) the previous day
 or revised today: Topic, Research question, Trigger, and Type of Data needed.
 
-5. Now they will continue the rounds using the Campaign Creation handout [LMR 3.16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.16_Campaign Creation.pdf) from the
+5. Now they will continue the rounds using the Campaign Creation handout [LMR_U3_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_B.pdf) from the
 previous lesson.
 
 6. <u>Round 4:</u> Now that the class has decided on a trigger and the type of data needed, they will
@@ -77,11 +78,11 @@ new Campaign.
     cognizant of question bias.
 
 8. <u>Round 5:</u> In teams, now generate two to three statistical questions that they might answer with
-these data. Make sure your statistical questions are interesting and relevant to the class topic of
+these data. Make sure your statistical investigative questions are interesting and relevant to the class topic of
 interest. They may keep a record in their DS Journals. Remind students that they will also have
 data about the date, time, and place of data collection.
 
-    <span style="color:grey">***Examples of statistical questions that can be answered for practicing cello are:***</span>
+    <span style="color:grey">***Examples of statistical investigative questions that can be answered for practicing cello are:***</span>
 
     <span style="color:grey">***“How frequently do I practice?”***</span>
 
@@ -89,10 +90,9 @@ data about the date, time, and place of data collection.
 
     <span style="color:grey">***“Are higher-rated sessions associated with time of day?”***</span>
 
-9. Once teams have generated their statistical questions, have them share out with the class.
+9. Once teams have generated their statistical investigative questions, have them share out with the class.
 Confirm that the questions are statistical and that they can be answered with the data the
-students propose to collect. As a class, decide on no more than 3 statistical questions to guide
-your campaign.
+students propose to collect.
 
 10. Now that they have all the pieces of the campaign, evaluate whether it’s a reasonable and
 ethically sound campaign. Engage the class in a whole group discussion on the following
@@ -112,7 +112,7 @@ questions:
     100. Can you change your trigger or survey questions to improve your evaluation?
 
     100. Will you be able to gather enough relevant data from your survey questions to be able to
-    answer your statistical questions?
+    answer your statistical investigative questions?
 
 11. Students have collaboratively created their first Participatory Sensing campaign. Inform them that
 you will be demonstrating one tool used to create the campaigns that they see on their smart

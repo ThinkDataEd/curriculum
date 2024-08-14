@@ -9,7 +9,7 @@ writing sensor questions.
 
 2. Sticky notes
 
-3. *Sensor or Survey?* handout ([LMR_3.14_Sensor or Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.14_Sensor or Survey.pdf))
+3. *Sensor or Survey?* handout ([LMR_U3_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L16.pdf))
 
 ###**Vocabulary:**
 [Participatory Sensing](../../vocabulary/unit3/#participatory-sensing "an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to systematically explore interesting aspects of their worlds ranging from health to culture"){ .md-button }
@@ -45,7 +45,7 @@ two minutes to write as much as they can:
     a. When you learned about survey questions, what were the two categories of questions
     you learned about? <span style="color:grey">***Answer: Open-ended and Closed-ended are the categories.***</span>
 
-    b. What are some examples of these types of questions? <span style="color:grey">***Open-ended: write a paragraph,
+    b. What are some examples of these types of questions? <span style="color:grey">***Possible answers: Open-ended: write a paragraph,
     comments, essays, write a sentence, single answer. Closed-ended: multiple or
     single choice, yes/no, scales (e.g. 1-5), choose from a list, check a box.***</span>
 
@@ -58,7 +58,7 @@ a trigger that reminds either a device or a person to answer a question or to co
 9. For this class, students have already had experience with using sensors as a data collection tool
 – all the **Participatory Sensing** campaigns.
 
-10. Explain that survey questions are asked in Participatory Sensing campaigns. There is no
+10. Explain that survey questions are asked in Participatory Sensing (PS) campaigns. There is no
 difference in the type of questions that are asked when collecting data via surveys and when
 collecting data via PS campaigns.
 
@@ -79,9 +79,12 @@ locations are good candidates for PS. Some questions might be answered by both.
     question could be done with a survey based on a random sample from the population of all high
     school students.
 
-12. Distribute the *Sensor or Survey?* ([LMR_3.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.14_Sensor or Survey.pdf)) handout. In teams, students will determine whether
+12. Distribute the *Sensor or Survey?* ([LMR_U3_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L16.pdf)) handout. In teams, students will determine whether
 a sensor or survey is better for a given research scenario.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.14_Sensor or Survey.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.14_Sensor or Survey.pdf)</div>
+
+    **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference.
+    
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L16.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L16.pdf)</div>
 
 13. Once the teams have completed the handout, assign each team one research scenario from the
 *Sensor or Survey* activity.

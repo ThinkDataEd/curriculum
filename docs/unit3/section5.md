@@ -33,18 +33,24 @@ Data from the web has been used to predict outbreaks of the flu and is a source 
 sets.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used, and how to work with it.
+1. Students will compare and contrast appropriateness of CSV, HTML, or XML for different data needs.
 
 2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+understanding of how data is stored and viewed online.
 
 3. Students will engage in discussions regarding internet research as it applies to data science.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
+
+<ins>*Data File:*</ins>
+
+1. Students' Parrticipatory Sensing campaign data
+
 <ins>*Data Collection Method:*</ins>
 
-1. Students will scrape data from online HTML and XML sources.
+1. Students will scrape data from online HTML sources.
+
+2. Students will gather data generated through a class-generated Participatory Sensing campaign.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

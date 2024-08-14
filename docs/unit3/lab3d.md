@@ -21,10 +21,12 @@ Directions: Follow along with the slides, completing the questions in <span styl
 * <span style="color:midnightblue;">**Load the built-in ```atus``` (*American Time Use Survey*) dataset, which is a survey of how a
 sample of Americans spent their day.**</span>
 
-    – <span style="color:firebrick;">**The United States has an estimated population of 327,350,075. How many
+    – <span style="color:firebrick;">**The United States has an estimated population of 336,302,171 (as of April 15, 2024 9:10 a.m. PDT). How many
     people were surveyed for this particular dataset?**</span>
 
-* The statistical question we wish to investigate is:
+    - Note: If you want to know the US population or world population in real time, click on this link: [https://www.census.gov/popclock/](https://www.census.gov/popclock/ "https://www.census.gov/popclock/")
+
+* The statistical investigative question we wish to answer is:
 
     *What is the mean age of people older than 15 living in the United States?*
 
@@ -39,7 +41,7 @@ living in the U.S.**</span>
 
     – The ```size``` of the sample should be the same size as the original data.
 
-* We can create a single *bootstrapped* sample for the ```mean``` in three steps:
+* We can create a single *bootstrapped* sample for the ```mean``` in 3 steps:
 
     `1. Sample the number of the rows to use in our *bootstrap*.
 
@@ -85,7 +87,7 @@ of ```set.seed()``` to create your own, personal *bootstrapped* sample. Then cal
 * To make ```do()```-ing 500 *bootstraps* easier, we'll code our 3-step bootstrap method into a
 function.
 
-    – <span style="color:midnightblue;">**Open a new R script (File -> New File -> R Script) to write your function into.**</span>
+    – <span style="color:midnightblue;">**Open a new R Script (File -> New File -> R Script) to write your function into.**</span>
 
 ###**Bootstrap function**
 * <span style="color:midnightblue;">**Fill in the blank space below with the 3 steps needed to create a *bootstrapped* sample ```mean```

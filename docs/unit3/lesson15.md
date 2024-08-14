@@ -6,13 +6,13 @@ Students will learn what sensors are and how they are used to collect data.
 ###**Materials:**
 1. Video: *Play Like Nadal With a Smart Tennis Racket*<br> [https://youtu.be/lcBnzddQECc](https://youtu.be/lcBnzddQECc "https://youtu.be/lcBnzddQECc"){:target="_blank"}
 
-2. Computers (see Step 5)
+2. Computers (see step 5 in lesson)
 
 3. Poster paper
 
 4. Flags in 3 different colors
 
-    **Advanced preparation required** (see Step 10 below)
+    **Advance preparation required:** Need to set up groups/activity (see step 10 in lesson)
 
 ###**Vocabulary:**
 [sensor](../../vocabulary/unit3/#sensor "a converter that measures a physical quantity and converts it into a signal, which can be read by an observer or by an instrument"){ .md-button }
@@ -27,7 +27,7 @@ Students will learn what sensors are and how they are used to collect data.
 
 ###**Lesson:**
 1. *Entrance Ticket:* What are some of the data collection methods we have learned about so far in
-this unit? <span style="color:grey">***We have learned about experiments, observational studies, surveys, and getting
+this unit? <span style="color:grey">***Answer: We have learned about experiments, observational studies, surveys, and getting
 data from a URL (in [Lab 3B](lab3b.md)).***</span>
 
 2. Inform students that, in this lesson, they will be introduced to another data collection method
@@ -124,12 +124,12 @@ palm facing the students and count down. The rules for teams are as follows:
 Make sure you call out the flag that has no assignment at least once so that students see that no
 action took place. Reflect on the activity with the following discussion questions:
 
-    100. What data were missed? Why? <span style="color:grey">***Data about what our class likes to do after school.
+    100. What data were missed? Why? <span style="color:grey">***Answer: Data about what our class likes to do after school.
     They were missed because there was no Sensor connected to the Green trigger, so
     the Collector never knew to collect this type of data.***</span>
 
     100. Grocery stores keep track of customer data when purchases are made with a loyalty card.
-    What is the trigger in this case? What data are being collected? <span style="color:grey">***The trigger is checking
+    What is the trigger in this case? What data are being collected? <span style="color:grey">***Answer: The trigger is checking
     out at a grocery store. There are lots of data that are collected, including: items
     bought, cost of items, number of items on sale, etc.***</span>
 

@@ -1,4 +1,4 @@
-##***<u>End of Unit Project and Oral Presentation: TB or Not TB?</u>***
+##***<u>End of Unit Project and Presentation: TB or Not TB?</u>***
 
 ###**Objective:**
 Students will apply what they have learned in the unit.
@@ -6,19 +6,19 @@ Students will apply what they have learned in the unit.
 ###**Materials:**
 1. Computers
 
-2. *IDS Unit 3 – Project and Oral Presentation* ([LMR_U3_End of Unit Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End of Unit Project.pdf))
+2. *IDS Unit 3 – Project and Presentation* ([LMR_U3_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End_of_Unit_Project.pdf))
 
 <center>**IDS Unit 3 – End of Unit Project**</center>
     
 <center>**TB or Not TB**</center>
 
 Experiments in the medical field that involve new treatments (new medications) are called clinical trials.
-You have received a data set that shows the results from Sir Austin Bradford Hill’s first randomized study
+You have received a dataset that shows the results from Sir Austin Bradford Hill’s first randomized study
 in 1948 examining the effects of the antibiotic Streptomycin on 107 tuberculosis patients. You and a
-partner will use this data set to find out if Streptomycin is an effective treatment for tuberculosis.
+partner will use this dataset to find out if Streptomycin is an effective treatment for tuberculosis.
 
 A short article about tuberculosis facts can be found at:
-[http://www.cdc.gov/tb/publications/factsheets/general/tb.htm](http://www.cdc.gov/tb/publications/factsheets/general/tb.htm "http://www.cdc.gov/tb/publications/factsheets/general/tb.htm"){:target="_blank"}
+[https://www.cdc.gov/tb/communication-resources/tuberculosis-fact-sheet.html](https://www.cdc.gov/tb/communication-resources/tuberculosis-fact-sheet.html "https://www.cdc.gov/tb/communication-resources/tuberculosis-fact-sheet.html"){:target="_blank"}
 
 Since this is an experiment, answer the following questions below. You may need to research the answer
 to some of the questions.

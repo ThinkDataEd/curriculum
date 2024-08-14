@@ -30,14 +30,14 @@ speech, was 4.22. There should already be a vertical line on the dotplot to indi
 if it is not present, please add it during this step. Ask:
 
     100. What vocabulary word was used to describe each of the sample means we each created
-    during [Lesson 11](lesson11.md)? <span style="color:grey">***The sample statistic. Every dot on the graph represents one
+    during [Lesson 11](lesson11.md)? <span style="color:grey">***Answer: The sample statistic. Every dot on the graph represents one
     sample statistic, more specifically each dot corresponds to a different sample
     mean.***</span>
 
-    100. How many of us got exactly the right value? <span style="color:grey">***Probably none.***</span>
+    100. How many of us got exactly the right value? <span style="color:grey">***Answer: Probably none.***</span>
 
     100. Thinking back on The Confidence Game we played yesterday, what approach could we
-    do so that 90% of us would be correct? <span style="color:grey">***We could give an interval.***</span>
+    do so that 90% of us would be correct? <span style="color:grey">***Answer: We could give an interval.***</span>
 
 5. Show students that they can give an interval in the form:
 
@@ -73,12 +73,16 @@ ballpark figure for the margin of error is 1.3.
 random.
 
     100. What's the probability that the sample statistic plus or minus the margin of error would
-    include the parameter value? <span style="color:grey">***90%.***</span>
+    include the parameter value? <span style="color:grey">***Answer: 90%.***</span>
 
 12. Because of this, we call these 'confidence intervals.' When we report an interval, for example 2.7
 to 4.3, we say "We are 90% confident that the population parameter value is between 2.7 and
 4.3." This is another way of saying "We don't know what the exact true value is, but we're
 confident it is somewhere in this interval."
+
+    **<u>Note:</u>*** Correct definition: 90% confidence means that if you were to compute the interval many times, 90% of them would include the population parameter.
+
+    Misconception: 90% confidence means that there is a 90% chance that the population parameter is in the interval.
 
 13. Remind students of the Pew Poll they discussed during [Lesson 10](lesson10.md). For reference, the Pew
 Research Center made the following statement in their August 2015 report titled *Teens,
@@ -106,18 +110,13 @@ what the margin of error means in context of the Pew Poll.
     us a range of plausible values for the population parameter. This is called a confidence
     interval.
 
-16. If time allows, introduce students to the idea of **bootstrapping**, which is where we take random
-samples of really large samples. For example, if we were looking at Twitter data, it would be
-almost impossible to compile every single tweet that exists in the population. Instead, we might
-be able to access 500,000 tweets, which is a very large sample. From this sample, we could
-create smaller random samples of size 100 and make inferences about the overall population of
-tweets from these samples. This will be discussed further in [Lab 3D](lab3d.md).
+16. In preparation for the lab, introduce students to the idea of **bootstrapping**. Bootstrapping is a method statisticians use to learn more about a population of interest by studying a sample that they have already collected. Instead of getting more data, they create new samples by picking from existing data, repeating this process many times. This helps them figure out more about the original population of interest without needing additional data. Show the following video for an example: [https://www.youtube.com/watch_popup?v=Xz0x-8-cgaQ&t=1s](https://www.youtube.com/watch_popup?v=Xz0x-8-cgaQ&t=1s "https://www.youtube.com/watch_popup?v=Xz0x-8-cgaQ&t=1s"){:target="_blank"}
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Next Day**</p>
-[<u>***LAB 3D: Are You Sure about That?***</u>](lab3d.md)
+[<u>***LAB 3D: Are you sure about that?***</u>](lab3d.md)
 
 Complete [Lab 3D](lab3d.md) prior to the [Let’s Build a Survey! Practicum](practicum2.md).
