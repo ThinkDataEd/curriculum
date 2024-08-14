@@ -16,18 +16,19 @@ components. The video can be found at:
   src="https://www.youtube.com/embed/-3Nk9t7-rCs" allowfullscreen>
   </iframe><br><a href="https://www.youtube.com/embed/-3Nk9t7-rCs">https://www.youtube.com/embed/-3Nk9t7-rCs</a></div>
 
+(or [https://www.youtube.com/watch?v=ofQkOfeg60g](https://www.youtube.com/watch?v=ofQkOfeg60g "https://www.youtube.com/watch?v=ofQkOfeg60g"))
+
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
 
-S-IC 1: Understand statistics as a process for making inferences about population parameters based on a
-random sample from that population.
+S-IC B-4: Use data from a sample survey to estimate a population mean or proportion; develop a margin of error through the use of simulation models for random sampling.
+
+S-IC 1: Understand statistics as a process for making inferences about population parameters based on a random sample from that population.
 
 S-IC 3: Recognize the purposes of and differences among sample surveys, experiments, and
 observational studies; explain how randomization relates to each.
 
 S-IC 6: Evaluate reports based on data.
-
-S-IC B.4 Use data from a sample survey to estimate a population mean or proportion; develop a margin of error through the use of simulation models for random sampling.
 
 <ins>*Data Science:*</ins>
 
@@ -42,18 +43,16 @@ can be minimized when larger random samples are collected from a population.
 • Create informal confidence intervals based on sample medians.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it is used, and how to work with it.
+1. Students will describe the attributes of a survey.
 
-2. Students will engage in partner and whole group discussions and presentations to express their
-understanding of data science concepts.
+2. Students will engage in partner and whole group discussions to express their understanding of sampling techniques.
 
-3. Students will write questions that emphasize differences in data science concepts and skills.
+3. Students will connect informal confidence intervals to formal confidence intervals in RStudio/Posit Cloud.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 <ins>*Data File:*</ins>
 
-1. American Time-Use Survey (ATUS) data
+1. American Time-Use Survey (ATUS): ```data(atus)```
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)

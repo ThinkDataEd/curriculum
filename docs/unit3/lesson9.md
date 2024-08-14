@@ -13,7 +13,7 @@ types of questions are used in a survey, and how a survey is conducted.
     Video: *Family Feud* video clip titled “Family Feud – Comeback of the Century” found at:<br>
     [https://www.youtube.com/watch_popup?v=ofQkOfeg60g](https://www.youtube.com/watch_popup?v=ofQkOfeg60g "https://www.youtube.com/watch_popup?v=ofQkOfeg60g"){:target="_blank"} (bad quality, but happy ending)
 
-2. *Designing a Survey* handout ([LMR_3.4_Designing a Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf))
+2. *Designing a Survey* handout ([LMR_U3_L9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L9.pdf))
 
 ###**Vocabulary:**
 [survey](../../vocabulary/unit3/#survey "an investigation about the characteristics of a given population by means of collecting data from a sample of that population and estimating their characteristics through the systematic use of statistical methodology"){ .md-button }
@@ -39,13 +39,13 @@ first round. The second person is given 25 seconds to earn points with different
 
 2. As students watch the video, have them answer the following questions in their DS journals:
 
-    100. How many people were surveyed? <span style="color:grey">***100***</span>
+    100. How many people were surveyed? <span style="color:grey">***Answer: 100***</span>
     
-    100. Who was represented in the survey? <span style="color:grey">***Single men***</span>
+    100. Who was represented in the survey? <span style="color:grey">***Answer: Single men***</span>
 
-    100. How many survey questions were asked? <span style="color:grey">***5***</span>
+    100. How many survey questions were asked? <span style="color:grey">***Answer: 5***</span>
 
-    100. When the host says “survey said” and we see the response, what does it mean? <span style="color:grey">***It
+    100. When the host says “survey said” and we see the response, what does it mean? <span style="color:grey">***Answer: It
     means that X number of people out of the 100 gave that response to the survey
     question.***</span>
 
@@ -73,23 +73,23 @@ text approach, whereas closed-ended questions give a fixed set of choices.
 8. Display the following list to the class. With a partner, have the students categorize the following
 types of questions as either open-ended or closed-ended:
 
-    100. Multiple choice <span style="color:grey">***(closed)***</span>
+    100. Multiple choice <span style="color:grey">***Answer: closed***</span>
 
-    100. Write a paragraph <span style="color:grey">***(open)***</span>
+    100. Write a paragraph <span style="color:grey">***Answer: open***</span>
 
-    100. Yes/No <span style="color:grey">***(closed)***</span>
+    100. Yes/No <span style="color:grey">***Answer: closed***</span>
 
-    100. Comments <span style="color:grey">***(open)***</span>
+    100. Comments <span style="color:grey">***Answer: open***</span>
 
-    100. Essays <span style="color:grey">***(open)***</span>
+    100. Essays <span style="color:grey">***Answer: open***</span>
 
-    100. On a scale from 1 to 5 <span style="color:grey">***(closed)***</span>
+    100. On a scale from 1 to 5 <span style="color:grey">***Answer: closed***</span>
 
-    100. Choose from a list <span style="color:grey">***(closed)***</span>
+    100. Choose from a list <span style="color:grey">***Answer: closed***</span>
 
-    100. Write a sentence <span style="color:grey">***(open)***</span>
+    100. Write a sentence <span style="color:grey">***Answer: open***</span>
 
-    100. Check a box <span style="color:grey">***(closed)***</span>
+    100. Check a box <span style="color:grey">***Answer: closed***</span>
 
 9. Do a quick *Whip Around* to share the categorization for each type of question. Be sure that
 students make corrections to the list if any items were miscategorized.
@@ -103,16 +103,16 @@ scenario as a class to try to answer the following research question:
 
     **What are ‘families’ in the United States?**
 
-12. Distribute the Designing a Survey handout ([LMR_3.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf)) and let students fill in the boxes for
+12. Distribute the Designing a Survey handout ([LMR_U3_L9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L9.pdf)) and let students fill in the boxes for
 “Research Topic” <span style="color:grey">***(Families)***</span> and “Research Question” <span style="color:grey">***(What are ‘families’ in the United
 States?)***</span>.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.4_Designing a Survey.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L9.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L9.pdf)</div>
 
 13. Inform students that the left side of the handout will be completed as a class, and then student
 teams will work together to complete the right side.
 
 14. Using the Data Cycle as a guide, students should brainstorm a statistical investigative question that is related
-to the research question. One might be: <span style="color:grey">***What is the typical family size in the United States?***</span>
+to the research question. <span style="color:grey">***A possible question might be: What is the typical family size in the United States?***</span>
 
     **<u>Note:</u>** This requires a definition of “family,” which can have a variety of meanings to different
     people. Different definitions will likely guide the discussion of possible survey questions in the
@@ -140,7 +140,7 @@ students to join their student teams for the remainder of the activity.
 18. Each team should come up with a statistical investigative question that might answer the research question,
 then determine 3 survey questions that match their statistical investigative question. Have the students create
 both open- and closed-ended questions in the handout. Each survey question should be a
-different type (see Step 8).
+different type (see step 8 from above).
 
 19. Have student teams share out their statistical investigative questions and related survey questions with the
 rest of the class.
@@ -151,7 +151,7 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 For homework, students should choose one of their team’s survey questions and rewrite it 3 ways, using
-3 different question types (see Step 8). Example rewrites for the survey question “How many siblings
+3 different question types (see step 8 in lesson). Example rewrites for the survey question “How many siblings
 do you have?” are given below for reference.
 
 <span style="color:grey">***(a.) Multiple choice:***</span>
