@@ -21,7 +21,7 @@ States.
 
 **Consider Data:** The categories below are similar to the categories found in the American Time Use Survey (ATUS), which provides nationally representative estimates of how Americans spend their time. Having similar variables allows students to compare the way they spend their time to the official ATUS dataset. Before students begin collecting data, it is important to discuss different activities in their day and how they might be classified. A class consensus of the meaning of the variables must be reached so that proper analysis and interpretations can be made. 
 
-**Note:** Students cannot double dip their time. For example, if they read during class, then those minutes spent reading do not count towards “read” but instead toward “school”. Below are the definitions of some of the variables in the ATUS documentation.
+**<u>Note:</u>** Students cannot double dip their time. For example, if they read during class, then those minutes spent reading do not count towards “read” but instead toward “school”. Below are the definitions of some of the variables in the ATUS documentation.
 
 Students will respond to the following questions:
 

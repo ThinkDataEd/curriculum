@@ -43,7 +43,7 @@ Guidelines*.
 3. Next, inform students that *The Bureau of Labor Statistics* (BLS) collects data about Americans’
 daily time use and that they will be exploring time use through an interactive graphic.
 
-4. Ask students to go to the multimedia graphic at the following URL:[https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
+4. Ask students to go to the multimedia graphic at the following URL: [https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
 metrics-graphic.html](https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
 metrics-graphic.html "https://archive.nytimes.com/www.nytimes.com/interactive/2009/07/31/business/20080801-
 metrics-graphic.html"){:target="_blank"}
@@ -119,11 +119,11 @@ of the day were.
 For the next 5 days, students will collect data using the Time Use campaign on their smart devices or via
 web browser.
 
-[<u>***LAB 1F: A Diamond in the Rough***</u>](lab1f.md)
+<center>[<u>***LAB 1F: A Diamond in the Rough***</u>](lab1f.md)</center>
 
-and
+<center>and</center>
 
-<u>***Data Collection Monitoring***</u>
+<center><u>***Data Collection Monitoring***</u></center>
 
 1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
 [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} Click on **Campaign Monitor** and sign in.

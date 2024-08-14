@@ -169,10 +169,10 @@ of the day were.
 Students should continue to collect nutritional facts data using the Food Habits Participatory Sensing
 campaign on their smart devices or via web browser.
 
-[<u>***Lab 1A: Data, Code & RStudio***</u>](lab1a.md)
+<center>[<u>***Lab 1A: Data, Code & RStudio***</u>](lab1a.md)</center>
 
-[<u>***Lab 1B: Get the Picture?***</u>](lab1b.md)
+<center>[<u>***Lab 1B: Get the Picture?***</u>](lab1b.md)</center>
 
-[<u>***Lab 1C: Export, Upload, Import***</u>](lab1c.md)
+<center>[<u>***Lab 1C: Export, Upload, Import***</u>](lab1c.md)</center>
 
-Complete [Labs 1A](lab1a.md), [1B](lab1b.md) and [1C](lab1c.md) prior to [Lesson 14](lesson14.md)
+<center>Complete [Labs 1A](lab1a.md), [1B](lab1b.md) and [1C](lab1c.md) prior to [Lesson 14](lesson14.md)</center>

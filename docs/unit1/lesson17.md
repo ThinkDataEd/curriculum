@@ -85,9 +85,9 @@ it. The questions should look familiar because they are the same type of questio
 information. <span style="color:grey">***Possible answer: You would find the answers in the cells that make
 up the body of the table.***</span>
 
-11. After a few minutes, ask a team to volunteer a response. Mark up the cells in the body of the table to show that the cells with the initial counts are called **joint frequencies**, like in 91. When you take the value of each cell over the total number of observations (the proportion), these are the ***joint relative frequencies***, like in 9b and c. <span style="color:grey">***See example:***</span>
+11. After a few minutes, ask a team to volunteer a response. Mark up the cells in the body of the table to show that the cells with the initial counts are called **joint frequencies**, like in 9a. When you take the value of each cell over the total number of observations (the proportion), these are the ***joint relative frequencies***, like in 9b and c. <span style="color:grey">***See example:***</span>
 
-<img src="../../img/u1_l17_s11.png" />
+    <img src="../../img/u1_l17_s11.png" />
 
 12. There are multiple types of relative frequencies. Let's look at other ways of understanding a two-way frequency table using another type of relative frequency.
 
@@ -106,7 +106,7 @@ information. <span style="color:grey">***Possible answer: You would find the pro
 
 15. After a few minutes, ask a team to volunteer a response. Mark up the margins on the table to show that the cells with the initial total counts are called **marginal frequencies**, like in 13a. When you take the total of each row (or column) over the total number of observations, these are the ***marginal relative frequencies***, like in 13b and c. <span style="color:grey">***See example:***</span>
 
-<img src="../../img/u1_l17_s15.png" />
+    <img src="../../img/u1_l17_s15.png" />
 
 16. Suppose that we wanted to answer the question: Of the students who play an instrument, what proportion own a cat?
 
@@ -117,7 +117,7 @@ information. <span style="color:grey">***Possible answer: You would first find t
 18. After a few minutes, ask a team to volunteer a response. Encourage students to agree or
 disagree with the explanations provided. Lead students to see that the total for the “Plays an isntrument” column is important because we are only concerned with that subset of the group. Mark up the "Plays an instrument" column on the table to show that we have conditioned, or are bound, by this variable. This is a ***conditional relative frequency*** by *column*.
 
-<img src="../../img/u1_l17_s18.png" />
+    <img src="../../img/u1_l17_s18.png" />
 
 19. Finally, suppose that we wanted to answer the question: Do a greater proportion of students in Rosa's art class who do not play an instrument own a cat than those who do play an instrument?
 
@@ -125,9 +125,9 @@ disagree with the explanations provided. Lead students to see that the total for
 
 21. After a few minutes, ask a team to volunteer a response. Encourage students to agree or disagree with the explanations provided. Lead students to see that the total for the "Does not play instrument" column is important because we are now also concerned with that subset of the group. Mark up the "Does not play instrument" column on the table to show that we have conditioned, or are bound, by this variable. Compare the values that show the ***conditional relative frequency*** for each *column*, "Does not play instrument" and "Plays an instrument". A higher proportion of students who do not play an instrument own a cat than students who do play an instrument.
 
-<img src="../../img/u1_l17_s21.png" />
+    <img src="../../img/u1_l17_s21.png" />
 
-**Note:** These are conditional relative frequency by column. We can also calculate conditional relative frequencies by row if we were interested in knowing the difference in playing an instrument for those who own cats versus those who do not.
+    **<u>Note:</u>** These are conditional relative frequency by column. We can also calculate conditional relative frequencies by row if we were interested in knowing the difference in playing an instrument for those who own cats versus those who do not.
 
 22. Was Rosa right? <span style="color:grey">***Answer: Looking back at our scenario introduced in the last lesson, "Rosa has a theory that musicians are more likely to own a cat," our analysis in steps 19-21 above does not provide evidence to support her theory. We found that a higher proportion of students who do not play an instrument own a cat than students who do play an instrument.***</span>
 
@@ -136,7 +136,7 @@ student team.
 
     **<u>Advance preparation required:</u>**
 
-    Print the *Analyzing Categorical Variables* file ([LMR_U1_l17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)). The handouts can then be cut into a
+    Print the *Analyzing Categorical Variables* file ([LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)). The handouts can then be cut into a
     total of 20 cards (12 visuals, 8 numerical summaries). You will need enough sets of the cards for
     each student team to share one full set. For example, if there are 5 student teams in a class, then
     5 copies of the file will need to be printed so that each team gets all 20 cards.
@@ -185,9 +185,9 @@ of the day were.
 Using the data below, generate 2 questions: one must be answered with a marginal relative
 frequency and the other must be answered by a conditional relative frequency.
 
-Work Preference and the Color Red
+<center>**Work Preference and the Color Red**</center>
 
-Which emotion do you most relate with the color red?
+<center>**Which emotion do you most relate with the color red?**</center>
 
 | |Love | Anger | Fear |Total |
 | ------------ | ------------- | ------------ | ------------ | ------------ |
@@ -195,6 +195,6 @@ Which emotion do you most relate with the color red?
 | Evening shift| 12 | 15 | 10 | 37 |
 | Total| 19 | 26 | 15 | 60 |
 
-[<u>***Lab 1G: What’s the FREQ?***</u>](lab1g.md)
+<center>[<u>***Lab 1G: What’s the FREQ?***</u>](lab1g.md)</center>
 
-Complete [Lab 1G](lab1g.md) prior to the [Practicum](practicum2.md).
+<center>Complete [Lab 1G](lab1g.md) prior to the [Practicum](practicum2.md).</center>
