@@ -68,7 +68,7 @@ same age. The ages vary, so there is variability in the data***</span>).
 
 10. Have the Task Manager organize their group’s investigative questions on the board, placing investigative questions that incorporate only one variable on the left-hand side of the board and investigative questions that incorporate two or more variables on the right-hand side.
 
-    <b>Note:</b> This sorting activity will help students begin to distinguish between different types of investigative questions. 
+    <b><u>Note:</u></b> This sorting activity will help students begin to distinguish between different types of investigative questions. 
     
     **Summary investigative questions** are questions about a single variable.
     
@@ -114,7 +114,8 @@ same age. The ages vary, so there is variability in the data***</span>).
 
 14. Ask the Reporters of selected teams to share their revised statistical investigative question(s). Students in the audience will listen to the presentations and provide feedback about each team’s statistical investigative question(s). Be sure to discuss disagreements before moving on to different questions.
 
-Additional practice: Students can practice identifying types of investigative questions and rewriting them to be good statistical investigative questions using the *Statistical Investigative Questions Scenarios* handout ([LMR_U1_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L5.pdf)). This can be done in groups during class or individually for homework.
+    Additional practice: Students can practice identifying types of investigative questions and rewriting them to be good statistical investigative questions using the *Statistical Investigative Questions Scenarios* handout ([LMR_U1_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L5.pdf)). This can be done in groups during class or individually for homework.
+    
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L5.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L5.pdf)</div>
 
 15. Inform students that, in the next lesson, they will begin using the Data Cycle to learn about their food habits. To prepare for this, students should begin collecting the “Nutrition Facts” labels from foods/snacks they typically eat.

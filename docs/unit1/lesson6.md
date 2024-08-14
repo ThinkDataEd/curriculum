@@ -13,12 +13,12 @@ recorded in order to attain consistency.
     src="https://www.youtube.com/embed/I0vYwqkoktM" allowfullscreen>
     </iframe><br><a href="https://www.youtube.com/embed/I0vYwqkoktM">https://www.youtube.com/embed/I0vYwqkoktM</a></div>
 
-    **Note:** If the video is unavailable, search for "Jamie Oliver's Food Revolution What's In a
+    **<u>Note:</u>** If the video is unavailable, search for "Jamie Oliver's Food Revolution What's In a
     Sundae". The video should be 5-6 minutes in length.
 
 2. Nutrition Facts labels or pictures (collected previously by students)
 
-    **Note:** If needed, use *Nutrition Facts Cutouts* handout ([LMR_U1_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf))
+    **<u>Note:</u>** If needed, use *Nutrition Facts Cutouts* handout ([LMR_U1_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf))
 
 3. *Food Habits Data Collection* handout ([LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf))
 

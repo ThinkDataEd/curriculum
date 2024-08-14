@@ -55,7 +55,7 @@ graphic from *The Data Cycle* file ([LMR_U1_L4_A](../IDS_Curriculum_v_5.0/2_IDS_
 3. Display the Data Cycle on the board or on a projector, and give a brief explanation of the 4
 components (listed below).
 
-    **Note:** we will explore each component of the Data Cycle more explicitly throughout the course.
+    **<u>Note:</u>** we will explore each component of the Data Cycle more explicitly throughout the course.
 
     100. **Pose Statistical Investigative Questions:** Statistical investigative questions are questions that address variability and
     can be answered with data.
@@ -87,11 +87,11 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
     
 9. Allow each group time to discuss the questions and have one member from each team (corner) share the answers to the questions. This activity is not about having a correct answer. It is about having students begin to think critically about statistical artifacts that they are constantly consuming. Data are encountered through visualizations, reports from scientific studies, journalists’ articles and websites. This activity is meant to begin to develop students' statistical habits of mind.
 
-10. Artifact 1: Spreadsheet of the CDC data <br> **Note:** The CDC uses sex as a binary variable, which may bring up classroom conversations about sex and gender. While medical science has moved to a non-binary definition of gender and also allows for more than two sexes, this notion has not yet made its way into many official agencies. We feel students need experience working with data from these government agencies since they play a very important role in the US economic and cultural life.
+10. Artifact 1: Spreadsheet of the CDC data <br> **<u>Note:</u>** The CDC uses sex as a binary variable, which may bring up classroom conversations about sex and gender. While medical science has moved to a non-binary definition of gender and also allows for more than two sexes, this notion has not yet made its way into many official agencies. We feel students need experience working with data from these government agencies since they play a very important role in the US economic and cultural life.
 
     <img src="../../img/cdc.png" />
 
-    **Note:** You can display this spreadsheet using RStudio by running the following commands:
+    **<u>Note:</u>** You can display this spreadsheet using RStudio by running the following commands:
 ```data(cdc)```
 ```View(cdc)```
 
@@ -134,7 +134,7 @@ website by Nikhil Sonnad as a data visualization. He collected the data via Twit
 19. Assign ONE of the pages from the *Bros & Dudes Graphics* handout ([LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)) to each team. There are 10 different
 versions of word pairings (10 combinations of 2 words chosen from the 5 options), so multiple
 teams will have the same graphic if there are more than 10 teams in a class.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.5_Bros %26 Dudes Graphics.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)</div>
 
 20. The goal of this activity is for each team to complete a full statistical investigation with the *Bros & Dudes Graphics* assigned to them. Tell the teams that they need to create a Data Cycle poster using their assigned graphic for the analyze stage. The cycle should be clearly labeled and have appropriate responses for each of the 4 components.
 

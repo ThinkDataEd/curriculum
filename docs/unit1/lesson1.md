@@ -13,7 +13,7 @@ Students will understand what are data, how they are collected, and possible eff
     </iframe><br><a href="https://www.youtube.com/embed/XvSA-6BJkx4">https://www.youtube.com/embed/XvSA-6BJkx4</a></div>
 
 2. Data Science (DS) journal (quad-ruled composition book or similar)
-<br> **Note:** MUST be available for every
+<br> **<u>Note:</u>** MUST be available for every
 lesson
 
 3. *Data Diary* handout ([LMR_U1_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf))

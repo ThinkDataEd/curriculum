@@ -78,7 +78,7 @@ note and add it to the poster to provide feedback for the original team.
     differently across teams? <span style="color:grey">***Answers will vary by class.***</span>
  
     100. What information was available about the stick figures on each card? <span style="color:grey">***Answer: The person’s
-    name, height, GPA, shoe style, sport, and number of friends on social media.***</span> <br> **Note:** The names of the stick figures were purposely chosen as gender-neutral, as we never want to make assumptions about our data unless it's explicitly stated.
+    name, height, GPA, shoe style, sport, and number of friends on social media.***</span> <br> **<u>Note:</u>** The names of the stick figures were purposely chosen as gender-neutral, as we never want to make assumptions about our data unless it's explicitly stated.
 
     100. Which representations made it easy to see what (or who) the objects were that were
     observed? Which representations made it easy to see whether different stick figures had

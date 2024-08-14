@@ -53,7 +53,7 @@ from “Height.”
 
     100. The values from “Shoe” are either “sneakers” or “sandals”.
 
-        **Note:** Other terms for these shoes are acceptable – e.g., tennis shoes, flip flops, closed-toe,
+        **<u>Note:</u>** Other terms for these shoes are acceptable – e.g., tennis shoes, flip flops, closed-toe,
         open-toe, etc.
 
     100. The values from “Height” are 72, 68, 61, 66, 65, 61, 67, and 64.
@@ -63,7 +63,7 @@ from “Height.”
 **categorical variables** and **numerical variables**. Typically, categorical variables represent
 values that have words, while numerical variables represent values that have numbers.
 
-    **Note:** Categorical variables can sometimes be coded as numbers (e.g., “Shoe” could have
+    **<u>Note:</u>** Categorical variables can sometimes be coded as numbers (e.g., “Shoe” could have
     values 0 and 1, where 0 = Sneakers and 1 = Sandals).
 
 5. As a class, determine which variables from the *Stick Figures* data are numerical, and which
