@@ -175,4 +175,4 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     * <span style="color:midnightblue;">**Add the following option to the code you used to create the ```dotPlot``` of the ```sugar``` in ```Sweet``` snacks.**</span>
 
-        main = "Distribution of sugar in sweet snacks"
+        ```main = "Distribution of sugar in sweet snacks"```

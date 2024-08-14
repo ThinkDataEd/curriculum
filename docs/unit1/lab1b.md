@@ -66,7 +66,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
     
     - <span style="color:midnightblue;">**Type the command below on your console and then answer the questions that follow:**</span>
 
-        histogram(~weight, data = cdc, nint = 3)
+        ```histogram(~weight, data = cdc, nint = 3)```
 
 * <span style="color:firebrick;">**How did including the option ```nint = 3``` change the ```histogram```?**</span>
 

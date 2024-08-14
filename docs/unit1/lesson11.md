@@ -7,7 +7,7 @@ distribution might be one shape or another.
 ###**Materials:**
 1. *Sorting Histograms* handout ([LMR_U1_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L11.pdf)) - one copy per group of 4 students.
 (This activity comes from the AIMS project, University of Minnesota, J. Garfield.)<br>
-    **Advance preparation required:** Needs to be cut into sets (see step 1 in lesson)
+    **<u>Advance preparation required:</u>** Needs to be cut into sets (see step 1 in lesson)
 
 ###**Vocabulary:**
 

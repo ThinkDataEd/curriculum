@@ -116,16 +116,16 @@ command in the console
     100. Ask: What do you notice? Describe the output. <span style="color:grey">***Answer: The levels are missing. It happened
     because the variable 'height' contains numbers, not categories.***</span>
 
-13. Let’s take a closer look at the variables seat_belt and height. Maximize the console. Ask teams to
+13. Let’s take a closer look at the variables *seat_belt* and *height*. Maximize the console. Ask teams to
 discuss the following question:
 
-    What is the difference between the data from the variables seat_belt and height? <span style="color:grey">***Answer: The
+    What is the difference between the data from the variables *seat_belt* and *height*? <span style="color:grey">***Answer: The
     data from the 'seat_belt' variable is categorical, which means it consists of
     groupings. The data from the variable 'height' is numerical, which means it consists
     of numbers.***</span>
 
-14. Summarize: In data science, the variable seat_belt is what we call a **categorical variable**, and
-the variable height is what we call a **numerical variable**.
+14. Summarize: In data science, the variable *seat_belt* is what we call a **categorical variable**, and
+the variable *height* is what we call a **numerical variable**.
 
 15. Let’s look at the other variables in this dataset. In pairs, categorize each variable as categorical
 or numerical:
