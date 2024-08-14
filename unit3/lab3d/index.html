@@ -3625,11 +3625,14 @@ usually don't know what they are, because we can't see the entire population.</p
 <li>
 <p><span style="color:midnightblue;"><strong>Load the built-in <code>atus</code> (<em>American Time Use Survey</em>) dataset, which is a survey of how a
 sample of Americans spent their day.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>The United States has an estimated population of 327,350,075. How many
+<p>– <span style="color:firebrick;"><strong>The United States has an estimated population of 336,302,171 (as of April 15, 2024 9:10 a.m. PDT). How many
 people were surveyed for this particular dataset?</strong></span></p>
+<ul>
+<li>Note: If you want to know the US population or world population in real time, click on this link: <a href="https://www.census.gov/popclock/" title="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a></li>
+</ul>
 </li>
 <li>
-<p>The statistical question we wish to investigate is:</p>
+<p>The statistical investigative question we wish to answer is:</p>
 <p><em>What is the mean age of people older than 15 living in the United States?</em></p>
 </li>
 <li>
@@ -3648,7 +3651,7 @@ living in the U.S.</strong></span></p>
 <p>– The <code>size</code> of the sample should be the same size as the original data.</p>
 </li>
 <li>
-<p>We can create a single <em>bootstrapped</em> sample for the <code>mean</code> in three steps:</p>
+<p>We can create a single <em>bootstrapped</em> sample for the <code>mean</code> in 3 steps:</p>
 <p>`1. Sample the number of the rows to use in our <em>bootstrap</em>.</p>
 <p>`2. <code>slice</code> those rows from our original data into our <em>bootstrap</em> data.</p>
 <p>`3. Calculate the mean of our <em>bootstrapped</em> data.</p>
@@ -3702,7 +3705,7 @@ interval</em>.</p>
 <li>
 <p>To make <code>do()</code>-ing 500 <em>bootstraps</em> easier, we'll code our 3-step bootstrap method into a
 function.</p>
-<p>– <span style="color:midnightblue;"><strong>Open a new R script (File -&gt; New File -&gt; R Script) to write your function into.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>Open a new R Script (File -&gt; New File -&gt; R Script) to write your function into.</strong></span></p>
 </li>
 </ul>
 <h3 id="bootstrap-function"><strong>Bootstrap function</strong></h3>

@@ -3539,10 +3539,11 @@
 <h3 id="materials"><strong>Materials:</strong></h3>
 <ol>
 <li>
-<p><em>There and Back Again: From XML to Data Tables</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_3.21_From%20XML%20to%20Data%20Tables.pdf">LMR_3.21_From XML to Data Tables</a>)</p>
+<p><em>There and Back Again: From XML to Data Tables</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_U3_L22_A.pdf">LMR_U3_L22_A</a>)</p>
+<p><strong><u>Note:</u></strong> An electronic copy should be provided to students (see step 3 in lesson)</p>
 </li>
 <li>
-<p><em>There and Back Again: From Data Tables to XML</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_3.22_From%20Data%20Tables%20to%20XML.pdf">LMR_3.22_From Data Tables to XML</a>)</p>
+<p><em>There and Back Again: From Data Tables to XML</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_U3_L22_B.pdf">LMR_U3_L22_B</a>)</p>
 </li>
 </ol>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
@@ -3554,7 +3555,7 @@ data.</p>
 <h3 id="lesson"><strong>Lesson:</strong></h3>
 <ol>
 <li>
-<p>Take a few minutes to compare the structure of XML code to HTML data tables (refer to Step 7
+<p>Take a few minutes to compare the default views of XML code to HTML code (refer to steps 14 and 16
 from <a href="../lesson21/">Lesson 21</a>).</p>
 </li>
 <li>
@@ -3562,39 +3563,62 @@ from <a href="../lesson21/">Lesson 21</a>).</p>
 into a data table.</p>
 </li>
 <li>
-<p>Distribute the <em>There and Back Again: From XML to Data Tables</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_3.21_From%20XML%20to%20Data%20Tables.pdf">LMR_3.21</a>) to students.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.21_From XML to Data Tables.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_3.21_From%20XML%20to%20Data%20Tables.pdf">LMR_3.21</a></div></p>
+<p>Distribute the <em>There and Back Again: From XML to Data Tables</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_U3_L22_A.pdf">LMR_U3_L22_A</a>) to students.</p>
+<p><strong><u>Note:</u></strong> Provide an electronic copy of LMR_U3_L22_A for students to easily copy/paste the code later in the lesson.</p>
+<p><div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L22_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_U3_L22_A.pdf">LMR_U3_L22_A</a></div></p>
 </li>
 <li>
-<p>Inform the students that XML code is provided on page 1 of the handout, and their goal is to
-transfer all the information to the empty data table.</p>
+<p>Inform the students that XML code is provided on page 1 of the handout. Their goal is to
+translate the XML code in RStudio into a readable table. They will then transfer all of the information to the empty data table in the handout.</p>
+<p><strong><u>Note:</u></strong> It may be helpful to create a new RScript for the process.</p>
+<p><img src="../../img/32204.png" /></p>
 </li>
 <li>
-<p>As a guide, ask a volunteer to find and name one of the variables in the XML code and then have
-all the students write the name of the variable in the first column of the top row in the data table.</p>
+<p>Load the XML package by running the following code:</p>
+<pre><code>library("XML")
+</code></pre>
 </li>
 <li>
-<p>Next, ask another student to find the first value of the variable named in Step 5. This value should
-be placed in the correct column and row of the data table.</p>
+<p>Next, assign the data the name <strong><code>volunteers</code></strong> and copy/paste the code within quotes. Verify that it is in your Environment.</p>
+<p><img src="../../img/32206.png" /></p>
+</li>
+<li>
+<p>Ask students: "How does our data look? Can we analyze it?" <span style="color:grey"><strong><em>Answers will vary but students should notice that RStudio/Posit Cloud is displaying it in XML format (<code>\n</code> means new line).</em></strong></span></p>
+<p><img src="../../img/32207.png" /></p>
+</li>
+<li>
+<p>We need to translate our XML data into something that RStudio recognizes. The <strong><code>xmlParse()</code></strong> function will do this for us. Run the following line of code to translate our data into something RStudio/Posit Cloud will recognize.</p>
+<pre><code>volunteers &lt;- xmlParse(volunteers)
+</code></pre>
+</li>
+<li>
+<p>Ask students: "How is RStudio recognizing our <strong><code>volunteers</code></strong> data now?" <span style="color:grey"><strong><em>Answers will vary but students should see that RStudio/Posit Cloud recognizes our data as an XML file. Their Environment pane should show the data as an 'XMLInternalDocument'.</em></strong></span></p>
+<p><img src="../../img/32209.png" /></p>
+</li>
+<li>
+<p>We're getting closer - RStudio now recognizes our data as an XML file. Let's do one final translation by using the <strong><code>xmlToDataFrame()</code></strong> function to translate our xml file into an R data frame. Run the code below:</p>
+<pre><code>volunteers &lt;- xmlToDataFrame(volunteers)
+</code></pre>
+</li>
+<li>
+<p>Ask students: "What happened when we translated our xml file into an R data frame?" <span style="color:grey"><strong><em>Answers will vary but the data should look familiar now - it displays in the Environment pane like datasets we have worked with throughout the year (<code>cdc</code>, <code>atus</code>, <code>slasher</code>, and <code>titanic</code>).</em></strong></span></p>
+<p><img src="../../img/32211.png" /></p>
+</li>
+<li>
+<p>Have students <strong><code>View</code></strong> the <strong><code>volunteers</code></strong> data and fill in their table in LMR_U3_L22_A.</p>
+<p><img src="../../img/32212.png" /></p>
 </li>
 <li>
 <p>Provide time for students to complete the handout individually.</p>
-</li>
-<li>
-<p>Using the Anonymous Author strategy, share a couple of the completed data tables. Ask teams to
-discuss how they are alike and how they are different.</p>
-<p><strong><u>Note:</u></strong> Most tables will probably be the same, but could vary slightly based on which columns
-each variable name was placed in, and in what order the observations were listed in the rows.
-Ultimately, the information contained in the data tables is the same.</p>
 </li>
 <li>
 <p>Then, conduct a whole class discussion regarding student responses to the questions on page 2
 of the handout.</p>
 </li>
 <li>
-<p>Distribute the <em>There and Back Again: From Data Tables to XML</em> (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_3.22_From%20Data%20Tables%20to%20XML.pdf">LMR_3.22</a>) to student teams
+<p>Distribute the <em>There and Back Again: From Data Tables to XML</em> (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_U3_L22_B.pdf">LMR_U3_L22_B</a>) to student teams
 and allow them time to complete it.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.22_From Data Tables to XML.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_3.22_From%20Data%20Tables%20to%20XML.pdf">LMR_3.22</a></div></p>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L22_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/LMR_U3_L22_B.pdf">LMR_U3_L22_B</a></div></p>
 </li>
 <li>
 <p>Once teams have finished, teams will guide you to write the correct XML code.</p>
@@ -3602,8 +3626,7 @@ and allow them time to complete it.
 <li>
 <p>Using a <em>Whip Around</em>, teams will tell you the first line of the XML code you need to write. Teams
 waiting their turn will check if the team is guiding you correctly. If not, they need to stop you and
-propose their line of code. You may not continue writing the lines of code until all teams are in
-agreement.</p>
+propose their line of code. Do not continue writing the lines of code until all teams agree.</p>
 </li>
 </ol>
 <h3 id="class-scribes"><strong>Class Scribes:</strong></h3>
@@ -3611,7 +3634,7 @@ agreement.</p>
 day were.</p>
 <h3 id="homework-next-day"><p style="background: black; color: white; text-align: center;"><strong>Homework &amp; Next Day</strong></p></h3>
 <p>Students will continue to collect data using the class’s Participatory Sensing campaign (see <a href="../lesson17/">Lessons 17</a>-
-<a href="../lesson19/">19</a>). They will analyze the data the next day during the practicum.</p>
+<a href="../lesson19/">19</a>). They will analyze the data the next day during the <em>What Does Our Campaign Data Say?</em> Practicum.</p>
 
 
   
