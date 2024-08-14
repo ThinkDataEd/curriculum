@@ -143,7 +143,7 @@ nav:
             - 'Lesson 18: What’s Your Z-Score?' : unit2/lesson18.md
             - 'Lab 2H - Eyeballing Normal' : unit2/lab2h.md
             - 'Lab 2I - R’s Normal Distribution Alphabet' : unit2/lab2i.md
-            - 'End of Unit Project: Asking and Answering Statistical Questions of Our Own Data' : unit2/end.md
+            - 'End of Unit Project: Asking and Answering Statistical Investigative Questions of Our Own Data' : unit2/end.md
         # - 'Lesson 1: What is Your True Color?' : unit2/lesson1.md
         # - 'Lesson 2: What Does Mean Mean?' : unit2/lesson2.md
         # - 'Lesson 3: Median in the Middle' : unit2/lesson3.md
@@ -216,7 +216,7 @@ nav:
             - 'Lab 3E: Scraping Web Data' : unit3/lab3e.md
             - 'Lab 3F: Maps' : unit3/lab3f.md 
             - 'Lesson 21: Learning to Love XML' : unit3/lesson21.md
-            - 'Lesson 22: Changing Orientation' : unit3/lesson22.md
+            - 'Lesson 22: Changing Format' : unit3/lesson22.md
             - 'Practicum: What Does Our Campaign Data Say?' : unit3/practicum3.md 
             - 'End of Unit Project: TB or Not TB' : unit3/end.md 
         # - Sections:
