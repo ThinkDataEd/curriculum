@@ -5,7 +5,7 @@ Students will learn that we can make better predictions by including more variab
 with how the information should be combined.
 
 ###**Materials:**
-1. *Advertising Plots Part 2* handout ([LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf)) from [Lesson 14](lesson14.md)
+1. *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf)) from [Lesson 14](lesson14.md)
 
 ###**Essential Concepts:**
 
@@ -15,9 +15,9 @@ with how the information should be combined.
 ###**Lesson:**
 1. Display the plots and statements from the previous day:
 
-    <img src="../../img/41212.png" />    
+    <img src="../../img/41412.png" />    
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf)</div>
 
     100. Combining multiple variables (e.g., money spent on TV and Newspaper ads, TV and
     Radio ads, TV, Radio, and Newspaper ads, etc.) into one model will lead to worse
@@ -41,7 +41,7 @@ Newspaper ads, etc.)
 
     <center><img src="https://latex.codecogs.com/gif.latex?\widehat{sales}=0.044889(tv)&plus;0.194199(radio)-0.007392(newspaper)&plus;3.154843" title="\widehat{sales}=0.0444889(tv)+0.194199(radio)-0.007392(newspaper)+3.154843" /></center>
 
-    **Note:** The function that produced the line of best fit using RStudio was
+    **<u>Note:</u>** The function that produced the line of best fit using RStudio was:
 
         lm(Sales ~ TV + Radio + Newspaper, data= retail)
 
@@ -49,9 +49,11 @@ Newspaper ads, etc.)
     
         **<u>Note:</u>** Remind students that they need to substitute the values as they appear in the x-axis of the plots without converting to thousands of dollars. For example, the circled market spent about 10 thousand dollars on newspaper ads, so students should substitute 10 instead of the expanded value in the equation.
 
-        <img src="../../img/41210.png" />
+        <img src="../../img/41506.png" />
 
-    100. Does the predicted value (10.81224) seem like a plausible number of sales? Why? <span style="color:grey">***Answer: It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 108,122 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
+    100. Does the predicted value (10.81224) seem like a plausible number of sales? Why? <span style="color:grey">***Answer: It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 108,122 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
+
+        <img src="../../img/41506b.png" />
 
 7. Reveal that RStudio calculated the mean squared error for different combinations plus the single models, and the results are displayed on the table below. This means that, for example, when using the TV model to predict number of items sold, our predictions will typically be off by about 3.373579 (in 10,000s) of units or 33,736 units. Then ask students the questions below. <br>**<u>Note:</u>** Remember that the MSE will always be in square units. In order to convert back to the original units, simply take the square root of the MSE.
 
@@ -96,6 +98,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Ask students to think of a reason or reasons about why it would not be a good idea to make a scatterplot for models that include more than 3 predictor variables? <span style="color:grey">***The answer is mainly because humans are limited to seeing things in 3 dimensions. For example, the model that combines all of the variables together is a 4 dimensional model. What does that look like?***</span>
 
-[<u>***LAB 4F: This Model is Big Enough for All of Us***</u>](lab4f.md)
+<center>[<u>***LAB 4F: This model is big enough for all of us***</u>](lab4f.md)
 
-Complete [Lab 4F](lab4f.md) prior to [Practicum](practicum1.md).
+Complete [Lab 4F](lab4f.md) prior to [Practicum](practicum1.md).</center>

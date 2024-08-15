@@ -4,17 +4,17 @@
 Students will complete the design of their community focused Participatory Sensing campaign and implement a mock campaign to evaluate the feasibility of the campaign.
 
 ###**Materials:**
-1. *Team Campaign Creation* handout ([LMR_4.4_Team Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Campaign Creation.pdf)) from previous lesson
+1. *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf)) from previous lesson
 
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Statistical questions guide a participatory sensing campaign so that we can learn about a
+    Statistical investigative questions guide a Participatory Sensing campaign so that we can learn about a
     community or ourselves. These campaigns should be evaluated before implementing to make sure they are
     reasonable and ethically sound.
 
 ###**Lesson:**
-1. Student teams will continue designing their Participatory Sensing campaign. Allow them some time to review their possible research questions with their team and to decide on a team research question before moving on to round 3.
+1. Student teams will continue designing their Participatory Sensing campaign. Allow them some time to review their possible research questions with their team and to decide on a team research question before moving on to Round 3.
 
 2. <u>Round 3:</u> Allow student teams a reasonable amount of time to engage in a brainstorm, in which
 they will discuss what kind of data needs to be collected in order to answer this research question
@@ -22,7 +22,7 @@ and when is the best time to trigger the data collection/ completion of the surv
 begin, ask students to keep the following question in mind: Which of these data will give us
 information that addresses our research question?
 
-3. Once teams have decided on their types of data and trigger, they will create survey questions/ prompts to collect this type of data with this trigger.
+3. Once teams have decided on their types of data and trigger, they will create survey questions/prompts to collect this type of data with this trigger.
 
 4. <u>Round 4:</u> Now that the teams have decided on a trigger and the type of data needed, they will
 discuss and create survey questions/ prompts to ask when the trigger is set. The questions should
@@ -44,7 +44,9 @@ question. For each question they should consider:
 6. If survey questions need to be rewritten, students will decide as a team on the changes.
 
 7. Once finalized, they will record the survey question/ prompt that goes along with each data
-variable on their *Team Campaign Creation* handout ([LMR_4.4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4 _Team Campaign Creation.pdf)), being cognizant of question bias.
+variable on their *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4 _Team Campaign Creation.pdf)), being cognizant of question bias.
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf)</div>
 
 8. <u>Round 5:</u> In teams, students will now generate three statistical investigative questions that they might answer
 with the data they will collect and to guide their campaign. They need to make sure that their

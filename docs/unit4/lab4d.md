@@ -104,5 +104,5 @@ the previous plot, which happen to be ```audience_rating``` and ```critics_ratin
 * <span style="color:firebrick;">**Work with your classmates to determine which two variables have the strongest correlation
 coefficient.**</span>
 
-    - <span style="color:firebrick;">**Why do you think these variables are so strongly related? Is using the correlation
+    – <span style="color:firebrick;">**Why do you think these variables are so strongly related? Is using the correlation
 coefficient to describe the relationship appropriate and why/why not?**</span>

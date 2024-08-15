@@ -4,9 +4,9 @@
 Students will understand that the mean squared error (MSE) is a way to assess the fit of a linear model. The MSE measures the total squared distances between all the data values from the line of best fit and divides it by the number of observations in the dataset.
 
 ###**Materials:**
-1. *Arm Span vs. Height* Scatterplot ([LMR_4.9_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)) from [lesson 8](lesson8.md)
+1. *Arm Span vs. Height* Scatterplot ([LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L8.pdf)) from [lesson 8](lesson8.md)
 
-2.  *Testing Line of Best Fit* handout ([LMR_4.11_Testing Line of Best Fit](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf))
+2.  *Testing Line of Best Fit* handout ([LMR_U4_L10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L10.pdf))
 
 ###**Vocabulary:**
 [regression line](../../vocabulary/unit4/#regression-line "a regression line is a line that best describes the behavior of a set of data"){ .md-button }
@@ -21,12 +21,12 @@ Students will understand that the mean squared error (MSE) is a way to assess th
     make your score on the mean squared errors as small as possible.
 
 ###**Lesson:**
-1. Ask student teams to refer back to the *Arm Span vs. Height* handout ([LMR_4.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)) but this time have them look at the zoomed out scatterplot.
-<img src="../../img/40908.png" />
+1. Ask student teams to refer back to the *Arm Span vs. Height* handout ([LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L8.pdf)) but this time have them look at the zoomed out scatterplot.
+    <img src="../../img/40908.png" />
 
 2. Using their understanding of a line of best fit from The Spaghetti Line lesson and Lab 4A, have them draw (or use strands of spaghetti) what they believe to be the line of best fit for the data. <br> **<u>Note:</u>** They can use their equations from Lab 4A as a guide but note that it will be difficult to plot decimals on this scatterplot.
 
-3. Ask students: How does this line compare to the lines from the team posters in The Spaghetti Line lesson? <span style="color:grey">***Answers will vary but students may notice that the y-intercepts may be similar or that the overall slope appears similar (they are not writing an equation for the line in step 2, but they may notice where their line intercepts the y-axis and/or the steepness of the line, i.e., slope).***</span>
+3. Ask students: How does this line compare to the lines from the team posters in The Spaghetti Line lesson? <span style="color:grey">***Answers will vary but students may notice that the y-intercepts may be similar or that the overall slope appears similar (they are not writing an equation for the line in step 2 above, but they may notice where their line intercepts the y-axis and/or the steepness of the line, i.e., slope).***</span>
 
 4. Reveal the equation of the line of best fit for the Arm Span vs. Height data and ask students to
 check their equations from Lab 4A:
@@ -44,8 +44,8 @@ variable, in this case, arm span. Data points are **observed values** and points
 
 7. Team discussion question:
 
-    **Using the equation of the line of best fit provided, how can we predict the height of
-    a student whose arm span is 67 inches?**
+    <center>**Using the equation of the line of best fit provided, how can we predict the height of
+    a student whose arm span is 67 inches?**</center>
 
     100. What was the actual height for someone with an arm span of 67 inches? <span style="color:grey">***Answer: There are three points on our Arm Span vs Height scatterplot at an arm span of 67 inches; 66-inch height, 67-inch height, and 70-inch height.***</span>
 
@@ -60,9 +60,11 @@ can be used to make predictions.
 
     100. When is it appropriate to use each method? <span style="color:grey">***Answer: It was best to use Mean Squared Error when we were looking at mean and Mean Absolute Error when we were looking at median.***</span>
 
-10. Distribute the *Testing Line of Best Fit* handout ([LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf)). Students will calculate MSE by using the distances between the actual heights (the points) and their predicted heights (the points on the line) of two different lines. They do this so that they can understand what those distances mean - that together they form our "error" that help us determine the best fitting line.
+10. Distribute the *Testing Line of Best Fit* handout ([LMR_U4_L10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L10.pdf)). Students will calculate MSE by using the distances between the actual heights (the points) and their predicted heights (the points on the line) of two different lines. They do this so that they can understand what those distances mean - that together they form our "error" that help us determine the best fitting line.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.11_Testing Line of Best Fit.pdf)</div>
+    **<u>Note:</u>** Page 3 of the handout is an answer key for teacher reference.
+    
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L10.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L10.pdf)</div>
 
 11. Discuss with students:
 
@@ -77,8 +79,8 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-[<u>***LAB 4B:…***</u>](lab4b.md)
+<center>[<u>***Lab 4B: What's the score?***</u>](lab4b.md)
 
-[<u>***LAB 4C:***</u>](lab4c.md)
+[<u>***Lab 4C: Cross-Validation***</u>](lab4c.md)
 
-Complete [Labs 4B](lab4b.md) and [4C](lab4c.md) prior to [Lesson 11](lesson11.md).
+Complete [Labs 4B](lab4b.md) and [4C](lab4c.md) prior to [Lesson 11](lesson11.md).</center>

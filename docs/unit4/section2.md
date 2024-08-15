@@ -13,6 +13,14 @@ Students will will explore and make predictions with a dataset consisting of arm
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
 
+A-SSE A: Interpret the structure of expressions.
+
+A-REI D-10: Understand the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line).
+
+F-IF A-2: Use function notation, evaluate functions for inputs in their domains, and interpret statements that use function notation in terms of context.
+
+F-BF A-1: Write a function that describes the relationship between two quantities.
+
 S-ID 6: Represent data on two quantitative variables on a scatter plot, and describe how the variables are
 related.
 
@@ -37,14 +45,6 @@ S-ID 8: Compute (using technology) and interpret the correlation coefficient of 
 
 S-IC 6: Evaluate reports based on data.\*
 \*This standard is woven throughout the course. It is a recurring standard for every unit.
-
-<ins>*Focus Standards for Mathematical Practice for All of Unit 4:*</ins>
-
-SMP-2: Reason abstractly and quantitatively.
-
-SMP-4: Model with mathematics.
-
-SMP-7: Look for and make use of structure.
 
 <ins>*Data Science:*</ins>
 

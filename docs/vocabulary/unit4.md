@@ -143,7 +143,7 @@
 !!! note ""
     how much two variables covary and the extent to which the INDEPENDENT VARIABLE affects the DEPENDENT VARIABLE
 
-### testing data
+### test data
 
 !!! note "
     a random subset consisting of about 15-25% of the original dataset on which a model is tested

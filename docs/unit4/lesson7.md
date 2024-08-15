@@ -7,13 +7,15 @@ students at a high school.
 ###**Materials:**
 1. Each team’s rule for determining a winner (from previous lesson)
 
-2. *A Tale of Two Rules* handout ([LMR_4.7_A Tale of Two Rules](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf))
+2. *Heights of Students at a Large High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf))
 
-3. *Prediction Games* handout ([LMR_4.8_Prediction Games](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf))
+3. *A Tale of Two Rules* handout ([LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf))
+
+4. *Prediction Games* handout ([LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf))
 
 ###**Vocabulary:**
 [training data](../../vocabulary/unit4/#training-data "a random subset consisting of about 75-85% of the original dataset on which a model is trained"){ .md-button }
-[testing data](../../vocabulary/unit4/#testing-data "a random subset consisting of about 15-25% of the original dataset on which a model is tested"){ .md-button }
+[test data](../../vocabulary/unit4/#test-data "a random subset consisting of about 15-25% of the original dataset on which a model is tested"){ .md-button }
 [mean squared error](../../vocabulary/unit4/#mean-squared-error "tells you how close a regression line is to a set of points; is determined by finding the average of the squared differences between your guess and the actual values"){ .md-button }
 [mean absolute error](../../vocabulary/unit4/#mean-absolute-error "the amount of error in your measurements; it is the difference between the measured value and the "true" value"){ .md-button }
 [residual](../../vocabulary/unit4/#residual "the difference between our prediction and the actual outcome; also called an "error""){ .md-button }
@@ -33,9 +35,9 @@ a winner. Which team’s rules worked well for determining a winner?
 This time, they will be switching roles – instead of creating a rule to judge the given predictions,
 they will be given a rule and it’s their job to find the best prediction to win the contest.
 
-3. Have students refer back to the *Heights of Students at a Large High School* handout (LMR_4.6) from the previous lesson. 
+3. Have students refer back to the *Heights of Students at a Large High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf)) from the previous lesson. 
 
-4. Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the **training data** where we train a model to make predictions. Then we use the **testing data** (dataset A and dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:
+4. Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the **training data** where we train a model to make predictions. Then we use the **test data** (Dataset A and Dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:
 
     100. Team A used the mean.
 
@@ -43,7 +45,7 @@ they will be given a rule and it’s their job to find the best prediction to wi
 
     100. Team C used the third quartile.
 
-5. In the previous lesson, you created your own rules to determine the winner. Today, you will learn rules that statisticians and data scientists use. The first is called the **mean squared error** rule. <br> **Note to teacher**: acknowledge any groups who came up with MSE or MAE on their own in the previous lesson.
+5. In the previous lesson, you created your own rules to determine the winner. Today, you will learn rules that statisticians and data scientists use. The first is called the **mean squared error** rule. <br> **<u>Note to teacher:</u>** acknowledge any groups who came up with MSE or MAE on their own in the previous lesson.
 
 6. An "*error*" is the difference between our prediction and the actual outcome and is sometimes called a "residual". The mean squared error is also called:
 
@@ -60,14 +62,14 @@ they will be given a rule and it’s their job to find the best prediction to wi
 7. Let’s use R to do the heavy lifting for us. Demonstrate how to find the mean squared error by typing the following commands in the console (throughout the process, show what is happening in the Environment and the dataframe):
 
         #First, let's create a vector of the heights in our first dataset:
-        height <- c(70.1, 61, 70.1, 68.1, 63, 66.1, 61, 70.1, 72.8, 70.9)
+        heightA <- c(70.1, 61, 70.1, 68.1, 63, 66.1, 61, 70.1, 72.8, 70.9)
         
         #Next, convert this vector into a dataframe:
-        datasetA <- data.frame(height)
+        datasetA <- data.frame(heightA)
         
         #Now we find the residuals using one of the statistics.
         #For this example, we'll use the first quartile from the training data (65 inches): 
-        datasetA <- mutate(datasetA, residual=height-65)
+        datasetA <- mutate(datasetA, residual = heightA-65)
         
         #Next, we will square each residual:
         datasetA <- mutate(datasetA, sq_res=residual^2)
@@ -84,12 +86,12 @@ they will be given a rule and it’s their job to find the best prediction to wi
         heightB <- c(70.1, 72, 68.9, 61.8, 70.9, 59.8, 72, 65, 66.1, 68.9)
 
 
-8. Distribute the *A Tale of Two Rules* handout ([LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf)</div>
+8. Distribute the *A Tale of Two Rules* handout ([LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf)</div>
 
-9. Let's see how well our teams' predictions did on the heights of the testing data. Students will work in teams to answer: Using the mean squared errors, which statistic is the winner? Discuss which statistic made the best predictions in all three games.
+9. Let's see how well our teams' predictions did on the heights of the test data. Students will work in teams to answer: Using the mean squared errors, which statistic is the winner? Discuss which statistic/team made the best predictions.
 
-    <span style="color:grey">***Answers:***</span>
+    <span style="color:grey">***See answers below:***</span>
 
     <img src="../../img/40606b.png" />
 
@@ -124,7 +126,7 @@ mean absolute error formula and discuss what each symbol means.
 
 14. Using the mean absolute error, which statistic/team is the winner?
 
-    <span style="color:grey">***Answers:***</span>
+    <span style="color:grey">***See answers below:***</span>
 
     <img src="../../img/40612.png" />
 
@@ -132,8 +134,9 @@ mean absolute error formula and discuss what each symbol means.
     way you play the game depends on the rules of the game. If we used the mean squared error (MSE), play
     with the mean. If we use the mean absolute error (MAE), play with the median.
 
-15. Optional practice: Students can practice finding the mean squared error and mean absolute error using the mean and median with the *Prediction Games* handout ([LMR_4.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf)). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf)</div>
+15. Optional practice: Students can practice finding the mean squared error and mean absolute error using the mean and median with the *Prediction Games* handout ([LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf)). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare. <br>**<u>Note:</u>** Page 3 of the handout is an answer key for teacher reference.
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf)</div>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the

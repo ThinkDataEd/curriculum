@@ -5,12 +5,12 @@ Students will learn that the correlation coefficient is a value that measures th
 associations only.
 
 ###**Materials:**
-1. *Strength of Association* handout ([LMR_4.14_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Strength of Association.pdf))
+1. *Strength of Association* handout ([LMR_U4_L12_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_A.pdf))
 
-2. *Correlation Coefficient* handout ([LMR_4.15_Correlation Coefficient](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf))
+2. *Correlation Coefficient* handout ([LMR_U4_L12_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_B.pdf))
 
-    **<u>Note:</u>** Advance preparation required. This handout is the resource for the plot cutouts. DO NOT
-    distribute as-is to students.
+    **<u>Advance preparation required:</u>** This handout is the resource for the plot cutouts. DO NOT
+    distribute as-is to students (see steps 6 and 10 in the lesson)
 
 ###**Vocabulary:**
 [correlation coefficient](../../vocabulary/unit4/#correlation-coefficient "a statistical measure that calculates the strength of the relationship between the relative movements of two variables"){ .md-button }
@@ -24,17 +24,18 @@ associations only.
 
 
 ###**Lesson:**
-1. Distribute the *Strength of Association* handout ([LMR_4.14_Strength of Association](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Strength of Association.pdf)). In teams, students will
+1. Distribute the *Strength of Association* handout ([LMR_U4_L12_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_A.pdf)). In teams, students will
 examine the scatterplots (b) through (e). Their task is to discuss the **strength of the association**
 for each plot. They will determine which plots they think show strong associations and which ones
 they believe show weak associations. They must explain how they made their decision. Reasons
 must reference the plots.
 
-2. As an example, demonstrate how to describe plot (a) in the [*Strength of Association*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Strength of Association.pdf) handout.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L12_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_A.pdf)</div>
+
+2. As an example, demonstrate how to describe plot (a) in the [*Strength of Association*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_A.pdf) handout.
 <span style="color:grey">***Possible description: Plot (a) shows a negative association, or decreasing trend. The
 association appears to be fairly strong because the points are relatively close together,
 forming a moderate linear pattern.***</span>
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Strength of Association.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.14](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.14_Strength of Association.pdf)</div>
 
 3. Once all teams have completed the handout, assign one plot to each team for a share out. If two teams have the same plot, one team will share its explanation first and the second team can agree, disagree, or add to the first team’s description
 
@@ -45,23 +46,24 @@ A number called the **correlation coefficient** measures strength of association
 coefficient only applies to linear relationships, which must be checked visually with a scatterplot.
 Later we will learn how to calculate this number using RStudio.
 
-    **<u>Note to teacher:</u>** Advance preparation is needed for this lesson. Each team needs one envelope
-    with cutouts of plots A-F in [LMR_4.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf) (Part 1). Make envelopes according to the number of
-    teams in the class. This process will be repeated for [LMR_4.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf) (Part 2).
-
-6. Distribute the envelopes to the teams. Students will examine the strength of association in each
+6. Distribute the envelopes, with plots from [LMR_U4_L12_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_B.pdf) (Part 1), to the teams. Students will examine the strength of association in each
 plot. Their task is to assign the correlation coefficient that corresponds to each plot and to explain
 why they assigned that correlation coefficient to that particular plot. The only piece of information
 they will receive is that a correlation coefficient equal to 1 has the strongest linear association and
 a correlation coefficient equal to 0 has the weakest association.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf)</div>
+
+    **<u>Advance preparation required:</u>**Each team needs one envelope
+    with cutouts of plots A-F in [LMR_U4_L12_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_B.pdf) (Part 1). Make envelopes according to the number of
+    teams in the class.
+
+    <img src="../../img/41206.png" />
 
 7. Assign each team one plot. If there are more teams than plots, these teams will be assigned a
 plot in the next round. Each team will share the correlation coefficient they assigned to their plot
 and the explanation that goes with it.
 
 8. Using the *Voting Cards* strategy (see Instructional Strategies), the rest of the teams will show
-whether they approve, disapprove, or are uncertain about the teams’ assignment and/or
+whether they A - approve, B - disapprove, or C - are uncertain, about the teams’ assignment and/or
 explanation. Repeat for each plot. The correlation coefficients for each plot are:
 
     • <span style="color:grey">***Plot A: r = 1.00***</span>
@@ -77,13 +79,19 @@ explanation. Repeat for each plot. The correlation coefficients for each plot ar
     • <span style="color:grey">***Plot F: r = 0.00***</span>
 
 9. The last set of plots showed positive associations. Now students will assign the correlation
-coefficients for plots G-L for [LMR_4.15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.15_Correlation Coefficient.pdf) (Part 2).
+coefficients for plots G-L for [LMR_U4_L12_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_B.pdf) (Part 2).
 
-10. Distribute the envelopes to the teams. Students will examine the strength of association in each
+10. Distribute the envelopes, with the plots from [LMR_U4_L12_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_B.pdf) (Part 2), to the teams. Students will examine the strength of association in each
 plot. Their task is to assign the correlation coefficient that corresponds to each plot and to explain
 why they assigned that correlation coefficient to that particular plot. The only piece of information
 they will receive is that a correlation coefficient equal to -1 has the strongest linear association
 and a correlation coefficient equal to 0 has the weakest association.
+
+    **<u>Advance preparation required:</u>**Each team needs one envelope
+    with cutouts of plots G-L in [LMR_U4_L12_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_B.pdf) (Part 2). Make envelopes according to the number of
+    teams in the class.
+
+    <img src="../../img/41210b.png" />
 
 11. Teams previously not assigned a plot are now assigned one. Each team will share the correlation
 coefficient they assigned to their plot and the explanation that goes with it.
@@ -95,13 +103,13 @@ coefficients for each plot are:
 
     • <span style="color:grey">***Plot G: r = -1.00***</span>
 
-    • <span style="color:grey">***Plot H: r = 0.72***</span>
+    • <span style="color:grey">***Plot H: r = -0.72***</span>
 
     • <span style="color:grey">***Plot I: r = -0.19***</span>
 
     • <span style="color:grey">***Plot J: r = -0.48***</span>
 
-    • <span style="color:grey">***Plot K: r = 0.98***</span>
+    • <span style="color:grey">***Plot K: r = -0.98***</span>
 
     • <span style="color:grey">***Plot L: r = 0.00***</span>
 
@@ -111,6 +119,6 @@ scatterplot?
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Students will complete the journal entry for homework if not completed in class.
 
-[<u>***LAB 4D: Interpreting Correlations***</u>](lab4d.md)
+<center>[<u>***LAB 4D: Interpreting Correlations***</u>](lab4d.md)
 
-Complete [Lab 4D](lab4d.md) prior to [Lesson 13](lesson13.md).
+Complete [Lab 4D](lab4d.md) prior to [Lesson 13](lesson13.md).</center>

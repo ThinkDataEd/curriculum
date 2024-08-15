@@ -19,7 +19,7 @@ Your team will use the data to make predictions using linear models and compare 
 model to the rest of your classmates. Finally, the class will determine which team had the best prediction.
 Follow the directions below to explore and analyze the data:
 
-1. You will have two data sets: one training named ***cereal*** and one test named ***cereal_test***. Load both data sets. Write down
+1. You will have two datasets: one training named ***cereal*** and one test named ***cereal_test***. Load both datasets. Write down
 the code you used.
 
 2. Explore the training data. Which variable do you think is the best predictor of sugar? Choose at least 3 variables, make a plot for each one, and fit a linear regression line through each of them. Select the model that you think best makes the best prediction.
@@ -39,4 +39,4 @@ the code you used.
 amount of error in its predictions.
 
 5. Give an example of a prediction for one value of x. State that value, give the predicted sugar,
-and describe, based on the testing data, how far off your prediction might actually be.
+and describe, based on the test data, how far off your prediction might actually be.

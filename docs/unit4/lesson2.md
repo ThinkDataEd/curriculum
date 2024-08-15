@@ -8,7 +8,7 @@ Students will learn about the cause of California droughts and its effect on oth
 
 2. U.S. drought data interactive map <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
 
-3. *Team Campaign Creation* handout ([LMR_4.4_Team Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Campaign Creation.pdf))
+3. *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf))
 
 ###**Essential Concepts:**
 
@@ -36,7 +36,7 @@ Students will learn about the cause of California droughts and its effect on oth
 
     100. What information are the map and graph displaying? <span style="color:grey">***Answer: The map tells us the areas of drought and the graph tells us percentages of drought over time.***</span>
 
-    100. Which date is selected by default and what percent of the U.S. is in *Exceptional Drought* that day?? <span style="color:grey">***Answer: July 10, 2012 and 0.62% is in Exceptional Drought.***</span> <br> **NOTE**: If you used a different link other than was listed here, you may have a different default date. In order to see the types of droughts and their percentages, hover your cursor over the graph to line up with the date.
+    100. Which date is selected by default and what percent of the U.S. is in *Exceptional Drought* that day?? <span style="color:grey">***Answer: July 10, 2012 and 0.62% is in Exceptional Drought.***</span> <br> **<u>Note:</u>** If you used a different link other than was listed here, you may have a different default date. In order to see the types of droughts and their percentages, hover your cursor over the graph to line up with the date.
 
 8. Then click on a new date to update the map. Ask:
 
@@ -44,7 +44,7 @@ Students will learn about the cause of California droughts and its effect on oth
 
     100. What information is the map displaying? <span style="color:grey">***Answers will depend on the chosen date above.***</span>
 
-    100. Which states are affected by drought? <span style="color:grey">***Answers will depend on the chosen date above.***</span> <br> **NOTE**: You can click on a state to display its name.
+    100. Which states are affected by drought? <span style="color:grey">***Answers will depend on the chosen date above.***</span> <br> **<u>Note:</u>** You can click on a state to display its name.
 
 9. Then click on the Combine States option, choose a state, and click Combine. Ask:
 
@@ -52,9 +52,11 @@ Students will learn about the cause of California droughts and its effect on oth
 
     100. What else do you see? <span style="color:grey">***Answers will depend on the chosen state above.***</span>
 
-    100. What are some wonderings you have about the data? <span style="color:grey">***Answers will vary.***</span> <br> **NOTE**: There are multiple options here. You can choose to display multiple states by adding another state (or states) and choosing Combine. You can also designate a specific time period in the Time Series Options.
+    100. What are some wonderings you have about the data? <span style="color:grey">***Answers will vary.***</span> <br> **<u>Note:</u>** There are multiple options here. You can choose to display multiple states by adding another state (or states) and choosing Combine. You can also designate a specific time period in the Time Series Options.
 
-10. Now that they know the overall layout of the interactive map and its options, ask student teams to complete the *Team Campaign Creation* handout ([LMR_4.4_Team Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Campaign Creation.pdf)) <br> **NOTE**: The interactive map has a download data feature that allows customization/ filtering of US drought data. Keep this in mind as an option for students who may be interested in this topic.
+10. Now that they know the overall layout of the interactive map and its options, ask student teams to complete the *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf)) <br> **<u>Note:</u>** The interactive map has a download data feature that allows customization/ filtering of US drought data. Keep this in mind as an option for students who may be interested in this topic.
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf)</div>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the

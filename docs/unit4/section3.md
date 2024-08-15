@@ -15,6 +15,8 @@ predictions. The article can be found at:<br>
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
 
+A-REI D-10: Understand that the graph of an equation in two variables is the set of all its solutions plotted in the coordinate plane, often forming a curve (which could be a line).
+
 S-ID 6: Represent data on two quantitative variables on a scatter plot, and describe how the variables are
 related.
 

@@ -152,15 +152,15 @@
     <td class="tg-uys7">18</td>
     <td class="tg-xldj"><a href="../../unit4/lab4e">LAB 4E: Some Models Have Curves</a></td>
     <td class="tg-xldj">Team Campaign—data</td>
-    <td class="tg-xldj">Linear regression</td>
-    <td class="tg-uys7"><a href="../../unit4/lab4e">352</a></td>
+    <td class="tg-xldj">Non-linear regression</td>
+    <td class="tg-uys7"><a href="../../unit4/lab4e">350</a></td>
   </tr>
   <tr>
     <td class="tg-uys7">19</td>
     <td class="tg-xldj"><a href="../../unit4/practicum1">Practicum: Predictions</a></td>
     <td class="tg-xldj">Team Campaign—data</td>
-    <td class="tg-xldj">Non-linear regression</td>
-    <td class="tg-uys7"><a href="../../unit4/practicum1">350</a></td>
+    <td class="tg-xldj">Linear regression</td>
+    <td class="tg-uys7"><a href="../../unit4/practicum1">352</a></td>
   </tr>
   <tr>
     <td class="tg-5e9r" rowspan="3">Piecing it<br>Together<br>(3 days)</td>

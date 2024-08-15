@@ -7,11 +7,11 @@ Students will learn about reducing the burden of trash landfills.
 1. Video: *Fighting Pollution Through Data* Video found at:<br>
     [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"}
 
-2. *Landfill Readiness Questions* handout ([LMR_4.1_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf))
+2. *Landfill Readiness Questions* handout ([LMR_U4_L1_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_A.pdf))
 
-3. *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf))
+3. *Trash Campaign Exploration* handout ([LMR_U4_L1_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_B.pdf))
 
-4. *Trash Campaign Creation* handout ([LMR_4.3_Trash Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf))
+4. *Trash Campaign Creation* handout ([LMR_U4_L1_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_C.pdf))
 
 ###**Essential Concepts:**
 
@@ -23,7 +23,7 @@ Students will learn about reducing the burden of trash landfills.
 
 2. Using the 5 Ws strategy, ask students to write down the 5 Ws in their DS journals as they watch a video about trash. The 5 Ws summarize the What, Who, Why, When, and Where of the resource.
 
-3. Play the Fighting Plastic Pollution Through Data video, found at: [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"} <br> **NOTE**: While the video is just over 13 minutes long, students should be able to answer the 5 Ws from the content of the first 10 minutes.
+3. Play the Fighting Plastic Pollution Through Data video, found at: [https://www.youtube.com/watch?v=xOYAIXjHveA](https://www.youtube.com/watch?v=xOYAIXjHveA "https://www.youtube.com/watch?v=xOYAIXjHveA"){:target="_blank"} <br> **<u>Note:</u>** While the video is just over 13 minutes long, students should be able to answer the 5 Ws from the content of the first 10 minutes.
 
 4. After they have finished watching the video, engage in a class discussion around the following questions and discuss their insights, questions, and/or reactions to the video:
 
@@ -31,15 +31,15 @@ Students will learn about reducing the burden of trash landfills.
 
     100. How are they useful in fighting plastic pollution? <span style="color:grey">***Answer: Brand accountability, community involvement, cleaning rivers/ dumping sites, and finding sources of pollution.***</span>
 
-5. Now we'll take inventory of our own understanding of landfills and how trash travels there. Distribute the *Landfill Readiness Questions* handout ([LMR_4.1_Landfill Readiness Questions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf)). Allow students private think-time before having them discuss in their teams.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.1_Landfill Readiness Questions.pdf)</div>
+5. Now we'll take inventory of our own understanding of landfills and how trash travels there. Distribute the *Landfill Readiness Questions* handout ([LMR_U4_L1_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_A.pdf)). Allow students private think-time before having them discuss in their teams.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L1_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_A.pdf)</div>
 
 6. Let students know that they will be exploring data from a trash Participatory Sensing campaign, titled the “Trash Campaign,” that was conducted at a number of high schools in the Los Angeles Unified School District (LAUSD).
 
 7. Concerned students in LAUSD engaged in a model eliciting activity and created a trash participatory sensing campaign to investigate possible trash issues in their communities. Based on the data collected, they made recommendations to the Los Angeles County Sanitation District (LACSD) that would help reduce the use of the regional landfills.
 
-8. Distribute the *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)) to assist in students' interaction with the IDS public dashboard.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)</div>
+8. Distribute the *Trash Campaign Exploration* handout ([LMR_U4_L1_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_B.pdf)) to assist in students' interaction with the IDS public dashboard.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L1_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_B.pdf)</div>
 
 9. Navigate students to the IDS public dashboard:
 [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} <img src="../../img/40109.png" />
@@ -48,7 +48,7 @@ Students will learn about reducing the burden of trash landfills.
 
 11. The dashboard is a visual tool for exploring and analyzing data. An example screenshot of the Trash campaign in the dashboard is shown below. <img src="../../img/41509.png" />
 
-12. Students should “play” with the data and think about characteristics of the campaign. Answers to the questions in the *Trash Campaign Exploration* handout ([LMR_4.2_Trash Campaign Exploration](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.2_Trash Campaign Exploration.pdf)) are provided here for reference:
+12. Students should “play” with the data and think about characteristics of the campaign. Answers to the questions in the *Trash Campaign Exploration* handout ([LMR_U4_L1_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_B.pdf)) are provided here for reference:
 
     100. How many observations are in this data set? <span style="color:grey">***Answer: 2,631.***</span>
 
@@ -70,8 +70,8 @@ Students will learn about reducing the burden of trash landfills.
 
     100. When someone littered, how many times was the person not arround any type of waste receptacle? <span style="color:grey">***Answer: 15 out of 58.***</span>
 
-13. Take time at the end of class to share out and discuss the components of the Trash Campaign. If needed, you may use the *Trash Campaign Creation* handout ([LMR_4.3_Trash Campaign Creation](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf)) as an additional resource to help with the deconstruction of the Trash Campaign.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.3](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.3_Trash Campaign Creation.pdf)</div>
+13. Take time at the end of class to share out and discuss the components of the Trash Campaign. If needed, you may use the *Trash Campaign Creation* handout ([LMR_U4_L1_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_C.pdf)) as an additional resource to help with the deconstruction of the Trash Campaign.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L1_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L1_C.pdf)</div>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.

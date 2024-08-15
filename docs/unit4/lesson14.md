@@ -4,9 +4,9 @@
 Students will see that different variables can be used to make predictions about the same outcome (response variable) and consider whether combining these variables could improve prediction accuracy.
 
 ###**Materials:**
-1. *Advertising Plots Part 1* handout ([LMR_4.17_Advertising Plots 1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Advertising Plots 1.pdf))
+1. *Advertising Plots Part 1* handout ([LMR_U4_L14_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_A.pdf))
 
-2. *Advertising Plots Part 2* handout ([LMR_4.18_Advertising Plots 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf))
+2. *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf))
 
 3. *Article: How Long Can a Spinoff Like ‘Better Call Saul’ Last?*<br>
     [http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"){:target="_blank"}
@@ -60,11 +60,11 @@ responses to the discussion questions.
     100. Does each method of advertisement have a similar effect? Or are some methods more
     effective than others?
 
-7. Distribute the 3 plots from the *Advertising Plots Part 1* handout ([LMR_4.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Advertising Plots 1.pdf)) and inform the students about the data using the details below:
+7. Distribute the 3 plots from the *Advertising Plots Part 1* handout ([LMR_U4_L14_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_A.pdf)) and inform the students about the data using the details below:
 
-    <img src="../../img/41207.png" /><div align="right">*(Plots are presented separately in the LMR)*</div>
+    <img src="../../img/41407.png" /><div align="right">*(Plots are presented separately in the LMR)*</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Advertising Plots 1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.17_Advertising Plots 1.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_A.pdf)</div>
 
     100. These 3 plots show the number of items sold by a retailer (in 200 different markets) and the amount of money the company spent on *TV*, *Radio* and *Newspaper* advertisements.
 
@@ -77,26 +77,34 @@ responses to the discussion questions.
 
     100. The data were collected using an observational study.
 
-8. To illustrate a-d above, ask students to refer to plot A (TV ads) and circle the market in which this retailer sold the least number of items (see circles in plots above). Ask: How many items did this market sell? <span style="color:grey">***Answer: About 20,000 items. The actual number of items sold was 1.6 (in 10,000’s of units) which is 16,000 items.***</span> How much money did this retailer spend on TV ads in this market? <span style="color:grey">***Answer: This retailer spent zero dollars on TV ads. The actual amount the retailer spent on TV ads was 0.7 thousands of dollars, which is $700.***</span>
+8. To illustrate a-d above, ask students to refer to plot A (TV ads) and circle the market in which this retailer sold the least number of items (see circles in plots above). Ask:
 
-9. Students should then refer to plot B (Radio ads), find the same market (the one in which the retailer sold about 20,000 items) and circle it. Ask: How much money did the retailer spend on Radio ads in the same market? <span style="color:grey">***Answer: About 40 thousand dollars. The actual amount spent on Radio ads was 39.6 thousands of dollars, which is $39,600.***</span>
+    a. Approximately, how many items did this market sell? <span style="color:grey">***Answer: About 20,000 items. The actual number of items sold was 1.6 (in 10,000’s of units) which is 16,000 items.***</span>
+    
+    b. Approximately, how much money did this retailer spend on TV ads in this market? <span style="color:grey">***Answer: This retailer spent zero dollars on TV ads. The actual amount the retailer spent on TV ads was 0.7 thousands of dollars, which is $700.***</span>
 
-10. Finally, ask students to refer to plot C (Newspaper ads), find the same market (the one in which the retailer sold about 20,000 items), and circle it. Ask: How much money did the retailer spend on Newspaper ads in the same market? <span style="color:grey">***Answer: About 10 thousand dollars. About The actual amount spent on Newspaper ads is 8.7 thousands of dollars, which is $8,700***</span>
+9. Students should then refer to plot B (Radio ads), find the same market (the one in which the retailer sold about 20,000 items) and circle it. Ask:
 
-    <img src="../../img/41210.png" />
+    a. Approximately, how much money did the retailer spend on Radio ads in the same market? <span style="color:grey">***Answer: About 40 thousand dollars. The actual amount spent on Radio ads was 39.6 thousands of dollars, which is $39,600.***</span>
 
-11. Based on the above plots, use a Pair-Share to discuss the following:
+10. Finally, ask students to refer to plot C (Newspaper ads), find the same market (the one in which the retailer sold about 20,000 items), and circle it. Ask:
+
+    a. Approximately, how much money did the retailer spend on Newspaper ads in the same market? <span style="color:grey">***Answer: About 10 thousand dollars. About The actual amount spent on Newspaper ads is 8.7 thousands of dollars, which is $8,700***</span>
+
+    <img src="../../img/41410.png" />
+
+11. Based on the above plots, use a *Pair-Share* to discuss the following:
 
     100. Describe the relationship between advertisements and the number of items sold. <span style="color:grey">***Answers will vary but we would expect the number of items sold to increase with increased advertisements.***</span>
 
     100. Which type of advertisement is the most strongly correlated with the number of units
     sold? How can you tell? <span style="color:grey">***Answer: Plot A, TV advertisements, appears to be the most strongly correlated with the number of units sold. We can tell because the points are more closely packed/together than in plots B or C.***</span>
 
-12. Distribute the *Advertising Plots Part 2* handout ([LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf)), which contains plots A-C, but now include the line of best fit.
+12. Distribute the *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf)), which contains plots A-C, but now include the line of best fit.
 
-    <img src="../../img/41212.png" /><div align="right">*(Plots are presented separately in the LMR)*</div>
+    <img src="../../img/41412.png" /><div align="right">*(Plots are presented separately in the LMR)*</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf)</div>
 
 13. Ask students to recall from [Lesson 7](lesson7.md) that a method statisticians use to figure out which predicted values is closest to the actual data is the mean squared error (MSE).
 

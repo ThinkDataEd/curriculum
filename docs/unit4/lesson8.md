@@ -4,11 +4,11 @@
 Students will learn how to predict height using arm span data - and vice versa - visually on a scatterplot.
 
 ###**Materials:**
-1. *Arm span vs. Height Scatterplot* ([LMR_4.9_Arm Span vs Height](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf))
+1. *Arm span vs. Height Scatterplot* ([LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L8.pdf))
 
-    **Note:** This handout will be referenced in subsequent lessons.
+    **<u>Note:</u>** This handout will be referenced in subsequent lessons.
 
-2. Assorted color markers (dry erase or overhead) — See step 3 of lesson.
+2. Assorted color markers (dry erase or overhead) — see step 3 of lesson
 
 3. Overhead or LCD projector
 
@@ -24,11 +24,11 @@ typical height of all the students at a large high school, implementing a method
 
 2. In addition to the height data, it turns out that each student’s arm span data was also collected and recorded.
 
-3. Display the *Arm Span vs. Height Scatterplot* ([LMR_4.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)) on a white board or overhead projector
-(you will write on the board or the transparency later in the lesson — see step 9).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)</div>
+3. Display the *Arm Span vs. Height Scatterplot* ([LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L8.pdf)) on a white board or overhead projector
+(you will write on the board or the transparency later in the lesson — see step 9 below).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L8.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L8.pdf)</div>
 
-4. Distribute the *Arm Span vs. Height* handout ([LMR_4.9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.9_Arm Span vs Height.pdf)). Students will refer to this handout again later in a subsequent lesson.
+4. Distribute the *Arm Span vs. Height* handout ([LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L8.pdf)). Students will refer to this handout again later in a subsequent lesson.
 
 5. In teams, ask students to analyze the plot and discuss the following questions:
 
@@ -42,7 +42,7 @@ typical height of all the students at a large high school, implementing a method
 
     • How can I find out the height of the person whose arm span measures 68 inches? <span style="color:grey">***Answer: Find 68 on the x-axis. Then find the data point located at 68. Place finger on the data point and track its location on the y-axis. The height is also 68 inches.***</span>
 
-6. Using Talk Moves, conduct a class discussion of the questions in step 5.
+6. Using *Talk Moves*, conduct a class discussion of the questions in step 5 above.
 
 7. Remind students that we’ve learned that the mean is the best way of predicting heights. The
 mean heights of these people is 64 inches.
@@ -67,8 +67,7 @@ plausible height value for anyone with a particular arm span.
 
 13. Conceptually, students are wrestling with the notion of the slope of the regression line but there’s no need to point this out just yet. <br> Important: The equation of the line of best fit will be revealed in [Lesson 9](lesson9.md).
 
-    **OPTIONAL FOR ITEM 9**
-    If you want to obtain the exact mean height for each arm span value in step 9, copy the code below and run it in an RScript.
+    **<u>OPTIONAL FOR ITEM 9:</u>** If you want to obtain the exact mean height for each arm span value in step 9 above, copy the code below and run it in an R Script.
 
         xyplot(height~armspan, data = arm_span, 
             scales = list(x = list(at = seq(58, 72, 1)), y = list(at = seq(52, 72, 1))), 

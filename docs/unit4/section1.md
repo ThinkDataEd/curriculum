@@ -21,9 +21,13 @@ relationships in physical, economic, public policy, social, and everyday situati
 mathematical and statistical methods. When making mathematical models, technology is valuable for
 varying assumptions, exploring consequences, and comparing predictions with data."
 
-<ins>*Focus Standards for Mathematical Practice:*</ins>
+<ins>*Focus Standards for Mathematical Practice for All of Unit 4:*</ins>
+
+SMP-2: Reason abstractly and quantitatively.
 
 SMP-4: Model with mathematics.
+
+SMP-7: Look for and make use of structure.
 
 <ins>*Data Science:*</ins>
 

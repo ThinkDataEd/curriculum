@@ -13,7 +13,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – <span style="color:midnightblue;">**A set named ```training``` that includes 75% of the data.**</span>
 
-    – <span style="color:midnightblue;">**And a set named ```testing``` that includes the remaining 25%.**</span>
+    – <span style="color:midnightblue;">**And a set named ```test``` that includes the remaining 25%.**</span>
 
     – <span style="color:midnightblue;">**Remember to use ```set.seed```.**</span>
 
@@ -22,7 +22,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:midnightblue;">**Train a linear model predicting ```audience_rating``` based on ```critics_rating``` for the ```training``` data. Assign this model to ```movie_linear```.**</span>
 
-* <span style="color:midnightblue;">**Fill in the blanks below to create a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```testing``` data.**</span>
+* <span style="color:midnightblue;">**Fill in the blanks below to create a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```test``` data.**</span>
 
         xyplot(____ ~ ____, data = ____)
 
@@ -36,9 +36,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – Hint: how does the linear model perform on very low and very high values of ```critics_rating```?
 
-* <span style="color:firebrick;">**Compute the MSE of the linear model for the ```testing``` data and write it down for later.**</span>
+* <span style="color:firebrick;">**Compute the MSE of the linear model for the ```test``` data and write it down for later.**</span>
 
-    – Hint: refer to lab 4B.
+    – Hint: refer to lab 4C.
 
 ###**Adding flexibility**
 * You don't need to be a full-fledged Data Scientist to realize that trying to fit a line to curved data is a poor modeling choice.
@@ -73,7 +73,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Comparing lines and curves**
 * <span style="color:midnightblue;">**Fill in the blanks below to**</span>
 
-    – <span style="color:midnightblue;">**create a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```testing``` data, and**</span>
+    – <span style="color:midnightblue;">**create a scatterplot with ```audience_rating``` on the y-axis and ```critics_rating``` on the x-axis using your ```test``` data, and**</span>
 
     – <span style="color:midnightblue;">**add the *line of best fit* and *best fitting quadratic curve*.**</span>
 
@@ -96,6 +96,6 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:midnightblue;">**Using the names of the three models you have trained, add the *line of best fit*, *best fitting quadratic curve*, and *best fitting cubic curve* for the ```training data``` to the plot.**</span>
 
-* <span style="color:firebrick;">**Based on the plot, which model do you think is the best at predicting the ```testing``` data?**</span>
+* <span style="color:firebrick;">**Based on the plot, which model do you think is the best at predicting the ```test``` data?**</span>
 
-* <span style="color:firebrick;">**Use the test MSE to verify which model is the best at predicting the ```testing``` data.**</span>
+* <span style="color:firebrick;">**Use the test MSE to verify which model is the best at predicting the ```test``` data.**</span>
