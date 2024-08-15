@@ -1,6 +1,6 @@
 #IDS_LMRs
 
-##**IDS_LMR_Unit 1_v_6.0**	
+##**IDS_LMR_Unit 1_v_7.0**	
 
 [LMR_U1_L1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf)
 
@@ -11,8 +11,6 @@
 [LMR_U1_L4_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf)
 
 [LMR_U1_L4_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)
-
-[LMR_1.6_Statistical Questions Scenarios.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_1.6_Statistical Questions Scenarios.pdf)
 
 [LMR_U1_L6_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf)
 
@@ -54,13 +52,11 @@
 
 
 
-##**IDS_LMR_Unit 2_v_6.0**		
+##**IDS_LMR_Unit 2_v_7.0**		
 
 [LMR_U2_L1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)
 
 [LMR_U2_L2_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf)
-
-[LMR_2.2b_Balancing_Point.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_2.2b_Balancing_Point.pdf)
 
 [LMR_U2_L2_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf)
 
@@ -104,7 +100,7 @@
 
 
 
-##**IDS_LMR_Unit 3_v_6.0**		
+##**IDS_LMR_Unit 3_v_7.0**		
 
 [LMR_Miracle_Cafe.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_Miracle_Cafe.pdf)
 
@@ -122,8 +118,6 @@
 
 [LMR_U3_L10_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_B.pdf)
 
-[LMR_3.6Q_Parameters and Statistics.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.6Q_Parameters and Statistics.pdf)
-
 [LMR_U3_L11_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_A.pdf)
 
 [LMR_U3_L11_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_B.pdf)
@@ -133,10 +127,6 @@
 [LMR_U3_L11_D.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_D.pdf)
 
 [LMR_U3_L12_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L12_A.pdf)
-
-[LMR_3.11Q_Identifying Biased Samples.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.11Q_Identifying Biased Samples.pdf)
-
-[LMR_3.12_Survey Sampling.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.12_Survey Sampling.pdf)
 
 [LMR_U3_L13.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf)
 
