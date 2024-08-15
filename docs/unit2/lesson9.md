@@ -108,7 +108,7 @@ and die B.
 12. Inform the students that one of the dice in the function is fair and the other is unfair. A die is unfair if it favors one outcome over another. They will attempt to determine which
 dice is the unfair one by doing multiple simulations.
 
-    **Note to Teacher:** Many simulations require multiple functions, or code, to perform. This is where
+    **<u>Note to Teacher:</u>** Many simulations require multiple functions, or code, to perform. This is where
     RScripts are helpful. An RScript can be used to test code, write notes, and let us easily execute
     multiple lines of code at one time. This would be a good place to introduce students to RScripts.
 
@@ -154,7 +154,7 @@ is fair, each of the bars in the histogram should be roughly the same height.***
 
         histogram(sample1, nint = 6)
 
-    **Note to teacher:** Show students how to save an RScript. Inform students that they can take notes
+    **<u>Note to teacher:</u>** Show students how to save an RScript. Inform students that they can take notes
     on their RScript by including a hashtag (also known as a pound sign or #) at the beginning of the
     note. Data scientists refer to these types of notes as “code comments” or simply “comments”. See
     image below.

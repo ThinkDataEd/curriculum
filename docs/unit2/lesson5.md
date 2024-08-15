@@ -7,7 +7,7 @@ compute and interpret another measure of spread: the IQR.
 ###**Materials:**
 1. Poster paper, 3-4 feet long
 
-    **Advance preparation required** Needs to be labeled and posted in class (see step 9 in lesson)
+    **<u>Advance preparation required:</u>** Needs to be labeled and posted in class (see step 9 in lesson)
 
 2. Tape
 
@@ -77,7 +77,7 @@ and have them decide which student represents the class’s median height.
 
 9. Have the median student stand next to the wall directly in front of the poster paper.
 
-    **Advance preparation required:** Before class begins, tape a piece of poster paper,
+    **<u>Advance preparation required:</u>** Before class begins, tape a piece of poster paper,
     approximately 3-4 feet long, vertically to a wall in the classroom. The students will be
     creating a plot using lines drawn at certain students’ heights.
 
@@ -159,5 +159,5 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Students should complete the *Ages of Oscar Winners* handout ([LMR_U2_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L5.pdf)) for homework using their
-newly acquired knowledge of boxplots. <br> **Note:** Page 2 of the handout is an answer key for teacher reference only.
+newly acquired knowledge of boxplots. <br> **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference only.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L5.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L5.pdf)</div>

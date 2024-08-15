@@ -147,7 +147,7 @@ occurred.
 * <span style="color:midnightblue;">**Using what you've learned in the previous two labs, answer the following question by performing
 two computer simulations with 500 repetitions a piece:**</span>
 
-<span style="color:firebrick;">***If we draw 5 songs from a playlist of 30 rap, 23 country and 47 rock songs, how does the
+    <span style="color:firebrick;">***If we draw 5 songs from a playlist of 30 rap, 23 country and 47 rock songs, how does the
 estimated probability of all 5 songs being rap songs change if we draw the songs with or without
 replacement?***</span>
 

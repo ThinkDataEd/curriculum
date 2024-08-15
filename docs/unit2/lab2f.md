@@ -68,5 +68,5 @@ in our data.**</span>
 
 * <span style="color:firebrick;">**What does the shuffled data reveal? Does the answer to the research question below change when using the mean fares instead of the median fares?**</span>
 
-*Is there any evidence to suggest that those who survived paid a higher fare than those who died?*
+    *Is there any evidence to suggest that those who survived paid a higher fare than those who died?*
 

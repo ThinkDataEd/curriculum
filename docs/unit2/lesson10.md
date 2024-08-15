@@ -109,6 +109,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Next Day**</p>
-[<u>***LAB 2C: Which Song Plays Next?***</u>](lab2c.md)
+<center>[<u>***LAB 2C: Which Song Plays Next?***</u>](lab2c.md)</center>
 
-Complete [Lab 2C](lab2c.md) prior to [Lesson 11](lesson11.md).
+<center>Complete [Lab 2C](lab2c.md) prior to [Lesson 11](lesson11.md).</center>

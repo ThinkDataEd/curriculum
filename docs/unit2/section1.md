@@ -67,7 +67,7 @@ that we understand the information provided in summaries of data.
 
 <ins>*Data Collection Method:*</ins>
 
-1. **True Colors Personality Test:** Students will complete the *Personality Color* survey that will
+**True Colors Personality Test:** Students will complete the *Personality Color* survey that will
 collect their data about their personality styles.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>

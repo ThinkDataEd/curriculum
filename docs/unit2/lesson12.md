@@ -11,7 +11,7 @@ may not be based on data.
 
 2. Data collection devices
 
-3. *Stress/Chill Campaign* guidelines (LMR_U2_Campaign_StressChill)
+3. *Stress/Chill Campaign* guidelines ([LMR_U2_Campaign_StressChill](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Campaign_StressChill.pdf))
 
 ###**Essential Concepts:**
 

@@ -39,4 +39,4 @@ you could ask that would address these research questions.
 
     a. Make sure to include any relevant plots or numerical summaries that you use to make *any* conclusion in your analysis.
 
-**Note:** You may use the scoring guide in [Unit 1](../unit1/overview.md) to give you an idea of how to score the Practicum.
+**<u>Note:</u>** You may use the scoring guide in [Unit 1](../unit1/overview.md) to give you an idea of how to score the Practicum.

@@ -7,9 +7,9 @@ value is also referred to as the mean, or average.
 ###**Materials:**
 1. *Pennies on a Ruler* handout ([LMR_U2_L2_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf))
 
-**Digitial Option:** IDS Balancing Point app
+    **Digitial Option:** IDS Balancing Point app
 
-*Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf))
+    *Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf))
 
 2. Markers (1 for each table)
 
@@ -21,7 +21,7 @@ value is also referred to as the mean, or average.
 
 6. Exported, printed, and reproduced class’s *Personality Color* survey data
 
-    **Advance preparation required:** The teacher must share students’ data on the IDS Home page
+    **<u>Advance preparation required:</u>** The teacher must share students’ data on the IDS Home page
     ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}) before it can be exported and printed. Students will keep for use in
     subsequent lessons (see step 9 of lesson).
 
@@ -53,8 +53,8 @@ value is also referred to as the mean, or average.
     100. Measures of variability. <span style="color:grey">***Answer: Values that show how much the quantitative data varies.
     Also known as measures of***</span> *** spread***. 
     
-    **Note:** This is not taught during this lesson, but
-    will be addressed as part of [Lesson 4](lesson4.md).***
+    **<u>Note:</u>** This is not taught during this lesson, but
+    will be addressed as part of [Lesson 4](lesson4.md).
 
 2. Ask a pair to share what they think these two terms mean. Pairs who are listening must decide
 whether they agree or disagree with the pair that shared. Lead a discussion based on their
@@ -75,7 +75,7 @@ the balancing point via the activity in steps 7 and 8 below.
 pennies to each table group. If you prefer to not print the document, you can project it on the
 board instead.
 
-**Note:** Alternatively, you can substitute the digital version of this activity using the *Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)).
+    **<u>Note:</u>** Alternatively, you can substitute the digital version of this activity using the *Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)).
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf)</div>
 

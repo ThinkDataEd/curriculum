@@ -116,7 +116,7 @@ there is a single 'typical' value with random deviations above and below that va
     red curve is not exactly the same as the women’s heights, it is a close enough
     approximation of the shape of their heights.***</span>
 
-    **Note to teacher:** The main role the normal distribution has historically played has been in modeling errors
+    **<u>Note to teacher:</u>** The main role the normal distribution has historically played has been in modeling errors
     (most measurements will be close to the actual value while larger errors occur less often) and
     sample means.
 

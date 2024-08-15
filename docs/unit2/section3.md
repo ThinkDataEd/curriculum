@@ -65,7 +65,7 @@ reports of scientific and medical findings.
 
 <ins>*Data Collection Method:*</ins>
 
-1. **Stress/Chill Participatory Sensing Campaign:** Students will monitor how they feel at different
+**Stress/Chill Participatory Sensing Campaign:** Students will monitor how they feel at different
 times of the day – whether they are “stressing” or “chilling”. Along with how they feel, they will
 make observations regarding other factors, such as being alone or with others, what they are
 doing at that moment, and why they are doing that activity.

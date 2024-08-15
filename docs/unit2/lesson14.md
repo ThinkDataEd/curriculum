@@ -54,9 +54,7 @@ for his/her cabin (the fare price) had anything to do with whether or not he/she
 
 8. Each student will need a strip from the [*LMR_Titanic_Strips*](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf) file—see below for instructions.
 
-    **Advance preparation required:**
-
-    The Titanic Strips LMR contains data from 40 actual passengers on the titanic. Each strip
+    **<u>Advance preparation required:</u>** The Titanic Strips LMR contains data from 40 actual passengers on the titanic. Each strip
     represents the data from one passenger: the left hand side shows the fare paid and right hand
     side contains the survival information of that passenger after the collision. Cut the LMR into strips
     such that the fare price is attached to the survivor status for each of the 40 observations.
@@ -134,7 +132,7 @@ victim). Collect only the outcomes and randomly shuffle them. Students will keep
 
 20. On the board, create a table to display the median fare prices for each group, and include a column
 for the difference (median “Survivor” fare – median “Victim” fare). Fill in the table with the values the
-students found in Step 13. **<u>Note:</u>** The first row has been filled in with the example data from
+students found in Step 13. <br>**<u>Note:</u>** The first row has been filled in with the example data from
 above BEFORE the shuffles have taken place.
 
     | Median Fare Price of Survivors | Median Fare Price of Victims | Difference in Medians (Survivors - Victims) |
@@ -189,6 +187,6 @@ day were.
 For the next 3 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
 UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
-[<u>***LAB 2F: The Titanic Shuffle***</u>](lab2f.md)
+<center>[<u>***LAB 2F: The Titanic Shuffle***</u>](lab2f.md)</center>
 
-Complete [Lab 2F](lab2f.md) prior to [Lesson 15](lesson15.md).
+<center>Complete [Lab 2F](lab2f.md) prior to [Lesson 15](lesson15.md).</center>

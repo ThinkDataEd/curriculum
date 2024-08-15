@@ -145,7 +145,7 @@ from a playlist.
 
     – As we increase the number of draws, the *range* of proportions should shrink.
 
-*When using simulations to estimate probabilities, using a large number of repeats is better because the
+    *When using simulations to estimate probabilities, using a large number of repeats is better because the
 estimates have less variability and so we can be confident we're closer to the actual value.*
 
 ###**Non-random Randomness**
@@ -186,8 +186,7 @@ songs.**</span>
 * Suppose there are 1,200 students at your school. 400 of them went to the movies last
 Friday, 600 went to the park and the rest read at home.
 
-*If we select a student at random, what is the probability that this student is one of those who went to
-the movies last Friday?*
+    *If we select a student at random, what is the probability that this student is one of those who went to the movies last Friday?*
 
 * <span style="color:midnightblue;">**Answer this by estimating the probability that a randomly chosen student went to the
 movies using 500 simulations.**</span>

@@ -6,11 +6,11 @@ Students will learn how to merge two datasets and ask statistical investigative 
 ###**Materials:**
 1. *Tangible Data Merging* file ([LMR_U2_L15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L15.pdf))
 
-    **Advance preparation required:** Needs to be cut into strips (see step 5 of lesson)
+    **<u>Advance preparation required:</u>** Needs to be cut into strips (see step 5 of lesson)
 
 2. Copy paper in two colors
 
-    **Advance preparation required:** To distinguish between Dataset 1 & 2 (see step 5 of lesson)
+    **<u>Advance preparation required:</u>** To distinguish between Dataset 1 & 2 (see step 5 of lesson)
 
 ###**Vocabulary:**
 [merge](../../vocabulary/unit2/#merge "to come together or combine"){ .md-button }
@@ -98,6 +98,6 @@ day were.
 Students will collect data for one more day for the *Stress/Chill* campaign either through the [IDS
 UCLA](../download/app.md) App or via web browser at https://portal.idsucla.org
 
-[<u>***LAB 2G: Getting it Together***</u>](lab2g.md)
+<center>[<u>***LAB 2G: Getting it Together***</u>](lab2g.md)</center>
 
-Complete [Lab 2G](lab2g.md) prior to the [Practicum](practicum3.md).
+<center>Complete [Lab 2G](lab2g.md) prior to the [Practicum](practicum3.md).</center>

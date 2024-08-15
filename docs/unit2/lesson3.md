@@ -7,7 +7,7 @@ and will understand how medians compare and contrast with the mean.
 ###**Materials:**
 1. Sticky notes (one per student)
 
-    **Advance preparation required** (see step 6 in lesson)
+    **<u>Advance preparation required:</u>** Have one sticky note for each student (see step 6 in lesson)
 
 2. Poster paper
 
@@ -50,7 +50,7 @@ numbers in numerical order (from lowest to highest).
 
 6. Next, randomly distribute one sticky note to each student.
 
-    **Advance preparation required:** There should be one card for every student in the class. All of
+    **<u>Advance preparation required:</u>** There should be one card for every student in the class. All of
     the cards, except one, need to have the value 0 written on them. One card should have the value
     1,000,000 written on it.
 

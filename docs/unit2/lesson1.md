@@ -9,7 +9,7 @@ subset their data.
 
 2. Posted signs for each Personality Color: Blue, Gold, Green, and Orange
 
-    **Advance preparation required:** Posters need to be labeled and posted (see step 5 in lesson)
+    **<u>Advance preparation required:</u>** Posters need to be labeled and posted (see step 5 in lesson)
 
 3. Poster paper
 
@@ -36,7 +36,8 @@ subset their data.
 2. There are things students know and don’t know about themselves. The *True Colors Personality
 Test* ([LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)) claims to identify personality types (later, students can gather more evidence to
 test these claims). Students will use these data to explore fundamental statistical concepts.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://stemc.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_2.1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)</div>
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)</div>
 
 3. Distribute the first 2 pages of the *True Colors Personality Test* ([LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)). DO NOT include the
 final page, which contains the descriptions of each color. Instruct students on how to complete

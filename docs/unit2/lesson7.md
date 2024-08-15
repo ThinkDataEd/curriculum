@@ -8,7 +8,7 @@ Students will learn how to create a boxplot from an already-established dotplot.
 
 2. Sets of plots from *Plot Match* file ([LMR_U2_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L7_B.pdf)) – one for each team
 
-    **Advance preparation required:** Needs to be cut out prior to class (see step 8 in lesson)
+    **<u>Advance preparation required:</u>** Needs to be cut out prior to class (see step 8 in lesson)
 
 ###**Vocabulary:**
 [representation](../../vocabulary/unit2/#representation "the form in which data is stored, processed, and transmitted"){ .md-button }
@@ -37,7 +37,7 @@ have worked with other representations of distributions. Ask students:
 
 5. Distribute the *From Dotplots to Boxplots* handout ([LMR_U2_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L7_A.pdf)). In teams, students will sketch
 boxplots from dotplots. They will need to determine the five-number summaries of each plot, and
-should clearly label each value on their boxplots. <br> **Note:** Page 3 of the handout is an answer key for teacher reference only.
+should clearly label each value on their boxplots. <br> **<u>Note:</u>** Page 3 of the handout is an answer key for teacher reference only.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L7_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L7_A.pdf)</div>
 
 6. Students should answer the 3 questions included in the handout. They can discuss their answers
@@ -108,6 +108,6 @@ day were.
 Students should reflect on today’s class discussion and record their ideas of some pros and cons of using
 different types of graphical representations to display the same data.
 
-[<u>***LAB 2B: Oh the Summaries…***</u>](lab2b.md)
+<center>[<u>***LAB 2B: Oh the Summaries…***</u>](lab2b.md)</center>
 
-Complete [Lab 2B](lab2b.md) prior to the [Practicum](practicum1.md).
+<center>Complete [Lab 2B](lab2b.md) prior to the [Practicum](practicum1.md).</center>

@@ -222,6 +222,6 @@ day were.
 For the next 5 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
 UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
 
-[<u>***LAB 2E: The Horror Movie Shuffle***</u>](lab2e.md)
+<center>[<u>***LAB 2E: The Horror Movie Shuffle***</u>](lab2e.md)</center>
 
-Complete [Lab 2E](lab2e.md) prior to [Lesson 14](lesson14.md).
+<center>Complete [Lab 2E](lab2e.md) prior to [Lesson 14](lesson14.md).</center>

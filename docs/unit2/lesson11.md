@@ -78,7 +78,7 @@ preferences as follows:
     * Counts for students who like only pickles go in the No/Like Mayonnaise and Yes/Like Pickles
     box.
 
-    **Note:** A Venn diagram like the one below may be used as well, depending on student
+    **<u>Note:</u>** A Venn diagram like the one below may be used as well, depending on student
     understanding and at teacher discretion.
 
     <img src="../../img/21109.png" />
@@ -121,7 +121,7 @@ preferences as follows:
 
         If students mistakenly report the number of students who like ONLY pickles plus the
         students who like ONLY mayonnaise, ask the people at the board to raise their hands if
-        they like either pickles or mayonnaise (All students at the board should raise their hand
+        they like either pickles or mayonnaise (all students at the board should raise their hand
         except for the students who like “None”) and then ask the mistaken student to recount.
     
     100. What is the probability that a randomly selected student at the board likes pickles OR
@@ -168,6 +168,6 @@ day were.
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 If not completed in class, students should finish the *Compound Probabilities* handout ([LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)).
 
-[<u>***LAB 2D: Queue It Up!***</u>](lab2d.md)
+<center>[<u>***LAB 2D: Queue It Up!***</u>](lab2d.md)</center>
 
-Complete [Lab 2D](lab2d.md) prior to the [Practicum](practicum2.md).
+<center>Complete [Lab 2D](lab2d.md) prior to the [Practicum](practicum2.md).</center>

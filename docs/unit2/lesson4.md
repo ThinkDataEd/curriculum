@@ -95,7 +95,7 @@ the MAD value might represent.
     <span style="color:grey">***deviation – as discussed earlier in the lesson, deviation represents how much
     things vary***</span>
 
-13. Using the 3 components in Step 12, explain that the MAD measures the absolute distance of each
+13. Using the 3 components in step 12 from above, explain that the MAD measures the absolute distance of each
 data point from the mean, and then finds the average of all those distances.
 
 14. Display the formula for the MAD distribution for the whole class to see.
@@ -156,6 +156,6 @@ compare the values of the 4 color scores.
 
     Demonstrate it on your own Environment or refer students to [this video](https://www.youtube.com/embed/N5KpS0MFk7Y)
 
-[<u>***LAB 2A: All About Distributions***</u>](lab2a.md)
+<center>[<u>***LAB 2A: All About Distributions***</u>](lab2a.md)</center>
 
-Complete [Lab 2A](lab2a.md) prior to [Lesson 5](lesson5.md).
+<center>Complete [Lab 2A](lab2a.md) prior to [Lesson 5](lesson5.md).</center>

@@ -55,15 +55,15 @@ You will have 5 days to complete this project with your assigned partner. You ne
 
 *<u>Project Assignment Sequence:</u>*
 
-❏ Day 1: Decide on a statistical investigative question with assigned partner.
+* ❏ Day 1: Decide on a statistical investigative question with assigned partner.
 
-    ❏ Get approval from teacher.
+    * ❏ Get approval from teacher.
 
-❏ Day 2: Working day for analysis – create plots and numerical summaries.
+* ❏ Day 2: Working day for analysis – create plots and numerical summaries.
 
-❏ Day 3: Working day for analysis – create presentation (4 slides maximum).
+* ❏ Day 3: Working day for analysis – create presentation (4 slides maximum).
 
-❏ Day 4: Presentations.
+* ❏ Day 4: Presentations.
 
-❏ Day 5: Presentations.   
+* ❏ Day 5: Presentations.   
 
