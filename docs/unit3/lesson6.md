@@ -8,7 +8,7 @@ about the results.
 ###**Materials:**
 1. *Stick Figures Cutouts* ([LMR_U1_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)) from [Unit 1](../unit1/overview.md), [Lesson 2](../unit1/lesson2.md)
 
-    **<u>Note:</u> Advance preparation required:** Needs to be cut into cards (see step 1 in lesson)
+    **<u>Advance preparation required:</u>** Needs to be cut into cards (see step 1 in lesson)
 
 2. *Turning Observations into Data* handout ([LMR_U3_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L6.pdf))
 

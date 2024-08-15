@@ -209,7 +209,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students should complete the *Parameters & Statistics* handout ([LMR_U3_L10_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.6Q_Parameters and Statistics.pdf) [LMR_U3_L10_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_B.pdf)) for homework.
+Students should complete the *Parameters & Statistics* handout ([LMR_U3_L10_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_3.6Q_Parameters and Statistics.pdf)) for homework.
 
 **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe>

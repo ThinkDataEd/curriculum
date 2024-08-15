@@ -80,7 +80,7 @@ to 4.3, we say "We are 90% confident that the population parameter value is betw
 4.3." This is another way of saying "We don't know what the exact true value is, but we're
 confident it is somewhere in this interval."
 
-    **<u>Note:</u>*** Correct definition: 90% confidence means that if you were to compute the interval many times, 90% of them would include the population parameter.
+    **<u>Note:</u>** Correct definition: 90% confidence means that if you were to compute the interval many times, 90% of them would include the population parameter.
 
     Misconception: 90% confidence means that there is a 90% chance that the population parameter is in the interval.
 
@@ -117,6 +117,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Next Day**</p>
-[<u>***LAB 3D: Are you sure about that?***</u>](lab3d.md)
+<center>[<u>***LAB 3D: Are you sure about that?***</u>](lab3d.md)</center>
 
-Complete [Lab 3D](lab3d.md) prior to the [Let’s Build a Survey! Practicum](practicum2.md).
+<center>Complete [Lab 3D](lab3d.md) prior to the [Let’s Build a Survey! Practicum](practicum2.md).</center>

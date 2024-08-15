@@ -115,8 +115,8 @@ day were.
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next 2 Days**</p>
 For the next 4 days, students will collect data using their newly created Participatory Sensing campaign.
 
-[<u>***Lab 3E: Scraping web data***</u>](lab3e.md)
+<center>[<u>***Lab 3E: Scraping web data***</u>](lab3e.md)</center>
 
-[<u>***Lab 3F: Maps***</u>](lab3f.md)
+<center>[<u>***Lab 3F: Maps***</u>](lab3f.md)</center>
 
-Complete [Labs 3E](lab3e.md) and [3F](lab3f.md) prior to [Lesson 21](lesson21.md).
+<center>Complete [Labs 3E](lab3e.md) and [3F](lab3f.md) prior to [Lesson 21](lesson21.md).</center>

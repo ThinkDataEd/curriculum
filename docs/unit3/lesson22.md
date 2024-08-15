@@ -25,7 +25,7 @@ into a data table.
 
 3. Distribute the *There and Back Again: From XML to Data Tables* handout ([LMR_U3_L22_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L22_A.pdf)) to students.
 
-    **<u>Note:</u>** Provide an electronic copy of LMR_U3_L22_A for students to easily copy/paste the code later in the lesson.
+    **<u>Note:</u>** Provide an electronic copy of [LMR_U3_L22_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L22_A.pdf) for students to easily copy/paste the code later in the lesson.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L22_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L22_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L22_A.pdf)</div>
 
@@ -64,7 +64,7 @@ translate the XML code in RStudio into a readable table. They will then transfer
 
     <img src="../../img/32211.png" />
 
-12. Have students **```View```** the **```volunteers```** data and fill in their table in LMR_U3_L22_A.
+12. Have students **```View```** the **```volunteers```** data and fill in their table in [LMR_U3_L22_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L22_A.pdf).
 
     <img src="../../img/32212.png" />
 

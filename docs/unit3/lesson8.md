@@ -115,7 +115,7 @@ them and answer the following questions in their DS journals:
 
     100. Answers will vary. <span style="color:grey">***For this example, clicking "View details about correlation #5,901" showed us the table of data used for the plot.***</span>
     
-    <img src="../../img/30808d.png" />
+        <img src="../../img/30808d.png" />
 
     100. Can you conclude that the one variable *causes* the other? <span style="color:grey">***Answer: No. Although the two variables are associated with one another, we do not have evidence to say that US households buying more fruit causes the CNI price to increase because the data do not come from a controlled experiment.***</span>
 
@@ -137,6 +137,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Next Day**</p>
-[<u>***LAB 3B: Confound it all!***</u>](lab3b.md)
+<center>[<u>***LAB 3B: Confound it all!***</u>](lab3b.md)</center>
 
-Complete [Lab 3B](lab3b.md) prior to [Lesson 9](lesson9.md).
+<center>Complete [Lab 3B](lab3b.md) prior to [Lesson 9](lesson9.md).</center>

@@ -101,20 +101,20 @@ which is one method of data collection.
 over the next several lessons.
 
 8. Guide students to identify the elements of an experiment by referring back to the video clip:
-    100. **Research Question** — the question to be answered by the experiment <br>(<span style="color:grey">***Are Hands-Free Calls Really Safer While Driving?***</span>)
+    100. **Research Question** — the question to be answered by the experiment <br><span style="color:grey">***Are Hands-Free Calls Really Safer While Driving?***</span>
 
-    100. **Subjects** – people or objects that are participating in the experiment <br>(<span style="color:grey">***The 30 adults.***</span>)
+    100. **Subjects** – people or objects that are participating in the experiment <br><span style="color:grey">***The 30 adults.***</span>
 
-    100. **Treatment** – the variable that is deliberately manipulated to investigate its influence on the outcome; this is sometimes known as the explanatory, or independent, variable <br>(<span style="color:grey">***Having drivers on a call without a cellphone in their hand. Using the research question as our guide, the question implies that we are experimenting with the hands-free calling, therefore that is the treatment as we are comparing it to hands-on calling.***</span>)
+    100. **Treatment** – the variable that is deliberately manipulated to investigate its influence on the outcome; this is sometimes known as the explanatory, or independent, variable <br><span style="color:grey">***Having drivers on a call without a cellphone in their hand. Using the research question as our guide, the question implies that we are experimenting with the hands-free calling, therefore that is the treatment as we are comparing it to hands-on calling.***</span>
 
-    100. **Treatment group** – the group of subjects that receive the treatment <br>(<span style="color:grey">***The 15 people who used the hands-free phone.***</span>)
+    100. **Treatment group** – the group of subjects that receive the treatment <br><span style="color:grey">***The 15 people who used the hands-free phone.***</span>
 
-    100. **Control group** – the group that does not receive a treatment <br>(<span style="color:grey">***The remaining 15 people who used the hands-on phone.***</span>)
+    100. **Control group** – the group that does not receive a treatment <br><span style="color:grey">***The remaining 15 people who used the hands-on phone.***</span>
 
     100. **Random assignment** – subjects are randomly assigned to either the treatment or control
-    group <br>(<span style="color:grey">***It's unclear if random assignment was used in this video (if it was, we were not told so), but we're going to assume that people were randomly assigned to each group.***</span>)
+    group <br><span style="color:grey">***It's unclear if random assignment was used in this video (if it was, we were not told so), but we're going to assume that people were randomly assigned to each group.***</span>
     
-    100. **Outcome** – the variable that the treatment is meant to influence; this is sometimes known as the response, or dependent, variable <br>(<span style="color:grey">***Success - whether or not a person was a safe driver by passing the test.***</span>)
+    100. **Outcome** – the variable that the treatment is meant to influence; this is sometimes known as the response, or dependent, variable <br><span style="color:grey">***Success - whether or not a person was a safe driver by passing the test.***</span>
     
     100. **Statistic** — a number such as a mean or proprtion used to summarize our findings for the control and treatment groups <br> <span style="color:grey">***In this case, the MythBusters gave raw data. A statistuc would have been that 6.7% (1 out of 15) of the control group passed the test. Similarly, 6.7% of the treatment group passed the test.***</span>
     

@@ -115,7 +115,7 @@ based on the questions listed below.
     arithmetic errors, but not always.***</span>
 
 12. Next, display the histogram from the *Gettysburg Address – Word Length Histogram* file
-([LMR_U3_l11_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf)), which shows the distribution of word lengths for the entire population of words in the
+([LMR_U3_L11_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf)), which shows the distribution of word lengths for the entire population of words in the
 Gettysburg Address.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L11_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf)</div>
 
@@ -152,7 +152,7 @@ possible 272 using RStudio.
 19. Each student should generate his or her own set of 10 random numbers. Once students have
 created their random numbers, distribute the *Gettysburg Address Word Lengths* handout
 ([LMR_U3_L11_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_D.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_D.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_3.10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_D.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_D.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L11_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_D.pdf)</div>
 
 20. Explain that the table contains the word number, word, and length of each word in the Gettysburg
 Address. Demonstrate how to find a word that corresponds to one of the random numbers
@@ -211,6 +211,6 @@ day were.
 Students should write a reflection about why random sampling is better at reducing bias than other
 sampling procedures.
 
-[<u>***Lab 3C: Random Sampling***</u>](lab3c.md)
+<center>[<u>***Lab 3C: Random Sampling***</u>](lab3c.md)</center>
 
-Complete [Lab 3C](lab3c.md) prior to [Lesson 12](lesson12.md).
+<center>Complete [Lab 3C](lab3c.md) prior to [Lesson 12](lesson12.md).</center>

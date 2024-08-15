@@ -12,7 +12,7 @@ Students will learn what sensors are and how they are used to collect data.
 
 4. Flags in 3 different colors
 
-    **Advance preparation required:** Need to set up groups/activity (see step 10 in lesson)
+    **<u>Advance preparation required:</u>** Need to set up groups/activity (see step 10 in lesson)
 
 ###**Vocabulary:**
 [sensor](../../vocabulary/unit3/#sensor "a converter that measures a physical quantity and converts it into a signal, which can be read by an observer or by an instrument"){ .md-button }
