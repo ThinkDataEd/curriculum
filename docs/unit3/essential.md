@@ -86,5 +86,5 @@ We stretch students' conception of data, to help them see that many web pages pr
 XML is a programming language that we use with our campaigns. We create basic XML "tags" in the
 code, which help us store data in a format we understand.
 
-###**<u>[Lesson 22: Changing Orientation](lesson22.md)</u>**
+###**<u>[Lesson 22: Changing Format](lesson22.md)</u>**
 Converting XML to spreadsheet format helps us better understand and view our data.
