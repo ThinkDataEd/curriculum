@@ -3543,15 +3543,18 @@ students at a high school.</p>
 <p>Each team’s rule for determining a winner (from previous lesson)</p>
 </li>
 <li>
-<p><em>A Tale of Two Rules</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.7_A%20Tale%20of%20Two%20Rules.pdf">LMR_4.7_A Tale of Two Rules</a>)</p>
+<p><em>Heights of Students at a Large High School</em> handout (<a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf">LMR_U4_L6</a>)</p>
 </li>
 <li>
-<p><em>Prediction Games</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.8_Prediction%20Games.pdf">LMR_4.8_Prediction Games</a>)</p>
+<p><em>A Tale of Two Rules</em> handout (<a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf">LMR_U4_L7_A</a>)</p>
+</li>
+<li>
+<p><em>Prediction Games</em> handout (<a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf">LMR_U4_L7_B</a>)</p>
 </li>
 </ol>
 <h3 id="vocabulary"><strong>Vocabulary:</strong></h3>
 <p><a class="md-button" href="../../vocabulary/unit4/#training-data" title="a random subset consisting of about 75-85% of the original dataset on which a model is trained">training data</a>
-<a class="md-button" href="../../vocabulary/unit4/#testing-data" title="a random subset consisting of about 15-25% of the original dataset on which a model is tested">testing data</a>
+<a class="md-button" href="../../vocabulary/unit4/#test-data" title="a random subset consisting of about 15-25% of the original dataset on which a model is tested">test data</a>
 <a class="md-button" href="../../vocabulary/unit4/#mean-squared-error" title="tells you how close a regression line is to a set of points; is determined by finding the average of the squared differences between your guess and the actual values">mean squared error</a>
 <a class="md-button" href="../../vocabulary/unit4/#mean-absolute-error" title="the amount of error in your measurements; it is the difference between the measured value and the &quot;true&quot; value">mean absolute error</a>
 <a class="md-button" href="../../vocabulary/unit4/#residual" title="the difference between our prediction and the actual outcome; also called an &quot;error&quot;">residual</a></p>
@@ -3574,10 +3577,10 @@ This time, they will be switching roles – instead of creating a rule to judge 
 they will be given a rule and it’s their job to find the best prediction to win the contest.</p>
 </li>
 <li>
-<p>Have students refer back to the <em>Heights of Students at a Large High School</em> handout (LMR_4.6) from the previous lesson. </p>
+<p>Have students refer back to the <em>Heights of Students at a Large High School</em> handout (<a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf">LMR_U4_L6</a>) from the previous lesson. </p>
 </li>
 <li>
-<p>Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the <strong>training data</strong> where we train a model to make predictions. Then we use the <strong>testing data</strong> (dataset A and dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:</p>
+<p>Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the <strong>training data</strong> where we train a model to make predictions. Then we use the <strong>test data</strong> (Dataset A and Dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:</p>
 <ol>
 <li>
 <p>Team A used the mean.</p>
@@ -3591,7 +3594,7 @@ they will be given a rule and it’s their job to find the best prediction to wi
 </ol>
 </li>
 <li>
-<p>In the previous lesson, you created your own rules to determine the winner. Today, you will learn rules that statisticians and data scientists use. The first is called the <strong>mean squared error</strong> rule. <br> <strong>Note to teacher</strong>: acknowledge any groups who came up with MSE or MAE on their own in the previous lesson.</p>
+<p>In the previous lesson, you created your own rules to determine the winner. Today, you will learn rules that statisticians and data scientists use. The first is called the <strong>mean squared error</strong> rule. <br> <strong><u>Note to teacher:</u></strong> acknowledge any groups who came up with MSE or MAE on their own in the previous lesson.</p>
 </li>
 <li>
 <p>An "<em>error</em>" is the difference between our prediction and the actual outcome and is sometimes called a "residual". The mean squared error is also called:</p>
@@ -3612,14 +3615,14 @@ they will be given a rule and it’s their job to find the best prediction to wi
 <li>
 <p>Let’s use R to do the heavy lifting for us. Demonstrate how to find the mean squared error by typing the following commands in the console (throughout the process, show what is happening in the Environment and the dataframe):</p>
 <pre><code>#First, let's create a vector of the heights in our first dataset:
-height &lt;- c(70.1, 61, 70.1, 68.1, 63, 66.1, 61, 70.1, 72.8, 70.9)
+heightA &lt;- c(70.1, 61, 70.1, 68.1, 63, 66.1, 61, 70.1, 72.8, 70.9)
 
 #Next, convert this vector into a dataframe:
-datasetA &lt;- data.frame(height)
+datasetA &lt;- data.frame(heightA)
 
 #Now we find the residuals using one of the statistics.
 #For this example, we'll use the first quartile from the training data (65 inches): 
-datasetA &lt;- mutate(datasetA, residual=height-65)
+datasetA &lt;- mutate(datasetA, residual = heightA-65)
 
 #Next, we will square each residual:
 datasetA &lt;- mutate(datasetA, sq_res=residual^2)
@@ -3634,12 +3637,12 @@ mean(~sq_res, data=datasetA)
 </code></pre>
 </li>
 <li>
-<p>Distribute the <em>A Tale of Two Rules</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.7_A%20Tale%20of%20Two%20Rules.pdf">LMR_4.7</a>).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.7_A Tale of Two Rules.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.7_A%20Tale%20of%20Two%20Rules.pdf">LMR_4.7</a></div></p>
+<p>Distribute the <em>A Tale of Two Rules</em> handout (<a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf">LMR_U4_L7_A</a>).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf">LMR_U4_L7_A</a></div></p>
 </li>
 <li>
-<p>Let's see how well our teams' predictions did on the heights of the testing data. Students will work in teams to answer: Using the mean squared errors, which statistic is the winner? Discuss which statistic made the best predictions in all three games.</p>
-<p><span style="color:grey"><strong><em>Answers:</em></strong></span></p>
+<p>Let's see how well our teams' predictions did on the heights of the test data. Students will work in teams to answer: Using the mean squared errors, which statistic is the winner? Discuss which statistic/team made the best predictions.</p>
+<p><span style="color:grey"><strong><em>See answers below:</em></strong></span></p>
 <p><img src="../../img/40606b.png" /></p>
 <p><strong><u>Note to teacher:</u></strong> Explain that the mean/Team A was the winner of this contest. Data scientists (and
 mathematicians) can prove that the mean will <strong>always</strong> work best (except in a few weird cases
@@ -3673,15 +3676,15 @@ mean(~residual, data=datasetA)
 </li>
 <li>
 <p>Using the mean absolute error, which statistic/team is the winner?</p>
-<p><span style="color:grey"><strong><em>Answers:</em></strong></span></p>
+<p><span style="color:grey"><strong><em>See answers below:</em></strong></span></p>
 <p><img src="../../img/40612.png" /></p>
 <p><strong><u>Note to teacher:</u></strong> Explain that in this instance, the median/Team B is the “winner.” This means that the
 way you play the game depends on the rules of the game. If we used the mean squared error (MSE), play
 with the mean. If we use the mean absolute error (MAE), play with the median.</p>
 </li>
 <li>
-<p>Optional practice: Students can practice finding the mean squared error and mean absolute error using the mean and median with the <em>Prediction Games</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.8_Prediction%20Games.pdf">LMR_4.8</a>). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.8_Prediction Games.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.8_Prediction%20Games.pdf">LMR_4.8</a></div></p>
+<p>Optional practice: Students can practice finding the mean squared error and mean absolute error using the mean and median with the <em>Prediction Games</em> handout (<a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf">LMR_U4_L7_B</a>). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare. <br><strong><u>Note:</u></strong> Page 3 of the handout is an answer key for teacher reference.</p>
+<p><div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf">LMR_U4_L7_B</a></div></p>
 </li>
 </ol>
 <h3 id="class-scribes"><strong>Class Scribes:</strong></h3>

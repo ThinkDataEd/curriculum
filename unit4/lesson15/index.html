@@ -3539,7 +3539,7 @@
 with how the information should be combined.</p>
 <h3 id="materials"><strong>Materials:</strong></h3>
 <ol>
-<li><em>Advertising Plots Part 2</em> handout (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.18_Advertising%20Plots%202.pdf">LMR_4.18</a>) from <a href="../lesson14/">Lesson 14</a></li>
+<li><em>Advertising Plots Part 2</em> handout (<a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf">LMR_U4_L14_B</a>) from <a href="../lesson14/">Lesson 14</a></li>
 </ol>
 <h3 id="essential-concepts"><strong>Essential Concepts:</strong></h3>
 <div class="admonition note">
@@ -3550,8 +3550,8 @@ with how the information should be combined.</p>
 <ol>
 <li>
 <p>Display the plots and statements from the previous day:</p>
-<p><img src="../../img/41212.png" />    </p>
-<p><div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Advertising Plots 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.18_Advertising%20Plots%202.pdf">LMR_4.18</a></div></p>
+<p><img src="../../img/41412.png" />    </p>
+<p><div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br><a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf">LMR_U4_L14_B</a></div></p>
 <ol>
 <li>
 <p>Combining multiple variables (e.g., money spent on TV and Newspaper ads, TV and
@@ -3582,17 +3582,18 @@ Newspaper ads, etc.)</p>
 <li>
 <p>Then inform students that we will determine which of the statements is true by comparing the mean aquared error (MSE) of single models (like the ones we showed in the previous lesson) vs. combined models. But first, use the line of best fit for the combined variables:</p>
 <p><center><img src="https://latex.codecogs.com/gif.latex?\widehat{sales}=0.044889(tv)&plus;0.194199(radio)-0.007392(newspaper)&plus;3.154843" title="\widehat{sales}=0.0444889(tv)+0.194199(radio)-0.007392(newspaper)+3.154843" /></center></p>
-<p><strong>Note:</strong> The function that produced the line of best fit using RStudio was</p>
+<p><strong><u>Note:</u></strong> The function that produced the line of best fit using RStudio was:</p>
 <pre><code>lm(Sales ~ TV + Radio + Newspaper, data= retail)
 </code></pre>
 <ol>
 <li>
 <p>Use this equation to predict the amount of sales for the same market they circled in the previous lesson. <span style="color:grey"><strong><em>Student calculations should yield the predicted value in (b), below.</em></strong></span></p>
 <p><strong><u>Note:</u></strong> Remind students that they need to substitute the values as they appear in the x-axis of the plots without converting to thousands of dollars. For example, the circled market spent about 10 thousand dollars on newspaper ads, so students should substitute 10 instead of the expanded value in the equation.</p>
-<p><img src="../../img/41210.png" /></p>
+<p><img src="../../img/41506.png" /></p>
 </li>
 <li>
-<p>Does the predicted value (10.81224) seem like a plausible number of sales? Why? <span style="color:grey"><strong><em>Answer: It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 108,122 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as <a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%204_v_6.0/LMR_4.18_Advertising%20Plots%202.pdf">LMR_4.18</a> displays, that market did not fit the overall pattern in any of the scatterplots.</em></strong></span></p>
+<p>Does the predicted value (10.81224) seem like a plausible number of sales? Why? <span style="color:grey"><strong><em>Answer: It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 108,122 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as <a href="../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf">LMR_U4_L14_B</a> displays, that market did not fit the overall pattern in any of the scatterplots.</em></strong></span></p>
+<p><img src="../../img/41506b.png" /></p>
 </li>
 </ol>
 </li>
@@ -3697,8 +3698,8 @@ the model can use more information to make predictions.</p>
 <p>One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.</p>
 <h3 id="homework-next-day"><p style="background: black; color: white; text-align: center;"><strong>Homework &amp; Next Day</strong></p></h3>
 <p>Ask students to think of a reason or reasons about why it would not be a good idea to make a scatterplot for models that include more than 3 predictor variables? <span style="color:grey"><strong><em>The answer is mainly because humans are limited to seeing things in 3 dimensions. For example, the model that combines all of the variables together is a 4 dimensional model. What does that look like?</em></strong></span></p>
-<p><a href="../lab4f/"><u><strong><em>LAB 4F: This Model is Big Enough for All of Us</em></strong></u></a></p>
-<p>Complete <a href="../lab4f/">Lab 4F</a> prior to <a href="../practicum1/">Practicum</a>.</p>
+<p><center><a href="../lab4f/"><u><strong><em>LAB 4F: This model is big enough for all of us</em></strong></u></a></p>
+<p>Complete <a href="../lab4f/">Lab 4F</a> prior to <a href="../practicum1/">Practicum</a>.</center></p>
 
 
   
