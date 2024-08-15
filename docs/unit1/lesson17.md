@@ -11,7 +11,7 @@ context of the data.
 
 3. *Analyzing Categorical Variables* ([LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf))
 
-    **Advance preparation required** Needs to be cut into sets (see step 23 in lesson)
+    **<u>Advance preparation required:</u>** Needs to be cut into sets (see step 23 in lesson)
 
 4. *Interpreting Categorical Variables* ([LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf))
 
@@ -134,9 +134,7 @@ disagree with the explanations provided. Lead students to see that the total for
 23. Distribute one full set of cards from the *Analyzing Categorical Variables* file ([LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)) to each
 student team.
 
-    **<u>Advance preparation required:</u>**
-
-    Print the *Analyzing Categorical Variables* file ([LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)). The handouts can then be cut into a
+    **<u>Advance preparation required:</u>** Print the *Analyzing Categorical Variables* file ([LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)). The handouts can then be cut into a
     total of 20 cards (12 visuals, 8 numerical summaries). You will need enough sets of the cards for
     each student team to share one full set. For example, if there are 5 student teams in a class, then
     5 copies of the file will need to be printed so that each team gets all 20 cards.
