@@ -1,6 +1,6 @@
 ##***<u>Lesson 18: Where Do I Belong?</u>***
 
-###**Objective:**
+###**New Objective:**
 Students will learn what clustering is and how to classify groups of people into clusters based on unknown similarities.
 
 ###**Materials:**
