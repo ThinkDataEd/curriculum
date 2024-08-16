@@ -76,4 +76,4 @@ Students may finish their *Cheat Notes* for homework, if not completed in class.
 
 <center>[<u>***LAB 4E: Some models have curves***</u>](lab4e.md)
 
-Complete [Lab 4E](lab4e.md) prior to [Lesson 14](lesson14.md).</center>
+Complete [Lab 4E](lab4e.md) prior to [Practicum](practicum1.md).</center>

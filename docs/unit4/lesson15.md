@@ -100,4 +100,4 @@ Ask students to think of a reason or reasons about why it would not be a good id
 
 <center>[<u>***LAB 4F: This model is big enough for all of us***</u>](lab4f.md)
 
-Complete [Lab 4F](lab4f.md) prior to [Practicum](practicum1.md).</center>
+Complete [Lab 4F](lab4f.md) prior to [Lesson 16](lesson16.md).</center>
