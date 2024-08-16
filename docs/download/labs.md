@@ -37,7 +37,7 @@
 [LRS_2I_v_7.pdf](../IDS_Curriculum_v_5.0/3_IDS_Lab Response Sheets_v_5.0/IDS_Lab_Sheets_Unit2_v_7/LRS_2I_v_7.pdf)
 
 ##**Lab Sheets_Unit 3_v_7.0**
-[LRS_3A_v_7.pdf](../IDS_Curriculum_v_5.0/3_IDS_Lab Response Sheets_v_5.0/IDS_Lab_Sheets_Unit3_v_7/LRS_3A_v_6.0.pdf)
+[LRS_3A_v_7.pdf](../IDS_Curriculum_v_5.0/3_IDS_Lab Response Sheets_v_5.0/IDS_Lab_Sheets_Unit3_v_7/LRS_3A_v_7.pdf)
 
 [LRS_3B_v_7.pdf](../IDS_Curriculum_v_5.0/3_IDS_Lab Response Sheets_v_5.0/IDS_Lab_Sheets_Unit3_v_7/LRS_3B_v_7.pdf)
 

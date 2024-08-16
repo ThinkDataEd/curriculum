@@ -51,7 +51,7 @@ Newspaper ads, etc.)
 
         <img src="../../img/41506.png" />
 
-    100. Does the predicted value (10.81224) seem like a plausible number of sales? Why? <span style="color:grey">***Answer: It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 108,122 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
+    100. Does the predicted value (10.81224) seem like a plausible number of sales? Why? <span style="color:grey">***Answer: It is not a plausible number of sales because the prediction is too high. The prediction says the retailer will sell about 108,122 units, when the actual sales were about 16,000 units. Although the model did not make a very good prediction for this market, it is not surprising because as [LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf) displays, that market did not fit the overall pattern in any of the scatterplots.***</span>
 
         <img src="../../img/41506b.png" />
 

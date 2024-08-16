@@ -142,4 +142,4 @@ Write a paragraph that describes k-means clustering in your own words.
 
 <center>[<u>***LAB 4H: Finding Clusters***</u>](lab4h.md)
 
-Complete [Lab 4H](lab4h.md) prior to [Lesson 21](lesson21.md).</center>
+Complete [Lab 4H](lab4h.md) prior to [Lesson 19](lesson19.md).</center>
