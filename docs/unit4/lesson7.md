@@ -7,11 +7,11 @@ students at a high school.
 ###**Materials:**
 1. Each team’s rule for determining a winner (from previous lesson)
 
-2. *Heights of Students at a Large High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf))
+2. *Heights of Students at a Large High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L6.pdf))
 
-3. *A Tale of Two Rules* handout ([LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf))
+3. *A Tale of Two Rules* handout ([LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf))
 
-4. *Prediction Games* handout ([LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf))
+4. *Prediction Games* handout ([LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf))
 
 ###**Vocabulary:**
 [training data](../../vocabulary/unit4/#training-data "a random subset consisting of about 75-85% of the original dataset on which a model is trained"){ .md-button }
@@ -35,7 +35,7 @@ a winner. Which team’s rules worked well for determining a winner?
 This time, they will be switching roles – instead of creating a rule to judge the given predictions,
 they will be given a rule and it’s their job to find the best prediction to win the contest.
 
-3. Have students refer back to the *Heights of Students at a Large High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf)) from the previous lesson. 
+3. Have students refer back to the *Heights of Students at a Large High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L6.pdf)) from the previous lesson. 
 
 4. Recall that the student teams were provided with height data on 40 selected students to come up with their predictions for future observations. This is a common practice with statisticians and data scientists. The first dataset of 40 students is called the **training data** where we train a model to make predictions. Then we use the **test data** (Dataset A and Dataset B) to test those predictions. Using the training data, the teams used different statistics for their predictions:
 
@@ -86,8 +86,8 @@ they will be given a rule and it’s their job to find the best prediction to wi
         heightB <- c(70.1, 72, 68.9, 61.8, 70.9, 59.8, 72, 65, 66.1, 68.9)
 
 
-8. Distribute the *A Tale of Two Rules* handout ([LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf)</div>
+8. Distribute the *A Tale of Two Rules* handout ([LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf)</div>
 
 9. Let's see how well our teams' predictions did on the heights of the test data. Students will work in teams to answer: Using the mean squared errors, which statistic is the winner? Discuss which statistic/team made the best predictions.
 
@@ -134,9 +134,9 @@ mean absolute error formula and discuss what each symbol means.
     way you play the game depends on the rules of the game. If we used the mean squared error (MSE), play
     with the mean. If we use the mean absolute error (MAE), play with the median.
 
-15. Optional practice: Students can practice finding the mean squared error and mean absolute error using the mean and median with the *Prediction Games* handout ([LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf)). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare. <br>**<u>Note:</u>** Page 3 of the handout is an answer key for teacher reference.
+15. Optional practice: Students can practice finding the mean squared error and mean absolute error using the mean and median with the *Prediction Games* handout ([LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf)). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare. <br>**<u>Note:</u>** Page 3 of the handout is an answer key for teacher reference.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf)</div>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the

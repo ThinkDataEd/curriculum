@@ -6,7 +6,7 @@ students in a large high school and measure the success of their prediction. The
 measures of success.
 
 ###**Materials:**
-1. *Heights of Students at a Large High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf))
+1. *Heights of Students at a Large High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L6.pdf))
 
 ###**Vocabulary:**
 [rule](../../vocabulary/unit4/#rule "a set way to calculate or solve a problem"){ .md-button }
@@ -23,8 +23,8 @@ school. This school held a contest in which they selected students at random fro
 and reported their height.
 
 2. The information in the lesson's steps 3-7 is included in the *Heights of Students at a Large High School*
-handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf)</div>
+handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L6.pdf)).
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L6.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L6.pdf)</div>
 
 3. Our class will help judge a contest held at a particular high school to see who can make the best predictions. Height data for 40 randomly selected students were provided to three teams. Using this data, each team was asked to predict the heights of a random sample of 10 students. Here is the catch: teams were allowed to give only ONE number that had to be used to predict all 10 heights. As the judges of this contest, you will determine the winner.
 
@@ -44,7 +44,7 @@ handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6
 
     Team C: 70.9 inches
 
-7. Display Dataset A, found on page 1 of the *Heights of Students at a High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf)).
+7. Display Dataset A, found on page 1 of the *Heights of Students at a High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L6.pdf)).
 
     **<u>Notes to teacher:</u>**
 
@@ -87,7 +87,7 @@ handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6
 10. Allow teams to discuss the questions, then share a couple of responses to the questions in the
 previous step.
 
-11. Display Dataset B, found on page 2 of the *Heights of Students at a High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L6.pdf)),
+11. Display Dataset B, found on page 2 of the *Heights of Students at a High School* handout ([LMR_U4_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L6.pdf)),
 then have them find the winner using this new sample. Is it the same as they chose before?
 
     **<U>Note:</u>** We do NOT know the value of the true population mean/ typical value. This is what we are

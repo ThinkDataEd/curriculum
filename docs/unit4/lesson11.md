@@ -5,9 +5,9 @@ Students will understand that the regression line is a model for a linear associ
 to identify the direction of trends and interpret the slope and the intercept of a linear model in the context of the data.
 
 ###**Materials:**
-1. *What’s the Trend?* handout ([LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_A.pdf))
+1. *What’s the Trend?* handout ([LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_A.pdf))
 
-2. *Predicting Values* handout ([LMR_U4_L11_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_B.pdf))
+2. *Predicting Values* handout ([LMR_U4_L11_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_B.pdf))
 
 ###**Vocabulary:**
 [trend](../../vocabulary/unit4/#trend "often referred to as a line of best fit, is a line that is used to represent the behavior of a set of data to determine if there is a certain pattern"){ .md-button }
@@ -23,12 +23,12 @@ to identify the direction of trends and interpret the slope and the intercept of
     A positive or negative association between variables provides valuable insights into increasing or decreasing trends, particularly in making predictions. By understanding these associations, we can anticipate future outcomes or behaviors more accurately.
 
 ###**Lesson:**
-1. Distribute *What’s the Trend?* handout ([LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_A.pdf)). Students will analyze the two scatterplots on the
+1. Distribute *What’s the Trend?* handout ([LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_A.pdf)). Students will analyze the two scatterplots on the
 handout. The *Profits per Explosion* plot shows the relationship between the number of explosions
 in Michael Bay’s movies and the profit earned by each movie. The *Scores Over Time* plot shows
 the relationship between M. Night Shyamalan movies made since *The Sixth Sense* was released
 in 1999 and their Internet Movie Database (IMBD) scores.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_A.pdf)</div>
 
 2. In teams, students will discuss and record their responses to the following questions for each plot:
 
@@ -85,10 +85,10 @@ plots and why there are equations for each plot.
 equations shown in the plots above represent the lines through the points. They provide a description
 of the data and the relationship between the variables.
 
-9. Ask student teams to refer back to the *What’s the Trend?* handout ([LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_A.pdf)). They should discuss
-the following questions and record their responses on the *Predicting Values* handout ([LMR_U4_L11_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_B.pdf)):
+9. Ask student teams to refer back to the *What’s the Trend?* handout ([LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_A.pdf)). They should discuss
+the following questions and record their responses on the *Predicting Values* handout ([LMR_U4_L11_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_B.pdf)):
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L11_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L11_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_B.pdf)</div>
 
     100. What do you notice about where the points are and where the line is? <span style="color:grey">***Answer: Some points are
     near the line, others are further away, and one point is just slightly touching the line(but not exactly on it).***</span>
@@ -121,7 +121,7 @@ the following questions and record their responses on the *Predicting Values* ha
     the equation, predicted profit will be $282,468,000 or 282.468 in millions of dollars, or by finding
     the point on the line or both.***</span>
 
-10. If time permits, have students answer the following questions about the *Scores Over Time* scatterplot in [LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_A.pdf).
+10. If time permits, have students answer the following questions about the *Scores Over Time* scatterplot in [LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_A.pdf).
 
     100. What do you notice about where the points are and where the line is? <span style="color:grey">***Answer: Some points are near the line, others are further away, and three points are very close to the line (with one slightly touching it but not exactly on the line).***</span>
 
@@ -138,4 +138,4 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Students will finish answering the questions above about the *Scores Over Time* scatterplot in [LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L11_A.pdf) referenced above.
+Students will finish answering the questions above about the *Scores Over Time* scatterplot in [LMR_U4_L11_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L11_A.pdf) referenced above.

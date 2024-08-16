@@ -4,7 +4,7 @@
 Students will learn to describe associations that are not linear.
 
 ###**Materials:**
-1. *Describe the Association* handout ([LMR_U4_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L13.pdf))
+1. *Describe the Association* handout ([LMR_U4_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L13.pdf))
 
 ###**Vocabulary:**
 [non-linear](../../vocabulary/unit4/#testing-data "a form of regression analysis in which observational data are modeled by a function which is a nonlinear combination of the model parameters and depends on one or more independent variables; the data are fitted by a method of successive approximations"){ .md-button }
@@ -18,9 +18,9 @@ Students will learn to describe associations that are not linear.
 ###**Lesson:**
 1. Remind students that they have been learning a great deal about linear associations. However, there are other types of associations, and today they will learn to describe them.
 
-2. Distribute the *Describe the Association* handout ([LMR_U4_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L13.pdf)). In teams, students will examine the trend of each plot. Their task is to write a description of the trend that they see in the data and what the trend means.
+2. Distribute the *Describe the Association* handout ([LMR_U4_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L13.pdf)). In teams, students will examine the trend of each plot. Their task is to write a description of the trend that they see in the data and what the trend means.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L13.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L13.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L13.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L13.pdf)</div>
 
 3. Allow students time to discuss and record their descriptions for each plot in their DS journals. Walk around the room monitoring student teamwork. Look for descriptions that are interesting to share with the whole class.
 
@@ -31,7 +31,7 @@ presentation, compare it to their description of the plot, and as a team they wi
 
 6. Repeat steps 4 and 5 from above for the rest of the plots.
 
-    Plot Descriptions for *Describe the Association* ([LMR_U4_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L13.pdf)):
+    Plot Descriptions for *Describe the Association* ([LMR_U4_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L13.pdf)):
 
 	* <span style="color:grey">***Plot A: There is no trend (perhaps some may see a very, very weak linear trend), so there is no/hardly any association. There is a great deal of scatter in the data. It means that y does not depend on x.***</span>
 

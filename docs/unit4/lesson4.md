@@ -4,7 +4,7 @@
 Students will complete the design of their community focused Participatory Sensing campaign and implement a mock campaign to evaluate the feasibility of the campaign.
 
 ###**Materials:**
-1. *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf)) from previous lesson
+1. *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf)) from previous lesson
 
 ###**Essential Concepts:**
 
@@ -44,9 +44,9 @@ question. For each question they should consider:
 6. If survey questions need to be rewritten, students will decide as a team on the changes.
 
 7. Once finalized, they will record the survey question/ prompt that goes along with each data
-variable on their *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4 _Team Campaign Creation.pdf)), being cognizant of question bias.
+variable on their *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_4.4 _Team Campaign Creation.pdf)), being cognizant of question bias.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf)</div>
 
 8. <u>Round 5:</u> In teams, students will now generate three statistical investigative questions that they might answer
 with the data they will collect and to guide their campaign. They need to make sure that their

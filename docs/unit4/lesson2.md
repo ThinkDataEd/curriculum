@@ -8,7 +8,7 @@ Students will learn about the cause of California droughts and its effect on oth
 
 2. U.S. drought data interactive map <br> [https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710](https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710 "https://www.drought.gov/historical-information?dataset=0&selectedDateUSDM=20120710"){:target="_blank"}
 
-3. *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf))
+3. *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf))
 
 ###**Essential Concepts:**
 
@@ -54,9 +54,9 @@ Students will learn about the cause of California droughts and its effect on oth
 
     100. What are some wonderings you have about the data? <span style="color:grey">***Answers will vary.***</span> <br> **<u>Note:</u>** There are multiple options here. You can choose to display multiple states by adding another state (or states) and choosing Combine. You can also designate a specific time period in the Time Series Options.
 
-10. Now that they know the overall layout of the interactive map and its options, ask student teams to complete the *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf)) <br> **<u>Note:</u>** The interactive map has a download data feature that allows customization/ filtering of US drought data. Keep this in mind as an option for students who may be interested in this topic.
+10. Now that they know the overall layout of the interactive map and its options, ask student teams to complete the *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf)) <br> **<u>Note:</u>** The interactive map has a download data feature that allows customization/ filtering of US drought data. Keep this in mind as an option for students who may be interested in this topic.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf)</div>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the

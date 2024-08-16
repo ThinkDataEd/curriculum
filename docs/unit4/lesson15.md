@@ -5,7 +5,7 @@ Students will learn that we can make better predictions by including more variab
 with how the information should be combined.
 
 ###**Materials:**
-1. *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf)) from [Lesson 14](lesson14.md)
+1. *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf)) from [Lesson 14](lesson14.md)
 
 ###**Essential Concepts:**
 
@@ -17,7 +17,7 @@ with how the information should be combined.
 
     <img src="../../img/41412.png" />    
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf)</div>
 
     100. Combining multiple variables (e.g., money spent on TV and Newspaper ads, TV and
     Radio ads, TV, Radio, and Newspaper ads, etc.) into one model will lead to worse

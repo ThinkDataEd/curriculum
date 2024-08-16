@@ -5,7 +5,7 @@ Students will create their own decision trees based on training data (i.e., the 
 lessons), and then see how well their decision tree works on new test data.
 
 ###**Materials:**
-1. *Make Your Own Decision Tree* handout ([LMR_U4_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L17.pdf))
+1. *Make Your Own Decision Tree* handout ([LMR_U4_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L17.pdf))
 
     **<u>Optional:</u>** Provide code to students to create the training data in RStudio (see step 8 in lesson)
 
@@ -62,11 +62,11 @@ lesson):
     | Seattle | Geno Smith | 75 | 221 | 32 | NFL |
     | Westerlo | Bryan Reynolds | 73 | 170 | 22 | USMNT |
 
-8. Distribute the *Make Your Own Decision Tree* handout ([LMR_U4_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L17.pdf)) and give students time to come up with their own decision trees based on the **training data** they are given. Students may work in pairs or teams. They should follow the directions on page 1 of the handout and come up with a series of possible yes/no questions that they could ask to classify each player into his correct league (the NFL or the USMNT).
+8. Distribute the *Make Your Own Decision Tree* handout ([LMR_U4_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L17.pdf)) and give students time to come up with their own decision trees based on the **training data** they are given. Students may work in pairs or teams. They should follow the directions on page 1 of the handout and come up with a series of possible yes/no questions that they could ask to classify each player into his correct league (the NFL or the USMNT).
 
     **<u>Optional (for LMR_U4_L17):</u>** Provide code below if students would like to recreate the training data in RStudio for manipulation.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L17.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L17.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L17.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L17.pdf)</div>
 
     **<u>Optional code:</u>**
 
@@ -81,7 +81,7 @@ lesson):
 
     100. Do you think this classification tree is too specific to the training data?
 
-10. Inform the students that they should now use the **test data** on page 2 of the handout to try to classify 5 *mystery players* into one of the two leagues. They should record the classification that their tree outputs in the data table on page 2 of the *Make Your Own Decision Tree* handout ([LMR_U4_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L17.pdf)).
+10. Inform the students that they should now use the **test data** on page 2 of the handout to try to classify 5 *mystery players* into one of the two leagues. They should record the classification that their tree outputs in the data table on page 2 of the *Make Your Own Decision Tree* handout ([LMR_U4_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L17.pdf)).
 
 11. Let the students compare their decision trees and league assignments with one another.
 Hopefully, there will be a bit of variety in terms of the trees and the classifications.

@@ -4,13 +4,13 @@
 Students will learn what decision trees look like and how they can be used to classify people or objects into groups. They will engage in an activity to see how making slight changes to the tree can lead to drastic rises or reductions in misclassifications.
 
 ###**Materials:**
-1. *Decision Tree for Heart Attack Risk* graphic ([LMR_U4_L16_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_A.pdf))
+1. *Decision Tree for Heart Attack Risk* graphic ([LMR_U4_L16_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_A.pdf))
 
-2. *CART Activity Player Stats* ([LMR_U4_L16_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_B.pdf))
+2. *CART Activity Player Stats* ([LMR_U4_L16_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_B.pdf))
 
-3. *CART Activity Round 1 Questions* ([LMR_U4_L16_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_C.pdf))
+3. *CART Activity Round 1 Questions* ([LMR_U4_L16_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_C.pdf))
 
-4. *CART Activity Round 2 Questions* ([LMR_U4_L16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_D.pdf))
+4. *CART Activity Round 2 Questions* ([LMR_U4_L16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_D.pdf))
 
     **<u>Advanced preparation required:</u>** for LMR_U4_L16_B, C, & D need to be cut (see step 8 in lesson)
 
@@ -36,9 +36,9 @@ Students will learn what decision trees look like and how they can be used to cl
 
     100. Correct diagnoses based on individual doctors' expertise was anywhere between 75-90%.
 
-4. Display the graphic from the *Decision Tree for Heart Attack Risk* handout ([LMR_U4_L16_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_A.pdf)) and explain that this is one example of what the decision tree that Goldman developed might have looked like. <br> **<u>Note:</u>** This is NOT the actual tree that Goldman developed.
+4. Display the graphic from the *Decision Tree for Heart Attack Risk* handout ([LMR_U4_L16_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_A.pdf)) and explain that this is one example of what the decision tree that Goldman developed might have looked like. <br> **<u>Note:</u>** This is NOT the actual tree that Goldman developed.
 
-     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L16_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_A.pdf)</div>
+     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L16_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_A.pdf)</div>
 
 5. Using a *Pair-Share*, ask students to discuss the following questions using the graphic above. <br> **<u>Note:</u>** Answers will vary. These questions are meant to gauge student thinking before defining decision trees in the following steps of the lesson.
 
@@ -66,13 +66,13 @@ Students will learn what decision trees look like and how they can be used to cl
 
     **<u>Note:</u>** Advanced preparation required. The cards in LMRs B, C, and D listed above (and previewed below) need to be cut out prior to class time.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L16_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L16_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_B.pdf)</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L16_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_C.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L16_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_C.pdf)</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_D.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_l16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_D.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_D.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_l16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_D.pdf)</div>
 
-13. Ask for 15 volunteers and hand each of them a data card from the *CART Activity Player Stats* handout ([LMR_U4_L16_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_B.pdf)). These students will be known as the “players”. Each card lists the following variables for 15 different professional athletes.
+13. Ask for 15 volunteers and hand each of them a data card from the *CART Activity Player Stats* handout ([LMR_U4_L16_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_B.pdf)). These students will be known as the “players”. Each card lists the following variables for 15 different professional athletes.
 
     a. team location
 
@@ -96,7 +96,7 @@ Students will learn what decision trees look like and how they can be used to cl
 
     100. Leaf nodes - an "end" where no more splitting is possible
 
-16. Distribute one question/classification from the *CART Activity Round 1 Questions* ([LMR_U4_L16_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_C.pdf)) to each node.
+16. Distribute one question/classification from the *CART Activity Round 1 Questions* ([LMR_U4_L16_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_C.pdf)) to each node.
 
 17. Arrange the 7 nodes in the room as depicted by the graphic below:
 <center><img src="../../img/41813.png" /></center>
@@ -117,7 +117,7 @@ Students will learn what decision trees look like and how they can be used to cl
 
 22. Ask students, "How successful were we in classifying players correctly?" <span style="color:grey">***Answers will vary but if all the activity player stats cards were used then 6/15, or 40%, were classfied correctly. Students might measure success by saying that we only misclassified players 9/15, or 60%, of the time - this is called the misclassification rate (MCR) and will be defined in the next lesson.***</span>
 
-23. After proceeding through “Round 1,” ask an additional 5 students to come up as more nodes, distribute the cards from the CART Activity Round 2 Questions strips ([LMR_U4_L16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_D.pdf)), and arrange the students like the diagram below:
+23. After proceeding through “Round 1,” ask an additional 5 students to come up as more nodes, distribute the cards from the CART Activity Round 2 Questions strips ([LMR_U4_L16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_D.pdf)), and arrange the students like the diagram below:
 
 <center><img src="../../img/41819.png" /></center>
 

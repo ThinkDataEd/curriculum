@@ -4,11 +4,11 @@
 Students will participate in an activity to map out their own network based on acquaintances between two people.
 
 ###**Materials:**
-1. *Friend Network Graphic* ([LMR_U4_L19_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L19_A.pdf))
+1. *Friend Network Graphic* ([LMR_U4_L19_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_A.pdf))
 
 2. Index cards
 
-3. *Network Code* file ([LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L19_B))
+3. *Network Code* file ([LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_B))
 
 ###**Vocabulary:**
 [network](../../vocabulary/unit4/#network "a system designed to transfer data from one network access point to one other or more network access points via data switching, transmission lines, and system controls"){ .md-button }
@@ -21,8 +21,8 @@ Students will participate in an activity to map out their own network based on a
     network.
 
 ###**Lesson:**
-1. Display the *Friend Network Graphic* ([LMR_U4_L19_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L19_A.pdf)), which shows a WolframAlpha visualization of someone’s Facebook friends. Inform the students that this type of model is called a **network**, which is simply a group of people or things that are interconnected in some way.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L19_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L19_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L19_A.pdf)</div>
+1. Display the *Friend Network Graphic* ([LMR_U4_L19_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_A.pdf)), which shows a WolframAlpha visualization of someone’s Facebook friends. Inform the students that this type of model is called a **network**, which is simply a group of people or things that are interconnected in some way.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L19_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_A.pdf)</div>
 
 2. Ask the following questions about the graphic:
 
@@ -79,7 +79,7 @@ index cards are included, along with how you would input the data.
 
     **<u>Note:</u>** It is probably best to input the data after class and present the visualization during the next day.
 
-7. Once all data has been input into a spreadsheet, use the code provided in the *Network Code* file ([LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L19_B)) to produce graphs for the class’s social network.
+7. Once all data has been input into a spreadsheet, use the code provided in the *Network Code* file ([LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_B)) to produce graphs for the class’s social network.
 
     **<u>Note:</u>** The R Script file can be opened and viewed in the “source” pane of RStudio. There are 2 places where the code needs to be edited by the teacher:
 

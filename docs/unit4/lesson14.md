@@ -4,9 +4,9 @@
 Students will see that different variables can be used to make predictions about the same outcome (response variable) and consider whether combining these variables could improve prediction accuracy.
 
 ###**Materials:**
-1. *Advertising Plots Part 1* handout ([LMR_U4_L14_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_A.pdf))
+1. *Advertising Plots Part 1* handout ([LMR_U4_L14_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_A.pdf))
 
-2. *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf))
+2. *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf))
 
 3. *Article: How Long Can a Spinoff Like ‘Better Call Saul’ Last?*<br>
     [http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"){:target="_blank"}
@@ -60,11 +60,11 @@ responses to the discussion questions.
     100. Does each method of advertisement have a similar effect? Or are some methods more
     effective than others?
 
-7. Distribute the 3 plots from the *Advertising Plots Part 1* handout ([LMR_U4_L14_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_A.pdf)) and inform the students about the data using the details below:
+7. Distribute the 3 plots from the *Advertising Plots Part 1* handout ([LMR_U4_L14_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_A.pdf)) and inform the students about the data using the details below:
 
     <img src="../../img/41407.png" /><div align="right">*(Plots are presented separately in the LMR)*</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_A.pdf)</div>
 
     100. These 3 plots show the number of items sold by a retailer (in 200 different markets) and the amount of money the company spent on *TV*, *Radio* and *Newspaper* advertisements.
 
@@ -100,11 +100,11 @@ responses to the discussion questions.
     100. Which type of advertisement is the most strongly correlated with the number of units
     sold? How can you tell? <span style="color:grey">***Answer: Plot A, TV advertisements, appears to be the most strongly correlated with the number of units sold. We can tell because the points are more closely packed/together than in plots B or C.***</span>
 
-12. Distribute the *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf)), which contains plots A-C, but now include the line of best fit.
+12. Distribute the *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf)), which contains plots A-C, but now include the line of best fit.
 
     <img src="../../img/41412.png" /><div align="right">*(Plots are presented separately in the LMR)*</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L14_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf)</div>
 
 13. Ask students to recall from [Lesson 7](lesson7.md) that a method statisticians use to figure out which predicted values is closest to the actual data is the mean squared error (MSE).
 

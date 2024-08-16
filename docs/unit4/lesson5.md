@@ -4,7 +4,7 @@
 Students will revise their community focused Participatory Sensing campaign according to the finding from the mock implementation of their campaign to refine it. Student teams will then create their campaigns using the campaign authoring tool.
 
 ###**Materials:**
-1. *Campaign Authoring* handout ([LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L5.pdf))
+1. *Campaign Authoring* handout ([LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf))
 
 ###**Essential Concepts:**
 
@@ -20,9 +20,9 @@ their campaign. Allow them time to share their findings with their team members.
 
 3. Now they will use the Campaign Authoring tool to create a campaign like the ones they see on their smart devices or the computer.
 
-4. Distribute the Campaign Authoring handout ([LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L5.pdf)). Each team will select a member to type the information required to create their campaign. Then, they will follow the instructions on the handout.
+4. Distribute the Campaign Authoring handout ([LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf)). Each team will select a member to type the information required to create their campaign. Then, they will follow the instructions on the handout.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L5.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L5.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf)</div>
     
     **<u>Note:</u>** To name their campaign, a naming convention is suggested. Otherwise, you will have multiple campaigns with the same name. For example, teams may include their team name or number in order to easily identify their campaigns.
 

@@ -4,9 +4,9 @@
 Students will understand that the mean squared error (MSE) is a way to assess the fit of a linear model. The MSE measures the total squared distances between all the data values from the line of best fit and divides it by the number of observations in the dataset.
 
 ###**Materials:**
-1. *Arm Span vs. Height* Scatterplot ([LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L8.pdf)) from [lesson 8](lesson8.md)
+1. *Arm Span vs. Height* Scatterplot ([LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L8.pdf)) from [lesson 8](lesson8.md)
 
-2.  *Testing Line of Best Fit* handout ([LMR_U4_L10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L10.pdf))
+2.  *Testing Line of Best Fit* handout ([LMR_U4_L10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L10.pdf))
 
 ###**Vocabulary:**
 [regression line](../../vocabulary/unit4/#regression-line "a regression line is a line that best describes the behavior of a set of data"){ .md-button }
@@ -21,7 +21,7 @@ Students will understand that the mean squared error (MSE) is a way to assess th
     make your score on the mean squared errors as small as possible.
 
 ###**Lesson:**
-1. Ask student teams to refer back to the *Arm Span vs. Height* handout ([LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L8.pdf)) but this time have them look at the zoomed out scatterplot.
+1. Ask student teams to refer back to the *Arm Span vs. Height* handout ([LMR_U4_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L8.pdf)) but this time have them look at the zoomed out scatterplot.
     <img src="../../img/40908.png" />
 
 2. Using their understanding of a line of best fit from The Spaghetti Line lesson and Lab 4A, have them draw (or use strands of spaghetti) what they believe to be the line of best fit for the data. <br> **<u>Note:</u>** They can use their equations from Lab 4A as a guide but note that it will be difficult to plot decimals on this scatterplot.
@@ -60,11 +60,11 @@ can be used to make predictions.
 
     100. When is it appropriate to use each method? <span style="color:grey">***Answer: It was best to use Mean Squared Error when we were looking at mean and Mean Absolute Error when we were looking at median.***</span>
 
-10. Distribute the *Testing Line of Best Fit* handout ([LMR_U4_L10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L10.pdf)). Students will calculate MSE by using the distances between the actual heights (the points) and their predicted heights (the points on the line) of two different lines. They do this so that they can understand what those distances mean - that together they form our "error" that help us determine the best fitting line.
+10. Distribute the *Testing Line of Best Fit* handout ([LMR_U4_L10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L10.pdf)). Students will calculate MSE by using the distances between the actual heights (the points) and their predicted heights (the points on the line) of two different lines. They do this so that they can understand what those distances mean - that together they form our "error" that help us determine the best fitting line.
 
     **<u>Note:</u>** Page 3 of the handout is an answer key for teacher reference.
     
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L10.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L10.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L10.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L10](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L10.pdf)</div>
 
 11. Discuss with students:
 

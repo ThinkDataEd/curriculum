@@ -4,7 +4,7 @@
 Students will learn what clustering is and how to classify groups of people into clusters based on unknown similarities.
 
 ###**Materials:**
-1. *Find the Clusters* handout ([LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L18.pdf))
+1. *Find the Clusters* handout ([LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf))
 
 ###**Vocabulary:**
 [clustering](../../vocabulary/unit4/#clustering "is the process of grouping a set of objects (or people) in such a way that objects (or people) in the same group are more similar to each other than those in other groups"){ .md-button }
@@ -63,8 +63,8 @@ numerical variables and asked to find similarities. This is where clustering com
 
 10. That was an easy one! But what if a player comes in and has the following measurements: weight = 173 pounds, height = 73 inches?
 
-11. Distribute the *Find the Clusters* handout ([LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L18.pdf)) and tell the students that the new point has been added to the “Round 0” graph.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L18.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L18.pdf)</div>
+11. Distribute the *Find the Clusters* handout ([LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf)) and tell the students that the new point has been added to the “Round 0” graph.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf)</div>
 
 12. Ask students:
 
