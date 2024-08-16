@@ -4,15 +4,15 @@
 Students will learn what decision trees look like and how they can be used to classify people or objects into groups. They will engage in an activity to see how making slight changes to the tree can lead to drastic rises or reductions in misclassifications.
 
 ###**Materials:**
-1. *Decision Tree for Heart Attack Risk* graphic ([LMR_4.19_CART Heart Attacks](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Heart Attacks.pdf))
+1. *Decision Tree for Heart Attack Risk* graphic ([LMR_U4_L16_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_A.pdf))
 
-2. *CART Activity Player Stats* ([LMR_4.20_CART Player Stats](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Player Stats.pdf))
+2. *CART Activity Player Stats* ([LMR_U4_L16_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_B.pdf))
 
-3. *CART Activity Round 1 Questions* ([LMR_4.21_CART Round 1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 1.pdf))
+3. *CART Activity Round 1 Questions* ([LMR_U4_L16_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_C.pdf))
 
-4. *CART Activity Round 2 Questions* ([LMR_4.22_CART Round 2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Round 2.pdf))
+4. *CART Activity Round 2 Questions* ([LMR_U4_L16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_D.pdf))
 
-    **<u>Note:</u>** Advanced preparation required for LMR_4.20, 4.21, and 4.22 (see Step 8 below)
+    **<u>Advanced preparation required:</u>** for LMR_U4_L16_B, C, & D need to be cut (see step 8 in lesson)
 
 ###**Vocabulary:**
 [classify](../../vocabulary/unit4/#classify "is the problem of identifying which of a set of categories (sub-populations) an observation (or observations), belongs to"){ .md-button }
@@ -36,9 +36,9 @@ Students will learn what decision trees look like and how they can be used to cl
 
     100. Correct diagnoses based on individual doctors' expertise was anywhere between 75-90%.
 
-4. Display the graphic from the *Decision Tree for Heart Attack Risk* handout ([LMR_4.19_CART Heart Attacks](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Heart Attacks.pdf)) and explain that this is one example of what the decision tree that Goldman developed might have looked like. <br> **<u>Note:</u>** This is NOT the actual tree that Goldman developed.
+4. Display the graphic from the *Decision Tree for Heart Attack Risk* handout ([LMR_U4_L16_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_A.pdf)) and explain that this is one example of what the decision tree that Goldman developed might have looked like. <br> **<u>Note:</u>** This is NOT the actual tree that Goldman developed.
 
-     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Heart Attacks.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.19](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Heart Attacks.pdf)</div>
+     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L16_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_A.pdf)</div>
 
 5. Using a *Pair-Share*, ask students to discuss the following questions using the graphic above. <br> **<u>Note:</u>** Answers will vary. These questions are meant to gauge student thinking before defining decision trees in the following steps of the lesson.
 
@@ -64,15 +64,15 @@ Students will learn what decision trees look like and how they can be used to cl
 
 12. CART Activity: to get a sense of how decision trees work, the students will see one in action. We are going to try to classify 15 professional athletes into either soccer or football players based on some of their characteristics.
 
-    **<u>Note:</u>** Advanced preparation required. The cards in LMR_4.20, 4.21, and 4.22 listed above (and previewed below) need to be cut out prior to class time.
+    **<u>Note:</u>** Advanced preparation required. The cards in LMRs B, C, and D listed above (and previewed below) need to be cut out prior to class time.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Player Stats.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Player Stats.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L16_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_B.pdf)</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 1.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L16_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_C.pdf)</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Round 2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.22](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Round 2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_D.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_l16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_D.pdf)</div>
 
-13. Ask for 15 volunteers and hand each of them a data card from the *CART Activity Player Stats* handout ([LMR_4.20](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Player Stats.pdf)). These students will be known as the “players”. Each card lists the following variables for 15 different professional athletes:
+13. Ask for 15 volunteers and hand each of them a data card from the *CART Activity Player Stats* handout ([LMR_U4_L16_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_B.pdf)). These students will be known as the “players”. Each card lists the following variables for 15 different professional athletes.
 
     a. team location
 
@@ -80,9 +80,9 @@ Students will learn what decision trees look like and how they can be used to cl
 
     c. age
 
-    d. height (in inches)
+    d. height (inches)
 
-    e. weight (in pounds)
+    e. weight (pounds)
 
     f. league
 
@@ -96,7 +96,7 @@ Students will learn what decision trees look like and how they can be used to cl
 
     100. Leaf nodes - an "end" where no more splitting is possible
 
-16. Distribute one question/classification from the *CART Activity Round 1 Questions* ([LMR_4.21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 1.pdf)) to each node.
+16. Distribute one question/classification from the *CART Activity Round 1 Questions* ([LMR_U4_L16_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_C.pdf)) to each node.
 
 17. Arrange the 7 nodes in the room as depicted by the graphic below:
 <center><img src="../../img/41813.png" /></center>
@@ -109,15 +109,15 @@ Students will learn what decision trees look like and how they can be used to cl
 
 21. After each player has been classified, record the classifications in the table below. The tally marks below correspond with classified incorrectly (red) and classified correctly (black), if all the player stats cards are used.
 
-<center><img src="../../img/tree1.png" /></center>
+<center><img src="../../img/41621.png" /></center>
 
 **<u>Note:</u>** This table will be referenced again later. A filled-out version is available in the next lesson.
 
 <img src="../../img/tree1table.png" />
 
-22. Ask students, "How successful were we in classifying players correctly?" <span style="color:grey">***Answers will vary but if all the activity player stats cards were used then 10/15, or 67%, were classfied correctly. Students might measure success by saying that we only misclassified players 5/15, or 33%, of the time - this is called the misclassification rate (MCR) and will be defined in the next lesson.***</span>
+22. Ask students, "How successful were we in classifying players correctly?" <span style="color:grey">***Answers will vary but if all the activity player stats cards were used then 6/15, or 40%, were classfied correctly. Students might measure success by saying that we only misclassified players 9/15, or 60%, of the time - this is called the misclassification rate (MCR) and will be defined in the next lesson.***</span>
 
-23. After proceeding through “Round 1,” ask an additional 5 students to come up as more nodes, distribute the cards from the CART Activity Round 2 Questions strips ([LMR_4.22](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Round 2.pdf)), and arrange the students like the diagram below:
+23. After proceeding through “Round 1,” ask an additional 5 students to come up as more nodes, distribute the cards from the CART Activity Round 2 Questions strips ([LMR_U4_L16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_D.pdf)), and arrange the students like the diagram below:
 
 <center><img src="../../img/41819.png" /></center>
 
@@ -125,20 +125,20 @@ Students will learn what decision trees look like and how they can be used to cl
 
 25. After each player has been classified, record the classifications in the table below. The tally marks below correspond with classified incorrectly (red) and classified correctly (black), if all the player stats cards are used.
 
-<img src="../../img/tree2.png" />
+<img src="../../img/41625.png" />
 
 **<u>Note:</u>** This table will be referenced again later. A filled-out version is available in the next lesson.
 
 <img src="../../img/tree2table.png" />
 
-26. Ask students, "How successful were we in classifying players correctly in this second round?" <span style="color:grey">***Answers will vary but if all the activity player stats cards were used then 12/15, or 80%, were classfied correctly. Students might measure success by saying that we only misclassified players 3/15, or 20%, of the time - this is called the misclassification rate (MCR) and will be defined in the next lesson.***</span>
+26. Ask students, "How successful were we in classifying players correctly in this second round?" <span style="color:grey">***Answers will vary but if all the activity player stats cards were used then 13/15, or 87%, were classfied correctly. Students might measure success by saying that we only misclassified players 2/15, or 13%, of the time - this is called the misclassification rate (MCR) and will be defined in the next lesson.***</span>
 
 27. Once the activity has been completed, ask students the following questions:
 
     100. How do decision trees classify objects/people as being a member of a group? <span style="color:grey">***Answer: By asking a series of questions, one at a time, and sending the participant down a particular path until he/she is classified.***</span>
 
     100. Did we do as well, worse, or better in Round 2 compared to Round 1 at correctly
-    guessing which sport the “players” participate in? Explain. <span style="color:grey">***Answers will vary according to results of the activity. If all player stats cards were used then we did better in Round 2, with 80% success, than Round 1, with 67% success, in correctly guessing which sport the "players" participate in.***</span>
+    guessing which sport the “players” participate in? Explain. <span style="color:grey">***Answers will vary according to results of the activity. If all activity player stats cards were used then we did better in Round 2, with 87% success, than Round 1, with 40% success, in correctly guessing which sport the "players" participate in.***</span>
 
     100. How can we figure out what questions to ask and in what order to minimize the number of incorrect classifications (also known as *misclassifications*)? <span style="color:grey">***Answers will vary. This one might not be obvious but the point is for the students to wrestle with how they might think it can be done.***</span>
 

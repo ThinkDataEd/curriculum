@@ -156,11 +156,11 @@
 
 [LMR_U3_Practicum_Music_to_My_Ears.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Music_to_My_Ears.pdf)
 
-[LMR_U3_Practicum_Our_Own_Campaign .pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Our_Own_Campaign .pdf)
+[LMR_U3_Practicum_Our_Own_Campaign.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Our_Own_Campaign.pdf)
 
 
 
-##**IDS_LMR_Unit 4_v_6.0**	
+##**IDS_LMR_Unit 4_v_7.0**	
 
 [LMR_U4_L5.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L5.pdf)
 
@@ -184,8 +184,6 @@
 
 [LMR_U4_L12_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L12_B.pdf)
 
-[LMR_4.4_Team Creation Campaign.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.4_Team Creation Campaign.pdf)
-
 [LMR_U4_L7_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L7_A.pdf)
 
 [LMR_U4_L13.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L13.pdf)
@@ -198,15 +196,15 @@
 
 [LMR_4.18_Trash Data Exploration.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.18_Trash Data Exploration.pdf)
 
-[LMR_4.20_CART Player Stats.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.20_CART Player Stats.pdf)
+[LMR_U4_L16_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_B.pdf)
 
-[LMR_4.21_CART Round 1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.21_CART Round 1.pdf)
+[LMR_U4_L16_C.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_C.pdf)
 
-[LMR_4.22_CART Round 2.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.22_CART Round 2.pdf)
+[LMR_U4_L16_D.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_D.pdf)
 
-[LMR_4.19_CART Heart Attacks.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.19_CART Heart Attacks.pdf)
+[LMR_U4_L16_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L16_A.pdf)
 
-[LMR_4.23_Your Own Decision Tree.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.23_Your Own Decision Tree.pdf)
+[LMR_U4_L17.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L17.pdf)
 
 [LMR_4.24_Find the Clusters.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf)
 

@@ -32,11 +32,11 @@ Cardiologists may use a decision tree to diagnose whether people are or are not 
 3. Students will make connections between decision trees and linear models in writing.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
-<ins>*Dataset:*</ins>
+<ins>*Data File:*</ins>
 
 1. USMNT/NFL dataset
 
-<ins>*Data File:*</ins>
+    **<u>Optional:</u>** ```data(futbol)```
 
 1. Titanic: ```data(titanic)```
 

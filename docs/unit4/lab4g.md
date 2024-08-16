@@ -14,7 +14,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 * <span style="color:midnightblue;">**Start, by loading the ```titanic``` data.**</span>
 
 ###**Our first tree**
-* <span style="color:midnightblue;">**Use the ```tree()``` function to create a *classification* tree that predicts whether a person ```survived``` the Titanic based on their ```gender```.**</span>
+* <span style="color:midnightblue;">**Use the ```tree()``` function to create a *classification* tree that predicts whether a person ```survived``` the Titanic based on their ```sex```.**</span>
 
     – A *classification* tree tries to predict which category a categorical variable would belong to based on other variables.
 
@@ -23,7 +23,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
     – <span style="color:midnightblue;">**Assign this model the name ```tree1```.**</span>
 
 * <span style="color:firebrick;">**Why can't we just use a *linear model* to predict whether a passenger on the Titanic
-```survived``` or not based on their ```gender```?**</span>
+```survived``` or not based on their ```sex```?**</span>
 
 ###**Viewing trees**
 * <span style="color:midnightblue;">**To actually look at and interpret our ```tree1```, place the model into the ```treeplot``` function.**</span>
@@ -34,7 +34,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:firebrick;">**Answer the following, based on the ```treeplot```:**</span>
 
-    – <span style="color:firebrick;">**Which ```gender``` does the model predict will survive?**</span>
+    – <span style="color:firebrick;">**Which ```sex``` does the model predict will survive?**</span>
 
     – <span style="color:firebrick;">**Where does the plot tell you the number of people that get sorted into each leaf?
     How do you know?**</span>
@@ -43,7 +43,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
     *incorrectly* in each leaf?**</span>
 
 ###**Leafier trees**
-* <span style="color:midnightblue;">**Similar to how you included multiple variables for a linear model, create a ```tree``` that predicts whether a person ```survived``` based on their ```gender```, ```age```, ```class```, and where they ```embarked```.**</span>
+* <span style="color:midnightblue;">**Similar to how you included multiple variables for a linear model, create a ```tree``` that predicts whether a person ```survived``` based on their ```sex```, ```age```, ```class```, and where they ```embarked```.**</span>
 
     – <span style="color:midnightblue;">**Call this model ```tree2```.**</span>
 
@@ -52,7 +52,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
     – <span style="color:firebrick;">**Mrs. Cumings was a 38-year-old female with a 1st class ticket from Cherbourg.
     Does the model predict that she survived?**</span>
 
-    – <span style="color:firebrick;">**Which variable ended up not being used by ```tree```?**</span>
+    – <span style="color:firebrick;">**Which variable ended up not being used by ```tree2```?**</span>
 
 ###**Tree complexity**
 * By default, the ```tree()``` function will fit a *tree model* that will make good predictions without needing lots of branches.
