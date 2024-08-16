@@ -48,7 +48,7 @@ applicable.
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 <ins>*Data File:*</ins>
 
-1. USMNT and NFL: ```data(titanic)```
+1. USMNT and NFL: ```data(futbol)```
 
 2. Students' *TimeUse* campaign data
 

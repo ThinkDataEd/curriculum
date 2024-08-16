@@ -26,8 +26,8 @@ clusters.
 
 * <span style="color:midnightblue;">**To start, use the ```data``` function to load the ```futbol``` data set.**</span>
 
-    – This data contains 23 players from the US Men's National Soccer team (USMNT)
-    and 22 quarterbacks from the National Football League (NFL).
+    – This data contains 24 players from the US Men's National Soccer team (USMNT)
+    and 33 quarterbacks from the National Football League (NFL).
 
 * <span style="color:midnightblue;">**Create a scatterplot of the players ```ht_inches``` and ```wt_lbs``` and color each dot based on the ```league``` they play for.**</span>
 

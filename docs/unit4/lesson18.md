@@ -4,7 +4,7 @@
 Students will learn what clustering is and how to classify groups of people into clusters based on unknown similarities.
 
 ###**Materials:**
-1. *Find the Clusters* handout ([LMR_4.24_Find the Clusters](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf))
+1. *Find the Clusters* handout ([LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L18.pdf))
 
 ###**Vocabulary:**
 [clustering](../../vocabulary/unit4/#clustering "is the process of grouping a set of objects (or people) in such a way that objects (or people) in the same group are more similar to each other than those in other groups"){ .md-button }
@@ -63,8 +63,8 @@ numerical variables and asked to find similarities. This is where clustering com
 
 10. That was an easy one! But what if a player comes in and has the following measurements: weight = 173 pounds, height = 73 inches?
 
-11. Distribute the *Find the Clusters* handout ([LMR_4.24](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf)) and tell the students that the new point has been added to the “Round 0” graph.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_4.24](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf)</div>
+11. Distribute the *Find the Clusters* handout ([LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L18.pdf)) and tell the students that the new point has been added to the “Round 0” graph.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L18.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L18.pdf)</div>
 
 12. Ask students:
 
@@ -74,7 +74,7 @@ numerical variables and asked to find similarities. This is where clustering com
 
 14. To introduce the students to this idea, circle the 3 points in the upper left corner (the ones that are likely the swimmers) and have students find the “mean point”. This means that they should find the mean x-value and the mean y-value of the 3 points. They can then plot this new point and use it as the mean of this particular group, or cluster.
 
-15. The goal of this algorithm is to keep recalculating means as the clusters change. To begin, we will pick 2 points, A and B, to represent the center of each cluster. We will be referring to this as the initialization step. If you would like to use the point found in Step 14 and label it as "A", that is completely fine. You can simply pick just one other random point near the other cluster and label it as "B".
+15. The goal of this algorithm is to keep recalculating means as the clusters change. To begin, we will pick 2 points, A and B, to represent the center of each cluster. We will be referring to this as the initialization step. If you would like to use the point found in step 14 above and label it as "A", that is completely fine. You can simply pick just one other random point near the other cluster and label it as "B".
 
 16. **<u>Initialization:</u>** For now, we will start with the following two points as our initial cluster centers of each group: A: (170, 70) and B: (175, 74). In the “Round 0” plot on the *Find the Clusters* handout, each student should plot and label these two points.
 
@@ -84,15 +84,15 @@ numerical variables and asked to find similarities. This is where clustering com
 
     100. Lines have been drawn from the top left point to the cluster centers in the plot below as a guide. You can draw this on the board as a reference for the students as well.
 
-    <img src="../../img/42017.png" />
+        <img src="../../img/42017.png" />
     
     100. Since the line to point A is smaller, we would classify that point as being in cluster A (as shown below).
 
-    <img src="../../img/42018.png" />
+        <img src="../../img/42018.png" />
     
-    100. The students should draw similar lines for every point on the graph, or they can simply eyeball it, to make a decision as to which cluster each belongs in. Even if they guess incorrectly, the algorithm should be able to find the correct groups after some time. The correct classifications for Round 0 are as follows, using our points from step 16:
+    100. The students should draw similar lines for every point on the graph, or they can simply eyeball it, to make a decision as to which cluster each belongs in. Even if they guess incorrectly, the algorithm should be able to find the correct groups after some time. The correct classifications for Round 0 are as follows, using our points from step 16 above:
 
-    <img src="../../img/42019.png" />
+        <img src="../../img/42019.png" />
 
 18. **<u>Update Step:</u>** Once the class has agreed on the Round 0's cluster classifications, they should compute new values for points A and B by using the clustered point means. For point A, they simply need to find the mean x-value for the 4 points and the mean y-value for the 4 points. Repeat this process to find the new point B – these will be our new cluster centers as we move onto Round 1. Calculating means to derive cluster centers, like points A and B, for grouping data points is part of the k-means algorithm.
 
@@ -112,23 +112,25 @@ numerical variables and asked to find similarities. This is where clustering com
 
 19. Have the students continue working through the handout until the cluster membership remains the same between 2 consecutive rounds. This means that, from one iteration to the next, the points in each cluster do not change.
 
+    **<u>Note:</u>** If students used the initial cluster centers from step 16 above, they would finish clustering in Round 2 with points 1, 2, 3 belonging to cluster A and points 4, 5, 6, and 7 belonging to cluster B.
+
 20. Where you choose your initial points matters in determining which points end up in which clusters. Demonstrate this to the class using the K-means Clustering App, located on the Applications page on Portal under Explore ([https://portal.idsucla.org/#curriculum/applications/](https://portal.idsucla.org/#curriculum/applications/ "https://portal.idsucla.org/#curriculum/applications/"){:target="_blank"}).
 
     100. In the app, "centroids" is the academic term for cluster centers. For this example, we will use 3 centroids and choose a "Clustered Initialization" with 100 points and 3 Clusters. See image below for how to adjust the settings.
 
-    <img src="../../img/appCentroids.png" />
+        <img src="../../img/appCentroids.png" width="600" height="600"/>
 
     100. Move two of the centroids so that they are close to/within one cluster. Move the remaining centroid in between the other two clusters. An example is shown below.
 
-    <img src="../../img/round0.png" width="300" height="300"/>
+        <img src="../../img/round0.png" width="600" height="600"/>
 
-    100. Click "Next Step" until no points change from the previous update. See image below of end of clustering for the example from (b).
+    100. Click "Next:" until no points change from the previous update. See image below of end of clustering for the example from (b).
 
-    <img src="../../img/round1.png" width="300" height="300"/>
+        <img src="../../img/round1.png" width="600" height="600"/>
 
-    100. While we still have three clusters, we can clearly see that our initial points have influenced the end result of those clusters. You can click “Restart and play again” to move the centroids to the center of the clusters and click “Next step” until no points change from the previous update to illustrate this point (see image below of correctly clustered groups).
+    100. While we still have three clusters, we can clearly see that our initial points have influenced the end result of those clusters. You can click “Restart and play again” to move the centroids to the center of the clusters and click “Next:” until no points change from the previous update to illustrate this point (see image below of correctly clustered groups).
 
-    <img src="../../img/round2.png" width="300" height="300"/>
+        <img src="../../img/round2.png" width="600" height="600"/>
 
     **<u>Note:</u>** Clicking "Restart and play again" allows you to move your cluster centers to new positions while still using the same 100 points. You can repeat the same process as above to create different additional groupings.
 
@@ -138,6 +140,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Write a paragraph that describes k-means clustering in your own words.
 
-[<u>***LAB 4H: Finding Clusters***</u>](lab4h.md)
+<center>[<u>***LAB 4H: Finding Clusters***</u>](lab4h.md)
 
-Complete [Lab 4H](lab4h.md) prior to [Lesson 21](lesson21.md).
+Complete [Lab 4H](lab4h.md) prior to [Lesson 21](lesson21.md).</center>

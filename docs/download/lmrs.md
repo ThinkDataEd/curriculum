@@ -206,13 +206,13 @@
 
 [LMR_U4_L17.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L17.pdf)
 
-[LMR_4.24_Find the Clusters.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.24_Find the Clusters.pdf)
+[LMR_U4_L18.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L18.pdf)
 
-[LMR_4.25_Friend Network Graphic.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.25_Friend Network Graphic.pdf)
+[LMR_U4_L19_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L19_A.pdf)
 
-[LMR_4.26_Network Code R Script](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_4.26_Network Code R Script)
+[LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_L19_B)
 
-[LMR_U4_Modeling Activity Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_Modeling Activity Project.pdf)
+[LMR_U4_Modeling_Activity_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_Modeling_Activity_Project.pdf)
 
 [LMR_U4_Practicum_Predictions.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_Practicum_Predictions.pdf)
 
