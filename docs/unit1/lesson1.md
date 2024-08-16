@@ -3,7 +3,7 @@
 ###**Objective:**
 Students will understand what are data, how they are collected, and possible effects of sharing data.
 
-###**New Materials:**
+###**Materials:**
 
 1. Video: *The Target Story* found at:<br>
     [https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4"){:target="_blank"}
