@@ -6,7 +6,7 @@ Students will apply their learning of the third and fourth units of the curricul
 ###**Materials:**
 1. Computers
 
-2. *IDS Unit 4 – Project and Presentation* ([LMR_U4_Modeling_Activity_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_Modeling_Activity_Project.pdf))
+2. *IDS Unit 4 – Project and Presentation* ([LMR_U4_Modeling_Activity_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_Modeling_Activity_Project.pdf))
 
 <center>**End of Unit 4 Project and Presentation: Community Issue**</center>
 

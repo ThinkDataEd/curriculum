@@ -5,7 +5,7 @@ Students will create a linear model to predict the nutritional component that is
 with the amount of sugar contained in a cereal.
 
 ###**Materials:**
-1. *Predictions Practicum* ([LMR_U4_Practicum_Predictions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 4_v_6.0/LMR_U4_Practicum_Predictions.pdf))
+1. *Predictions Practicum* ([LMR_U4_Practicum_Predictions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_Practicum_Predictions.pdf))
 
 <center>**Practicum**</center>
 
