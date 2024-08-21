@@ -57,7 +57,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * We can change the **layout** of our separated plots by including the ```layout``` option in our ```dotPlot``` function.
 
-    – <span style="color:midnightblue;">**Add the following option to the code you used to create the ```dotPlot``` split by ```salty_sweet```.</span>
+    – <span style="color:midnightblue;">**Add the following option to the code you used to create the ```dotPlot``` split by ```salty_sweet```.**</span>
 
         layout = c(1,2)
 
