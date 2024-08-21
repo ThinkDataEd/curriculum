@@ -43,7 +43,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – The default value is ```1```. Try a few values between ```0``` and ```1``` and a few more values larger than ```1```.
 
-###**Splitting data sets**
+###**Splitting datasets**
 * In [lab 1B](lab1b.md), we learned that we can *facet* (or split) our data based on a categorical variable.
 
 * <span style="color:midnightblue;">**Split the ```dotPlot``` displaying the distribution of grams of ```sugar``` in two, by faceting on our observations’ ```salty_sweet``` variable.**</span>
