@@ -74,7 +74,7 @@
     provides a simplified version or representation of real-life situations or data. It is used to make sense of data or make predictions based on it.
 
 
-### negative assocation
+### negative association
 
 !!! note ""
     when the values of one variable tend to decrease as the values of the other variable increase
@@ -145,12 +145,12 @@
 
 ### test data
 
-!!! note "
+!!! note ""
     a random subset consisting of about 15-25% of the original dataset on which a model is tested
 
 ### training data
 
-!!! note "
+!!! note ""
     a random subset consisting of about 75-85% of the original dataset on which a model is trained
 
 ### trend

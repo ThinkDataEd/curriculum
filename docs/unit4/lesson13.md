@@ -7,8 +7,8 @@ Students will learn to describe associations that are not linear.
 1. *Describe the Association* handout ([LMR_U4_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L13.pdf))
 
 ###**Vocabulary:**
-[non-linear](../../vocabulary/unit4/#testing-data "a form of regression analysis in which observational data are modeled by a function which is a nonlinear combination of the model parameters and depends on one or more independent variables; the data are fitted by a method of successive approximations"){ .md-button }
-[polynomial trends](../../vocabulary/unit4/#testing-data "describes a pattern in data that is curved or breaks from a straight linear trend; it often occurs in a large set of data that contains many fluctuations"){ .md-button }
+[non-linear](../../vocabulary/unit4/#non-linear "a form of regression analysis in which observational data are modeled by a function which is a nonlinear combination of the model parameters and depends on one or more independent variables; the data are fitted by a method of successive approximations"){ .md-button }
+[polynomial trends](../../vocabulary/unit4/#polynomial-trends "describes a pattern in data that is curved or breaks from a straight linear trend; it often occurs in a large set of data that contains many fluctuations"){ .md-button }
 
 ###**Essential Concepts:**
 

@@ -18,7 +18,7 @@ distribution prior to the lesson**
 5. Optional: You can show [this video](https://www.youtube.com/embed/hksbF5QWY2E) to show students how to take a survey using the browser or [this video](https://www.youtube.com/embed/GbR22R32mhU) for the app.
 
 ###**Vocabulary:**
-[Participatory Sensing](../../vocabulary/unit1/#participatory sensing "an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to explore interesting aspects of their worlds ranging from health to culture"){ .md-button }
+[Participatory Sensing](../../vocabulary/unit1/#participatory-sensing "an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to explore interesting aspects of their worlds ranging from health to culture"){ .md-button }
 [campaign](../../vocabulary/unit1/#campaign "gather and collect data"){ .md-button }
 [surveys](../../vocabulary/unit1/#surveys "a research method used for collecting data to gain information and insights into various topics of interest"){ .md-button }
 [images](../../vocabulary/unit1/#images "a representation of the external form of a person, thing, or picture"){ .md-button }

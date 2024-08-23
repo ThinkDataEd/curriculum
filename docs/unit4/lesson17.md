@@ -12,7 +12,7 @@ lessons), and then see how well their decision tree works on new test data.
 ###**Vocabulary:**
 [misclassification rate (MCR)](../../vocabulary/unit4/#misclassification-rate "the proportion of observations who were predicted to be in one category but were actually in another"){ .md-button }
 [training data](../../vocabulary/unit4/#training-data "a random subset consisting of about 75-85% of the original dataset on which a model is trained"){ .md-button }
-[test data](../../vocabulary/unit4/#testing-data "a random subset consisting of about 15-25% of the original dataset on which a model is tested"){ .md-button }
+[test data](../../vocabulary/unit4/#test-data "a random subset consisting of about 15-25% of the original dataset on which a model is tested"){ .md-button }
 
 ###**Essential Concepts:**
 

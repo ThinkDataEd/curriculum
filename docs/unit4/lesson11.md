@@ -11,7 +11,7 @@ to identify the direction of trends and interpret the slope and the intercept of
 
 ###**Vocabulary:**
 [trend](../../vocabulary/unit4/#trend "often referred to as a line of best fit, is a line that is used to represent the behavior of a set of data to determine if there is a certain pattern"){ .md-button }
-[positive association](../../vocabulary/unit4/#possitive-association "when the values of one variable tend to increase as the values of the other variable increase"){ .md-button }
+[positive association](../../vocabulary/unit4/#positive-association "when the values of one variable tend to increase as the values of the other variable increase"){ .md-button }
 [negative association](../../vocabulary/unit4/#negative-association "when the values of one variable tend to decrease as the values of the other variable increase"){ .md-button }
 [no association](../../vocabulary/unit4/#no-association "means that there is no line and all the dots are scattered"){ .md-button }
 [linear](../../vocabulary/unit4/#linear "used to describe a straight-line relationship between two variables"){ .md-button }
