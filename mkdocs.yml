@@ -18,6 +18,10 @@ markdown_extensions:
   - pymdownx.emoji:
       #emoji_index: !!python/name:materialx.emoji.twemoji 
       #emoji_generator: !!python/name:materialx.emoji.to_svg
+      #:material-video:{title="Video clip"}
+      #:material-chat-outline:{title="Discussion"}
+      #:material-checkbox-outline:{title="Assessments"}
+      #:fontawesome-regular-pen-to-square:{title="Class Scribes"}
       emoji_index: !!python/name:pymdownx.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
       

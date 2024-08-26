@@ -51,10 +51,10 @@ lesson
     understood (see [Team Roles](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_CPM_Team Roles.pdf) in [Teacher Resources](../download/resources.md)).
 
 
-1. :material-video:{title="Video clip"} Introduce the lesson by showing *The Target Story* video:<br>
+1. Introduce the lesson by showing *The Target Story* video:<br>
     [https://www.youtube.com/watch?v=XvSA-6BJkx4](https://www.youtube.com/watch?v=XvSA-6BJkx4 "https://www.youtube.com/watch?v=XvSA-6BJkx4"){:target="_blank"}
 
-2. :material-chat-outline:{title="Discussion"} In pairs, ask students to discuss the following question using the *TPS* strategy (see [Instructional
+2. In pairs, ask students to discuss the following question using the *TPS* strategy (see [Instructional
 Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)):
 
     100. How do you think Target knew about the daughter? In other words, how did Target know
@@ -62,7 +62,7 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
     gathered from the daughter’s Red Card and compared it to information about other
     shoppers. Typically, women who bought those particular products were pregnant.***</span>
 
-3. :material-chat-outline:{title="Discussion"} After students have had time to share their responses, engage in a whole class discussion
+3. After students have had time to share their responses, engage in a whole class discussion
 regarding:
 
     100. What are **data**? <span style="color:grey">***Answer: Data are information, or ***</span> ***observations***<span style="color:grey">***, that have been gathered and 
@@ -89,26 +89,26 @@ the first example to give the students an idea of how to proceed.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf)</div>  
 
 
-6. :material-checkbox-outline:{title="Assessments"} Inform the students that you will collect the handouts during the next class in order to assess their
+6. Inform the students that you will collect the handouts during the next class in order to assess their
 understanding of data.
 
-7. :material-video:{title="Video clip"} To get students thinking about what happens to their data, show the *Terms and Conditions* video:<br>
+7. To get students thinking about what happens to their data, show the *Terms and Conditions* video:<br>
     [https://www.youtube.com/watch?v=ZcjtEKNP05c](https://www.youtube.com/watch?v=ZcjtEKNP05c "https://www.youtube.com/watch?v=ZcjtEKNP05c"){:target="_blank"}
 
-8. :material-chat-outline:{title="Discussion"} Engage the students in a whole class discussion about the video, particularly noting:
+8. Engage the students in a whole class discussion about the video, particularly noting:
 
     100. What terms in the **privacy** statements were concerning or worrisome?
 
     100. Do you read the agreements when you download phone apps?
 
 ###**Class Scribes:**
-:fontawesome-regular-pen-to-square:{title="Class Scribes"} One team of students will give a brief talk to discuss what they think the 3 most important topics
+One team of students will give a brief talk to discuss what they think the 3 most important topics
 of the day were. Be prepared to facilitate a good discussion and to ask probing questions in order
 for students to elaborate on their thinking so that vague responses such as “we learned about
 data” can be avoided.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-:material-checkbox-outline:{title="Assessments"} Students will complete the *Data Diary* handout. When grading the homework, be aware of
+Students will complete the *Data Diary* handout. When grading the homework, be aware of
 whether the data really could be collected, and whether the students' ideas about how the data
 might be used are reasonable. For instance, students will often imagine that there is a "spy"
 watching them; this is not what we are after. We are after actual instances in which sensors or
