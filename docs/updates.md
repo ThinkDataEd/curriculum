@@ -28,8 +28,8 @@ Changes that have been made to version 7.0
 **Unit 3**
 
  - Lesson 8: Updated spurious correlations images/examples due to update in spurious correlations website
- - Lesson 20: Lesson now compares HTML code to XML code (via website viewer), LMR has been udpated to reflect changes in lesson
- - Lesson 21: Lesson now goes through how to convert XML code to data table in RStudio, LMR has been updated to reflect changes in lesson
+ - Lesson 21: Lesson now compares HTML code to XML code (via website viewer), LMR has been udpated to reflect changes in lesson
+ - Lesson 22: Lesson now goes through how to convert XML code to data table in RStudio, LMR has been updated to reflect changes in lesson
 
 ----------------------------------------------------
 Changes that have been made to version 6.0
