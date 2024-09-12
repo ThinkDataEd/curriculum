@@ -6,6 +6,29 @@ Introduction to Data Science, [https://www.idsucla.org](https://www.idsucla.org)
 
 This website was last updated on September 12, 2024.
 
+Changes that have been made to version 7.0
+
+**All Units**
+
+ - Naming convention of LMRs have been updated to match Unit and Lesson (example: LMR_1.1_Data Diary is now LMR_U1_L1)
+ - All preloaded datasets have been updated to reflect original variable names (example: ```cdc``` gender variable is sex variable in original documentation)
+ - ```cdc```, ```atus```, and ```futbol``` datasets have been updated to more recent data
+
+**Unit 1**
+ - Lesson 5: Oscar winners data has been updated
+ - Lesson 14: LMR_U1_L14_B and LMR_U1_L14_D use sex variable instead of gender
+ - Practicum: The Summaries: Third example uses sex variable instead of gender
+
+**Unit 2**
+ - Lesson 9: Changed "biased" to "unfair"
+ - Lesson 17: Changed household size to household activities (```atus``` variable change)
+
+**Unit 3**
+ - Lesson 8: Updated spurious correlations images/examples due to update in spurious correlations website
+ - Lesson 20: Lesson now compares HTML code to XML code (via website viewer), LMR has been udpated to reflect changes in lesson
+ - Lesson 21: Lesson now goes through how to convert XML code to data table in RStudio, LMR has been updated to reflect changes in lesson
+
+
 Changes that have been made to version 6.0
 
 **All Units**
