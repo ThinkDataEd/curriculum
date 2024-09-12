@@ -1,10 +1,10 @@
 If you have any question, please contact us at [support@idsucla.org](mailto:support@idsucla.org)
 
-LAUSD teachers please email [ids_support@lausd.net](mailto:ids_support@lausd.net)
+LAUSD teachers please email [IDSsupport@lausd.net](mailto:IDSsupport@lausd.net)
 
 Introduction to Data Science, [https://www.idsucla.org](https://www.idsucla.org){:target="_blank"}
 
-This website was last updated on May 9, 2024.
+This website was last updated on September 12, 2024.
 
 Changes that have been made to version 6.0
 
