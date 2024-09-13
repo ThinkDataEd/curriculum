@@ -41,7 +41,7 @@ our actual data.
 
 * <span style="color:firebrick;">**Draw a sketch of a normal curve. Label the mean age difference, based on your shuffles, and the actual age difference of survivors minus non-survivors from the actual data. Then shade in the areas, under normal the curve, that are *smaller* than the actual difference.**</span>
 
-* <span style="color:midnightblue;">**Fill in the blanks to calculate the probability of an even smaller difference occurring than our actual difference using a normal model.</span>
+* <span style="color:midnightblue;">**Fill in the blanks to calculate the probability of an even smaller difference occurring than our actual difference using a normal model.**</span>
 
         pnorm(____, mean = diff_mean, sd = ____)
 
