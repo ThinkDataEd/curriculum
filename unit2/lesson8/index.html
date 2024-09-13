@@ -5171,7 +5171,7 @@ chance of getting heads and 1 out of 2 chance of getting tails.</em></strong></s
 <li>
 <p>Copy and paste the code below in an RScript and run each line of code, one at a time, for the students:</p>
 <pre><code>set.seed(11) #reproducibility 
-flips &lt;- do(500)*rflip(78)  
+flips &lt;- do(1000)*rflip(78)  
 View(flips) # 4 variables
 histogram(~heads, data = flips)  
 favstats(~heads, data = flips)
