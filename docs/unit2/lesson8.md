@@ -159,7 +159,7 @@ can and (almost always) WILL change each time you run the simulation to create a
 
 
         set.seed(11) #reproducibility 
-        flips <- do(500)*rflip(78)  
+        flips <- do(1000)*rflip(78)  
         View(flips) # 4 variables
         histogram(~heads, data = flips)  
         favstats(~heads, data = flips)
