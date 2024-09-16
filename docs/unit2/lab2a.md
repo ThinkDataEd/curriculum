@@ -119,6 +119,5 @@ how closely the rest of the data are to this *typical* value.
 
     – <span style="color:midnightblue;">**Perform an analysis that produces *numerical summaries* and *graphs*.**</span>
 
-    – <span style="color:firebrick;">**Then, write a few sentence interpretations that addresses this statistical
-    question and considers the *shape*, *center* and *spread* of the distributions of
+    – <span style="color:firebrick;">**Then, write a few sentence interpretations that addresses this statistical investigative question and considers the *shape*, *center* and *spread* of the distributions of
     the graphs you create.**</span>
