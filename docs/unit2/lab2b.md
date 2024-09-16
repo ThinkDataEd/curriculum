@@ -3,7 +3,7 @@
 Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Just the beginning**
-* Means, medians,and MAD are just a few examples of *numerical summaries*.
+* Means, medians, and MAD are just a few examples of *numerical summaries*.
 
 * In this lab, we will learn how to calculate and interpret additional summaries of distributions
     such as: minimums, maximums, ranges, quartiles and IQRs.
@@ -37,7 +37,7 @@ and largest values.
 * *Q1* and *Q3* are similar.
 
     – 25% of our data are smaller than *Q1*, 75% are larger.
-    - 75% of our data are smaller than *Q3*, 25% are larger.
+    – 75% of our data are smaller than *Q3*, 25% are larger.
 
 * <span style="color:midnightblue;">**Fill in the blanks to compute the value of *Q1* for your predominant color.**</span>
 
@@ -164,7 +164,7 @@ values?**</span>
     the ```mean``` or ```median``` would be the better description of the *center* of the data.**</span>
 
 ###**Our first function**
-* <span style="color:midnightblue;">**Using the previous example as a guide, create a function called ```Range``` (*Note the capial 'R'*) that
+* <span style="color:midnightblue;">**Using the previous example as a guide, create a function called ```Range``` (*note the capial 'R'*) that
 calculates the *range* of a variable by filling in the blanks below:**</span>
 
         ____ <- function (____, ____) {
