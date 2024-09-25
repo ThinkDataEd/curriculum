@@ -4577,6 +4577,60 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#lab4c" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4C
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4d" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4D
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4e" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4E
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4f" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4F
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4g" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4G
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4h" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4H
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -4841,6 +4895,60 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#lab4c" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4C
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4d" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4D
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4e" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4E
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4f" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4F
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4g" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4G
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#lab4h" class="md-nav__link">
+    <span class="md-ellipsis">
+      Lab4H
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -4860,20 +4968,61 @@
 
 <div class="admonition warning">
 <p class="admonition-title">Unit 4 Lab Ojectives and Functions:</p>
-<pre><code>The documentation below lists the functions that will appear in each lab. The lab itself will explain how to use each function. For more examples, refer to the RStudio Lab Codes and Functions file.
+<pre><code>The documentation below lists the new functions that will appear in each lab. The lab itself will explain how to use each function. For more examples, refer to the RStudio Lab Codes and Functions file.
 </code></pre>
 </div>
 <h3 id="lab4a">Lab4A</h3>
 <ul>
-<li>Type these two commands into your console:<pre><code>data(cdc)
-View(cdc)
+<li>Objective: Students will learn how to compute the equation of a line of best fit and how to plot lines using add_line().<pre><code>&lt;=
+&gt;=
+add_line()
+lm(y ~ x, data)
+add_line(intercept, slope)
 </code></pre>
 </li>
 </ul>
 <h3 id="lab4b">Lab4B</h3>
 <ul>
-<li>Type these two commands into your console:<pre><code>data(cdc)
-View(cdc)
+<li>Objective: Students will compute predictions, residuals, and means squared error of a linear model. They will learn that the line of best fit is the line minimizing mean squared error.<pre><code>summarize()
+predict(model)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab4c">Lab4C</h3>
+<ul>
+<li>Objective: Students will learn the three steps of cross-validation and why it protects against overfitting. They will use cross-validation to answer the question: "How well does our model predict the heights of people we haven't yet measured?".<pre><code>predict(model, newdata)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab4d">Lab4D</h3>
+<ul>
+<li>Objective: Students will learn how to compute and interpret correlation coefficients. They will answer the question: "Which variables are better predictors of a movie's <code>audience_rating</code> when the predictions are made using a line of best fit?".<pre><code>cor()
+</code></pre>
+</li>
+</ul>
+<h3 id="lab4e">Lab4E</h3>
+<ul>
+<li>Objective: Students will learn how to train a linear model including multiple predictor variables. They will investigate the question: "Will including more variables in our model improve its predictions?".<pre><code>lm(y ~ x1 + x2, data)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab4f">Lab4F</h3>
+<ul>
+<li>Objective: Students will learn how to fit a polynomial model to nonlinear data and understand that a polynomial of higher degree can be curvier.<pre><code>add_curve(model, col)
+poly(x, degree)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab4g">Lab4G</h3>
+<ul>
+<li>Objective: Students will learn how to make predictions by growing trees. They will also understand that misclassification rate measures how well a model predicts categorical variables.<pre><code>tree(y ~ x1 + x2, cp, minsplit, data)
+treeplot(model)
+</code></pre>
+</li>
+</ul>
+<h3 id="lab4h">Lab4H</h3>
+<ul>
+<li>Objective: Students will learn how to use the k-means clustering algorithm to group data into clusters.<pre><code>kclusters(y ~ x, data, k)
 </code></pre>
 </li>
 </ul>
