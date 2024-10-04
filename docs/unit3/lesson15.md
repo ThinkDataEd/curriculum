@@ -153,7 +153,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Now that students learned what sensors are, ask them what data they would they like to see collected on
+Now that students learned what sensors are, ask them what data they would like to see collected on
 a sensor that they couldn't collect in an experiment or survey. They must explain why it is difficult to
 collect that data in an experiment or survey, and how a sensor would make it easier to collect that
 data.
