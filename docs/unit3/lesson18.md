@@ -23,7 +23,7 @@ teams. They will decide as a team which classification is the most fitting.
 justifications. Explain to the class that the campaign must be carried out by the whole class so if it
 has been classified in the Individual category, it must be revised. Also discuss whether the
 campaign is feasible. (For example, is the trigger so rare that no one will collect data? Are the
-questions too intrusive?).
+questions too intrusive?)
 
 3. Inform students that one of the promises of PS is its potential for helping people bring about
 social and civic change. Ask teams to consider the following questions and report back:
