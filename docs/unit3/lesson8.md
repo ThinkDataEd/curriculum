@@ -7,7 +7,7 @@ is why causation can never be concluded with observational studies, only associa
 ###**Materials:**
 1. Computers
 
-2. *Spurious Correlations* website ([tylervigen.com](http://tylervigen.com/spurious-correlations))
+2. *Spurious Correlations* website ([https://tylervigen.com/spurious-correlations](http://tylervigen.com/spurious-correlations "https://tylervigen.com/spurious-correlations"){:target="_blank"})
 
 ###**Vocabulary:**
 [cause](../../vocabulary/unit3/#cause "a reason for an action or condition"){ .md-button }
