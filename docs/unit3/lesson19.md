@@ -54,7 +54,7 @@ the navigation bar at the top of the page. Then, follow the steps in the tool:
     100. **<u>Survey Window:</u>**
 
         200. **Title:** Give the survey a title (again, it may or may not be the same as the
-        campaign name). Users see the title and the all the prompts that follow.
+        campaign name). Users see the title and all the prompts that follow.
 
         200. **ID:** Give the survey a name (it may or may not be the same as the campaign
         name). Users do not see the survey ID.
