@@ -125,6 +125,6 @@ of the day were.
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Rosa posed this statistical investigative question:
 
-***What proportion of students did not play an instrument and did not own a cat?*** <span style="color:grey">***Answer: 0.26***</span>
+***What proportion of students did not play an instrument and did not own a cat?*** <span style="color:grey">***Answer is 0.26***</span>
 
 Use what you know about two-way tables to answer her question.
