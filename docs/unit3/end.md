@@ -57,7 +57,7 @@ the subjects that recovered for each group.
     b. Use the *expected* percentage from (a), above, to calculate the number of people we expect
     to die from the treatment group.
     
-    c. Compare the percentage from (b) to the percentage from the treatment group who *actually*
+    c. Compare the outcome from (b), the number of people we expected to die, to the number of people from the treatment group who *actually*
     died.
 
 4. Then, if we assume that the outcome does not depend on the treatment, design and
