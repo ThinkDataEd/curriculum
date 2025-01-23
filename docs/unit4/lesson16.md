@@ -107,29 +107,15 @@ Students will learn what decision trees look like and how they can be used to cl
 
 20. Allow all the “players” to go through the nodes until each one is classified as either a soccer or football player.
 
-21. After each player has been classified, record the classifications in the table below. The tally marks below correspond with classified incorrectly (red) and classified correctly (black), if all the player stats cards are used.
-
-<center><img src="../../img/41621.png" /></center>
-
-**<u>Note:</u>** This table will be referenced again later. A filled-out version is available in the next lesson.
-
-<img src="../../img/tree1table.png" />
+21. After each player has been classified, record the classifications in the table below. The tally marks below correspond with classified incorrectly (red) and classified correctly (black), if all the player stats cards are used.<br> <center><img src="../../img/41621wTree1table.png" />
 
 22. Ask students, "How successful were we in classifying players correctly?" <span style="color:grey">***Answers will vary but if all the activity player stats cards were used then 6/15, or 40%, were classfied correctly. Students might measure success by saying that we only misclassified players 9/15, or 60%, of the time - this is called the misclassification rate (MCR) and will be defined in the next lesson.***</span>
 
-23. After proceeding through “Round 1,” ask an additional 5 students to come up as more nodes, distribute the cards from the CART Activity Round 2 Questions strips ([LMR_U4_L16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_D.pdf)), and arrange the students like the diagram below:
-
-<center><img src="../../img/41819.png" /></center>
+23. After proceeding through “Round 1,” ask an additional 5 students to come up as more nodes, distribute the cards from the CART Activity Round 2 Questions strips ([LMR_U4_L16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_D.pdf)), and arrange the students like the diagram below: <br> <center><img src="../../img/41819.png" /></center>
 
 24. Have each “player” go through this new set of nodes until they are re-classified by these new rules.
 
-25. After each player has been classified, record the classifications in the table below. The tally marks below correspond with classified incorrectly (red) and classified correctly (black), if all the player stats cards are used.
-
-<img src="../../img/41625.png" />
-
-**<u>Note:</u>** This table will be referenced again later. A filled-out version is available in the next lesson.
-
-<img src="../../img/tree2table.png" />
+25. After each player has been classified, record the classifications in the table below. The tally marks below correspond with classified incorrectly (red) and classified correctly (black), if all the player stats cards are used. <br> <img src="../../img/41625wTree2table.png" />
 
 26. Ask students, "How successful were we in classifying players correctly in this second round?" <span style="color:grey">***Answers will vary but if all the activity player stats cards were used then 13/15, or 87%, were classfied correctly. Students might measure success by saying that we only misclassified players 2/15, or 13%, of the time - this is called the misclassification rate (MCR) and will be defined in the next lesson.***</span>
 
