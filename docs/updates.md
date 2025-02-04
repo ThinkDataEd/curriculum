@@ -15,7 +15,7 @@ Changes that have been made to version 7.0
  - ```cdc```, ```atus```, and ```futbol``` datasets have been updated to more recent data
  - There is an anonymized dataset available for the Stress/ Chill (unformatted) Campaign. It can be accessed by running the following code:
         
-        extra_data(stresschill_ids)
+        extra_data('stresschill_ids')
 
         #If you'd like to merge this dataset with your class, follow these steps:
         #Create a subset stresschill_class of your class data without the variables 
@@ -25,7 +25,7 @@ Changes that have been made to version 7.0
         stresschill_class <- subset(p6_stress, select = -c(latitude, longitude))
         
         #bring in stresschill_ids dataset from IDS archive
-        extra_data('stresschill_ids)
+        extra_data('stresschill_ids')
         
         #row bind the 2 datasets together
         stresschill_full<- rbind(stresschill_class, stresschill_ids)
