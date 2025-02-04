@@ -4787,7 +4787,7 @@
 <li>Naming convention of LMRs have been updated to match Unit and Lesson (example: LMR_1.1_Data Diary is now LMR_U1_L1)</li>
 <li>All preloaded datasets have been updated to reflect original variable names (example: <code>cdc</code> gender variable is sex variable in original documentation)</li>
 <li><code>cdc</code>, <code>atus</code>, and <code>futbol</code> datasets have been updated to more recent data</li>
-<li>There is an anonymized dataset available for the Stress/ Chill (unformatted) Campaign. It can be accessed by running the following code:<pre><code>extra_data(stresschill_ids)
+<li>There is an anonymized dataset available for the Stress/ Chill (unformatted) Campaign. It can be accessed by running the following code:<pre><code>extra_data('stresschill_ids')
 
 #If you'd like to merge this dataset with your class, follow these steps:
 #Create a subset stresschill_class of your class data without the variables 
@@ -4797,7 +4797,7 @@
 stresschill_class &lt;- subset(p6_stress, select = -c(latitude, longitude))
 
 #bring in stresschill_ids dataset from IDS archive
-extra_data('stresschill_ids)
+extra_data('stresschill_ids')
 
 #row bind the 2 datasets together
 stresschill_full&lt;- rbind(stresschill_class, stresschill_ids)
