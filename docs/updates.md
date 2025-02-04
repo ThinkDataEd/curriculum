@@ -4,7 +4,7 @@ LAUSD teachers please email [IDSsupport@lausd.net](mailto:IDSsupport@lausd.net)
 
 Introduction to Data Science, [https://www.idsucla.org](https://www.idsucla.org){:target="_blank"}
 
-This website was last updated on September 12, 2024.
+This website was last updated on February 4, 2025.
 
 Changes that have been made to version 7.0
 
@@ -13,6 +13,22 @@ Changes that have been made to version 7.0
  - Naming convention of LMRs have been updated to match Unit and Lesson (example: LMR_1.1_Data Diary is now LMR_U1_L1)
  - All preloaded datasets have been updated to reflect original variable names (example: ```cdc``` gender variable is sex variable in original documentation)
  - ```cdc```, ```atus```, and ```futbol``` datasets have been updated to more recent data
+ - There is an anonymized dataset available for the Stress/ Chill (unformatted) Campaign. It can be accessed by running the following code:
+        
+        extra_data(stresschill_ids)
+
+        #If you'd like to merge this dataset with your class, follow these steps:
+        #Create a subset stresschill_class of your class data without the variables 
+        # of latitude and longitude
+        #This assumes your class set is named p6_stress
+        
+        stresschill_class <- subset(p6_stress, select = -c(latitude, longitude))
+        
+        #bring in stresschill_ids dataset from IDS archive
+        extra_data('stresschill_ids)
+        
+        #row bind the 2 datasets together
+        stresschill_full<- rbind(stresschill_class, stresschill_ids)
 
 **Unit 1**
 
