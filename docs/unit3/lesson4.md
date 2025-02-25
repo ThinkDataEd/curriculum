@@ -5,7 +5,7 @@ Students will continue to read articles critically. They will anticipate visuali
 be collected from the class experiment and make predictions about the outcome.
 
 ###**Materials:**
-1. Article: PsyBlog’s *10 Ways Our Minds Warp Time* found at:<br>
+1. Article: PsyBlog’s *Time Perception: How Your Brain Experiences Time* found at:<br>
     [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php"){:target="_blank"}
 
 2. *Experiment Predictions* handout ([LMR_U3_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L4.pdf))
@@ -20,32 +20,27 @@ be collected from the class experiment and make predictions about the outcome.
     measure and how to measure it.
 
 ###**Lesson:**
-1. Students will read the article *10 Ways Our Minds Warp Time* found at:<br>
+1. Students will read the article *Time Perception: How Your Brain Experiences Time* found at:<br>
     [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php"){:target="_blank"}
 
 2. They will read the article critically to answer the following questions (displayed or written on the
 board):
 
-    100. Who was observed and what were the variables measured? <span style="color:grey">***Answer: People and their
-    perceptions of time.***</span>
+    100. Who was observed and what were the variables measured? <span style="color:grey">***Answer: People and their perception of time.***</span>
 
     100. What statistical questions were the researchers trying to answer? <span style="color:grey">***Answer: How is time
     perception affected by different stimuli?***</span>
     
-    100. Who collected the data? <span style="color:grey">***Answer: Researchers such as cave expert Michel Siffre collected
-    data.***</span>
+    100. Who collected the data? <span style="color:grey">***Answer: Researchers collected the data.***</span>
 
-    100. How were the data collected? <span style="color:grey">***Answer: Data were collected through various
-    experiments/studies (13 were cited).***</span>
+    100. How were the data collected? <span style="color:grey">***Answer: Case studies, behavioural experiments, and advanced imaging technologies are mentioned as methods of data collection.***</span>
 
-    100. What claim(s) did the article make? <span style="color:grey">***Answer: There were 10 claims made regarding time
-    perception.***</span>
+    100. What claim(s) did the article make? <span style="color:grey">***Answer: The article claimed that there are multiple factors involved in time perception such as psychological factors, physiological factors, and environmental factors.***</span>
 
-    100. What are some statistics that the article used to make the claim(s)? <span style="color:grey">***Answers may vary.
-    Article has several percentage statistics.***</span>    
+    100. What statistics could be found by the ideas presented in this article? <span style="color:grey">***Answers may vary.
+    A possible answer might be asking for the statistic of people who report a change in time perception as they got older.***</span>    
 
-3. In their teams, ask students to share their responses from reading the *10 Ways Our Minds Warp
-Time* article and agree on the responses as a team.
+3. In their teams, ask students to share their responses from reading the *Time Perception: How Your Brain Experiences Time* article and agree on the responses as a team.
 
 4. Do a quick *Whip Around* of the responses (see step #2 for possible responses).
 

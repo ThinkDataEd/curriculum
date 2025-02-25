@@ -90,7 +90,7 @@ headline “Are Hands-Free Calls Really Safer While Driving?”
 
     100. How did the MythBusters design the investigation? <span style="color:grey">***Answer: They conducted a driving test. In this case, one group is driving while on a hands-free call (because in the eyes of the law, this is no different than driving without being on a call). The treatment group is driving while on a hands-free call. They determined that "safe" meant passing the driving course by following the turn-by-turn navigation correctly and having no accidents. Passing the driving course was considered a "success".***</span>
 
-    100. What steps did they take? <span style="color:grey">***Abswer: They split the 30 subjects into two groups, 15 in one group and 15 in the treatment group, and had them drive a car in a simulator.***</span>
+    100. What steps did they take? <span style="color:grey">***Answer: They split the 30 subjects into two groups, 15 in one group and 15 in the treatment group, and had them drive a car in a simulator.***</span>
 
     100. How is this different than your team’s headline responses in step 3 from above? Did the Mythbusters investigation match what you thought it would be about? <span style="color:grey">***Answers will vary depending on students' assumptions about the investigation prior to watching the video.***</span>
 
