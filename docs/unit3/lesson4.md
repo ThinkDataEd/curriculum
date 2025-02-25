@@ -38,7 +38,7 @@ board):
     100. What claim(s) did the article make? <span style="color:grey">***Answer: The article claimed that there are multiple factors involved in time perception such as psychological factors, physiological factors, and environmental factors.***</span>
 
     100. What statistics could be found by the ideas presented in this article? <span style="color:grey">***Answers may vary.
-    A possible answer might be asking for the statistic of people who report a change in time perception as they got older.***</span>    
+    A possible answer might be to ask for the statistic of people who report a change in time perception as they got older.***</span>    
 
 3. In their teams, ask students to share their responses from reading the *Time Perception: How Your Brain Experiences Time* article and agree on the responses as a team.
 
