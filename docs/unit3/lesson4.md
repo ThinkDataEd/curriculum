@@ -6,7 +6,7 @@ be collected from the class experiment and make predictions about the outcome.
 
 ###**Materials:**
 1. Article: PsyBlog’s *Time Perception: How Your Brain Experiences Time* found at:<br>
-    [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php"){:target="_blank"}
+    [https://www.spring.org.uk/2025/01/time-perception-brain.php](https://www.spring.org.uk/2025/01/time-perception-brain.php "https://www.spring.org.uk/2025/01/time-perception-brain.php"){:target="_blank"}
 
 2. *Experiment Predictions* handout ([LMR_U3_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L4.pdf))
 
@@ -21,7 +21,7 @@ be collected from the class experiment and make predictions about the outcome.
 
 ###**Lesson:**
 1. Students will read the article *Time Perception: How Your Brain Experiences Time* found at:<br>
-    [http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php](http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php "http://www.spring.org.uk/2011/06/10-ways-our-minds-warp-time.php"){:target="_blank"}
+    [https://www.spring.org.uk/2025/01/time-perception-brain.php](https://www.spring.org.uk/2025/01/time-perception-brain.php "https://www.spring.org.uk/2025/01/time-perception-brain.php"){:target="_blank"}
 
 2. They will read the article critically to answer the following questions (displayed or written on the
 board):
