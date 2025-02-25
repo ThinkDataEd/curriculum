@@ -29,7 +29,7 @@ board):
     100. Who was observed and what were the variables measured? <span style="color:grey">***Answer: People and their perception of time.***</span>
 
     100. What statistical questions were the researchers trying to answer? <span style="color:grey">***Answer: How is time
-    perception affected by different stimuli?***</span>
+    perception affected by different stimuli or factors?***</span>
     
     100. Who collected the data? <span style="color:grey">***Answer: Researchers collected the data.***</span>
 
