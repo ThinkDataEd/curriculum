@@ -54,7 +54,7 @@ of the data.**</span>
 
 * <span style="color:midnightblue;">**Fill in the blanks below with the basic map we've created and the values for latitude and longitude.**</span>
 
-        addMarkers(map = ____, lng = ~____, lat = ~____)
+        addMarkers(mtns_map = ____, lng = ~____, lat = ~____)
 
 * <span style="color:midnightblue;">**Supply the ```peak``` variable, in a similar way as we supplied the ```lat``` and ```long``` variables, to the
 ```popup``` argument and include it in the code above.**</span>
