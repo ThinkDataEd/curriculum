@@ -5031,9 +5031,7 @@ deviations of the mean</p>
 <p>Open RStudio and project for students to see. Load the babies dataset, named <strong>Gestation</strong> by following these steps:<br />
      <ul>
      <li>Enter <b>data(Gestation)</b> in the Console</li>
-     <ul>
      <li>You should see <b>Gestation</b> located in your Environment</li>
-     </ul>
      <li>Enter <b>View(Gestation)</b> in the Console</li> 
      </ul></p>
 <p>Display the help documentation by typing <strong>?Gestation</strong>. Ask student teams to predict which of the variables in the "Gestation" dataset they think might be normally distributed. Choose a couple of teams to share out.</p>
@@ -5052,7 +5050,7 @@ deviations of the mean</p>
 </li>
 <li>
 <p>Create histograms using the variables shared by student teams. There are a few variables that look normally distributed, such as the birth mother's heights. We will investigate the babies’ birth weights.</p>
-<p>** histogram(~wt, data = Gestation)**</p>
+<p><strong>histogram(~wt, data = Gestation)</strong></p>
 <p><img src="../../img/21804.png" /></p>
 </li>
 <li>
@@ -5070,8 +5068,8 @@ deviations of the mean</p>
 </li>
 <li>
 <p>Use RStudio to calculate the actual mean and standard deviation.</p>
-<p>** mean_wt &lt;- mean(~wt, data = Gestation)**</p>
-<p>** sd_wt &lt;- sd(~wt, data = Gestation)**</p>
+<p><strong>mean_wt &lt;- mean(~wt, data = Gestation)</strong></p>
+<p><strong>sd_wt &lt;- sd(~wt, data = Gestation)</strong></p>
 <p><img src="../../img/21806.png" /width="300" height="50"></p>
 </li>
 <li>

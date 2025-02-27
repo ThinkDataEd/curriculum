@@ -5103,17 +5103,15 @@ tally(~survival | gender, data = slasher, margin = TRUE)
 </li>
 <li>
 <p><span style="color:firebrick;"><strong>The last question on the previous slide can be answered using the line of code below. Why?</strong></span></p>
-<ul>
-<li>Pro-tip: Include the option <code>format = "percent"</code> to obtain a two-way table with percentages.<pre><code>tally(~survival | gender, format = "percent", data = slasher, margin = TRUE)
+<p>– Pro-tip: Include the option <code>format = "percent"</code> to obtain a two-way table with percentages.</p>
+<pre><code>    tally(~survival | gender, format = "percent", data = slasher, margin = TRUE)
 
-##           gender
-## survival      Female      Male
-##   Dies      77.47748  86.69202
-##   Survives  22.52252  13.30798
-##   Total    100.00000 100.00000
+    ##           gender
+    ## survival      Female      Male
+    ##   Dies      77.47748  86.69202
+    ##   Survives  22.52252  13.30798
+    ##   Total    100.00000 100.00000
 </code></pre>
-</li>
-</ul>
 </li>
 </ul>
 <h3 id="examining-differences"><strong>Examining differences</strong></h3>
@@ -5170,7 +5168,7 @@ we can use the <code>do()</code> function to shuffle our data many times and see
 difference occurred by chance.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;">**Run the following lines of code:</p>
+<p><span style="color:midnightblue;"><strong>Run the following lines of code:</strong></span></p>
 <pre><code>set.seed(7)
 
 shuffled_outcomes &lt;- do(10) * tally(~shuffle(survival) | gender, 
