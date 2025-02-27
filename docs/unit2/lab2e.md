@@ -43,7 +43,7 @@ occurs by chance.
 
 * <span style="color:firebrick;">**The last question on the previous slide can be answered using the line of code below. Why?**</span>
 
-    - Pro-tip: Include the option ```format = "percent"``` to obtain a two-way table with percentages.
+    – Pro-tip: Include the option ```format = "percent"``` to obtain a two-way table with percentages.
     
      
             tally(~survival | gender, format = "percent", data = slasher, margin = TRUE)
@@ -95,7 +95,7 @@ in our *actual* data occurs by chance or not.**</span>
 we can use the ```do()``` function to shuffle our data many times and see how often our *actual*
 difference occurred by chance.
 
-* <span style="color:midnightblue;">**Run the following lines of code:
+* <span style="color:midnightblue;">**Run the following lines of code:**</span>
 
         set.seed(7)
 

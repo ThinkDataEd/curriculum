@@ -94,13 +94,13 @@ or very hard and complex calculations.
 
 * <span style="color:midnightblue;">**Run this code 10 times and compute the proportion of ```"rap"``` songs you drew from the 10.**</span>
 
-    - Vocabulary Check: A **proportion** is a fraction of the whole.
+    – Vocabulary Check: A **proportion** is a fraction of the whole.
 
-        * For example, if 2 rap songs were drawn from the 10, the *proportion* would be 2/10
+    * For example, if 2 rap songs were drawn from the 10, the *proportion* would be 2/10
 
-        * It is more common to express a *proportion* as a decimal, in this case, 0.20
+    * It is more common to express a *proportion* as a decimal, in this case, 0.20
 
-        * It is even more common to express a *proportion* as a percentage, 20%
+    * It is even more common to express a *proportion* as a percentage, 20%
 
 * <span style="color:firebrick;">**Once everyone in your class has computed their *proportions*, calculate the
     *range* of *proportions* (the largest *proportion* minus the smallest *proportion*)

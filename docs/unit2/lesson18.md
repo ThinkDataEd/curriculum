@@ -47,9 +47,7 @@ properties.
 4. Open RStudio and project for students to see. Load the babies dataset, named **Gestation** by following these steps:  
      <ul>
      <li>Enter <b>data(Gestation)</b> in the Console</li>
-     <ul>
      <li>You should see <b>Gestation</b> located in your Environment</li>
-     </ul>
      <li>Enter <b>View(Gestation)</b> in the Console</li> 
      </ul>
      
@@ -71,7 +69,7 @@ properties.
 
 5. Create histograms using the variables shared by student teams. There are a few variables that look normally distributed, such as the birth mother's heights. We will investigate the babies’ birth weights.
 
-    ** histogram(~wt, data = Gestation)**
+    **histogram(~wt, data = Gestation)**
 
     <img src="../../img/21804.png" />
 
@@ -85,9 +83,9 @@ properties.
 
 7. Use RStudio to calculate the actual mean and standard deviation.
 
-    ** mean_wt <- mean(~wt, data = Gestation)**
+    **mean_wt <- mean(~wt, data = Gestation)**
 
-    ** sd_wt <- sd(~wt, data = Gestation)**
+    **sd_wt <- sd(~wt, data = Gestation)**
 
     <img src="../../img/21806.png" /width="300" height="50">
 

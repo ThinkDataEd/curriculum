@@ -5,7 +5,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Putting data together**
 * In the labs so far, we've only ever looked at individual data files.
 
-    - But often times, we gain additional insights by including additional information from a separate dataset.
+    – But often times, we gain additional insights by including additional information from a separate dataset.
 
 * In this lab, we will learn how to merge information from our *personality color* data with our
 *stress/chill* data.

@@ -46,7 +46,7 @@ this time or not.
 Students must understand that they need to keep collecting data. Use the Plot App to look at the data
 after the first day and have a discussion.
 
-&nbsp;Ask: Why were most people stressed? Guide students along the way.
+Ask: Why were most people stressed? Guide students along the way.
 
 Ask students to predict the following: What is your stress/chill level in the evening versus morning?
 Does it change everyday? How about during the weekend? What is the difference between groups?

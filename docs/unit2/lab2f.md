@@ -6,7 +6,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 * In the previous lab, we learned that by using a ```do```-loop and the ```shuffle``` function, we could
 simulate randomly shuffling our data many times.
 
-    - This helps us determine how likely it is that a difference between groups is due to chance.
+    – This helps us determine how likely it is that a difference between groups is due to chance.
 
 * For this lab, we will extend these ideas to *numerical* variables by using random shuffling and
 numerical summaries.
@@ -46,7 +46,8 @@ in our data.**</span>
     – ```Assign``` your shuffled data the name ```shuffled_survival```.
 
 * <span style="color:midnightblue;">**After shuffling your data, use the ```mutate``` function to create a variable called *diff* which is the ```median``` fare of survivors minus the ```median``` fare of non-survivors.**</span>
-    - Assign your mutated data the name ```shuffled_survival``` again.
+
+    – Assign your mutated data the name ```shuffled_survival``` again.
 
 ###**Put your simulations to use**
 * <span style="color:firebrick;">**By using your shuffled data, answer the research question we posed at the beginning of the lab.**</span>
@@ -62,9 +63,9 @@ in our data.**</span>
 
 * <span style="color:midnightblue;">**Use the ```do``` and the ```shuffle``` functions to shuffle the passenger’s survival status 500 times.**</span>
 
-    - For each shuffle, compute each group’s mean fare paid.
+    – For each shuffle, compute each group’s mean fare paid.
 
-    - After shuffling your data, use the ```mutate``` function to create a variable called ```diff``` which is the mean fare of survivors minus the mean fare of non-survivors.
+    – After shuffling your data, use the ```mutate``` function to create a variable called ```diff``` which is the mean fare of survivors minus the mean fare of non-survivors.
 
 * <span style="color:firebrick;">**What does the shuffled data reveal? Does the answer to the research question below change when using the mean fares instead of the median fares?**</span>
 

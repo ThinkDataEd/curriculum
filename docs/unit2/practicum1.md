@@ -16,9 +16,9 @@ that compares two or more groups. Some sample statistical investigative question
 
 * Which gender shows a bigger range in age, male or female Oscar winners?
 
-    *** Grouping variable: sex (male, female)***
+    ***Grouping variable: sex (male, female)***
 
-    *** Variable: ages***
+    ***Variable: ages***
 
 * Do children, teenagers, or adults spend more money on candy?
 

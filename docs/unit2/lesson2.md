@@ -51,7 +51,7 @@ value is also referred to as the mean, or average.
     Students will learn about two such measures: the mean and the median.***</span>
     
     100. Measures of variability. <span style="color:grey">***Answer: Values that show how much the quantitative data varies.
-    Also known as measures of***</span> *** spread***. 
+    Also known as measures of***</span> ***spread***. 
     
     **<u>Note:</u>** This is not taught during this lesson, but
     will be addressed as part of [Lesson 4](lesson4.md).
