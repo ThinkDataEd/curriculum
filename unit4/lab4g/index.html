@@ -5102,7 +5102,7 @@ Does the model predict that she survived?</strong></span></p>
 <ul>
 <li>
 <p>Note: the argument <code>type = "class"</code> tells the <code>predict</code> function that we are classifying a categorical variable instead of predicting a numerical variable.</p>
-<p>titanic_test &lt;- mutate(<strong><em>_, prediction = predict(</em></strong>_, newdata = ____, type = "class"))</p>
+<p>titanic_test &lt;- mutate(<code>____</code>, prediction = predict(<code>____</code>, newdata = <code>____</code>, type = "class"))</p>
 </li>
 </ul>
 </li>
@@ -5132,12 +5132,12 @@ one category but were actually in another.</p>
 <p><span style="color:midnightblue;"><strong>Fill in the blanks to create a function to calculate the MCR.</strong></span></p>
 </li>
 <li>
-<p>Hint: sum(<strong><em>_!=</em></strong>_) will count the number of times that the left-hand side does not equal the right-hand side.</p>
+<p>Hint: sum(<code>____</code>!=<code>____</code>) will count the number of times that the left-hand side does not equal the right-hand side.</p>
 <ul>
 <li>
 <p>We want to count the number of times that actual does not equal predicted and then divide by the total number of observations.</p>
 <p>calc_mcr &lt;- function(actual, predicted) {
-sum(<strong><em>_ != </em></strong>_) / length(____)
+sum(<code>____</code>!=<code>____</code>) / length(<code>____</code>)
 }</p>
 </li>
 </ul>
