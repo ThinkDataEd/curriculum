@@ -44,7 +44,7 @@ understanding of how data is stored and viewed online.
 
 <ins>*Data File:*</ins>
 
-1. Students' Parrticipatory Sensing campaign data
+1. Students' Participatory Sensing campaign data
 
 <ins>*Data Collection Method:*</ins>
 

@@ -5,17 +5,17 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**The web as a data source**
 * The internet contains huge amounts of information.
 
-    - Using computers to gather this information in an automated fashion is referred to as *scraping
+    – Using computers to gather this information in an automated fashion is referred to as *scraping
 web data*.
 
-    - Scraping data from the web can be difficult because each website displays & stores data
+    – Scraping data from the web can be difficult because each website displays & stores data
 differently.
 
 * In this lab, we'll learn how to scrape data in two steps:
 
-    - Step 1: Gather information from the web.
+    – Step 1: Gather information from the web.
 
-    - Step 2: Clean it up and turn it into a usable data frame for [```Lab 3F```](lab3f.md).
+    – Step 2: Clean it up and turn it into a usable data frame for [```Lab 3F```](lab3f.md).
 
 ###**Our first web scraper**
 * <span style="color:midnightblue;">**Copy and paste the link below into a web browser to view the website of data we'd like to *scrape*

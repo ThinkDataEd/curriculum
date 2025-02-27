@@ -76,7 +76,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     - Note: the argument ```type = "class"``` tells the ```predict``` function that we are classifying a categorical variable instead of predicting a numerical variable.
 
-        titanic_test <- mutate(____, prediction = predict(____, newdata = ____, type = "class"))
+        titanic_test <- mutate(`____`, prediction = predict(`____`, newdata = `____`, type = "class"))
 
 ###**Measuring model performance**
 * Similar to how we use the *mean squared error* to describe how well our model predicts numerical variables, we use the *misclassification rate* to describe how well our model predicts categorical variables.
@@ -96,12 +96,12 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:midnightblue;">**Fill in the blanks to create a function to calculate the MCR.**</span>
 
-* Hint: sum(____!=____) will count the number of times that the left-hand side does not equal the right-hand side.
+* Hint: sum(`____`!=`____`) will count the number of times that the left-hand side does not equal the right-hand side.
 
     - We want to count the number of times that actual does not equal predicted and then divide by the total number of observations.
 
         calc_mcr <- function(actual, predicted) {
-        sum(____ != ____) / length(____)
+        sum(`____`!=`____`) / length(`____`)
         }
     
 * <span style="color:midnightblue;">**Then run the following to calculate the MCR.**</span>

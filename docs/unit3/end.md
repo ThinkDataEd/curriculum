@@ -73,12 +73,9 @@ study:
     below is the most reasonable explanation for the actual data in Sir Hill’s study and
     state why:
 
-    i. Streptomycin is a much better treatment for tuberculosis than bed rest. So, the
-    outcome depends on the treatment.
+    &nbsp;&nbsp;&nbsp;&nbsp;i. Streptomycin is a much better treatment for tuberculosis than bed rest. So, the outcome depends on the treatment.
     
-    ii. The actual difference between treatments is due to chance; Streptomycin may
-    not be effective on tuberculosis. So, it is possible that treatment and outcome are
-    independent.
+    &nbsp;&nbsp;&nbsp;&nbsp;ii. The actual difference between treatments is due to chance; Streptomycin may not be effective on tuberculosis. So, it is possible that treatment and outcome are independent.
 
 5. Can we say that Streptomycin ***causes*** the recovery of tuberculosis patients? Explain your
 answer.
