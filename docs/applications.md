@@ -28,7 +28,7 @@
 
 
 
-5. [K-means Clustering](https://kmeans.idsucla.org/)  
+5. [K-means Clustering](https://kmeans.thinkdataed.org/)  
     Explore how where you choose your initial data points changes the clusters created.
 
     Author: IDS Team
