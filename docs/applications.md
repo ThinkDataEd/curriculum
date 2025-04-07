@@ -7,14 +7,14 @@
 
 
 
-2. [Births Data Animation](https://labs.idsucla.org/extras/animations/gotdata/gotdata.html)  
+2. [Births Data Animation](https://labs.thinkdataed.org/extras/animations/gotdata/gotdata.html)  
     See daily number of births in 1978 and how the visualization changes based on how many days you view at a time.
 
     Author: James Molyneux
 
 
 
-3. [Balancing Points App](https://www.idsucla.org/wp-content/uploads/mean.html)  
+3. [Balancing Points App](https://www.thinkdataed.org/balance-app/)  
     Simulate the "Pennies on a Ruler" exploration activity (digital option for Unit 2 Lesson 2).
 
     Author: IDS Team
