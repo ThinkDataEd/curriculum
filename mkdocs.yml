@@ -383,7 +383,7 @@ nav:
    
     - Updates: updates.md
 
-google_analytics: ['UA-149684808-1', 'ids-curriculum.idsucla.org']
+google_analytics: ['UA-149684808-1', 'curriculum.thinkdataed.org']
 
 gtag:
   - G-K2MVBFZP2D
