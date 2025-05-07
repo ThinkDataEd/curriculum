@@ -26,14 +26,14 @@
     }
 </style> -->
 
-<!-- <span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://ids-curriculum.idsucla.org</a>.</span></span> -->
+<!-- <span id="demo"><span class="blink_text">Click <a href="../index.html" target="_blank">here</a>  to open in a new tab, or save the link <a href="../index.html" target="_blank">https://curriculum.thinkdataed.org</a>.</span></span> -->
 
 
 
 # Introduction to Data Science Curriculum
 ![IDS-logo](img/IDS-logo.png)
 
-*<span style="color:grey">(version 7.0)</span>*
+*<span style="color:grey">(version 7.1)</span>*
 
 **Robert Gould**
 
@@ -74,7 +74,7 @@ author(s) and do not necessarily reflect the views of the National Science Found
 *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a
 copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0 "http://creativecommons.org/licenses/by-sa/4.0"){:target="_blank"}*
 
-**For additional information related to IDS visit: [https://www.idsucla.org](https://www.idsucla.org "https://www.idsucla.org"){:target="_blank"}**
+**For additional information related to IDS visit: [https://www.thinkdataed.org](https://www.thinkdataed.org "https://www.thinkdataed.org"){:target="_blank"}**
 
 ## Mobilize
 ![mobilize](img/mobilize.png)
