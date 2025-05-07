@@ -1,8 +1,7 @@
-If you have any question, please contact us at [support@idsucla.org](mailto:support@idsucla.org)
+If you have any questions, please contact us at [support@thinkdataed.org](mailto:support@thinkdataed.org)
 
-LAUSD teachers please email [IDSsupport@lausd.net](mailto:IDSsupport@lausd.net)
 
-Introduction to Data Science, [https://www.idsucla.org](https://www.idsucla.org){:target="_blank"}
+Introduction to Data Science, [https://www.thinkdataed.org](https://www.thinkdataed.org){:target="_blank"}
 
 This website was last updated on February 4, 2025.
 
