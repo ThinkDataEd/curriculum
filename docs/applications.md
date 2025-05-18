@@ -21,7 +21,7 @@
 
 
 
-4. [Titanic Shuffle](https://idsucla.shinyapps.io/titanic/)  
+4. [Titanic Shuffle](https://idsthinkdataed.shinyapps.io/titanic/)    
     Simulate the Titanic Shuffle activity (digital option for Unit 2 Lesson 14).
 
     Author: IDS Team
