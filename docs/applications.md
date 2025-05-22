@@ -1,6 +1,6 @@
 ## **Applications**
 
-1. [Real-time Data Collection App](https://collection.idsucla.org/ )  
+1. [Real-time Data Collection App](https://collection.thinkdataed.org/ )  
     Collect data on one or two numerical variables from your class. No login required.
 
     Author: IDS Team
@@ -35,14 +35,14 @@
 
 
 
-6. [Violin Plots](https://idsucla.shinyapps.io/shinyapp_atus/)  
+6. [Violin Plots](https://idsthinkdataed.shinyapps.io/shinyapp_atus/)  
     Visualize multiple American Time Use variables using violin plots.
 
     Author: Albert Cao
 
 
 
-7. [Palmer Penguins](https://idsucla.shinyapps.io/PalmerPenguin/)  
+7. [Palmer Penguins](https://idsthinkdataed.shinyapps.io/PalmerPenguin/)  
     Create histograms and/or scatterplots of various characteristics of Palmer Penguins.
 
     Authors: James Molyneux and Heidi Bullock
