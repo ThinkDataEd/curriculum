@@ -44,7 +44,7 @@ predictions are.
 ###**Sums of differences**
 * A *residual* is the difference between the actual and predicted value of a quantity of interest.
 
-* <span style="color:midnightblue;">**Fill in the blanks below to add a column of residucals to ```arm_span```.**</span>
+* <span style="color:midnightblue;">**Fill in the blanks below to add a column of residuals to ```arm_span```.**</span>
 
         ____ <- mutate(____, residual = ____ - ____)
 
@@ -90,7 +90,7 @@ predictions are.
 
         best_fit <- lm(____ ~ ____, data = arm_span)
 
-###**Predicting wiht regression lines**
+###**Predicting with regression lines**
 * Making predictions with models ```R``` is familiar with is simpler than with lines, or models, we come up
 with ourselves.
 
