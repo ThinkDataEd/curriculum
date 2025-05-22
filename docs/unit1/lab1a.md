@@ -26,9 +26,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:firebrick;">**Describe the data that appeared after running ```View(cdc)```:**</span>
 
-    – <span style="color:firebrick;">***Who* is the information about?**</span>
+    – <span style="color:firebrick;">**(1) *Who* is the information about?**</span>
 
-    – <span style="color:firebrick;">**What sorts of information about them was collected?**</span>
+    – <span style="color:firebrick;">**(2) What sorts of information about them was collected?**</span>
 
 * To find out more information about the ```cdc``` data, type the command below into your console.
 
@@ -50,9 +50,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * If need be, re-type the command you used to ```View``` your data. Then answer the following:
 
-    – <span style="color:firebrick;">**Based on the data, describe a few characteristics about the first observation.**</span>
+    – <span style="color:firebrick;">**(3) Based on the data, describe a few characteristics about the first observation.**</span>
 
-    – <span style="color:firebrick;">**What does the first column tell us about our observations?**</span>
+    – <span style="color:firebrick;">**(4) What does the first column tell us about our observations?**</span>
 
 * In order to describe the first observation, notice that you had to look at the first row of the spreadsheet. Each row, in this case, describes a person.
 
@@ -70,9 +70,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – Notice that ```R``` knows we have our ```cdc``` data loaded.
 
-* <span style="color:firebrick;">**How many students are in our ```cdc``` data set?**</span>
+* <span style="color:firebrick;">**(5) How many students are in our ```cdc``` dataset?**</span>
 
-* <span style="color:firebrick;">**How many variables were measured for each student?**</span>
+* <span style="color:firebrick;">**(6) How many variables were measured for each student?**</span>
 
 ###**Some New Functions**
 
@@ -83,9 +83,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
         ncol(cdc)
         names(cdc)
 
-* <span style="color:firebrick;">**Which of these functions tell us the number of observations in our data?**</span>
+* <span style="color:firebrick;">**(7) Which of these functions tell us the number of observations in our data?**</span>
 
-* <span style="color:firebrick;">**Which of these functions tell us the number of variables?**</span>
+* <span style="color:firebrick;">**(8) Which of these functions tell us the number of variables?**</span>
 
 ###**First Steps**
 
@@ -94,7 +94,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * Coding is all about learning how to send instructions to your computer.
 
-    – The way we *speak* to the computer, using a coding language, *syntax*.
+    – The way we *speak* to the computer, using a coding language, is *syntax*.
 
 * ```R``` is one of many coding languages. Each coding language is slightly different, and these differences are reflected in the syntax.    
 
@@ -102,18 +102,20 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 ###**Syntax matters**
 
-* <span style="color:midnightblue;">**Run the following commands.</span> <span style="color:firebrick;">What happens after each command?** </span>
+* <span style="color:midnightblue;">**Run the following commands.**</span>
 
         Names(cdc)
         NAMES(cdc)
         names(cdc)
         names(CDC)
 
-* <span style="color:firebrick;">**Which does ```R``` understand?**</span>
+* <span style="color:firebrick;">**(9) What happens after each command?** </span>
+
+* <span style="color:firebrick;">**(10) Which does ```R``` understand?**</span>
 
 ###**R's most important syntax**
 
-* Most of the commands you will be using follow the syntax below:
+* Most of the commands you will be using follow the syntax below.
 
         function (y ~ x, data = ____ )
 
@@ -129,7 +131,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
         bargraph(~grade, data = cdc)
 
-<img src="../../img/1xa0a.png" />
+<img src="../../img/lab1a_slide9.png" style="width:400px;height:275px;"/>
 
 * Later on, we’ll see we can use this syntax to do more than create graphs.
 
@@ -139,7 +141,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     - To get back to the slides, find and then click on the *Viewer* tab.
 
-* <span style="color:firebrick;">**Which one of these plots would be useful for answering the question: *Is it unusual for students in the CDC dataset to be taller than 1.8 meters?* **</span>
+* <span style="color:firebrick;">**(11) Would a histogram, bargraph, or scatterplot be useful for answering the question: *Is it unusual for students in the CDC dataset to be taller than 1.8 meters?* **</span>
 
 * <span style="color:midnightblue;">**Run the three commands below then answer the question that follows.**</span>
 
@@ -149,20 +151,22 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
         xyplot(weight~height, data = cdc)
 
-* <span style="color:firebrick;">**Do you think it’s unusual for students in the data to be taller than 1.8 meters? Why or why not?**</span>
+* <span style="color:firebrick;">**(12) Do you think it’s unusual for students in the ```cdc``` dataset to be taller than 1.8 meters? Why or why not?**</span>
 
 * Hint: Use the arrow keys on the *Plots* tab to toggle between the plots.
+
+<img src="../../img/lab1a_slide10.png" style="width:400px;height:315px;"/>
 
 ###**On your own:**
 
 * After completing the lab, answer the following questions:
 
-    – <span style="color:firebrick;">**What is *public health* and do we collect data about it?**</span>
+    – <span style="color:firebrick;">**(13) What is *public health* and do we collect data about it?**</span>
 
-    – <span style="color:firebrick;">**How do you think our data was collected? Does it include every high school aged student in the US?** </span>
+    – <span style="color:firebrick;">**(14) How do you think our data was collected? Does it include every high school aged student in the US?** </span>
 
-    – <span style="color:firebrick;">**How might the CDC use this data? Who else could benefit from using this data?**</span>
+    – <span style="color:firebrick;">**(15) How might the CDC use this data? Who else could benefit from using this data?**</span>
 
-    – <span style="color:midnightblue;">**Write the code to visualize the distribution of weights of the students in the CDC data with a ```histogram```.</span> <span style="color:firebrick;">What is the *typical* weight?**</span>
+    – <span style="color:firebrick;">**(16) Write and run the code to visualize the distribution of weights of the students in the CDC data with a ```histogram```. What is the *typical* weight?**</span>
 
-    – <span style="color:midnightblue;">**Write the code to create a bargraph to visualize the distribution of how often students ate fruit.</span> <span style="color:firebrick;">About how many students did not eat fruit over the previous 7 days?**</span>
+    – <span style="color:firebrick;">**(17) Write and run the code to create a ```bargraph``` to visualize the distribution of how often students ate fruit. About how many students did not eat fruit over the previous 7 days?**</span>
