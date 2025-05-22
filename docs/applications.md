@@ -1,6 +1,6 @@
 ## **Applications**
 
-1. [Real-time Data Collection App](https://collection.thinkdataed.org/ )  
+1. [Real-time Data Collection App](https://collection.thinkdataed.org/)  
     Collect data on one or two numerical variables from your class. No login required.
 
     Author: IDS Team
