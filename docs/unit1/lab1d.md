@@ -20,7 +20,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – Similarly, distributions with a large spread might impact the readability of the plot.
 
-* <span style="color:midnightblue;">**Use the ```dotPlot()``` function to create a ```dotPlot``` of the amount of ```sugar``` in our ```food``` data.**</span>
+* <span style="color:firebrick;">**(1) Write and run code for creating a ```dotPlot``` of the amount of ```sugar``` in our ```food``` data.**</span>
 
     – The code to create a ```dotPlot``` is exactly like you’d use to make a ```histogram```.
 
@@ -29,7 +29,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**More options**
 * While a ```dotPlot``` should conserve the exact value of each data point, sometimes it behaves like a ```histogram``` in that it lumps values together.
 
-* <span style="color:midnightblue;">**Create a more accurate ```dotPlot``` by including the ```nint``` option.**</span>
+* <span style="color:firebrick;">**(2) Write and run the code for a more accurate ```dotPlot``` by including the ```nint``` option.**</span>
 
     – Set ```nint``` equal to the maximum value for ```sugar``` minus the minimum value for ```sugar``` plus one.
     
@@ -44,18 +44,18 @@ Directions: Follow along with the slides, completing the questions in <span styl
     – The default value is ```1```. Try a few values between ```0``` and ```1``` and a few more values larger than ```1```.
 
 ###**Splitting datasets**
-* In [lab 1B](lab1b.md), we learned that we can *facet* (or split) our data based on a categorical variable.
+* In [Lab 1B](lab1b.md), we learned that we can *facet* (or split) our data based on a categorical variable.
 
-* <span style="color:midnightblue;">**Split the ```dotPlot``` displaying the distribution of grams of ```sugar``` in two, by faceting on our observations’ ```salty_sweet``` variable.**</span>
+* <span style="color:firebrick;">**(3) Write and run code splitting the ```dotPlot``` displaying the distribution of grams of ```sugar``` in two, by faceting on our observations’ ```salty_sweet``` variable.**</span>
 
-    – <span style="color:firebrick;">**Describe how ```R``` decides which observations go into the left or right plot.**</span>
+    – <span style="color:firebrick;">**(4) Describe how ```R``` decides which observations go into the left or right plot.**</span>
 
-    – <span style="color:firebrick;">**What does each *dot* in the plot represent?**</span>
+    – <span style="color:firebrick;">**(5) What does each *dot* in the plot represent?**</span>
 
 ###**Altering the layout**
 * It would be much easier to compare the ```sugar``` levels of salty and sweet snacks if the dotPlots were stacked on top of one another.
 
-* We can change the **layout** of our separated plots by including the ```layout``` option in our ```dotPlot``` function.
+* We can change the *layout* of our separated plots by including the ```layout``` option in our ```dotPlot``` function.
 
     – <span style="color:midnightblue;">**Add the following option to the code you used to create the ```dotPlot``` split by ```salty_sweet```.**</span>
 
@@ -70,26 +70,26 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – Stock market traders may subset their trading data by looking only at the previous day's trades.
 
-* There's *many* ways to subset data using RStudio, we'll focus on learning the most common methods.
+* There are *many* ways to subset data using RStudio, we'll focus on learning the most common methods.
 
 ###**The filter function**
-* Creating two plots, one for ```Salty``` and one for ```Sweet``` is useful for comparing ```Salty``` and ```Sweet```. What if we want to examine one group by itself?
+* Creating a plot for ```Salty``` and a plot for ```Sweet``` is useful for comparing ```Salty``` and ```Sweet```. What if we want to examine one group by itself?
 
 * The line of code below creates a subset of the ```food``` dataset containing only ```Salty``` snacks. We will break it down piece by piece in the next few slides.
 
-* <span style="color:midnightblue;">**Run the line of code below:**</span>
+* <span style="color:midnightblue;">**Run the line of code below.**</span>
 
-        food_salty <- filter(____ , ____ == "Salty")
+        food_salty <- filter(food, salty_sweet == "Salty")
 
-* <span style="color:firebrick;">**```View``` ```food_salty``` and write down the number of observations in it.**</span>
+* <span style="color:firebrick;">**(6) ```View``` ```food_salty``` and write down the number of observations in it.**</span>
 
 ###**So what's really going on?**
 
-* Coding in R is really just about supplying directions in a way that ```R``` understands.
+* Coding in ```R``` is really just about supplying directions in a way that ```R``` understands.
 
     – We'll start by focusing on everything to the right of the ```<-``` symbol
 
-        food_salty <- filter(____ , ____ == "Salty")
+        food_salty <- filter(food, salty_sweet == "Salty")
 
 * ```filter()``` tells ```R``` that we're going to look at only the values in our data that follow a *rule*.
 
@@ -104,7 +104,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     (2) ```"Salty"``` is the *value* of the variable that we want to select. We only want to see data with the value ```Salty``` for the variable ```salty_sweet```.
 
-    (3) ```==``` describes how we want to relate our variable (```salty_sweet```) to our value (```"Salty"```). In this case, we want values of ```salty_sweet``` that are *exactly* equal to ```"Salty"```.
+    (3) ```==``` describes how we want to relate our variable (```salty_sweet```) to our value (```"Salty"```). In this case, we want values of ```salty_sweet``` that are *exactly equal* to ```"Salty"```.
 
 * Notice: *Values* (that are also words) have quotation marks around them. *Variables* do not.
 
@@ -119,7 +119,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
         head(~salty_sweet == "Salty", data = food)
 
-* <span style="color:firebrick;">**What do the values ```TRUE``` and ```FALSE``` tell us about how our *rule* applies to the first six snacks in our data? Which of the first six observations were ```Salty```?**</span>
+* <span style="color:firebrick;">**(7) What do the values ```TRUE``` and ```FALSE``` tell us about how our *rule* applies to the first six snacks in our data? Which of the first six observations were ```Salty```?**</span>
 
 ###**Saving values**
 * To use our subset data we need to save it first.
@@ -130,16 +130,16 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – We now focus on everything to the left of, and including, the ```<-``` symbol
 
-        food_salty <- filter(____ , ____ == "Salty")
+        food_salty <- filter(food, salty_sweet == "Salty")
 
 ###**Saving our subset**
-        food_salty <- filter(____ , ____ == "Salty")
+        food_salty <- filter(food, salty_sweet == "Salty")
 
 * This code then:
 
     – takes our subset data, (everything to the right of ```<-```) ...
 
-    – and assigns the subset data, by using the arrow ```<-```> ...
+    – and assigns the subset data, by using the arrow ```<-``` ...
 
     – the name ```food_salty```.
 
@@ -149,7 +149,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * As a result of assigning the subset data to ```food_salty```, ```food_salty``` now appears in the *Environment* pane. Whenever data is assigned to a variable name, that variable name will appear in the *Environment* pane.
 
-* <span style="color:midnightblue;">**Use ```food_salty``` to make a ```dotPlot``` of the ```sodium``` in our ```Salty``` snacks.**</span>
+* <span style="color:firebrick;">**(8) Write and run code using ```food_salty``` to make a ```dotPlot``` of the ```sodium``` in our ```Salty``` snacks.**</span>
 
 ###**Including more filters**
 * We often want to filter our data based on multiple rules.
@@ -163,11 +163,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 * <span style="color:midnightblue;">**```View``` the ```my_sub``` data we filtered in the above line of code and verify that it only includes salty snacks that have less than 200 calories.**</span>
 
 ###**Put it all together**
-* <span style="color:firebrick;">**Use an appropriate ```dotPlot``` to answer each of the following questions:**</span>
+* <span style="color:firebrick;">**(9) Create a ```dotPlot``` and answer the question: About how much ```sugar``` does the typical sweet snack have **</span>
 
-    – <span style="color:firebrick;">**About how much ```sugar``` does the typical sweet snack have?**</span>
-
-    – <span style="color:firebrick;">**How does the typical amount of ```sugar``` compare when ```healthy_level < 3``` and when ```healthy_level > 3```?**</span>
+* <span style="color:firebrick;">**(10) Create a ```dotPlot``` and answer the question: How does the typical amount of ```sugar``` compare when ```healthy_level < 3``` and when ```healthy_level > 3```?**</span>
 
 * Because you are now working with subsets of data, it is important to label our plots and make this distinction.
 
