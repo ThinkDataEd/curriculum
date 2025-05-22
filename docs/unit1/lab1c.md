@@ -7,18 +7,18 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – But what if we want to analyze our own data?
     
-* This lab is all about learning how to load our own participatory sensing data into RStudio.
+* This lab is all about learning how to load our own Participatory Sensing data into RStudio.
 
 ###**Export, upload, import**
 * Before we can perform any analysis, we have to load data into ```R```.
 
 * When we want to get our Participatory Sensing data into RStudio, we:
 
-    – <span style="color:darkgreen;">Export</span> the data from your class’ campaign page.
+    – <span style="color:darkgreen;">Export</span> the data from your class’s campaign page.
 
     – <span style="color:darkgreen;">Upload</span> data to *RStudio* server
 
-    – <span style="color:darkgreen;">Import</span> the data into R's working memory
+    – <span style="color:darkgreen;">Import</span> the data into ```R```'s working memory
 
     * *Note: You can watch the following video for a step-by-step walk-through of the process:*
     <div align="right"><iframe width="560" height="315"
@@ -28,7 +28,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Exporting**
 * <span style="color:midnightblue;">**To begin, go to the IDS Tools page**</span>
 
-    – <span style="color:midnightblue;">**Click on the</span> <span style="color:darkgreen;">Campaign Manager**</span>
+    – <span style="color:midnightblue;">**Click on the</span> <span style="color:darkgreen;">Campaign Manager</span><span style="color:midnightblue;">.**</span>
 
     – <span style="color:midnightblue;">**Fill in your username and password and click "Sign in".**</span>
 
@@ -49,9 +49,9 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Dropdown Arrow**
 * The options for the dropdown menu will look like this:
 
-    <img src="../../img/1xc0c.png" />
+    <img src="../../img/1xc0c.png" style="width:130px;height:220px;"/>
 
-* <span style="color:midnightblue;">**Click on the option labeled</span> <span style="color:darkgreen;">Export Data.**</span>
+* <span style="color:midnightblue;">**Click on the option labeled</span> <span style="color:darkgreen;">Export Data</span><span style="color:midnightblue;">.**</span>
 
     – Remember where you save your file!
 
@@ -67,7 +67,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – <span style="color:midnightblue;">**Click it!**</span>
 
-    <img src="../../img/1xc0d.png" />
+    <img src="../../img/1xc0d.png" style="width:400px;height:110px;"/>
 
 * <span style="color:midnightblue;">**Click the button on the Files pane that says "Upload".**</span>
 
@@ -86,21 +86,21 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * To actually use the data we need to <span style="color:darkgreen;">Import</span> it into your computer's memory.
 
-* To compute more quickly and efficiently, ```R``` will only keep a few data sets stored in its memory at a time.
+* To compute more quickly and efficiently, ```R``` will only keep a few datasets stored in its memory at a time.
 
-    – By importing data, you are telling ```R``` that this is a data set that is important to store it in its memory so you can use it.
+    – By importing data, you are telling ```R``` that this is a dataset that is important to store it in its memory so you can use it.
 
 ###**Importing**
 
-<img src="../../img/1xc0e.png" />
+<img src="../../img/1xc0e.png" style="width:400px;height:275px;"/>
 
 * <span style="color:midnightblue;">**On the Files pane, find the data you want to</span> <span style="color:darkgreen;">import</span><span style="color:midnightblue;">.**</span>
 
-* <span style="color:midnightblue;">**Click on the name of the file and choose the option "Import Data set..."**</span>
+* <span style="color:midnightblue;">**Click on the name of the file and choose the option "Import Dataset..."**</span>
 
 ###**Data Preview**
 
-<img src="../../img/1xc0ee.png" />
+<img src="../../img/1xc0ee.png" style="width:400px;height:275px;"/>
 
 * You can give your data a name using the <span style="color:darkgreen;">Name:</span> field in the lower left corner.
 
@@ -109,9 +109,15 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – Good names are short and descriptive.
 
-    – For your food habits campaign, some good names to use would be "foodhabits" or even just "food".
+    – For your Food Habits campaign, some good names to use would be "foodhabits" or even just "food".
 
 * When you're ready, click the *Import* button.
+
+* Make sure the name under Import Options matches the name in the Code Preview before you click Import.
+
+<img src="../../img/lab1c_slide12non.png" style="width:867px;height:100px;"/>
+
+<img src="../../img/lab1c_slide12ex.png" style="width:867px;height:100px;"/>
 
 ###**read.csv()**
 
@@ -128,11 +134,11 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 ###**A word on staying organized...**
 
-<img src="../../img/1xc0f.png" />
+<img src="../../img/lab1c_slide14.png" style="width:400px;height:110px;"/>
 
 * The <span style="color:darkgreen;">Files</span> tab has a few other features to help keep you organized.
 
-    – *SurveyResponse* probably isn't the best name for your data. Click <span style="color:darkgreen;">Rename</span> to give it a clearer name.
+    – *CampaignName - Ids Teacher Year Semester* probably isn't the best name for your data. Click <span style="color:darkgreen;">Rename</span> to give it a clearer name.
 
     – Often, it’s helpful to give your data file the same name as when you import your data.
 
@@ -142,4 +148,10 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * After you <span style="color:darkgreen;">Export</span>, <span style="color:darkgreen;">Upload</span>, <span style="color:darkgreen;">Import</span> your data, you're ready to analyze.
 
-* <span style="color:midnightblue;">**```View``` your data, then select a variable and try to make an appropriate plot for that variable.**</span>
+* <span style="color:firebrick;">**(1) ```View``` your data and select a variable. Write and run code to create an appropriate plot for that variable.**</span>
+
+* <span style="color:firebrick;">**(2) What variable did you choose? What does the plot tell us about that variable?**</span>
+
+* <span style="color:firebrick;">**Summarize the process:**</span>
+
+    – <span style="color:firebrick;">**(3) What might your future self forget about this process? Summarize the steps you took in this lab to use new data in RStudio.**</span>
