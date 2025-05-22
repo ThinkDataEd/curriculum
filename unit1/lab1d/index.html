@@ -5130,7 +5130,7 @@
 <p>– Similarly, distributions with a large spread might impact the readability of the plot.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>dotPlot()</code> function to create a <code>dotPlot</code> of the amount of <code>sugar</code> in our <code>food</code> data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Write and run code for creating a <code>dotPlot</code> of the amount of <code>sugar</code> in our <code>food</code> data.</strong></span></p>
 <p>– The code to create a <code>dotPlot</code> is exactly like you’d use to make a <code>histogram</code>.</p>
 <p>– Make sure to use a capital <em>P</em> in <code>dotPlot</code>.</p>
 </li>
@@ -5141,7 +5141,7 @@
 <p>While a <code>dotPlot</code> should conserve the exact value of each data point, sometimes it behaves like a <code>histogram</code> in that it lumps values together.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a more accurate <code>dotPlot</code> by including the <code>nint</code> option.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) Write and run the code for a more accurate <code>dotPlot</code> by including the <code>nint</code> option.</strong></span></p>
 <p>– Set <code>nint</code> equal to the maximum value for <code>sugar</code> minus the minimum value for <code>sugar</code> plus one.</p>
 <ul>
 <li>
@@ -5161,12 +5161,12 @@
 <h3 id="splitting-datasets"><strong>Splitting datasets</strong></h3>
 <ul>
 <li>
-<p>In <a href="../lab1b/">lab 1B</a>, we learned that we can <em>facet</em> (or split) our data based on a categorical variable.</p>
+<p>In <a href="../lab1b/">Lab 1B</a>, we learned that we can <em>facet</em> (or split) our data based on a categorical variable.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Split the <code>dotPlot</code> displaying the distribution of grams of <code>sugar</code> in two, by faceting on our observations’ <code>salty_sweet</code> variable.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Describe how <code>R</code> decides which observations go into the left or right plot.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>What does each <em>dot</em> in the plot represent?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Write and run code splitting the <code>dotPlot</code> displaying the distribution of grams of <code>sugar</code> in two, by faceting on our observations’ <code>salty_sweet</code> variable.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(4) Describe how <code>R</code> decides which observations go into the left or right plot.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(5) What does each <em>dot</em> in the plot represent?</strong></span></p>
 </li>
 </ul>
 <h3 id="altering-the-layout"><strong>Altering the layout</strong></h3>
@@ -5175,7 +5175,7 @@
 <p>It would be much easier to compare the <code>sugar</code> levels of salty and sweet snacks if the dotPlots were stacked on top of one another.</p>
 </li>
 <li>
-<p>We can change the <strong>layout</strong> of our separated plots by including the <code>layout</code> option in our <code>dotPlot</code> function.</p>
+<p>We can change the <em>layout</em> of our separated plots by including the <code>layout</code> option in our <code>dotPlot</code> function.</p>
 <p>– <span style="color:midnightblue;"><strong>Add the following option to the code you used to create the <code>dotPlot</code> split by <code>salty_sweet</code>.</strong></span></p>
 <pre><code>layout = c(1,2)
 </code></pre>
@@ -5192,32 +5192,32 @@
 <p>– Stock market traders may subset their trading data by looking only at the previous day's trades.</p>
 </li>
 <li>
-<p>There's <em>many</em> ways to subset data using RStudio, we'll focus on learning the most common methods.</p>
+<p>There are <em>many</em> ways to subset data using RStudio, we'll focus on learning the most common methods.</p>
 </li>
 </ul>
 <h3 id="the-filter-function"><strong>The filter function</strong></h3>
 <ul>
 <li>
-<p>Creating two plots, one for <code>Salty</code> and one for <code>Sweet</code> is useful for comparing <code>Salty</code> and <code>Sweet</code>. What if we want to examine one group by itself?</p>
+<p>Creating a plot for <code>Salty</code> and a plot for <code>Sweet</code> is useful for comparing <code>Salty</code> and <code>Sweet</code>. What if we want to examine one group by itself?</p>
 </li>
 <li>
 <p>The line of code below creates a subset of the <code>food</code> dataset containing only <code>Salty</code> snacks. We will break it down piece by piece in the next few slides.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Run the line of code below:</strong></span></p>
-<pre><code>food_salty &lt;- filter(____ , ____ == "Salty")
+<p><span style="color:midnightblue;"><strong>Run the line of code below.</strong></span></p>
+<pre><code>food_salty &lt;- filter(food, salty_sweet == "Salty")
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong><code>View</code> <code>food_salty</code> and write down the number of observations in it.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) <code>View</code> <code>food_salty</code> and write down the number of observations in it.</strong></span></p>
 </li>
 </ul>
 <h3 id="so-whats-really-going-on"><strong>So what's really going on?</strong></h3>
 <ul>
 <li>
-<p>Coding in R is really just about supplying directions in a way that <code>R</code> understands.</p>
+<p>Coding in <code>R</code> is really just about supplying directions in a way that <code>R</code> understands.</p>
 <p>– We'll start by focusing on everything to the right of the <code>&lt;-</code> symbol</p>
-<pre><code>food_salty &lt;- filter(____ , ____ == "Salty")
+<pre><code>food_salty &lt;- filter(food, salty_sweet == "Salty")
 </code></pre>
 </li>
 <li>
@@ -5236,7 +5236,7 @@
 <p>We can decompose our rule, <code>salty_sweet == "Salty"</code>, into 3 parts:</p>
 <p>(1) <code>salty_sweet</code>, is the particular <em>variable</em> we want to use to select our subset.</p>
 <p>(2) <code>"Salty"</code> is the <em>value</em> of the variable that we want to select. We only want to see data with the value <code>Salty</code> for the variable <code>salty_sweet</code>.</p>
-<p>(3) <code>==</code> describes how we want to relate our variable (<code>salty_sweet</code>) to our value (<code>"Salty"</code>). In this case, we want values of <code>salty_sweet</code> that are <em>exactly</em> equal to <code>"Salty"</code>.</p>
+<p>(3) <code>==</code> describes how we want to relate our variable (<code>salty_sweet</code>) to our value (<code>"Salty"</code>). In this case, we want values of <code>salty_sweet</code> that are <em>exactly equal</em> to <code>"Salty"</code>.</p>
 </li>
 <li>
 <p>Notice: <em>Values</em> (that are also words) have quotation marks around them. <em>Variables</em> do not.</p>
@@ -5255,7 +5255,7 @@
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What do the values <code>TRUE</code> and <code>FALSE</code> tell us about how our <em>rule</em> applies to the first six snacks in our data? Which of the first six observations were <code>Salty</code>?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) What do the values <code>TRUE</code> and <code>FALSE</code> tell us about how our <em>rule</em> applies to the first six snacks in our data? Which of the first six observations were <code>Salty</code>?</strong></span></p>
 </li>
 </ul>
 <h3 id="saving-values"><strong>Saving values</strong></h3>
@@ -5267,18 +5267,18 @@
 <li>
 <p>The arrow <code>&lt;-</code> is called the "assignment" operator. It assigns names (on the left) to values (on the right)</p>
 <p>– We now focus on everything to the left of, and including, the <code>&lt;-</code> symbol</p>
-<pre><code>food_salty &lt;- filter(____ , ____ == "Salty")
+<pre><code>food_salty &lt;- filter(food, salty_sweet == "Salty")
 </code></pre>
 </li>
 </ul>
 <h3 id="saving-our-subset"><strong>Saving our subset</strong></h3>
-<pre><code>    food_salty &lt;- filter(____ , ____ == "Salty")
+<pre><code>    food_salty &lt;- filter(food, salty_sweet == "Salty")
 </code></pre>
 <ul>
 <li>
 <p>This code then:</p>
 <p>– takes our subset data, (everything to the right of <code>&lt;-</code>) ...</p>
-<p>– and assigns the subset data, by using the arrow <code>&lt;-</code>&gt; ...</p>
+<p>– and assigns the subset data, by using the arrow <code>&lt;-</code> ...</p>
 <p>– the name <code>food_salty</code>.</p>
 </li>
 <li>
@@ -5289,7 +5289,7 @@
 <p>As a result of assigning the subset data to <code>food_salty</code>, <code>food_salty</code> now appears in the <em>Environment</em> pane. Whenever data is assigned to a variable name, that variable name will appear in the <em>Environment</em> pane.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use <code>food_salty</code> to make a <code>dotPlot</code> of the <code>sodium</code> in our <code>Salty</code> snacks.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Write and run code using <code>food_salty</code> to make a <code>dotPlot</code> of the <code>sodium</code> in our <code>Salty</code> snacks.</strong></span></p>
 </li>
 </ul>
 <h3 id="including-more-filters"><strong>Including more filters</strong></h3>
@@ -5310,9 +5310,10 @@
 <h3 id="put-it-all-together"><strong>Put it all together</strong></h3>
 <ul>
 <li>
-<p><span style="color:firebrick;"><strong>Use an appropriate <code>dotPlot</code> to answer each of the following questions:</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>About how much <code>sugar</code> does the typical sweet snack have?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>How does the typical amount of <code>sugar</code> compare when <code>healthy_level &lt; 3</code> and when <code>healthy_level &gt; 3</code>?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) Create a <code>dotPlot</code> and answer the question: About how much <code>sugar</code> does the typical sweet snack have </strong></span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>(10) Create a <code>dotPlot</code> and answer the question: How does the typical amount of <code>sugar</code> compare when <code>healthy_level &lt; 3</code> and when <code>healthy_level &gt; 3</code>?</strong></span></p>
 </li>
 <li>
 <p>Because you are now working with subsets of data, it is important to label our plots and make this distinction.</p>
