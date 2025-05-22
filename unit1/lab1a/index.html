@@ -5063,8 +5063,8 @@ View(cdc)
 </li>
 <li>
 <p><span style="color:firebrick;"><strong>Describe the data that appeared after running <code>View(cdc)</code>:</strong></span></p>
-<p>– <span style="color:firebrick;"><strong><em>Who</em> is the information about?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>What sorts of information about them was collected?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(1) <em>Who</em> is the information about?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(2) What sorts of information about them was collected?</strong></span></p>
 </li>
 <li>
 <p>To find out more information about the <code>cdc</code> data, type the command below into your console.</p>
@@ -5084,8 +5084,8 @@ View(cdc)
 </li>
 <li>
 <p>If need be, re-type the command you used to <code>View</code> your data. Then answer the following:</p>
-<p>– <span style="color:firebrick;"><strong>Based on the data, describe a few characteristics about the first observation.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>What does the first column tell us about our observations?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(3) Based on the data, describe a few characteristics about the first observation.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(4) What does the first column tell us about our observations?</strong></span></p>
 </li>
 <li>
 <p>In order to describe the first observation, notice that you had to look at the first row of the spreadsheet. Each row, in this case, describes a person.</p>
@@ -5108,10 +5108,10 @@ View(cdc)
 <p>– Notice that <code>R</code> knows we have our <code>cdc</code> data loaded.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How many students are in our <code>cdc</code> data set?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) How many students are in our <code>cdc</code> dataset?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How many variables were measured for each student?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) How many variables were measured for each student?</strong></span></p>
 </li>
 </ul>
 <h3 id="some-new-functions"><strong>Some New Functions</strong></h3>
@@ -5125,10 +5125,10 @@ names(cdc)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which of these functions tell us the number of observations in our data?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) Which of these functions tell us the number of observations in our data?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which of these functions tell us the number of variables?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Which of these functions tell us the number of variables?</strong></span></p>
 </li>
 </ul>
 <h3 id="first-steps"><strong>First Steps</strong></h3>
@@ -5139,7 +5139,7 @@ names(cdc)
 </li>
 <li>
 <p>Coding is all about learning how to send instructions to your computer.</p>
-<p>– The way we <em>speak</em> to the computer, using a coding language, <em>syntax</em>.</p>
+<p>– The way we <em>speak</em> to the computer, using a coding language, is <em>syntax</em>.</p>
 </li>
 <li>
 <p><code>R</code> is one of many coding languages. Each coding language is slightly different, and these differences are reflected in the syntax.    </p>
@@ -5151,7 +5151,7 @@ names(cdc)
 <h3 id="syntax-matters"><strong>Syntax matters</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Run the following commands.</span> <span style="color:firebrick;">What happens after each command?</strong> </span></p>
+<p><span style="color:midnightblue;"><strong>Run the following commands.</strong></span></p>
 <pre><code>Names(cdc)
 NAMES(cdc)
 names(cdc)
@@ -5159,13 +5159,16 @@ names(CDC)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which does <code>R</code> understand?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) What happens after each command?</strong> </span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>(10) Which does <code>R</code> understand?</strong></span></p>
 </li>
 </ul>
 <h3 id="rs-most-important-syntax"><strong>R's most important syntax</strong></h3>
 <ul>
 <li>
-<p>Most of the commands you will be using follow the syntax below:</p>
+<p>Most of the commands you will be using follow the syntax below.</p>
 <pre><code>function (y ~ x, data = ____ )
 </code></pre>
 </li>
@@ -5187,7 +5190,7 @@ names(CDC)
 </code></pre>
 </li>
 </ul>
-<p><img src="../../img/1xa0a.png" /></p>
+<p><img src="../../img/lab1a_slide9.png" style="width:400px;height:275px;"/></p>
 <ul>
 <li>Later on, we’ll see we can use this syntax to do more than create graphs.</li>
 </ul>
@@ -5200,7 +5203,7 @@ names(CDC)
 </ul>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which one of these plots would be useful for answering the question: <em>Is it unusual for students in the CDC dataset to be taller than 1.8 meters?</em> </strong></span></p>
+<p><span style="color:firebrick;"><strong>(11) Would a histogram, bargraph, or scatterplot be useful for answering the question: <em>Is it unusual for students in the CDC dataset to be taller than 1.8 meters?</em> </strong></span></p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Run the three commands below then answer the question that follows.</strong></span></p>
@@ -5212,21 +5215,22 @@ xyplot(weight~height, data = cdc)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Do you think it’s unusual for students in the data to be taller than 1.8 meters? Why or why not?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(12) Do you think it’s unusual for students in the <code>cdc</code> dataset to be taller than 1.8 meters? Why or why not?</strong></span></p>
 </li>
 <li>
 <p>Hint: Use the arrow keys on the <em>Plots</em> tab to toggle between the plots.</p>
 </li>
 </ul>
+<p><img src="../../img/lab1a_slide10.png" style="width:400px;height:315px;"/></p>
 <h3 id="on-your-own"><strong>On your own:</strong></h3>
 <ul>
 <li>
 <p>After completing the lab, answer the following questions:</p>
-<p>– <span style="color:firebrick;"><strong>What is <em>public health</em> and do we collect data about it?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>How do you think our data was collected? Does it include every high school aged student in the US?</strong> </span></p>
-<p>– <span style="color:firebrick;"><strong>How might the CDC use this data? Who else could benefit from using this data?</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Write the code to visualize the distribution of weights of the students in the CDC data with a <code>histogram</code>.</span> <span style="color:firebrick;">What is the <em>typical</em> weight?</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Write the code to create a bargraph to visualize the distribution of how often students ate fruit.</span> <span style="color:firebrick;">About how many students did not eat fruit over the previous 7 days?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(13) What is <em>public health</em> and do we collect data about it?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(14) How do you think our data was collected? Does it include every high school aged student in the US?</strong> </span></p>
+<p>– <span style="color:firebrick;"><strong>(15) How might the CDC use this data? Who else could benefit from using this data?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(16) Write and run the code to visualize the distribution of weights of the students in the CDC data with a <code>histogram</code>. What is the <em>typical</em> weight?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(17) Write and run the code to create a <code>bargraph</code> to visualize the distribution of how often students ate fruit. About how many students did not eat fruit over the previous 7 days?</strong></span></p>
 </li>
 </ul>
 
