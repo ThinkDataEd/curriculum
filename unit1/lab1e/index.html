@@ -946,9 +946,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#wheres-the-variables" class="md-nav__link">
+  <a href="#where-are-the-variables" class="md-nav__link">
     <span class="md-ellipsis">
-      Where's the variables?
+      Where are the variables?
     </span>
   </a>
   
@@ -4923,9 +4923,9 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#wheres-the-variables" class="md-nav__link">
+  <a href="#where-are-the-variables" class="md-nav__link">
     <span class="md-ellipsis">
-      Where's the variables?
+      Where are the variables?
     </span>
   </a>
   
@@ -5035,21 +5035,17 @@
 <p>Import the data from your class' <em>Food Habits</em> campaign and name it <code>food</code>.</p>
 </li>
 </ul>
-<h3 id="wheres-the-variables"><strong>Where's the variables?</strong></h3>
+<h3 id="where-are-the-variables"><strong>Where are the variables?</strong></h3>
 <p><img src="../../img/1xe0a.png" /></p>
 <ul>
-<li><span style="color:firebrick;"><strong>How many variables were used to create this plot? Which variables were used and how were they used?</strong></span></li>
+<li><span style="color:firebrick;"><strong>(1) How many variables were used to create this plot? Which variables were used and how were they used?</strong></span></li>
 </ul>
 <h3 id="multiple-variable-plots"><strong>Multiple variable plots</strong></h3>
 <ul>
 <li>
 <p>The previous graph is an example of a <em>multiple variable plot</em>, which means that more than a single variable was used. In this case:</p>
-</li>
-<li>
-<p>Variable 1: <em>height</em></p>
-</li>
-<li>
-<p>Variable 2: <em>sex</em></p>
+<p>– Variable 1: <code>height</code></p>
+<p>– Variable 2: <code>sex</code></p>
 </li>
 <li>
 <p>Multiple variable plots are tools for finding <em>relationships</em> between data.</p>
@@ -5065,7 +5061,7 @@
 <p><img src="../../img/1xe0b.png" /></p>
 <h3 id="creating-scatterplots"><strong>Creating scatterplots</strong></h3>
 <ul>
-<li><span style="color:midnightblue;"><strong>Fill in the blanks to create a scatterplot with <code>sodium</code> on the y-axis and <code>sugar</code> on the x-axis.</strong></span><pre><code>xyplot(____ ~ ____, data = food)
+<li><span style="color:firebrick;"><strong>(2) Fill in the blanks to create a <code>scatterplot</code> with <code>sodium</code> on the y-axis and <code>sugar</code> on the x-axis.</strong></span><pre><code>xyplot(____ ~ ____, data = food)
 </code></pre>
 </li>
 </ul>
@@ -5073,9 +5069,9 @@
 <ul>
 <li>
 <p><span style="color:midnightblue;"><strong>Use a scatterplot to answer the following questions:</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Do snacks that have more <code>protein</code> also have more <code>calories</code>? Why do you think that?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>What happens if you swap the <code>protein</code> and <code>calories</code> variables in your code? Does the relationship between the variables change?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Does the relationship between <code>protein</code> and <code>calories</code> change when the snack is either <code>Salty</code> or <code>Sweet</code>? Write down the code you used to answer this question.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(3) Do snacks that have more <code>protein</code> also have more <code>calories</code>? Why do you think that?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(4) What happens if you swap the <code>protein</code> and <code>calories</code> variables in your code? Does the relationship between the variables change?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(5) Does the relationship between <code>protein</code> and <code>calories</code> change when the snack is either <code>Salty</code> or <code>Sweet</code>? Write down the code you used to answer this question.</strong></span></p>
 </li>
 </ul>
 <h3 id="4-variable-scatterplots"><strong>4-variable scatterplots</strong></h3>
@@ -5091,7 +5087,7 @@
 <p>To change the color of our points, we can include the <code>groups</code> argument much like we did for bargraphs (use the <em>search</em> feature in the <em>History</em> pane if you need help).</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a scatterplot that uses these 4 variables: <code>sodium</code>, <code>sugar</code>, <code>cost</code>, <code>salty_sweet</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) Write and run code creating a scatterplot that uses these 4 variables: <code>sodium</code>, <code>sugar</code>, <code>cost</code>, <code>salty_sweet</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="multiple-facets"><strong>Multiple facets</strong></h3>
@@ -5101,16 +5097,16 @@
 <p>– Splitting the data using 2 facets can give us additional insights that might otherwise be hidden.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a <code>dotPlot</code> or <code>histogram</code> of the <code>calories</code> variable, but facet the data using:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) Write and run code creating a <code>dotPlot</code> or <code>histogram</code> of the <code>calories</code> variable, but facet the data using:</strong></span></p>
 <pre><code>healthy_level + salty_sweet
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How does the <code>healthy_level</code> of a <code>Salty</code> or <code>Sweet</code> snack impact the number of <code>calories</code> in the snack?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) How does the <code>healthy_level</code> of a <code>Salty</code> or <code>Sweet</code> snack impact the number of <code>calories</code> in the snack?</strong></span></p>
 </li>
 <li>
 <p>Although we are treating <code>healthy_level</code> as a categorical variable, <code>R</code> recongizes it as a numerical variable.</p>
-<p>– <span style="color:midnightblue;"><strong>Verify this using the <em>str</em> function.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>Verify this using the <code>str</code> function.</strong></span></p>
 <p>– Notice that the faceted histograms or dotPlots do not have labels but rather tick-marks.</p>
 <p>– You will have the opportunity to convert the <code>healthy_level</code> variable into a factor later on.</p>
 </li>
@@ -5123,8 +5119,8 @@
 <ul>
 <li>
 <p><span style="color:midnightblue;"><strong>Answer the following questions by creating an appropriate graph or graphs:</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Do healthier snacks have more or less <code>ingredients</code> than less healthy snacks?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>What other variables seem to be related to the number of <code>ingredients</code> of a snack? Describe their relationships.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(9) Do healthier snacks have more or less <code>ingredients</code> than less healthy snacks?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(10) What other variables seem to be related to the number of <code>ingredients</code> of a snack? Describe their relationships.</strong></span></p>
 </li>
 </ul>
 
