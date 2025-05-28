@@ -15,18 +15,18 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * Import the data from your class' *Food Habits* campaign and name it ```food```.
 
-###**Where's the variables?**
+###**Where are the variables?**
 
 <img src="../../img/1xe0a.png" />
 
-* <span style="color:firebrick;">**How many variables were used to create this plot? Which variables were used and how were they used?**</span>
+* <span style="color:firebrick;">**(1) How many variables were used to create this plot? Which variables were used and how were they used?**</span>
 
 ###**Multiple variable plots**
 * The previous graph is an example of a *multiple variable plot*, which means that more than a single variable was used. In this case:
 
-* Variable 1: *height*
+    – Variable 1: ```height```
 
-* Variable 2: *sex*
+    – Variable 2: ```sex```
 
 * Multiple variable plots are tools for finding *relationships* between data.
 
@@ -40,18 +40,18 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 ###**Creating scatterplots**
 
-* <span style="color:midnightblue;">**Fill in the blanks to create a scatterplot with ```sodium``` on the y-axis and ```sugar``` on the x-axis.**</span>
+* <span style="color:firebrick;">**(2) Fill in the blanks to create a ```scatterplot``` with ```sodium``` on the y-axis and ```sugar``` on the x-axis.**</span>
 
         xyplot(____ ~ ____, data = food)
 
 ###**Scatterplots in action**
 * <span style="color:midnightblue;">**Use a scatterplot to answer the following questions:**</span>
 
-    – <span style="color:firebrick;">**Do snacks that have more ```protein``` also have more ```calories```? Why do you think that?**</span>
+    – <span style="color:firebrick;">**(3) Do snacks that have more ```protein``` also have more ```calories```? Why do you think that?**</span>
 
-    – <span style="color:firebrick;">**What happens if you swap the ```protein``` and ```calories``` variables in your code? Does the relationship between the variables change?**</span>
+    – <span style="color:firebrick;">**(4) What happens if you swap the ```protein``` and ```calories``` variables in your code? Does the relationship between the variables change?**</span>
 
-    – <span style="color:firebrick;">**Does the relationship between ```protein``` and ```calories``` change when the snack is either ```Salty``` or ```Sweet```? Write down the code you used to answer this question.**</span>
+    – <span style="color:firebrick;">**(5) Does the relationship between ```protein``` and ```calories``` change when the snack is either ```Salty``` or ```Sweet```? Write down the code you used to answer this question.**</span>
 
 ###**4-variable scatterplots**
 * When we make scatterplots, we can include:
@@ -66,22 +66,22 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * To change the color of our points, we can include the ```groups``` argument much like we did for bargraphs (use the *search* feature in the *History* pane if you need help).
 
-* <span style="color:midnightblue;">**Create a scatterplot that uses these 4 variables: ```sodium```, ```sugar```, ```cost```, ```salty_sweet```.**</span>
+* <span style="color:firebrick;">**(6) Write and run code creating a scatterplot that uses these 4 variables: ```sodium```, ```sugar```, ```cost```, ```salty_sweet```.**</span>
 
 ###**Multiple facets**
 * It can sometimes be helpful to facet on more than 1 variable.
 
     – Splitting the data using 2 facets can give us additional insights that might otherwise be hidden.
 
-* <span style="color:midnightblue;">**Create a ```dotPlot``` or ```histogram``` of the ```calories``` variable, but facet the data using:**</span>
+* <span style="color:firebrick;">**(7) Write and run code creating a ```dotPlot``` or ```histogram``` of the ```calories``` variable, but facet the data using:**</span>
 
         healthy_level + salty_sweet
 
-* <span style="color:firebrick;">**How does the ```healthy_level``` of a ```Salty``` or ```Sweet``` snack impact the number of ```calories``` in the snack?**</span>
+* <span style="color:firebrick;">**(8) How does the ```healthy_level``` of a ```Salty``` or ```Sweet``` snack impact the number of ```calories``` in the snack?**</span>
 
 * Although we are treating ```healthy_level``` as a categorical variable, ```R``` recongizes it as a numerical variable.
 
-    – <span style="color:midnightblue;">**Verify this using the *str* function.**</span>
+    – <span style="color:midnightblue;">**Verify this using the ```str``` function.**</span>
 
     – Notice that the faceted histograms or dotPlots do not have labels but rather tick-marks.
 
@@ -94,6 +94,6 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**On your own**
 * <span style="color:midnightblue;">**Answer the following questions by creating an appropriate graph or graphs:**</span>
 
-    – <span style="color:firebrick;">**Do healthier snacks have more or less ```ingredients``` than less healthy snacks?**</span>
+    – <span style="color:firebrick;">**(9) Do healthier snacks have more or less ```ingredients``` than less healthy snacks?**</span>
 
-    – <span style="color:firebrick;">**What other variables seem to be related to the number of ```ingredients``` of a snack? Describe their relationships.**</span>
+    – <span style="color:firebrick;">**(10) What other variables seem to be related to the number of ```ingredients``` of a snack? Describe their relationships.**</span>
