@@ -5224,7 +5224,7 @@ View(atu_dirty)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Just by viewing the data, what parts of our ATU data do you think need cleaning?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Just by viewing the data, what parts of our ATU data do you think need cleaning?</strong></span></p>
 </li>
 </ul>
 <h3 id="description-of-atu-variables"><strong>Description of ATU Variables</strong></h3>
@@ -5254,7 +5254,7 @@ View(atu_dirty)
 <p><span style="color:midnightblue;"><strong>Use the example code and the variable information on the previous slide to rename the rest of the variables in <code>atu_dirty</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Write down the  new names you chose for the rest of the variables in <code>atu_dirty</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) Write down the  new names you chose for the rest of the variables in <code>atu_dirty</code>.</strong></span></p>
 <p>– Names should be short, contain no spaces and describe what the variable is related to. So use abbreviations to your heart's content.</p>
 </li>
 </ul>
@@ -5288,7 +5288,7 @@ View(atu_dirty)
 </li>
 <li>
 <p>Look at the <code>str</code>ucture of your data and the variable descriptions from a few slides back:</p>
-<p>– <span style="color:firebrick;"><strong>Write down the variables that should be <em>numeric</em> but are improperly coded as <em>strings</em> or <em>characters</em>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(3) Write down the variables that should be <em>numeric</em> but are improperly coded as <em>strings</em> or <em>characters</em>.</strong></span></p>
 </li>
 </ul>
 <h3 id="changing-strings-into-numbers"><strong>Changing strings into numbers</strong></h3>
@@ -5310,7 +5310,7 @@ View(atu_dirty)
 <h3 id="mutating-in-action"><strong>Mutating in action</strong></h3>
 <ul>
 <li>
-<p>Look at the variables you thought should be <em>numeric</em> and select one. Then fill in the blanks below to see how we can correctly code it as a number:</p>
+<p><span style="color:firebrick;"><strong>(4) Look at the variables you thought should be <em>numeric</em> and select one. Then fill in the blanks below to see how we can correctly code it as a number:</strong></span></p>
 <pre><code>atu_cleaner &lt;- mutate(atu_cleaner,
         age = as.numeric(age),
         ___ = as.numeric(___))
@@ -5340,12 +5340,12 @@ View(atu_dirty)
 <p>– The individual categories are called <em>levels</em>.</p>
 </li>
 <li>
-<p>To see the levels of <code>sex</code> and their counts <em>type</em>:</p>
+<p>To see the levels of <code>sex</code> and their counts type:</p>
 <pre><code>tally(~sex, data = atu_cleaner)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Use similar code as we used above to write down the levels for the three factors in our data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) Use similar code as we used above to write down the levels for the three factors in our data.</strong></span></p>
 </li>
 </ul>
 <h3 id="a-level-by-any-other-name"><strong>A level by any other name...</strong></h3>
@@ -5357,7 +5357,7 @@ View(atu_dirty)
 <p><span style="color:midnightblue;"><strong>Type the following command into your console:</strong></span></p>
 <pre><code>atu_cleaner &lt;- mutate(atu_cleaner, sex =
         recode(sex,
-            "01"="Male",
+            "01" = "Male",
             "02" = "Female"))
 </code></pre>
 </li>
@@ -5367,7 +5367,7 @@ View(atu_dirty)
 </ul>
 <h3 id="allow-me-to-explain"><strong>Allow me to explain</strong></h3>
 <pre><code>atu_cleaner &lt;- mutate(atu_cleaner, sex =
-        recode(sex, "01"="Male",
+        recode(sex, "01" = "Male",
             "02" = "Female"))
 </code></pre>
 <ul>
@@ -5393,12 +5393,12 @@ View(atu_dirty)
 <p>(1) Loads the <code>atu_dirty</code> data set</p>
 <p>(2) Cleans the the data as we have in this lab</p>
 <p>(3) Saves a copy of the cleaned data (see next slide).</p>
-<ul>
-<li><em>NOTE: You can watch this video to learn about RScripts:</em>
-<div align="right"><iframe width="560" height="315"
-src="https://www.youtube.com/embed/OPqjL9AzmkE" allowfullscreen>
-</iframe><br><a href="https://www.youtube.com/embed/OPqjL9Azmk">https://www.youtube.com/embed/OPqjL9Azmk</a></div></li>
-</ul>
+</li>
+<li>
+<p><em>NOTE: You can watch this video to learn about RScripts:</em>
+    <div align="center"><iframe width="560" height="315"
+    src="https://www.youtube.com/embed/OPqjL9AzmkE" allowfullscreen>
+    </iframe><br><a href="https://www.youtube.com/embed/OPqjL9Azmk">https://www.youtube.com/embed/OPqjL9Azmk</a></div></p>
 </li>
 </ul>
 <h3 id="the-final-lines"><strong>The final lines</strong></h3>
@@ -5429,15 +5429,16 @@ src="https://www.youtube.com/embed/OPqjL9AzmkE" allowfullscreen>
 </li>
 <li>
 <p>Look in your <em>Files</em> pane for the <code>atu_clean.Rda</code> file</p>
-<p>– This is as permanent copy of your clean atu data</p>
-<p>– To load the data onto your <em>Environment</em> click on the file</p>
-<p>– A pop-up window confirming the upload will appear</p>
+<p>– This is as permanent copy of your clean atu data.</p>
+<p>– To load the data onto your <em>Environment</em> click on the file.</p>
+<p>– A pop-up window confirming the upload will appear.</p>
 </li>
 </ul>
 <h3 id="flex-your-skills"><strong>Flex your skills</strong></h3>
 <ul>
 <li>
 <p>Now that you have learned some cleaning data basics, it’s time to revisit the <code>food</code> data.</p>
+<p>– <span style="color:midnightblue;"><strong><code>Import</code> your <code>food</code> data onto the <em>Environment</em> pane.</strong></span></p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Run the code below:</strong></span></p>
@@ -5445,11 +5446,11 @@ src="https://www.youtube.com/embed/OPqjL9AzmkE" allowfullscreen>
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>as.factor()</code> function to convert <code>healthy_level</code> into a categorical variable and re-run the <code>histogram</code> function.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) Use the <code>as.factor()</code> function to convert <code>healthy_level</code> into a categorical variable and re-run the <code>histogram</code> function.</strong></span></p>
 <p>– Notice that the <code>healthy_level</code> categories are now numbers as opposed to tick-marks. This is an improvement but an even better solution would be to <code>recode</code> the categories.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Recode the <code>healthy_level</code> categories and re-run the <code>histogram</code> function.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) Write and run code to <code>recode</code> the <code>healthy_level</code> categories and re-run the <code>histogram</code> function.</strong></span></p>
 <p>– "1" = "Very Unhealthy"</p>
 <p>– "2" = "Unhealthy"</p>
 <p>– "3" = "Neutral"</p>
@@ -5457,7 +5458,7 @@ src="https://www.youtube.com/embed/OPqjL9AzmkE" allowfullscreen>
 <p>– "5" = "Very Healthy"</p>
 </li>
 <li>
-<p>If your <code>food</code> data is cleared from your <code>Environment</code>, the changes that you made to the <code>healthy_level</code> variable will not be saved.</p>
+<p>If your <code>food</code> data is cleared from your <em>Environment</em>, the changes that you made to the <code>healthy_level</code> variable will not be saved.</p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>To save your changes permanently save your <code>food</code> file as an <code>R</code> data file.</strong></span></p>
