@@ -20,11 +20,11 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * The data, as-is, is very messy and hard to interpret/analyze.
 
-    – <span style="color:midnightblue;">**Fill in the blank with the name of your imported data to format it:**</span>
+    – <span style="color:firebrick;">**(1) Fill in the blank with the name of your imported data to format it:**</span>
 
         timeuse <- timeuse_format( ______ )
 
-* This function formats/cleans the data so that each row represents a typical day for each student in the class
+* This function formats/cleans the data so that each row represents a typical day for each student in the class.
 
 * <span style="color:midnightblue;">**Hint: Search your *History* tab for the code to save your formatted ```timeuse``` data as an ```R``` data file (```.Rda```)**</span>
 
@@ -40,11 +40,11 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * Start by getting familiar with your ```timeuse``` data:
 
-    – <span style="color:firebrick;">**How many observations and variables are there?**</span>
+    – <span style="color:firebrick;">**(2) How many observations and variables are there?**</span>
 
-    – <span style="color:firebrick;">**What are the names of the variables?**</span>
+    – <span style="color:firebrick;">**(3) What are the names of the variables?**</span>
 
-    – <span style="color:firebrick;">**Which row represents YOUR *typical day*?**</span>
+    – <span style="color:firebrick;">**(4) Which row represents YOUR *typical day*?**</span>
 
 ###**How do we spend our time?**
 
@@ -52,10 +52,10 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – To do this, we'll perform a statistical investigation.
 
-* <span style="color:firebrick;">**State and answer two statistical investigative questions based on our *research question*.**</span>
+* <span style="color:firebrick;">**(5) State and answer two statistical investigative questions based on our *research question*.**</span>
 
-    – <span style="color:firebrick;">**Also, state one way in which your personal data is *typical* and one way that it *differs* from the rest of the class.**</span>
+* <span style="color:firebrick;">**(6) State one way in which your personal data is *typical* and one way that it *differs* from the rest of the class.**</span>
 
-* <span style="color:firebrick;">**Justify your answers by using appropriate statistical graphics and summary tables.**</span>
+* <span style="color:firebrick;">**(7) Justify your answers by using appropriate statistical graphics and summary tables.**</span>
 
-    – <span style="color:firebrick;">**If you subset your data, explain why and how it benefited your analysis.**</span>
+    – <span style="color:firebrick;">**(8) If you subset your data, explain why and how it benefited your analysis.**</span>
