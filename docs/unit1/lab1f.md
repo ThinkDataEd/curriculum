@@ -55,7 +55,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
         data(atu_dirty)
         View(atu_dirty)
 
-* <span style="color:firebrick;">**Just by viewing the data, what parts of our ATU data do you think need cleaning?**</span>
+* <span style="color:firebrick;">**(1) Just by viewing the data, what parts of our ATU data do you think need cleaning?**</span>
 
 ###**Description of ATU Variables**
 * The description of the actual variables:
@@ -86,7 +86,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:midnightblue;">**Use the example code and the variable information on the previous slide to rename the rest of the variables in ```atu_dirty```.**</span>
 
-* <span style="color:firebrick;">**Write down the  new names you chose for the rest of the variables in ```atu_dirty```.**</span>
+* <span style="color:firebrick;">**(2) Write down the  new names you chose for the rest of the variables in ```atu_dirty```.**</span>
 
     – Names should be short, contain no spaces and describe what the variable is related to. So use abbreviations to your heart's content.
 
@@ -115,7 +115,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * Look at the ```str```ucture of your data and the variable descriptions from a few slides back:
 
-    – <span style="color:firebrick;">**Write down the variables that should be *numeric* but are improperly coded as *strings* or *characters*.**</span>
+    – <span style="color:firebrick;">**(3) Write down the variables that should be *numeric* but are improperly coded as *strings* or *characters*.**</span>
 
 ###**Changing strings into numbers**
 * To fix this problem, we need to tell ```R``` to think of our *"numeric"* variables as numeric variables.
@@ -130,7 +130,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 * Notice: We started with a string, ```"3.14"```, but ```as.numeric``` was able to turn it back into a number.
 
 ###**Mutating in action**
-* Look at the variables you thought should be *numeric* and select one. Then fill in the blanks below to see how we can correctly code it as a number:
+* <span style="color:firebrick;">**(4) Look at the variables you thought should be *numeric* and select one. Then fill in the blanks below to see how we can correctly code it as a number:**</span>
 
         atu_cleaner <- mutate(atu_cleaner,
                 age = as.numeric(age),
@@ -153,11 +153,11 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – The individual categories are called *levels*.
 
-* To see the levels of ```sex``` and their counts *type*:
+* To see the levels of ```sex``` and their counts type:
 
         tally(~sex, data = atu_cleaner)
 
-* <span style="color:firebrick;">**Use similar code as we used above to write down the levels for the three factors in our data.**</span>
+* <span style="color:firebrick;">**(5) Use similar code as we used above to write down the levels for the three factors in our data.**</span>
 
 ###**A level by any other name...**
 * If we know that ```'01'``` means ```'Male'``` and ```'02'``` means ```'Female'``` then we can use the following code to recode the *levels* of *sex*.
@@ -166,7 +166,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
         atu_cleaner <- mutate(atu_cleaner, sex =
                 recode(sex,
-                    "01"="Male",
+                    "01" = "Male",
                     "02" = "Female"))
 
 * This code is definitely a bit of a mouthful. Let's break it down.
@@ -174,7 +174,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Allow me to explain**
 
     atu_cleaner <- mutate(atu_cleaner, sex =
-            recode(sex, "01"="Male",
+            recode(sex, "01" = "Male",
                 "02" = "Female"))
 
 * This code is saying:
@@ -206,8 +206,8 @@ Directions: Follow along with the slides, completing the questions in <span styl
     
     (3) Saves a copy of the cleaned data (see next slide).
 
-    * *NOTE: You can watch this video to learn about RScripts:*
-    <div align="right"><iframe width="560" height="315"
+* *NOTE: You can watch this video to learn about RScripts:*
+    <div align="center"><iframe width="560" height="315"
     src="https://www.youtube.com/embed/OPqjL9AzmkE" allowfullscreen>
     </iframe><br><a href="https://www.youtube.com/embed/OPqjL9Azmk">https://www.youtube.com/embed/OPqjL9Azmk</a></div>
 
@@ -234,24 +234,26 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * Look in your *Files* pane for the ```atu_clean.Rda``` file
 
-    – This is as permanent copy of your clean atu data
+    – This is as permanent copy of your clean atu data.
 
-    – To load the data onto your *Environment* click on the file
+    – To load the data onto your *Environment* click on the file.
 
-    – A pop-up window confirming the upload will appear
+    – A pop-up window confirming the upload will appear.
 
 ###**Flex your skills**
 * Now that you have learned some cleaning data basics, it’s time to revisit the ```food``` data.
+
+    – <span style="color:midnightblue;">**```Import``` your ```food``` data onto the *Environment* pane.**</span>
 
 * <span style="color:midnightblue;">**Run the code below:**</span>
 
         histogram(~calories | healthy_level, data = food)
 
-* <span style="color:midnightblue;">**Use the ```as.factor()``` function to convert ```healthy_level``` into a categorical variable and re-run the ```histogram``` function.**</span>
+* <span style="color:firebrick;">**(6) Use the ```as.factor()``` function to convert ```healthy_level``` into a categorical variable and re-run the ```histogram``` function.**</span>
 
     – Notice that the ```healthy_level``` categories are now numbers as opposed to tick-marks. This is an improvement but an even better solution would be to ```recode``` the categories.
 
-* <span style="color:midnightblue;">**Recode the ```healthy_level``` categories and re-run the ```histogram``` function.**</span>
+* <span style="color:firebrick;">**(7) Write and run code to ```recode``` the ```healthy_level``` categories and re-run the ```histogram``` function.**</span>
 
     – "1" = "Very Unhealthy"
 
@@ -263,6 +265,6 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – "5" = "Very Healthy"
 
-* If your ```food``` data is cleared from your ```Environment```, the changes that you made to the ```healthy_level``` variable will not be saved.
+* If your ```food``` data is cleared from your *Environment*, the changes that you made to the ```healthy_level``` variable will not be saved.
 
 * <span style="color:midnightblue;">**To save your changes permanently save your ```food``` file as an ```R``` data file.**</span>
