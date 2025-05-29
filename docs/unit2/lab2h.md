@@ -34,19 +34,19 @@ normally distributed.
 
 * The ```sd```, or **standard deviation**, is a measure of spread that's similar to the ```MAD```.
 
-* <span style="color:firebrick;">**Which part of the normal curve changes when the value of the ```mean``` changes?**</span>
+* <span style="color:firebrick;">**(1) Which part of the normal curve changes when the value of the ```mean``` changes?**</span>
 
-* <span style="color:firebrick;">**Which part of the normal curve changes when the value of the ```sd``` changes?**</span>
+* <span style="color:firebrick;">**(2) Which part of the normal curve changes when the value of the ```sd``` changes?**</span>
 
 * *Hint:* Try changing the ```mean``` and ```sd``` values in the ```plotDist``` function.
 
 
 ###**Finding normal distributions**
-* <span style="color:midnightblue;">**Load the ```cdc``` data and use the ```histogram``` function to answer the following:**</span>
+* <span style="color:midnightblue;">**Load the ```cdc``` data and answer the following:**</span>
 
-* <span style="color:firebrick;">**Think about the ```height``` and ```weight``` variables. Based on what you know about these variables, which of the variables do you think have distributions that will look like the normal distribution?**</span>
+* <span style="color:firebrick;">**(3) Think about the ```height``` and ```weight``` variables. Based on what you know about these variables, which of the variables do you think have distributions that will look like the normal distribution?**</span>
 
-    – <span style="color:firebrick;">**Make histograms of these variables. Which ones look like the normal
+    – <span style="color:firebrick;">**(4) Make histograms of these variables. Which ones look like the normal
     distribution?**</span>
 
     – *Hint:* To help answer this question, try including the option ```fit = "normal"``` in the
@@ -66,10 +66,10 @@ normally distributed.
 ###**On your own**
 * <span style="color:firebrick;">**For each of the following, determine which, if any, appear to be normally distributed. Explain your reasoning:**</span>
 
-    – <span style="color:firebrick;">**The difference in ```percentages``` between male and female survivors in a slasher film for 500 random shuffles.**</span>
+    – <span style="color:firebrick;">**(5) The difference in ```percentages``` between male and female survivors in a slasher film for 500 random shuffles.**</span>
 
-    – <span style="color:firebrick;">**The difference in ```median``` fares between survivors and non-survivors on the Titanic for 500 random shuffles.**</span>
+    – <span style="color:firebrick;">**(6) The difference in ```median``` fares between survivors and non-survivors on the Titanic for 500 random shuffles.**</span>
 
-    – <span style="color:firebrick;">**The difference in ```mean``` fares between survivors and non-survivors on the Titanic for 500 random shuffles.**</span>
+    – <span style="color:firebrick;">**(7) The difference in ```mean``` fares between survivors and non-survivors on the Titanic for 500 random shuffles.**</span>
 
 * Hint: Refer to Lab 2E and 2F.
