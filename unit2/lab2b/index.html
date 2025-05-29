@@ -5112,10 +5112,10 @@ and largest values.</p>
 <p>– To find these values, we can use the <code>min</code>, <code>max</code> or <code>range</code> functions. These functions use a similar syntax as the <code>mean</code> function.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Find and write down the <code>min</code> value and <code>max</code> value for your predominant color.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Find and write down the <code>min</code> value and <code>max</code> value for your predominant color.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Apply the <code>range</code> function to your predominant color and describe the output.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) Apply the <code>range</code> function to your predominant color and describe the output.</strong></span></p>
 <p>– The <em>range</em> of a variable is the difference between a variable’s smallest and largest value.</p>
 <p>– Notice, however, that our <code>range</code> function calculates the maximum and minimum values for a variable, but not the difference between them.</p>
 <p>– Later in this lab you will create a custom <code>Range</code> function that will calculate the difference.</p>
@@ -5129,22 +5129,22 @@ and largest values.</p>
 </li>
 <li>
 <p><em>Q1</em> and <em>Q3</em> are similar.</p>
-<p>– 25% of our data are smaller than <em>Q1</em>, 75% are larger.
-– 75% of our data are smaller than <em>Q3</em>, 25% are larger.</p>
+<p>– 25% of our data are smaller than <em>Q1</em>, 75% are larger.</p>
+<p>– 75% of our data are smaller than <em>Q3</em>, 25% are larger.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks to compute the value of <em>Q1</em> for your predominant color.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Fill in the blanks to compute the value of <em>Q1</em> for your predominant color.</strong></span></p>
 <pre><code>quantile(~____, data = ____, p = 0.25)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Use a similar line of code to calculate <em>Q3</em>, which is the value that's larger than 75% of our data.</strong></span>    </p>
+<p><span style="color:firebrick;"><strong>(4) Use a similar line of code to calculate <em>Q3</em>, which is the value that's larger than 75% of our data.</strong></span>    </p>
 </li>
 </ul>
 <h3 id="the-inter-quartile-range-iqr"><strong>The Inter-Quartile-Range (IQR)</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Make a <code>dotPlot</code> of your <em>predominant</em> color's scores. Make sure to include the <code>nint</code> option.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) Write and run code making a <code>dotPlot</code> of your <em>predominant</em> color's scores. Make sure to include the <code>nint</code> option.</strong></span></p>
 </li>
 <li>
 <p>Visually (don't worry about being super-precise):</p>
@@ -5153,8 +5153,8 @@ and largest values.</p>
 <ul>
 <li>Hint: You might consider using the <code>add_line(vline =  )</code> to add vertical lines at the quarter marks.</li>
 </ul>
-<p>– <span style="color:firebrick;"><strong>Write down the numbers that split the data up into these 4 pieces.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>How long is the interval of the middle two pieces?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(6) Write down the numbers that split the data up into these 4 pieces.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(7) How long is the interval of the middle two pieces?</strong></span></p>
 <p>– This length is the <strong>IQR</strong>.</p>
 </li>
 </ul>
@@ -5169,11 +5169,11 @@ and largest values.</p>
 quartiles to compute the <em>IQR</em>.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Use the values of <em>Q1</em> and <em>Q3</em> you calculated previously and find the <em>IQR</em> by hand.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Then use the <code>iqr()</code> function to calculate it for you.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Use the values of <em>Q1</em> and <em>Q3</em> you calculated previously and find the <em>IQR</em> by hand.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(9) Then write and run code using the <code>iqr()</code> function to calculate it for you.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which personality color score has the widest spread according to the <em>IQR</em>? Which is
+<p><span style="color:firebrick;"><strong>(10) Which personality color score has the widest spread according to the <em>IQR</em>? Which is
 narrowest?</strong></span>    </p>
 </li>
 </ul>
@@ -5184,11 +5184,11 @@ narrowest?</strong></span>    </p>
 the <strong>box and whisker</strong> plot, often shortened to just <strong>boxplot</strong>.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>By showing someone a <code>dotPlot</code>, how would you teach them to make a <em>boxplot</em>? Write out
+<p><span style="color:firebrick;"><strong>(11) By showing someone a <code>dotPlot</code>, how would you teach them to make a <em>boxplot</em>? Write out
 your explanation in a series of steps for the person to use.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Use the steps you write to create a sketch of a <em>boxplot</em> for your predominant
+<p>– <span style="color:firebrick;"><strong>(12) Use the steps you write to create a sketch of a <em>boxplot</em> for your predominant
 color's scores in your journal.</strong></span></p>
-<p>– <span style="midnightblue;"><strong>Then use the <code>bwplot</code> function to create a <em>boxplot</em> using <code>R</code>.</strong></span></p>
+<p>– <span style="firebrick;"><strong>(13) Then use the <code>bwplot</code> function to create a <em>boxplot</em> using <code>R</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="our-favorite-summaries"><strong>Our favorite summaries</strong></h3>
@@ -5198,7 +5198,7 @@ color's scores in your journal.</strong></span></p>
 <p>– Computing lots of different summaries can be tedious.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to compute some of our <em>favorite</em> summaries for your predominant color all
+<p><span style="color:firebrick;"><strong>(14) Fill in the blanks below to compute some of our <em>favorite</em> summaries for your predominant color all
 at once.</strong></span></p>
 <pre><code>favstats(~____, data=colors)
 </code></pre>
@@ -5213,7 +5213,7 @@ values for a variable, but not the difference between them.</p>
 <li>
 <p>We could calculate this difference in two steps:</p>
 <p>– Step 1: Use the <code>range</code> function to <code>assign</code> the max and min values of a variable the name
-<code>values</code>. This will store the output from the <code>range</code> function in the <em>environment</em> pane.</p>
+<code>values</code>. This will store the output from the <code>range</code> function in the <em>Environment</em> pane.</p>
 <pre><code>values &lt;- range(~____, data=colors)
 </code></pre>
 <p>– Step 2: Use the <code>diff</code> function to calculate the difference of <code>values</code>. The input for the <code>diff</code> function needs to be a vector containig two numeric values.</p>
@@ -5221,7 +5221,7 @@ values for a variable, but not the difference between them.</p>
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Use these two steps to calculate the <em>range</em> of your predominant color.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(15) Use these two steps to calculate the <em>range</em> of your predominant color.</strong></span></p>
 </li>
 </ul>
 <h3 id="introducing-custom-functions"><strong>Introducing custom functions</strong></h3>
@@ -5250,10 +5250,10 @@ calculate the absolute difference between the <code>mean</code> and <code>median
 </code></pre>
 <ul>
 <li>
-<p>The function takes two <em>generic</em> arguments: <code>variable</code> and <code>data</code></p>
+<p>The function takes two <em>generic</em> arguments: <code>variable</code> and <code>data</code>.</p>
 </li>
 <li>
-<p>It then follows the steps between the curly braces <code>{ }</code></p>
+<p>It then follows the steps between the curly braces <code>{ }</code>.</p>
 <p>– Each of the <em>generic</em> arguments is used inside the <code>mean</code> and <code>median</code> functions.</p>
 </li>
 <li>
@@ -5268,22 +5268,22 @@ calculate the absolute difference between the <code>mean</code> and <code>median
 <li>
 <p>After running the code used to create the function, we can use it just like we would any other
 numerical summary.</p>
-<p>– <span style="color:midnightblue;"><strong>In the <em>console</em>, fill in the blanks below to calculate the absolute difference between the
+<p>– <span style="color:firebrick;"><strong>(16) In the <em>console</em>, fill in the blanks below to calculate the absolute difference between the
 <code>mean</code> and <code>median</code> values of your predominant color:</strong></span></p>
 <pre><code>____(~____, data = ____)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which of the four colors has the largest absolute difference between the <code>mean</code> and <code>median</code>
+<p><span style="color:firebrick;"><strong>(17) Which of the four colors has the largest absolute difference between the <code>mean</code> and <code>median</code>
 values?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>By examining a <code>dotPlot</code> for this personality color, make an argument why either
+<p>– <span style="color:firebrick;"><strong>(18) By examining a <code>dotPlot</code> for this personality color, make an argument why either
 the <code>mean</code> or <code>median</code> would be the better description of the <em>center</em> of the data.</strong></span></p>
 </li>
 </ul>
 <h3 id="our-first-function"><strong>Our first function</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Using the previous example as a guide, create a function called <code>Range</code> (<em>note the capial 'R'</em>) that
+<p><span style="color:firebrick;"><strong>(19) Using the previous example as a guide, create a function called <code>Range</code> (<em>note the capial 'R'</em>) that
 calculates the <em>range</em> of a variable by filling in the blanks below:</strong></span></p>
 <pre><code>____ &lt;- function (____, ____) {
   values &lt;- range(____, data = ____)
@@ -5292,12 +5292,12 @@ calculates the <em>range</em> of a variable by filling in the blanks below:</str
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Use the <code>Range</code> function to find the personality color with the largest difference between the <code>max</code> and <code>min</code> values.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(20) Use the <code>Range</code> function to find the personality color with the largest difference between the <code>max</code> and <code>min</code> values.</strong></span></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
-<li><span style="color:midnightblue;"><strong>Create a function called <code>myIQR</code> that uses the <code>quantile</code> function to compute the
+<li><span style="color:firebrick;"><strong>(21) Create a function called <code>myIQR</code> that uses the <code>quantile</code> function to compute the
 middle 30% of the data.</strong></span></li>
 </ul>
 
