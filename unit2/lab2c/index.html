@@ -5097,10 +5097,10 @@ a total of 500 times.</p>
 selections will be rap?</em></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Why do we <em>put a song back</em> each time we make a selection?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Why do we <em>put a song back</em> each time we make a selection?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What would happen in our little experiment if we did not do this?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) What would happen in our little experiment if we did not do this?</strong></span></p>
 </li>
 </ul>
 <h3 id="calculating-probabilities"><strong>Calculating probabilities</strong></h3>
@@ -5149,10 +5149,10 @@ that playlist in <code>R</code>.</p>
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Look in the <code>Environment</code> pane for the vector containing your <code>rap</code> songs.</strong></span></p>
+<p><span style="color:midnightblue;"><strong>Look in the <em>Environment</em> pane for the vector containing your <code>rap</code> songs.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use a similar line of code to simulate the rock songs in our playlist of 100.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Write and run a similar line of code to simulate the <code>rock</code> songs in our playlist of 100.</strong></span></p>
 </li>
 </ul>
 <h3 id="put-the-songs-in-the-playlist"><strong>Put the songs in the playlist</strong></h3>
@@ -5162,7 +5162,7 @@ that playlist in <code>R</code>.</p>
 <p>– To do this, we can use the combine function <code>c()</code> in <code>R</code>.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks to combine your different songs:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(4) Fill in the blanks to combine your different songs:</strong></span></p>
 <pre><code>songs &lt;- __(rap, ____)
 </code></pre>
 </li>
@@ -5180,7 +5180,7 @@ that playlist in <code>R</code>.</p>
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Run this code 10 times and compute the proportion of <code>"rap"</code> songs you drew from the 10.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) Run this code 10 times and compute the proportion of <code>"rap"</code> songs you drew from the 10.</strong></span></p>
 <p>– Vocabulary Check: A <strong>proportion</strong> is a fraction of the whole.</p>
 <ul>
 <li>
@@ -5195,9 +5195,7 @@ that playlist in <code>R</code>.</p>
 </ul>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Once everyone in your class has computed their <em>proportions</em>, calculate the
-    <em>range</em> of <em>proportions</em> (the largest <em>proportion</em> minus the smallest <em>proportion</em>)
-    for your class and write it down.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) Once everyone in your class has computed their <em>proportions</em>, calculate the <em>range</em> of <em>proportions</em> (the largest <em>proportion</em> minus the smallest <em>proportion</em>) for your class and write it down.</strong></span></p>
 </li>
 </ul>
 <h3 id="now-do-it-some-more"><strong>Now do() it some more</strong></h3>
@@ -5205,7 +5203,7 @@ that playlist in <code>R</code>.</p>
 <li>
 <p>Instead of running the same line of code multiple times ourselves we can use <code>R</code> to <code>do()</code>
 multiple repetitions for us.</p>
-<p>– <span style="color:midnightblue;"><strong>Fill in the blanks below to <code>do</code> the <code>sample</code> code from the previous slide <em>50</em> times:</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(7) Fill in the blanks below to <code>do</code> the <code>sample</code> code from the previous slide <em>50</em> times:</strong></span></p>
 <pre><code>do(___) * sample(___, ___ = ___, ___ = ___)
 </code></pre>
 </li>
@@ -5213,22 +5211,22 @@ multiple repetitions for us.</p>
 <p>Recall that we need to store our results to be able to perform analysis.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong><em>Assign</em> the 50 selected songs the name <code>draws</code> and then <code>View</code> your file.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Write and run code <em>assigning</em> the 50 selected songs the name <code>draws</code> and then <code>View</code> your file.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What is the variable name?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) What is the variable name?</strong></span></p>
 <ul>
-<li><code>R</code> defaulted to naming the variable based on the function used. You may use the data cleaning skills you learned in lab 1F to <code>rename</code> the variable if you wish.</li>
+<li><code>R</code> defaulted to naming the variable based on the function used. You may use the data cleaning skills you learned in Lab 1F to <code>rename</code> the variable if you wish.</li>
 </ul>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blank below to <code>tally</code> how often each genre was selected:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(10) Fill in the blank below to <code>tally</code> how often each genre was selected:</strong></span></p>
 <pre><code>tally(~___, data = draws)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Compute the proportion of <code>"rap"</code> songs for your 50 draws and find out if the <em>range</em> for
-your class' proportions is bigger or smaller than when we drew 10 songs.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(11) Compute the proportion of <code>"rap"</code> songs for your 50 draws and find out if the <em>range</em> for
+your class's proportions is bigger or smaller than when we drew 10 songs.</strong></span></p>
 </li>
 </ul>
 <h3 id="proportions-vs-probability"><strong>Proportions vs. Probability</strong></h3>
@@ -5244,8 +5242,7 @@ it back in the playlist.</p>
 <p>These proportions are all <em>estimates</em> of the theoretical probability of choosing a rap song
 from a playlist.</p>
 <p>– As we increase the number of draws, the <em>range</em> of proportions should shrink.</p>
-<p><em>When using simulations to estimate probabilities, using a large number of repeats is better because the
-estimates have less variability and so we can be confident we're closer to the actual value.</em></p>
+<p><em>When using simulations to estimate probabilities, using a large number of repeats is better because the estimates have less variability and so we can be confident we're closer to the actual value.</em></p>
 </li>
 </ul>
 <h3 id="non-random-randomness"><strong>Non-random Randomness</strong></h3>
@@ -5274,12 +5271,12 @@ sample(songs, size = 1, replace = TRUE)
 songs.</strong></span></p>
 <p>– Both partners should run <code>set.seed(___)</code> just before simulating the 50 draws.</p>
 <p>– The blank in <code>set.seed(___)</code> should be the same number for both partners.</p>
-<p>– <span style="color:firebrick;"><strong>What value of <code>set.seed</code> did you and your partner use and what was the proportion of <code>"rap"</code> songs you obtained?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(12) What value of <code>set.seed</code> did you and your partner use and what was the proportion of <code>"rap"</code> songs you obtained?</strong></span></p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Redo the 50 simulations one last time but have each partner choose a different number for
 <code>set.seed(___)</code>.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Are the proportions still the same? If so, can you find two different values for
+<p>– <span style="color:firebrick;"><strong>(13) Are the proportions still the same? If so, can you find two different values for
 <code>set.seed</code> that give different answers?</strong></span></p>
 </li>
 </ul>
@@ -5291,12 +5288,11 @@ Friday, 600 went to the park and the rest read at home.</p>
 <p><em>If we select a student at random, what is the probability that this student is one of those who went to the movies last Friday?</em></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Answer this by estimating the probability that a randomly chosen student went to the
+<p><span style="color:firebrick;"><strong>(14) Answer this by estimating the probability that a randomly chosen student went to the
 movies using 500 simulations.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Write down both the estimated probability and the code you used to compute
-your estimate. You might find it helpful to write your answer in an R Script
+<p>– <span style="color:firebrick;"><strong>(15) Write down both the code and the output that estimates the probability that a randomly chosen student went to the movies using 500 simulations. You might find it helpful to write your answer in an R Script
 <em>(File -&gt; New File -&gt; R Script)</em> </strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Include <code>set.seed(123)</code> in your code before you do 500 repeated samples.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>Include <code>set.seed(123)</code> in your code before you <code>do</code> 500 repeated samples.</strong></span></p>
 </li>
 </ul>
 
