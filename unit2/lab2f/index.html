@@ -4988,48 +4988,47 @@ numerical summaries.</p>
 <p>– At the time, it was claimed that the Titanic was <em>unsinkable</em> ... it wasn't ... because it did.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>data</code> function to load the <code>titanic</code> passenger and survival data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Write and run code using the <code>data</code> function to load the <code>titanic</code> passenger and survival data.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a boxplot of the <code>fare</code>s paid by passengers and facet the plot based on whether the
+<p><span style="color:firebrick;"><strong>(2) Write and run code creating a boxplot of the <code>fare</code>s paid by passengers and facet the plot based on whether the
 passenger survived or not.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Based on the plot, do you believe that passengers who paid a higher fare on the Titanic were more likely to survive? Explain why and describe how certain you are of being correct.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(3) Based on the plot, do you believe that passengers who paid a higher fare on the Titanic were more likely to survive? Explain why and describe how certain you are of being correct.</strong></span></p>
 </li>
 </ul>
 <h3 id="the-search-begins"><strong>The search begins!</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Start your analysis by calculating how much more the <em>typical</em> survivor paid than the <em>typical</em> non-survivor
-in our data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(4) Write and run code to visualize the distribution of fares paid.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Based on the distributions of fares paid, which numerical summary that describes the <em>typical</em> value might be preferred?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) Which numerical summary might be preferred to describe the <em>typical</em> value?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What was the <em>typical</em> fare paid by survivors? Non-survivors? How much more did the typical survivor pay?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) What was the <em>typical</em> fare paid by survivors? Non-survivors? How much more did the typical survivor pay?</strong></span></p>
 </li>
 </ul>
 <h3 id="do-the-shuffle"><strong>Do the shuffle!</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>do</code> and the <code>shuffle</code> functions to shuffle the passenger's survival status 500 times.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) Write and run code using the <code>do</code> and the <code>shuffle</code> functions to <code>shuffle</code> the passenger's survival status 500 times.</strong></span></p>
 <p>– Use the previous lab if you need some help on how to do this.</p>
 <p>– For each shuffle, compute each group's <code>median</code> fare paid.</p>
-<p>– <code>Assign</code> your shuffled data the name <code>shuffled_survival</code>.</p>
+<p>– Assign your shuffled data the name <code>shuffled_survival</code>.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>After shuffling your data, use the <code>mutate</code> function to create a variable called <em>diff</em> which is the <code>median</code> fare of survivors minus the <code>median</code> fare of non-survivors.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) After shuffling your data, write and run code using the <code>mutate</code> function to create a variable called <code>diff</code> which is the <code>median</code> fare of survivors minus the <code>median</code> fare of non-survivors.</strong></span></p>
 <p>– Assign your mutated data the name <code>shuffled_survival</code> again.</p>
 </li>
 </ul>
 <h3 id="put-your-simulations-to-use"><strong>Put your simulations to use</strong></h3>
 <ul>
 <li>
-<p><span style="color:firebrick;"><strong>By using your shuffled data, answer the research question we posed at the beginning of the lab.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) Using your shuffled data, answer the research question we posed at the beginning of the lab.</strong></span></p>
 <p><em>Is there any evidence to suggest that those who survived paid a higher fare than those who died?</em></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Write up your answer as a statistical analysis. Create a plot and explain how the plot supports your conclusion. Be sure to also explain why shuffling your data is important.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(10) Write up your answer as a statistical analysis. Create a plot and explain how the plot supports your conclusion. Be sure to also explain why shuffling your data is important.</strong></span></p>
 </li>
 </ul>
 <h3 id="comparing-mean-fares"><strong>Comparing Mean Fares</strong></h3>
@@ -5038,15 +5037,15 @@ in our data.</strong></span></p>
 <p>What about if instead of calculating the median fare price for each group after a shuffle, we calculated the mean fare price and took the difference (mean_survivor – mean_victim)?</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>If we did this 500 times, what do you predict the distribution of differences will look like?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(11) If we did this 500 times, what do you predict the distribution of differences will look like?</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>do</code> and the <code>shuffle</code> functions to shuffle the passenger’s survival status 500 times.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(12) Write and run code using the <code>do</code> and the <code>shuffle</code> functions to shuffle the passenger survival status 500 times.</strong></span></p>
 <p>– For each shuffle, compute each group’s mean fare paid.</p>
 <p>– After shuffling your data, use the <code>mutate</code> function to create a variable called <code>diff</code> which is the mean fare of survivors minus the mean fare of non-survivors.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What does the shuffled data reveal? Does the answer to the research question below change when using the mean fares instead of the median fares?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(13) What does the shuffled data reveal? Does the answer to the research question below change when using the mean fares instead of the median fares?</strong></span></p>
 <p><em>Is there any evidence to suggest that those who survived paid a higher fare than those who died?</em></p>
 </li>
 </ul>
