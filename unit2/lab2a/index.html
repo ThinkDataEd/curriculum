@@ -5034,18 +5034,10 @@ answered by calculating the mean, median and MAD.</p>
 <ul>
 <li>
 <p>When we make plots of our data, we usually want to know:</p>
-</li>
-<li>
-<p>Where is the <em>bulk</em> of the data?</p>
-</li>
-<li>
-<p>Where is the data more <em>sparse</em>, or <em>thin</em>?</p>
-</li>
-<li>
-<p>What values are <em>typical</em>?</p>
-</li>
-<li>
-<p>How much does the data <em>vary</em>?</p>
+<p>– Where is the <em>bulk</em> of the data?</p>
+<p>– Where is the data more <em>sparse</em>, or <em>thin</em>?</p>
+<p>– What values are <em>typical</em>?</p>
+<p>– How much does the data <em>vary</em>?</p>
 </li>
 <li>
 <p>To answer these questions, we want to look at the <em>distribution</em> of our data.</p>
@@ -5061,24 +5053,24 @@ answered by calculating the mean, median and MAD.</p>
 </li>
 <li>
 <p>Before analyzing a new dataset, it's often helpful to get familiar with it. So:</p>
-<p>– <span style="color:firebrick;"><strong>Write down the <code>names</code> of the 4 variables that contain the point-totals, or
+<p>– <span style="color:firebrick;"><strong>(1) Write down the <code>names</code> of the 4 variables that contain the point-totals, or
 <em>scores</em>, for each personality color.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Write down the <code>names</code> of the variables that tell us an observation's introvert/extrovert designation and whether they are involved in <em>sports</em>.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>How many variables are in the dataset?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>How many observations are in the dataset?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(2) Write down the <code>names</code> of the variables that tell us an observation's introvert/extrovert designation and whether they are involved in <em>sports</em>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(3) How many variables are in the dataset?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(4) How many observations are in the dataset?</strong></span></p>
 </li>
 </ul>
 <h3 id="estimating-centers"><strong>Estimating centers</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a <code>dotPlot</code> of the scores for your <em>predominant color</em>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) Write and run code creating a <code>dotPlot</code> of the scores for your <em>predominant color</em>.</strong></span></p>
 <p>– Pro-tip: If the <code>dotPlot</code> comes out looking wonky, include the <code>nint</code> and <code>cex</code> options. </p>
 </li>
 <li>
 <p>Based on your <code>dotPlot</code>:</p>
-<p>– <span style="color:firebrick;"><strong>Which values came up the most frequently? About how many people in your
+<p>– <span style="color:firebrick;"><strong>(6) Which values came up the most frequently? About how many people in your
 class had a score similar to yours?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>What, would you say, was a <em>typical</em> score for a person in your class for your
+<p>– <span style="color:firebrick;"><strong>(7) What, would you say, was a <em>typical</em> score for a person in your class for your
 predominant color? How does your own score for this color compare?</strong></span></p>
 </li>
 </ul>
@@ -5088,13 +5080,13 @@ predominant color? How does your own score for this color compare?</strong></spa
 <p><em>Means</em> and <em>medians</em> are usually good ways to describe the <em>typical</em> value of our data.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blank to calculate the <code>mean</code> value of your predominant color score:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Fill in the blank to calculate the <code>mean</code> value of your predominant color score:</strong></span></p>
 <pre><code>mean(~____, data = colors)
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use a similar line of code to calculate the <code>median</code> value of <em>your</em> predominant color.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Are the <code>mean</code> and <code>median</code> roughly the same? If not, use the <code>dotPlot</code> you made
+<p><span style="color:firebrick;"><strong>(9) Write and run a similar line of code to calculate the <code>median</code> value of <em>your</em> predominant color.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(10) Are the <code>mean</code> and <code>median</code> roughly the same? If not, use the <code>dotPlot</code> you made
 in the last slide to describe why.</strong></span></p>
 </li>
 </ul>
@@ -5107,50 +5099,50 @@ how closely the rest of the data are to this <em>typical</em> value.</p>
 <p>– Variability is seen in a <code>histogram</code> or <code>dotPlot</code> as the horizontal <em>spread</em>.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Re-create a <code>dotPlot</code> of the scores for your <em>predominant</em> color and then run the code below filling in the blank with the name of your predominant color:</strong></span>    </p>
+<p><span style="color:firebrick;"><strong>(11) Write and run code re-creating a <code>dotPlot</code> of the scores for your <em>predominant</em> color and then write and run the code below filling in the blank with the name of your predominant color:</strong></span>    </p>
 <pre><code>add_line(vline = mean(~____, data = colors))
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Look at the spread of the scores from the mean score then complete the sentence below:</strong></span></p>
-<p><em>Data points in my plot will usually fall within <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> units of the center.</em></p>
+<p><span style="color:firebrick;"><strong>(12) Look at the spread of the scores from the mean score then complete the sentence below:</strong></span></p>
+<p>– <span style="color:firebrick;">Data points in my plot will usually fall within <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> units of the center.</span></p>
 </li>
 </ul>
 <h3 id="mean-absolute-deviation"><strong>Mean Absolute Deviation</strong></h3>
 <ul>
 <li>
 <p>The <strong>mean absolute deviation</strong> finds how far away, on average, the data are from the mean.</p>
-<p>– We often write <em>mean absolute deviation</em> as <em>MAD.</em></p>
+<p>– We often write <em>mean absolute deviation</em> as <em>MAD</em>.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Calculate the MAD of your <em>predominant color</em> by filling in the blanks:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(13) Write and run code calculating the MAD of your <em>predominant color</em> by filling in the blank:</strong></span></p>
 <pre><code>MAD(~_____, data = colors)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How close was your estimate of the spread for your predominant color (from the previous slide) to the actual value?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(14) How close was your estimate of the spread for your predominant color (from the previous slide) to the actual value?</strong></span></p>
 </li>
 </ul>
 <h3 id="comparing-introvertsextroverts"><strong>Comparing introverts/extroverts</strong></h3>
 <ul>
 <li>
 <p>Do introverts and extroverts differ in their typical scores for your predominant color?</p>
-<p>– Answer this investigative question using a dotPlot and numerical summaries.</p>
+<p>– Answer this investigative question using a <code>dotPlot</code> and numerical summaries.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Make a <code>dotPlot</code> of your predominant color again; but this time, facet the plot by the introvert/extrovert variable. Include the <code>layout</code> option to stack the plots as well as the <code>nint</code> and <code>cex</code> options.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(15) Write and run code making a <code>dotPlot</code> of your <em>predominant color</em> again; but this time, facet the plot by the introvert/extrovert variable. Include the <code>layout</code> option to stack the plots as well as the <code>nint</code> and <code>cex</code> options.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Describe the shape of the distribution of scores for the extroverts. Do the same for the introverts.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(16) Describe the shape of the distribution of scores for the extroverts. Do the same for the introverts.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Using similar syntax to how you facet plots, calculate either the <code>mean</code> or <code>median</code> to describe the <em>center</em> of your predominant color for introverts and extroverts.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(17) Using similar syntax to how you facet plots, write and run code <em>calculating</em> either the <code>mean</code> or <code>median</code> to describe the <em>center</em> of your predominant color for introverts and extroverts.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Do introverts and extroverts differ in their typical scores for your predominant color?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(18) Do introverts and extroverts differ in their typical scores for your predominant color?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Based on the MAD, which group (introverts or extroverts) has more variability for your predominant color’s scores?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(19) Based on the MAD, which group (introverts or extroverts) has more variability for your predominant color’s scores?</strong></span></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
@@ -5158,7 +5150,7 @@ how closely the rest of the data are to this <em>typical</em> value.</p>
 <li>
 <p>Do introverts and extroverts in your class differ in their color scores?</p>
 <p>– <span style="color:midnightblue;"><strong>Perform an analysis that produces <em>numerical summaries</em> and <em>graphs</em>.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Then, write a few sentence interpretations that addresses this statistical investigative question and considers the <em>shape</em>, <em>center</em> and <em>spread</em> of the distributions of
+<p>– <span style="color:firebrick;"><strong>(20) Then, write a few sentences that address this statistical investigative question and considers the <em>shape</em>, <em>center</em> and <em>spread</em> of the distributions of
 the graphs you create.</strong></span></p>
 </li>
 </ul>
