@@ -5068,7 +5068,7 @@ survive until the end of the film than men?</em></p>
 occurs by chance.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>To begin, use the <code>data</code> function to load the <code>slasher</code> data file.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) To begin, write and run code using the <code>data</code> function to load the <code>slasher</code> data file.</strong></span></p>
 <p>– The data contains information about 485 characters from a random sample of 50
 <em>slasher</em> horror films.</p>
 </li>
@@ -5077,12 +5077,12 @@ occurs by chance.</p>
 <ul>
 <li>
 <p>To familiarize yourself with the data, answer the following:</p>
-<p>– <span style="color:firebrick;"><strong>How many variables and observations are contained in the data and what are
+<p>– <span style="color:firebrick;"><strong>(2) How many variables and observations are contained in the data and what are
 the possible values of the variables?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Which gender had more survivors? Write down a few sentences as to how
+<p>– <span style="color:firebrick;"><strong>(3) Which gender had more survivors? Write down a few sentences as to how
 you came to your conclusion. Be sure to look at both the <em>counts</em> and
 <em>percentages</em> of survivors in each group before deciding.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Calculate the difference between the percentage of females who survived and
+<p>– <span style="color:firebrick;"><strong>(4) Calculate the difference between the percentage of females who survived and
 the percentage of males who survived. Is the difference large enough to
 conclude that women tend to survive more often than men?</strong></span></p>
 </li>
@@ -5102,7 +5102,7 @@ tally(~survival | gender, data = slasher, margin = TRUE)
 <p>The other takes the group of <em>females / males</em> and tells us how many of them <code>Dies</code> or <code>Survives</code>.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>The last question on the previous slide can be answered using the line of code below. Why?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) The last question on the previous slide can be answered using the line of code below. Why?</strong></span></p>
 <p>– Pro-tip: Include the option <code>format = "percent"</code> to obtain a two-way table with percentages.</p>
 <pre><code>    tally(~survival | gender, format = "percent", data = slasher, margin = TRUE)
 
@@ -5132,12 +5132,12 @@ random shuffling.</p>
 <ul>
 <li>
 <p>When we shuffle data, we use our original dataset as a starting point.</p>
-<p>– <span style="color:firebrick;"><strong>Run the following and write down the resulting table on a piece of paper.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(6) Run the following and write down the resulting table on a piece of paper.</strong></span></p>
 <pre><code>tally(~survival | gender, data = slasher)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Now run the following to randomly reassign each <code>survival</code> status to each observation.
+<p><span style="color:firebrick;"><strong>(7) Now run the following to randomly reassign each <code>survival</code> status to each observation.
 Compare the resulting table to the one you wrote down.</strong></span></p>
 <pre><code>tally(~shuffle(survival) | gender, data = slasher)
 </code></pre>
@@ -5146,17 +5146,17 @@ Compare the resulting table to the one you wrote down.</strong></span></p>
 <h3 id="lets-compare"><strong>Let's compare ...</strong></h3>
 <ul>
 <li>
-<p><span style="color:firebrick;"><strong>How many people, in total, survived the slasher film before shuffling? How many
+<p><span style="color:firebrick;"><strong>(8) How many people, in total, survived the slasher film before shuffling? How many
 people survived after shuffling?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How has shuffling our data changed the percentage of women who survived
+<p><span style="color:firebrick;"><strong>(9) How has shuffling our data changed the percentage of women who survived
 compared to men who survived?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Is the difference in percentages from your shuffled data larger or smaller than
+<p>– <span style="color:firebrick;"><strong>(10) Is the difference in percentages from your shuffled data larger or smaller than
 the difference from the original data? Interpret what this means.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Explain why shuffling our data one time is not enough to decide if the difference seen
+<p><span style="color:firebrick;"><strong>(11) Explain why shuffling our data one time is not enough to decide if the difference seen
 in our <em>actual</em> data occurs by chance or not.</strong></span></p>
 </li>
 </ul>
@@ -5179,13 +5179,13 @@ View(shuffled_outcomes)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>In how many simulations did a higher percentage of males survive than females?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(12) In how many simulations did a higher percentage of males survive than females?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What is the largest difference in percentages of survival between males and females?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(13) What is the largest difference in percentages of survival between males and females?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What patterns are emerging from these simulations?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(14) What patterns are emerging from these simulations?</strong></span></p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Ten simulations is not enough. Use the code above and perform 500 shuffles. <code>Assign</code> your 500 shuffles the same name <code>shuffled_outcomes</code>. Use <code>set.seed(1)</code>.</strong></span></p>
@@ -5199,7 +5199,7 @@ to the differences in our shuffled data.</p>
 </li>
 <li>
 <p>To compute the differences for each shuffle we can use the <code>mutate</code> function.</p>
-<p>– <span style="color:midnightblue;"><strong>Fill in the blanks to add a new column that contains the difference between <code>Survives.Female</code> and
+<p>– <span style="color:midnightblue;"><strong>(15) Fill in the blanks to add a new column that contains the difference between <code>Survives.Female</code> and
 <code>Survives.Male</code> to our <code>shuffled_outcomes</code> data.</strong></span></p>
 <pre><code>    shuffled_outcomes &lt;- mutate(shuffled_outcomes, diff = ____ - ____)
 </code></pre>
@@ -5208,8 +5208,8 @@ to the differences in our shuffled data.</p>
 <h3 id="time-to-decide"><strong>Time to decide</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a <code>histogram</code> of the <code>difference</code>s in our <code>shuffled_outcomes</code> data. Based on your plot, answer the following:</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>What was the typical difference in percentages between men and women survivors?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(16) Write and run code creating a <code>histogram</code> of the <code>difference</code>s in our <code>shuffled_outcomes</code> data. Based on your plot, answer the following:</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(17) What was the typical difference in percentages between men and women survivors?</strong></span></p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Include a vertical line in your histogram of the actual difference by running the code below:</strong></span>    </p>
@@ -5217,33 +5217,31 @@ to the differences in our shuffled data.</p>
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Does the actual difference occur very often by chance alone?</strong></span>        </p>
+<p><span style="color:firebrick;"><strong>(18) Does the actual difference occur very often by chance alone?</strong></span>        </p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Does <code>gender</code> play a role in whether or not a character will survive in a horror film?
+<p><span style="color:firebrick;"><strong>(19) Does <code>gender</code> play a role in whether or not a character will survive in a slasher film?
 Explain your reasoning.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>If you wanted to survive in a horror film, would you want to play a female character or
+<p><span style="color:firebrick;"><strong>(20) If you wanted to survive in a slasher film, would you want to play a female character or
 a male character?</strong></span></p>
 </li>
 </ul>
 <h3 id="summary"><strong>Summary</strong></h3>
 <ul>
 <li>
-<p>By shuffling the <code>survival</code> label, we made it so that the proportion of males and females
-who survived the slasher film was random.</p>
+<p>By shuffling the <code>survival</code> label, we made the proportion of males and females
+who survived the slasher film random.</p>
 <p>– The males and females survived by chance alone.</p>
 </li>
 <li>
-<p>If surviving the film occurred purely by chance, then most of the time the difference in
-survival proportions was close to zero.</p>
+<p>If surviving the film occurred purely by chance, most of the time the difference in
+survival proportions would be close to zero.</p>
 <p>– Notice how most values in the histogram occur close to zero.</p>
 </li>
 <li>
-<p>When we look to see how often our actual difference occurs in our shuffled data, if the
-actual difference doesn't occur very often then perhaps there is something more going on
-than just chance alone ...</p>
+<p>When we look to see how often our actual difference occurs in our shuffled data, if the actual difference doesn’t occur very often then perhaps there is something more going on than just chance alone ...</p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
@@ -5255,13 +5253,11 @@ than just chance alone ...</p>
 reproducible.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Does shuffling the <code>gender</code> variable instead of the <code>survival</code> variable change your
+<p><span style="color:firebrick;"><strong>(21) Does shuffling the <code>gender</code> variable instead of the <code>survival</code> variable change your
 answer to the question?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Does <code>gender</code> play a role in whether or not a character will
-survive in a horror film?* </strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Why or why not?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(22) Does <code>survival</code> play a role in a character's <code>gender</code>? Why or why not?</strong></span></p>
 </li>
 </ul>
 
