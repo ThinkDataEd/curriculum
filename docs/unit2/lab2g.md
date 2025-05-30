@@ -36,7 +36,7 @@ add them to the end of the other dataset's columns based on matching an *ID* var
 
     – The *ID* variable will have entries that we use to *match* observations in both datasets.
 
-* <span style="color:firebrick;">**To answer the research question, would it make more sense to *stack* or *join*
+* <span style="color:firebrick;">**(1) To answer the research question of interest, would it make more sense to *stack* or *join*
 our ```colors``` and ```stress``` data?**</span>
 
 ###**Finding variables in common:**
@@ -44,9 +44,9 @@ our ```colors``` and ```stress``` data?**</span>
 
     – To merge different datasets together, we need to find variables they have in common.
 
-* <span style="color:firebrick;">**Which variables do the datasets have in common?**</span>
+* <span style="color:firebrick;">**(2) Which variables do the datasets have in common?**</span>
 
-* <span style="color:firebrick;">**Which variable would make sense to merge the datasets together with? Why not the others?**</span>
+* <span style="color:firebrick;">**(3) Which variable would make sense to merge the datasets together with? Why not the others?**</span>
 
 ###**Caution required**
 * Whether *stacking* or *joining*, we need to be careful when we merge data:
@@ -69,14 +69,14 @@ the exact same measurements.
 
     – <span style="color:midnightblue;">**If there's a duplicate, have your teacher remove the duplicate from your class's Web Response Manager and then re-*export*, *upload*, *import* your ```colors``` data.**</span>
 
-* <span style="color:firebrick;">**After we add the data from *colors* to *stress*, how many rows should our merged data
+* <span style="color:firebrick;">**(4) After we add the data from *colors* to *stress*, how many rows should our merged data
 have? Write this number down.**</span>
 
 ###**Putting them together**
 * We can use the ```merge``` function to *join* our datasets together using the variables that appear in
 both sets.
 
-* <span style="color:midnightblue;">**Fill in the blanks below to join the information from the ```colors``` data onto the ```stress``` data.**</span>
+* <span style="color:firebrick;">**(5) Fill in the blanks below to join the information from the ```colors``` data onto the ```stress``` data.**</span>
 
         merge(____, ____, by = "____")
 
@@ -88,9 +88,9 @@ both sets.
 ###**Saving your data:**
 * <span style="color:midnightblue;">**```View``` your merged data and make sure nothing appears to be blatantly wrong with it.**</span>
 
-* <span style="color:firebrick;">**Why didn't we stack the rows of data instead?**</span>
+* <span style="color:firebrick;">**(6) Why didn't we stack the rows of data instead?**</span>
 
-* <span style="color:firebrick;">**What happens if you swap the order of the datasets in the ```merge``` function?**</span>
+* <span style="color:firebrick;">**(7) What happens if you swap the order of the datasets in the ```merge``` function?**</span>
 
 * <span style="color:midnightblue;">**Use the code below to ```save``` our ```stress_colors``` data for later use.**</span>
 
@@ -101,9 +101,9 @@ both sets.
 ###**Moving on**
 * In the next lab, we'll begin analyzing our merged data. In the meantime:
 
-* <span style="color:midnightblue;">**Make a few plots using variables from the ```stress``` data and *facet* or *group* the plots based on variables from the ```colors``` data.**</span>
+* <span style="color:firebrick;">**(8) Make a few plots using variables from the ```stress``` data and *facet* or *group* the plots based on variables from the ```colors``` data.**</span>
 
-    – <span style="color:firebrick;">**Write down the most interesting discovery you make by just exploring your data. Write out how you found your discovery and interpret what it means for the
+    – <span style="color:firebrick;">**(9) Write down the most interesting discovery you make by just exploring your data. Write out how you found your discovery and interpret what it means for the
     people in your class.**</span>
 
-* <span style="color:firebrick;">**With our *colors* data, we could answer questions about the *typical* color scores in your class. Why can we no longer answer this question in our ```stress_colors``` data?**</span>
+* <span style="color:firebrick;">**(10) With our ```colors``` data, we could answer questions about the *typical* color scores in your class. Why can we no longer answer this question in our ```stress_colors``` data?**</span>
