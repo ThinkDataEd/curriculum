@@ -30,25 +30,25 @@ it into two distinct sets.
 
 * <span style="color:midnightblue;">**Split the ```arm_span``` data into ```training``` and ```test``` sets using the following two steps.**</span>
 
-* <span style="color:midnightblue;">**First, fill in the blanks below to randomly select which rows of ```arm_span``` will go into the ```training``` set.**</span>
+* <span style="color:firebrick;">**(1) First, fill in the blanks below to randomly select which rows of ```arm_span``` will go into the ```training``` set.**</span>
 
         set.seed(123)
-        train_rows <- sample(1:____, size = 85)
+        training_rows <- sample(1:____, size = 68)
 
-* <span style="color:midnightblue;">**Second, use the ```slice``` function to create two dataframes: one called ```train``` consisting of the ```train_rows```, and another called ```test``` consisting of the remaining rows of ```arm_span```.**</span>
+* <span style="color:firebrick;">**(2) Second, use the ```slice``` function to create two dataframes: one called ```training``` consisting of the ```training_rows```, and another called ```test``` consisting of the remaining rows of ```arm_span```.**</span>
 
-        train <- slice(arm_span, ____)
+        training <- slice(arm_span, ____)
         test <- slice(____, - ____)
 
-* <span style="color:firebrick;">**Explain these lines of code and describe the ```train``` and ```test``` datasets.**</span>
+* <span style="color:firebrick;">**(3) Explain these lines of code and describe the ```training``` and ```test``` datasets.**</span>
 
 ###**Aside: set.seed()**
-* When we split data, we're randomly separating our observations into *training* and *testing*
+* When we split data, we're randomly separating our observations into *training* and *test*
 sets.
 
     – It's important to notice that no single observation will be placed in both sets.
 
-* Because we're splitting the data sets randomly, our models can also vary slightly,
+* Because we're splitting the datasets randomly, our models can also vary slightly,
 person-to-person.
 
     – This is why it's important to use ```set.seed```.
@@ -56,20 +56,20 @@ person-to-person.
 * By using ```set.seed```, we're able to reproduce the random splitting so that each person's
 model outputs the same results.
 
-    *Whenever you split data into training and testing, always use ```set.seed``` first.*
+    *Whenever you split data into training and test, always use ```set.seed``` first.*
 
-###**Aside: train-test ratio**
-* When splitting data into *training* and *testing* sets, we need to have enough observations in
+###**Aside: training-test ratio**
+* When splitting data into *training* and *test* sets, we need to have enough observations in
 our data so that we can build a good model.
 
-    – This is why we kept 85 observations in our ```training``` data.
+    – This is why we kept 68 observations in our ```training``` data.
 
 * As datasets grow larger, we can use a larger proportion of the data to ```test``` with.
 
-###**Step 2: train the model**
+###**Step 2: training the model**
 * Step 2 is to create a linear model relating ```height``` and ```armspan``` using the ```training``` data.
 
-* <span style="color:midnightblue;">**Fit a line of best fit model to our ```training``` data and assign it the name ```best_train```.**</span>
+* <span style="color:firebrick;">**(4) Write and run code fitting a line of best fit model to our ```training``` data and assign it the name ```best_training```.**</span>
 
 * Recall that the slope and intercept of our linear model are chosen to minimize MSE.
 
@@ -83,22 +83,22 @@ our data so that we can build a good model.
 * Because we're using the *line of best fit*, we can use the ```predict()``` function we introduced in
 the [last lab](lab4b.md) to make predictions.
 
-    – <span style="color:midnightblue;">**Fill in the blanks below to add predicted heights to our ```test``` data:**</span>
+    – <span style="color:firebrick;">**(5) Fill in the blanks below to add predicted heights to our ```test``` data:**</span>
 
-        test <- mutate(test, ____ = predict(best_train, newdata = ____))
+    – Hint: the ```predict``` function without the argument ```newdata``` will output predictions on the ```training``` data. To output predictions on the ```test``` data, supply the ```test``` data to the ```newdata``` argument.
 
-* Hint: the ```predict``` function without the argument ```newdata``` will output predictions on the ```training``` data. To output predictions on the ```test``` data, supply the ```test``` data to the ```newdata``` argument.
+        test <- mutate(test, ____ = predict(best_training, newdata = ____))
 
-* <span style="color:midnightblue;">**Calculate the *test MSE* in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).**</span>
+* <span style="color:firebrick;">**(6) Calculate the *test MSE* in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).**</span>
 
 ###**Recap**
 * Another way to describe the three steps is
 
-    - Step 1: Split the data into ```training``` and ```test``` sets.
+    – Step 1: Split the data into ```training``` and ```test``` sets.
 
-    - Step 2: Choose a slope and intercept that minimize training MSE.
+    – Step 2: Choose a slope and intercept that minimize training MSE.
 
-    - Step 3: Using the same slope and intercept from step 2, make predictions on the ```test``` set, and use these predictions to compute test MSE.
+    – Step 3: Using the same slope and intercept from step 2, make predictions on the ```test``` set, and use these predictions to compute test MSE.
 
 * This begs the question, why do we care about test MSE?
 
@@ -126,9 +126,9 @@ the [last lab](lab4b.md) to make predictions.
 
 <img src="../../img/4xc0b.png" />
 
-* <span style="color:firebrick;">**Which model does a better job of predicting the 7 ```training``` points?**</span>
+* <span style="color:firebrick;">**(7) Which model does a better job of predicting the 7 ```training``` points?**</span>
 
-* <span style="color:firebrick;">**Which model do you think will do a better job of predicting the rest of the data?**</span>
+* <span style="color:firebrick;">**(8) Which model do you think will do a better job of predicting the rest of the data?**</span>
 
 ###**Example of overfitting, continued**
 
@@ -136,4 +136,4 @@ the [last lab](lab4b.md) to make predictions.
 
 <img src="../../img/4xc0c.png" />
 
-* <span style="color:firebrick;">**Which model does a better job of generalizing to the rest of the ```arm_span``` dataset?**</span>
+* <span style="color:firebrick;">**(9) Which model does a better job of generalizing to the rest of the ```arm_span``` dataset?**</span>
