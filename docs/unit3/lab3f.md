@@ -39,11 +39,11 @@ of the data.**</span>
 ###**Build a Basic Map**
 * Let's start by building a basic map!
 
-* <span style="color:midnightblue;">**Use the ```leaflet()``` function and the ```mtns``` data to create the ```leaf``` that we can use for mapping.**</span>
+* <span style="color:firebrick;">**(1) Write and run code using the ```leaflet()``` function and the ```mtns``` data to create the ```leaf``` that we can use for mapping.**</span>
 
         mtns_leaf <- leaflet(____)
 
-* <span style="color:midnightblue;">**Then, insert ```mtns_leaf``` into the ```addTiles()``` function and assign the output the name ```mtns_map```.**</span>
+* <span style="color:firebrick;">**(2) Then, write and run code inserting ```mtns_leaf``` into the ```addTiles()``` function and assign the output the name ```mtns_map```.**</span>
 
 * <span style="color:midnightblue;">**Run ```mtns_map``` in the console to look at your basic map with no data displayed.**</span>
 
@@ -52,26 +52,26 @@ of the data.**</span>
 ###**Including our data**
 * Now we can add markers for the locations of the mountains using the ```addMarkers()``` function.
 
-* <span style="color:midnightblue;">**Fill in the blanks below with the basic map we've created and the values for latitude and longitude.**</span>
+* <span style="color:firebrick;">**(3) Fill in the blanks below with the basic map we've created and the values for latitude and longitude.**</span>
 
         addMarkers(mtns_map = ____, lng = ~____, lat = ~____)
 
-* <span style="color:midnightblue;">**Supply the ```peak``` variable, in a similar way as we supplied the ```lat``` and ```long``` variables, to the
+* <span style="color:firebrick;">**(4) Write and run code supplying the ```peak``` variable, in a similar way as we supplied the ```lat``` and ```long``` variables, to the
 ```popup``` argument and include it in the code above.**</span>
 
-* <span style="color:firebrick;">**Click on a marker within California and write down the name of the mountain you clicked on.**</span>
+* <span style="color:firebrick;">**(5) Click on a marker within your state of choice and write down the name of the mountain you clicked on.**</span>
 
 ###**Colorize**
 * Our current map looks pretty good, but what if we wanted to add some colors to our plot?
 
-* <span style="color:midnightblue;">**Fill in the blanks below to create a new variable that assigns a color to each mountain based on
+* <span style="color:firebrick;">**(6) Fill in the blanks below to create a new variable that assigns a color to each mountain based on
 the ```state``` it's located in.**</span>
 
         mtns <- mutate(____, state_colors = colorize(____))
 
 * Now that we've added a new variable, we need to re-build ```mtns_leaf``` and ```mtns_map``` to use it.
 
-    – <span style="color:midnightblue;">**Create ```mtns_leaf``` and ```mtns_map``` as you did before.**</span>
+    – <span style="color:firebrick;">**(7) Write and run code creating ```mtns_leaf``` and ```mtns_map``` as you did before.**</span>
 
     – <span style="color:midnightblue;">**Then change ```addMarkers``` to ```addCircleMarkers``` and keep all of the arguments the
     same.**</span>
@@ -84,6 +84,6 @@ the ```state``` it's located in.**</span>
 
     – <span style="color:midnightblue;">**First, assign the map with the circle markers as ```mtns_map```.**</span>
 
-    – <span style="color:midnightblue;">**Then, fill in the blanks below to place a legend in the top-right hand corner.**</span>
+    – <span style="color:firebrick;">**(8) Then, fill in the blanks below to place a legend in the top-right hand corner.**</span>
 
         addLegend(____, colors = ~unique(____), labels = ~unique(____)).
