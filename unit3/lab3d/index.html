@@ -5074,7 +5074,7 @@ usually don't know what they are, because we can't see the entire population.</p
 <li>
 <p><span style="color:midnightblue;"><strong>Load the built-in <code>atus</code> (<em>American Time Use Survey</em>) dataset, which is a survey of how a
 sample of Americans spent their day.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>The United States has an estimated population of 336,302,171 (as of April 15, 2024 9:10 a.m. PDT). How many
+<p>– <span style="color:firebrick;"><strong>(1) The United States has an estimated population of 336,302,171 (as of April 15, 2024 9:10 a.m. PDT). How many
 people were surveyed for this particular dataset?</strong></span></p>
 <ul>
 <li>Note: If you want to know the US population or world population in real time, click on this link: <a href="https://www.census.gov/popclock/" title="https://www.census.gov/popclock/">https://www.census.gov/popclock/</a></li>
@@ -5085,10 +5085,10 @@ people were surveyed for this particular dataset?</strong></span></p>
 <p><em>What is the mean age of people older than 15 living in the United States?</em></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Why is it important that the ATUS is a random sample?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) Why is it important that the ATUS is a random sample?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Use our <code>atus</code> data to calculate an estimate for the average age of people older than 15
+<p><span style="color:firebrick;"><strong>(3) Use our <code>atus</code> data to calculate an estimate for the average age of people older than 15
 living in the U.S.</strong></span></p>
 </li>
 </ul>
@@ -5109,7 +5109,7 @@ living in the U.S.</strong></span></p>
 <h3 id="our-first-bootstrap"><strong>Our first bootstrap</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks to <code>sample</code> the row numbers we'll use in our <em>bootstrapped</em> sample.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(4) Fill in the blanks to <code>sample</code> the row numbers we'll use in our <em>bootstrapped</em> sample.</strong></span></p>
 <p>– Be sure to re-read what a <em>bootstrapped</em> sample is from the previous slide to help
 you fill in the blanks.</p>
 <p>– Use <code>set.seed(123)</code> before taking the sample.</p>
@@ -5117,7 +5117,7 @@ you fill in the blanks.</p>
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>slice</code> function to create a new dataset that includes each row from our
+<p><span style="color:firebrick;"><strong>(5) Write and run code using the <code>slice</code> function to create a new dataset that includes each row from our
 <code>sample</code>.</strong></span></p>
 <pre><code>bs_atus &lt;- slice(atus, bs_rows)
 </code></pre>
@@ -5129,17 +5129,17 @@ you fill in the blanks.</p>
 <p>Look at the values of <code>bs_rows</code> and <code>bs_atus</code>.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Write a paragraph that explains to someone that's not familiar with <code>R</code> how you created <code>bs_rows</code> and <code>bs_atus</code>. Be sure to include an explanation of what the <em>values</em> of <code>bs_rows</code> mean and how those values are used to create <code>bs_atus</code>. Also, be sure to explain what each argument of each function does.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) Write a paragraph that explains to someone who's not familiar with <code>R</code> how you created <code>bs_rows</code> and <code>bs_atus</code>. Be sure to include an explanation of what the <em>values</em> of <code>bs_rows</code> mean and how those values are used to create <code>bs_atus</code>. Also, be sure to explain what each argument of each function does.</strong></span></p>
 </li>
 </ul>
 <h3 id="one-strap-two-strap"><strong>One strap, two strap</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Calculate the <code>mean</code> of the <code>age</code> variable in your <code>bootstrapped</code> data, then use a different value
+<p><span style="color:firebrick;"><strong>(7) Write and run code calculating the <code>mean</code> of the <code>age</code> variable in your <code>bootstrapped</code> data, then use a different value
 of <code>set.seed()</code> to create your own, personal <em>bootstrapped</em> sample. Then calculate its <code>mean</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Compare this second <em>bootstrapped</em> sample with three other classmates and write a sentence about how similar or different the <em>bootstrapped</em> sample means were.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Compare this second <em>bootstrapped</em> sample with three other classmates and write a sentence about how similar or different the <em>bootstrapped</em> sample means were.</strong></span></p>
 </li>
 </ul>
 <h3 id="many-bootstraps"><strong>Many bootstraps</strong></h3>
@@ -5160,7 +5160,7 @@ function.</p>
 <h3 id="bootstrap-function"><strong>Bootstrap function</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blank space below with the 3 steps needed to create a <em>bootstrapped</em> sample <code>mean</code>
+<p><span style="color:firebrick;"><strong>(9) Fill in the blank space below with the 3-steps needed to create a <em>bootstrapped</em> sample <code>mean</code>
 for our <code>atus</code> data.</strong></span></p>
 <p>– Each step should be written on its own line between the curly braces.</p>
 <pre><code>bs_func &lt;- function() {
@@ -5175,12 +5175,12 @@ for our <code>atus</code> data.</strong></span></p>
 <h3 id="visualizing-our-bootstraps"><strong>Visualizing our bootstraps</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Once your function is created, fill in the blanks to create 500 <em>bootstrapped</em> sample means:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(10) Once your function is created, fill in the blanks to create 500 <em>bootstrapped</em> sample means:</strong></span></p>
 <pre><code>bs_means &lt;- do(____) * bs_func()
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Create a <code>histogram</code> for your bootstrapped samples and describe the <em>center</em>, <em>shape</em>
+<p><span style="color:firebrick;"><strong>(11) Create a <code>histogram</code> for your bootstrapped samples and describe the <em>center</em>, <em>shape</em>
 and <em>spread</em> of its distribution.</strong></span></p>
 <p>– These bootstrapped estimates no longer estimate the average age of people in the
 U.S.</p>
@@ -5199,29 +5199,29 @@ confidence intervals</em>.</p>
 90% of our bootstrapped estimates are contained.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Using your <code>histogram</code>, fill in the statement below:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(12) Using your <code>histogram</code>, fill in the statement below:</strong></span></p>
 <p>The lowest 5% of our estimates are below <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u> years and the highest 5% of our
 estimates are above <u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u><u>&nbsp;&nbsp;&nbsp;&nbsp;</u> years.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>quantile()</code> function to check your estimates.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(13) Write and run code using the <code>quantile()</code> function to check your estimates.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Based on your bootstrapped estimates, between which two ages are we 90%
+<p><span style="color:firebrick;"><strong>(14) Based on your bootstrapped estimates, between which two ages are we 90%
 confident the actual <code>mean</code> age of people living in the U.S. is contained?</strong></span></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Using your <em>bootstrapped</em> sample means, create a 95% confidence interval for the <code>mean</code> age
+<p><span style="color:firebrick;"><strong>(15) Using your <em>bootstrapped</em> sample means, create a 95% confidence interval for the <code>mean</code> age
 of people living in the U.S.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Why is the 95% confidence interval wider than the 90% interval?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(16) Why is the 95% confidence interval wider than the 90% interval?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Write down how you would explain what a 95% confidence interval means to someone not taking <em>Introduction to Data Science</em>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(17) Write down how you would explain what a 95% confidence interval means to someone not taking <em>Introduction to Data Science</em>.</strong></span></p>
 </li>
 </ul>
 
