@@ -16,12 +16,11 @@ information of another.
 ###**Predictions using a line**
 * <span style="color:midnightblue;">**Load the ```arm_span``` data again.**</span>
 
-    – <span style="color:midnightblue;">**Create an ```xyplot``` with ```height``` on the y-axis and ```armspan``` on the x-axis.**</span>
+* <span style="color:firebrick;">**(1) Write and run code creating an ```xyplot``` with ```height``` on the y-axis and ```armspan``` on the x-axis.**</span>
 
-    – <span style="color:midnightblue;">**Type ```add_line()``` to run the ```add_line``` function; you'll be prompted to click twice in the
-    plot window to create a line that you think fits the data well.**</span>
+    – <span style="color:midnightblue;">**Use ```add_line()``` or ```get_line()``` to graph a line that you think fits the data well.**</span>
 
-* <span style="color:midnightblue;">**Fill in the blanks below to create a function that will make predictions of people's ```height```s based
+* <span style="color:firebrick;">**(2) Fill in the blanks below to create a function that will make predictions of people's ```height```s based
 on their ```armspan```:**</span>
 
         predict_height <- function(armspan) {
@@ -29,7 +28,7 @@ on their ```armspan```:**</span>
         }
 
 ###**Make your predictions**
-* <span style="color:midnightblue;">**Fill in the blanks to include your predictions in the ```arm_span``` data.**</span>
+* <span style="color:firebrick;">**(3) Fill in the blanks to include your predictions in the ```arm_span``` data.**</span>
 
         ____ <- mutate(____, predicted_height = ____(____))
 
@@ -44,23 +43,23 @@ predictions are.
 ###**Sums of differences**
 * A *residual* is the difference between the actual and predicted value of a quantity of interest.
 
-* <span style="color:midnightblue;">**Fill in the blanks below to add a column of residuals to ```arm_span```.**</span>
+* <span style="color:firebrick;">**(4) Fill in the blanks below to add a column of residuals to ```arm_span```.**</span>
 
         ____ <- mutate(____, residual = ____ - ____)
 
-* <span style="color:firebrick;">**What do the residuals measure?**</span>
+* <span style="color:firebrick;">**(5) What do the residuals measure?**</span>
 
 * One method we might consider to measure our model's accuracy is to sum the residuals.
 
-* <span style="color:midnightblue;">**Fill in the blanks below to calculate our accuracy summary.**</span>
+* <span style="color:firebrick;">**(6) Fill in the blanks below to calculate our accuracy summary.**</span>
 
         summarize(____, sum(____))
 
 * Hint: Like ```mutate```, the first argument of ```summarize``` is a dataframe, and the second argument is the action to perform on a column of the dataframe. Whereas the output of ```mutate``` is a column, the output of ```summarize``` is (usually) a single number summary.
 
-* <span style="color:firebrick;">**Describe and interpret, in words, what the output of your accuracy summary means.**</span>
+* <span style="color:firebrick;">**(7) Describe and interpret, in words, what the output of your accuracy summary means.**</span>
 
-* <span style="color:firebrick;">**Write down why adding positive and negative errors together is problematic for assessing prediction accuracy.**</span>
+* <span style="color:firebrick;">**(8) Write down why adding positive and negative errors together is problematic for assessing prediction accuracy.**</span>
 
 ###**Mean squared error**
 * When adding residuals, the positive errors in our predictions (underestimates) are cancelled out by negative errors (overestimates) which lead to the impression that our model is making better predictions than it actually is.
@@ -69,32 +68,39 @@ predictions are.
 
 * The *mean squared error* (MSE) is calculated by squaring all of the residuals, and then taking the mean of the squared residuals.
 
-* <span style="color:midnightblue;">**Fill in the blanks below to calculate the MSE of your line.**</span>
+* <span style="color:firebrick;">**(9) Fill in the blanks below to calculate the MSE of your line.**</span>
 
         summarize(____, mean((____))^2)
 
-* <span style="color:firebrick;">**Compare your MSE with a neighbor. Whose line was more accurate and why?**</span>
+* <span style="color:firebrick;">**(10) Compare your MSE with a neighbor. Whose line was more accurate and why?**</span>
 
 ###**Regression lines**
 * If you were to go around your class, each student would have created a different line that they feel *fit* the data best.
 
-    - Which is a problem because everyone's line will make slightly different predictions.
+    – Which is a problem because everyone's line will make slightly different predictions.
 
-* To avoid this variation in predictions, data scientists will use *regression lines*.
+* To avoid this variation in predictions, data scientists use *regression lines*.
 
-    - We also refer to *regression lines* as *lienar models*.
+    – We also refer to *regression lines* as *linear models*.
 
-    - This line connects the mean ```height``` of people with similar ```armspan```s.
+    – This line connects the mean ```height``` of people with similar ```armspan```s.
 
-    - <span style="color:midnightblue;">**Fill in the blanks below to create a *regression line* using ```lm```, which stands for *linear model*.
+    – <span style="color:firebrick;">**(11) Fill in the blanks below to create a *regression line* using ```lm```, which stands for *linear model*.**</span>
 
         best_fit <- lm(____ ~ ____, data = arm_span)
+
+###**Plotting regression lines**
+* <span style="color:midnightblue;">**Type ```best_fit``` into the console to see the slope and intercept of the regression line.**</span>
+
+* <span style="color:firebrick;">**(12) Run the code to create the scatterplot of ```armspan``` vs. ```height``` again. Then fill in the blanks below to add the line of best fit.**</span>
+
+        add_line(intercept = ____, slope = ____)
 
 ###**Predicting with regression lines**
 * Making predictions with models ```R``` is familiar with is simpler than with lines, or models, we come up
 with ourselves.
 
-    – <span style="color:midnightblue;">**Fill in the blanks to make predictions using ```best_fit```:**</span>
+    – <span style="color:firebrick;">**(13) Fill in the blanks to make predictions using ```best_fit```:**</span>
 
         ____ <- mutate(____, predicted_height = predict(____))
 
@@ -104,9 +110,8 @@ with ourselves.
 * The ```lm()``` function creates the *line of best fit* equation by finding the line that minimizes the *mean
 squared error*. Meaning, it's the *best fitting line possible*.
 
-* <span style="color:midnightblue;">**Calculate the MSE for the values predicted using the regression line.**</span>
+* <span style="color:firebrick;">**(14) Calculate the MSE for the values predicted using the regression line.**</span>
 
-* <span style="color:firebrick;">**Compare the MSE of the linear model you fitted with ```add_line()``` to
-    the MSE of the linear model obtained with ```lm```. Which linear model performed better?**</span>
+* <span style="color:firebrick;">**(15) Compare the MSE of the linear model you fitted to the MSE of the linear model obtained with ```lm```. Which linear model performed better?**</span>
 
-* <span style="color:firebrick;">**Ask your neighbors if any of their lines beat the ```lm``` line in terms of the MSE. Were any of them successful?**</span>
+* <span style="color:firebrick;">**(16) Ask your neighbors if any of their lines beat the ```lm``` line in terms of the MSE. Were any of them successful?**</span>
