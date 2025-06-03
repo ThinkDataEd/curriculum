@@ -20,22 +20,21 @@ differently.
 ###**Our first web scraper**
 * <span style="color:midnightblue;">**Copy and paste the link below into a web browser to view the website of data we'd like to *scrape*
 and analyze.**</span><br>
-    [https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html"){:target="_blank"}
+    [https://labs.thinkdataed.org/extras/webdata/mountains.html](https://labs.thinkdataed.org/extras/webdata/mountains.html "https://labs.thinkdataed.org/extras/webdata/mountains.html"){:target="_blank"}
 
-* <span style="color:firebrick;">**Briefly describe what the data on the website is about.**</span>
+* <span style="color:firebrick;">**(1) Briefly describe what the data on the website is about.**</span>
 
-    – <span style="color:firebrick;">**Then write down 3 questions you'd be interested in answering by analyzing this
-    data.**</span>
+* <span style="color:firebrick;">**(2) Write down 3 questions you'd be interested in answering by analyzing this data.**</span>
 
 ###**HTML**
 * ```HTML``` is the code that's used to render every website you've ever visited.
 
 * The following slide shows the ```HTML``` code used to create the first two rows of the web data.
 
-    – <span style="color:firebrick;">**How is the data table in ```HTML``` different than the data tables we're used to seeing in
+    – <span style="color:firebrick;">**(3) How is the data table in ```HTML``` different than the data tables we're used to seeing in
     ```R```, for example, when we use the ```View()``` function?**</span>
 
-    – <span style="color:firebrick;">**What do you think the *tags* ```<TABLE>```, ```<TR>```, ```<TH>```, ```<TD>``` mean? How does ```HTML``` use
+    – <span style="color:firebrick;">**(4) What do you think the *tags* ```<TABLE>```, ```<TR>```, ```<TH>```, ```<TD>``` mean? How does ```HTML``` use
     these *tags* to display the table?**</span>
 
 ```
@@ -72,7 +71,7 @@ and analyze.**</span><br>
 
 * <span style="color:midnightblue;">**Find the URL address for the site and assign it the name ```data_url``` in ```R```.**</span>
 
-* <span style="color:midnightblue;">**Then fill in the blanks below to have ```R``` scrape *every* web table available on the site:**</span>
+* <span style="color:firebrick;">**(5) Then fill in the blanks below to have ```R``` scrape *every* web table available on the site:**</span>
 
         tables <- readHTMLTable(____)
 
@@ -84,14 +83,14 @@ which table has the data we're interested in.
 
     – This means we need to check all 3 tables to find the one we're interested in.
 
-* <span style="color:midnightblue;">**Use the ```length()``` function to find out how many tables of data were scraped in our set of ```tables```.**</span>
+* <span style="color:firebrick;">**(6) Write and run code using the ```length()``` function to find out how many tables of data were scraped in our set of ```tables```.**</span>
 
 ###**Saving tables**
 
 * Now that we know how many tables we've scraped, we can go back and scrape individual tables
 by adding the which argument to the ```readHTMLTable()``` function.
 
-* <span style="color:midnightblue;">**Use ```readHTMLTable()``` to re-scrape the data from the web but this time use the ```which``` argument to scrape just the individual table.**</span>
+* <span style="color:firebrick;">**(7) Write and run code using ```readHTMLTable()``` to re-scrape the data from the web but this time use the ```which``` argument to scrape just the individual table.**</span>
 
     – The ```which``` argument should be the integer denoting which table you want scraped.
 
@@ -100,10 +99,10 @@ by adding the which argument to the ```readHTMLTable()``` function.
 ###**Check, save and use!**
 * After scraping the data, the only thing left to do is to save it and use it.
 
-* <span style="color:midnightblue;">**Fill in the blanks to save the data and give it a file name.**</span>
+* <span style="color:firebrick;">**(8) Fill in the blanks to save the data and give it a file name.**</span>
 
         save(____, file = "____.Rda")
 
-* <span style="color:firebrick;">**What is the mean and standard deviation of ```elev_ft```?**</span>
+* <span style="color:firebrick;">**(9) What is the mean and standard deviation of ```elev_ft```?**</span>
 
-* <span style="color:firebrick;">**Which ```state``` has the most mountains in our data?**</span>
+* <span style="color:firebrick;">**(10) Which ```state``` has the most mountains in our data?**</span>
