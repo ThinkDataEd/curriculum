@@ -5002,12 +5002,13 @@ differently.</p>
 <li>
 <p><span style="color:midnightblue;"><strong>Copy and paste the link below into a web browser to view the website of data we'd like to <em>scrape</em>
 and analyze.</strong></span><br>
-    <a href="https://labs.idsucla.org/extras/webdata/mountains.html" target="_blank" title="https://labs.idsucla.org/extras/webdata/mountains.html">https://labs.idsucla.org/extras/webdata/mountains.html</a></p>
+    <a href="https://labs.thinkdataed.org/extras/webdata/mountains.html" target="_blank" title="https://labs.thinkdataed.org/extras/webdata/mountains.html">https://labs.thinkdataed.org/extras/webdata/mountains.html</a></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Briefly describe what the data on the website is about.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Then write down 3 questions you'd be interested in answering by analyzing this
-data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Briefly describe what the data on the website is about.</strong></span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>(2) Write down 3 questions you'd be interested in answering by analyzing this data.</strong></span></p>
 </li>
 </ul>
 <h3 id="html"><strong>HTML</strong></h3>
@@ -5017,9 +5018,9 @@ data.</strong></span></p>
 </li>
 <li>
 <p>The following slide shows the <code>HTML</code> code used to create the first two rows of the web data.</p>
-<p>– <span style="color:firebrick;"><strong>How is the data table in <code>HTML</code> different than the data tables we're used to seeing in
+<p>– <span style="color:firebrick;"><strong>(3) How is the data table in <code>HTML</code> different than the data tables we're used to seeing in
 <code>R</code>, for example, when we use the <code>View()</code> function?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>What do you think the <em>tags</em> <code>&lt;TABLE&gt;</code>, <code>&lt;TR&gt;</code>, <code>&lt;TH&gt;</code>, <code>&lt;TD&gt;</code> mean? How does <code>HTML</code> use
+<p>– <span style="color:firebrick;"><strong>(4) What do you think the <em>tags</em> <code>&lt;TABLE&gt;</code>, <code>&lt;TR&gt;</code>, <code>&lt;TH&gt;</code>, <code>&lt;TD&gt;</code> mean? How does <code>HTML</code> use
 these <em>tags</em> to display the table?</strong></span></p>
 </li>
 </ul>
@@ -5059,7 +5060,7 @@ these <em>tags</em> to display the table?</strong></span></p>
 <p><span style="color:midnightblue;"><strong>Find the URL address for the site and assign it the name <code>data_url</code> in <code>R</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Then fill in the blanks below to have <code>R</code> scrape <em>every</em> web table available on the site:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) Then fill in the blanks below to have <code>R</code> scrape <em>every</em> web table available on the site:</strong></span></p>
 <pre><code>tables &lt;- readHTMLTable(____)
 </code></pre>
 </li>
@@ -5073,7 +5074,7 @@ which table has the data we're interested in.</p>
 <p>– This means we need to check all 3 tables to find the one we're interested in.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>length()</code> function to find out how many tables of data were scraped in our set of <code>tables</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) Write and run code using the <code>length()</code> function to find out how many tables of data were scraped in our set of <code>tables</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="saving-tables"><strong>Saving tables</strong></h3>
@@ -5083,7 +5084,7 @@ which table has the data we're interested in.</p>
 by adding the which argument to the <code>readHTMLTable()</code> function.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use <code>readHTMLTable()</code> to re-scrape the data from the web but this time use the <code>which</code> argument to scrape just the individual table.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) Write and run code using <code>readHTMLTable()</code> to re-scrape the data from the web but this time use the <code>which</code> argument to scrape just the individual table.</strong></span></p>
 <p>– The <code>which</code> argument should be the integer denoting which table you want scraped.</p>
 <p>– Assign the scraped data the name <code>mtns</code>.</p>
 </li>
@@ -5094,15 +5095,15 @@ by adding the which argument to the <code>readHTMLTable()</code> function.</p>
 <p>After scraping the data, the only thing left to do is to save it and use it.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks to save the data and give it a file name.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Fill in the blanks to save the data and give it a file name.</strong></span></p>
 <pre><code>save(____, file = "____.Rda")
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What is the mean and standard deviation of <code>elev_ft</code>?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) What is the mean and standard deviation of <code>elev_ft</code>?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which <code>state</code> has the most mountains in our data?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(10) Which <code>state</code> has the most mountains in our data?</strong></span></p>
 </li>
 </ul>
 

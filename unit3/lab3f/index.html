@@ -5028,12 +5028,12 @@ of the data.</strong></span></p>
 <p>Let's start by building a basic map!</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>leaflet()</code> function and the <code>mtns</code> data to create the <code>leaf</code> that we can use for mapping.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Write and run code using the <code>leaflet()</code> function and the <code>mtns</code> data to create the <code>leaf</code> that we can use for mapping.</strong></span></p>
 <pre><code>mtns_leaf &lt;- leaflet(____)
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Then, insert <code>mtns_leaf</code> into the <code>addTiles()</code> function and assign the output the name <code>mtns_map</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) Then, write and run code inserting <code>mtns_leaf</code> into the <code>addTiles()</code> function and assign the output the name <code>mtns_map</code>.</strong></span></p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Run <code>mtns_map</code> in the console to look at your basic map with no data displayed.</strong></span></p>
@@ -5046,16 +5046,16 @@ of the data.</strong></span></p>
 <p>Now we can add markers for the locations of the mountains using the <code>addMarkers()</code> function.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below with the basic map we've created and the values for latitude and longitude.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Fill in the blanks below with the basic map we've created and the values for latitude and longitude.</strong></span></p>
 <pre><code>addMarkers(mtns_map = ____, lng = ~____, lat = ~____)
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Supply the <code>peak</code> variable, in a similar way as we supplied the <code>lat</code> and <code>long</code> variables, to the
+<p><span style="color:firebrick;"><strong>(4) Write and run code supplying the <code>peak</code> variable, in a similar way as we supplied the <code>lat</code> and <code>long</code> variables, to the
 <code>popup</code> argument and include it in the code above.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Click on a marker within California and write down the name of the mountain you clicked on.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) Click on a marker within your state of choice and write down the name of the mountain you clicked on.</strong></span></p>
 </li>
 </ul>
 <h3 id="colorize"><strong>Colorize</strong></h3>
@@ -5064,14 +5064,14 @@ of the data.</strong></span></p>
 <p>Our current map looks pretty good, but what if we wanted to add some colors to our plot?</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to create a new variable that assigns a color to each mountain based on
+<p><span style="color:firebrick;"><strong>(6) Fill in the blanks below to create a new variable that assigns a color to each mountain based on
 the <code>state</code> it's located in.</strong></span></p>
 <pre><code>mtns &lt;- mutate(____, state_colors = colorize(____))
 </code></pre>
 </li>
 <li>
 <p>Now that we've added a new variable, we need to re-build <code>mtns_leaf</code> and <code>mtns_map</code> to use it.</p>
-<p>– <span style="color:midnightblue;"><strong>Create <code>mtns_leaf</code> and <code>mtns_map</code> as you did before.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(7) Write and run code creating <code>mtns_leaf</code> and <code>mtns_map</code> as you did before.</strong></span></p>
 <p>– <span style="color:midnightblue;"><strong>Then change <code>addMarkers</code> to <code>addCircleMarkers</code> and keep all of the arguments the
 same.</strong></span></p>
 </li>
@@ -5085,7 +5085,7 @@ same.</strong></span></p>
 <li>
 <p>It's hard to know just what the different colors mean so let's add a legend.</p>
 <p>– <span style="color:midnightblue;"><strong>First, assign the map with the circle markers as <code>mtns_map</code>.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Then, fill in the blanks below to place a legend in the top-right hand corner.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(8) Then, fill in the blanks below to place a legend in the top-right hand corner.</strong></span></p>
 <pre><code>addLegend(____, colors = ~unique(____), labels = ~unique(____)).
 </code></pre>
 </li>
