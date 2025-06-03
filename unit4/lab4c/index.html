@@ -3811,18 +3811,18 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#aside-train-test-ratio" class="md-nav__link">
+  <a href="#aside-training-test-ratio" class="md-nav__link">
     <span class="md-ellipsis">
-      Aside: train-test ratio
+      Aside: training-test ratio
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#step-2-train-the-model" class="md-nav__link">
+  <a href="#step-2-training-the-model" class="md-nav__link">
     <span class="md-ellipsis">
-      Step 2: train the model
+      Step 2: training the model
     </span>
   </a>
   
@@ -4950,18 +4950,18 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#aside-train-test-ratio" class="md-nav__link">
+  <a href="#aside-training-test-ratio" class="md-nav__link">
     <span class="md-ellipsis">
-      Aside: train-test ratio
+      Aside: training-test ratio
     </span>
   </a>
   
 </li>
         
           <li class="md-nav__item">
-  <a href="#step-2-train-the-model" class="md-nav__link">
+  <a href="#step-2-training-the-model" class="md-nav__link">
     <span class="md-ellipsis">
-      Step 2: train the model
+      Step 2: training the model
     </span>
   </a>
   
@@ -5070,57 +5070,57 @@ it into two distinct sets.</p>
 <p><span style="color:midnightblue;"><strong>Split the <code>arm_span</code> data into <code>training</code> and <code>test</code> sets using the following two steps.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>First, fill in the blanks below to randomly select which rows of <code>arm_span</code> will go into the <code>training</code> set.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) First, fill in the blanks below to randomly select which rows of <code>arm_span</code> will go into the <code>training</code> set.</strong></span></p>
 <pre><code>set.seed(123)
-train_rows &lt;- sample(1:____, size = 85)
+training_rows &lt;- sample(1:____, size = 68)
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Second, use the <code>slice</code> function to create two dataframes: one called <code>train</code> consisting of the <code>train_rows</code>, and another called <code>test</code> consisting of the remaining rows of <code>arm_span</code>.</strong></span></p>
-<pre><code>train &lt;- slice(arm_span, ____)
+<p><span style="color:firebrick;"><strong>(2) Second, use the <code>slice</code> function to create two dataframes: one called <code>training</code> consisting of the <code>training_rows</code>, and another called <code>test</code> consisting of the remaining rows of <code>arm_span</code>.</strong></span></p>
+<pre><code>training &lt;- slice(arm_span, ____)
 test &lt;- slice(____, - ____)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Explain these lines of code and describe the <code>train</code> and <code>test</code> datasets.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Explain these lines of code and describe the <code>training</code> and <code>test</code> datasets.</strong></span></p>
 </li>
 </ul>
 <h3 id="aside-setseed"><strong>Aside: set.seed()</strong></h3>
 <ul>
 <li>
-<p>When we split data, we're randomly separating our observations into <em>training</em> and <em>testing</em>
+<p>When we split data, we're randomly separating our observations into <em>training</em> and <em>test</em>
 sets.</p>
 <p>– It's important to notice that no single observation will be placed in both sets.</p>
 </li>
 <li>
-<p>Because we're splitting the data sets randomly, our models can also vary slightly,
+<p>Because we're splitting the datasets randomly, our models can also vary slightly,
 person-to-person.</p>
 <p>– This is why it's important to use <code>set.seed</code>.</p>
 </li>
 <li>
 <p>By using <code>set.seed</code>, we're able to reproduce the random splitting so that each person's
 model outputs the same results.</p>
-<p><em>Whenever you split data into training and testing, always use <code>set.seed</code> first.</em></p>
+<p><em>Whenever you split data into training and test, always use <code>set.seed</code> first.</em></p>
 </li>
 </ul>
-<h3 id="aside-train-test-ratio"><strong>Aside: train-test ratio</strong></h3>
+<h3 id="aside-training-test-ratio"><strong>Aside: training-test ratio</strong></h3>
 <ul>
 <li>
-<p>When splitting data into <em>training</em> and <em>testing</em> sets, we need to have enough observations in
+<p>When splitting data into <em>training</em> and <em>test</em> sets, we need to have enough observations in
 our data so that we can build a good model.</p>
-<p>– This is why we kept 85 observations in our <code>training</code> data.</p>
+<p>– This is why we kept 68 observations in our <code>training</code> data.</p>
 </li>
 <li>
 <p>As datasets grow larger, we can use a larger proportion of the data to <code>test</code> with.</p>
 </li>
 </ul>
-<h3 id="step-2-train-the-model"><strong>Step 2: train the model</strong></h3>
+<h3 id="step-2-training-the-model"><strong>Step 2: training the model</strong></h3>
 <ul>
 <li>
 <p>Step 2 is to create a linear model relating <code>height</code> and <code>armspan</code> using the <code>training</code> data.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fit a line of best fit model to our <code>training</code> data and assign it the name <code>best_train</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(4) Write and run code fitting a line of best fit model to our <code>training</code> data and assign it the name <code>best_training</code>.</strong></span></p>
 </li>
 <li>
 <p>Recall that the slope and intercept of our linear model are chosen to minimize MSE.</p>
@@ -5140,32 +5140,22 @@ our data so that we can build a good model.</p>
 <li>
 <p>Because we're using the <em>line of best fit</em>, we can use the <code>predict()</code> function we introduced in
 the <a href="../lab4b/">last lab</a> to make predictions.</p>
-<p>– <span style="color:midnightblue;"><strong>Fill in the blanks below to add predicted heights to our <code>test</code> data:</strong></span></p>
-<pre><code>test &lt;- mutate(test, ____ = predict(best_train, newdata = ____))
+<p>– <span style="color:firebrick;"><strong>(5) Fill in the blanks below to add predicted heights to our <code>test</code> data:</strong></span></p>
+<p>– Hint: the <code>predict</code> function without the argument <code>newdata</code> will output predictions on the <code>training</code> data. To output predictions on the <code>test</code> data, supply the <code>test</code> data to the <code>newdata</code> argument.</p>
+<pre><code>test &lt;- mutate(test, ____ = predict(best_training, newdata = ____))
 </code></pre>
 </li>
 <li>
-<p>Hint: the <code>predict</code> function without the argument <code>newdata</code> will output predictions on the <code>training</code> data. To output predictions on the <code>test</code> data, supply the <code>test</code> data to the <code>newdata</code> argument.</p>
-</li>
-<li>
-<p><span style="color:midnightblue;"><strong>Calculate the <em>test MSE</em> in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) Calculate the <em>test MSE</em> in the same way as you did in the previous lab (test MSE is simply MSE of the predictions on the test data).</strong></span></p>
 </li>
 </ul>
 <h3 id="recap"><strong>Recap</strong></h3>
 <ul>
 <li>
 <p>Another way to describe the three steps is</p>
-<ul>
-<li>
-<p>Step 1: Split the data into <code>training</code> and <code>test</code> sets.</p>
-</li>
-<li>
-<p>Step 2: Choose a slope and intercept that minimize training MSE.</p>
-</li>
-<li>
-<p>Step 3: Using the same slope and intercept from step 2, make predictions on the <code>test</code> set, and use these predictions to compute test MSE.</p>
-</li>
-</ul>
+<p>– Step 1: Split the data into <code>training</code> and <code>test</code> sets.</p>
+<p>– Step 2: Choose a slope and intercept that minimize training MSE.</p>
+<p>– Step 3: Using the same slope and intercept from step 2, make predictions on the <code>test</code> set, and use these predictions to compute test MSE.</p>
 </li>
 <li>
 <p>This begs the question, why do we care about test MSE?</p>
@@ -5206,10 +5196,10 @@ the <a href="../lab4b/">last lab</a> to make predictions.</p>
 <p><img src="../../img/4xc0b.png" /></p>
 <ul>
 <li>
-<p><span style="color:firebrick;"><strong>Which model does a better job of predicting the 7 <code>training</code> points?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) Which model does a better job of predicting the 7 <code>training</code> points?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which model do you think will do a better job of predicting the rest of the data?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Which model do you think will do a better job of predicting the rest of the data?</strong></span></p>
 </li>
 </ul>
 <h3 id="example-of-overfitting-continued"><strong>Example of overfitting, continued</strong></h3>
@@ -5218,7 +5208,7 @@ the <a href="../lab4b/">last lab</a> to make predictions.</p>
 </ul>
 <p><img src="../../img/4xc0c.png" /></p>
 <ul>
-<li><span style="color:firebrick;"><strong>Which model does a better job of generalizing to the rest of the <code>arm_span</code> dataset?</strong></span></li>
+<li><span style="color:firebrick;"><strong>(9) Which model does a better job of generalizing to the rest of the <code>arm_span</code> dataset?</strong></span></li>
 </ul>
 
 
