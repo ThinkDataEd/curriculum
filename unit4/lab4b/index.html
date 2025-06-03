@@ -3817,6 +3817,15 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#plotting-regression-lines" class="md-nav__link">
+    <span class="md-ellipsis">
+      Plotting regression lines
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#predicting-with-regression-lines" class="md-nav__link">
     <span class="md-ellipsis">
       Predicting with regression lines
@@ -4959,6 +4968,15 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#plotting-regression-lines" class="md-nav__link">
+    <span class="md-ellipsis">
+      Plotting regression lines
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#predicting-with-regression-lines" class="md-nav__link">
     <span class="md-ellipsis">
       Predicting with regression lines
@@ -5017,12 +5035,13 @@ makes the best predictions.</p>
 <ul>
 <li>
 <p><span style="color:midnightblue;"><strong>Load the <code>arm_span</code> data again.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Create an <code>xyplot</code> with <code>height</code> on the y-axis and <code>armspan</code> on the x-axis.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Type <code>add_line()</code> to run the <code>add_line</code> function; you'll be prompted to click twice in the
-plot window to create a line that you think fits the data well.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to create a function that will make predictions of people's <code>height</code>s based
+<p><span style="color:firebrick;"><strong>(1) Write and run code creating an <code>xyplot</code> with <code>height</code> on the y-axis and <code>armspan</code> on the x-axis.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>Use <code>add_line()</code> or <code>get_line()</code> to graph a line that you think fits the data well.</strong></span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>(2) Fill in the blanks below to create a function that will make predictions of people's <code>height</code>s based
 on their <code>armspan</code>:</strong></span></p>
 <pre><code>predict_height &lt;- function(armspan) {
 ____ * armspan + ____
@@ -5033,7 +5052,7 @@ ____ * armspan + ____
 <h3 id="make-your-predictions"><strong>Make your predictions</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks to include your predictions in the <code>arm_span</code> data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Fill in the blanks to include your predictions in the <code>arm_span</code> data.</strong></span></p>
 <pre><code>____ &lt;- mutate(____, predicted_height = ____(____))
 </code></pre>
 </li>
@@ -5051,18 +5070,18 @@ model's accuracy.</p>
 <p>A <em>residual</em> is the difference between the actual and predicted value of a quantity of interest.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to add a column of residuals to <code>arm_span</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(4) Fill in the blanks below to add a column of residuals to <code>arm_span</code>.</strong></span></p>
 <pre><code>____ &lt;- mutate(____, residual = ____ - ____)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What do the residuals measure?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) What do the residuals measure?</strong></span></p>
 </li>
 <li>
 <p>One method we might consider to measure our model's accuracy is to sum the residuals.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to calculate our accuracy summary.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) Fill in the blanks below to calculate our accuracy summary.</strong></span></p>
 <pre><code>summarize(____, sum(____))
 </code></pre>
 </li>
@@ -5070,10 +5089,10 @@ model's accuracy.</p>
 <p>Hint: Like <code>mutate</code>, the first argument of <code>summarize</code> is a dataframe, and the second argument is the action to perform on a column of the dataframe. Whereas the output of <code>mutate</code> is a column, the output of <code>summarize</code> is (usually) a single number summary.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Describe and interpret, in words, what the output of your accuracy summary means.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) Describe and interpret, in words, what the output of your accuracy summary means.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Write down why adding positive and negative errors together is problematic for assessing prediction accuracy.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Write down why adding positive and negative errors together is problematic for assessing prediction accuracy.</strong></span></p>
 </li>
 </ul>
 <h3 id="mean-squared-error"><strong>Mean squared error</strong></h3>
@@ -5088,36 +5107,38 @@ model's accuracy.</p>
 <p>The <em>mean squared error</em> (MSE) is calculated by squaring all of the residuals, and then taking the mean of the squared residuals.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to calculate the MSE of your line.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) Fill in the blanks below to calculate the MSE of your line.</strong></span></p>
 <pre><code>summarize(____, mean((____))^2)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Compare your MSE with a neighbor. Whose line was more accurate and why?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(10) Compare your MSE with a neighbor. Whose line was more accurate and why?</strong></span></p>
 </li>
 </ul>
 <h3 id="regression-lines"><strong>Regression lines</strong></h3>
 <ul>
 <li>
 <p>If you were to go around your class, each student would have created a different line that they feel <em>fit</em> the data best.</p>
-<ul>
-<li>Which is a problem because everyone's line will make slightly different predictions.</li>
-</ul>
+<p>– Which is a problem because everyone's line will make slightly different predictions.</p>
 </li>
 <li>
-<p>To avoid this variation in predictions, data scientists will use <em>regression lines</em>.</p>
-<ul>
-<li>
-<p>We also refer to <em>regression lines</em> as <em>lienar models</em>.</p>
-</li>
-<li>
-<p>This line connects the mean <code>height</code> of people with similar <code>armspan</code>s.</p>
-</li>
-<li>
-<p><span style="color:midnightblue;"><em><em>Fill in the blanks below to create a </em>regression line</em> using <code>lm</code>, which stands for <em>linear model</em>.</p>
-<p>best_fit &lt;- lm(<strong><em>_ ~ </em></strong>_, data = arm_span)</p>
+<p>To avoid this variation in predictions, data scientists use <em>regression lines</em>.</p>
+<p>– We also refer to <em>regression lines</em> as <em>linear models</em>.</p>
+<p>– This line connects the mean <code>height</code> of people with similar <code>armspan</code>s.</p>
+<p>– <span style="color:firebrick;"><strong>(11) Fill in the blanks below to create a <em>regression line</em> using <code>lm</code>, which stands for <em>linear model</em>.</strong></span></p>
+<pre><code>best_fit &lt;- lm(____ ~ ____, data = arm_span)
+</code></pre>
 </li>
 </ul>
+<h3 id="plotting-regression-lines"><strong>Plotting regression lines</strong></h3>
+<ul>
+<li>
+<p><span style="color:midnightblue;"><strong>Type <code>best_fit</code> into the console to see the slope and intercept of the regression line.</strong></span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>(12) Run the code to create the scatterplot of <code>armspan</code> vs. <code>height</code> again. Then fill in the blanks below to add the line of best fit.</strong></span></p>
+<pre><code>add_line(intercept = ____, slope = ____)
+</code></pre>
 </li>
 </ul>
 <h3 id="predicting-with-regression-lines"><strong>Predicting with regression lines</strong></h3>
@@ -5125,7 +5146,7 @@ model's accuracy.</p>
 <li>
 <p>Making predictions with models <code>R</code> is familiar with is simpler than with lines, or models, we come up
 with ourselves.</p>
-<p>– <span style="color:midnightblue;"><strong>Fill in the blanks to make predictions using <code>best_fit</code>:</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(13) Fill in the blanks to make predictions using <code>best_fit</code>:</strong></span></p>
 <pre><code>____ &lt;- mutate(____, predicted_height = predict(____))
 </code></pre>
 </li>
@@ -5140,14 +5161,13 @@ with ourselves.</p>
 squared error</em>. Meaning, it's the <em>best fitting line possible</em>.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Calculate the MSE for the values predicted using the regression line.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(14) Calculate the MSE for the values predicted using the regression line.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Compare the MSE of the linear model you fitted with <code>add_line()</code> to
-    the MSE of the linear model obtained with <code>lm</code>. Which linear model performed better?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(15) Compare the MSE of the linear model you fitted to the MSE of the linear model obtained with <code>lm</code>. Which linear model performed better?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Ask your neighbors if any of their lines beat the <code>lm</code> line in terms of the MSE. Were any of them successful?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(16) Ask your neighbors if any of their lines beat the <code>lm</code> line in terms of the MSE. Were any of them successful?</strong></span></p>
 </li>
 </ul>
 
