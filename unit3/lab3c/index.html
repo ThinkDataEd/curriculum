@@ -4972,7 +4972,7 @@
 <p>– For example, the Department of Water &amp; Power (DWP) wants to determine how
 much water people in Los Angeles use to take a shower. They've created a survey
 to pass out to collect this information.</p>
-<p>– <span style="color:firebrick;"><strong>Write down two reasons why getting <em>everyone</em> in Los Angeles to fill out the
+<p>– <span style="color:firebrick;"><strong>(1) Write down two reasons why getting <em>everyone</em> in Los Angeles to fill out the
 survey would be difficult. Also, write a sentence why the DWP might consider
 using a sample of households instead.</strong></span></p>
 </li>
@@ -4988,13 +4988,13 @@ using a sample of households instead.</strong></span></p>
 <p>– In this lab, we'll consider these survey respondents to be our population.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Load the <code>cdc</code> data into <code>R</code> and fill in the blanks to take a <em>convenience</em> sample of the first 50
+<p><span style="color:firebrick;"><strong>(2) Load the <code>cdc</code> data into <code>R</code> and fill in the blanks to take a <em>convenience</em> sample of the first 50
 people in the data:</strong></span></p>
 <pre><code>s1 &lt;- slice(____, 1:____)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Why do you think we call this method a <em>convenience</em> sample?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Why do you think we call this method a <em>convenience</em> sample?</strong></span></p>
 </li>
 </ul>
 <h3 id="comparing-your-convenience-sample"><strong>Comparing your convenience sample</strong></h3>
@@ -5004,57 +5004,57 @@ people in the data:</strong></span></p>
 because they're easy-to-find.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Using your convenience sample, create a <code>bargraph</code> for the number of people in each <code>grade</code>.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Do you think the distribution of <code>grade</code> for your sample would look similar
+<p><span style="color:firebrick;"><strong>(4) Using your convenience sample, create a <code>bargraph</code> for the number of people in each <code>grade</code>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(5) Do you think the distribution of <code>grade</code> for your sample would look similar
 when compared to the whole <code>cdc</code> data?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Which groups of people do you think are over or under represented in your
+<p>– <span style="color:firebrick;"><strong>(6) Which groups of people do you think are over or under represented in your
 convenience sample? Why?</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a <code>bargraph</code> for <code>grade</code> using the <code>cdc</code> data.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Compare the distributions of the <code>cdc</code> data and your convenience sample and
+<p><span style="color:firebrick;"><strong>(7) Write and run code creating a <code>bargraph</code> for <code>grade</code> using the <code>cdc</code> data.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(8) Compare the distributions of the <code>cdc</code> data and your convenience sample and
 write down how they differ.</strong></span></p>
 </li>
 </ul>
 <h3 id="using-randomness"><strong>Using randomness</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to create a sample by randomly selecting 50 people in the <code>cdc</code> data,
+<p><span style="color:firebrick;"><strong>(9) Fill in the blanks below to create a sample by randomly selecting 50 people in the <code>cdc</code> data,
 without replacement. Call this new sample <code>s2</code>:</strong></span></p>
 <pre><code>___ &lt;- sample(___, size = ___, replace = ___)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Write a sentence that explains why you think the distribution of <code>grade</code> for this <em>random
+<p><span style="color:firebrick;"><strong>(10) Write a sentence that explains why you think the distribution of <code>grade</code> for this <em>random
 sample</em> will look more or less similar to the distribution from the whole <code>cdc</code> data.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a <code>bargraph</code> for <code>grade</code> based on this <em>random sample</em> to check your
+<p><span style="color:firebrick;"><strong>(11) Write and run code creating a <code>bargraph</code> for <code>grade</code> based on this <em>random sample</em> to check your
     prediction.</strong></span></p>
 </li>
 </ul>
 <h3 id="increasing-sample-size"><strong>Increasing sample size</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Create <code>bargraph</code>s for <code>grade</code> based on each of the following sample sizes: 10, 100, 1,000,
+<p><span style="color:firebrick;"><strong>(12) Write and run code creating <code>bargraph</code>s for <code>grade</code> based on each of the following sample sizes: 10, 100, 1,000,
 10,000.</strong></span></p>
 <p>– Compare each distribution to that of the population.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How do the distributions change as the size of the sample increases? Why do you
+<p><span style="color:firebrick;"><strong>(13) How do the distributions change as the size of the sample increases? Why do you
 think this occurs?</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong><code>tally()</code> the proportion of <code>grade</code>s for your <em>convenience</em> sample and all your <em>random</em>
+<p><span style="color:firebrick;"><strong>(14) Write and run code to <code>tally()</code> the proportion of <code>grade</code>s for your <em>convenience</em> sample and all your <em>random</em>
 samples.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Which set of proportions looks most similar to the proportions of the
+<p>– <span style="color:firebrick;"><strong>(15) Which set of proportions looks most similar to the proportions of the
 population?</strong></span></p>
 </li>
 </ul>
 <h3 id="lessons-learned"><strong>Lessons learned</strong></h3>
 <ul>
 <li>
-<p>The mean, or proportion, from a <em>random</em> sample might not always be closer to that of the
+<p>The proportion (or mean) from a <em>random</em> sample might not always be closer to that of the
 true population when compared to a <em>convenience</em> sample.</p>
 </li>
 <li>
@@ -5063,7 +5063,7 @@ true population when compared to a <em>convenience</em> sample.</p>
 <p>– With <em>convenience</em> samples, this might not be the case.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Write down a reason why estimates based on <em>convenience</em> samples might not
+<p><span style="color:firebrick;"><strong>(16) Write down a reason why estimates based on <em>convenience</em> samples might not
 improve even as sample size increases.</strong></span></p>
 </li>
 </ul>
