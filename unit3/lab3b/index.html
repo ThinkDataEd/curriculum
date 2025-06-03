@@ -5043,7 +5043,7 @@ straight from the webpage into R.</p>
 <li>
 <p>You can find the data online here:</p>
 <p>– (Right-click and select <em>Open in New Window</em>)<br> 
-<a href="https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv" target="_blank" title="https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv">https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv</a></p>
+<a href="https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv" target="_blank" title="https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv">https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv</a></p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Click on the <em>Import Dataset</em> button under the <em>Environment</em> tab.</strong></span></p>
@@ -5076,8 +5076,7 @@ straight from the webpage into R.</p>
 1970's.</p>
 </li>
 <li>
-<p>The observations come from a sample of 654 youths, aged 3 to 19, in/around East
-    Boston.</p>
+<p>The observations come from a sample of 654 youths, aged 3 to 19, in/around East Boston.</p>
 </li>
 <li>
 <p>Researchers were interested in answering the <em>research question</em>:</p>
@@ -5087,16 +5086,16 @@ straight from the webpage into R.</p>
 <h3 id="cleaning-your-data"><strong>Cleaning your data</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Now that we've got the data loaded, we need to clean it to get it ready for use (<em>Look at <a href="../../unit1/lab1f/">lab
+<p><span style="color:midnightblue;"><strong>Now that we've got the data loaded, we need to clean it to get it ready for use (<em>Look at <a href="../../unit1/lab1f/">Lab
 1F</a> for help</em>). Specifically:</strong></span></p>
 <p>– We want to name the variables: <code>"age"</code>, <code>"lung_cap"</code>, <code>"height"</code>,
 <code>"gender"</code>,<code>"smoker"</code>, in that order.</p>
-<p>– Change the type of variable for <code>gender</code> and <code>smoker</code> from <em>numeric</em> to <em>character</em>.</p>
+<p>– <span style="color:firebrick;"><strong>(1) Write and run code changing the type of variable for <code>gender</code> and <code>smoker</code> from <em>numeric</em> to <em>character</em>.</strong></span></p>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>After changing the variable types for <code>gender</code> and <code>smoker</code>:</strong></span></p>
-<p>– For <code>gender</code>, use <code>recode</code> to change <code>"1"</code> to <code>"Male"</code> and <code>"0"</code> to <code>"Female"</code>.</p>
-<p>– For <code>smoker</code>, use <code>recode</code> to change <code>"1"</code> to <code>"Yes"</code> and <code>"0"</code> to <code>"No"</code>.</p>
+<p>– <span style="color:firebrick;"><strong>(2) For <code>gender</code>, write and run code using <code>recode</code> to change <code>"1"</code> to <code>"Male"</code> and <code>"0"</code> to <code>"Female"</code>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(3) For <code>smoker</code>, write and run code using <code>recode</code> to change <code>"1"</code> to <code>"Yes"</code> and <code>"0"</code> to <code>"No"</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="analyzing-our-data"><strong>Analyzing our data</strong></h3>
@@ -5105,51 +5104,49 @@ straight from the webpage into R.</p>
 <p>Our <code>lungs</code> data is from an observational study.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Write down a reason the researchers couldn't use an experiment to test the effects of
+<p><span style="color:firebrick;"><strong>(4) Write down a reason the researchers couldn't use an experiment to test the effects of
 smoking on children's lungs.</strong></span></p>
 </li>
 <li>
-<p>Observational studies are often helpful for analyzing how variables are related:</p>
-<p>– <span style="color:firebrick;"><strong>Do you think that a person's age affects their lung capacity? Make a sketch of what you think a scatterplot of the two variables would look like and explain.</strong></span></p>
+<p>Observational studies are often helpful for analyzing how variables are related.</p>
+<p>– <span style="color:firebrick;"><strong>(5) Do you think that a person's age affects their lung capacity? Make a sketch of what you think a scatterplot of the two variables would look like and explain.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>lungs</code> data to create an <code>xyplot</code> of <code>age</code> and <code>lung_cap</code>.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Interpret the plot and describe why the relationship between the two variables
-makes sense.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) Write and run code using the <code>lungs</code> data to create an <code>xyplot</code> of <code>age</code> and <code>lung_cap</code>. Interpret the plot and describe why the relationship between the two variables makes sense.</strong></span></p>
 </li>
 </ul>
 <h3 id="smoking-and-lung-capacity"><strong>Smoking and lung capacity</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Make a plot that can be used to answer the statistical investigative question:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) Write and run code making a plot that can be used to answer the statistical investigative question:</strong></span></p>
 <p><em>Do people who smoke tend to have lower lung capacity than those who do not smoke?</em></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Use your plot to answer the question.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Were you surprised by the answer? Why?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Can you suggest a possible confounding factor that might be affecting the result?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Use your plot to answer the question.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(9) Were you surprised by the answer? Why?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(10) Can you suggest a possible confounding factor that might be affecting the result?</strong></span></p>
 </li>
 </ul>
 <h3 id="lets-compare"><strong>Let's compare</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Create three subsets of the data:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(11) Write and run code creating three subsets of the data:</strong></span></p>
 <p>– One that includes <em>only</em> 13-year-olds ...</p>
 <p>– One that includes <em>only</em> 15-year-olds ...</p>
 <p>– and one that includes <em>only</em> 17-year-olds.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Make a plot that compares the lung capacity of smokers and non-smokers for each subset.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(12) Write and run code making a plot that compares the lung capacity of smokers and non-smokers for each subset.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How does the relationship between smoking and lung capacity change as we
+<p><span style="color:firebrick;"><strong>(13) How does the relationship between smoking and lung capacity change as we
 increase the age from 13 to 15 to 17?</strong></span></p>
 </li>
 </ul>
 <h3 id="sum-it-up"><strong>Sum it up!</strong></h3>
 <ul>
 <li>
-<p><span style="color:firebrick;"><strong>Does smoking affect lung capacity? If so, how?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(14) Does smoking affect lung capacity? If so, how?</strong></span></p>
 <p>– Support your answers with appropriate plots.</p>
 <p>– Explain why you included the variables you used in your plots.</p>
 </li>
