@@ -5035,43 +5035,43 @@
 <h3 id="our-first-tree"><strong>Our first tree</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Use the <code>tree()</code> function to create a <em>classification</em> tree that predicts whether a person <code>survived</code> the Titanic based on their <code>sex</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Write and run code using the <code>tree()</code> function to create a <em>classification</em> tree that predicts whether a person <code>survived</code> the Titanic based on their <code>sex</code>.</strong></span></p>
 <p>– A <em>classification</em> tree tries to predict which category a categorical variable would belong to based on other variables.</p>
 <p>– The syntax for <code>tree</code> is similar to that of the <code>lm()</code> function.</p>
 <p>– <span style="color:midnightblue;"><strong>Assign this model the name <code>tree1</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Why can't we just use a <em>linear model</em> to predict whether a passenger on the Titanic
+<p><span style="color:firebrick;"><strong>(2) Why can't we just use a <em>linear model</em> to predict whether a passenger on the Titanic
 <code>survived</code> or not based on their <code>sex</code>?</strong></span></p>
 </li>
 </ul>
 <h3 id="viewing-trees"><strong>Viewing trees</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>To actually look at and interpret our <code>tree1</code>, place the model into the <code>treeplot</code> function.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Write down the labels of the two <em>branches</em>.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Write down the labels of the two <em>leaves</em>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) To actually look at and interpret our <code>tree1</code>, place the model into the <code>treeplot</code> function.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(4) Write down the labels of the two <em>branches</em>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(5) Write down the labels of the two <em>leaves</em>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Answer the following, based on the <code>treeplot</code>:</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Which <code>sex</code> does the model predict will survive?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Where does the plot tell you the number of people that get sorted into each leaf?
+<p>Answer the following, based on the <code>treeplot</code>:</p>
+<p>– <span style="color:firebrick;"><strong>(6) Which <code>sex</code> does the model predict will survive?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(7) Where does the plot tell you the number of people that get sorted into each leaf?
 How do you know?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Where does the plot tell you the number of people that have been sorted
+<p>– <span style="color:firebrick;"><strong>(8) Where does the plot tell you the number of people that have been sorted
 <em>incorrectly</em> in each leaf?</strong></span></p>
 </li>
 </ul>
 <h3 id="leafier-trees"><strong>Leafier trees</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Similar to how you included multiple variables for a linear model, create a <code>tree</code> that predicts whether a person <code>survived</code> based on their <code>sex</code>, <code>age</code>, <code>class</code>, and where they <code>embarked</code>.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Call this model <code>tree2</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) Similar to how you included multiple variables for a linear model, write and run code creating a <code>tree</code> that predicts whether a person <code>survived</code> based on their <code>sex</code>, <code>age</code>, <code>class</code>, and where they <code>embarked</code>.</strong></span></p>
+<p>– <span style="color:midnightblue;"><strong>Assign this model the name <code>tree2</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Create a treeplot for this model and answer the following question:</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Mrs. Cumings was a 38-year-old female with a 1st class ticket from Cherbourg.
+<p><span style="color:firebrick;"><strong>(10) Write and run code creating a treeplot for this model and answer the following questions:</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(11) Mrs. Baxter was a 50-year-old female with a 1st class ticket from Cherbourg.
 Does the model predict that she survived?</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Which variable ended up not being used by <code>tree2</code>?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(12) Which variable ended up not being used by <code>tree2</code>?</strong></span></p>
 </li>
 </ul>
 <h3 id="tree-complexity"><strong>Tree complexity</strong></h3>
@@ -5086,8 +5086,8 @@ Does the model predict that she survived?</strong></span></p>
 <p>We can also change the minimum number of observations needed in a leaf before we split it into a new branch using <code>minsplit</code>, which equals <code>20</code> by default.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Using the same variables that you used in <code>tree2</code>, create a model named <code>tree3</code> but include <code>cp = 0.005</code> and <code>minsplit = 10</code> as arguments.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>How is <code>tree3</code> different from <code>tree2</code>?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(13) Using the same variables that you used in <code>tree2</code>, write and run code creating a model named <code>tree3</code> but include <code>cp = 0.005</code> and <code>minsplit = 10</code> as arguments.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(14) How is <code>tree3</code> different from <code>tree2</code>?</strong></span></p>
 </li>
 </ul>
 <h3 id="predictions-and-cross-validation"><strong>Predictions and Cross-validation</strong></h3>
@@ -5098,13 +5098,10 @@ Does the model predict that she survived?</strong></span></p>
 <li>
 <p>First, we need to compute the predictions that our model makes on test data.</p>
 <p>– <span style="color:midnightblue;"><strong>Use the <code>data</code> function to load the <code>titanic_test</code> data.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Fill in the blanks below to predict whether people in the <code>titanic_test</code> data survived or not using <code>tree1</code>.</strong></span></p>
-<ul>
-<li>
-<p>Note: the argument <code>type = "class"</code> tells the <code>predict</code> function that we are classifying a categorical variable instead of predicting a numerical variable.</p>
-<p>titanic_test &lt;- mutate(<code>____</code>, prediction = predict(<code>____</code>, newdata = <code>____</code>, type = "class"))</p>
-</li>
-</ul>
+<p>– <span style="color:firebrick;"><strong>(15) Fill in the blanks below to predict whether people in the <code>titanic_test</code> data survived or not using <code>tree1</code>.</strong></span></p>
+<p>– Note: the argument <code>type = "class"</code> tells the <code>predict</code> function that we are predicting a categorical variable and not a numerical variable.</p>
+<pre><code>titanic_test &lt;- mutate(____, prediction = predict(____, newdata = ____, type = "class"))
+</code></pre>
 </li>
 </ul>
 <h3 id="measuring-model-performance"><strong>Measuring model performance</strong></h3>
@@ -5120,27 +5117,22 @@ one category but were actually in another.</p>
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Where does the first misclassification occur?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(16) Where does the first misclassification occur?</strong></span></p>
 </li>
 </ul>
 <h3 id="misclassification-rate"><strong>Misclassification rate</strong></h3>
 <ul>
 <li>
-<p>In order to tally up the total number of misclassifications, we need to create a function that compares the actual outcome with the predicted outcome. The <strong>not equal to</strong> operator (!=) will be useful here.</p>
+<p>In order to tally up the total number of misclassifications, we need to create a function that compares the actual outcome with the predicted outcome. The <strong>not equal to</strong> operator (<code>!=</code>) will be useful here.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks to create a function to calculate the MCR.</strong></span></p>
-</li>
-<li>
-<p>Hint: sum(<code>____</code>!=<code>____</code>) will count the number of times that the left-hand side does not equal the right-hand side.</p>
-<ul>
-<li>
-<p>We want to count the number of times that actual does not equal predicted and then divide by the total number of observations.</p>
-<p>calc_mcr &lt;- function(actual, predicted) {
-sum(<code>____</code>!=<code>____</code>) / length(<code>____</code>)
-}</p>
-</li>
-</ul>
+<p><span style="color:firebrick;"><strong>(17) Fill in the blanks to create a function to calculate the MCR.</strong></span></p>
+<p>– Hint: <code>sum(____!=____)</code> will count the number of times that the left-hand side does not equal the right-hand side.</p>
+<p>– We want to count the number of times that actual does not equal predicted and then divide by the total number of observations.</p>
+<pre><code>calc_mcr &lt;- function(actual, predicted) {
+sum(____ != ____) / length(____)
+}
+</code></pre>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Then run the following to calculate the MCR.</strong></span></p>
@@ -5151,18 +5143,21 @@ sum(<code>____</code>!=<code>____</code>) / length(<code>____</code>)
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p><span style="color:firebrick;"><strong>In your own words, explain what the <em>misclassification rate</em> is.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(18) In your own words, explain what the <em>misclassification rate</em> is.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which model (<code>tree1</code>, <code>tree2</code> or <code>tree3</code>) had the lowest misclassification rate for the <code>titanic_test</code> data?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(19) Which model (<code>tree1</code>, <code>tree2</code>, or <code>tree3</code>) had the lowest misclassification rate for the <code>titanic_test</code> data?</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a 4th model using the same variables used in <code>tree2</code>. This time though, change the <em>complexity parameter</em> to <code>0.0001</code>. Then answer the following.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Does creating a more complex <em>classification tree</em> always lead to better
+<p><span style="color:midnightblue;"><strong>(20) Write and run code creating a 4th model using the same variables used in <code>tree2</code>. This time though, change the <em>complexity parameter</em> to <code>0.0001</code>. Then answer the following.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(21) Does creating a more complex <em>classification tree</em> always lead to better
 predictions? Why not?</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>A <em>regression tree</em> is a tree model that predicts a numerical variable. Create a <em>regression tree</em> model to predict the Titanic's passenger's ages and calculate the MSE.</strong></span></p>
+<p>A <em>regression tree</em> is a tree model that predicts a numerical variable.</p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong> Write and run code creating a <em>regression tree</em> model to predict the Titanic's passengers' ages and calculate the MSE.</strong></span></p>
 <p>– Plots of regression trees are often too complex to plot.</p>
 </li>
 </ul>

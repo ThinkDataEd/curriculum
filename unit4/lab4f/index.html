@@ -4944,19 +4944,17 @@
 <h3 id="divide-conquer"><strong>Divide &amp; Conquer</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Start by loading the <code>movie</code> data and split it into two sets (See <a href="../lab4c/">Lab 4C</a> for help).</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Start by loading the <code>movie</code> data and write and run code splitting it into two sets (see <a href="../lab4c/">Lab 4C</a> for help).</strong></span></p>
 <p>– <span style="color:midnightblue;"><strong>A set named <code>training</code> that includes 75% of the data.</strong></span></p>
 <p>– <span style="color:midnightblue;"><strong>A set named <code>test</code> that includes the remaining 25%.</strong></span></p>
-<ul>
-<li><span style="color:midnightblue;"><strong>Remember to use <code>set.seed</code>.</strong></span></li>
-</ul>
+<p>– <span style="color:midnightblue;"><strong>Remember to use <code>set.seed</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a linear model, using the <code>training</code> data, that predicts <code>gross</code> using <code>runtime</code>.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Compute the MSE of the model by making predictions for the <code>test</code> data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) Write and run code creating a linear model, using the <code>training</code> data, that predicts <code>gross</code> using <code>runtime</code>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(3) Write and run code creating the MSE of the model by making predictions for the <code>test</code> data.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Do you think that a movie's <code>runtime</code> is the only factor that goes into how much a
+<p><span style="color:firebrick;"><strong>(4) Do you think that a movie's <code>runtime</code> is the only factor that goes into how much a
 movie will make? What else might affect a movie's <code>gross</code>?</strong></span></p>
 </li>
 </ul>
@@ -4965,33 +4963,33 @@ movie will make? What else might affect a movie's <code>gross</code>?</strong></
 <li>
 <p>Data scientists often find that including more relevant information in their models leads to
 better predictions.</p>
-<p>– <span style="color:midnightblue;"><strong>Fill in the blanks below to predict <code>gross</code> using <code>runtime</code> and <code>reviews_num</code>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(5) Fill in the blanks below to predict <code>gross</code> using <code>runtime</code> and <code>reviews_num</code>.</strong></span></p>
 <pre><code>lm(____ ~ ____ + ____, data = training)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Does this new model make more or less accurate predictions? Describe the process
+<p><span style="color:firebrick;"><strong>(6) Does this new model make more or less accurate predictions? Describe the process
 you used to arrive at your conclusion.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Write down the code you would use to include a 3rd variable, of your choosing, in
+<p><span style="color:firebrick;"><strong>(7) Write down the code you would use to include a 3rd variable, of your choosing, in
 your <code>lm()</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="own-your-own"><strong>Own your own</strong></h3>
 <ul>
 <li>
-<p><span style="color:firebrick;"><strong>Write down which other variables in the <code>movie</code> data you think would help you make
+<p><span style="color:firebrick;"><strong>(8) Write down which other variables in the <code>movie</code> data you think would help you make
 better predictions.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Are there any variables that you think would not improve our predictions?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(9) Are there any variables that you think would not improve our predictions?</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a model for all of the variables you think are relevant.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Assess whether your model makes more accurate predictions for the <code>test</code> <br />
+<p><span style="color:firebrick;"><strong>(10) Write and run code creating a model for all of the variables you think are relevant.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(11) Assess whether your model makes more accurate predictions for the <code>test</code> <br />
 data than the model that included only <code>runtime</code> and <code>reviews_num</code></strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>With your neighbors, determine which combination of variables leads to the best
+<p><span style="color:firebrick;"><strong>(12) With your neighbors, determine which combination of variables leads to the best
 predictions for the <code>test</code> data.</strong></span></p>
 </li>
 </ul>
