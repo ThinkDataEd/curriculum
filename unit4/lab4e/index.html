@@ -4976,7 +4976,7 @@
 <p>In this lab, we will learn about prediction models that fit <em>best fitting curves</em> to data.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Before moving on, load the <code>movie</code> data and split it into two sets:</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Before moving on, load the <code>movie</code> data and split it into two sets:</strong></span></p>
 <p>– <span style="color:midnightblue;"><strong>A set named <code>training</code> that includes 75% of the data.</strong></span></p>
 <p>– <span style="color:midnightblue;"><strong>And a set named <code>test</code> that includes the remaining 25%.</strong></span></p>
 <p>– <span style="color:midnightblue;"><strong>Remember to use <code>set.seed</code>.</strong></span></p>
@@ -4988,10 +4988,10 @@
 <p>Before learning how to fit curves, let's first fit a linear model for reference.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Train a linear model predicting <code>audience_rating</code> based on <code>critics_rating</code> for the <code>training</code> data. Assign this model to <code>movie_linear</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) Write and run code training a linear model predicting <code>audience_rating</code> based on <code>critics_rating</code> for the <code>training</code> data. Assign this model to <code>movie_linear</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to create a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>test</code> data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Fill in the blanks below to create a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>test</code> data.</strong></span></p>
 <pre><code>xyplot(____ ~ ____, data = ____)
 </code></pre>
 </li>
@@ -5004,12 +5004,12 @@
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Describe, in words, how the line fits the data. Are there any values for <code>critics_rating</code> that would make obviously poor predictions?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(4) Describe, in words, how the line fits the data. Are there any values for <code>critics_rating</code> that would make obviously poor predictions?</strong></span></p>
 <p>– Hint: how does the linear model perform on very low and very high values of <code>critics_rating</code>?</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Compute the MSE of the linear model for the <code>test</code> data and write it down for later.</strong></span></p>
-<p>– Hint: refer to lab 4C.</p>
+<p><span style="color:firebrick;"><strong>(5) Compute the MSE of the linear model for the <code>test</code> data and write it down for later.</strong></span></p>
+<p>– Hint: refer to Lab 4C.</p>
 </li>
 </ul>
 <h3 id="adding-flexibility"><strong>Adding flexibility</strong></h3>
@@ -5041,18 +5041,18 @@
 <ul>
 <li>
 <p>To fit a quadratic model in <code>R</code>, we can use the <code>poly()</code> function.</p>
-<p>– <span style="color:midnightblue;"><strong>Fill in the blanks below to train a quadratic model predicting <code>audience_rating</code> from <code>critics_rating</code>, and assign that model to <code>movie_quad</code>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(6) Fill in the blanks below to train a quadratic model predicting <code>audience_rating</code> from <code>critics_rating</code>, and assign that model to <code>movie_quad</code>.</strong></span></p>
 <pre><code>movie_quad &lt;- lm(____ ~ poly(____, 2), data = training)
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What is the role of the number 2 in the <code>poly()</code> function?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) What is the role of the number <code>2</code> in the <code>poly()</code> function?</strong></span></p>
 </li>
 </ul>
 <h3 id="comparing-lines-and-curves"><strong>Comparing lines and curves</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Fill in the blanks below to</strong></span></p>
 <p>– <span style="color:midnightblue;"><strong>create a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>test</code> data, and</strong></span></p>
 <p>– <span style="color:midnightblue;"><strong>add the <em>line of best fit</em> and <em>best fitting quadratic curve</em>.</strong></span></p>
 <p>– Hint: the <code>col</code> argument is added to the <code>add_curve</code> functions to help distinguish the two curves.</p>
@@ -5062,31 +5062,31 @@ add_curve(____, col = "red")
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Compare how the <em>line of best fit</em> and the <em>quadratic</em> model fit the data. Which do you think has a lower <code>test</code> MSE?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) Compare how the <em>line of best fit</em> and the <em>quadratic</em> model fit the data. Which do you think has a lower <code>test</code> MSE?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Compute the MSE of the quadratic model for the <code>test</code> data and write it down for later.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(10) Compute the MSE of the quadratic model for the <code>test</code> data and write it down for later.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Use the difference in each model's <code>test</code> MSE to describe why one model fits better than the other.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(11) Use the <code>test</code> MSE to explain why one model fits better than the other.</strong></span></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a model that predicts <code>audience_rating</code> using a cubic curve (polynomial with degree <code>3</code>), and assign this model to <code>movie_cubic</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(12) Write and run code creating a model that predicts <code>audience_rating</code> using a cubic curve (polynomial with degree <code>3</code>), and assign this model to <code>movie_cubic</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>test</code> data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(13) Write and run code creating a scatterplot with <code>audience_rating</code> on the y-axis and <code>critics_rating</code> on the x-axis using your <code>test</code> data.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Using the names of the three models you have trained, add the <em>line of best fit</em>, <em>best fitting quadratic curve</em>, and <em>best fitting cubic curve</em> for the <code>training data</code> to the plot.</strong></span></p>
+<p><span style="color:midnightblue;"><strong>Using the names of the three models you have trained, add the <em>line of best fit</em>, <em>best fitting quadratic curve</em>, and <em>best fitting cubic curve</em> for the <code>training</code> data to the plot.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Based on the plot, which model do you think is the best at predicting the <code>test</code> data?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(14) Based on the plot, which model do you think is the best at predicting the <code>test</code> data?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Use the test MSE to verify which model is the best at predicting the <code>test</code> data.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(15) Use the <code>test</code> MSE to verify which model is the best at predicting the <code>test</code> data.</strong></span></p>
 </li>
 </ul>
 
