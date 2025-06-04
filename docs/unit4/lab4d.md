@@ -9,7 +9,7 @@ predictions come to the actual observations.
 * The *correlation coefficient* is a tool that gives us a fairly good idea of how these predictions will
 turn out without having to make predictions on future observations.
 
-* For this lab, we will be using the ```movie``` data set to investigate the following questions:
+* For this lab, we will be using the ```movie``` data set to investigate the following question:
 
     *Which variables are better predictors of a movie's ```critics_rating``` when the predictions are
     made using a line of best fit?*
@@ -22,7 +22,7 @@ turn out without having to make predictions on future observations.
 
     <img src="../../img/4xd0a.png" />
 
-* <span style="color:firebrick;">**Are these variables linearly related? Why or why not?**</span>
+* <span style="color:firebrick;">**(1) Are these variables linearly related? Why or why not?**</span>
 
 ###**Correlation review I**
 
@@ -31,7 +31,7 @@ turn out without having to make predictions on future observations.
 * Correlation coefficients with values close to 1 are very strong with a positive slope. Values close
 to -1 means the correlation is very strong with a negative slope.
 
-* <span style="color:firebrick;">**Does this plot have a positive or negative correlation?**</span>
+* <span style="color:firebrick;">**(2) Does this plot have a positive or negative correlation?**</span>
 
 ###**Correlation review II**
 
@@ -40,11 +40,11 @@ to -1 means the correlation is very strong with a negative slope.
 * Recall that if there is no linear relation between two numerical variables, the correlation
 coefficient is close to 0.
 
-* <span style="color:firebrick;">**What do you guess the correlation coefficient will be for these
+* <span style="color:firebrick;">**(3) What do you guess the correlation coefficient will be for these
 two variables?**</span>
 
 ###**The movie data**
-* <span style="color:midnightblue;">**Load the ```movie``` data using the ```data``` command.**</span>
+* <span style="color:firebrick;">**(4) Write and run code loading the ```movie``` data using the ```data``` command.**</span>
 
 * The data comes from a variety of sources like [*IMDB*](https://www.imdb.com/) and [*Rotten Tomatoes*](https://www.rottentomatoes.com/).
 
@@ -60,49 +60,48 @@ two variables?**</span>
 * We can use the ```cor()``` function to find the particular correlation coefficient of the variables from
 the previous plot, which happen to be ```audience_rating``` and ```critics_rating```.
 
-    – But note, the ```cor()``` function removes any observations which contain an ```NA``` value in
-    either variable.
+* But note, the ```cor()``` function removes any observations which contain an ```NA``` value in either variable.
 
-    – <span style="color:midnightblue;">**Calculate the correlation coefficient for these variables using the ```cor``` function. The
-    inputs to the functions work just like the inputs of the ```xyplot``` function.**</span>
+* <span style="color:firebrick;">**(5) Write and run code calculating the correlation coefficient for these variables using the ```cor()``` function. The inputs to the functions work just like the inputs of the ```xyplot``` function.**</span>
 
 ###**Now answer the following.**
-* <span style="color:firebrick;">**What was the value of the correlation coefficient you calculated?**</span>
+* <span style="color:firebrick;">**(6) What was the value of the correlation coefficient you calculated?**</span>
 
-* <span style="color:firebrick;">**How does this actual value compare with the one you estimated previously?**>/span
+* <span style="color:firebrick;">**(7) How does this actual value compare with the one you estimated previously?**</span>
 
-* <span style="color:firebrick;">**Does this indicate a strong, weak, or moderate association? Why?**</span>
+* <span style="color:firebrick;">**(8) Does this indicate a strong, weak, or moderate association? Why?**</span>
 
-* <span style="color:firebrick;">**How would the scatterplot need to change in order for the correlation to be stronger?**</span>
+* <span style="color:firebrick;">**(9) How would the scatterplot need to change in order for the correlation to be stronger?**</span>
 
-* <span style="color:firebrick;">**How would it need to change in order for the correlation to be weaker?**</span>
+* <span style="color:firebrick;">**(10) How would it need to change in order for the correlation to be weaker?**</span>
 
 ###**Correlation and Predictions**
-* <span style="color:midnightblue;">**Find the two variables that look to have the strongest correlation with ```critics_rating```.**</span>
+* <span style="color:firebrick;">**(11) Find the two variables that look to have the strongest correlation with ```critics_rating```.**</span>
 
-    – <span style="color:midnightblue;">**Compute the correlation coefficients for ```critics_rating``` and each of the two variables.**</span>
+    – <span style="color:firebrick;">**(12) Compute the correlation coefficients for ```critics_rating``` and each of the two variables.**</span>
 
-    – <span style="color:firebrick;">**Use the correlation coefficient to determine which variable has a stronger linear
+    – <span style="color:firebrick;">**(13) Use the correlation coefficient to determine which variable has a stronger linear
     relationship with ```critics_rating```.**</span>
 
-* <span style="color:midnightblue;">**Fit two ```lm``` models to predict ```critics_rating``` with each variable and compute the MSE for each.**</span>
+* <span style="color:firebrick;">**(14) Write and run code fitting two ```lm()``` models to predict ```critics_rating``` with each variable and compute the MSE for each.**</span>
 
-    – <span style="color:firebrick;">**Use the MSE to determine which variable is a better predictor of ```critics_rating```.**</span>
+    – <span style="color:firebrick;">**(15) Use the MSE to determine which variable is a better predictor of ```critics_rating```.**</span>
 
-* <span style="color:firebrick;">**How are the correlation coefficient and the MSE related?**</span>
+* <span style="color:firebrick;">**(16) How are the correlation coefficient and the MSE related?**</span>
 
 ###**On your own**
-* <span style="color:midnightblue;">**Select two different numerical variables from the ```movie``` data. Plot the variables using the ```xyplot()``` function.**</span>
+* <span style="color:firebrick;">**(17) Select two different numerical variables from the ```movie``` data. Plot the variables using the ```xyplot()``` function.**</span>
 
-    – <span style="color:firebrick;">**Would calculating a correlation coefficient for the two variables be appropriate?
+    – <span style="color:firebrick;">**(18) Would calculating a correlation coefficient for the two variables be appropriate?
     Justify your answer.**</span>
 
-    – <span style="color:firebrick;">**Predict what value you think the correlation coefficient will be. Compare this value
+    – <span style="color:firebrick;">**(19) Predict what value you think the correlation coefficient will be. Compare this value
     to the actual value. Finally, interpret what the actual correlation coefficient
     means.**</span>
 
-* <span style="color:firebrick;">**Work with your classmates to determine which two variables have the strongest correlation
+* <span style="color:firebrick;">**(20) Work with your classmates to determine which two variables have the strongest correlation
 coefficient.**</span>
 
-    – <span style="color:firebrick;">**Why do you think these variables are so strongly related? Is using the correlation
-coefficient to describe the relationship appropriate and why/why not?**</span>
+    – <span style="color:firebrick;">**(21) Why do you think these variables are so strongly related?**</span>
+    
+    – <span style="color:firebrick;">**(22) Is using the correlation coefficient to describe the relationship appropriate and why/why not?**</span>
