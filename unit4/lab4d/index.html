@@ -5029,7 +5029,7 @@ predictions come to the actual observations.</p>
 turn out without having to make predictions on future observations.</p>
 </li>
 <li>
-<p>For this lab, we will be using the <code>movie</code> data set to investigate the following questions:</p>
+<p>For this lab, we will be using the <code>movie</code> data set to investigate the following question:</p>
 <p><em>Which variables are better predictors of a movie's <code>critics_rating</code> when the predictions are
 made using a line of best fit?</em></p>
 </li>
@@ -5044,7 +5044,7 @@ made using a line of best fit?</em></p>
 <p><img src="../../img/4xd0a.png" /></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Are these variables linearly related? Why or why not?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Are these variables linearly related? Why or why not?</strong></span></p>
 </li>
 </ul>
 <h3 id="correlation-review-i"><strong>Correlation review I</strong></h3>
@@ -5055,7 +5055,7 @@ made using a line of best fit?</em></p>
 to -1 means the correlation is very strong with a negative slope.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Does this plot have a positive or negative correlation?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) Does this plot have a positive or negative correlation?</strong></span></p>
 </li>
 </ul>
 <h3 id="correlation-review-ii"><strong>Correlation review II</strong></h3>
@@ -5066,14 +5066,14 @@ to -1 means the correlation is very strong with a negative slope.</p>
 coefficient is close to 0.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>What do you guess the correlation coefficient will be for these
+<p><span style="color:firebrick;"><strong>(3) What do you guess the correlation coefficient will be for these
 two variables?</strong></span></p>
 </li>
 </ul>
 <h3 id="the-movie-data"><strong>The movie data</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Load the <code>movie</code> data using the <code>data</code> command.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(4) Write and run code loading the <code>movie</code> data using the <code>data</code> command.</strong></span></p>
 </li>
 <li>
 <p>The data comes from a variety of sources like <a href="https://www.imdb.com/"><em>IMDB</em></a> and <a href="https://www.rottentomatoes.com/"><em>Rotten Tomatoes</em></a>.</p>
@@ -5088,61 +5088,63 @@ two variables?</strong></span></p>
 <li>
 <p>We can use the <code>cor()</code> function to find the particular correlation coefficient of the variables from
 the previous plot, which happen to be <code>audience_rating</code> and <code>critics_rating</code>.</p>
-<p>– But note, the <code>cor()</code> function removes any observations which contain an <code>NA</code> value in
-either variable.</p>
-<p>– <span style="color:midnightblue;"><strong>Calculate the correlation coefficient for these variables using the <code>cor</code> function. The
-inputs to the functions work just like the inputs of the <code>xyplot</code> function.</strong></span></p>
+</li>
+<li>
+<p>But note, the <code>cor()</code> function removes any observations which contain an <code>NA</code> value in either variable.</p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>(5) Write and run code calculating the correlation coefficient for these variables using the <code>cor()</code> function. The inputs to the functions work just like the inputs of the <code>xyplot</code> function.</strong></span></p>
 </li>
 </ul>
 <h3 id="now-answer-the-following"><strong>Now answer the following.</strong></h3>
 <ul>
 <li>
-<p><span style="color:firebrick;"><strong>What was the value of the correlation coefficient you calculated?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) What was the value of the correlation coefficient you calculated?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How does this actual value compare with the one you estimated previously?</strong>&gt;/span</p>
+<p><span style="color:firebrick;"><strong>(7) How does this actual value compare with the one you estimated previously?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Does this indicate a strong, weak, or moderate association? Why?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) Does this indicate a strong, weak, or moderate association? Why?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How would the scatterplot need to change in order for the correlation to be stronger?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) How would the scatterplot need to change in order for the correlation to be stronger?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How would it need to change in order for the correlation to be weaker?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(10) How would it need to change in order for the correlation to be weaker?</strong></span></p>
 </li>
 </ul>
 <h3 id="correlation-and-predictions"><strong>Correlation and Predictions</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Find the two variables that look to have the strongest correlation with <code>critics_rating</code>.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Compute the correlation coefficients for <code>critics_rating</code> and each of the two variables.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Use the correlation coefficient to determine which variable has a stronger linear
+<p><span style="color:firebrick;"><strong>(11) Find the two variables that look to have the strongest correlation with <code>critics_rating</code>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(12) Compute the correlation coefficients for <code>critics_rating</code> and each of the two variables.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(13) Use the correlation coefficient to determine which variable has a stronger linear
 relationship with <code>critics_rating</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fit two <code>lm</code> models to predict <code>critics_rating</code> with each variable and compute the MSE for each.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Use the MSE to determine which variable is a better predictor of <code>critics_rating</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(14) Write and run code fitting two <code>lm()</code> models to predict <code>critics_rating</code> with each variable and compute the MSE for each.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(15) Use the MSE to determine which variable is a better predictor of <code>critics_rating</code>.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How are the correlation coefficient and the MSE related?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(16) How are the correlation coefficient and the MSE related?</strong></span></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Select two different numerical variables from the <code>movie</code> data. Plot the variables using the <code>xyplot()</code> function.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Would calculating a correlation coefficient for the two variables be appropriate?
+<p><span style="color:firebrick;"><strong>(17) Select two different numerical variables from the <code>movie</code> data. Plot the variables using the <code>xyplot()</code> function.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(18) Would calculating a correlation coefficient for the two variables be appropriate?
 Justify your answer.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Predict what value you think the correlation coefficient will be. Compare this value
+<p>– <span style="color:firebrick;"><strong>(19) Predict what value you think the correlation coefficient will be. Compare this value
 to the actual value. Finally, interpret what the actual correlation coefficient
 means.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Work with your classmates to determine which two variables have the strongest correlation
+<p><span style="color:firebrick;"><strong>(20) Work with your classmates to determine which two variables have the strongest correlation
 coefficient.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Why do you think these variables are so strongly related? Is using the correlation
-coefficient to describe the relationship appropriate and why/why not?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(21) Why do you think these variables are so strongly related?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(22) Is using the correlation coefficient to describe the relationship appropriate and why/why not?</strong></span></p>
 </li>
 </ul>
 
