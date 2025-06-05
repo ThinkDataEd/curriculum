@@ -600,20 +600,20 @@
     <td class="tg-zv4m" colspan="3"><a href="../unit3/overview">Daily Overview</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit3/overview">210</a></td>
+    <td class="tg-8jgo"><a href="../unit3/overview">211</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m" colspan="3"><a href="../unit3/essential">Essential Concepts</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit3/essential">211</a></td>
+    <td class="tg-8jgo"><a href="../unit3/essential">212</a></td>
   </tr>
   <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 1: <a href="../unit3/section1">Testing, Testing…1, 2, 3…</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit3/section1">213</a></td>
+    <td class="tg-w1ir"><a href="../unit3/section1">214</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -621,7 +621,7 @@
     <td class="tg-zv4m">Lesson 1: <a href="../unit3/lesson1">Anecdotes vs. Data</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Reading articles critically, data</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson1">215</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson1">216</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -629,7 +629,7 @@
     <td class="tg-zv4m">Lesson 2: <a href="../unit3/lesson2">What is an Experiment?</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Experiments, causation</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson2">218</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson2">219</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -637,7 +637,7 @@
     <td class="tg-zv4m">Lesson 3: <a href="../unit3/lesson3">Let’s Try an Experiment!</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Random assignments, confounding factors</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson3">221</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson3">222</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -645,7 +645,7 @@
     <td class="tg-zv4m">Lesson 4: <a href="../unit3/lesson4">Predictions, Predictions</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Visualizations, predictions</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson4">223</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson4">224</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -653,7 +653,7 @@
     <td class="tg-zv4m">Lesson 5: <a href="../unit3/lesson5">Time Perception Experiment</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Elements of an experiment</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson5">225</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson5">226</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -661,7 +661,7 @@
     <td class="tg-zv4m">Lab 3A: <a href="../unit3/lab3a">The Results Are In!</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Analyzing experiment data</td>
-    <td class="tg-8jgo"><a href="../unit3/lab3a">226</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lab3a">228</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -669,14 +669,14 @@
     <td class="tg-zv4m">Practicum: <a href="../unit3/practicum1">TB or Not TB</a></td>
     <td class="tg-zv4m">TimePerception</td>
     <td class="tg-zv4m">Simulation using experiment data</td>
-    <td class="tg-8jgo"><a href="../unit3/practicum1">227</a></td>
+    <td class="tg-8jgo"><a href="../unit3/practicum1">229</a></td>
   </tr>
   <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 2: <a href="../unit3/section2">Would You Look at That?</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit3/section2">228</a></td>
+    <td class="tg-w1ir"><a href="../unit3/section2">231</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -684,7 +684,7 @@
     <td class="tg-zv4m">Lesson 6: <a href="../unit3/lesson6">Observational Studies</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Observational study</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson6">230</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson6">233</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -692,7 +692,7 @@
     <td class="tg-zv4m">Lesson 7: <a href="../unit3/lesson7">Observational Studies vs. Experiments</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Observational study, experiment</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson7">232</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson7">235</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -700,7 +700,7 @@
     <td class="tg-zv4m">Lesson 8: <a href="../unit3/lesson8">Monsters that Hide in Observational Studies</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Observational study, confounding factors</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson8">234</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson8">237</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -708,14 +708,14 @@
     <td class="tg-zv4m">Lab 3B: <a href="../unit3/lab3b">Confound it all!</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Confounding factors</td>
-    <td class="tg-8jgo"><a href="../unit3/lab3b">238</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lab3b">241</a></td>
   </tr>
   <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 3: <a href="../unit3/section3">Are You Asking Me?</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit3/section3">240</a></td>
+    <td class="tg-w1ir"><a href="../unit3/section3">243</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -723,7 +723,7 @@
     <td class="tg-zv4m">Lesson 9: <a href="../unit3/lesson9">Survey Says…</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Survey</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson9">241</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson9">244</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -731,7 +731,7 @@
     <td class="tg-zv4m">Lesson 10: <a href="../unit3/lesson10">We’re So Random</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Data collection, random samples</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson10">244</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson10">247</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -739,7 +739,7 @@
     <td class="tg-zv4m">Lesson 11: <a href="../unit3/lesson11">The Gettysburg Address</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Sampling bias</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson11">248</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson11">251</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -747,7 +747,7 @@
     <td class="tg-zv4m">Lab 3C: <a href="../unit3/lab3c">Random Sampling</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Random sampling</td>
-    <td class="tg-8jgo"><a href="../unit3/lab3c">253</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lab3c">256</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -755,7 +755,7 @@
     <td class="tg-zv4m">Lesson 12: <a href="../unit3/lesson12">Bias in Survey Sampling</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Bias in survey sampling</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson12">255</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson12">258</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -763,7 +763,7 @@
     <td class="tg-zv4m">Lesson 13: <a href="../unit3/lesson13">The Confidence Game</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Confidence intervals</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson13">258</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson13">261</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -771,7 +771,7 @@
     <td class="tg-zv4m">Lesson 14: <a href="../unit3/lesson14">How Confident Are You?</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Confidence intervals, margin of error</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson14">261</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson14">264</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -779,7 +779,7 @@
     <td class="tg-zv4m">Lab 3D: <a href="../unit3/lab3d">Are You Sure about That?</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Bootstrapping</td>
-    <td class="tg-8jgo"><a href="../unit3/lab3d">263</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lab3d">266</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -787,14 +787,14 @@
     <td class="tg-zv4m">Practicum: <a href="../unit3/practicum2">Let’s Build a Survey!</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Survey design with non-leading questions</td>
-    <td class="tg-8jgo"><a href="../unit3/practicum2">266</a></td>
+    <td class="tg-8jgo"><a href="../unit3/practicum2">269</a></td>
   </tr>
   <tr> 
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 4: <a href="../unit3/section4">What’s the Trigger?</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit3/section4">267</a></td>
+    <td class="tg-w1ir"><a href="../unit3/section4">270</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -802,7 +802,7 @@
     <td class="tg-zv4m">Lesson 15 <a href="../unit3/lesson15">Ready, Sense, Go!</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Sensors, data collection</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson15">268</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson15">271</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -810,7 +810,7 @@
     <td class="tg-zv4m">Lesson 16: <a href="../unit3/lesson16">Does it have a Trigger?</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Survey questions, sensor questions</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson16">271</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson16">274</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -818,7 +818,7 @@
     <td class="tg-zv4m">Lesson 17: <a href="../unit3/lesson17">Creating Our Own PS Campaign</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Participatory Sensing campaign creation</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson17">273</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson17">276</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -826,7 +826,7 @@
     <td class="tg-zv4m">Lesson 18: <a href="../unit3/lesson18">Evaluating Our Own PS Campaign</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Statistical investigative questions, evaluate campaign</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson18">276</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson18">279</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -834,14 +834,14 @@
     <td class="tg-zv4m">Lesson 19: <a href="../unit3/lesson19">Implementing Our Own PS Campaign</a></td>
     <td class="tg-zv4m">Class Campaign—data</td>
     <td class="tg-zv4m">Mock-implement &amp; create campaign </td>
-    <td class="tg-8jgo"><a href="../unit3/lesson19">278</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson19">281</a></td>
   </tr>
   <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 5: <a href="../unit3/section5">Webpages</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit3/section5">280</a></td>
+    <td class="tg-w1ir"><a href="../unit3/section5">283</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -849,7 +849,7 @@
     <td class="tg-zv4m">Lesson 20: <a href="../unit3/lesson20">Online Data-ing</a></td>
     <td class="tg-zv4m">Class Campaign—data</td>
     <td class="tg-zv4m">Data on the internet</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson20">281</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson20">284</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -857,7 +857,7 @@
     <td class="tg-zv4m">Lab 3E: <a href="../unit3/lab3e">Scraping Web Data</a></td>
     <td class="tg-zv4m">Class Campaign—data</td>
     <td class="tg-zv4m">Scraping data from the Internet</td>
-    <td class="tg-8jgo"><a href="../unit3/lab3e">284</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lab3e">287</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -865,7 +865,7 @@
     <td class="tg-zv4m">Lab 3F: <a href="../unit3/lab3f">Maps</a></td>
     <td class="tg-zv4m">Class Campaign—data</td>
     <td class="tg-zv4m">Making maps with data from the Internet</td>
-    <td class="tg-8jgo"><a href="../unit3/lab3f">286</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lab3f">289</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -873,7 +873,7 @@
     <td class="tg-zv4m">Lesson 21: <a href="../unit3/lesson21">Learning to Love XML</a></td>
     <td class="tg-zv4m">Class Campaign—data</td>
     <td class="tg-zv4m">Data storage, XML</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson21">288</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson21">291</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -881,23 +881,15 @@
     <td class="tg-zv4m">Lesson 22: <a href="../unit3/lesson22">Changing Format</a></td>
     <td class="tg-zv4m">Class Campaign—data</td>
     <td class="tg-zv4m">Converting XML files</td>
-    <td class="tg-8jgo"><a href="../unit3/lesson22">293</a></td>
+    <td class="tg-8jgo"><a href="../unit3/lesson22">296</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Practicum: What Does Our Campaign Data Say?</td>
+    <td class="tg-zv4m">End of Unit 3 Project: <a href="../unit3/end">Analyzing Our Own Campaign Data</a></td>
     <td class="tg-zv4m">Class Campaign</td>
-    <td class="tg-zv4m">Statistical investigative questions, our data</td>
-    <td class="tg-8jgo">296</td>
-  </tr>
-  <tr>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">End of Unit Project: <a href="../unit3/end">TB or Not TB</a></td>
-    <td class="tg-zv4m">Class Campaign</td>
-    <td class="tg-zv4m">Simulation using experiment data</td>
-    <td class="tg-8jgo"><a href="../unit3/end">297</a></td>
+    <td class="tg-zv4m">Statistical investigative question, our data</td>
+    <td class="tg-8jgo"><a href="../unit3/end">299</a></td>
   </tr>
   <tr>
     <td class="tg-gwzd" colspan="3">UNIT 4</td>
@@ -909,20 +901,20 @@
     <td class="tg-zv4m" colspan="3"><a href="../unit4/overview">Daily Overview</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit4/overview">300</a></td>
+    <td class="tg-8jgo"><a href="../unit4/overview">301</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m" colspan="3"><a href="../unit4/essential">Essential Concepts</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-8jgo"><a href="../unit4/essential">301</a></td>
+    <td class="tg-8jgo"><a href="../unit4/essential">302</a></td>
   </tr>
   <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 1: <a href="../unit4/section1">Campaigns and Community</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit4/section1">303</a></td>
+    <td class="tg-w1ir"><a href="../unit4/section1">304</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -930,7 +922,7 @@
     <td class="tg-zv4m">Lesson 1: <a href="../unit4/lesson1">Trash</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Modeling to answer real world problems, official datasets</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson1">304</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson1">306</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -938,7 +930,7 @@
     <td class="tg-zv4m">Lesson 2: <a href="../unit4/lesson2">Drought</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Exploratory data analysis, campaign creation</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson2">307</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson2">309</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -946,7 +938,7 @@
     <td class="tg-zv4m">Lesson 3: <a href="../unit4/lesson3">Community Connection</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Community topic research, campaign creation</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson3">309</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson3">311</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -954,7 +946,7 @@
     <td class="tg-zv4m">Lesson 4: <a href="../unit4/lesson4">Evaluate and Implement the Campaign</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Evaluate &amp; mock-implement campaign</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson4">312</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson4">314</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -962,14 +954,14 @@
     <td class="tg-zv4m">Lesson 5: <a href="../unit4/lesson5">Refine and Create the Campaign</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Revise and edit campaign, data collection</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson5">314</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson5">316</a></td>
   </tr>
 <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 2: <a href="../unit4/section2">Predictions and Models</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit4/section2">315</a></td>
+    <td class="tg-w1ir"><a href="../unit4/section2">317</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -977,7 +969,7 @@
     <td class="tg-zv4m">Lesson 6: <a href="../unit4/lesson6">Statistical Predictions Using One Variable</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">One variable predictions using a rule</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson6">317</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson6">319</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -985,7 +977,7 @@
     <td class="tg-zv4m">Lesson 7: <a href="../unit4/lesson7">Statistical Predictions Applying the Rule</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Predictions applying MSE, MAE</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson7">319</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson7">321</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -993,7 +985,7 @@
     <td class="tg-zv4m">Lesson 8: <a href="../unit4/lesson8">Statistical Predictions Using Two Variables</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Two-variable statistical predictions</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson8">323</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson8">325</a></td>
   </tr>
 <tr>
     <td class="tg-zv4m"></td>
@@ -1001,7 +993,7 @@
     <td class="tg-zv4m">Lesson 9: <a href="../unit4/lesson9">The Spaghetti Line</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Estimate line of best fit, linear regression</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson9">326</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson9">328</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1009,7 +1001,7 @@
     <td class="tg-zv4m">LAB 4A: <a href="../unit4/lab4a">If the Line Fits…</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Estimate line of best fit</td>
-    <td class="tg-8jgo"><a href="../unit4/lab4a">328</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lab4a">330</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1017,7 +1009,7 @@
     <td class="tg-zv4m">Lesson 10: <a href="../unit4/lesson10">What’s the Best Line?</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Predictions based on linear models</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson10">330</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson10">332</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1025,7 +1017,7 @@
     <td class="tg-zv4m">LAB 4B: <a href="../unit4/lab4b">What’s the Score?</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Comparing predictions to real data</td>
-    <td class="tg-8jgo"><a href="../unit4/lab4b">333</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lab4b">335</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1033,7 +1025,7 @@
     <td class="tg-zv4m">LAB 4C: <a href="../unit4/lab4c">Cross-Validation</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Use training and test data for predictions</td>
-    <td class="tg-8jgo"><a href="../unit4/lab4c">335</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lab4c">337</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1041,7 +1033,7 @@
     <td class="tg-zv4m">Lesson 11: <a href="../unit4/lesson11">What’s the Trend?</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Trend, associations, linear model</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson11">338</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson11">340</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1049,7 +1041,7 @@
     <td class="tg-zv4m">Lesson 12: <a href="../unit4/lesson12">How Strong Is It?</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Correlation coefficient, strength of trend</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson12">342</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson12">344</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1057,7 +1049,7 @@
     <td class="tg-zv4m">LAB 4D: <a href="../unit4/lab4d">Interpreting Correlations</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Correlation coefficient, best model</td>
-    <td class="tg-8jgo"><a href="../unit4/lab4d">345</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lab4d">347</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1065,7 +1057,7 @@
     <td class="tg-zv4m">Lesson 13: <a href="../unit4/lesson13">Improving Your Model</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Non-linear regression</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson13">348</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson13">350</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1073,7 +1065,7 @@
     <td class="tg-zv4m">LAB 4E: <a href="../unit4/lab4e">Some Models Have Curves</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Non-linear regression</td>
-    <td class="tg-8jgo"><a href="../unit4/lab4e">350</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lab4e">352</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1081,14 +1073,14 @@
     <td class="tg-zv4m">Practicum: <a href="../unit4/practicum1">Predictions</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Linear regression</td>
-    <td class="tg-8jgo"><a href="../unit4/practicum1">352</a></td>
+    <td class="tg-8jgo"><a href="../unit4/practicum1">354</a></td>
   </tr>
   <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 3: <a href="../unit4/section3">Piecing it Together</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit4/section3">353</a></td>
+    <td class="tg-w1ir"><a href="../unit4/section3">355</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1096,7 +1088,7 @@
     <td class="tg-zv4m">Lesson 14: <a href="../unit4/lesson14">More Variables to Make Better Predictions</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Multiple linear regression</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson14">354</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson14">357</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1104,7 +1096,7 @@
     <td class="tg-zv4m">Lesson 15: <a href="../unit4/lesson15">Combination of Variables</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Multiple linear regression</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson15">357</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson15">360</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1112,14 +1104,14 @@
     <td class="tg-zv4m">LAB 4F: <a href="../unit4/lab4f">This Model Is Big Enough for All of Us</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Multiple linear regression</td>
-    <td class="tg-8jgo"><a href="../unit4/lab4f">360</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lab4f">363</a></td>
   </tr>
   <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 4: <a href="../unit4/section4">Decisions, Decisions!</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit4/section4">361</a></td>
+    <td class="tg-w1ir"><a href="../unit4/section4">364</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1127,7 +1119,7 @@
     <td class="tg-zv4m">Lesson 16: <a href="../unit4/lesson16">Footbal or Futbol?</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Multiple predictors, classifying into groups</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson16">362</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson16">365</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1135,7 +1127,7 @@
     <td class="tg-zv4m">Lesson 17: <a href="../unit4/lesson17">Grow Your Own Decision Tree</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Decision trees based on training/test data</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson17">368</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson17">371</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1143,14 +1135,14 @@
     <td class="tg-zv4m">LAB 4G: <a href="../unit4/lab4g">Growing Trees</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Decision trees to classify observations</td>
-    <td class="tg-8jgo"><a href="../unit4/lab4g">372</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lab4g">375</a></td>
   </tr>
   <tr>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx" colspan="2">Section 5: <a href="../unit4/section5">Ties That Bind</a></td>
     <td class="tg-u6gx"></td>
     <td class="tg-u6gx"></td>
-    <td class="tg-w1ir"><a href="../unit4/section5">375</a></td>
+    <td class="tg-w1ir"><a href="../unit4/section5">378</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1158,7 +1150,7 @@
     <td class="tg-zv4m">Lesson 18: <a href="../unit4/lesson18">Where Do I Belong?</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Clustering, k-means</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson18">376</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson18">379</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1166,7 +1158,7 @@
     <td class="tg-zv4m">LAB 4H: <a href="../unit4/lab4h">Finding Clusters</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Clustering, k-means</td>
-    <td class="tg-8jgo"><a href="../unit4/lab4h">382</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lab4h">385</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
@@ -1174,15 +1166,15 @@
     <td class="tg-zv4m">Lesson 19: <a href="../unit4/lesson19">Our Class Network</a></td>
     <td class="tg-zv4m">Team Campaign—data</td>
     <td class="tg-zv4m">Clustering, networks</td>
-    <td class="tg-8jgo"><a href="../unit4/lesson19">384</a></td>
+    <td class="tg-8jgo"><a href="../unit4/lesson19">387</a></td>
   </tr>
   <tr>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m"><a href="../unit4/end">End of Unit Modeling Activity Project</a><br></td>
+    <td class="tg-zv4m">End of Unit 4 Project: <a href="../unit4/end">Modeling a Community Issue</a><br></td>
     <td class="tg-zv4m">Team Campaign</td>
     <td class="tg-zv4m">Synthesis of Unit 4</td>
-    <td class="tg-8jgo"><a href="../unit4/end">387</a></td>
+    <td class="tg-8jgo"><a href="../unit4/end">390</a></td>
   </tr>
 
 </table>
