@@ -29,7 +29,7 @@ clusters.
     – This data contains 24 players from the US Men's National Soccer team (USMNT)
     and 33 quarterbacks from the National Football League (NFL).
 
-* <span style="color:midnightblue;">**Create a scatterplot of the players ```ht_inches``` and ```wt_lbs``` and color each dot based on the ```league``` they play for.**</span>
+* <span style="color:firebrick;">**(1) Write and run code creating a scatterplot of the players ```ht_inches``` and ```wt_lbs``` and color each dot based on the ```league``` they play for.**</span>
 
 ###**Running k-means**
 * After plotting the player's heights and weights, we can see that there are two clusters, or
@@ -38,33 +38,31 @@ different types, of players:
     – Players in the NFL tend to be taller and weigh more than the shorter and lighter
     USMNT players.
 
-* <span style="color:midnightblue;">**Fill in the blanks below to use k-means to cluster the same height and weight data into two
+* <span style="color:firebrick;">**(2) Fill in the blanks below to use k-means to cluster the same height and weight data into two
 groups:**</span>
 
         kclusters(____~____, data = futbol, k = ____)
 
-* <span style="color:midnightblue;">**Use this code and the ```mutate``` function to add the values from ```kclusters``` to the ```futbol```
-data. Call the variable ```clusters```.**</span>
+* <span style="color:firebrick;">**(3) Use this code and the ```mutate``` function to add the values from ```kclusters``` to the ```futbol```
+data. Name the variable ```clusters```.**</span>
 
 ###**k-means vs. ground-truth**
 * In comparing our football and soccer players, we *know* for certain which league each player
-plays in.
-
-    – We call this knowledge *ground-truth*.
+plays in. We call this knowledge *ground-truth*.
 
 * Knowing the *ground-truth* for this example is helpful to illustrate how k-means works, but in reality, data-scientists would run k-means not knowing the *ground-truth*.
 
-* <span style="color:firebrick;">**Compare the clusters chosen by k-means to the ground-truth. How successful was k-means
+* <span style="color:firebrick;">**(4) Compare the clusters chosen by k-means to the ground-truth. How successful was k-means
 at recovering the ```league``` information?**</span>
 
 ###**On your own**
-* <span style="color:midnightblue;">**Load your class' ```timeuse``` data (remember to run ```timeuse_format``` so each row represents the mean time each student spent participating in the various activities).**</span>
+* <span style="color:midnightblue;">**Load your class's ```timeuse``` data (remember to run ```timeuse_format``` so each row represents the mean time each student spent participating in the various activities).**</span>
 
-* <span style="color:midnightblue;">**Create a scatterplot of ```homework``` and ```videogames``` variables.**</span>
+* <span style="color:firebrick;">**(5) Write and run code creating a scatterplot of ```homework``` and ```videogames``` variables.**</span>
 
-    – <span style="color:midnightblue;">**Based on this graph, identify and remove any outliers by using the ```filter``` function.**</span>
+* <span style="color:firebrick;">**(6) Based on this graph, identify and remove any outliers by using the ```filter``` function.**</span>
 
-* <span style="color:midnightblue;">**Use ```kclusters``` with ```k=2``` for ```homework``` and ```videogames```.**</span>
+* <span style="color:firebrick;">**(7) Write and run code using ```kclusters``` with ```k=2``` for ```homework``` and ```videogames```.**</span>
 
-    – <span style="color:firebrick;">**Describe how the groups differ from each other in terms of how long each
-    group spends playing ```videogames``` and doing ```homework```.**</span>
+* <span style="color:firebrick;">**(8) Describe how the groups differ from each other in terms of how long each
+group spends playing ```videogames``` and doing ```homework```.**</span>
