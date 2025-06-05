@@ -4979,7 +4979,7 @@ clusters.</p>
 and 33 quarterbacks from the National Football League (NFL).</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a scatterplot of the players <code>ht_inches</code> and <code>wt_lbs</code> and color each dot based on the <code>league</code> they play for.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(1) Write and run code creating a scatterplot of the players <code>ht_inches</code> and <code>wt_lbs</code> and color each dot based on the <code>league</code> they play for.</strong></span></p>
 </li>
 </ul>
 <h3 id="running-k-means"><strong>Running k-means</strong></h3>
@@ -4991,43 +4991,46 @@ different types, of players:</p>
 USMNT players.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Fill in the blanks below to use k-means to cluster the same height and weight data into two
+<p><span style="color:firebrick;"><strong>(2) Fill in the blanks below to use k-means to cluster the same height and weight data into two
 groups:</strong></span></p>
 <pre><code>kclusters(____~____, data = futbol, k = ____)
 </code></pre>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use this code and the <code>mutate</code> function to add the values from <code>kclusters</code> to the <code>futbol</code>
-data. Call the variable <code>clusters</code>.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Use this code and the <code>mutate</code> function to add the values from <code>kclusters</code> to the <code>futbol</code>
+data. Name the variable <code>clusters</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="k-means-vs-ground-truth"><strong>k-means vs. ground-truth</strong></h3>
 <ul>
 <li>
 <p>In comparing our football and soccer players, we <em>know</em> for certain which league each player
-plays in.</p>
-<p>– We call this knowledge <em>ground-truth</em>.</p>
+plays in. We call this knowledge <em>ground-truth</em>.</p>
 </li>
 <li>
 <p>Knowing the <em>ground-truth</em> for this example is helpful to illustrate how k-means works, but in reality, data-scientists would run k-means not knowing the <em>ground-truth</em>.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Compare the clusters chosen by k-means to the ground-truth. How successful was k-means
+<p><span style="color:firebrick;"><strong>(4) Compare the clusters chosen by k-means to the ground-truth. How successful was k-means
 at recovering the <code>league</code> information?</strong></span></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>Load your class' <code>timeuse</code> data (remember to run <code>timeuse_format</code> so each row represents the mean time each student spent participating in the various activities).</strong></span></p>
+<p><span style="color:midnightblue;"><strong>Load your class's <code>timeuse</code> data (remember to run <code>timeuse_format</code> so each row represents the mean time each student spent participating in the various activities).</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Create a scatterplot of <code>homework</code> and <code>videogames</code> variables.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Based on this graph, identify and remove any outliers by using the <code>filter</code> function.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(5) Write and run code creating a scatterplot of <code>homework</code> and <code>videogames</code> variables.</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use <code>kclusters</code> with <code>k=2</code> for <code>homework</code> and <code>videogames</code>.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Describe how the groups differ from each other in terms of how long each
+<p><span style="color:firebrick;"><strong>(6) Based on this graph, identify and remove any outliers by using the <code>filter</code> function.</strong></span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>(7) Write and run code using <code>kclusters</code> with <code>k=2</code> for <code>homework</code> and <code>videogames</code>.</strong></span></p>
+</li>
+<li>
+<p><span style="color:firebrick;"><strong>(8) Describe how the groups differ from each other in terms of how long each
 group spends playing <code>videogames</code> and doing <code>homework</code>.</strong></span></p>
 </li>
 </ul>
