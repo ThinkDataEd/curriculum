@@ -11,7 +11,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – The branches help sort our data into *leaves* which can then be used to make predictions.
 
-* <span style="color:midnightblue;">**Start, by loading the ```titanic``` data.**</span>
+* <span style="color:midnightblue;">**Start by loading the ```titanic``` data.**</span>
 
 ###**Our first tree**
 * <span style="color:firebrick;">**(1) Write and run code using the ```tree()``` function to create a *classification* tree that predicts whether a person ```survived``` the Titanic based on their ```sex```.**</span>
@@ -120,6 +120,6 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * A *regression tree* is a tree model that predicts a numerical variable.
 
-* <span style="color:firebrick;">** Write and run code creating a *regression tree* model to predict the Titanic's passengers' ages and calculate the MSE.**</span>
+* <span style="color:firebrick;">**(22) Write and run code creating a *regression tree* model to predict the Titanic's passengers' ages and calculate the MSE.**</span>
 
     – Plots of regression trees are often too complex to plot.
