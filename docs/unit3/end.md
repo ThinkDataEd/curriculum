@@ -1,86 +1,51 @@
 ##***<u>End of Unit Project and Presentation: TB or Not TB?</u>***
 
 ###**Objective:**
-Students will apply what they have learned in the unit.
+Students will answer one of the statistical investigative questions they generated at the beginning of the Participatory Sensing
+campaign creation lesson. They will use RStudio to make graphical representations or numerical
+summaries of their data to answer their question.
 
 ###**Materials:**
-1. Computers
+1. *End of Unit 3 Project: Analyzing Our Own Campaign Data* ([LMR_U3_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End_of_Unit_Project.pdf))
 
-2. *IDS Unit 3 – Project and Presentation* ([LMR_U3_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End_of_Unit_Project.pdf))
-
-<center>**IDS Unit 3 – End of Unit Project**</center>
+<center>**End of Unit 3 Project**</center>
     
-<center>**TB or Not TB**</center>
+<center>**Analyzing Our Own Campaign Data**</center>
 
-Experiments in the medical field that involve new treatments (new medications) are called clinical trials.
-You have received a dataset that shows the results from Sir Austin Bradford Hill’s first randomized study
-in 1948 examining the effects of the antibiotic Streptomycin on 107 tuberculosis patients. You and a
-partner will use this dataset to find out if Streptomycin is an effective treatment for tuberculosis.
+At the start of the Participatory Sensing campaign creation in [lesson 16](lesson16.md), the class developed a research question about your class’s topic of interest.
 
-A short article about tuberculosis facts can be found at:
-[https://www.cdc.gov/tb/communication-resources/tuberculosis-fact-sheet.html](https://www.cdc.gov/tb/communication-resources/tuberculosis-fact-sheet.html "https://www.cdc.gov/tb/communication-resources/tuberculosis-fact-sheet.html"){:target="_blank"}
+It is now time to analyze and interpret your class campaign data. You will use the data from your class-created
+campaign only. Based on the analysis, you can also wonder about what other data would be
+necessary to better answer your question, if any.
 
-Since this is an experiment, answer the following questions below. You may need to research the answer
-to some of the questions.
+Based on the class’s campaign data collected:
 
-a. What is the research question?
+1. Refer back to the statistical investigative questions your team and class generated in [lesson 16](lesson16.md)-[18](lesson18.md) that address the
+research question.
 
-b. Who are the subjects that participated in the experiment?
+2. Choose one of these statistical investigative questions and determine which variables will answer this question.
 
-c. What is the treatment?
+3. Analyze the data to answer the question you've chosen. Your analysis should include graphs
+and numerical summaries. You should:
 
-d. Who is in the treatment group?
+    a. Provide the plot and numerical summary.
 
-e. Who is in the control group?
+    b. Describe what the plot shows.
 
-f. How were the subjects assigned to each group?
+    c. Explain why you chose to make that particular plot.
 
-g. What population is this experiment representative of?
+    d. Explain how the plot and numerical summary answers your statistical investigative question.
 
-h. What is the variable that we will be measuring?
+    e. Include the code you used in RStudio to make your plot.
 
-i. What is the outcome of this experiment?
+4. After analyzing your data, determine if additional data would better answer your statistical investigative question. If so, propose what that data would be. Different variables? Different data collection approach? Same variables, but more people? Same variables and people but more time?
 
-To answer your research question, you and a partner will compare the outcome of the data with the
-outcomes given by a chance model (in which Streptomycin has no effect on TB).
+5. Now, choose two more statistical investigative questions that address the research question.
 
-1. First, scrape the data. Refer to the web scraping lab if you need to recall how to scrape data.
-To access Sir Hill’s data, go to: [https://labs.idsucla.org/extras/webdata/tb.html](https://labs.idsucla.org/extras/webdata/tb.html "https://labs.idsucla.org/extras/webdata/tb.html"){:target="_blank"}
+6. Analyze and interpret the data to answer these questions.
 
-2. Second, determine the percentages of subjects in the study that died and the percentages of
-the subjects that recovered for each group.
+7. Sometimes, when analyzing data, we think of new statistical investigative questions to ask, or we realize that
+the data need to be cleaned before we can answer. Explain whether this is the case with any of
+your statistical investigative questions.
 
-3. Third, assuming that the treatment had no effect, use the data to:
-
-    a. Calculate the percentage of people with tuberculosis we would expect to die.
-
-    b. Use the *expected* percentage from (a), above, to calculate the number of people we expect
-    to die from the treatment group.
-    
-    c. Compare the outcome from (b), the number of people we expected to die, to the number of people from the treatment group that *actually*
-    died.
-
-4. Then, if we assume that the outcome does not depend on the treatment, design and
-complete an appropriate simulation in RStudio using a chance model to replicate Sir Hill’s
-study:
-
-    a. Shuffle the treatment and control labels 300 times; each time, calculate the
-    percentage of treatment patients who “died”. Plot the distribution of the 300
-    percentages. Refer to the simulation labs if you need to recall how to create a
-    simulation.
-
-    b. Use the results from the chance model (shuffling) to determine whether (i.) or (ii.)
-    below is the most reasonable explanation for the actual data in Sir Hill’s study and
-    state why:
-
-    &nbsp;&nbsp;&nbsp;&nbsp;i. Streptomycin is a much better treatment for tuberculosis than bed rest. So, the outcome depends on the treatment.
-    
-    &nbsp;&nbsp;&nbsp;&nbsp;ii. The actual difference between treatments is due to chance; Streptomycin may not be effective on tuberculosis. So, it is possible that treatment and outcome are independent.
-
-5. Can we say that Streptomycin ***causes*** the recovery of tuberculosis patients? Explain your
-answer.
-
-Create a 4-5 slide, 5-minute presentation that shows your results. Be sure to include a detailed
-explanation of how you and your partner decided to conduct your simulation. Each person must
-participate in the presentation. In addition to the presentation, submit a 2-4 page, double-spaced
-summary of your analysis.
+8. Write a one-page report and present it to another member of the class who is not in your team.
