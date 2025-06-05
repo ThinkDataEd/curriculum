@@ -291,7 +291,7 @@
   <tr>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">End of Unit Project: <a href="../unit1/end">Analyzing Data to Evaluate Claims</a></td>
+    <td class="tg-zv4m">End of Unit 1 Project: <a href="../unit1/end">Evaluating Claims from the Media</a></td>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Data cycle</td>
     <td class="tg-8jgo"><a href="../unit1/end">112</a></td>
@@ -585,7 +585,7 @@
   <tr>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">End of Unit Project &amp; Presentation: <a href="../unit2/end">Asking and Answering Statistical Investigative Questions of Our Data</a></td>
+    <td class="tg-zv4m">End of Unit 2 Project: <a href="../unit2/end">Comparing Groups Using Our Own Data</a></td>
     <td class="tg-zv4m">Stress/Chill, Personality Color, FoodHabits, or Time Use</td>
     <td class="tg-zv4m">Synthesis of Unit 2</td>
     <td class="tg-8jgo"><a href="../unit2/end">208</a></td>
@@ -666,9 +666,9 @@
   <tr>
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Practicum: <a href="../unit3/practicum1">Music to my Ears</a></td>
-    <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Design an experiment</td>
+    <td class="tg-zv4m">Practicum: <a href="../unit3/practicum1">TB or Not TB</a></td>
+    <td class="tg-zv4m">TimePerception</td>
+    <td class="tg-zv4m">Simulation using experiment data</td>
     <td class="tg-8jgo"><a href="../unit3/practicum1">227</a></td>
   </tr>
   <tr>

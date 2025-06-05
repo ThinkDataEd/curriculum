@@ -191,7 +191,7 @@ nav:
             - 'Lesson 4: Predictions, Predictions' : unit3/lesson4.md
             - 'Lesson 5: Time Perception Experiment' : unit3/lesson5.md
             - 'Lab 3A: The Results Are In!' : unit3/lab3a.md
-            - 'Practicum: Music to my Ears' : unit3/practicum1.md  
+            - 'Practicum: TB or Not TB' : unit3/practicum1.md  
         - 'Section 2': 
             - 'Would You Look at That?' : unit3/section2.md
             - 'Lesson 6: Observational Studies' : unit3/lesson6.md
@@ -223,8 +223,8 @@ nav:
             - 'Lab 3F: Maps' : unit3/lab3f.md 
             - 'Lesson 21: Learning to Love XML' : unit3/lesson21.md
             - 'Lesson 22: Changing Format' : unit3/lesson22.md
-            - 'Practicum: What Does Our Campaign Data Say?' : unit3/practicum3.md 
-            - 'End of Unit Project: TB or Not TB' : unit3/end.md 
+            #- 'Practicum: What Does Our Campaign Data Say?' : unit3/practicum3.md 
+            - 'End of Unit 3 Project: Analyzing Our Own Campaign Data' : unit3/end.md 
         # - Sections:
         #     - 'Section 1: Testing, Testing…1, 2, 3…' : unit3/section1.md
         #     - 'Section 2: Would You Look at That?' : unit3/section2.md
