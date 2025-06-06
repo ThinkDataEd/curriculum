@@ -2,7 +2,7 @@
 
 ###**Objective:**
 Students will apply what they have learned by engaging in the Data Cycle using the data they
-collected from the Food Habits campaign. Students will present their findings to the class.
+collected from the *Food Habits* campaign. Students will present their findings to the class.
 
 ###**Materials:**
 1. *The Data Cycle Practicum* ([LMR_U1_Practicum_Data_Cycle](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Data_Cycle.pdf))
