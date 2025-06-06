@@ -9,7 +9,7 @@ a dataset.
 
 2. Projector
 
-3. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+3. RStudio: [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
 
 4. Video showing how to log into RStudio/Posit Cloud for the first time found **[here](https://www.youtube.com/watch_popup?v=vgh7C8U8Ekk "https://www.youtube.com/watch_popup?v=vgh7C8U8Ekk"){:target="_blank"}**.
 
@@ -43,7 +43,7 @@ the statistical programming software that academics and professional statisticia
 Introduction to Data Science course will utilize RStudio, which also runs on R. They will learn the
 programming language of RStudio for data analysis.
 
-2. Demonstrate how to access RStudio/Posit Cloud by projecting the URL: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} on a screen.
+2. Demonstrate how to access RStudio/Posit Cloud by projecting the URL: [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"} on a screen.
 Then, click on the RStudio (Posit Cloud) icon on the page.
 
 3. Inform students that they will log into RStudio/Posit Cloud using the "Log In with Google" option. Note that this is not the same as their IDS App & IDS Homepage login.
@@ -166,7 +166,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next 3 Days**</p>
-Students should continue to collect nutritional facts data using the Food Habits Participatory Sensing
+Students should continue to collect nutritional facts data using the *Food Habits* Participatory Sensing
 campaign on their smart devices or via web browser.
 
 <center>[<u>***Lab 1A: Data, Code & RStudio***</u>](lab1a.md)</center>
