@@ -16,7 +16,7 @@ the distributions give us information about the variability of the data.
 
 3. Nutrition facts labels or pictures (collected previously by students)
 
-4. *Food Habits Data Collection* handout (from [lesson 6](lesson6.md), [LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf))
+4. *Food Habits Data Collection* handout (from [Lesson 6](lesson6.md), [LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf))
 
 5. 3 pieces of tape per student
 
@@ -53,7 +53,7 @@ the distributions give us information about the variability of the data.
 
 1. <u>**Food Habits Campaign Data Collection Monitoring:**</u>
 
-    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}<br>
+    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.thinkdataed.org](https://portal.thinkdated.org "https://portal.thinkdataed.org"){:target="_blank"}<br>
     Click on **Campaign Monitor** and sign in.
 
     100. Inform students that you will be monitoring their data collection. This is a good
@@ -88,7 +88,7 @@ good as your ability to share it.” Ask students:
     100. What makes a good message in terms of data and visualizations? <span style="color:grey">***Answers will vary.***</span>
 
 5. Have students take out their nutrition facts labels or pictures, and also their *Food Habits Data
-Collection* handout (from [lesson 6](lesson6.md)).
+Collection* handout (from [Lesson 6](lesson6.md)).
 
 6. On poster paper, make the first quadrant of a coordinate plane. Leave the labels for the **x-axis**
 and **y-axis** blank for now (see step 10 below).
@@ -193,7 +193,7 @@ we can call this type of plot a **dotplot** since we’re using dots to represen
 21. Distribute the *Tangible Plot* handout ([LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)). Each student should pick one of the 2 numerical
 variables plotted on the poster paper. Then, they should complete part 1 of the *Tangible Plot*
 handout before leaving class. They will complete part 2 of the handout for homework.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)</div>
 
 22. Ask students to think about the statistical investigative questions they came up with. Can the visualizations
 they created in class help answer their statistical investigative question? If yes, answer the question; if not,
