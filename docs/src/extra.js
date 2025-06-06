@@ -79,13 +79,13 @@ if (window.location == window.top.location) {
     Swal.fire({
       icon: 'info',
       title: 'Login Required.',
-      iconHtml: '<img style="width: 100px;height: 100px;" src="//ids-curriculum.idsucla.org/img/IDS-logo.png">',
+      iconHtml: '<img style="width: 100px;height: 100px;" src="//curriculum.thinkdataed.org/img/IDS-logo.png">',
 //      showCancelButton: true,
 //      cancelButtonText: 'Visitors: Request Access',
       showConfirmButton: true,
       confirmButtonText: 'Teachers: Login now (Portal)',
       reverseButtons: true,
-      footer: 'Questions? Contact IDS Support at support@idsucla.org',
+      footer: 'Questions? Contact IDS Support at support@thinkdataed.org',
       allowOutsideClick: false,
       allowEscapeKey: false,
       showLoaderOnConfirm: true,
@@ -93,17 +93,17 @@ if (window.location == window.top.location) {
     }).then((result) => {
       if (result.isConfirmed) {
         console.log('confirmed');
-        var url = "http://portal.idsucla.org/#curriculum/";
+        var url = "http://portal.thinkdataed.org/#curriculum/";
         document.location = url;
       } else if (result.dismiss === Swal.DismissReason.cancel) {
         console.log('cancelled');
-        var url = "http://idsucla.org/ids-request";
+        var url = "http://thinkdataed.org/ids-request";
         document.location = url;
       }
     });
   }
 } else {
-  //   document.getElementById("demo").innerHTML="https://ids-curriculum.idsucla.org";
+  //   document.getElementById("demo").innerHTML="https://curriculum.thinkdataed.org";
   var xhr = new XMLHttpRequest();
   xhr.open("GET", window.location.origin + "/app/user/whoami?client=Curri", true);
   xhr.onload = function (e) {
