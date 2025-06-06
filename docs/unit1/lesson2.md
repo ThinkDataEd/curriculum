@@ -6,7 +6,7 @@ Students will learn how to observe, record, and organize data.
 ###**Materials:**
 1. *Stick Figures* cutouts ([LMR_U1_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf))
 
-    **Advance preparation required** Needs to be cut into cards (see step 3 in lesson)
+    **<u>Advance preparation required:</u>** Needs to be cut into cards (see step 3 in lesson)
 
 2. Poster paper
 
@@ -48,7 +48,7 @@ choose.
 
     **<u>Advance preparation required:</u>**
 
-    Print the *Stick Figures* file ([LMR_1.2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)). The handout can then be cut into the 8 cards. You will
+    Print the *Stick Figures* file ([LMR_U1_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)). The handout can then be cut into the 8 cards. You will
     need enough sets of the cards for each student team to share one full set. For example, if there
     are 5 student teams in a class, then 5 copies of the file will need to be printed so that each team
     gets all 8 cards.
@@ -94,7 +94,7 @@ note and add it to the poster to provide feedback for the original team.
 8. Explain to the students that the general categories of information, such as a person’s height, are
 called **variables**. Variables are simply characteristics of an object or person. As statisticians, we
 use variable names to organize data into a simplified form so that a computer can read them.
-This will be discussed further in [lesson 3](lesson3.md).
+This will be discussed further in [Lesson 3](lesson3.md).
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics
