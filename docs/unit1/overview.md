@@ -233,9 +233,9 @@
     <td class="tg-yj5y"><a href="../../unit1/lab1h">111</a></td>
   </tr>
   <tr>
-    <td class="tg-c3ow">Unit 1<br>Project<br>(5 Days)</td>
+    <td class="tg-c3ow">End of Unit<br>Project<br>(5 Days)</td>
     <td class="tg-c3ow">31-35</td>
-    <td class="tg-0pky"><a href="../../unit1/end">End of Unit Project and Presentation: Analyzing Data to Evaluate Claims</a></td>
+    <td class="tg-0pky"><a href="../../unit1/end">End of Unit 1 Project: Evaluating Claims from the Media</a></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky">Data cycle</td>
     <td class="tg-c3ow"><a href="../../unit1/end">112</a></td>
