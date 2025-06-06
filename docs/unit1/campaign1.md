@@ -62,13 +62,13 @@ of snacks are you less likely to enter?
 Students will use the Dashboard and Plot App as well as RStudio.
 
 ###**6. Guiding Questions:**
-a. At what time of day do we eat the healthiest snacks?
+1) At what time of day do we eat the healthiest snacks?
 
-b. When did you snack? How does this compare to the rest of the class?
+2) When did you snack? How does this compare to the rest of the class?
 
-c. Typically, how healthy were your snacks? How does this compare to the class as a whole?
+3) Typically, how healthy were your snacks? How does this compare to the class as a whole?
 
-d. What were some of the characteristics of healthy snacks? What about unhealthy snacks?
+4) What were some of the characteristics of healthy snacks? What about unhealthy snacks?
 
 ###**7. Report:**
 Students will complete a practicum in which they answer a statistical investigative question based on the Food Habits data collected.
