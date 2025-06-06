@@ -16,8 +16,8 @@ context of the data.
 4. *Interpreting Categorical Variables* ([LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf))
 
 ###**Vocabulary:**
-[marginal frequency](../../vocabulary/unit1/#marginal (relative) frequency "the margins on the table that show the cells with the initial total counts"){ .md-button }
-[joint frequency](../../vocabulary/unit1/#joint (relative) frequency "a fraction that tells you how many members of a group havea  particular characteristic"){ .md-button }
+[marginal (relative) frequency](../../vocabulary/unit1/#marginal (relative) frequency "the margins on the table that show the cells with the initial total counts"){ .md-button }
+[joint (relative) frequency](../../vocabulary/unit1/#joint (relative) frequency "a fraction that tells you how many members of a group havea  particular characteristic"){ .md-button }
 [conditional relative frequency](../../vocabulary/unit1/#conditional relative frequency "the ratio of a joint relative frequency and related marginal relative frequency"){ .md-button }
 
 ###**Essential Concepts:**
@@ -30,7 +30,7 @@ context of the data.
 1. **<u>Time Use Campaign Data Collection Monitoring:</u>**
 
     100. Display the IDS Campaign Monitoring Tool, found at 
-    [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}<br>
+    [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}<br>
     Click on **Campaign Monitor** and sign in.
 
     100. Inform students that you will be monitoring their data collection again today.
@@ -139,11 +139,11 @@ student team.
     each student team to share one full set. For example, if there are 5 student teams in a class, then
     5 copies of the file will need to be printed so that each team gets all 20 cards.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L17_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_A.pdf)</div>
 
 24. Distribute the *Interpreting Categorical Variables* [LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf) to each student team.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf)</div>
 
 25. Each student team will work together and decide which visualization(s) and numerical summaries
 can be used to answer each statistical investigative question. They will then answer each statistical investigative question,
