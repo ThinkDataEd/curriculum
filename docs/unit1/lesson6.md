@@ -51,11 +51,9 @@ Los Angeles high school.
 data about other people. But today, they are going to be collecting data about themselves and the
 foods they eat.
 
-4. Students should have Nutrition Facts labels available from food/snacks they consumed at home
-    between the previous lesson and today. Note: If some students forgot to bring any, then you can
-    pass out some of the *Nutrition Facts Cutouts* ([LMR_U1_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf)) for them to use instead.
+4. Students should have Nutrition Facts labels available from food/snacks they consumed at home between the previous lesson and today. <br> **<u>Note:**</u> If some students forgot to bring any, then you can pass out some of the *Nutrition Facts Cutouts* ([LMR_U1_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf)) for them to use instead.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L6_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_A.pdf)</div>
 
 5. For 3-5 minutes, allow students to collect any data they can from the label and record it in their
 DS journals. This should be done individually.
@@ -76,10 +74,8 @@ differences in the variables collected and the data structure used.
     in [Teacher Resources](../download/resources.md)): How can the data you just gathered be quickly displayed and
     easily read? 
 
-    100. Distribute the *Food Habits Data Collection* handout ([LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf)). Ask students to record 8
-    observations. They can use their own 2 labels for the first observations, and then use
-    some of their team members’ labels to complete the table.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf)</div>
+    100. Distribute the *Food Habits Data Collection* handout ([LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf)). They can use their own label for the first observation, and then fill out the rest of the table with the food/snacks they consume during the Food Habits campaign.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf)</div>
 
 8. Once they are finished, in pairs, ask students to give a one-word identifier to each variable. For
 example: “What’s the name of your snack?” = Name
