@@ -6,7 +6,7 @@ determining any point clusters.
 
 ###**Materials:**
 
-1. Nutrition facts dotplot (from [lesson 8](lesson8.md))
+1. Nutrition facts dotplot (from [Lesson 8](lesson8.md))
 
 2. Poster paper
 
@@ -25,13 +25,13 @@ determining any point clusters.
     answer the subjective question "what is a typical value?" The center could be the perceived balancing
     point or the value that approximately cuts the area of the distribution in half.
 
-!!! warning "Optional: Advanced Preparation Needed"
+!!! warning "Optional - Advanced Preparation Needed:"
     Watch [this video](https://www.youtube.com/embed/N-CkhD33IxE) to learn how to collect data in real time! You may consider using this tool for steps 12-13 in this lesson.
 
 ###**Lesson:**
 1. **<u>Food Habits Campaign Data Collection Monitoring:</u>**
 
-    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+    100. Display the IDS Campaign Monitoring Tool, found at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
     Click on **Campaign Monitor** and sign in.
 
     100. Inform students that you will be monitoring their data collection again today.
@@ -69,13 +69,13 @@ best to categorical variables or numerical variables. Create a T-chart on the bo
 of their categories. 
 
 6. Next, display the dotplot created by the class with their nutrition facts labels during the previous
-class (from [lesson 8](lesson8.md)). Ask: what value might we consider to be the typical value of this
+class (from [Lesson 8](lesson8.md)). Ask: what value might we consider to be the typical value of this
 distribution? <span style="color:grey">***Answers will vary by class. Common answers will be to identify the mode (the
 value with the most labels) or the value in the center. A common wrong answer will be to
 confuse the frequency with the value. For example, they will say the most typical number
 of calories was "3" because, perhaps, 100 calories occurred 3 times, and that was more
 often than any other value. Students may also identify "clumps” of data: "it's somewhere
-between 110 and 120." That's ok, but probe them as to why they chose that chunk and not
+between 110 and 120." That's okay, but probe them as to why they chose that chunk and not
 another. The point is to get them to see that chunk as being in the middle or center of the
 distribution.***</span>
 
