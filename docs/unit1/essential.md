@@ -26,12 +26,18 @@ the statistical investigative questions.
 
 ###**<u>[Lesson 5: So Many Questions](lesson5.md)</u>**
 Statistical investigative questions typically begin with a vague general question, then develop into a precise question. The process of developing or creating a good investigative question is iterative and requires time and effort to get right. In her 2021 paper, What Makes a Good Statistical Question, Dr. Pip Arnold identified the following as features of a good investigative question:
-    1. The variable(s) of interest is/are clear
-    2. The group or population we are interested in is clear
-    3. The question can be answered with data
-    4. The question asks about the whole group, not an individual or portion of the group
-    5. The intention is clear (e.g., summary, comparison, association, time series)
-    6. The question is one that is worth investigating, is interesting, and has a purpose
+
+1. The variable(s) of interest is/are clear
+
+2. The group or population we are interested in is clear
+
+3. The question can be answered with data
+
+4. The question asks about the whole group, not an individual or portion of the group
+
+5. The intention is clear (e.g., summary, comparison, association, time series)
+
+6. The question is one that is worth investigating, is interesting, and has a purpose
 
 ###**<u>[Lesson 6: What Do I Eat? [The Data Cycle: Consider Data]](lesson6.md)</u>**
 After raising statistical investigative questions, we examine and record data to see if the questions are
@@ -48,7 +54,7 @@ Distributions organize data for us by telling us (a) which values of a variable 
 
 ###**<u>[Lesson 9: What Is Typical?](lesson9.md)</u>**
 The “center” of a distribution is a deliberately vague term, but it is one way to answer the
-subjective question "what is a typical value?". The center could be the perceived balancing point
+subjective question "What is a typical value?". The center could be the perceived balancing point
 or the value that approximately cuts the area of the distribution in half.
 
 ###**<u>[Lesson 10: Making Histograms](lesson10.md)</u>**
