@@ -39,10 +39,10 @@ external server. The IDS instructor must have access to a computer and a project
 ###**Software**
 
 Each computer (tablets are not recommended) in the classroom should have a modern, updated web browser installed (such as Firefox or Google Chrome). This will allow students to access RStudio via the RStudio Cloud platform, and to perform searches and make use of a variety of websites and internet tools. RStudio is accessible at [https://posit.cloud/](https://posit.cloud/ "https://posit.cloud/"){:target="_blank"} or through the IDS home page at
-[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}. The IDS team will provide the remainder of the software used in the IDS
-curriculum, also available at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}.
+[https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}. The IDS team will provide the remainder of the software used in the IDS
+curriculum, also available at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}.
 
-This software includes the [IDS UCLA app](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=org.idsucla.app.survey){:target="_blank"} and [iOS](https://apps.apple.com/us/app/ids-ucla-authorized/id6469903361){:target="_blank"} (Apple) smartphones and
+This software includes the [IDS ThinkData Ed](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=org.thinkdataed.app.survey){:target="_blank"} and [iOS](https://apps.apple.com/us/app/ids-ucla-authorized/id6469903361){:target="_blank"} (Apple) smartphones and
 tablets, as well as through the web browser on a desktop or laptop computer. The app allows students to
 collect the Participatory Sensing data that is a motivational foundation for the course. In addition to the
 app, students will use the IDS software to access and manipulate their Participatory Sensing data, and to
