@@ -16,7 +16,7 @@ representing individual observations, as in a dotplot.
 
 5. Plate
 
-6. *Sleep* dotplots (from [lesson 9](lesson9.md))
+6. *Sleep* dotplots (from [Lesson 9](lesson9.md))
 
 7. Poster paper
 
@@ -50,7 +50,7 @@ process, and recognizing the importance of the use of clear language.
 
 2. Prepare for this task by gathering the necessary materials for making a peanut butter and jelly
 sandwich and arranging them in a way that makes them easy to use. You may want to wear an
-apron and have a trash bag smock —this can get messy but that’s most of the fun!
+apron and have a trash bag smock — this can get messy but that’s most of the fun!
 
     **<u>Note:</u> Be aware of peanut allergies!** If any of your students are allergic to peanut butter, DO
     NOT ALLOW STUDENTS TO HANDLE THE PEANUT BUTTER! Peanut allergies can be very
