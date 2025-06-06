@@ -31,11 +31,17 @@ table. What could those two questions be?
 
     <span style="color:grey">***Possible Answer: ***</span>
 
-    <span style="color:grey">***Question 1—Do you play an instrument?***</span>
+    <span style="color:grey">***Question 1 — Do you play an instrument?***</span>
 
-    <span style="color:grey">***Question 2—Do you own a cat?***</span>
+    <span style="color:grey">***Question 2 — Do you own a cat?***</span>
 
-3. What variables did Rosa collect? What were the values of those variables? <span style="color:grey">***Answer: Variable 1: Owns Cat - yes/no. Variable 2: Plays Instrument - yes/no.***</span>
+3. What variables did Rosa collect? What were the values of those variables?
+
+    <span style="color:grey">***Answer:***</span>
+    
+    <span style="color:grey">***Variable 1: Owns Cat - yes/no.***</span>
+    
+    <span style="color:grey">***Variable 2: Plays Instrument - yes/no.***</span>
 
 4. In pairs, write out on paper what the original data must have looked like.
 
