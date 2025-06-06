@@ -6,7 +6,7 @@ Students will learn that data can be represented in rectangular format.
 ###**Materials:**
 1. DS journals (must be available during every lesson)
 
-2. *Stick Figures* cutouts (see [lesson 2](lesson2.md))
+2. *Stick Figures* cutouts (see [Lesson 2](lesson2.md))
 
 ###**Vocabulary:**
 [variables](../../vocabulary/unit1/#variables "characteristics of an object or person"){ .md-button }
@@ -63,7 +63,7 @@ from “Height.”
 **categorical variables** and **numerical variables**. Typically, categorical variables represent
 values that have words, while numerical variables represent values that have numbers.
 
-    **<u>Note:</u>** Categorical variables can sometimes be coded as numbers (e.g., “Shoe” could have
+    **<u>Note:</u>** Categorical variables can sometimes be coded as numbers (e.g., our Stick Figures variable “Shoe” could have
     values 0 and 1, where 0 = Sneakers and 1 = Sandals).
 
 5. As a class, determine which variables from the *Stick Figures* data are numerical, and which
