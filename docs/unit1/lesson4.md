@@ -12,7 +12,7 @@ Students will learn about the stages of the Data Cycle.
 
 4. The *Data Cycle Spinners* handout ([LMR_U1_L4_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf))
 
-5. RStudio: [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+5. RStudio: [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
 
 6. Article headline: *People Who Order Coffee Black Are More Likely To Be Psychopaths*
 
@@ -50,7 +50,7 @@ turn it into something useful to us?
 2. Inform students that they will be learning about the **Data Cycle** today. The Data Cycle is a guide
 we can use when learning to think about data. We usually start with posing statistical investigative questions. Display the
 graphic from *The Data Cycle* file ([LMR_U1_L4_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf)):
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_A.pdf)</div>
 
 3. Display the Data Cycle on the board or on a projector, and give a brief explanation of the 4
 components (listed below).
@@ -77,6 +77,7 @@ components (listed below).
 Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)). Write down the name of each stage of the Data Cycle on a sheet of paper and include the description of that particular stage (see step 3 above for descriptions). Then tape each sheet on a different corner of your room.
 
 7. Explain to the students that you are going to display different artifacts from statistical investigations on the projector. For each artifact, they will move to the corner of the room they feel that artifact represents (posing a statistical investigative question, consider data, analyze data, interpret data). If you have limited space in your classroom or for students that cannot physically participate, you might consider printing [LMR_U1_L4_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf). Students can participate by pointing to the spinner.
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_B.pdf)</div>
 
 8. Once students have chosen a corner of the room (stage of the Data Cycle) they will discuss the following with their classmates in that same corner:
     
@@ -134,7 +135,7 @@ website by Nikhil Sonnad as a data visualization. He collected the data via Twit
 19. Assign ONE of the pages from the *Bros & Dudes Graphics* handout ([LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)) to each team. There are 10 different
 versions of word pairings (10 combinations of 2 words chosen from the 5 options), so multiple
 teams will have the same graphic if there are more than 10 teams in a class.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf)</div>
 
 20. The goal of this activity is for each team to complete a full statistical investigation with the *Bros & Dudes Graphics* assigned to them. Tell the teams that they need to create a Data Cycle poster using their assigned graphic for the analyze stage. The cycle should be clearly labeled and have appropriate responses for each of the 4 components.
 
