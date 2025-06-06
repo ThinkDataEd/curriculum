@@ -1,7 +1,7 @@
 ##**<u>Lesson 15: Americans' Time on Task</u>**
 
 ###**Objective:**
-Introduction to Time Use Campaign. Students will explore a multimedia graphic that incorporates data from the American Time Use Survey to spark their interest about how they spend their time. They will begin to learn how to evaluate reports that make claims based on data by reading the Pew Research Center's article Teens and social media: Key findings from Pew Research Center surveys.
+Introduction to *Time Use* Campaign. Students will explore a multimedia graphic that incorporates data from the American Time Use Survey to spark their interest about how they spend their time. They will begin to learn how to evaluate reports that make claims based on data by reading the Pew Research Center's article Teens and social media: Key findings from Pew Research Center surveys.
 
 ###**Materials:**
 1. Computers
@@ -126,7 +126,7 @@ web browser.
 <center><u>***Data Collection Monitoring***</u></center>
 
 1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
-[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} Click on **Campaign Monitor** and sign in.
+[https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"} Click on **Campaign Monitor** and sign in.
 
     100. See *User List* and sort by *Total*. Ask: Who has collected the most data so far?
 
@@ -141,4 +141,4 @@ web browser.
 couple of days, and that they will understand the private vs. shared data after they have
 completed the campaign collection.
 
-Complete [Lab 1F](lab1f.md) prior to [Lesson 16](lesson16.md)
+<center>Complete [Lab 1F](lab1f.md) prior to [Lesson 16](lesson16.md)</center>
