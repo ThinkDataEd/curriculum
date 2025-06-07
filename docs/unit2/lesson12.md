@@ -48,8 +48,8 @@ Conduct a *Share Out* of student responses.
 certain times of the day.
 
 8. Students will collect data using the *Stress/Chill* Participatory Sensing campaign. They will add the
-*Stress/Chill* campaign to their list of available campaigns either through the [IDS UCLA App](../download/app.md)
-or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+*Stress/Chill* campaign to their list of available campaigns either through the [IDS ThinkData Ed App](../download/app.md)
+or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
 
 9. Ask students to complete their first survey.
 
@@ -65,7 +65,7 @@ you create 6 sets of random numbers so that students are polled at different tim
     **<u>Note:</u>** If a time falls within the school day, it is up to the discretion of the teacher to use this time
     or not.
 
-11. Based on the times generated, ask students to set reminders on the [IDS UCLA App](../download/app.md) for the next 6
+11. Based on the times generated, ask students to set reminders on the [IDS ThinkData Ed App](../download/app.md) for the next 6
 days. Students without a mobile device may set reminders using a method available to them.
 
 12. Focus students’ attention on the *Stress/Chill* survey questions (you may display the questions on
@@ -81,4 +81,4 @@ of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 For the next 6 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
-UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+ThinkData Ed App](../download/app.md) or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
