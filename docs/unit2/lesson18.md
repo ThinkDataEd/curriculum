@@ -42,7 +42,7 @@ properties.
     • Approximately 99.7% of the observations in a normal distribution fall within 3 standard
     deviations of the mean
 
-    <img src="../../img/21803.png" />
+    <center><img src="../../img/21803.png" /></center>
 
 4. Open RStudio and project for students to see. Load the babies dataset, named **Gestation** by following these steps:  
      <ul>
@@ -71,7 +71,7 @@ properties.
 
     **histogram(~wt, data = Gestation)**
 
-    <img src="../../img/21804.png" />
+    <center><img src="../../img/21804.png" /></center>
 
 6. Ask students:
 
@@ -181,4 +181,4 @@ day were.
 
 <center>[<u>***LAB 2I: R’s Normal Distribution Alphabet***</u>](lab2i.md)</center>
 
-<center>Complete [Labs 2H](lab2h.md) and [2I](lab2i.md) prior to the [End of Unit Design Project](end.md).</center>
+<center>Complete [Labs 2H](lab2h.md) and [2I](lab2i.md) prior to the [End of Unit Project](end.md).</center>
