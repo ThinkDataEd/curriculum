@@ -58,7 +58,7 @@ for his/her cabin (the fare price) had anything to do with whether or not he/she
     represents the data from one passenger: the left hand side shows the fare paid and right hand
     side contains the survival information of that passenger after the collision. Cut the LMR into strips
     such that the fare price is attached to the survivor status for each of the 40 observations.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_Titanic_Strips](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_Titanic_Strips](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_Titanic_Strips.pdf)</div>
 
 9. 40 strips were created for large classes. If your class has less than 40 students, assign the
 students to two groups such that roughly 40% of them are in the survivor group (15/40 = 37.5% ≈
@@ -79,14 +79,14 @@ group.
 
 13. As a class, find the difference between the median fares for the two groups.
 
-    median of “Survivor” fares – median of “Victim” fares
+    <center>median of “Survivor” fares – median of “Victim” fares</center>
 
     <span style="color:grey">***<u>For example:</u>***</span>
 
     <span style="color:grey">***If all 15 survivor cards and all 25 victim cards are used, the difference is
     medians would be:***</span>
 
-    <span style="color:grey">***£26.00 – £13.00 = £13.00***</span>
+    <center><span style="color:grey">***£26.00 – £13.00 = £13.00***</span></center>
 
 14. Explain that one of the controversies of the *Titanic* disaster was that some people felt that the rich
 people were given better access to the lifeboats than were the poor, so rich people were more
@@ -162,7 +162,7 @@ mean that there is a “real” difference between groups. In this case, a big d
 that the rich passengers were more likely to survive. And a small difference might mean that
 survival was just a matter of plain luck.
 
-25. Repeat Steps 17–23 from above a few more times (depending on how much class time you have available).
+25. Repeat steps 17–23 from above a few more times (depending on how much class time you have available).
 
 26. In pairs, ask students to discuss whether they think the real difference in median fare prices they
 calculated in step 13 above (£13.00 if all cards were used) is small or large. <span style="color:grey">***Answers will vary by
@@ -185,7 +185,7 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 For the next 3 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
-UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+Think Data Ed App](../download/app.md) or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
 
 <center>[<u>***LAB 2F: The Titanic Shuffle***</u>](lab2f.md)</center>
 
