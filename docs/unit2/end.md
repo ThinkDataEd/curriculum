@@ -1,13 +1,15 @@
-##***<u>End of Unit Design Project and Oral Presentation: Asking and Answering Statistical Questions of Our Own Data</u>***
+##***<u>End of Unit 2 Project: Comparing Groups Using Our Own Data</u>***
 
 ###**Objective:**
 Students will apply their learning of the first and second units of the curriculum by completing an end of
 unit design project.
 
 ###**Materials:**
-1. *IDS Unit 2 – Design Project and Oral Presentation* ([LMR_U2_Design_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design_Project.pdf))
+1. *End of Unit 2 Project: Comparing Groups Using Our Own Data* ([LMR_U2_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_End_of_Unit_Project.pdf))
 
-<center>**End of Unit 2 Design Project and Presentation: Asking and Answering Statistical Investigative Questions of Our Own Data**</center>
+<center>**End of Unit 2 Project**</center>
+
+<center>**Comparing Groups Using Our Own Data**</center>
 
 Available datasets:
 
