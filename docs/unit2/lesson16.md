@@ -36,7 +36,7 @@ the original handout of that lesson (*Sorting* Histograms handout ([LMR_U1_L11](
     **<u>Note:</u>** You do not need the original handout from [Unit 1](../unit1/overview.md) – all relevant plots have been compiled in
     the *Normal Plots* file ([LMR_U2_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf)) for accessibility. Six plots are included: SAT Math, SAT Verb,
     ACT Mathematics, ACT Reading, ACT English, and ACT Science Reasoning.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf)</div>
 
 3. Display the group of bell-shaped distributions from page 1 of the *Normal Plots* file ([LMR_U2_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf)) to
 the class and ask the students:
@@ -50,7 +50,7 @@ the class and ask the students:
 4. To show the similarities between the shape of a bell and the shape of these distributions, a clip-art
 image (shown here) has been included in the *Normal Plots* file ([LMR_U2_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf)) on page 2.
 
-    <img src="../../img/21604.png" />
+    <center><img src="../../img/21604.png" /></center>
 
 5. Explain that this shape occurs often in real-life. It occurs so often that it’s been given its own
 name: the **normal curve**, or **normal distribution**. Can the students think of distributions where
@@ -69,7 +69,7 @@ like the plot shown below.
     **<u>Note:</u>** You can either draw the diagram below on the board or display it via a projector – the
     image can be found on page 2 of the *Normal Plots* file ([LMR_U2_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf)).
 
-    <img src="../../img/21607.png" />
+    <center><img src="../../img/21607.png" /></center>
 
 8. Explain that normal distributions are good for describing some populations of people. For
 example, people’s heights are often considered to be normally distributed. Display the famous
@@ -77,7 +77,7 @@ Frank Anscombe photograph (shown below) via a projector. The graphic can be foun
 of the *Normal Plots* file ([LMR_U2_L16](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L16.pdf)). Inform the students that this photo was taken of a group of
 randomly selected college women who stood in height order.
 
-    <img src="../../img/21608.png" />
+    <center><img src="../../img/21608.png" /></center>
 
 9. Next, lead a discussion about why the normal curve is a good fit to the histogram in the above
 picture. Notice that more people are near the center of the distribution, and fewer are in the outer
