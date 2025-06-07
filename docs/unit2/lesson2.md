@@ -22,7 +22,7 @@ value is also referred to as the mean, or average.
 6. Exported, printed, and reproduced class’s *Personality Color* survey data
 
     **<u>Advance preparation required:</u>** The teacher must share students’ data on the IDS Home page
-    ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}) before it can be exported and printed. Students will keep for use in
+    ([https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}) before it can be exported and printed. Students will keep for use in
     subsequent lessons (see step 9 of lesson).
 
 7. *Mr. Jones Mile Run Times* handout ([LMR_U2_L2_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf))
@@ -53,7 +53,7 @@ value is also referred to as the mean, or average.
     100. Measures of variability. <span style="color:grey">***Answer: Values that show how much the quantitative data varies.
     Also known as measures of***</span> ***spread***. 
     
-    **<u>Note:</u>** This is not taught during this lesson, but
+    **<u>Note:</u>** Measures of variability are not taught during this lesson, but
     will be addressed as part of [Lesson 4](lesson4.md).
 
 2. Ask a pair to share what they think these two terms mean. Pairs who are listening must decide
@@ -77,9 +77,9 @@ board instead.
 
     **<u>Note:</u>** Alternatively, you can substitute the digital version of this activity using the *Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)).
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf)</div>
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)</div>
 
 8. Guide the students through the handout and have them share their findings throughout the
 activity. Be sure to emphasize the idea that <u>the mean of a distribution can be identified by finding
@@ -156,7 +156,7 @@ day were.
 Students should complete the *Mr. Jones Mile Run Times* handout ([LMR_U2_L2_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf)) for homework. They
 can practice finding the mean of distributions by determining a balancing point for the data. Answers
 to the handout are below. <br> **<u>Note:</u>** The mean values in part (3) do NOT need to be exact.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_C.pdf)</div>
 
 
 1. What kind of plots did Mr. Jones create for his classes? <span style="color:grey">***Answer: Histograms.***</span>
