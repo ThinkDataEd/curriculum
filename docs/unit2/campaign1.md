@@ -6,13 +6,13 @@ People report being more and more stressed every day. This trend is extending be
 also reported by children and teenagers. The amount of work for which people are responsible has
 been increasing. To understand what makes us feel stressed, some important questions to ask are:
 
-a) What factors affect my stress/chill level?
+1) What factors affect my stress/chill level?
 
-b) Do different personality types have different things that make them happy/sad?
+2) Do different personality types have different things that make them happy/sad?
 
-c) Do you like to be alone or with people?
+3) Do you like to be alone or with people?
 
-d) Is your stress/chill level a function of the environment in which you are in?
+4) Is your stress/chill level a function of the environment in which you are in?
 
 ###**2. Objectives:**
 
@@ -23,7 +23,7 @@ model variability, perform informal inference, and how to do simulations to make
 ###**3. Survey Questions:**
 
 Use a random number generator to generate two random times a day for the next 6 days, including a
-weekend if possible. If a time falls within the school day, it is up to the discretion of the teacher to use
+weekend if possible. It is recommended that you create 6 sets of random numbers so that students are polled at different times each day. If a time falls within the school day, it is up to the discretion of the teacher to use
 this time or not.
 
 | **Prompt** | **Variable** | **Data Type** |
@@ -59,17 +59,17 @@ Students will use RStudio.
 
 ###**6. Guiding Questions:**
 
-a) Have students generate predictions and check up on their predictions.
+1) Have students generate predictions and check up on their predictions.
 
-b) What’s the typical stress/chill level of the class across the campaign?
+2) What’s the typical stress/chill level of the class across the campaign?
 
-c) What’s my typical stress/chill level and how does it compare to the whole class?
+3) What’s my typical stress/chill level and how does it compare to the whole class?
 
-d) Do the stress/chill levels vary by weekday or weekend or the type of people you are with?
+4) Do the stress/chill levels vary by weekday or weekend or the type of people you are with?
 
-e) Under which conditions is my stress/chill level affected?
+5) Under which conditions is my stress/chill level affected?
 
-f) Encourage students to generate their own questions.
+6) Encourage students to generate their own questions.
 
 ###**7. Report:**
 Students will complete the Stress/Chill Practicum. They will analyze their stress/chill data using data
