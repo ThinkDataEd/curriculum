@@ -113,7 +113,7 @@ values for 2 distributions.
 and (c) from the *Where is the Middle?* handout ([LMR_U2_L3_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L3_B.pdf)) used in [Lesson 3](lesson3.md). As before, the dotplots depict the number of candies eaten by a group of 17 high school students on different days
 of the week. The means are also given.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf)</br>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf)</br>
     </div>
 
 
@@ -124,6 +124,7 @@ of the week. The means are also given.
     <img src="https://latex.codecogs.com/gif.latex?\begin{align*}&space;MAD&space;&=&space;\frac{1|0-2|&plus;5|1-2|&plus;6|2-2|&plus;3|3-2|&plus;2|4-2|}{17}&space;\\&space;&=&space;\frac{1(2)&plus;5(1)&plus;6(0)&plus;3(1)&plus;2(2)}{17}\\&space;&=&space;\frac{2&plus;5&plus;0&plus;3&plus;4}{17}\\&space;&=&space;\frac{14}{17}\\&space;&\approx&space;0.8235&space;\end{align*}" title="\begin{align*} MAD &= \frac{1|0-2|+5|1-2|+6|2-2|+3|3-2|+2|4-2|}{17} \\ &= \frac{1(2)+5(1)+6(0)+3(1)+2(2)}{17}\\ &= \frac{2+5+0+3+4}{17}\\ &= \frac{14}{17}\\ &\approx 0.8235 \end{align*}" />
 
     <u><span style="color:grey">***MAD for plot (c)***</span></u>
+    
     <img src="https://latex.codecogs.com/gif.latex?\begin{align*}&space;MAD&space;&=&space;\frac{3|0-2.53|&plus;0|1-2.53|&plus;4|2-2.53|&plus;5|3-2.53|&plus;5|4-2.53|}{17}&space;\\&space;&=&space;\frac{3(2.53)&plus;0(1.53)&plus;4(0.53)&plus;5(0.47)&plus;5(1.47)}{17}\\&space;&=&space;\frac{7.59&plus;0&plus;2.12&plus;2.35&plus;7.35}{17}\\&space;&=&space;\frac{19.41}{17}\\&space;&\approx&space;1.1418&space;\end{align*}" title="\begin{align*} MAD &= \frac{3|0-2.53|+0|1-2.53|+4|2-2.53|+5|3-2.53|+5|4-2.53|}{17} \\ &= \frac{3(2.53)+0(1.53)+4(0.53)+5(0.47)+5(1.47)}{17}\\ &= \frac{7.59+0+2.12+2.35+7.35}{17}\\ &= \frac{19.41}{17}\\ &\approx 1.1418 \end{align*}" />
 
 18. Students may work in pairs to complete the handout. After all student pairs have come to an
