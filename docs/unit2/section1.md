@@ -13,7 +13,7 @@ provide insightful indicators about the data.
 Students will complete the *True Colors Personality Test* to discover the qualities and characteristics of
 their personality styles. Students will use the results from the personality color test to learn about
 subsetting data and finding measures of center and spread. The data from their personality test will be
-collected in a survey using the [IDS UCLA App](../download/app.md) or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+collected in a survey using the [IDS ThinkData Ed App](../download/app.md) or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
