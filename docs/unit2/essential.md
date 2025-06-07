@@ -13,7 +13,7 @@ from the typical value.
 ###**<u>[Lesson 3: Median In the Middle](lesson3.md)</u>**
 Another measure of center is the median, which can also be used to represent the typical value of a
 distribution. The median is preferred for skewed distributions or when there are outliers, because it better
-matches what we think of as 'typical.'
+matches what we think of as 'typical'.
 
 ###**<u>[Lesson 4: How Far Is It from Typical?](lesson4.md)</u>**
 Mean Absolute Deviation (MAD) measures the variability in a sample of data - the larger the value, the greater the variability. More
