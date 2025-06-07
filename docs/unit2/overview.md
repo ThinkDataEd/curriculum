@@ -31,7 +31,7 @@
     <td class="tg-5e9r" rowspan="10">What Is<br>Your True<br>Color?<br>(10 days)</td>
     <td class="tg-5e9r">1^+</td>
     <td class="tg-pwj7"><a href="../../unit2/lesson1">Lesson 1: What Is Your True Color?</a></td>
-    <td class="tg-pwj7">Personality Color - data</td>
+    <td class="tg-pwj7">Personality Color – data</td>
     <td class="tg-pwj7">Subsets, relative frequency</td>
     <td class="tg-5e9r"><a href="../../unit2/lesson1">119</a></td>
   </tr>
@@ -217,7 +217,7 @@
     <td class="tg-uys7">27</td>
     <td class="tg-xldj"><a href="../../unit2/lesson17">Lesson 17: Normal Measure of Spread</a></td>
     <td class="tg-xldj"></td>
-    <td class="tg-xldj">Measures of spread - SD</td>
+    <td class="tg-xldj">Measures of spread – SD</td>
     <td class="tg-uys7"><a href="../../unit2/lesson17">197</a></td>
   </tr>
   <tr>
@@ -242,9 +242,9 @@
     <td class="tg-uys7"><a href="../../unit2/lab2i">206</a></td>
   </tr>
   <tr>
-    <td class="tg-yj5y">Unit 2<br>Project<br>(5 Days)</td>
+    <td class="tg-yj5y">End of Unit<br>Project<br>(5 Days)</td>
     <td class="tg-yj5y">31-35</td>
-    <td class="tg-y698"><a href="../../unit2/end">End of Unit Project and Presentations: Asking and Answering Statistical Investigative Questions of Our Data</a></td>
+    <td class="tg-y698"><a href="../../unit2/end">End of Unit 2 Project: Comparing Groups Using Our Own Data</a></td>
     <td class="tg-y698">Stress/Chill, Personality Color, Food Habits, or Time Use</td>
     <td class="tg-y698">Synthesis of above</td>
     <td class="tg-yj5y"><a href="../../unit2/end">208</a></td>
