@@ -37,14 +37,14 @@ subset their data.
 Test* ([LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)) claims to identify personality types (later, students can gather more evidence to
 test these claims). Students will use these data to explore fundamental statistical concepts.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)</div>
 
 3. Distribute the first 2 pages of the *True Colors Personality Test* ([LMR_U2_L1](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)). DO NOT include the
 final page, which contains the descriptions of each color. Instruct students on how to complete
 the test, and allow time for them to complete it (see page 2 in handout).
 
     **<u>Note:</u>** When adding scores for each color at the bottom of the test, make sure that students have
-    **<u>NOT</u>** added straight down each column.
+    **NOT** added straight down each column.
 
 4. Students should have a score for each of the 4 colors. Ask students to record each color and its
 respective score in their DS journal. Inform them that the color with the highest score describes
@@ -67,7 +67,7 @@ students should record answers to the following questions in their DS journals.
 7. Then ask students to determine some common characteristics of the people in their group.
 Questions to help steer the discussions are included below. Each team should come up with a
 consensus to describe their team and will share their descriptions with the whole class. The goal
-is to get the students to think about “what is typical?” within their groups.
+is to get the students to think about “What is typical?” within their groups.
 
     100. What are your likes and dislikes?
 
@@ -133,11 +133,11 @@ students to choose the color that describes their personality better.
 group during step 7 above. Do the descriptions match what the students originally thought? How
 accurate are the descriptions? If time allows, ask a couple of students to share their comparisons.
 
-18. Students will now record their data by completing the *Personality Color* campaign on the [IDS UCLA App](../download/app.md) or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+18. Students will now record their data by completing the *Personality Color* campaign on the [IDS ThinkData Ed App](../download/app.md) or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-If not finished in class, students should complete the *Personality Color* survey either through the [IDS UCLA App](../download/app.md) or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+If not finished in class, students should complete the *Personality Color* survey either through the [IDS ThinkData Ed App](../download/app.md) or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
