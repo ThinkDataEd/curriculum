@@ -51,12 +51,12 @@ circumstance and divide by the total number of people to calculate a probability
 5. In order to define AND/OR probabilities, students will participate in an activity where they are
 grouped by their food preferences.
 
-6. Divide the board into 4 groups and write the words “Pickles,” “Both,” “Mayonnaise,” and “None,” in
+6. Divide the board into 4 groups and write the words “Pickles”, “Both”, “Mayonnaise”, and “None”, in
 that order, from left to right.
 
 7. Ask for 10 volunteers to stand by the word that represents their preferences. That is, if they only
-like pickles, they should stand by the word “Pickles.” If they like both pickles and mayonnaise,
-they should stand by the word “Both.”
+like pickles, they should stand by the word “Pickles”. If they like both pickles and mayonnaise,
+they should stand by the word “Both”.
 
     **<u>Note:</u>** If all 4 groups do not have at least one student in them, select a few more students to stand
     at the board.
@@ -136,7 +136,7 @@ completed. <span style="color:grey">***Answer: A compound probability is the pro
 occurring.***</span>
 
 14. Distribute the *Compound Probabilities* handout ([LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)</div>
 
 15. Pass out a blue sticky note to each student who plays a sport and a gold sticky note to each student who does not play a sport.
 
