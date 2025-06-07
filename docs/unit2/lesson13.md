@@ -27,7 +27,7 @@ between two groups.
 
 ###**Lesson:**
 1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
-[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}. Click on **Campaign Monitor** and sign in.
+[https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}. Click on **Campaign Monitor** and sign in.
 
 2. Inform students that you will be monitoring their data collection. Ask:
 
@@ -83,7 +83,7 @@ lesson.
 12. Explain that data from horror movies (sometimes called slasher films) were collected of 485
 characters from 50 films. For each character, 2 variables were recorded: Gender and Survival.
 The values for Gender were “Female” and "Male". The values for Survival were “Dies” and
-“Survives.”
+“Survives.” <br> **<u>Note:</u>** The source for this data uses gender in a binary manner ("Female" and "Male"), presumably because the actors are playing characters in a movie.
 
     |          | Gender |      |
     |----------|:------:|------|
@@ -220,7 +220,7 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 For the next 5 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
-UCLA](../download/app.md) App or via web browser at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}
+ThinkData Ed](../download/app.md) App or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
 
 <center>[<u>***LAB 2E: The Horror Movie Shuffle***</u>](lab2e.md)</center>
 
