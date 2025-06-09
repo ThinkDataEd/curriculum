@@ -38,7 +38,7 @@ one of these large data farms used to store vast amounts of data.
     100. We have been talking about data for a few months now. How would you respond if
     someone asked you, “What are data?” <span style="color:grey">***Answers will vary by class.***</span>
 
-    100. What are some ways that we have stored data? <span style="color:grey">***Data frames in R, Excel
+    100. What are some ways that we have stored data? <span style="color:grey">***Possible answers are data frames in R, Excel
     spreadsheets, .csv files.***</span>
 
 5. Explain that one of the main ways data are distributed is through the Internet. Storing and sharing
@@ -47,7 +47,7 @@ has a page dedicated to the top video games.
 
 6. Distribute the *Wikipedia – Video Games* handout ([LMR_U3_L20_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf)), and have students explain the
 information that the data table provides.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L20_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L20_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_A.pdf)</div>
 
 7. Once the students understand what the data table describes, walk them through the first portion
 of the **HTML**, or Hypertext Markup Language, source code (on page 1). Notice that the first
@@ -87,7 +87,7 @@ is yet another way to represent the same video game data.
     version of the file (including all video games in the table) is located on the server with the title
     bestgames.csv.
     
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L20_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L20_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_B.pdf)</div>
 
 10. Inform students that a file with the CSV format is easily readable by R. Then ask:
 
@@ -103,7 +103,7 @@ is yet another way to represent the same video game data.
 11. Split the class into their student teams and distribute the *Online Data-ing* handout ([LMR_U3_L20_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf)).
 Assign each team a different website (each page of the handout lists a different site) and have
 them use this site to complete the questions in the handout.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L20_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L20_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L20_C.pdf)</div>
 
 12. Have each student team share their findings with one other team. They should have their website
 displayed while discussing their results.
