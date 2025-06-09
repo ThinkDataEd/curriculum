@@ -78,7 +78,7 @@ approximately 30 seconds per question.
     100. The winner is determined by who got the most questions correct. In the case of a tie, the
     winner is chosen by whose intervals were narrower.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf)</div>
 
 7. Once each student has completed *The Confidence Game* handout ([LMR_U3_L13](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf)), have students
 choose partners and exchange handouts so that they can grade each other. Remind them that a
@@ -104,7 +104,7 @@ question is marked as “correct” if the actual value (see answers in step 8 b
     7) As of June 2015, how many of Rihanna’s songs have reached the Number 1 spot on
     Billboard’s “Dance Club Hits” chart? <span style="color:grey">***Answer: 23 songs.***</span>
 
-    8) How many years have actors Will Smith and Jada Pinkett-Smith been married? <span style="color:grey">***Answer: As of January 2024, it was 26 years - they were married December 31, 1997.***</span>
+    8) How many years have actors Will Smith and Jada Pinkett-Smith been married? <span style="color:grey">***Answer: As of June 2025, it was 27 years - they were married December 31, 1997.***</span>
 
     9) How many hours will it take to complete a cross-country road trip from Los Angeles to
     New York City according to Google Maps? <span style="color:grey">***Answer: 41 hours (2,789.5 miles).***</span>
