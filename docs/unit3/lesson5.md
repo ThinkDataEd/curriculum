@@ -53,7 +53,21 @@ found in the Survey Taking Tool at [https://portal.thinkdataed.org](https://port
 iOS or Android devices.
 
 12. Inform students that they will be analyzing the results from the experiment in *[Lab 3A: The results
-are in!](lab3a.md)*
+are in!](lab3a.md)* <br> **<u>Note to Teacher:</u>** As a check for understanding, engage the class in a discussion about experiments. Use the following questions as a guide to assess student understanding.
+
+    1) When is random assignment used? Why is it important? <span style="color:grey">***Answer: Random assignment is used when you wish to determine whether a treatment causes changes in an outcome variable. It's important because it creates a "balance" of the group so that the only way the groups differ, on average, is that one gets the treatment and one does not. Thus, if there is a change in the outcome variable, only the treatment could have caused it.***</span>
+
+    2) Below are some headlines. Determine which ones are causal. If not causal, re-write so that it is. If causal, state why it's causal.
+
+    * Straight A's in high school may mean better health later in life. <span style="color:grey">***Answer: Not causal, re-writing answers will vary.***</span>
+
+    * Murder rates affect IQ test scores: Study. <span style="color:grey">***Answer: Causal, explanations will vary.***</span>
+
+    * Microbe linked to Alzheimer's Disease. <span style="color:grey">***Answer: Not causal, re-writing answers will vary.***</span>
+
+    * Luckiest people "born in summer." <span style="color:grey">***Answer: Causal, explanations will vary.***</span>
+
+    3) Why is a control group important? <span style="color:grey">***Answer: The control group is important because it allows us to measure the effects of the treatment group with an untreated comparable group. Without the control group, we don't know what would have happened if we had done nothing. For example, think of a new vaccine for the flu. If there is no control group, and we see the treatment group improving, we will never know if they would have improved anyways, witout the vaccine.***</span>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
