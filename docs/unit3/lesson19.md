@@ -7,7 +7,7 @@ topic of interest, then begin data collection.
 ###**Materials:**
 1. *Campaign Creation* handout ([LMR_U3_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L17_B.pdf)) from previous lesson
 
-2. Campaign Authoring Tool ([https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}) 
+2. Campaign Authoring Tool ([https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}) 
 
 ###**Essential Concepts:**
 
@@ -21,7 +21,7 @@ topic of interest, then begin data collection.
 2. In teams, have students mock-implement the campaign they have created. They can do this by
 asking each other the survey questions to make sure they make sense/ will generate relevant
 data to their research question and statistical questions. They can use the evaluative questions
-from [Lesson 18](lesson17.md) step 10.
+from [Lesson 18](lesson18.md) step 10.
 
 3. If there are suggestions for improvement, have teams propose them to the class and make final
 changes to the campaign.
@@ -29,7 +29,7 @@ changes to the campaign.
 4. Inform students that you will now demonstrate the tool used to create the campaigns that is
 displayed on their mobile devices or computers.
 
-5. Login to the **IDS Home Page** found at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"}. Click on the **Campaigns tab** on
+5. Login to the **IDS Home Page** found at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}. Click on the **Campaigns tab** on
 the navigation bar at the top of the page. Then, follow the steps in the tool:
 
     **<u>Note:</u>** If you would like a video tutorial to assist with the written instructions, it can be found here: [https://youtu.be/PzwMCHOghnI](https://youtu.be/PzwMCHOghnI "https://youtu.be/PzwMCHOghnI"){:target="_blank"}
