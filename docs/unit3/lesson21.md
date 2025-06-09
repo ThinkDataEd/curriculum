@@ -10,7 +10,7 @@ sense for web data to be formatted as XML.
     **<u>Note:</u>** This should have been completed during the previous class.
 
 2. Mountain Peak XML data found at:<br>
-[https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html"){:target="_blank"}
+[https://labs.thinkdataed.org/extras/webdata/mountains.html](https://labs.thinkdataed.org/extras/webdata/mountains.html "https://labs.thinkdataed.org/extras/webdata/mountains.html"){:target="_blank"}
 
     **<u>Note:</u>** Open with Google Chrome or Firefox browsers, NOT with Safari.
 
@@ -58,7 +58,7 @@ way we see data in RStudio. Then, create a class brainstorm from the student pai
     multiple sections of a web page, such as Yelp.
     
     Show students, on a projector, the Mountain Peak XML data found at<br>
-    [https://labs.idsucla.org/extras/webdata/mountains.html](https://labs.idsucla.org/extras/webdata/mountains.html "https://labs.idsucla.org/extras/webdata/mountains.html"){:target="_blank"}
+    [https://labs.thinkdataed.org/extras/webdata/mountains.html](https://labs.thinkdataed.org/extras/webdata/mountains.html "https://labs.thinkdataed.org/extras/webdata/mountains.html"){:target="_blank"}
     
     Ask students to look at the data and determine if they have seen it before. Hint: They have! It was
     the data they scraped during [Lab 3E](lab3e.md).
@@ -69,7 +69,7 @@ HTML and XML versions of the data.
 
     **<u>Note:</u>** Provide an electronic coopy of [LMR_U3_L21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf) for students to easily copy/paste the code later in the lesson. The handout only includes the first 3 mountains.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf)</div>
 
 8. Ask student pairs to answer the following:
 
@@ -166,6 +166,6 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 For the next 3 days, students will collect data using the class’s newly created Participatory Sensing
-campaign (see [Lessons 17](lesson16.md)-[19](lesson18.md)).
+campaign (see [Lessons 17](lesson17.md)-[19](lesson19.md)).
 
 For homework, students should reflect on the purpose of XML and HTML as it pertains to data.
