@@ -103,7 +103,7 @@ for each scenario, and then have them verify their results with a partner.
 
     **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L10_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L10_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_A.pdf)</div>
 
 6. State that we want to know the percentage of students in our class that have made friends online,
 but we don’t want to ask every single student. Instead, we would like to ask only 10 students and
@@ -212,7 +212,7 @@ day were.
 Students should complete the *Parameters & Statistics* handout ([LMR_U3_L10_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_B.pdf)) for homework.
 
 **<u>Note:</u>** Page 2 of the handout is an answer key for teacher reference.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe>
     <br>[LMR_U3_L10_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L10_B.pdf)</div> 
 
 
