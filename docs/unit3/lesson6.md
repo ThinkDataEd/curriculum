@@ -32,10 +32,10 @@ about the results.
 
 2. Have students recall that they used these cards in [Unit 1](../unit1/overview.md), [Lesson 2](../unit1/lesson2.md). When they used them in
 [Lesson 2](../unit1/lesson2.md), the data was collected, recorded, and organized, but without particular structure to it.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L2.pdf)</div>
 
 3. Then, distribute one copy per student of the *Turning Observations into Data* handout ([LMR_U3_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L6.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L6.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L6.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L6.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L6](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L6.pdf)</div>
 
 4. Every student from the team will then select one of the cards from the team’s pile of 8 and should
 begin working through the *Turning Observations into Data* handout individually.
@@ -71,7 +71,7 @@ was recorded.***</span>
 observed and outcomes are recorded. No treatment is applied to the subjects. Instead,
 researchers are simply watching something happen and have absolutely no control over it.
 
-12. In [lesson 7](lesson7.md), students will learn more about the differences between experiments and
+12. In [Lesson 7](lesson7.md), students will learn more about the differences between experiments and
 observational studies and what conclusions they can make about each.
 
 ###**Class Scribes:**
