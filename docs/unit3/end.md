@@ -1,4 +1,4 @@
-##***<u>End of Unit Project and Presentation: TB or Not TB?</u>***
+##***<u>End of Unit 3 Project: Analyzing Our Own Campaign Data</u>***
 
 ###**Objective:**
 Students will answer one of the statistical investigative questions they generated at the beginning of the Participatory Sensing
@@ -12,7 +12,7 @@ summaries of their data to answer their question.
     
 <center>**Analyzing Our Own Campaign Data**</center>
 
-At the start of the Participatory Sensing campaign creation in [lesson 16](lesson16.md), the class developed a research question about your class’s topic of interest.
+At the start of the Participatory Sensing campaign creation in [Lesson 16](lesson16.md), the class developed a research question about your class’s topic of interest.
 
 It is now time to analyze and interpret your class campaign data. You will use the data from your class-created
 campaign only. Based on the analysis, you can also wonder about what other data would be
@@ -20,7 +20,7 @@ necessary to better answer your question, if any.
 
 Based on the class’s campaign data collected:
 
-1. Refer back to the statistical investigative questions your team and class generated in [lesson 16](lesson16.md)-[18](lesson18.md) that address the
+1. Refer back to the statistical investigative questions your team and class generated in [Lessons 16](lesson16.md)-[18](lesson18.md) that address the
 research question.
 
 2. Choose one of these statistical investigative questions and determine which variables will answer this question.
