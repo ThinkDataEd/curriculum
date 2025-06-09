@@ -53,7 +53,7 @@ medical field, to inform people about what they do.
 
 <ins>*Data Collection Method:*</ins>
 
-Students will gather data generated through a class-generated Participatory Sensing campaign.
+**Class-generated Participatory Sensing Campaign:** Students will collect data on a class-selected topic.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)
