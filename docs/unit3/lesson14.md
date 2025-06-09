@@ -55,7 +55,7 @@ parameter value.
     and the upper bracket is 0.8 above the sample mean. Notice that the population
     parameter is included within the brackets.
 
-    <img src="../../img/31407.png" />
+    <center><img src="../../img/31407.png" /></center>
 
 8. Now, convert this to an interval of the form [lowest value, highest value] by subtracting the
 amount from the sample statistic to get the lowest value, and adding to get the highest.
