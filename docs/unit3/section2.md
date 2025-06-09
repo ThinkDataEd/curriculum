@@ -57,7 +57,7 @@ behavioral patterns.
 <ins>*Data File:*</ins>
 
 1. *Lung Capacity of Children* dataset information found at<br>
-    [https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv](https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv "https://raw.githubusercontent.com/ThinkDataEd/dataset/main/fev.csv"){:target="_blank"}
+    [https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv](https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv "https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv"){:target="_blank"}
     
     **<u>Note:</u>** The raw dataset can be found at<br>
     [https://jse.amstat.org/datasets/fev.dat.txt](https://jse.amstat.org/datasets/fev.dat.txt "https://jse.amstat.org/datasets/fev.dat.txt"){:target="_blank"}
