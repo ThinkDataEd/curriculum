@@ -6,7 +6,7 @@ Students will engage in a collectively designed experiment.
 ###**Materials:**
 2. RStudio’s **stopwatch()** function
 
-3. [IDS UCLA App](../download/app.md) or Browser-Based survey-taking tool
+3. [IDS ThinkData Ed App](../download/app.md) or Browser-Based survey-taking tool
 
 ###**Essential Concepts:**
 
@@ -49,7 +49,7 @@ done correctly.
 one minute. Ensure each student records her/his estimate in the DS journal.
 
 11. When the experiment is completed, have students enter their data in the *Time Perception* survey
-found in the Survey Taking Tool at [https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} or by using the [IDS UCLA App](../download/app.md) in their
+found in the Survey Taking Tool at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"} or by using the [IDS ThinkData Ed App](../download/app.md) in their
 iOS or Android devices.
 
 12. Inform students that they will be analyzing the results from the experiment in *[Lab 3A: The results
