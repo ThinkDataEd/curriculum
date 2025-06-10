@@ -41,7 +41,7 @@ poster and record their responses to the questions on the poster paper.
     **<u>Note to teacher:</u>** If necessary, review how to find the slope of a line using two points and how to
     write an equation using the slope and y-intercept. Students may need extra help with finding the correct y-intercept because they cannot rely on the y-axis values in this case since the plots are not starting at the origin, (0,0).
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L9.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L9.pdf)</div>    
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L9.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L9.pdf)</div>    
 
 3. Ask teams to post their work around the room. Conduct a *Gallery Walk* so that teams can see
 each other’s work.
@@ -50,7 +50,7 @@ each other’s work.
 
     **<u>Note to teacher:</u>** Push the students a bit by adding an obviously bad line to the graph and asking
     why their line is better than this one. Push them to come to an understanding that the “best” line
-    comes close to the *most* points and this line is called the **line of best fit**..
+    comes close to the *most* points and this line is called the **line of best fit**.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
