@@ -22,13 +22,13 @@ their campaign. Allow them time to share their findings with their team members.
 
 4. Distribute the Campaign Authoring handout ([LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf)). Each team will select a member to type the information required to create their campaign. Then, they will follow the instructions on the handout.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf)</div>
     
     **<u>Note:</u>** To name their campaign, a naming convention is suggested. Otherwise, you will have multiple campaigns with the same name. For example, teams may include their team name or number in order to easily identify their campaigns.
 
 5. Ask teams to refresh their campaigns on their smartphones or the web browser to verify that their campaign appears as one of the choices.
 
-6. Now that they are finished with their campaigns, student teams will use the remaining time to plan the expectations for their End of Unit 4 Model Eliciting Activity (MEA) Project.
+6. Now that they are finished with their campaigns, student teams will use the remaining time to plan the expectations for their End of Unit 4 Modeling Activity Project.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
