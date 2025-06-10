@@ -64,7 +64,7 @@ numerical variables and asked to find similarities. This is where clustering com
 10. That was an easy one! But what if a player comes in and has the following measurements: weight = 173 pounds, height = 73 inches?
 
 11. Distribute the *Find the Clusters* handout ([LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf)) and tell the students that the new point has been added to the “Round 0” graph.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf)</div>
 
 12. Ask students:
 
@@ -114,7 +114,7 @@ numerical variables and asked to find similarities. This is where clustering com
 
     **<u>Note:</u>** If students used the initial cluster centers from step 16 above, they would finish clustering in Round 2 with points 1, 2, 3 belonging to cluster A and points 4, 5, 6, and 7 belonging to cluster B.
 
-20. Where you choose your initial points matters in determining which points end up in which clusters. Demonstrate this to the class using the K-means Clustering App, located on the Applications page on Portal under Explore ([https://portal.idsucla.org/#curriculum/applications/](https://portal.idsucla.org/#curriculum/applications/ "https://portal.idsucla.org/#curriculum/applications/"){:target="_blank"}).
+20. Where you choose your initial points matters in determining which points end up in which clusters. Demonstrate this to the class using the K-means Clustering App, located on the Applications page on Portal under Explore ([https://portal.thinkdataed.org/#curriculum/applications/](https://portal.thinkdataed.org/#curriculum/applications/ "https://portal.thinkdataed.org/#curriculum/applications/"){:target="_blank"}).
 
     100. In the app, "centroids" is the academic term for cluster centers. For this example, we will use 3 centroids and choose a "Clustered Initialization" with 100 points and 3 Clusters. See image below for how to adjust the settings.
 
