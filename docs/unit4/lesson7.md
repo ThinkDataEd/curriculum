@@ -87,7 +87,7 @@ they will be given a rule and it’s their job to find the best prediction to wi
 
 
 8. Distribute the *A Tale of Two Rules* handout ([LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf)).
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_A.pdf)</div>
 
 9. Let's see how well our teams' predictions did on the heights of the test data. Students will work in teams to answer: Using the mean squared errors, which statistic is the winner? Discuss which statistic/team made the best predictions.
 
@@ -136,7 +136,7 @@ mean absolute error formula and discuss what each symbol means.
 
 15. Optional practice: Students can practice finding the mean squared error and mean absolute error using the mean and median with the *Prediction Games* handout ([LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf)). The LMR includes the five number summary if they were curious how the MSE and MAE for other statistics compare. <br>**<u>Note:</u>** Page 3 of the handout is an answer key for teacher reference.
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L7_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L7_B.pdf)</div>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
