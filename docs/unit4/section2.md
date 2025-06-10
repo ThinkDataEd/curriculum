@@ -83,7 +83,7 @@ evaluate these studies and reports.
 
 2. Movies: ```data(movie)```
 
-<ins>*Data Collection:*</ins>
+<ins>*Data Collection Method:*</ins>
 
 **Team-generated Participatory Sensing Campaign:** Students will collect data for a team-selected topic.
 

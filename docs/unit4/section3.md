@@ -61,7 +61,7 @@ strategies to fit the demands of changes in the marketplace.
 
 2. Cereal brands: ```data(cereal)```
 
-<ins>*Data Collection:*</ins>
+<ins>*Data Collection Method:*</ins>
 
 **Team-generated Participatory Sensing Campaign:** Students will collect data for a team-selected topic.
 
