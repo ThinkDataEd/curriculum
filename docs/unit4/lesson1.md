@@ -32,17 +32,17 @@ Students will learn about reducing the burden of trash landfills.
     100. How are they useful in fighting plastic pollution? <span style="color:grey">***Answer: Brand accountability, community involvement, cleaning rivers/ dumping sites, and finding sources of pollution.***</span>
 
 5. Now we'll take inventory of our own understanding of landfills and how trash travels there. Distribute the *Landfill Readiness Questions* handout ([LMR_U4_L1_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_A.pdf)). Allow students private think-time before having them discuss in their teams.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L1_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_A.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L1_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_A.pdf)</div>
 
 6. Let students know that they will be exploring data from a trash Participatory Sensing campaign, titled the “Trash Campaign,” that was conducted at a number of high schools in the Los Angeles Unified School District (LAUSD).
 
 7. Concerned students in LAUSD engaged in a model eliciting activity and created a trash participatory sensing campaign to investigate possible trash issues in their communities. Based on the data collected, they made recommendations to the Los Angeles County Sanitation District (LACSD) that would help reduce the use of the regional landfills.
 
 8. Distribute the *Trash Campaign Exploration* handout ([LMR_U4_L1_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_B.pdf)) to assist in students' interaction with the IDS public dashboard.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L1_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L1_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_B.pdf)</div>
 
 9. Navigate students to the IDS public dashboard:
-[https://portal.idsucla.org](https://portal.idsucla.org "https://portal.idsucla.org"){:target="_blank"} <img src="../../img/40109.png" />
+[https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"} <img src="../../img/40109.png" />
 
 10. They should use the “Trash” campaign data and select “Dashboard” from the “Action” button. <img src="../../img/40110.png" />
 
@@ -71,7 +71,7 @@ Students will learn about reducing the burden of trash landfills.
     100. When someone littered, how many times was the person not arround any type of waste receptacle? <span style="color:grey">***Answer: 15 out of 58.***</span>
 
 13. Take time at the end of class to share out and discuss the components of the Trash Campaign. If needed, you may use the *Trash Campaign Creation* handout ([LMR_U4_L1_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_C.pdf)) as an additional resource to help with the deconstruction of the Trash Campaign.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L1_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_C.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L1_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_C.pdf)</div>
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
