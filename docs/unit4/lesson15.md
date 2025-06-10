@@ -17,7 +17,7 @@ with how the information should be combined.
 
     <img src="../../img/41412.png" />    
 
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf)</div>
 
     100. Combining multiple variables (e.g., money spent on TV and Newspaper ads, TV and
     Radio ads, TV, Radio, and Newspaper ads, etc.) into one model will lead to worse
@@ -57,8 +57,8 @@ Newspaper ads, etc.)
 
 7. Reveal that RStudio calculated the mean squared error for different combinations plus the single models, and the results are displayed on the table below. This means that, for example, when using the TV model to predict number of items sold, our predictions will typically be off by about 3.373579 (in 10,000s) of units or 33,736 units. Then ask students the questions below. <br>**<u>Note:</u>** Remember that the MSE will always be in square units. In order to convert back to the original units, simply take the square root of the MSE.
 
-    | Model | Mean Squared Error (MSE) | | Square Root MSE |
-    |--------------------|---------------------||---------------------|
+    | Model | Mean Squared Error (MSE) |  Square Root MSE |
+    |--------------------|---------------------|---------------------|
     | TV | 11.38103 | 3.373579 |
     | Radio | 25.35521 | 5.035396 |
     | Newspaper | 31.44164 | 5.607285 |
