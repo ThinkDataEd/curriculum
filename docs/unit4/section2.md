@@ -44,7 +44,7 @@ context of the data.
 S-ID 8: Compute (using technology) and interpret the correlation coefficient of a linear fit.
 
 S-IC 6: Evaluate reports based on data.\*
-\*This standard is woven throughout the course. It is a recurring standard for every unit.
+<br>\*This standard is woven throughout the course. It is a recurring standard for every unit.
 
 <ins>*Data Science:*</ins>
 
@@ -85,7 +85,7 @@ evaluate these studies and reports.
 
 <ins>*Data Collection:*</ins>
 
-Students will collect data for their Team Participatory Sensing campaign.
+**Team-generated Participatory Sensing Campaign:** Students will collect data for a team-selected topic.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)
