@@ -75,7 +75,7 @@ Students will research and review articles from accredited sources to guide the 
 6. Remind students that in the last unit, they created one campaign for the entire class. In this unit, each student team will be creating and implementing a campaign on a topic that addresses a community concern or interest.
 
 7. Distribute the *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf)). Use the remainder of the class for students to find and review articles that will be the basis for their team participatory sensing campaigns. They will decide on a topic today and continue to create their campaigns in the next class period. Facilitate the student teams' brainstorm session by circulating around the room to check for understanding. If teams need help with finding an article and choosing a topic, you may recommend one of the following:
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf)</div>
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf)</div>
 
     100. Article: *Great Pacific Garbage Patch: The World's Biggest Landfill in the Pacific Ocean* <br> [https://science.howstuffworks.com/environmental/earth/oceanography/great-pacific-garbage-patch.htm](https://science.howstuffworks.com/environmental/earth/oceanography/great-pacific-garbage-patch.htm "https://science.howstuffworks.com/environmental/earth/oceanography/great-pacific-garbage-patch.htm"){:target="_blank"}
     
@@ -99,4 +99,4 @@ Students will research and review articles from accredited sources to guide the 
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p> 
-Students will come up with at least 2 possible research questions for their participatory sensing campaign. They will come to a consensus about their research question with their team in the next class period.
+Students will come up with at least 2 possible research questions for their Participatory Sensing campaign. They will come to a consensus about their research question with their team in the next class period.
