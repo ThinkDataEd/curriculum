@@ -81,7 +81,7 @@ concepts and skills.
 
 ##<p style="background: black; color: white; text-align: center;">**Data File or Data Collection Method**</p>
 
-*<u>Data Collection:</u>*
+*<u>Data Collection Method:</u>*
 
   1. Students will keep a Data Diary for 24 hours to track their daily data output.
 
