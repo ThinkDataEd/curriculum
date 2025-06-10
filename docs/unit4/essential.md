@@ -67,7 +67,7 @@ Some trends are not linear, so the approaches we’ve done so far won’t be hel
 We can determine the usefulness of decision trees by comparing the number of misclassifications in each.
 
 ###**<u>[Lesson 18: Where Do I Belong?](lesson18.md)</u>**
-We can identify groups, or “clusters”, in data based on a few characteristics. For example, it is easy to classify a group of people into football players and swimmers, but what if you only knew each person’s arm span? How well could you classify them into football players and swimmers now?
+We can identify groups, or “clusters,” in data based on a few characteristics. For example, it is easy to classify a group of people into football players and swimmers, but what if you only knew each person’s arm span? How well could you classify them into football players and swimmers now?
 
 ###**<u>[Lesson 19: Our Class Network](lesson19.md)</u>**
 Networks are made when observations are interconnected. In a social setting, we can examine how
