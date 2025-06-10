@@ -40,9 +40,9 @@ Cardiologists may use a decision tree to diagnose whether people are or are not 
 
 1. Titanic: ```data(titanic)```
 
-<ins>*Data Collection:*</ins>
+<ins>*Data Collection Method:*</ins>
 
-Students will collect data for their Team Participatory Sensing campaign.
+**Team-generated Participatory Sensing Campaign:** Students will collect data for a team-selected topic.
 
 ##<p style="background: black; color: white; text-align: center;">**Legend for Activity Icons**</p>
 ![legend](../img/legend.png)
