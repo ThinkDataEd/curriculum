@@ -185,7 +185,7 @@ Friday, 600 went to the park and the rest read at home.
 
     *If we select a student at random, what is the probability that this student is one of those who went to the movies last Friday?*
 
-* <span style="color:firebrick;">**(14) Answer this by estimating the probability that a randomly chosen student went to the
+* <span style="color:firebrick;">**(14) Write and run code estimating the probability that a randomly chosen student went to the
 movies using 500 simulations.**</span>
 
     – <span style="color:firebrick;">**(15) Write down both the code and the output that estimates the probability that a randomly chosen student went to the movies using 500 simulations. You might find it helpful to write your answer in an R Script
