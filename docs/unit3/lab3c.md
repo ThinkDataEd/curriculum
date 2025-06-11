@@ -33,7 +33,7 @@ people in the data:**</span>
 * A convenience sample is a sample from a population where we collect data on subjects
 because they're easy-to-find.
 
-* <span style="color:firebrick;">**(4) Using your convenience sample, create a ```bargraph``` for the number of people in each ```grade```.**</span>
+* <span style="color:firebrick;">**(4) Using your convenience sample, write and run code creating a ```bargraph``` for the number of people in each ```grade```.**</span>
 
     – <span style="color:firebrick;">**(5) Do you think the distribution of ```grade``` for your sample would look similar
     when compared to the whole ```cdc``` data?**</span>
