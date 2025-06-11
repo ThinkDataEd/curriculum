@@ -62,7 +62,7 @@ see a difference smaller than the actual one we observed, by chance alone.
 
         draws <- rnorm(____, mean = ____, sd = ____)
 
-    – <span style="color:firebrick;">**Fill in the blank below to plot your simulated heights with a ```histogram```.**</span>
+    – <span style="color:firebrick;">**(10) Fill in the blank below to plot your simulated heights with a ```histogram```.**</span>
 
         histogram(draws, fit = ____)
 
