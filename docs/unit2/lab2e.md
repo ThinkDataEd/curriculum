@@ -120,7 +120,7 @@ to the differences in our shuffled data.
 
 * To compute the differences for each shuffle we can use the ```mutate``` function.
 
-    – <span style="color:midnightblue;">**(15) Fill in the blanks to add a new column that contains the difference between ```Survives.Female``` and
+    – <span style="color:firebrick;">**(15) Fill in the blanks to add a new column that contains the difference between ```Survives.Female``` and
     ```Survives.Male``` to our ```shuffled_outcomes``` data.**</span>
 
             shuffled_outcomes <- mutate(shuffled_outcomes, diff = ____ - ____)
