@@ -29,7 +29,7 @@ clusters.
     – This data contains 24 players from the US Men's National Soccer team (USMNT)
     and 33 quarterbacks from the National Football League (NFL).
 
-* <span style="color:firebrick;">**(1) Write and run code creating a scatterplot of the players ```ht_inches``` and ```wt_lbs``` and color each dot based on the ```league``` they play for.**</span>
+* <span style="color:firebrick;">**(1) Write and run code creating a scatterplot of the players' ```ht_inches``` and ```wt_lbs``` and color each dot based on the ```league``` they play for.**</span>
 
 ###**Running k-means**
 * After plotting the player's heights and weights, we can see that there are two clusters, or
