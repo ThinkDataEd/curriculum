@@ -4989,7 +4989,7 @@
 <li>
 <p>In this lab, we'll learn how we can create frequency tables to detect relationships between categorical variables.</p>
 <p>– <span style="color:midnightblue;"><strong>For the sake of consistency, rather than using the data that you cleaned, you will use the pre-loaded ATU data.</strong></span></p>
-<p>– <span style="color:midnightblue;"><strong>Use the <code>data()</code> function to load the <code>atu_clean</code> data file to use in this lab.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(1) Write and run code using the <code>data()</code> function to load the <code>atu_clean</code> data file to use in this lab.</strong></span></p>
 </li>
 </ul>
 <h3 id="how-do-we-summarize-categorical-variables"><strong>How do we summarize categorical variables?</strong></h3>
@@ -5008,7 +5008,7 @@
 <p>When it comes to categories, about all you can do is <em>count</em> or <em>tally</em> how often each category comes up in the data.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Fill in the blanks below to answer the following: How many more <em>females</em> than <em>males</em> are there in our ATU data?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(2) Fill in the blanks below to answer the following: How many more <em>females</em> than <em>males</em> are there in our ATU data?</strong></span></p>
 <pre><code>tally(~ ____, data = ____)
 </code></pre>
 </li>
@@ -5034,9 +5034,9 @@
 <p>The split <code>bargraph</code> helps us get an idea of the answer to the question, but we need to provide precise values.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Use a line of code, that’s similar to how we facet plots, to obtain a <code>tally</code> of the number of people with physical challenges and their sex.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(3) Write and run a line of code, that’s similar to how we facet plots, to obtain a <code>tally</code> of the number of people with physical challenges and their sex.</strong></span></p>
 <ul>
-<li><span style="color:firebrick;"><strong>Write down the resulting table.</strong></span></li>
+<li><span style="color:firebrick;"><strong>(4) Write down the resulting table.</strong></span></li>
 </ul>
 </li>
 </ul>
@@ -5051,7 +5051,7 @@
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Include: <code>format = "percent"</code> as an option to the code you used to make your 2-way frequency table.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>Does one <code>sex</code> seem to have a higher occurrence of physical challenges than the other? If so, which one and explain your reasoning?</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(5) Does one <code>sex</code> seem to have a higher occurrence of physical challenges than the other? If so, which one and explain your reasoning?</strong></span></p>
 </li>
 <li>
 <p>It’s often helpful to display totals in our 2-way frequency tables.</p>
@@ -5092,19 +5092,19 @@ tally(~sex | phys_challenge, data = atu_clean, margin = TRUE)
 <p>– In the second two-way frequency table the groups being compared are the people with <code>No difficulty</code> and those that <code>Has difficulty</code> on the distribution of sex.</p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Add the option <code>format = "percent"</code> to the first <code>tally</code> function. How were the percents calculated? Interpret what they mean.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(6) Add the option <code>format = "percent"</code> to the first <code>tally</code> function. How were the percents calculated? Interpret what they mean.</strong></span></p>
 </li>
 </ul>
 <h3 id="on-your-own"><strong>On your own</strong></h3>
 <ul>
 <li>
-<p><span style="color:firebrick;"><strong>Describe what happens if you create a 2-way frequency table with a numerical variable and a categorical variable.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(7) Describe what happens if you create a 2-way frequency table with a numerical variable and a categorical variable.</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>How are the types of statistical investigative questions that 2-way frequency tables can answer different than 1-way frequency tables?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(8) How are the types of statistical investigative questions that 2-way frequency tables can answer different than 1-way frequency tables?</strong></span></p>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>Which <code>sex</code> has a higher rate of <em>part time employment</em>?</strong></span></p>
+<p><span style="color:firebrick;"><strong>(9) Which <code>sex</code> has a higher rate of <em>part time employment</em>?</strong></span></p>
 </li>
 </ul>
 
