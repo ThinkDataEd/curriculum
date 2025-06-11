@@ -5109,7 +5109,7 @@ one category but were actually in another.</p>
 <p>– Hint: <code>sum(____!=____)</code> will count the number of times that the left-hand side does not equal the right-hand side.</p>
 <p>– We want to count the number of times that actual does not equal predicted and then divide by the total number of observations.</p>
 <pre><code>calc_mcr &lt;- function(actual, predicted) {
-sum(____ != ____) / length(____)
+sum(____ != ____) / length(actual)
 }
 </code></pre>
 </li>
@@ -5128,7 +5128,7 @@ sum(____ != ____) / length(____)
 <p><span style="color:firebrick;"><strong>(19) Which model (<code>tree1</code>, <code>tree2</code>, or <code>tree3</code>) had the lowest misclassification rate for the <code>titanic_test</code> data?</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>(20) Write and run code creating a 4th model using the same variables used in <code>tree2</code>. This time though, change the <em>complexity parameter</em> to <code>0.0001</code>. Then answer the following.</strong></span></p>
+<p><span style="color:firebrick;"><strong>(20) Write and run code creating a 4th model using the same variables used in <code>tree2</code>. This time though, change the <em>complexity parameter</em> to <code>0.0001</code>. Then answer the following.</strong></span></p>
 <p>– <span style="color:firebrick;"><strong>(21) Does creating a more complex <em>classification tree</em> always lead to better
 predictions? Why not?</strong></span></p>
 </li>
