@@ -85,7 +85,7 @@ how closely the rest of the data are to this *typical* value.
 
 * <span style="color:firebrick;">**(12) Look at the spread of the scores from the mean score then complete the sentence below:**</span>
 
-    – <span style="color:firebrick;">Data points in my plot will usually fall within <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> units of the center.</span>
+    – <span style="color:firebrick;">**Data points in my plot will usually fall within <u>&nbsp;&nbsp;&nbsp;&nbsp;</u> units of the center.**</span>
 
 ###**Mean Absolute Deviation**
 * The **mean absolute deviation** finds how far away, on average, the data are from the mean.
