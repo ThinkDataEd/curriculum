@@ -87,7 +87,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – <span style="color:firebrick;">**(19) Would you say that *most* people *never* texted while driving? What does the word *most* mean?**</span>
 
-    – <span style="color:firebrick;">**(20) Approximately what percent of the people texted while driving for 20 or more days?**</span> (Hint: There's 17,232 students in our data.)
+    – <span style="color:firebrick;">**(20) Approximately what percent of the people texted while driving for 20 or more days?**</span> (Hint: There are 17,232 students in our data.)
 
 ###**Does texting and driving differ by sex?**
 * <span style="color:firebrick;">**(21) Write and run the codee to make a side-by-side ```bargraph``` that could answer this quesition: *Does texting and driving differ by sex?* Use the following fill-in-the-blank code as a hint.**</span>
