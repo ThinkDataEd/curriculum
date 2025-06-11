@@ -249,7 +249,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
         histogram(~calories | healthy_level, data = food)
 
-* <span style="color:firebrick;">**(6) Use the ```as.factor()``` function to convert ```healthy_level``` into a categorical variable and re-run the ```histogram``` function.**</span>
+* <span style="color:firebrick;">**(6) Write and run code using the ```as.factor()``` function to convert ```healthy_level``` into a categorical variable and re-run the ```histogram``` function.**</span>
 
     – Notice that the ```healthy_level``` categories are now numbers as opposed to tick-marks. This is an improvement but an even better solution would be to ```recode``` the categories.
 
