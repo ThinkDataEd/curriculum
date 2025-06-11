@@ -101,7 +101,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
     – We want to count the number of times that actual does not equal predicted and then divide by the total number of observations.
 
         calc_mcr <- function(actual, predicted) {
-        sum(____ != ____) / length(____)
+        sum(____ != ____) / length(actual)
         }
     
 * <span style="color:midnightblue;">**Then run the following to calculate the MCR.**</span>
@@ -113,7 +113,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:firebrick;">**(19) Which model (```tree1```, ```tree2```, or ```tree3```) had the lowest misclassification rate for the ```titanic_test``` data?**</span>
 
-* <span style="color:midnightblue;">**(20) Write and run code creating a 4th model using the same variables used in ```tree2```. This time though, change the *complexity parameter* to ```0.0001```. Then answer the following.**</span>
+* <span style="color:firebrick;">**(20) Write and run code creating a 4th model using the same variables used in ```tree2```. This time though, change the *complexity parameter* to ```0.0001```. Then answer the following.**</span>
 
     – <span style="color:firebrick;">**(21) Does creating a more complex *classification tree* always lead to better
     predictions? Why not?**</span>
