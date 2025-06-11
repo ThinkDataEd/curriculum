@@ -9,7 +9,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * In this lab, we will learn about prediction models that fit *best fitting curves* to data.
 
-* <span style="color:firebrick;">**(1) Before moving on, load the ```movie``` data and split it into two sets:**</span>
+* <span style="color:firebrick;">**(1) Before moving on, load the ```movie``` data and write and run code splitting it into two sets:**</span>
 
     – <span style="color:midnightblue;">**A set named ```training``` that includes 75% of the data.**</span>
 
