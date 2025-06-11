@@ -163,7 +163,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 * <span style="color:midnightblue;">**```View``` the ```my_sub``` data we filtered in the above line of code and verify that it only includes salty snacks that have less than 200 calories.**</span>
 
 ###**Put it all together**
-* <span style="color:firebrick;">**(9) Create a ```dotPlot``` and answer the question: About how much ```sugar``` does the typical sweet snack have **</span>
+* <span style="color:firebrick;">**(9) Create a ```dotPlot``` and answer the question: About how much ```sugar``` does the typical sweet snack have?**</span>
 
 * <span style="color:firebrick;">**(10) Create a ```dotPlot``` and answer the question: How does the typical amount of ```sugar``` compare when ```healthy_level < 3``` and when ```healthy_level > 3```?**</span>
 
