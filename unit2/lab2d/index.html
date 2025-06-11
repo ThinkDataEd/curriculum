@@ -5136,14 +5136,14 @@ number of attempts we made (the number of simulations).</p>
 <li>
 <p>One way we can estimate the probability of drawing two songs of the <em>same</em> genre is to use the
 following trick to count the number of <em>rap</em> songs in each of the 10 simulations:</p>
-<pre><code>mutate(draws, nrap = rowSums(draws=="rap"))
+<pre><code>mutate(draws, nrap = rowSums(draws == "rap"))
 </code></pre>
 </li>
 <li>
 <p><span style="color:firebrick;"><strong>(12) Let’s break down the code above by running each part of the code one piece at a time. As you run each line of code below describe the output.</strong></span></p>
 <pre><code>draws == "rap"
 rowSums(draws == "rap")
-mutate(draws, nrap = rowSums(draws=="rap"))
+mutate(draws, nrap = rowSums(draws == "rap"))
 </code></pre>
 </li>
 <li>
