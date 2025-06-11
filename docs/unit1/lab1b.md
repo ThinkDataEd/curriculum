@@ -90,7 +90,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
     – <span style="color:firebrick;">**(20) Approximately what percent of the people texted while driving for 20 or more days?**</span> (Hint: There are 17,232 students in our data.)
 
 ###**Does texting and driving differ by sex?**
-* <span style="color:firebrick;">**(21) Write and run the codee to make a side-by-side ```bargraph``` that could answer this quesition: *Does texting and driving differ by sex?* Use the following fill-in-the-blank code as a hint.**</span>
+* <span style="color:firebrick;">**(21) Write and run the code to make a side-by-side ```bargraph``` that could answer this quesition: *Does texting and driving differ by sex?* Use the following fill-in-the-blank code as a hint.**</span>
 
         bargraph (~____ , data = ____, groups = ____)
 
@@ -127,7 +127,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:firebrick;">**(29) Do you think males and females have similar heights? Use the plot you create to justify your answer.**</span>
 
-* <span style="color:midnightblue;">**(30) Just like we did for the ```histogram```, is it possible to create a *split* ```bargraph```? Write and run the code to create a ```bargraph``` of ```drive_text``` that is split by ```sex``` to find out.**</span>
+* <span style="color:firebrick;">**(30) Just like we did for the ```histogram```, is it possible to create a *split* ```bargraph```? Write and run the code to create a ```bargraph``` of ```drive_text``` that is split by ```sex``` to find out.**</span>
 
 ###**On your own:**
 * In this lab, we looked at the texting & driving habits of boys and girls.
