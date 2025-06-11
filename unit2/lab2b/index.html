@@ -5117,7 +5117,7 @@ and largest values.</p>
 </code></pre>
 </li>
 <li>
-<p><span style="color:firebrick;"><strong>(4) Use a similar line of code to calculate <em>Q3</em>, which is the value that's larger than 75% of our data.</strong></span>    </p>
+<p><span style="color:firebrick;"><strong>(4) Use a similar line of code to calculate and write down <em>Q3</em>, which is the value that's larger than 75% of our data.</strong></span>    </p>
 </li>
 </ul>
 <h3 id="the-inter-quartile-range-iqr"><strong>The Inter-Quartile-Range (IQR)</strong></h3>
@@ -5167,7 +5167,7 @@ the <strong>box and whisker</strong> plot, often shortened to just <strong>boxpl
 your explanation in a series of steps for the person to use.</strong></span></p>
 <p>– <span style="color:firebrick;"><strong>(12) Use the steps you write to create a sketch of a <em>boxplot</em> for your predominant
 color's scores in your journal.</strong></span></p>
-<p>– <span style="firebrick;"><strong>(13) Then use the <code>bwplot</code> function to create a <em>boxplot</em> using <code>R</code>.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(13) Then use the <code>bwplot</code> function to create a <em>boxplot</em> using <code>R</code>.</strong></span></p>
 </li>
 </ul>
 <h3 id="our-favorite-summaries"><strong>Our favorite summaries</strong></h3>
@@ -5179,7 +5179,7 @@ color's scores in your journal.</strong></span></p>
 <li>
 <p><span style="color:firebrick;"><strong>(14) Fill in the blanks below to compute some of our <em>favorite</em> summaries for your predominant color all
 at once.</strong></span></p>
-<pre><code>favstats(~____, data=colors)
+<pre><code>favstats(~____, data = colors)
 </code></pre>
 </li>
 </ul>
@@ -5193,7 +5193,7 @@ values for a variable, but not the difference between them.</p>
 <p>We could calculate this difference in two steps:</p>
 <p>– Step 1: Use the <code>range</code> function to <code>assign</code> the max and min values of a variable the name
 <code>values</code>. This will store the output from the <code>range</code> function in the <em>Environment</em> pane.</p>
-<pre><code>values &lt;- range(~____, data=colors)
+<pre><code>values &lt;- range(~____, data = colors)
 </code></pre>
 <p>– Step 2: Use the <code>diff</code> function to calculate the difference of <code>values</code>. The input for the <code>diff</code> function needs to be a vector containig two numeric values.</p>
 <pre><code>diff(values)
