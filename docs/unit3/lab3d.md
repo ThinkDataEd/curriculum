@@ -131,11 +131,11 @@ confidence intervals*.
 
 * <span style="color:firebrick;">**(13) Write and run code using the ```quantile()``` function to check your estimates.**</span>
 
-* <span style="color:firebrick;">**(14) Based on your bootstrapped estimates, between which two ages are we 90%
+* <span style="color:firebrick;">**(14) Based on your *bootstrapped* estimates, between which two ages are we 90%
 confident the actual ```mean``` age of people living in the U.S. is contained?**</span>
 
 ###**On your own**
-* <span style="color:firebrick;">**(15) Using your *bootstrapped* sample means, create a 95% confidence interval for the ```mean``` age
+* <span style="color:firebrick;">**(15) Using your *bootstrapped* sample means, write and run code creating a 95% confidence interval for the ```mean``` age
 of people living in the U.S.**</span>
 
 * <span style="color:firebrick;">**(16) Why is the 95% confidence interval wider than the 90% interval?**</span>
