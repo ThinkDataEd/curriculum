@@ -44,7 +44,7 @@ and largest values.
 
         quantile(~____, data = ____, p = 0.25)
 
-* <span style="color:firebrick;">**(4) Use a similar line of code to calculate *Q3*, which is the value that's larger than 75% of our data.**</span>    
+* <span style="color:firebrick;">**(4) Use a similar line of code to calculate and write down *Q3*, which is the value that's larger than 75% of our data.**</span>    
 
 ###**The Inter-Quartile-Range (IQR)**
 
@@ -89,7 +89,7 @@ your explanation in a series of steps for the person to use.**</span>
     – <span style="color:firebrick;">**(12) Use the steps you write to create a sketch of a *boxplot* for your predominant
     color's scores in your journal.**</span>
 
-    – <span style="firebrick;">**(13) Then use the ```bwplot``` function to create a *boxplot* using ```R```.**</span>
+    – <span style="color:firebrick;">**(13) Then use the ```bwplot``` function to create a *boxplot* using ```R```.**</span>
 
 ###**Our favorite summaries**
 * In the past two labs, we've learned how to calculate numerous *numerical summaries*.
@@ -99,7 +99,7 @@ your explanation in a series of steps for the person to use.**</span>
 * <span style="color:firebrick;">**(14) Fill in the blanks below to compute some of our *favorite* summaries for your predominant color all
 at once.**</span>
 
-        favstats(~____, data=colors)    
+        favstats(~____, data = colors)    
 
 ###**Calculating a range value**
 * We saw in the previous slide that the ```range``` function calculates the maximum and minimum
@@ -110,7 +110,7 @@ values for a variable, but not the difference between them.
     – Step 1: Use the ```range``` function to ```assign``` the max and min values of a variable the name
     ```values```. This will store the output from the ```range``` function in the *Environment* pane.
 
-        values <- range(~____, data=colors)
+        values <- range(~____, data = colors)
 
     – Step 2: Use the ```diff``` function to calculate the difference of ```values```. The input for the ```diff``` function needs to be a vector containig two numeric values.
 
