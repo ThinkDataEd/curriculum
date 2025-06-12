@@ -94,7 +94,7 @@
 
 [LMR_U2_Campaign_StressChill.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Campaign_StressChill.pdf)
 
-[LMR_U2_Design_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Design_Project.pdf)
+[LMR_U2_End_of_Unit_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_End_of_Unit_Project.pdf)
 
 [LMR_U2_Practicum_The_Summaries.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The_Summaries.pdf)
 
@@ -216,7 +216,7 @@
 
 [LMR_U4_L19_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L19_B)
 
-[LMR_U4_Modeling_Activity_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_Modeling_Activity_Project.pdf)
+[LMR_U4_End_of_Unit_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_End_of_Unit_Project.pdf)
 
 [LMR_U4_Practicum_Predictions.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_Practicum_Predictions.pdf)
 
