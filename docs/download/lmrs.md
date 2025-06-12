@@ -1,6 +1,6 @@
 #IDS_LMRs
 
-##**IDS_LMR_Unit 1_v_7.0**	
+##**IDS_LMR_Unit 1_v_7.1**	
 
 [LMR_U1_L1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L1.pdf)
 
@@ -54,7 +54,7 @@
 
 
 
-##**IDS_LMR_Unit 2_v_7.0**		
+##**IDS_LMR_Unit 2_v_7.1**		
 
 [LMR_U2_L1.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L1.pdf)
 
@@ -104,7 +104,7 @@
 
 
 
-##**IDS_LMR_Unit 3_v_7.0**		
+##**IDS_LMR_Unit 3_v_7.1**		
 
 [LMR_Miracle_Cafe.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_Miracle_Cafe.pdf)
 
@@ -154,17 +154,17 @@
 
 [LMR_U3_End_of_Unit_Project.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End_of_Unit_Project.pdf)
 
-[LMR_U3_End_of_Unit_Project_SampleSolution.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End_of_Unit_Project_SampleSolution.pdf)
+[LMR_U3_Practicum_TB_or_Not_TB.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_TB_or_Not_TB.pdf)
+
+[LMR_U3_Practicum_TB_or_Not_TB_SampleSolution.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_TB_or_Not_TB_SampleSolution.pdf)
 
 [LMR_U3_Practicum_Build_a_Survey.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Build_a_Survey.pdf)
 
 [LMR_U3_Practicum_Music_to_My_Ears.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Music_to_My_Ears.pdf)
 
-[LMR_U3_Practicum_Our_Own_Campaign.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Our_Own_Campaign.pdf)
 
 
-
-##**IDS_LMR_Unit 4_v_7.0**	
+##**IDS_LMR_Unit 4_v_7.1**	
 
 [LMR_U4_L1_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L1_A.pdf)
 
