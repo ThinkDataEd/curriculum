@@ -9,9 +9,16 @@ Changes that have been made to version 7.1
 
 **All Units**
 
+ - New campaign: IDS Survey
+
+       - Pre: To be done once before instruction of IDS lessons...
+       - Post: ...and once more after instruction of IDS lessons ends for the course
+
  - All labs now have numbered questions
-        - Some blue questions have been changed to red
-        - This allows easier recognition for LaiLA
+
+       - Some blue questions have been changed to red
+       - This allows easier recognition for LaiLA
+
  - All LRSs have been updated to reflect the new lab question numbering
  - All lab solutions have been updated to reflect the new lab question numbering
 
