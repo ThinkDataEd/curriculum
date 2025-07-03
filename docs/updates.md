@@ -3,7 +3,25 @@ If you have any questions, please contact us at [support@thinkdataed.org](mailto
 
 Introduction to Data Science, [https://www.thinkdataed.org](https://www.thinkdataed.org){:target="_blank"}
 
-This website was last updated on February 4, 2025.
+This website was last updated on July 3, 2025.
+
+Changes that have been made to version 7.1
+
+**All Units**
+
+ - All labs now have numbered questions
+        - Some blue questions have been changed to red
+        - This allows easier recognition for LaiLA
+ - All LRSs have been updated to reflect the new lab question numbering
+ - All lab solutions have been updated to reflect the new lab question numbering
+
+**Unit 3**
+
+ - TB or Not TB is now a Practicum in Section 1 rather than an End of Unit Project
+ - Music to my Ears Practicum has been removed
+ - What Does Our Campaign Data Say? is now the End of Unit Project in Section 5 rather than a Practicum
+
+----------------------------------------------------
 
 Changes that have been made to version 7.0
 
