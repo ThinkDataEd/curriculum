@@ -67,7 +67,7 @@ way we see data in RStudio. Then, create a class brainstorm from the student pai
 [Lab 3E](lab3e.md), distribute the *Mountains – HTML vs. XML* handout ([LMR_U3_L21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf)), which displays both
 HTML and XML versions of the data.
 
-    **<u>Note:</u>** Provide an electronic coopy of [LMR_U3_L21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf) for students to easily copy/paste the code later in the lesson. The handout only includes the first 3 mountains.
+    **<u>Note:</u>** Provide an electronic copy of [LMR_U3_L21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf) for students to easily copy/paste the code later in the lesson. The handout only includes the first 3 mountains.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L21](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L21.pdf)</div>
 
