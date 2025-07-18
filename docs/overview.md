@@ -42,7 +42,7 @@ Each computer (tablets are not recommended) in the classroom should have a moder
 [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}. The IDS team will provide the remainder of the software used in the IDS
 curriculum, also available at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}.
 
-This software includes the [IDS ThinkData Ed](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=org.thinkdataed.app.survey){:target="_blank"} and [iOS](https://apps.apple.com/us/app/ids-ucla-authorized/id6469903361){:target="_blank"} (Apple) smartphones and
+This software includes the [IDS ThinkData Ed](download/app.md), which is deployed for [Android](https://play.google.com/store/apps/details?id=org.thinkdataed.app.survey){:target="_blank"} and [iOS](https://apps.apple.com/us/app/ids-thinkdata-ed/id6746621731){:target="_blank"} (Apple) smartphones and
 tablets, as well as through the web browser on a desktop or laptop computer. The app allows students to
 collect the Participatory Sensing data that is a motivational foundation for the course. In addition to the
 app, students will use the IDS software to access and manipulate their Participatory Sensing data, and to
