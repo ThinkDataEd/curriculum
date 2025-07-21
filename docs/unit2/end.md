@@ -7,9 +7,8 @@ unit design project.
 ###**Materials:**
 1. *End of Unit 2 Project: Comparing Groups Using Our Own Data* ([LMR_U2_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_End_of_Unit_Project.pdf))
 
-<center>**End of Unit 2 Project**</center>
-
-<center>**Comparing Groups Using Our Own Data**</center>
+**<center>End of Unit 2 Project</center>**
+**<center>Comparing Groups Using Our Own Data</center>**
 
 Available datasets:
 

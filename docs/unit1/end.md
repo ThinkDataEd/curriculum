@@ -6,9 +6,8 @@ Students will apply their learning of the first unit in the curriculum by comple
 ###**Materials:**
 1. *End of Unit 1 Project: Evaluating Claims from the Media* ([LMR_U1_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_End_of_Unit_Project.pdf))
 
-<center>**End of Unit 1 Project:**</center>
-
-<center>**Evaluating Claims from the Media**</center>
+**<center>End of Unit 1 Project:</center>**
+**<center>Evaluating Claims from the Media</center>**
 
 Congratulations! You are on your way to becoming a Data Scientist. You have now learned some basic
 statistics concepts - along with RStudio skills - to help you analyze and interpret data. It is time to apply

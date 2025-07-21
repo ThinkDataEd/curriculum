@@ -8,9 +8,8 @@ summaries of their data to answer their question.
 ###**Materials:**
 1. *End of Unit 3 Project: Analyzing Our Own Campaign Data* ([LMR_U3_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End_of_Unit_Project.pdf))
 
-<center>**End of Unit 3 Project**</center>
-    
-<center>**Analyzing Our Own Campaign Data**</center>
+**<center>End of Unit 3 Project</center>**
+**<center>Analyzing Our Own Campaign Data</center>**
 
 At the start of the Participatory Sensing campaign creation in [Lesson 16](lesson16.md), the class developed a research question about your class’s topic of interest.
 

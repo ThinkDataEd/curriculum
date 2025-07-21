@@ -8,9 +8,8 @@ Students will apply their learning of the third and fourth units of the curricul
 
 2. *End of Unit 4 Project: Modeling a Community Issue* ([LMR_U4_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_End_of_Unit_Project.pdf))
 
-<center>**End of Unit 4 Project**</center>
-
-<center>**Modeling a Community Issue**</center>
+**<center>End of Unit 4 Project</center>**
+**<center>Modeling a Community Issue</center>**
 
 At the beginning of this unit, you explored data from the Trash Participatory Sensing campaign as well as from drought.gov (U.S. drought). You also created a Participatory Sensing campaign to investigate an issue in your community.
 
