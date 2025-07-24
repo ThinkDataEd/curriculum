@@ -293,7 +293,7 @@
 !!! note ""
     how dense the distribution is at certain values
 
-### statistical investigative questions
+### statistical questions
 
 !!! note ""
     questions that address variability and can be answered with data
