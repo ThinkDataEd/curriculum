@@ -17,15 +17,15 @@ rectangular format.
 
 ###**<u>[Lesson 4: The Data Cycle](lesson4.md)</u>**
 A statistical investigation consists of cycling through the four stages of the Data Cycle. The term statistical
- investigative questions encompasses the variety of questions asked during the statistical problem-solving process which support statistical thinking and reasoning. Statistical investigative questions are perhaps the most important because they are challenging to learn and are the types of questions that determine whether an analysis is productive or not. Statistical investigative questions are questions that address variability and are productive in that they motivate data collection, analysis, and interpretation. The Data Collection phase might consist of collecting data
+ questions encompasses the variety of questions asked during the statistical problem-solving process which support statistical thinking and reasoning. Statistical questions are perhaps the most important because they are challenging to learn and are the types of questions that determine whether an analysis is productive or not. Statistical questions are questions that address variability and are productive in that they motivate data collection, analysis, and interpretation. The Data Collection phase might consist of collecting data
 through Participatory Sensing or some other means, or it might consist of examining previously
-collected data to determine the quality of the data for answering the statistical investigative questions. Data
+collected data to determine the quality of the data for answering the statistical questions. Data
 Analysis is almost always done on the computer and consists of creating relevant graphics and
 numerical summaries of the data. Data Interpretation is involved with using the analysis to answer
-the statistical investigative questions.
+the statistical questions.
 
 ###**<u>[Lesson 5: So Many Questions](lesson5.md)</u>**
-Statistical investigative questions typically begin with a vague general question, then develop into a precise question. The process of developing or creating a good investigative question is iterative and requires time and effort to get right. In her 2021 paper, What Makes a Good Statistical Question, Dr. Pip Arnold identified the following as features of a good investigative question:
+Statistical questions typically begin with a vague general question, then develop into a precise question. The process of developing or creating a good statistical question is iterative and requires time and effort to get right. In her 2021 paper, What Makes a Good Statistical Question, Dr. Pip Arnold identified the following as features of a good statistical question:
 
 1. The variable(s) of interest is/are clear
 
@@ -40,7 +40,7 @@ Statistical investigative questions typically begin with a vague general questio
 6. The question is one that is worth investigating, is interesting, and has a purpose
 
 ###**<u>[Lesson 6: What Do I Eat? [The Data Cycle: Consider Data]](lesson6.md)</u>**
-After raising statistical investigative questions, we examine and record data to see if the questions are
+After raising statistical questions, we examine and record data to see if the questions are
 appropriate.
 
 ###**<u>[Lesson 7: Setting the Stage [The Data Cycle: Collect Data]](lesson7.md)</u>**
