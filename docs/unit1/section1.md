@@ -4,7 +4,7 @@ Instructional Days: 7
 ##<p style="background: black; color: white; text-align: center;">**Enduring Understandings**</p>
 Data play an important role in our everyday lives. Organizing it can provide evidence about real-life
 events and people. The data collected by answering survey questions produce variability. Distributions,
-graphs, and plots are useful tools for organizing data to understand variability. Statistical investigative questions
+graphs, and plots are useful tools for organizing data to understand variability. Statistical questions
 address people, processes, and/or events that contain variability. Situations with variability can
 sometimes be simplified with some basic statistics.
 
