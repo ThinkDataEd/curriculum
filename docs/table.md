@@ -87,7 +87,7 @@
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Lesson 4: <a href="../unit1/lesson4">The Data Cycle</a></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Data cycle, statistical investigative questions</td>
+    <td class="tg-zv4m">Data cycle, statistical questions</td>
     <td class="tg-8jgo"><a href="../unit1/lesson4">30</a></td>
   </tr>
   <tr>
@@ -95,7 +95,7 @@
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Lesson 5: <a href="../unit1/lesson5">So Many Questions</a></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Statistical investigative questions, variability</td>
+    <td class="tg-zv4m">Statistical questions, variability</td>
     <td class="tg-8jgo"><a href="../unit1/lesson5">35</a></td>
   </tr>
   <tr>
@@ -277,7 +277,7 @@
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Practicum: <a href="../unit1/practicum2">Teen Depression</a></td>
     <td class="tg-zv4m">Time Use</td>
-    <td class="tg-zv4m">Statistical investigative questions, interpreting plots</td>
+    <td class="tg-zv4m">Statistical questions, interpreting plots</td>
     <td class="tg-8jgo"><a href="../unit1/practicum2">110</a></td>
   </tr>
   <tr>
@@ -825,7 +825,7 @@
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">Lesson 18: <a href="../unit3/lesson18">Evaluating Our Own PS Campaign</a></td>
     <td class="tg-zv4m"></td>
-    <td class="tg-zv4m">Statistical investigative questions, evaluate campaign</td>
+    <td class="tg-zv4m">Statistical questions, evaluate campaign</td>
     <td class="tg-8jgo"><a href="../unit3/lesson18">279</a></td>
   </tr>
   <tr>
@@ -888,7 +888,7 @@
     <td class="tg-zv4m"></td>
     <td class="tg-zv4m">End of Unit 3 Project: <a href="../unit3/end">Analyzing Our Own Campaign Data</a></td>
     <td class="tg-zv4m">Class Campaign</td>
-    <td class="tg-zv4m">Statistical investigative question, our data</td>
+    <td class="tg-zv4m">Statistical question, our data</td>
     <td class="tg-8jgo"><a href="../unit3/end">299</a></td>
   </tr>
   <tr>
