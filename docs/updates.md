@@ -3,7 +3,18 @@ If you have any questions, please contact us at [support@thinkdataed.org](mailto
 
 Introduction to Data Science, [https://www.thinkdataed.org](https://www.thinkdataed.org){:target="_blank"}
 
-This website was last updated on July 3, 2025.
+This website was last updated on July 31, 2025.
+
+Changes that have been made to version 7.2
+
+**All Units**
+
+ - Simplified wording for statistical questions
+
+       - survey questions are not statistical questions
+       - "investigative" has been removed from "statistical investigative questions" (other than in the labs)
+
+----------------------------------------------------
 
 Changes that have been made to version 7.1
 
