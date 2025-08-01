@@ -3,6 +3,8 @@
 ###**Objective:**
 Students will understand what are data, how they are collected, and possible effects of sharing data.
 
+**<u>Note:</u>** Students should have completed the IDS Survey and LOCUS Assessment before teaching this lesson. See Addendum_IDS_Survey_LOCUS in the Documents tool on [Portal](https://portal.thinkdataed.org) for more information.
+
 ###**Materials:**
 
 1. Video: *The Target Story* found at:<br>
