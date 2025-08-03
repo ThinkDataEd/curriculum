@@ -27,6 +27,8 @@ Students will learn the features of a good statistical question.
 
     (6) The question is one that is worth investigating, is interesting, and has a purpose
 
+    **<u>Note:</u>** You may see statistical questions referred to as statistical investigative questions, which may be used interchangeably by statisticians and data scientists.
+
 
 ###**Lesson:**
 1. Entrance Slip (see [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)): Each student should submit a
@@ -78,7 +80,7 @@ same age. The ages vary, so there is variability in the data***</span>).
 
 11. As a class, begin the process of transforming some of the summary statistical questions so that they have all of the features of a good statistical question. Here is an example to get you started: 
 
-    Initial statistical question : <b>*I wonder who has the most friends?*</b>
+    Initial statistical question : <b>*I wonder... Who has the most friends?*</b>
 
     |**Feature**|**Explanation**|
     |--------|--------|
@@ -89,11 +91,11 @@ same age. The ages vary, so there is variability in the data***</span>).
     |The intention is clear (e.g., summary, comparison, association)|It is clear that this is a summary statistical question (single variable), specifically the number of friends.|
     |The question is one that is worth investigating, is interesting, and has a purpose|For students, this might be something interesting.|
 
-    Reworded statistical question after going through the criteria: <b>*I wonder how many friends this group of stick figures have?*</b>
+    Reworded statistical question after going through the criteria: <b>*How many friends this group of stick figures have?*</b>
  
  12. As a class, apply the same process to a few of the comparison and association questions. 
 
-    Initial statistical question: <b>*I wonder if someone who plays a specific sport has more friends?*</b>
+    Initial statistical question: <b>*I wonder... Does someone who plays a specific sport have more friends?*</b>
 
     |**Feature**|**Explanation**|
     |--------|--------|
@@ -106,9 +108,9 @@ same age. The ages vary, so there is variability in the data***</span>).
 
     Reworded statistical question after going through the criteria: 
 
-    <b>*I wonder if there is a difference in the typical number of friends the stick figures have based on the sport they play?*</b>
+    <b>*Is there a difference in the typical number of friends the stick figures have based on the sport they play?*</b>
 
-    <b>*I wonder if these stick figures who play soccer tend to have more friends that these stick figures who play tennis?*</b>
+    <b>*Do the stick figures who play soccer tend to have more friends that the stick figures who play tennis?*</b>
 
 13. Using the criteria of a good statistical question, student teams will go back and modify their statistical questions. Facilitators will ensure the team goes through the criteria for each statistical question. Task Managers will encourage everyone to contribute. Resource Managers will ensure all materials are easily accessible for recording and reporting. Recorders in each team will capture team members’ responses while the teacher circulates the room to check for understanding.
 
