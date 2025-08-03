@@ -28,7 +28,7 @@ recorded in order to attain consistency.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts:"
-    After raising statistical investigative questions, we examine and record data to see if the
+    After raising statistical questions, we examine and record data to see if the
     questions are appropriate.
 
 ###**Lesson:**
@@ -83,7 +83,7 @@ example: “What’s the name of your snack?” = Name
 9. Share the one-word variable identifiers with the class by conducting a quick team Whip Around
 (see [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)).
 
-10. For homework, students will begin to formulate statistical investigative questions based on their *Food Habits*
+10. For homework, students will begin to formulate statistical questions based on their *Food Habits*
 data.
 
 11. Inform students that they are permitted to bring mobile devices to the next class.
@@ -94,6 +94,6 @@ of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
 Ask students to examine the data in their *Food Habits Data Collection* handout ([LMR_U1_L6_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L6_B.pdf)) and to
-generate three statistical investigative questions (summary, comparison, association) that they think can be answered by the Food Habits data.
+generate three statistical questions (summary, comparison, association) that they think can be answered by the Food Habits data.
 
 Students may bring their mobile devices to the next class for data collection purposes.
