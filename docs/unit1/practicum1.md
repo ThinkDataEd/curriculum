@@ -34,7 +34,7 @@ poster.
 
 Your teacher will select the top posters in the following categories:
 
-* Best Statistical Investigative Question
+* Best Statistical Question
 
 * Most Interesting Statistical Graphic
 
@@ -51,7 +51,7 @@ guide.
 
 * A histogram, bar chart, scatterplot, or other graphical representation was correctly created.
 
-* An answer and a justification for the answer to the statistical investigative question are presented.
+* An answer and a justification for the answer to the statistical question are presented.
 
 * A justification includes mention of statistics concepts learned thus far. For example, “The
 variables are…” **<u>AND</u>** it includes acknowledgment of variability. For example, “There are between
@@ -63,7 +63,7 @@ variables are…” **<u>AND</u>** it includes acknowledgment of variability. Fo
 
 * A histogram, bar chart, scatterplot, or other graphical representation was correctly created.
 
-* An answer and a justification for the answer to the statistical investigative question are presented.
+* An answer and a justification for the answer to the statistical question are presented.
 
 * A justification includes mention of statistics concepts learned thus far. For example, “The
 variables are…” **<u>OR</u>** it includes acknowledgment of variability. For example, “There are between
@@ -75,13 +75,13 @@ variables are…” **<u>OR</u>** it includes acknowledgment of variability. For
 
 * A histogram, bar chart, scatterplot, or other graphical representation was created.
 
-* An answer and a justification for the answer to the statistical investigative question are presented.
+* An answer and a justification for the answer to the statistical question are presented.
 
 1-point response:
 
 * The poster incorrectly illustrates how the Data Cycle addresses the big question.
 
-* An answer to the statistical investigative question is presented but a justification is missing.
+* An answer to the statistical question is presented but a justification is missing.
 
 * A histogram, bar chart, scatterplot, or other graphical representation was correctly created.
 
@@ -91,4 +91,4 @@ variables are…” **<u>OR</u>** it includes acknowledgment of variability. For
 
 * A histogram, a dot plot, or other graphical representation was incorrectly created OR is missing.
 
-* No answer **<u>AND/OR</u>** no justification for the answer to the statistical investigative question is presented.
+* No answer **<u>AND/OR</u>** no justification for the answer to the statistical question is presented.
