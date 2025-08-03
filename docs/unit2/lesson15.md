@@ -1,7 +1,7 @@
 ##**<u>Lesson 15: Tangible Data Merging</u>**
 
 ###**Objective:**
-Students will learn how to merge two datasets and ask statistical investigative questions about the merged data.
+Students will learn how to merge two datasets and ask statistical questions about the merged data.
 
 ###**Materials:**
 1. *Tangible Data Merging* file ([LMR_U2_L15](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L15.pdf))
@@ -30,7 +30,7 @@ In particular, we are going to use the *Stress/Chill* data to see if there is ev
 actually differ.
 
 2. Show students the variables in each of these datasets. Give students time to brainstorm
-statistical investigative questions of interest with their teams and record their questions in their DS journals.
+statistical questions of interest with their teams and record their questions in their DS journals.
 Encourage them to think of two- and three-variable questions.
 
 3. Conduct a share out of some of the questions students came up with. <span style="color:grey">***Examples include: (1) Do
