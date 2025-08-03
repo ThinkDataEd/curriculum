@@ -71,4 +71,4 @@ Students will use the Dashboard and Plot App as well as RStudio.
 4) What were some of the characteristics of healthy snacks? What about unhealthy snacks?
 
 ###**7. Report:**
-Students will complete a practicum in which they answer a statistical investigative question based on the Food Habits data collected.
+Students will complete a practicum in which they answer a statistical question based on the Food Habits data collected.
