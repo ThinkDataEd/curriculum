@@ -1,18 +1,18 @@
 ##***<u>Practicum: The Summaries</u>***
 
 ###**Objective:**
-Students will engage in their first statistical investigation using the Data Cycle. They will pose a statistical investigative
+Students will engage in their first statistical investigation using the Data Cycle. They will pose a statistical
 question based on a dataset from a Participatory Sensing campaign, analyze, and interpret the data.
 
 ###**Materials:**
 1. The Summaries Practicum ([LMR_U2_Practicum_The_Summaries](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The_Summaries.pdf))
 
-    **<u>Note to Teacher</u>**: Before assigning the practicum to your students, engage the class in a discussion about the sample statistical investigative questions below. Guide the discussion so that students identify not only the groups being compared in each question, but also what is being compared about the groups. Remind them of the Data Cycle from [Unit 1](../unit1/overview.md).
+    **<u>Note to Teacher</u>**: Before assigning the practicum to your students, engage the class in a discussion about the sample statistical questions below. Guide the discussion so that students identify not only the groups being compared in each question, but also what is being compared about the groups. Remind them of the Data Cycle from [Unit 1](../unit1/overview.md).
 
     <center><img src="../../img/2xp0a.png" width="300" height="400" class="center"></center>
 
-Using the *Food Habits* campaign data or *Personality Color* survey data, develop a new statistical investigative question
-that compares two or more groups. Some sample statistical investigative questions (about other datasets) are below:
+Using the *Food Habits* campaign data or *Personality Color* survey data, develop a new statistical question
+that compares two or more groups. Some sample statistical questions (about other datasets) are below:
 
 * Which gender shows a bigger range in age, male or female Oscar winners?
 
@@ -38,7 +38,7 @@ that compares two or more groups. Some sample statistical investigative question
 
     ***Variable: daily maximum temperature***
 
-Remember, a statistical investigative question is one that anticipates variability in the question and then addresses the
+Remember, a statistical question is one that anticipates variability in the question and then addresses the
 variability in the answer:
 
 Based on the data you chose (*Food Habits* or *Personality Color*), you need to:
@@ -50,7 +50,7 @@ Based on the data you chose (*Food Habits* or *Personality Color*), you need to:
 3. Analyze the data to provide evidence that supports the answer to your question. Include plot(s)
 and numerical summaries (mean, median, MAD, IQR, etc.) related to your plots.
 
-4. Interpret the data to answer your statistical investigative question. You should:
+4. Interpret the data to answer your statistical question. You should:
 
     a. Provide the plot(s) and numerical summaries related to your plot(s).
 
@@ -59,7 +59,7 @@ and numerical summaries (mean, median, MAD, IQR, etc.) related to your plots.
     c. Explain why you chose to make that particular plot(s) and the related numerical
     summaries.
 
-    d. Explain how the plot and numerical summary answer your statistical investigative question.
+    d. Explain how the plot and numerical summary answer your statistical question.
 
 5. Write and submit a one-page report.
 
