@@ -108,7 +108,7 @@ additional information would be helpful? <span style="color:grey">***Answers wil
     wears sunscreen, and the y-axis shows the percentage of the total that fall into that
     category (broken into two bars, one for Hispanic and one for non-Hispanic).***</span>
 
-    100. What statistical investigative questions can you answer with this graph? <span style="color:grey">***Possible questions are: Do Hispanics and non-
+    100. What statistical questions can you answer with this graph? <span style="color:grey">***Possible questions are: Do Hispanics and non-
     Hispanics have different approaches to sunscreen? What percent of Hispanics
     always/never wear sunscreen? How does that compare to non-Hispanics?***</span>
 
@@ -133,7 +133,7 @@ additional information would be helpful? <span style="color:grey">***Answers wil
     shows the total that fall into a certain range of heights (broken into two
     histograms, one for males and one for females).***</span>
 
-    100. What statistical investigative questions can you answer with this graph? <span style="color:grey">***Possible questions are: Do males and females differ
+    100. What statistical questions can you answer with this graph? <span style="color:grey">***Possible questions are: Do males and females differ
     in height? What is the typical female height? What is the typical male height?***</span>
 
 17. Discuss this plot with the class by eliciting students’ responses to the questions. Students actively
