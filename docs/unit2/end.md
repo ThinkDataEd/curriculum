@@ -20,7 +20,7 @@ Available datasets:
 
 4. Personality Color
 
-Your mission is to ask and answer a statistical investigative question using at least one dataset above.
+Your mission is to ask and answer a statistical question using at least one dataset above.
 
 1. Your question must include a comparison of two distinct groups.
 
@@ -46,7 +46,7 @@ You will have 5 days to complete this project with your assigned partner. You ne
 
     * o A 4-slide, 5-minute presentation.
 
-    * o An explanation of why you think your statistical investigative question is interesting.
+    * o An explanation of why you think your statistical question is interesting.
 
     * o An interpretation of supporting plots and summaries that answer your question.
 
@@ -56,7 +56,7 @@ You will have 5 days to complete this project with your assigned partner. You ne
 
 *<u>Project Assignment Sequence:</u>*
 
-* ❏ Day 1: Decide on a statistical investigative question with assigned partner.
+* ❏ Day 1: Decide on a statistical question with assigned partner.
 
     * ❏ Get approval from teacher.
 
