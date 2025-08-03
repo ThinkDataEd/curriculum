@@ -130,7 +130,7 @@ the data collection period (days 7 though 15).
 submitting surveys regularly.
 
 18. Go over the previous day’s homework. Ask the Facilitator from each table group to conduct a round
-robin during which each team member shares their statistical investigative questions. The Recorder/Reporter will select and share the team's statistical investigative questions (one of each type; summary, comparison, association) with the class.
+robin during which each team member shares their statistical questions. The Recorder/Reporter will select and share the team's statistical questions (one of each type; summary, comparison, association) with the class.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics
