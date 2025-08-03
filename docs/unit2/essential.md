@@ -21,7 +21,7 @@ precisely, the MAD is the typical distance of observations from the mean. There 
 spread as well, notably the standard deviation and the interquartile range (IQR).
 
 ###**<u>[Lesson 5: Human Boxplots](lesson5.md)</u>**
-A common statistical investigative question is “How does this group compare to that group?”. This is a hard question to
+A common statistical question is “How does this group compare to that group?”. This is a hard question to
 answer when the groups have lots of variability. One approach is to compare the centers, spreads, and
 shapes of the distributions. Boxplots are a useful way of comparing distributions from different groups
 when all of the distributions are unimodal (one hump).
@@ -54,7 +54,7 @@ What does "A or B" mean versus "A and B" mean? These are compound events and two
 be used to calculate probabilities for them.
 
 ###**<u>[Lesson 12: Don’t Take My Stress Away!](lesson12.md)</u>**
-Generating statistical investigative questions is the first step in a Participatory Sensing campaign. Research and
+Generating statistical questions is the first step in a Participatory Sensing campaign. Research and
 observations help create applicable campaign questions.
 
 ###**<u>[Lesson 13: The Horror Movie Shuffle](lesson13.md)</u>**
