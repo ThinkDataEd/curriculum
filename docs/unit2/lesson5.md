@@ -32,7 +32,7 @@ compute and interpret another measure of spread: the IQR.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    A common statistical investigative question is “How does this group compare to that group?”
+    A common statistical question is “How does this group compare to that group?”
     This is a hard question to answer when the groups have lots of variability. One approach is to compare
     the centers, spreads, and shapes of the distributions. Boxplots are a useful way of comparing
     distributions from different groups when all of the distributions are unimodal (one hump).
