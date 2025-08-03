@@ -195,8 +195,8 @@ variables plotted on the poster paper. Then, they should complete part 1 of the 
 handout before leaving class. They will complete part 2 of the handout for homework.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L8](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L8.pdf)</div>
 
-22. Ask students to think about the statistical investigative questions they came up with. Can the visualizations
-they created in class help answer their statistical investigative question? If yes, answer the question; if not,
+22. Ask students to think about the statistical questions they came up with. Can the visualizations
+they created in class help answer their statistical question? If yes, answer the question; if not,
 what visualization would be appropriate?
 
 ###**Class Scribes:**
