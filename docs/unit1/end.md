@@ -38,7 +38,7 @@ claim. Use an article we have not used in class.
 
     a. What claim(s) did the article make?
 
-    b. What statistical investigative questions were they trying to answer?
+    b. What statistical questions were they trying to answer?
 
     c. Does the article cite data? If so:
 
@@ -58,7 +58,7 @@ inconclusive of the claim(s) made in the article.
 4. Use RStudio to do your analysis using either the Food Habits or Time Use campaign data, and
 create graphics/plots that support your reasoning.
 
-5. Generate other statistical investigative questions that you would like to investigate further after you reach your
+5. Generate other statistical questions that you would like to investigate further after you reach your
 conclusion.
 
 6. Write a summary of your analysis that is no more than 4 pages long. Include graphics/plots/tables
