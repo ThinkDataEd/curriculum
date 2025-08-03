@@ -86,7 +86,7 @@ about the topic in the Know column.
 
     100. Who was observed and what were the variables observed? <span style="color:grey">***Answer: 1,316 U.S. teens (13 to 17-year-olds), and one parent from each household, were surveyed. The variables had to do with experiences with social media – time spent on YouTube, TikTok, Snapchat, Instagram, Facebook, and the effects it had on them.***</span>
 
-    100. What statistical investigative questions were they trying to answer? <span style="color:grey">***Possible statistical investigative question: How much time per day does today’s typical 13 to 17-year-old spend on TikTok?***</span>
+    100. What statistical questions were they trying to answer? <span style="color:grey">***Possible statistical question: How much time per day does today’s typical 13 to 17-year-old spend on TikTok?***</span>
 
     100. Who collected the data? <span style="color:grey">***Answer: The Pew Research Center conducted the study but the survey was conducted online by Ipsos.***</span>
 
