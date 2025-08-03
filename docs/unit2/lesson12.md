@@ -16,7 +16,7 @@ may not be based on data.
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: " 
-    Generating statistical investigative questions is the first step in a Participatory Sensing campaign.
+    Generating statistical questions is the first step in a Participatory Sensing campaign.
     Research and observations help create applicable campaign questions.
 
 ###**Lesson:**
@@ -69,7 +69,7 @@ you create 6 sets of random numbers so that students are polled at different tim
 days. Students without a mobile device may set reminders using a method available to them.
 
 12. Focus students’ attention on the *Stress/Chill* survey questions (you may display the questions on
-the Campaign Guidelines document). Ask students to generate three statistical investigative questions that
+the Campaign Guidelines document). Ask students to generate three statistical questions that
 could be answered using the *Stress/Chill* data.
 
 13. Then, ask them to write down in their DS journals some predictions about what they think they will
