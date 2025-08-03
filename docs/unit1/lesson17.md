@@ -146,17 +146,17 @@ student team.
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf)</div>
 
 25. Each student team will work together and decide which visualization(s) and numerical summaries
-can be used to answer each statistical investigative question. They will then answer each statistical investigative question,
+can be used to answer each statistical question. They will then answer each statistical question,
 citing a numerical summary as evidence.
 
     **<u>Note:</u>** Student teams may tape or glue visuals and numerical summaries onto [LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf), or they
     can simply write the plot letter and table number in the appropriate box. The blank column is for
-    student teams to write a statistical investigative question than can be answered with a visual and a numerical
+    student teams to write a statistical question than can be answered with a visual and a numerical
     summary that was not used.
 
 26. After student teams have been allotted ample time to complete [LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf), lead a class
 discussion to go over the answers. It is extremely important to have students justify their answers
-by referring to their visuals and tables. For example, the statistical investigative question “How many students
+by referring to their visuals and tables. For example, the statistical question “How many students
 neither own a cat or play an instrument?” can be answered with Plot E, Plot G, Plot I, Plot K, and with Tables 1 and 7.
 
 27. Ask students to refer back to the two-way frequency tables they created earlier. Have each team
