@@ -82,5 +82,5 @@ Frequency tables: One and two-way tables.
 3) Are there groups of students who spend their time similarly to one another?
 
 ###**7. Report:**
-Students will complete a practicum in which they answer a statistical investigative question based on the Time Use data collected.
+Students will complete a practicum in which they answer a statistical question based on the Time Use data collected.
 
