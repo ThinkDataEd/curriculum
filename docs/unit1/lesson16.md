@@ -129,7 +129,7 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 of the day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework**</p>
-Rosa posed this statistical investigative question:
+Rosa posed this statistical question:
 
 ***What proportion of students did not play an instrument and did not own a cat?*** <span style="color:grey">***Answer: 0.26***</span>
 
