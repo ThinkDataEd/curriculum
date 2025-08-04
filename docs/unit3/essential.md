@@ -23,7 +23,7 @@ Designing an experiment requires making many decisions, including what to measur
 measure it.
 
 ###**<u>[Lesson 5: Time Perception Experiment](lesson5.md)</u>**
-Designing and carrying out an experiment helps us answer specific statistical investigative questions of interest.
+Designing and carrying out an experiment helps us answer specific statistical questions of interest.
 
 ###**<u>[Lesson 6: Observational Studies](lesson6.md)</u>**
 Observational studies are those for which there is no intervention applied by researchers.
@@ -38,7 +38,7 @@ variables.
 
 ###**<u>[Lesson 9: Survey Says…](lesson9.md)</u>**
 Surveys ask simple, straightforward questions in order to collect data that can be used to answer
-statistical investigative questions. Writing such questions can be hard (but fun)!
+statistical questions. Writing such questions can be hard (but fun)!
 
 ###**<u>[Lesson 10: We’re So Random](lesson10.md)</u>**
 Another popular data collection method involves collecting data from a random sample of people or
@@ -72,7 +72,7 @@ Creating a Participatory Sensing Campaign requires that survey questions must be
 they are “triggered”. Research questions provide an overall direction in a Participatory Sensing Campaign.
 
 ###**<u>[Lesson 18: Evaluating Our Own Participatory Sensing Campaign](lesson18.md)</u>**
-Statistical investigative questions guide a Participatory Sensing Campaign so that we can learn about a community or
+Statistical questions guide a Participatory Sensing Campaign so that we can learn about a community or
 ourselves. These campaigns should be evaluated before implementing to make sure they are reasonable
 and ethically sound.
 
