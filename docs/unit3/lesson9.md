@@ -25,7 +25,7 @@ types of questions are used in a survey, and how a survey is conducted.
 
 !!! note "Essential Concepts: "
     Surveys ask simple, straightforward questions in order to collect data that can be
-    used to answer statistical investigative questions. Writing such questions can be hard (but fun)!
+    used to answer statistical questions. Writing such questions can be hard (but fun)!
 
 ###**Lesson:**
 1. Introduce one of the videos listed above by informing students that they will be watching a clip
@@ -111,19 +111,19 @@ States?)***</span>.
 13. Inform students that the left side of the handout will be completed as a class, and then student
 teams will work together to complete the right side.
 
-14. Using the Data Cycle as a guide, students should brainstorm a statistical investigative question that is related
+14. Using the Data Cycle as a guide, students should brainstorm a statistical question that is related
 to the research question. <span style="color:grey">***A possible question might be: What is the typical family size in the United States?***</span>
 
     **<u>Note:</u>** This requires a definition of “family,” which can have a variety of meanings to different
     people. Different definitions will likely guide the discussion of possible survey questions in the
     following step.
 
-15. Next, students need to determine 3 survey questions to help answer the statistical investigative question. The
+15. Next, students need to determine 3 survey questions to help answer the statistical question. The
 goal in creating survey questions is to make sure they (1) are unambiguous, and (2) address the
-statistical investigative question. Some examples are listed below (which come from different definitions of
+statistical question. Some examples are listed below (which come from different definitions of
 “family”):
 
-    **<u>Note:</u>** Survey questions MUST match the statistical investigative question.
+    **<u>Note:</u>** Survey questions MUST match the statistical question.
 
     100. How many siblings do you have?
 
@@ -134,15 +134,15 @@ statistical investigative question. Some examples are listed below (which come f
 recorded in a dotplot (if desired). If the question is too vague (do we include half-siblings, step-siblings,
 etc.?), students can revise the question.
 
-17. Once the class has agreed upon 3 survey questions for the first statistical investigative question, allow
+17. Once the class has agreed upon 3 survey questions for the first statistical question, allow
 students to join their student teams for the remainder of the activity.
 
-18. Each team should come up with a statistical investigative question that might answer the research question,
-then determine 3 survey questions that match their statistical investigative question. Have the students create
+18. Each team should come up with a statistical question that might answer the research question,
+then determine 3 survey questions that match their statistical question. Have the students create
 both open- and closed-ended questions in the handout. Each survey question should be a
 different type (see step 8 from above).
 
-19. Have student teams share out their statistical investigative questions and related survey questions with the
+19. Have student teams share out their statistical questions and related survey questions with the
 rest of the class.
 
 ###**Class Scribes:**
