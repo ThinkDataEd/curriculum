@@ -9,7 +9,7 @@ Students will complete the design of their community focused Participatory Sensi
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Statistical investigative questions guide a Participatory Sensing campaign so that we can learn about a
+    Statistical questions guide a Participatory Sensing campaign so that we can learn about a
     community or ourselves. These campaigns should be evaluated before implementing to make sure they are
     reasonable and ethically sound.
 
@@ -48,14 +48,14 @@ variable on their *Team Campaign Creation* handout ([LMR_U4_L2](../IDS_Curriculu
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U4_L2](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L2.pdf)</div>
 
-8. <u>Round 5:</u> In teams, students will now generate three statistical investigative questions that they might answer
+8. <u>Round 5:</u> In teams, students will now generate three statistical questions that they might answer
 with the data they will collect and to guide their campaign. They need to make sure that their
-statistical investigative questions are interesting and relevant to their chosen topic. Remind students that they will also have data about the date,
+statistical questions are interesting and relevant to their chosen topic. Remind students that they will also have data about the date,
 time, and place of data collection.
 
 9. Confirm that the questions are statistical and that they can be answered with the data the
 students propose to collect by circulating around the room to check on each team. Each team will
-decide on no more than 3 statistical investigative questions to guide their campaign.
+decide on no more than 3 statistical questions to guide their campaign.
 
 10. Now that they have all the pieces of the campaign, teams will evaluate whether their campaign is
 reasonable and ethically sound. Each team will hold a discussion on the following questions:
@@ -74,7 +74,7 @@ reasonable and ethically sound. Each team will hold a discussion on the followin
     100. Can you change your trigger or survey questions to improve your evaluation?
 
     100. Will you be able to gather enough relevant data from your survey questions to be able to
-    answer your statistical investigative questions?
+    answer your statistical questions?
 
 11. During their discussion about whether their campaign is reasonable and ethically sound, if teams discover that they need to make changes, they can make adjustments at this time.
 

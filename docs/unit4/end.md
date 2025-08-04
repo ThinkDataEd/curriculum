@@ -31,7 +31,7 @@ Your assignment is as follows:
 
     100. The issue - What is the issue? Why is this issue important? Why should we care about it?
 
-    100. The Participatory Sensing campaign - Explain your campaign. What was your research question? What statistical investigative question(s) were you hoping to answer?
+    100. The Participatory Sensing campaign - Explain your campaign. What was your research question? What statistical question(s) were you hoping to answer?
 
     100. Your recommendation - What is you recommendation? How will it raise public awareness and/or alleviate the issue? Why do you think this will work? This is where you include your evidence:
 

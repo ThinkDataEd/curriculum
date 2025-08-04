@@ -9,7 +9,7 @@ Students will revise their community focused Participatory Sensing campaign acco
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Statistical investigative questions guide a Participatory Sensing campaign so that we can learn about a
+    Statistical questions guide a Participatory Sensing campaign so that we can learn about a
     community or ourselves. These campaigns should be tried before implementing to make sure they are collecting the data they are meant to collect and refined accordingly.
     
 ###**Lesson:**
