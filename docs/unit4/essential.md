@@ -10,12 +10,12 @@ Data can be used to make predictions. Official datasets rely on censuses or rand
 Data collected through Participatory Sensing campaigns will be used to create models that answer real-world problems related to our community.
 
 ###**<u>[Lesson 4: Evaluate and Implement the Campaign](lesson4.md)</u>**
-Statistical investigative questions guide a Participatory Sensing campaign so that we can learn about a community or
+Statistical questions guide a Participatory Sensing campaign so that we can learn about a community or
 ourselves. These campaigns should be evaluated before implementing to make sure they are reasonable
 and ethically sound.
 
 ###**<u>[Lesson 5: Refine and Create the Campaign](lesson5.md)</u>**
-Statistical investigative questions guide a Participatory Sensing campaign so that we can learn about a community or
+Statistical questions guide a Participatory Sensing campaign so that we can learn about a community or
 ourselves. These campaigns should be tried before implementing to make sure they are collecting the
 data they are meant to collect and refined accordingly.
 
