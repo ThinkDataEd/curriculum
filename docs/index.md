@@ -33,7 +33,7 @@
 # Introduction to Data Science Curriculum
 ![IDS-logo](img/IDS-logo.png)
 
-*<span style="color:grey">(version 7.1)</span>*
+*<span style="color:grey">(version 7.2)</span>*
 
 **Robert Gould**
 
