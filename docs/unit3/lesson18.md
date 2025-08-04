@@ -11,7 +11,7 @@ Students will create statistical questions and evaluate their Participatory Sens
 ###**Essential Concepts:**
 
 !!! note "Essential Concepts: "
-    Statistical investigative questions guide a Participatory Sensing Campaign so that we can learn
+    Statistical questions guide a Participatory Sensing Campaign so that we can learn
     about a community or ourselves. These campaigns should be evaluated before implementing to make
     sure they are reasonable and ethically sound.
 
@@ -78,11 +78,11 @@ new Campaign.
     cognizant of question bias.
 
 8. <u>Round 5:</u> In teams, now generate two to three statistical questions that they might answer with
-these data. Make sure your statistical investigative questions are interesting and relevant to the class topic of
+these data. Make sure your statistical questions are interesting and relevant to the class topic of
 interest. They may keep a record in their DS Journals. Remind students that they will also have
 data about the date, time, and place of data collection.
 
-    <span style="color:grey">***Examples of statistical investigative questions that can be answered for practicing cello are:***</span>
+    <span style="color:grey">***Examples of statistical questions that can be answered for practicing cello are:***</span>
 
     <span style="color:grey">***“How frequently do I practice?”***</span>
 
@@ -90,7 +90,7 @@ data about the date, time, and place of data collection.
 
     <span style="color:grey">***“Are higher-rated sessions associated with time of day?”***</span>
 
-9. Once teams have generated their statistical investigative questions, have them share out with the class.
+9. Once teams have generated their statistical questions, have them share out with the class.
 Confirm that the questions are statistical and that they can be answered with the data the
 students propose to collect.
 
@@ -112,7 +112,7 @@ questions:
     100. Can you change your trigger or survey questions to improve your evaluation?
 
     100. Will you be able to gather enough relevant data from your survey questions to be able to
-    answer your statistical investigative questions?
+    answer your statistical questions?
 
 11. Students have collaboratively created their first Participatory Sensing campaign. Inform them that
 you will be demonstrating one tool used to create the campaigns that they see on their smart
