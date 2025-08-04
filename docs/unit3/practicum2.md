@@ -31,7 +31,7 @@ team members must do all of the following:
 
 2. Create a research question about your topic of interest.
 
-3. Create a statistical investigative question that is related to the research question.
+3. Create a statistical question that is related to the research question.
 
 4. Identify the population of interest.
 
@@ -40,7 +40,7 @@ generalizations about your population of interest.
 
 6. Identify the number of people who will be in your sample.
 
-7. Create five survey questions that will try to answer your statistical investigative question and describe how you
+7. Create five survey questions that will try to answer your statistical question and describe how you
 have made sure that they are non-leading questions.
 
 8. Identify a statistic that can be used to summarize the responses from this survey. Can you
