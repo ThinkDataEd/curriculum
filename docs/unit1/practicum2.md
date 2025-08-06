@@ -15,9 +15,9 @@ analyze and interpret the data. Students will present their findings to their te
 
 4. Markers
 
-<center>**Practicum**</center>
+**<center>Practicum</center>**
 
-<center>**Teen Depression**</center>
+**<center>Teen Depression</center>**
 
 ###**Background:**
 The Centers for Disease Control and Prevention (CDC) collect data about teenagers on a variety of topics.

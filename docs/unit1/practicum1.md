@@ -11,9 +11,9 @@ collected from the *Food Habits* campaign. Students will present their findings 
 
 3. Markers
 
-<center>**Practicum**</center>
+**<center>Practicum</center>**
 
-<center>**The Data Cycle & My Food Habits**</center>
+**<center>The Data Cycle & My Food Habits</center>**
 
 ###**Instructions:**
 With a partner, you will engage in the Data Cycle to address the Research Topic:
