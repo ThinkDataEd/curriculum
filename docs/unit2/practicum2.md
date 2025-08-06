@@ -6,9 +6,9 @@ Students will create and combine simulations to assess probabilities.
 ###**Materials:**
 1. Win Win Win Practicum ([LMR_U2_Practicum_Win_Win_Win](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_Win_Win_Win.pdf))
 
-<center>**Practicum**</center>
+**<center>Practicum</center>**
 
-<center>**Win Win Win**</center>
+**<center>Win Win Win</center>**
 
 The California lottery has a game called the *Daily 3*.
 

@@ -11,6 +11,10 @@ question based on a dataset from a Participatory Sensing campaign, analyze, and 
 
     <center><img src="../../img/2xp0a.png" width="300" height="400" class="center"></center>
 
+**<center>Practicum</center>**
+
+**<center>The Summaries</center>**
+
 Using the *Food Habits* campaign data or *Personality Color* survey data, develop a new statistical question
 that compares two or more groups. Some sample statistical questions (about other datasets) are below:
 

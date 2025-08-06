@@ -7,9 +7,9 @@ and *Personality Color* data to answer research questions.
 ###**Materials:**
 1. *What Stresses Us? Practicum* ([LMR_U2_Practicum_What_Stresses_Us](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_What_Stresses_Us.pdf))
 
-<center>**Practicum**</center>
+**<center>Practicum**</center>**
 
-<center>**What Stresses Us?**</center>
+**<center>What Stresses Us?</center>**
 
 We made a dataset that combined our *Stress/Chill* data with our *Personality Color* data. You will use this
 data to answer the following research questions:
