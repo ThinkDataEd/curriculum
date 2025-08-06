@@ -1,8 +1,8 @@
 #IDS_Curriculum
 
-[Introduction_to_Data_Science_Curriculum_v_7.1.pdf](../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/Introduction_to_Data_Science_Curriculum_v7_1.pdf)
+[Introduction_to_Data_Science_Curriculum_v_7.2.pdf](../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Curriculum_v7_2.pdf)
 
-<div align="right"><iframe src="https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/Introduction_to_Data_Science_Curriculum_v_7.pdf" style=" width:420px;height:400px;" frameborder="0"></iframe><br></div>
+<div align="right"><iframe src="https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Curriculum_v7_2.pdf" style=" width:420px;height:400px;" frameborder="0"></iframe><br></div>
 
 <!--[IDS_Intro+Unit1_v 6.0_FINAL.pdf](../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Intro+Unit1_v 6.0_FINAL.pdf)
 
