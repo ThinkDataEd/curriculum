@@ -65,7 +65,7 @@ you create 6 sets of random numbers so that students are polled at different tim
     **<u>Note:</u>** If a time falls within the school day, it is up to the discretion of the teacher to use this time
     or not.
 
-11. Based on the times generated, ask students to set reminders on the [IDS ThinkData Ed App](../download/app.md) for the next 6
+11. Based on the times generated, ask students to set reminders for the next 6
 days. Students without a mobile device may set reminders using a method available to them.
 
 12. Focus students’ attention on the *Stress/Chill* survey questions (you may display the questions on
