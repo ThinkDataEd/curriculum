@@ -7,9 +7,9 @@ with the amount of sugar contained in a cereal.
 ###**Materials:**
 1. *Predictions Practicum* ([LMR_U4_Practicum_Predictions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_Practicum_Predictions.pdf))
 
-<center>**Practicum**</center>
+**<center>Practicum</center>**
 
-<center>**Predictions**</center>
+**<center>Predictions</center>**
 
 Data about the nutritional components of popular cereal brands has been collected and made available
 for your team’s use. We are interested in determining which other nutritional component is most closely
