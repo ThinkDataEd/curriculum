@@ -8,9 +8,9 @@ summaries of their data to answer their question.
 ###**Materials:**
 1. *Our Own Campaign* ([LMR_U3_Practicum_Our_Own_Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Our_Own_Campaign.pdf))
 
-<center>**Practicum**</center>
+**<center>Practicum</center>**
 
-<center>**Our Own Campaign**</center>
+**<center>Our Own Campaign</center>**
 
 At the start of the Participatory Sensing campaign creation in [lesson 16](lesson16.md), the class developed a research question about your class’s topic of interest.
 

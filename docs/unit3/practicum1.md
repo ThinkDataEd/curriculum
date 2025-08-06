@@ -8,9 +8,9 @@ Students will apply what they have learned about experiments and shuffling.
 
 2. Practicum: *TB or Not TB* ([LMR_U3_TB_or_Not_TB](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_TB_or_Not_TB.pdf))
 
-<center>**Practicum**</center>
+**<center>Practicum</center>**
     
-<center>**TB or Not TB**</center>
+**<center>TB or Not TB</center>**
 
 Experiments in the medical field that involve new treatments (new medications) are called clinical trials.
 You have received a dataset that shows the results from Sir Austin Bradford Hill’s first randomized study

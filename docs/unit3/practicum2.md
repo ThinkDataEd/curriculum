@@ -6,9 +6,9 @@ Students will design a survey that has non-leading questions.
 ###**Materials:**
 1. Practicum: *Let’s Build a Survey!* ([LMR_U3_Practicum_Build_a_Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Build_a_Survey.pdf))
 
-<center>**Practicum**</center>
+**<center>Practicum</center>**
 
-<center>**Let’s Build a Survey!**</center>
+**<center>Let’s Build a Survey!</center>**
 
 Based on what you have learned in [Lessons 9](lesson9.md) through [14](lesson14.md), you will now design a survey. You and your
 team members must do all of the following:
