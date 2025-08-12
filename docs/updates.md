@@ -14,6 +14,12 @@ Changes that have been made to version 7.2
        - survey questions are not statistical questions
        - "investigative" has been removed from "statistical investigative questions" (other than in the labs)
 
+ - Pre- and Post-implementation Activities (Find details for these activities in the Documents Tool on Portal with file name "Addendum_IDS_Survey_LOCUS")
+ 
+       - New Assessment: LOCUS (Levels of Conceptual Understanding in Statistics)
+       - Start/pre-assessment–administered before any IDS instruction has occurred
+       - End/post-assessment–administered after the end of IDS instruction
+
 ----------------------------------------------------
 
 Changes that have been made to version 7.1
