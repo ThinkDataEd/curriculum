@@ -1,4 +1,4 @@
-##**<u>Campaign Guidelines - Food Habits</u>**
+##**<u><center>Campaign Guidelines - Food Habits</center></u>**
 
 ###**1. The Issue:**
 
