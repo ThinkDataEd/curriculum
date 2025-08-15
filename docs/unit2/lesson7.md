@@ -108,6 +108,6 @@ day were.
 Students should reflect on today’s class discussion and record their ideas of some pros and cons of using
 different types of graphical representations to display the same data.
 
-<center>[<u>***LAB 2B: Oh the Summaries…***</u>](lab2b.md)</center>
+***<center>[<u>LAB 2B: Oh the Summaries…</u>](lab2b.md)</center>***
 
-<center>Complete [Lab 2B](lab2b.md) prior to the [Practicum](practicum1.md).</center>
+Complete [Lab 2B](lab2b.md) prior to the [Practicum](practicum1.md).
