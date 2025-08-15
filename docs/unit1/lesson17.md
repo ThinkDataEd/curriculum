@@ -183,9 +183,9 @@ of the day were.
 Using the data below, generate 2 questions: one must be answered with a marginal relative
 frequency and the other must be answered by a conditional relative frequency.
 
-<center>**Work Preference and the Color Red**</center>
+**<center>Work Preference and the Color Red</center>**
 
-<center>**Which emotion do you most relate with the color red?**</center>
+**<center>Which emotion do you most relate with the color red?</center>**
 
 | |Love | Anger | Fear |Total |
 | ------------ | ------------- | ------------ | ------------ | ------------ |
@@ -193,6 +193,6 @@ frequency and the other must be answered by a conditional relative frequency.
 | Evening shift| 12 | 15 | 10 | 37 |
 | Total| 19 | 26 | 15 | 60 |
 
-<center>[<u>***Lab 1G: What’s the FREQ?***</u>](lab1g.md)</center>
+***<center>[<u>Lab 1G: What’s the FREQ?</u>](lab1g.md)</center>***
 
-<center>Complete [Lab 1G](lab1g.md) prior to the [Practicum](practicum2.md).</center>
+Complete [Lab 1G](lab1g.md) prior to the [Practicum](practicum2.md).
