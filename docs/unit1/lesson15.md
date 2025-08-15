@@ -119,11 +119,11 @@ of the day were.
 For the next 5 days, students will collect data using the Time Use campaign on their smart devices or via
 web browser.
 
-<center>[<u>***LAB 1F: A Diamond in the Rough***</u>](lab1f.md)</center>
+***<center>[<u>LAB 1F: A Diamond in the Rough</u>](lab1f.md)</center>***
 
 <center>and</center>
 
-<center><u>***Data Collection Monitoring***</u></center>
+***<center><u>Data Collection Monitoring</u></center>***
 
 1. **<u>Data Collection Monitoring:</u>** Display the IDS Campaign Monitoring Tool, found at
 [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"} Click on **Campaign Monitor** and sign in.
@@ -141,4 +141,4 @@ web browser.
 couple of days, and that they will understand the private vs. shared data after they have
 completed the campaign collection.
 
-<center>Complete [Lab 1F](lab1f.md) prior to [Lesson 16](lesson16.md)</center>
+Complete [Lab 1F](lab1f.md) prior to [Lesson 16](lesson16.md)
