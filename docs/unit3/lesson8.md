@@ -137,6 +137,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Next Day**</p>
-<center>[<u>***LAB 3B: Confound it all!***</u>](lab3b.md)</center>
+***<center>[<u>LAB 3B: Confound it all!</u>](lab3b.md)</center>***
 
-<center>Complete [Lab 3B](lab3b.md) prior to [Lesson 9](lesson9.md).</center>
+Complete [Lab 3B](lab3b.md) prior to [Lesson 9](lesson9.md).

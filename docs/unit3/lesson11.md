@@ -211,6 +211,6 @@ day were.
 Students should write a reflection about why random sampling is better at reducing bias than other
 sampling procedures.
 
-<center>[<u>***Lab 3C: Random Sampling***</u>](lab3c.md)</center>
+***<center>[<u>Lab 3C: Random Sampling</u>](lab3c.md)</center>***
 
-<center>Complete [Lab 3C](lab3c.md) prior to [Lesson 12](lesson12.md).</center>
+Complete [Lab 3C](lab3c.md) prior to [Lesson 12](lesson12.md).
