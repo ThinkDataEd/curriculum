@@ -168,6 +168,6 @@ day were.
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 If not completed in class, students should finish the *Compound Probabilities* handout ([LMR_U2_L11](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L11.pdf)).
 
-<center>[<u>***LAB 2D: Queue It Up!***</u>](lab2d.md)</center>
+***<center>[<u>LAB 2D: Queue It Up!</u>](lab2d.md)</center>***
 
-<center>Complete [Lab 2D](lab2d.md) prior to the [Practicum](practicum2.md).</center>
+Complete [Lab 2D](lab2d.md) prior to the [Practicum](practicum2.md).
