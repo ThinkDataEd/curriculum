@@ -157,6 +157,6 @@ compare the values of the 4 color scores.
 
     Demonstrate it on your own Environment or refer students to [this video](https://www.youtube.com/embed/N5KpS0MFk7Y)
 
-<center>[<u>***LAB 2A: All About Distributions***</u>](lab2a.md)</center>
+***<center>[<u>LAB 2A: All About Distributions</u>](lab2a.md)</center>***
 
-<center>Complete [Lab 2A](lab2a.md) prior to [Lesson 5](lesson5.md).</center>
+Complete [Lab 2A](lab2a.md) prior to [Lesson 5](lesson5.md).
