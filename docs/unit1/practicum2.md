@@ -100,6 +100,6 @@ variables are…” ; **<u>OR</u>** it includes acknowledgment of variability. F
 
 ###<p style="background: black; color: white; text-align: center;">**Next Day**</p>
 
-<center>[<u>***Lab 1H: Our time.***</u>](lab1h.md)</center>
+***<center>[<u>Lab 1H: Our time.</u>](lab1h.md)</center>***
 
-<center>Complete [Lab 1H](lab1h.md) prior to the [End of Unit Project](end.md).</center>
+Complete [Lab 1H](lab1h.md) prior to the [End of Unit Project](end.md).
