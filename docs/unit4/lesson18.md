@@ -140,6 +140,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Write a paragraph that describes k-means clustering in your own words.
 
-<center>[<u>***LAB 4H: Finding Clusters***</u>](lab4h.md)
+***<center>[<u>LAB 4H: Finding Clusters</u>](lab4h.md)</center>***
 
-Complete [Lab 4H](lab4h.md) prior to [Lesson 19](lesson19.md).</center>
+Complete [Lab 4H](lab4h.md) prior to [Lesson 19](lesson19.md).

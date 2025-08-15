@@ -79,8 +79,8 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-<center>[<u>***Lab 4B: What's the score?***</u>](lab4b.md)
+***<center>[<u>Lab 4B: What's the score?</u>](lab4b.md)</center>***
 
-[<u>***Lab 4C: Cross-Validation***</u>](lab4c.md)
+***<center>[<u>Lab 4C: Cross-Validation</u>](lab4c.md)</center>***
 
-Complete [Labs 4B](lab4b.md) and [4C](lab4c.md) prior to [Lesson 11](lesson11.md).</center>
+Complete [Labs 4B](lab4b.md) and [4C](lab4c.md) prior to [Lesson 11](lesson11.md).

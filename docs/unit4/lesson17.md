@@ -133,6 +133,6 @@ b. Why is a decision tree considered a model? <span style="color:grey">***Possib
 
 c. Describe the role that training data and test data play in creating a classification tree. <span style="color:grey">***Possible answer: We use training data to build a classification tree and then use test data to see how well our tree makes predictions - we shouldn't use the entirety of our data because then the model will be too specific/overfitted and will not make good predictions when presented with new data.***</span>
 
-<center>[<u>***LAB 4G: Growing Trees***</u>](lab4g.md)
+***<center>[<u>LAB 4G: Growing Trees</u>](lab4g.md)</center>***
 
-Complete [Lab 4G](lab4g.md) prior to [Lesson 18](lesson18.md).</center>
+Complete [Lab 4G](lab4g.md) prior to [Lesson 18](lesson18.md).

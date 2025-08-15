@@ -119,6 +119,6 @@ scatterplot?
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Students will complete the journal entry for homework if not completed in class.
 
-<center>[<u>***LAB 4D: Interpreting Correlations***</u>](lab4d.md)
+***<center>[<u>LAB 4D: Interpreting Correlations</u>](lab4d.md)</center>***
 
-Complete [Lab 4D](lab4d.md) prior to [Lesson 13](lesson13.md).</center>
+Complete [Lab 4D](lab4d.md) prior to [Lesson 13](lesson13.md).

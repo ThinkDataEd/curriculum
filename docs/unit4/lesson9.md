@@ -57,6 +57,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
-<center>[<u>***LAB 4A: If the Line Fits...***</u>](lab4a.md)
+***<center>[<u>LAB 4A: If the Line Fits...</u>](lab4a.md)</center>***
 
-Complete [Lab 4A](lab4a.md) prior to [Lesson 10](lesson10.md).</center>
+Complete [Lab 4A](lab4a.md) prior to [Lesson 10](lesson10.md).

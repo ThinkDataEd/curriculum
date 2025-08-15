@@ -98,6 +98,6 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Ask students to think of a reason or reasons about why it would not be a good idea to make a scatterplot for models that include more than 3 predictor variables? <span style="color:grey">***The answer is mainly because humans are limited to seeing things in 3 dimensions. For example, the model that combines all of the variables together is a 4 dimensional model. What does that look like?***</span>
 
-<center>[<u>***LAB 4F: This model is big enough for all of us***</u>](lab4f.md)
+***<center>[<u>LAB 4F: This model is big enough for all of us</u>](lab4f.md)</center>***
 
-Complete [Lab 4F](lab4f.md) prior to [Lesson 16](lesson16.md).</center>
+Complete [Lab 4F](lab4f.md) prior to [Lesson 16](lesson16.md).

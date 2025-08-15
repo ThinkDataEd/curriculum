@@ -74,6 +74,6 @@ day were.
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Students may finish their *Cheat Notes* for homework, if not completed in class.
 
-<center>[<u>***LAB 4E: Some models have curves***</u>](lab4e.md)
+***<center>[<u>LAB 4E: Some models have curves</u>](lab4e.md)</center>***
 
-Complete [Lab 4E](lab4e.md) prior to [Practicum](practicum1.md).</center>
+Complete [Lab 4E](lab4e.md) prior to [Practicum](practicum1.md).
