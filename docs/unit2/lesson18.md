@@ -177,8 +177,8 @@ One team of students will give a brief talk to discuss what they think the 3 mos
 day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Next 2 Days**</p>
-<center>[<u>***LAB 2H: Eyeballing Normal***</u>](lab2h.md)</center>
+***<center>[<u>LAB 2H: Eyeballing Normal</u>](lab2h.md)</center>***
 
-<center>[<u>***LAB 2I: R’s Normal Distribution Alphabet***</u>](lab2i.md)</center>
+***<center>[<u>LAB 2I: R’s Normal Distribution Alphabet</u>](lab2i.md)</center>***
 
-<center>Complete [Labs 2H](lab2h.md) and [2I](lab2i.md) prior to the [End of Unit Project](end.md).</center>
+Complete [Labs 2H](lab2h.md) and [2I](lab2i.md) prior to the [End of Unit Project](end.md).
