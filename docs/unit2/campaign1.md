@@ -1,4 +1,4 @@
-##**Campaign Guidelines – Stress/Chill**
+##**<u><center>Campaign Guidelines – Stress/Chill</center></u>**
 
 ###**1. The Issue:**
 
