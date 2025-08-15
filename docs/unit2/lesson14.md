@@ -187,6 +187,6 @@ day were.
 For the next 3 days, students will collect data for the *Stress/Chill* campaign either through the [IDS
 Think Data Ed App](../download/app.md) or via web browser at [https://portal.thinkdataed.org](https://portal.thinkdataed.org "https://portal.thinkdataed.org"){:target="_blank"}
 
-<center>[<u>***LAB 2F: The Titanic Shuffle***</u>](lab2f.md)</center>
+***<center>[<u>LAB 2F: The Titanic Shuffle</u>](lab2f.md)</center>***
 
-<center>Complete [Lab 2F](lab2f.md) prior to [Lesson 15](lesson15.md).</center>
+Complete [Lab 2F](lab2f.md) prior to [Lesson 15](lesson15.md).
