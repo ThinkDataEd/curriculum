@@ -71,8 +71,8 @@ Robert Montgomery, Carole Sailer, Joy Lee, Monica Casillas, Roberta Ross, Velia 
 *Any opinions, findings, and conclusions or recommendations expressed in this material are those of the
 author(s) and do not necessarily reflect the views of the National Science Foundation.*
 
-*This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a
-copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0 "http://creativecommons.org/licenses/by-sa/4.0"){:target="_blank"}*
+<!-- *This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a
+copy of this license, visit [http://creativecommons.org/licenses/by-sa/4.0](http://creativecommons.org/licenses/by-sa/4.0 "http://creativecommons.org/licenses/by-sa/4.0"){:target="_blank"}* -->
 
 **For additional information related to IDS visit: [https://www.thinkdataed.org](https://www.thinkdataed.org "https://www.thinkdataed.org"){:target="_blank"}**
 
