@@ -16,7 +16,8 @@ Students will learn about the stages of the Data Cycle.
 
 6. Article headline: *People Who Order Coffee Black Are More Likely To Be Psychopaths*
 
-7. *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/"){:target="_blank"}
+7. *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/"){:target="_blank"} <br>
+**<u>Note:</u>** The Dude map is no longer interactive at the Quartz link, but the complete set of comparison visualizations can be found in the PDF version of the LMR.
 
 8. *Bros & Dudes Graphics* handout ([LMR_U1_L4_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L4_C.pdf))
 
@@ -112,7 +113,7 @@ Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instruction
 
     100. What questions or wonderings do we have about the artifact? <span style="color:grey">***Students should be interrogating this headline with questions like: What type of study was this? Who funded the study? What was the purpose of the study? How was the variable measured?***</span>
 
-12. Artifact 3: *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/"){:target="_blank"}
+12. Artifact 3: *Dude Map* found at (open in new tab): [https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/](https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/ "https://qz.com/316906/the-dude-map-how-american-men-refer-to-their-bros/"){:target="_blank"} <br> **<u>Note:</u>** The Dude map is no longer interactive at the Quartz link, but the complete set of comparison visualizations can be found in the PDF version of the LMR.
 
     <img src="../../img/dudegraphic.png" />
 
