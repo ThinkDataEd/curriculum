@@ -106,8 +106,7 @@ value to the class’s prediction of the balancing point. Students may not remem
 compute the mean, so you can remind them of the general algorithm or refer them back to their
 responses from Step 5 above.
 
-13. Show the students the formula for calculating the mean:
-<center><img src="https://latex.codecogs.com/gif.latex?\bar{x}=\frac{&space;\sum_{i=1}^{n}&space;x_i}{n}" title="\bar{x}=\frac{ \sum_{i=1}^{n} x_i}{n}" /></center>
+13. Show the students the formula for calculating the mean:<br> <center><img src="https://latex.codecogs.com/gif.latex?\bar{x}=\frac{&space;\sum_{i=1}^{n}&space;x_i}{n}" title="\bar{x}=\frac{ \sum_{i=1}^{n} x_i}{n}" /></center>
 
 14. Now that they have calculated the mean for the <span style="color:blue">***Blue***</span> score, ask them to identify each symbol in
 the formula with a step in their algorithm for finding the mean, and discuss the meaning of the
