@@ -79,7 +79,7 @@ how closely the rest of the data are to this *typical* value.
 
     – Variability is seen in a ```histogram``` or ```dotPlot``` as the horizontal *spread*.
 
-* <span style="color:firebrick;">**(11) Write and run code re-creating a ```dotPlot``` of the scores for your *predominant* color and then write and run the code below filling in the blank with the name of your predominant color:**</span>    
+* <span style="color:firebrick;">**(11) Write and run code re-creating a ```dotPlot``` of the scores for *your* predominant color and then write and run the code below filling in the blank with the name of *your* predominant color:**</span>    
 
         add_line(vline = mean(~____, data = colors))
 
@@ -92,11 +92,11 @@ how closely the rest of the data are to this *typical* value.
 
     – We often write *mean absolute deviation* as *MAD*.
 
-* <span style="color:firebrick;">**(13) Write and run code calculating the MAD of your *predominant color* by filling in the blank:**</span>
+* <span style="color:firebrick;">**(13) Write and run code calculating the MAD of *your* predominant color by filling in the blank:**</span>
 
         MAD(~_____, data = colors)
 
-* <span style="color:firebrick;">**(14) How close was your estimate of the spread for your predominant color (from the previous slide) to the actual value?**</span>
+* <span style="color:firebrick;">**(14) How close was your estimate of the spread for *your* predominant color (from the previous slide) to the actual value?**</span>
 
 ###**Comparing introverts/extroverts**
 * Do introverts and extroverts differ in their typical scores for your predominant color?
