@@ -116,7 +116,7 @@ over the next several lessons.
     
     100. **Outcome** – the variable that the treatment is meant to influence; this is sometimes known as the response, or dependent, variable <br><span style="color:grey">***Success - whether or not a person was a safe driver by passing the test.***</span>
     
-    100. **Statistic** — a number such as a mean or proprtion used to summarize our findings for the control and treatment groups <br> <span style="color:grey">***In this case, the MythBusters gave raw data. A statistuc would have been that 6.7% (1 out of 15) of the control group passed the test. Similarly, 6.7% of the treatment group passed the test.***</span>
+    100. **Statistic** — a number such as a mean or proportion used to summarize our findings for the control and treatment groups <br> <span style="color:grey">***In this case, the MythBusters gave raw data. A statistic would have been that 6.7% (1 out of 15) of the control group passed the test. Similarly, 6.7% of the treatment group passed the test.***</span>
     
     **<u>Note:</u>** In this experiment, and in those found in the IDS curriculum, we use a treatment and a
     control group. However, a control group is not a necessary element of an experiment. Sometimes
