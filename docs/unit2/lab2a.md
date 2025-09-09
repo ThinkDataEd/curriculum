@@ -45,7 +45,7 @@ answered by calculating the mean, median and MAD.
     – <span style="color:firebrick;">**(4) How many observations are in the dataset?**</span>
 
 ###**Estimating centers**
-* <span style="color:firebrick;">**(5) Write and run code creating a ```dotPlot``` of the scores for your *predominant color*.**</span>
+* <span style="color:firebrick;">**(5) Write and run code creating a ```dotPlot``` of the scores for *your* predominant color.**</span>
 
     – Pro-tip: If the ```dotPlot``` comes out looking wonky, include the ```nint``` and ```cex``` options. 
 
