@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Abstract: Overview of Unit 3 Labs Objectives and Functions",
+    "body": "This document outlines the objectives and new functions introduced in Unit 3 Labs (Lab 3A through Lab 3F). It serves as a guide to the specific learning goals and programming tools students will encounter in each lab, covering topics from experimental data analysis, distinguishing experiments from observational studies, understanding population versus sample data, calculating margins of error, web data scraping, to creating interactive maps. For further examples and usage details for these functions, students are directed to refer to the RStudio Lab Codes and Functions file, which complements the lab instructions by offering additional usage scenarios and explanations."
+  },
+  {
+    "title": "Unit 3 Lab Documentation: Objectives and Function Overview",
+    "body": "This documentation provides a comprehensive list of the objectives for each lab in Unit 3, along with any new functions students will encounter. The purpose is to prepare students for the practical application of these functions, which will be thoroughly explained within the context of each lab. For a deeper understanding and more practical examples of how to use these functions, students are advised to consult the RStudio Lab Codes and Functions file. This resource complements the lab instructions by offering additional usage scenarios and detailed explanations, ensuring students have ample material to practice and solidify their programming skills."
+  },
+  {
+    "title": "RStudio Lab Codes and Functions: Supplementary Resource for Unit 3 Labs",
+    "body": "To enhance understanding and provide further practical examples, students are encouraged to refer to the RStudio Lab Codes and Functions file. This supplementary document offers additional instances and detailed explanations beyond what is covered in the specific lab instructions. It's a valuable resource for mastering the new functions introduced in Unit 3 Labs, ensuring students have ample material to practice and solidify their programming skills. The functions listed in the Unit 3 Lab documentation, along with their usage, are explained in more detail within this comprehensive RStudio resource, providing robust support for all Unit 3 Labs."
+  },
+  {
+    "title": "Unit 3 Lab 3A: Investigating Time Perception with Experimental Data Analysis",
+    "body": "Unit 3 Lab 3A is designed for students to investigate how a chosen stimulus might influence individuals' perception of time. The primary objective is to equip students with the skills to analyze experimental data using a variety of statistical methods. This includes creating informative plots for visualization, generating numerical summaries to quantify findings, and employing shuffling techniques for robust statistical inference. No new programming functions are introduced in Unit 3 Lab 3A, allowing students to focus on applying previously learned analytical tools to a new experimental context and reinforce their understanding of experimental data analysis."
+  },
+  {
+    "title": "Unit 3 Lab 3A: Experimental Data Analysis without New Functions",
+    "body": "In Unit 3 Lab 3A, students will delve into the analysis of experimental data to answer the question: 'Does the stimulus your class chose change people’s perception of time?' The lab focuses on core data analysis techniques, including the use of plots for visual interpretation, numerical summaries for quantitative insights, and shuffling methods for hypothesis testing. It is noteworthy that Unit 3 Lab 3A does not introduce any new R functions; instead, it reinforces the application of existing knowledge and tools to a specific scientific inquiry. Students will build confidence in applying their current analytical toolkit to real-world experimental scenarios."
+  },
+  {
+    "title": "Unit 3 Lab 3B: Experiments vs. Observational Studies and Lung Health Inquiry",
+    "body": "Unit 3 Lab 3B aims to clarify the fundamental distinctions between experimental designs and observational studies. Students will learn how these different approaches impact data collection and the conclusions that can be drawn from them. The lab applies this understanding to a significant public health question: 'What is the effect of childhood smoking on lung health?' Through this investigation, students will explore real-world data contexts where distinguishing study types is crucial for accurate causal inference. No new programming functions are introduced in Unit 3 Lab 3B, emphasizing conceptual understanding over new tool acquisition and strengthening analytical reasoning."
+  },
+  {
+    "title": "Unit 3 Lab 3B: Exploring Study Types and Health Impacts",
+    "body": "The central objective of Unit 3 Lab 3B is to enable students to differentiate between experiments and observational studies, a critical skill in statistical analysis. This foundational concept is then applied to investigate a relevant health topic, specifically, 'What is the effect of childhood smoking on lung health?' The lab provides a practical context for understanding the implications of study design on causal inference, teaching students to critically evaluate research methodologies. Similar to Unit 3 Lab 3A, Unit 3 Lab 3B does not introduce any new functions, allowing students to concentrate on the theoretical and practical implications of study methodologies."
+  },
+  {
+    "title": "Unit 3 Lab 3C: Population, Sample Data, and Sampling Methods",
+    "body": "Unit 3 Lab 3C focuses on the crucial distinction between population data and sample data, and how the choice of sampling method directly influences the representativeness of a sample. Students will explore various sampling techniques and analyze their effects on statistical inference, understanding that a well-chosen sample is essential for drawing accurate conclusions about a larger population. This lab introduces the `slice(x, from:to)` function, a new tool for data manipulation, allowing students to extract specific ranges of observations from a dataset. This function is vital for practical application of sampling concepts."
+  },
+  {
+    "title": "Unit 3 Lab 3C: Introducing `slice()` for Sampling Analysis",
+    "body": "In Unit 3 Lab 3C, students will gain proficiency in understanding the interplay between population data and sample data, and critically evaluate how different sampling methods impact the representativeness of a sample. To facilitate data handling related to sampling, the lab introduces a new function: `slice(x, from:to)`. This function is specifically designed to extract a subset of data by specifying a range of observations, which is highly useful when working with samples and exploring their characteristics. This practical tool supports the theoretical learning about sampling methodologies and their effect on statistical conclusions, making data subsetting efficient."
+  },
+  {
+    "title": "Data Manipulation: The `slice()` Function in Unit 3 Lab 3C",
+    "body": "The `slice(x, from:to)` function is a key data manipulation tool introduced in Unit 3 Lab 3C. Its primary purpose is to allow users to select and extract a specific range of rows or observations from a dataset, represented by `x`. By specifying `from` and `to` parameters, students can precisely define the subset of data they wish to work with. This function is particularly valuable when exploring sample data, testing different sampling strategies, and understanding how to isolate specific portions of a dataset for analysis, reinforcing concepts taught in Unit 3 Lab 3C regarding population and sample data and improving data handling efficiency."
+  },
+  {
+    "title": "Unit 3 Lab 3D: Calculating Margins of Error with Bootstrap",
+    "body": "Unit 3 Lab 3D focuses on a crucial aspect of statistical inference: calculating margins of error. Students will learn to employ the bootstrap resampling technique, a powerful method for estimating the sampling distribution of a statistic and subsequently determining the margin of error. This skill will be applied to investigate a real-world question: 'What is the mean age of people older than 15 living in the United States?' The lab emphasizes practical application of the bootstrap method without introducing any new programming functions, building upon existing R knowledge to tackle advanced statistical concepts and enhance the reliability of estimates."
+  },
+  {
+    "title": "Unit 3 Lab 3D: Bootstrap for Margin of Error Estimation",
+    "body": "In Unit 3 Lab 3D, students will master the technique of calculating margins of error, specifically utilizing the bootstrap method. This resampling approach is vital for understanding the precision of statistical estimates and constructing confidence intervals. The lab's practical application involves determining the mean age of the U.S. population older than 15, providing a tangible context for applying bootstrap methods to real demographic data. Notably, Unit 3 Lab 3D does not introduce any new R functions, allowing students to concentrate entirely on the conceptual and practical implementation of bootstrap resampling for robust error estimation and statistical inference."
+  },
+  {
+    "title": "Unit 3 Lab 3E: Web Data Scraping and Cleaning",
+    "body": "Unit 3 Lab 3E introduces students to the essential skill of web data scraping, enabling them to gather information directly from online sources. The lab covers the entire process, from fetching data from a specified URL to the critical step of cleaning and preparing this raw, often unstructured, web data for analysis. To facilitate this, Unit 3 Lab 3E introduces two new functions: `readHTMLTable(url, which)` for extracting tables from HTML content, and `length(x)` for determining the number of elements in an object, aiding in data inspection and cleaning. These tools are fundamental for data acquisition in modern analytical workflows."
+  },
+  {
+    "title": "Unit 3 Lab 3E: Tools for Web Scraping: `readHTMLTable()` and `length()`",
+    "body": "Unit 3 Lab 3E focuses on teaching students how to effectively scrape data from the web and perform necessary data cleaning procedures. This lab equips students with practical skills for acquiring information from online sources, an increasingly vital skill in data science. Key to this process are the newly introduced functions: `readHTMLTable(url, which)`, which allows for the extraction of specific HTML tables from a given URL, and `length(x)`, a versatile function used to ascertain the number of elements within an object, critical for data validation during cleaning. These functions support the overarching objective of gathering and preparing web-based information for analysis."
+  },
+  {
+    "title": "Data Acquisition and Inspection Functions in Unit 3 Lab 3E",
+    "body": "Unit 3 Lab 3E introduces two crucial functions for web data acquisition and preliminary data inspection. The `readHTMLTable(url, which)` function is specifically designed to parse HTML content from a given `url` and extract a table identified by its `which` index. This is fundamental for scraping structured data embedded in web pages, making it possible to access online data programmatically. Complementing this, the `length(x)` function serves as a basic yet powerful tool for data inspection, providing the number of items or elements in any object `x`. Both functions are vital for students learning to gather and initially understand external data from the web as part of Unit 3 Lab 3E's curriculum on data scraping and cleaning."
+  },
+  {
+    "title": "Unit 3 Lab 3F: Interactive Map Creation from Scraped Data",
+    "body": "Unit 3 Lab 3F guides students through the process of transforming previously scraped mountains data from Unit 3 Lab 3E into an interactive map. This lab introduces powerful visualization techniques for geographical data, allowing students to present spatial information dynamically and engagingly. A suite of new functions is provided to achieve this: `load(file)` to load data, `leaflet()` to initialize a map, `addTiles()` for base map layers, `addMarkers()` for point annotations, `colorize()` for visual encoding, `addCircleMarkers()` for customizable points, and `addLegend()` for map keys. This lab culminates in the creation of rich, interactive data visualizations."
+  },
+  {
+    "title": "Unit 3 Lab 3F: Geographical Visualization with Leaflet Functions",
+    "body": "The core objective of Unit 3 Lab 3F is to teach students how to create interactive maps using geographical data, specifically the mountains data acquired in Unit 3 Lab 3E. This involves a comprehensive set of new functions, primarily from the `leaflet` package, to build and customize maps. These functions include `load(file)` for data retrieval, `leaflet()` to start a map widget, `addTiles()` to add a base map layer, `addMarkers(map, lng, lat, popup)` for placing interactive markers, `colorize()` for applying color palettes, `addCircleMarkers()` for flexible point representations, and `addLegend(x, colors, labels)` to provide context for map elements. Together, these tools enable the creation of sophisticated, interactive geographical visualizations."
+  },
+  {
+    "title": "Interactive Mapping Functions in Unit 3 Lab 3F",
+    "body": "Unit 3 Lab 3F introduces a comprehensive set of functions specifically for creating interactive geographical maps, building upon the data scraped in Unit 3 Lab 3E. The `leaflet()` function is the starting point for any interactive map, while `addTiles()` provides the essential background map layers. `addMarkers(map, lng, lat, popup)` and `addCircleMarkers()` are used to place points of interest on the map, with `popup` allowing for interactive information display upon clicking. To enhance visual clarity, `colorize()` helps in assigning colors based on data attributes, and `addLegend(x, colors, labels)` is critical for interpreting these visual encodings. Finally, `load(file)` is used to import the necessary geospatial data, completing the mapping workflow."
+  },
+  {
+    "title": "Building Interactive Maps: A Step-by-Step Function Guide for Unit 3 Lab 3F",
+    "body": "In Unit 3 Lab 3F, students learn to construct interactive maps using a sequence of specialized functions. The process begins with `load(file)` to retrieve the prepared mountains data that was scraped in Unit 3 Lab 3E. The `leaflet()` function then initializes the map canvas, followed by `addTiles()` to establish the base geographical context. Data points are added using `addMarkers(map, lng, lat, popup)` or `addCircleMarkers()`, which can include interactive pop-up information. Visual distinctions within the data are achieved using `colorize()`. To ensure the map is easily understandable, `addLegend(x, colors, labels)` is employed to define the meaning of colors and symbols. This structured approach, using these specific functions, allows for the creation of dynamic and informative maps."
+  }
+]

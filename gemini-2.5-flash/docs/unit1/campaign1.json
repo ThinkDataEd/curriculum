@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Abstract: Unit 1 Campaign 1 - Food Habits Analysis",
+    "body": "Unit 1 Campaign 1, titled 'Food Habits', guides students through a nine-day data collection and analysis process focused on personal snacking patterns. The campaign's core issue addresses the impact of nutritional information, inspired by the 1990 Nutrition Labeling Education Act. Students will explore their snacking habits, assess the healthiness of their choices, and compare their data to their classmates and national trends. Key objectives include developing an enduring understanding of how graph interpretation provides real-world insights, particularly by analyzing relationships between independent (x) and dependent (y) variables. The campaign involves collecting detailed snack data through surveys, monitoring data collection progress, and using tools like the Dashboard, Plot App, and RStudio for technical analysis. Students will answer guiding questions about snack healthiness, timing, and characteristics, culminating in a practicum report that addresses a statistical question based on the collected food habits data."
+  },
+  {
+    "title": "Introduction to Unit 1 Campaign 1: Food Habits and Nutritional Awareness",
+    "body": "Unit 1 Campaign 1, 'Food Habits', delves into consumer food choices and the impact of nutritional information. The campaign highlights the historical significance of the Nutrition Facts label, which became mandatory in 1990 under the Nutrition Labeling Education Act. This act aimed to empower consumers to make informed decisions about their diet. The campaign challenges students to reflect on whether knowing nutritional details influences their snacking habits, to understand their own snacking patterns, and to compare the healthiness of their food choices with their peers and broader national data. This foundational understanding sets the stage for data collection and analysis."
+  },
+  {
+    "title": "Core Objectives of Unit 1 Campaign 1: Graph Interpretation and Variable Relationships",
+    "body": "The primary objectives of Unit 1 Campaign 1, 'Food Habits', are designed to foster a deep understanding of data analysis. Upon completion, students are expected to grasp that interpreting graphs is a powerful tool for extracting useful information about real-world scenarios, as observed through collected data. A crucial learning outcome is the ability to explore and identify relationships between two variables. Students will learn that if a relationship exists, changes in the independent variable (x) are often the driving force behind changes observed in the dependent variable (y). This objective underpins all subsequent data analysis activities within the campaign."
+  },
+  {
+    "title": "Campaign Rationale: Exploring Snacking Habits and Nutritional Choices",
+    "body": "Unit 1 Campaign 1, 'Food Habits', is motivated by fundamental questions surrounding personal nutrition and consumer behavior. Students are prompted to consider if access to nutritional information truly alters their eating habits. They will investigate their individual snacking patterns, evaluate the healthiness of their typical snacks, and contextualize their findings by comparing them to their class and even national dietary trends. These questions serve as the impetus for the entire data collection and analysis process, aiming to provide students with tangible insights into their own food consumption and its broader implications."
+  },
+  {
+    "title": "Defining Survey Variables for Consistent Data in Unit 1 Campaign 1",
+    "body": "To ensure accurate and comparable data for Unit 1 Campaign 1, 'Food Habits', a crucial first step involves establishing a class-wide consensus on the meaning of survey variables. This collective agreement is vital for proper data analysis and interpretation. For example, the variable 'when' requires standardized definitions for time intervals such as 'morning,' 'afternoon,' 'evening,' and 'night.' Similarly, for the 'cost' variable, students must decide whether to record the total cost of a food item or calculate the unit cost per serving. These collective decisions are fundamental to the integrity and utility of the collected data."
+  },
+  {
+    "title": "Detailed Survey Questions and Categorical Variables in Unit 1 Campaign 1",
+    "body": "Unit 1 Campaign 1, 'Food Habits', utilizes a comprehensive survey to collect data on snacking habits. Key categorical variables include 'when,' with options for 'morning,' 'afternoon,' 'evening,' and 'night,' defined by class consensus. The 'salty_sweet' variable categorizes snacks as 'Salty' or 'Sweet.' The 'why' variable captures reasons for snacking, such as 'availability,' 'craving,' 'emotional,' 'energy,' 'hungry/thirsty,' 'social,' or 'other.' Additionally, the 'cost' variable is categorical, spanning ranges from '$0 to < $1' to '$7 or more.' These structured categories enable consistent data collection for analysis within the campaign."
+  },
+  {
+    "title": "Numerical and Automatic Variables for Snack Data in Unit 1 Campaign 1",
+    "body": "The survey for Unit 1 Campaign 1, 'Food Habits', includes several numerical variables to quantify snack characteristics. These include 'healthy_level' (a scale from 1=Very unhealthy to 5=Very healthy), 'calories' per serving, 'protein' grams per serving, 'sugar' grams per serving, 'sodium' milligrams per serving, and 'ingredients' count. Beyond self-reported data, the survey automatically captures 'location' (latitude, longitude), 'time,' 'date,' and 'user' ID, adding crucial context to each snack entry. An optional 'snack_image' can also be submitted, enriching the data collected for the campaign."
+  },
+  {
+    "title": "Guidelines for Data Collection Frequency and Campaign Duration in Unit 1 Campaign 1",
+    "body": "For Unit 1 Campaign 1, 'Food Habits', students are advised to take the snack survey either every time they consume a snack or at the end of each day, with reminders available to ensure consistent completion. The campaign is designed to last approximately nine days, intentionally incorporating two weekend days to capture a broader range of snacking behaviors. This specific duration and frequency are crucial for gathering sufficient and diverse data, enabling students to accurately analyze their food habits and observe patterns over a meaningful period as part of the campaign's objectives."
+  },
+  {
+    "title": "Monitoring Data Collection Progress in Unit 1 Campaign 1",
+    "body": "A critical component of Unit 1 Campaign 1, 'Food Habits', is the active monitoring of data collection. As a class, students must agree on a target number of surveys each individual should submit, with a minimum of four surveys per student and an emphasis on roughly equal contributions. The 'Campaign Monitoring' tool is used to track individual data collection after the first day. After two to three days, attention is drawn to the 'Total Responses by Day' plot to analyze data collection patterns, such as identifying days with high or low survey submissions. This monitoring fosters collective responsibility and insights into data gathering processes."
+  },
+  {
+    "title": "Interpreting Data Collection Patterns in Unit 1 Campaign 1",
+    "body": "During Unit 1 Campaign 1, 'Food Habits', students will analyze the 'Total Responses by Day' plot using the Campaign Monitoring tool to understand data collection trends. For instance, a common pattern might show high data collection during weekdays, with a noticeable drop over weekends, followed by a peak on the first day back (e.g., Monday). Discussions will center on the 'story' these patterns tell about student engagement and data input, prompting questions like: 'What makes data collection difficult?' and 'Does this affect the quality of our data?' This reflective analysis is key to understanding real-world data collection challenges."
+  },
+  {
+    "title": "Addressing Challenges in Data Collection for Unit 1 Campaign 1",
+    "body": "Within Unit 1 Campaign 1, 'Food Habits', students engage in discussions about the inherent challenges of data collection. Facilitating these conversations helps students recognize factors that might hinder consistent survey submission, such as forgetting to record snacks or reluctance to enter certain types of food. This critical reflection addresses how these issues can potentially impact the overall quality and representativeness of the collected data. Understanding these practical limitations is essential for developing a nuanced perspective on data integrity and interpreting results accurately later in the campaign."
+  },
+  {
+    "title": "Technical Analysis Tools for Unit 1 Campaign 1: Food Habits",
+    "body": "For the technical analysis phase of Unit 1 Campaign 1, 'Food Habits', students will utilize a suite of specialized tools. These include the Dashboard for an overview of collected data, the Plot App for creating various graphical representations, and RStudio for more advanced statistical analysis and data manipulation. The integration of these tools ensures that students can effectively process, visualize, and interpret the snack data they have collected. Proficiency with these platforms is crucial for answering the guiding questions and ultimately completing the practicum report for the campaign."
+  },
+  {
+    "title": "Guiding Questions for Data Analysis in Unit 1 Campaign 1 (Part 1)",
+    "body": "The analysis phase of Unit 1 Campaign 1, 'Food Habits', is structured around several guiding questions. Students will investigate at what time of day the healthiest snacks are typically consumed. They will also compare their individual snacking times to those of the rest of the class, identifying personal patterns versus collective trends. Furthermore, students will assess the typical healthiness level of their own snacks and benchmark this against the class as a whole. These questions encourage comparative analysis and personal reflection on individual and group snacking behaviors within the campaign."
+  },
+  {
+    "title": "Guiding Questions for Data Analysis in Unit 1 Campaign 1 (Part 2)",
+    "body": "To further dissect the collected data in Unit 1 Campaign 1, 'Food Habits', students will explore additional guiding questions. A key inquiry involves identifying the distinct characteristics that define healthy snacks versus unhealthy snacks, encouraging a deeper understanding of nutritional components. Students will also synthesize their findings to determine overarching patterns in snack healthiness across different times of the day. These analytical questions facilitate a comprehensive examination of the data, helping students to draw meaningful conclusions about dietary choices and their contributing factors."
+  },
+  {
+    "title": "Final Practicum Report for Unit 1 Campaign 1: Food Habits",
+    "body": "The culmination of Unit 1 Campaign 1, 'Food Habits', is a practicum report. In this final assignment, students are tasked with answering a specific statistical question using the 'Food Habits' data they have collectively gathered and analyzed. This report requires students to apply their understanding of graph interpretation, variable relationships, and statistical analysis techniques learned throughout the campaign. The practicum serves as a demonstration of their enduring understanding that data analysis provides useful information about the real world, fulfilling a core objective of the campaign."
+  },
+  {
+    "title": "The Enduring Understanding: Graphs and Real-World Data in Unit 1 Campaign 1",
+    "body": "A core enduring understanding students will gain from Unit 1 Campaign 1, 'Food Habits', is that interpreting graphs provides invaluable information about the real world, directly viewed through the lens of collected data. This understanding extends to recognizing how relationships between two variables can be explored, where a change in an independent variable (x) often drives a change in a dependent variable (y). This conceptual framework is applied across the campaign, from analyzing individual snack data to comparing class-wide trends, and ultimately forms the basis for the practicum report where students answer a statistical question using their own collected data."
+  }
+]

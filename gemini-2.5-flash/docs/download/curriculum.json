@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Abstract: Introduction to Data Science Curriculum Overview",
+    "body": "This document serves as a central point for accessing the Introduction to Data Science (IDS) Curriculum. It primarily features the current version, IDS_Curriculum v7.2, providing direct links and an embedded view of the curriculum PDF document. The curriculum is accessible through specific file paths and external URLs, indicating its availability for educational use. While highlighting version 7.2, the source also references previous iterations, such as v5.0, v6.0, and v6.2, suggesting a history of development and updates to the Introduction to Data Science program. The curriculum resources are presented in a structured manner, emphasizing ease of access for users."
+  },
+  {
+    "title": "Introduction to Data Science Curriculum v7.2 Availability",
+    "body": "The Introduction to Data Science (IDS) Curriculum, specifically version 7.2, is readily available and highlighted in this document. Users can access the full curriculum content via a direct PDF link: `../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Curriculum_v7_2.pdf`. Furthermore, an embedded iframe (`https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Curriculum_v7_2.pdf`) provides an immediate view of the curriculum within the page, ensuring convenient access for all users. This version represents the most current iteration of the IDS program, offering comprehensive structural descriptions and knowledge points."
+  },
+  {
+    "title": "Accessing the IDS_Curriculum v7.2 Document",
+    "body": "The document `.\\docs\\download\\curriculum.md` serves as the entry point for accessing the Introduction to Data Science (IDS) Curriculum. The primary curriculum document, `IDS_Curriculum_v7_2.pdf`, is made available through a relative path (`../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Curriculum_v7_2.pdf`) and is also embedded directly into the page from an external source (`https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Curriculum_v7_2.pdf`). This ensures that the most current version, IDS_Curriculum v7.2, is easily viewable and downloadable, providing comprehensive structural and knowledge points for the Introduction to Data Science program."
+  },
+  {
+    "title": "Overview of Introduction to Data Science Curriculum Development",
+    "body": "The \"IDS_Curriculum,\" representing the Introduction to Data Science program, shows a history of continuous development. Its most recent publicly featured version is 7.2, accessible via `IDS_Curriculum_v7_2.pdf`. This evolution is evident from references to prior curriculum iterations, including version 5.0 and 6.0, as well as specific unit-level documents like \"Unit 1\" through \"Unit 4\". For example, files such as `IDS_Intro+Unit1_v 6.0_FINAL.pdf`, `IDS_Unit2_v 6.0.pdf`, `IDS_Unit3_v 6.0.pdf`, and `IDS_Unit4_v_6.2.pdf` indicate that individual curriculum units were also developed and versioned. The existence of `Introduction to Data Science_Curriculum_v_6.0.pdf` and `Introduction to Data Science_Curriculum_v_5.0.pdf` further confirms the iterative refinement of the overall curriculum, providing comprehensive structural and knowledge points across various releases."
+  },
+  {
+    "title": "Specific Versions and Access Paths for the IDS Curriculum",
+    "body": "The Introduction to Data Science Curriculum, identified as \"IDS_Curriculum,\" has undergone multiple revisions. The current primary resource is version 7.2, which can be accessed through the file `IDS_Curriculum_v7_2.pdf` via a relative path `../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Curriculum_v7_2.pdf` and an embedded link from `https://curriculum.thinkdataed.org/`. Historical versions such as v5.0 and v6.0 are also referenced, for instance, in `Introduction to Data Science_Curriculum_v_5.0.pdf` and `Introduction to Data Science_Curriculum_v_6.0.pdf`. Furthermore, more granular components like Unit 1, Unit 2, Unit 3, and Unit 4 documents were released, exemplified by `IDS_Unit2_v 6.0.pdf` or `IDS_Unit4_v_6.2.pdf`. These distinct files and versions highlight the modular and evolving nature of the curriculum, ensuring updated knowledge points and structural descriptions for students in the Introduction to Data Science program."
+  }
+]

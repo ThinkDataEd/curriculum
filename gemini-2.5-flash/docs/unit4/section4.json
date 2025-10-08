@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract: Unit 4, Section 4: Decisions, Decisions - Decision Trees for Classification",
+    "body": "Unit 4, Section 4, titled 'Decisions, Decisions', spans three instructional days and focuses on decision trees, particularly Classification and Regression Trees (CART), as a method for classifying observations into similar groupings. The unit begins with an engaging scenario comparing medical and data science diagnoses to contextualize decision trees' predictive power. Learning objectives encompass statistical reasoning (S-IC 2), understanding classification and regression trees for group membership prediction, and applying RStudio to create these models. Real-world applications, such as cardiologists using decision trees for heart attack diagnosis with high accuracy, are highlighted. Language objectives promote discussions, explanations of non-linear model accuracy, and connections between decision trees and linear models. The unit utilizes the USMNT/NFL and Titanic datasets, alongside a team-generated Participatory Sensing Campaign for data collection."
+  },
+  {
+    "title": "Unit Overview: Unit 4, Section 4: Decisions, Decisions - Introduction to Classification",
+    "body": "Unit 4, Section 4, titled 'Decisions, Decisions', is designed to be covered over three instructional days. This unit introduces students to the fundamental concepts of decision trees as a powerful tool for classifying observations. The primary goal is to teach how these trees are used to sort data based on specific characteristics, ultimately leading to decisions about group membership. The section emphasizes the application of a particular modeling tool known as CART (Classification and Regression Trees) for practical implementation."
+  },
+  {
+    "title": "Enduring Understanding: Decision Trees and CART for Observation Classification",
+    "body": "The core enduring understanding for Unit 4, Section 4 is that decision trees are essential for classifying observations. These models group data points based on known characteristics by asking a series of questions. Observations are sorted according to responses, leading to a final group membership after multiple iterations. A key modeling tool explored in this unit is CART, which stands for Classification and Regression Trees. CART provides a structured approach to building these predictive models."
+  },
+  {
+    "title": "Student Engagement: Diagnosing with Data Scientists vs. Doctors",
+    "body": "To engage students in Unit 4, Section 4, a compelling question is posed: Would you trust a doctor or a data scientist to diagnose chest pains? This scenario serves to immediately set the context for decision trees, illustrating how they are applied in making predictions and informing critical decisions. This initial discussion prepares students to understand the practical utility of decision tree models in real-world diagnostic situations, contrasting traditional expertise with data-driven approaches."
+  },
+  {
+    "title": "Learning Objectives: Statistical, Data Science, and Computational Skills",
+    "body": "The learning objectives for Unit 4, Section 4 cover multiple domains. Statistically, students will address S-IC 2, learning to determine if a specified model aligns with a data-generating process, possibly using simulation. In Data Science, the objective is to understand how classification and regression trees predict membership in groups. Computationally, using RStudio, students will gain the practical skill of creating classification and regression trees. These objectives ensure a comprehensive understanding and application of decision tree models."
+  },
+  {
+    "title": "Real-World Application: Cardiologists and Decision Tree Accuracy",
+    "body": "A significant real-world connection highlighted in Unit 4, Section 4 involves cardiologists using decision trees to diagnose heart attacks. This method, in use since the late 1870s, has demonstrated remarkable accuracy, correctly diagnosing heart attacks in over 95% of cases. This performance notably surpasses the accuracy of diagnoses based solely on individual doctors’ expertise, which typically ranges between 75% and 90%. This example underscores the practical and life-saving utility of decision tree models."
+  },
+  {
+    "title": "Language Objectives: Discussing, Explaining, and Connecting Models",
+    "body": "Unit 4, Section 4 includes specific language objectives designed to enhance student communication and understanding. Students will participate in partner and whole group discussions to articulate their understanding of classification trees. They will also be expected to explain, both orally and in writing, how to determine the accuracy of their non-linear models. Furthermore, a key objective is for students to make written connections between decision trees and linear models, fostering deeper comparative analysis skills."
+  },
+  {
+    "title": "Data Sources and Collection: Datasets and Participatory Sensing",
+    "body": "For activities in Unit 4, Section 4, students will utilize two primary data files: the USMNT/NFL dataset (with an optional command `data(futbol)`) and the Titanic dataset (accessible via `data(titanic)`). In addition to these pre-existing datasets, students will engage in a hands-on data collection method: a team-generated Participatory Sensing Campaign. This campaign allows students to collect their own data based on a team-selected topic, providing a practical experience in data acquisition."
+  },
+  {
+    "title": "Mechanism of Decision Trees and the Role of CART",
+    "body": "Decision trees function by systematically classifying observations into distinct groups. This process involves asking a series of questions about the known characteristics of the observations. Based on the responses to these questions, the observations are sorted into different branches. This iterative sorting continues until a final group membership is determined. CART, which stands for Classification and Regression Trees, is the specific and powerful modeling tool employed in Unit 4, Section 4 for constructing these decision models."
+  },
+  {
+    "title": "Historical Impact and Superior Accuracy of Decision Trees in Medicine",
+    "body": "The real-world application of decision trees has a profound and historical impact, particularly in medicine. As explored in Unit 4, Section 4, cardiologists have been using decision trees since the late 1870s to accurately diagnose heart attacks. This method consistently achieves over 95% correct diagnoses. This level of accuracy significantly outperforms individual doctors' expertise, which typically falls within a 75% to 90% accuracy range, demonstrating the long-standing effectiveness of data-driven models."
+  },
+  {
+    "title": "Comprehensive Learning Goals for Decision Tree Mastery",
+    "body": "Unit 4, Section 4 aims for students to achieve comprehensive learning goals. These include developing statistical reasoning by deciding model consistency (S-IC 2), gaining data science understanding of classification and regression trees for group prediction, and mastering applied computational thinking through creating these trees in RStudio. Furthermore, students will appreciate real-world connections, such as the application of decision trees in medical diagnoses, and improve language skills through discussions and written explanations of model accuracy and relationships."
+  },
+  {
+    "title": "Engaging with Data: Provided Datasets and Student-Led Campaigns",
+    "body": "Data engagement in Unit 4, Section 4 involves both pre-structured and self-generated data. Students will work with the USMNT/NFL dataset and the Titanic dataset (using commands like `data(futbol)` and `data(titanic)`). Crucially, the unit also incorporates active data collection through a 'Team-generated Participatory Sensing Campaign'. This approach ensures students experience data analysis with established datasets while also developing practical skills in designing and executing their own data collection efforts based on chosen topics."
+  },
+  {
+    "title": "Pedagogical Approach: Engagement, Communication, and Model Understanding",
+    "body": "The pedagogical approach in Unit 4, Section 4, 'Decisions, Decisions,' emphasizes active engagement and clear communication. The unit kicks off with an intriguing question comparing doctor and data scientist diagnoses to immediately contextualize decision trees. Students will then develop their language skills through partner and whole group discussions about classification trees, articulate the accuracy of non-linear models orally and in writing, and connect decision trees to linear models in written exercises. This holistic approach ensures students not only grasp the technical aspects but can also effectively discuss and explain their understanding."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract: Unit 3, Section 5: Webpages - Data Formats and Online Access",
+    "body": "Unit 3, Section 5, titled \"Webpages,\" is designed for 6 instructional days, focusing on the diverse forms of online data and the necessity of varied representation styles. Through engaging activities like viewing data farm videos, students will explore data formats and online access methods. Learning objectives span statistical analysis (evaluating data reports, understanding study designs), applied computational thinking with RStudio (reading XML/HTML data, mapping coordinates), and language skills (comparing data formats like CSV, HTML, XML, engaging in data science discussions). The section emphasizes real-world connections, such as web data's role in flu prediction, and involves practical data collection methods including scraping online HTML sources and utilizing class-generated Participatory Sensing campaign data."
+  },
+  {
+    "title": "Unit 3, Section 5: Webpages - Core Concepts and Duration",
+    "body": "Unit 3, Section 5, named \"Webpages,\" is a comprehensive segment requiring 6 instructional days. This unit introduces students to the critical \"Enduring Understanding\" that data encountered online manifests in a multitude of forms, each demanding a distinct style of representation for effective use and analysis. The curriculum is structured to address the complexities of web-based data, preparing students to navigate and process this diverse information effectively."
+  },
+  {
+    "title": "Initiating Web Data Exploration: Google's Street View Data Center",
+    "body": "To foster initial engagement in Unit 3, Section 5: Webpages, students will watch a video clip that showcases a real-world data farm. Specifically, the video highlights Google's Street View Data Center. This visual introduction is intended to stimulate students' thinking about the various formats in which data exists online and the diverse mechanisms through which this data can be accessed. This activity sets the contextual stage for deeper learning about web data."
+  },
+  {
+    "title": "Statistical and Mathematical Skills for Web Data Evaluation in Unit 3, Section 5",
+    "body": "Within Unit 3, Section 5: Webpages, students will focus on several statistical and mathematical learning objectives. They will learn to distinguish the purposes and differences among sample surveys, experiments, and observational studies, while also understanding the significance of randomization in each (S-IC 3). Another key objective is to effectively evaluate reports based on data (S-IC 6). The unit also aims to teach diverse techniques for accessing data from the web and to develop an understanding of why different data representations are crucial for compatibility with various software platforms (DS)."
+  },
+  {
+    "title": "RStudio Techniques for Web Data Processing in Unit 3, Section 5",
+    "body": "The \"Applied Computational Thinking using RStudio\" component of Unit 3, Section 5: Webpages is designed to equip students with practical programming skills. Students will gain proficiency in reading data from both XML and HTML tables, subsequently converting this raw web data into structured R data frames, which are fundamental for analysis in RStudio. Furthermore, a hands-on objective involves using latitude and longitude coordinates, specifically with mountain data, to overlay this geographical information onto a map, demonstrating data visualization capabilities."
+  },
+  {
+    "title": "Real-World Applications and Communication for Web Data in Unit 3, Section 5",
+    "body": "Unit 3, Section 5: Webpages connects directly to \"Real-World Connections,\" illustrating how web data provides extremely rich datasets, for example, being used to predict flu outbreaks. This reinforces the practical impact of data science. Simultaneously, the unit emphasizes \"Language Objectives.\" Students will compare and contrast the suitability of CSV, HTML, or XML for different data needs. They will also participate in discussions and presentations to express their understanding of how data is stored and viewed online, and engage in dialogue about internet research as it pertains to data science."
+  },
+  {
+    "title": "Data Sources and Acquisition Techniques in Unit 3, Section 5",
+    "body": "In Unit 3, Section 5: Webpages, students will work with specific \"Data File\" and \"Data Collection Method\" approaches. A primary data source will be students' own Participatory Sensing campaign data. For collection, students will learn practical skills like scraping data from online HTML sources. They will also gather data that is generated through a class-generated Participatory Sensing campaign. These methods provide direct experience with acquiring and managing various forms of online and sensor-based data."
+  },
+  {
+    "title": "Integrated Skills: Statistical, Computational, and Language in Webpages Unit",
+    "body": "Unit 3, Section 5: Webpages combines statistical objectives like evaluating data reports (S-IC 6) and understanding study designs (S-IC 3) with practical computational thinking. Students will use RStudio to read data from XML and HTML tables, converting them to R data frames, and apply latitude/longitude for map overlays. The unit also includes language objectives, where students will compare CSV, HTML, and XML formats and engage in discussions about online data storage and internet research in data science. This holistic approach ensures students develop a broad range of skills for handling diverse web data."
+  },
+  {
+    "title": "Web Data's Enduring Importance and Practical Data Management",
+    "body": "The \"Enduring Understanding\" of Unit 3, Section 5: Webpages emphasizes that online data comes in varied forms, each needing specific representation. This unit, lasting 6 instructional days, delves into this by teaching students to access data from the web using different techniques and understanding the utility of varied representations for software platforms (DS). Students will practically engage with \"Data File\" from Participatory Sensing campaign data and employ \"Data Collection Methods\" like scraping HTML sources, aligning with the real-world connection of web data as a rich source for predictions like flu outbreaks."
+  },
+  {
+    "title": "Engaging Activities and Core Learning Across Data Formats",
+    "body": "Unit 3, Section 5: Webpages, a 6-day instructional module, begins with an engaging video about Google's Street View Data Center to introduce concepts of data formats and online access. Its learning objectives include mastering statistical principles such as recognizing different study types (S-IC 3) and evaluating data reports (S-IC 6). Language objectives encourage comparing and contrasting CSV, HTML, and XML appropriateness, alongside discussions on how data is stored and viewed online. This unit comprehensively covers the necessity of understanding different data representations for various software platforms."
+  },
+  {
+    "title": "RStudio for Web Data and Communication of Data Insights",
+    "body": "Unit 3, Section 5: Webpages integrates \"Applied Computational Thinking using RStudio\" by teaching students to convert XML and HTML tables into R data frames and to visualize mountain data using latitude/longitude on maps. These technical skills support \"Real-World Connections,\" like using web data for flu prediction, highlighting its value as a rich dataset. Concurrently, \"Language Objectives\" are paramount; students will discuss and present their understanding of online data storage and viewing, and critically assess internet research in data science, emphasizing communication around data formats (CSV, HTML, XML)."
+  },
+  {
+    "title": "Hands-On Data Collection and Processing in Unit 3, Section 5",
+    "body": "Central to Unit 3, Section 5: Webpages are the practical aspects of data acquisition and processing. Students will gather \"Data File\" from their Participatory Sensing campaign data, and actively engage in \"Data Collection Method\" such as scraping data from online HTML sources. These methods directly support the \"Applied Computational Thinking using RStudio\" objective of reading HTML data and converting it to R data frames. This practical experience reinforces the \"Enduring Understanding\" that online data requires different representation styles for effective utilization."
+  }
+]
