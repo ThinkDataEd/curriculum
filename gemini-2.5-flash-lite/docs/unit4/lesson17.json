@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract of Unit 4 Lesson 17",
+    "body": "Unit 4 Lesson 17, 'Grow Your Own Decision Tree,' focuses on enabling students to construct their own decision trees using training data and subsequently evaluate their performance on new test data. The lesson introduces the concept of misclassification rate (MCR) as a metric for assessing prediction accuracy in classification trees, analogous to MSE and MAE for linear models. Students will work with a provided dataset of player statistics to build their trees, then use a separate set of 'mystery players' to test their models. The lesson also touches upon the limitations of manual decision tree creation for large datasets and foreshadows the use of software like RStudio for this task in future labs, including a preview of interpreting RStudio's decision tree outputs and their associated misclassification rates."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Grow Your Own Decision Tree - Objective and Materials",
+    "body": "The primary objective of Unit 4 Lesson 17 is for students to gain hands-on experience in creating their own decision trees based on a given set of training data. Following this, they will assess how effectively their constructed decision tree performs when applied to new, unseen test data. The essential material for this lesson is the 'Make Your Own Decision Tree' handout (LMR_U4_L17). Optionally, educators can provide RStudio code to assist students in generating the training data, particularly useful for Step 8 of the lesson where students begin constructing their trees."
+  },
+  {
+    "title": "Vocabulary: Misclassification Rate (MCR)",
+    "body": "The term 'misclassification rate (MCR)' is a key vocabulary term in Unit 4 Lesson 17. It is defined as the proportion of observations that were predicted by a model to belong to one category, but actually belonged to a different category. This metric is crucial for evaluating the accuracy of classification trees, similar to how Mean Squared Error (MSE) and Mean Absolute Error (MAE) are used for linear models. In the context of the lesson, MCR helps quantify how often a decision tree makes incorrect predictions on a given dataset."
+  },
+  {
+    "title": "Vocabulary: Training Data",
+    "body": "In Unit 4 Lesson 17, 'training data' refers to a randomly selected subset of the original dataset, typically comprising about 75-85% of the total data. This subset is used to build or 'train' a decision tree model. The model learns patterns and relationships from this data. After constructing the decision tree using the training data, its predictive performance is then evaluated on a separate set of data, known as test data, to gauge its ability to generalize to new, unseen examples. The handout 'Make Your Own Decision Tree' provides specific training data for students to use."
+  },
+  {
+    "title": "Vocabulary: Test Data",
+    "body": "The term 'test data' is fundamental to Unit 4 Lesson 17. It consists of a random subset of the original dataset, usually around 15-25% of the total data, which is kept separate from the training data. This data is used after a decision tree model has been built using the training data. The purpose of using test data is to evaluate how well the decision tree generalizes and makes predictions on new, unseen observations. This helps in assessing the model's accuracy and identifying potential issues like overfitting. In the lesson, students use the 'test data' on page 2 of the handout to classify 'mystery players'."
+  },
+  {
+    "title": "Essential Concepts: Evaluating Decision Trees",
+    "body": "A core concept in Unit 4 Lesson 17 is that the usefulness and accuracy of decision trees can be determined by comparing the number of misclassifications they produce. This is directly related to the 'misclassification rate (MCR)'. By analyzing how many predictions made by a decision tree are incorrect compared to the actual outcomes, students can assess the performance of their model. This concept is reinforced by revisiting misclassification rates calculated from previous activities and by applying MCR to newly created trees and test datasets."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Introduction to Misclassification Rate",
+    "body": "Unit 4 Lesson 17 begins by drawing parallels between evaluating linear models and classification trees. While linear models use metrics like Mean Squared Error (MSE) and Mean Absolute Error (MAE), classification trees employ the 'misclassification rate (MCR)'. The lesson prompts students to recall how they assessed linear models and then introduces MCR as the proportion of incorrect predictions. Students are asked to calculate the MCR for decision trees created in the previous lesson, using provided images of player stats and classification tables to illustrate the concept and its calculation. For example, referencing the Round 1 and Round 2 tables shows MCRs of 0.60 and 0.13 respectively, based on the number of incorrect classifications out of 15 total observations."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Building a Classification Tree from Training Data",
+    "body": "In Unit 4 Lesson 17, students actively construct their own classification trees using provided training data. The lesson presents a dataset of 15 players with attributes like Team, Player, Height, Weight, Age, and League (NFL or USMNT). Students are given the 'Make Your Own Decision Tree' handout and work in pairs or teams. Their task is to devise a series of yes/no questions based on the player attributes to accurately classify each player into their correct league. This hands-on activity emphasizes the process of feature selection and rule creation inherent in building decision trees. For those who want to recreate this dataset programmatically, optional RStudio code is provided."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Evaluating Decision Tree Performance with Test Data",
+    "body": "Following the creation of their decision trees in Unit 4 Lesson 17, students are tasked with evaluating their models using 'test data'. This involves using the decision trees they've built to classify five 'mystery players' presented on page 2 of the 'Make Your Own Decision Tree' handout. Students record their classifications and then compare their results with the actual league assignments of these players. This step highlights the practical application of decision trees and provides a tangible measure of their predictive accuracy. The lesson encourages comparison among students' trees and classifications, anticipating variety and discussion."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Comparing and Analyzing Test Data Results",
+    "body": "After students classify the mystery players using their self-made decision trees in Unit 4 Lesson 17, the lesson facilitates a comparative analysis. The correct league classifications for the five mystery players are revealed, including their team, player name, and attributes. Students then engage in a class discussion, often initiated by a show of hands, to quantify their success rates: how many players they misclassified (from 0 to 5). This interactive assessment encourages reflection on the effectiveness of their decision trees and provides immediate feedback on their generalization performance. Students who achieved perfect classification are invited to share their trees."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Limitations of Manual Tree Creation and Introduction to RStudio",
+    "body": "Unit 4 Lesson 17 addresses the practical limitations of manually creating decision trees, especially when dealing with large datasets. The lesson explains that manual construction becomes unmanageable, leading data scientists to rely on software. This serves as a transition to future labs, specifically mentioning the upcoming use of RStudio to grow decision trees automatically. The lesson provides a preview of RStudio's output, using the Titanic dataset as an example. This preview aims to demystify the software's output, breaking down the interpretation of leaf nodes, misclassification counts (numerators), and total observations (denominators) to prepare students for the next lab."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Interpreting RStudio Decision Tree Output",
+    "body": "To prepare students for [Lab 4G: Growing Trees](lab4g.md), Unit 4 Lesson 17 includes a front-loaded explanation of how to interpret decision tree outputs generated by RStudio. An example using the Titanic dataset is projected, showing 1000 observations. The output displays ratios within leaf nodes, where the numerator represents misclassifications and the denominator represents the total observations in that node. For instance, '125/641' means 641 people were classified as not surviving, with 125 of them being misclassified (they actually survived). The lesson guides students on calculating the overall Misclassification Rate (MCR) from these figures, demonstrating it as (125+96)/(641+359) = 221/1000 = 0.221 for the example provided."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Class Scribes and Homework Assignment",
+    "body": "As a concluding activity for Unit 4 Lesson 17, one team of students is assigned the role of 'Class Scribes'. They are responsible for presenting a brief summary highlighting what they consider the three most important topics covered during the lesson. The homework assignment requires students to answer three discussion questions: 1. How does a decision tree/CART compare to a linear model (similarities/differences)? 2. Why is a decision tree considered a model? 3. Describe the roles of training data and test data in creating a classification tree, emphasizing the importance of avoiding overfitting. Students are also reminded to complete [Lab 4G: Growing Trees](lab4g.md) before proceeding to [Lesson 18](lesson18.md)."
+  }
+]

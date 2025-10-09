@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Abstract: Teen Depression Practicum",
+    "body": "This document outlines Practicum 2 for Unit 1, focusing on Teen Depression. The objective is for students to use CDC data to identify factors associated with depression in teens by applying statistical concepts and creating graphical representations. Students will work in pairs, create a poster presenting their findings, generate a statistical question, use RStudio to create a statistical graphic, and present their work. The practicum includes background information on teen depression from the National Institute for Mental Health (NIMH) and provides a detailed scoring guide to evaluate the students' posters and presentations. The poster should include identified factors, a graphical representation showing association, an answer to the statistical question with justification, mention of statistical concepts, and acknowledgment of variability. The practicum concludes with a reference to completing Lab 1H before the End of Unit Project."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Teen Depression Objective",
+    "body": "The primary objective of the Teen Depression Practicum (Unit 1 Practicum 2) is for students to leverage their understanding of statistical concepts to explore a dataset from the Centers for Disease Control and Prevention (CDC). Specifically, they will aim to identify potential factors that may be linked to depression among teenagers. This involves creating visual data representations, analyzing and interpreting the collected data, and subsequently presenting their discoveries to their respective teams on the following day."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Materials for Teen Depression",
+    "body": "To complete the Teen Depression Practicum (Unit 1 Practicum 2), students will require several materials. These include the 'Teen Depression Practicum' document itself, which is likely to contain the dataset and further instructions. Additionally, students will need the 'NIMH Mental Health Sheet', providing background information on the topic. For the practical application and presentation of their findings, students will also need poster paper and markers."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Background on Teen Depression",
+    "body": "The Centers for Disease Control and Prevention (CDC) is a primary source for data concerning teenagers across various subjects. One critical area of data collection pertains to depression. The National Institute for Mental Health (NIMH), in its publication 'Children and Mental Health,' highlights that depression is a significant and prevalent issue affecting adolescents. This background information sets the context for Unit 1 Practicum 2, emphasizing the real-world relevance of analyzing data related to teen mental health."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Instructions for Teen Depression Analysis",
+    "body": "In Unit 1 Practicum 2, students are instructed to work collaboratively with a partner to analyze data related to teen depression. The first step involves carefully reading the provided 'Children and Mental Health' sheet from the National Institute for Mental Health (NIMH). Following this, students will utilize the dataset provided by the Centers for Disease Control and Prevention (CDC) to investigate the designated Research Topic."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Research Topic - Factors Associated with Teen Depression",
+    "body": "The central Research Topic for Unit 1 Practicum 2 is to investigate: 'What factors are associated with depression in teens?' This question guides students in their data analysis using the CDC dataset. The goal is to identify specific variables or conditions within the data that show a potential relationship or correlation with the prevalence of depression among adolescents."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Task Breakdown for Teen Depression Poster",
+    "body": "The task for Unit 1 Practicum 2 involves several key components to address the research topic on teen depression. Students must create a poster that visually represents their findings. This poster must include a statistical question they have formulated to investigate the research topic. Furthermore, they are required to use RStudio to generate at least one statistical graphic, which must be prominently displayed on their poster. Finally, students, along with their partners, will present their findings, substantiating their conclusions with appropriate evidence drawn from the data."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Poster Awards for Teen Depression Analysis",
+    "body": "To recognize outstanding student work in Unit 1 Practicum 2, teachers will select the top posters in specific categories. These awards include 'Best Statistical Question,' highlighting the clarity and relevance of the question posed by the students, and 'Most Interesting Statistical Graphic,' recognizing the creativity and effectiveness of the visual representation of data. These awards encourage students to think critically about their statistical inquiry and presentation."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Scoring Guide - 4-Point Response for Teen Depression",
+    "body": "A 4-point response for Unit 1 Practicum 2 demonstrates a comprehensive understanding and application of statistical concepts related to teen depression. This includes: identifying possible factors associated with depression from the dataset; creating a graphical representation that clearly shows an association; presenting a clear answer to the statistical question with a supporting justification; and ensuring the justification explicitly mentions statistical concepts learned (e.g., 'The variables are...') and acknowledges variability (e.g., 'There are between ___ and ___')."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Scoring Guide - 3-Point Response for Teen Depression",
+    "body": "A 3-point response for Unit 1 Practicum 2 indicates a strong but not fully comprehensive performance. The poster must identify possible factors associated with teen depression from the dataset and include a graphical representation showing an association. An answer to the statistical question with a justification must be presented. However, the justification needs to include either a mention of statistical concepts (e.g., 'The variables are...') OR an acknowledgment of variability (e.g., 'There are between ___ and ___'), but not necessarily both, differentiating it from a 4-point response."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Scoring Guide - 2-Point Response for Teen Depression",
+    "body": "A 2-point response for Unit 1 Practicum 2 signifies that the student has met some of the core requirements but lacks depth in justification. The poster should identify potential factors associated with teen depression, include a graphical representation showing an association, and present an answer to the statistical question with a justification. However, the justification may be incomplete or lack the specific elements required for higher scores, such as explicit mention of statistical concepts or acknowledgment of variability."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Scoring Guide - 1-Point Response for Teen Depression",
+    "body": "A 1-point response for Unit 1 Practicum 2 indicates a minimal level of achievement. The poster must identify possible factors associated with teen depression and correctly create a histogram, bar chart, scatterplot, or other relevant graphical representation. An answer to the statistical question must be presented, but the justification is missing. This means the student has identified potential factors and visualized some data but has not provided a reasoned explanation for their findings."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Scoring Guide - 0-Point Response for Teen Depression",
+    "body": "A 0-point response for Unit 1 Practicum 2 signifies a lack of essential components. The poster fails to identify possible factors associated with teen depression, or the graphical representation (histogram, dot plot, etc.) is incorrectly created or missing. Furthermore, there is no answer presented for the statistical question, and/or no justification is provided. This indicates a failure to meet the basic requirements of the practicum."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Next Steps and Related Labs",
+    "body": "Following the completion of Unit 1 Practicum 2 on Teen Depression, students are directed to proceed with Lab 1H, titled 'Our time.'. This lab is a prerequisite and must be completed prior to undertaking the 'End of Unit Project'. The directive is clearly indicated with a 'Next Day' heading and a link to Lab 1H, emphasizing the sequential nature of the learning activities within the unit."
+  },
+  {
+    "title": "Centers for Disease Control and Prevention (CDC) Data",
+    "body": "The Centers for Disease Control and Prevention (CDC) is an agency responsible for collecting comprehensive data on various aspects of public health, including information pertaining to teenagers. In the context of Unit 1 Practicum 2, the CDC dataset is utilized to investigate factors associated with depression in teens. This data serves as the empirical basis for students to apply statistical concepts, generate graphical representations, and draw conclusions about potential correlations relevant to adolescent mental health."
+  },
+  {
+    "title": "National Institute for Mental Health (NIMH) - Children and Mental Health Sheet",
+    "body": "The National Institute for Mental Health (NIMH) is a key source of information regarding mental health issues. Their publication, the 'Children and Mental Health' sheet, provides crucial background context for Unit 1 Practicum 2. This document highlights the significance of depression as a problem among teenagers, underscoring the importance of the practicum's research topic. Students are required to read this sheet as part of their preparation for analyzing the CDC data."
+  },
+  {
+    "title": "Statistical Concepts and Variability in Data Analysis",
+    "body": "Unit 1 Practicum 2 emphasizes the application of statistical concepts and the acknowledgment of variability in data analysis. When presenting justifications for their findings on teen depression, students are encouraged to mention specific statistical concepts they have learned (e.g., identifying variables). Crucially, they must also acknowledge the inherent variability in the data, often by stating the range of values observed (e.g., 'There are between ___ and ___'). This demonstrates a deeper statistical understanding beyond simple observations."
+  },
+  {
+    "title": "RStudio for Data Visualization in Unit 1 Practicum 2",
+    "body": "RStudio is the designated software tool for students to use in Unit 1 Practicum 2 to create statistical graphics. The task requires students to generate at least one graphic using RStudio that visually represents potential associations between factors and depression in teens, based on the CDC dataset. This graphic must be included on their final poster presentation, serving as key evidence to support their findings and answer their statistical question."
+  },
+  {
+    "title": "Poster Presentation Requirements for Unit 1 Practicum 2",
+    "body": "The culmination of Unit 1 Practicum 2 involves creating and presenting a poster that addresses the research topic on teen depression. The poster must visually communicate the findings derived from the CDC data. Key elements required on the poster include: identification of possible factors associated with teen depression, a statistical question posed by the students, a statistical graphic generated in RStudio, the answer to the statistical question, and a justification for that answer. The poster serves as the primary artifact for assessment and presentation."
+  }
+]

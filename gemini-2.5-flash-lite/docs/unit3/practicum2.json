@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract of Practicum: Let’s Build a Survey!",
+    "body": "This practicum, 'Let’s Build a Survey!', is designed to reinforce learning from Unit 3, Lessons 9 through 14. Students, working in teams, will design a survey by selecting a topic, formulating a research and statistical question, identifying the population and sampling method, determining sample size, creating five non-leading survey questions, and identifying relevant statistics and parameters. The final output will be a typed paper detailing the designed survey."
+  },
+  {
+    "title": "Practicum Objective: Survey Design",
+    "body": "The primary objective of this practicum is for students to design a survey. A key skill students will develop is the ability to formulate non-leading questions, ensuring that the survey elicits unbiased responses and accurately reflects the opinions or data of the surveyed population."
+  },
+  {
+    "title": "Materials for Practicum: Let’s Build a Survey!",
+    "body": "The required material for 'Practicum: Let’s Build a Survey!' is the PDF document titled 'Practicum: Let’s Build a Survey!'. This resource, located at [LMR_U3_Practicum_Build_a_Survey](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Build_a_Survey.pdf), will guide students through the process of designing their survey."
+  },
+  {
+    "title": "Survey Design Task: Topic Selection",
+    "body": "As part of 'Practicum: Let’s Build a Survey!', students are required to select a topic for their survey. The available topics include Social Media, Entertainment, Sports, The Environment, Health, Education, or any other topic of interest to the team. This selection forms the foundation for the subsequent survey design steps."
+  },
+  {
+    "title": "Survey Design Task: Question Formulation",
+    "body": "Following topic selection in 'Practicum: Let’s Build a Survey!', teams must create two types of questions. First, a research question related to their chosen topic. Second, a statistical question that is directly connected to the research question. These questions will guide the entire survey design process."
+  },
+  {
+    "title": "Survey Design Task: Population and Sampling",
+    "body": "In 'Practicum: Let’s Build a Survey!', students must identify the population of interest for their survey. Furthermore, they need to describe the method they will use to select a sample from this population. The chosen sampling method should be suitable for making generalizations about the entire population of interest."
+  },
+  {
+    "title": "Survey Design Task: Sample Size Determination",
+    "body": "A crucial step in 'Practicum: Let’s Build a Survey!' involves determining the sample size. After identifying the population and the sampling method, teams must decide on the specific number of individuals who will be included in their sample. This decision impacts the reliability of the survey results."
+  },
+  {
+    "title": "Survey Design Task: Creating Non-Leading Questions",
+    "body": "For 'Practicum: Let’s Build a Survey!', teams are tasked with creating five survey questions. These questions must be designed to address the statistical question formulated earlier. A critical aspect of this task is ensuring that each question is non-leading, meaning it does not suggest or encourage a particular answer, thereby maintaining neutrality and accuracy."
+  },
+  {
+    "title": "Survey Design Task: Statistics and Parameters",
+    "body": "In the final stages of 'Practicum: Let’s Build a Survey!', students must identify a statistic that can be used to summarize the responses gathered from their survey. Additionally, they should attempt to identify a corresponding parameter that this statistic might estimate for the population. This involves understanding the difference between sample and population measures."
+  },
+  {
+    "title": "Survey Design Task: Final Submission",
+    "body": "The culmination of 'Practicum: Let’s Build a Survey!' is the submission of a typed paper. This document should comprehensively detail the survey that the team has designed, including the chosen topic, research and statistical questions, population and sampling strategy, sample size, the five non-leading survey questions, and the identified statistic and parameter."
+  },
+  {
+    "title": "Unit 3 Lessons Context",
+    "body": "The 'Practicum: Let’s Build a Survey!' is directly linked to the knowledge gained in Unit 3, specifically covering content from Lessons 9 through 14. These lessons likely provided the theoretical background and practical skills necessary for survey design, including concepts like research questions, statistical questions, populations, samples, and non-leading questions."
+  },
+  {
+    "title": "Non-Leading Questions in Survey Design",
+    "body": "A core principle emphasized in 'Practicum: Let’s Build a Survey!' is the creation of non-leading questions. This means survey questions should be phrased neutrally to avoid influencing the respondent's answer. For example, instead of 'Don't you agree that recycling is important?', a non-leading question would be 'How important do you consider recycling?' This ensures unbiased data collection."
+  },
+  {
+    "title": "Research Question vs. Statistical Question",
+    "body": "In 'Practicum: Let’s Build a Survey!', students differentiate between a research question and a statistical question. A research question is broad and topic-oriented (e.g., 'What are the social media habits of teenagers?'). A statistical question is more specific and measurable, requiring data to answer (e.g., 'What is the average number of hours teenagers spend on social media per day?')."
+  },
+  {
+    "title": "Population and Sample in Survey Design",
+    "body": "The 'Practicum: Let’s Build a Survey!' requires defining the population of interest and the sampling method. The population is the entire group the survey aims to understand (e.g., all high school students in a district). The sample is a subset of the population from which data is collected (e.g., 100 randomly selected students). Proper sampling allows generalizations from the sample to the population."
+  },
+  {
+    "title": "Statistic vs. Parameter",
+    "body": "Within 'Practicum: Let’s Build a Survey!', understanding the difference between a statistic and a parameter is crucial. A statistic is a numerical summary of a sample (e.g., the average height of students in a sample). A parameter is a numerical summary of the entire population (e.g., the average height of all students in the school). Surveys aim to estimate population parameters using sample statistics."
+  }
+]

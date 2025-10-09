@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract for Unit 3, Section 3",
+    "body": "This section focuses on understanding surveys as a method for data collection from a sample of a target population. Key concepts include the definition of a sample, the importance of representativeness and random sampling, and the distinction between a sample and a census (collecting data from the entire population). It highlights the challenges of sampling error and bias in survey analysis. Learning objectives span statistical reasoning (estimating population parameters, margin of error, types of studies), data science principles (minimizing bias and sampling error, question wording, sample size), and applied computational thinking using RStudio (creating random samples, informal confidence intervals). Language objectives focus on describing surveys, discussing sampling techniques, and connecting informal to formal confidence intervals. The American Time-Use Survey (ATUS) is provided as a data resource."
+  },
+  {
+    "title": "Enduring Understandings: Surveys and Sampling",
+    "body": "A survey is a fundamental data collection method that gathers information from a sample, which is a subset of a larger target population. For the survey results to be meaningful, the sample must accurately represent the population. Random sampling is a crucial technique employed to ensure that every member of the population has an equal chance of being included in the sample, thereby promoting representativeness. In contrast, a census is a specific type of survey where data is collected from every single individual within the population. It is important to be aware that errors and biases can arise during the sampling process, leading to sampling error and various forms of bias, which can negatively impact the accuracy of analyses derived from survey data."
+  },
+  {
+    "title": "Engagement: Family Feud Video Clip",
+    "body": "To initiate the learning process for this section, students will engage with a video clip from the popular game show *Family Feud*. This activity is designed to prompt initial thinking about the components and nature of surveys. The video provides a relatable and engaging context for discussing how survey questions are formulated and how responses reflect a sample of opinions or behaviors. The video can be accessed via the following URL: https://www.youtube.com/watch?v=-3Nk9t7-rCs. An embedded player is also provided for convenient viewing."
+  },
+  {
+    "title": "Learning Objectives: Statistical/Mathematical",
+    "body": "In this section, students will develop statistical and mathematical understanding related to surveys and sampling. Specifically, they will learn to use data collected from a sample survey to estimate population means or proportions (S-IC B-4). This involves understanding how to develop a margin of error through simulation models that mimic random sampling. Students will also grasp the core concept of statistics as a process for making inferences about population parameters based on data from a random sample (S-IC 1). Furthermore, they will learn to recognize the purposes of and key differences among various data collection methods: sample surveys, experiments, and observational studies, with an emphasis on how randomization is applied in each (S-IC 3). Finally, students will gain the ability to critically evaluate reports that are based on data (S-IC 6)."
+  },
+  {
+    "title": "Learning Objectives: Data Science",
+    "body": "From a data science perspective, this section aims to equip students with critical knowledge about conducting and interpreting surveys. A primary objective is to understand that bias and sampling error are detrimental to the quality of survey data and should be actively minimized. Students will learn how specific factors, such as the precise wording of survey questions and the selection criteria for participants, can inadvertently introduce bias. Additionally, they will discover that sampling error, the difference between sample results and the true population values, can be reduced by collecting larger random samples from the population."
+  },
+  {
+    "title": "Learning Objectives: Applied Computational Thinking Using RStudio",
+    "body": "This section incorporates practical application of computational thinking skills using RStudio (or Posit Cloud). Students will engage in hands-on activities designed to reinforce their understanding of sampling and estimation. Key objectives include the ability to create random samples of varying sizes from a dataset to practice making estimates about a population. This practical exercise will help them visualize the impact of sample size on estimation accuracy. Furthermore, students will learn to construct informal confidence intervals, likely based on sample medians, providing a foundational understanding of interval estimation before potentially moving to more formal methods."
+  },
+  {
+    "title": "Language Objectives: Survey and Sampling Communication",
+    "body": "This section includes specific language objectives to enhance students' communication skills related to surveys and sampling. Firstly, students will be able to accurately describe the fundamental attributes and characteristics of a survey. Secondly, they will actively participate in both partner and whole-group discussions, using language to articulate and express their comprehension of various sampling techniques. This fosters peer learning and collaborative understanding. Thirdly, students will connect the concept of informal confidence intervals, which they might explore through simulations or basic calculations, to the more formal statistical confidence intervals typically implemented and interpreted within software like RStudio/Posit Cloud."
+  },
+  {
+    "title": "Data Resource: American Time-Use Survey (ATUS)",
+    "body": "A key data resource for this section is the American Time-Use Survey (ATUS). This dataset provides valuable information on how individuals spend their time, serving as a rich source for practicing survey analysis and sampling techniques. Students will be able to load and utilize this dataset within their RStudio environment using the command ```data(atus)```. This hands-on experience with a real-world survey dataset will allow them to apply the concepts learned regarding sampling, estimation, and potential sources of error."
+  },
+  {
+    "title": "Sample vs. Census",
+    "body": "In survey methodology, a crucial distinction exists between a sample and a census. A survey, in its general form, involves collecting data from a sample, which is a carefully selected subset or fraction of a larger target population. The goal is for this sample to be representative of the entire group. However, a census represents a special, and often more comprehensive, type of survey. In a census, data is collected from every single member of the population being studied. While a census provides complete information, it is often impractical or too costly to conduct. Therefore, surveys using representative samples are commonly employed to make inferences about the population."
+  },
+  {
+    "title": "Random Sampling and Representativeness",
+    "body": "Ensuring that a sample accurately reflects the population from which it is drawn is paramount for the validity of survey results. This principle is known as representativeness. Random sampling is the primary statistical technique used to achieve this goal. By employing random sampling methods, every individual within the target population is given an equal and independent chance of being selected for the sample. This lack of systematic preference in selection helps to minimize bias and increases the likelihood that the characteristics of the sample will mirror those of the population, allowing for more reliable generalizations."
+  },
+  {
+    "title": "Sampling Error and Bias in Surveys",
+    "body": "When data is collected from a sample rather than an entire population, there is an inherent possibility of discrepancies between the sample results and the true population values. This difference is termed sampling error. It arises simply because a sample is only a portion of the population. In addition to sampling error, surveys are susceptible to various forms of bias. Bias can be introduced through flawed question design (e.g., leading questions), selection issues (e.g., non-random sampling, undercoverage), or response problems (e.g., social desirability bias). Both sampling error and bias pose significant challenges that can distort the findings and conclusions drawn from survey data, necessitating careful attention during the survey design and analysis phases."
+  },
+  {
+    "title": "RStudio Activity: Creating Random Samples",
+    "body": "As part of the applied computational thinking objectives for this section, students will utilize RStudio to create random samples. This practical exercise involves selecting subsets of data from a larger population dataset (like the ATUS). Students will experiment with generating samples of different sizes. By comparing estimates derived from these varying sample sizes, they can observe firsthand how sample size influences the precision of population estimates. This hands-on approach reinforces the concept that larger random samples generally lead to more reliable inferences about the population."
+  },
+  {
+    "title": "RStudio Activity: Informal Confidence Intervals",
+    "body": "Building on the practical skills developed in RStudio, students will learn to construct informal confidence intervals. These intervals provide a range within which the true population parameter is likely to lie, based on the sample data. The focus is on creating 'informal' intervals, which may be based on simpler statistical measures like the sample median, possibly augmented by a calculation related to the sample range or interquartile range. This activity serves as an introduction to the concept of confidence intervals, bridging the gap between basic estimation and the more formal statistical confidence intervals that are rigorously defined and commonly used in statistical inference."
+  },
+  {
+    "title": "S-IC B-4: Estimating Population Parameters from Samples",
+    "body": "Standard S-IC B-4 focuses on the practical application of sample survey data for statistical inference. The objective is for students to use data gathered from a sample survey to estimate key population characteristics, specifically the population mean or proportion. A critical component of this objective is the development of a margin of error. This margin quantifies the uncertainty associated with using a sample to estimate population values. Students will explore how to derive this margin of error, often through the use of simulation models that accurately represent the process of random sampling from the population."
+  },
+  {
+    "title": "S-IC 1: Statistics for Population Inference",
+    "body": "This standard, S-IC 1, lays the foundational understanding of statistics as a discipline focused on learning about populations. It emphasizes that statistics provides a systematic process for making inferences—educated guesses or conclusions—about unknown population parameters. These inferences are based entirely on data collected from a random sample drawn from that specific population. The core idea is that by studying a representative part (the sample), we can reliably understand characteristics of the whole (the population), even when direct measurement of the whole is impossible or impractical."
+  },
+  {
+    "title": "S-IC 3: Types of Data Collection Studies",
+    "body": "Standard S-IC 3 addresses the critical need to differentiate between various methods used to collect data. Students will learn to recognize the distinct purposes and inherent differences among sample surveys, experiments, and observational studies. A key aspect of this understanding involves explaining the role and importance of randomization within each of these study designs. For sample surveys, randomization helps ensure a representative sample. In experiments, randomization is used to assign treatments, helping to establish cause-and-effect relationships. In observational studies, randomization is typically not feasible, highlighting its limitations."
+  },
+  {
+    "title": "S-IC 6: Evaluating Data-Based Reports",
+    "body": "The ability to critically assess information is a vital skill in today's data-driven world. Standard S-IC 6 focuses on developing this critical evaluation capability. Students will learn to evaluate reports that present data and conclusions drawn from that data. This involves questioning the source of the data, the methods used for collection and analysis (including potential biases and errors), the validity of the conclusions drawn, and the overall trustworthiness of the report. Applying this standard helps students become more discerning consumers of information presented in the media, research, and public discourse."
+  }
+]

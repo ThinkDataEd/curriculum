@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Abstract of Unit 1 Lesson 10: Making Histograms",
+    "body": "This lesson introduces histograms as a method for representing the distribution of numerical data, contrasting them with dotplots. Students learn that histograms group observations into bins and display the frequency or proportion of data within each bin using bars. The lesson emphasizes the importance of clear, precise instructions by having students create algorithms for making a peanut butter and jelly sandwich, then apply this concept to developing algorithms for constructing histograms from sleep data. Key vocabulary includes histogram, bin, bin widths, input, output, algorithm, left-hand rule, and right-hand rule. Essential concepts highlight that histograms can be created algorithmically and their shapes can be described using technical terms, linking this to computational thinking."
+  },
+  {
+    "title": "Objective: Understanding Histograms",
+    "body": "The primary objective of Unit 1 Lesson 10 is for students to grasp the concept of a histogram. Students will learn that a histogram visually represents data by grouping observations into categories called bins. The height of each bar in a histogram indicates the number of observations (or the proportion of observations) that fall within that specific bin. This is a key distinction from dotplots, which show individual observations. Therefore, the lesson focuses on understanding how data is aggregated into bins for representation in a histogram."
+  },
+  {
+    "title": "Materials for Making Histograms and Sandwiches",
+    "body": "Unit 1 Lesson 10 requires specific materials for its hands-on activities. To illustrate the concept of algorithms and clear instructions, students will use: peanut butter, jelly, a loaf of sliced bread, a butter knife, and a plate for making a sandwich. For the data representation aspect, students will need the 'Sleep' dotplots previously created in Lesson 9, poster paper, and markers. These materials facilitate both the sandwich-making analogy and the practical construction of histograms."
+  },
+  {
+    "title": "Vocabulary: Algorithm, Histogram, and Bins",
+    "body": "This lesson introduces several key vocabulary terms crucial for understanding data representation and computational thinking. An **algorithm** is defined as a process or set of rules for solving a problem. A **histogram** is an approximate representation of the distribution of numerical data. **Bins** are the categories or ranges into which data is grouped in a histogram, with each bin represented by a bar. The height of the bar corresponds to the number of data points within that bin. **Bin widths** refer to the size or range covered by each bin on the x-axis."
+  },
+  {
+    "title": "Vocabulary: Input, Output, Left-hand Rule, and Right-hand Rule",
+    "body": "Unit 1 Lesson 10 also defines other essential vocabulary. **Input** refers to the data or values provided to an algorithm. **Output** is the result produced by an algorithm. For handling data points that fall exactly on the boundary between two bins, two rules are introduced: the **left-hand rule**, where observations are placed in the bin to the left, and the **right-hand rule**, where observations are placed in the bin to the right. Consistency in applying one of these rules is vital for accurate histogram construction."
+  },
+  {
+    "title": "Essential Concepts: Algorithms and Data Distribution",
+    "body": "The core concepts of Unit 1 Lesson 10 revolve around the creation of histograms using algorithms and the classification of data distributions. Students learn that histograms provide a visual summary of data distributions, which can be described using specific technical terms related to their shapes. Furthermore, the lesson emphasizes that developing clear algorithms for routine tasks, like constructing a histogram, is a fundamental aspect of computational thinking. This involves breaking down a process into a series of precise, sequential steps."
+  },
+  {
+    "title": "Lesson Activity: The Sandwich Algorithm Analogy",
+    "body": "Unit 1 Lesson 10 begins with an engaging activity to illustrate the importance of clear instructions and algorithms. Students are asked to provide step-by-step instructions (an algorithm) for making a peanut butter and jelly sandwich. The teacher then literally follows these instructions, highlighting ambiguities and the need for precise language. This activity serves as an analogy for how computers follow instructions and reinforces the concept of input (the instructions) and output (the sandwich). A crucial note is made regarding peanut allergies."
+  },
+  {
+    "title": "Developing the Histogram Algorithm",
+    "body": "Following the sandwich analogy, Unit 1 Lesson 10 transitions to developing an algorithm for creating a histogram. Students use the 'hours of sleep' dotplots from Lesson 9 as their data source. They learn that a histogram groups data into bins, with bars representing the frequency of data within each bin. The lesson defines bins and bin widths and discusses the crucial concept of handling data points that fall on bin boundaries using either the left-hand rule or the right-hand rule to ensure consistency."
+  },
+  {
+    "title": "Modeling Histogram Creation and Data Boundaries",
+    "body": "In Unit 1 Lesson 10, the teacher models the creation of a histogram using the 'hours of sleep' data. This involves setting up the x-axis with appropriate bins and determining the frequencies for each bin. A critical discussion point arises regarding values that fall exactly on bin boundaries, such as 6 hours. The lesson introduces and explains the **left-hand rule** (placing the value in the bin to the left) and the **right-hand rule** (placing the value in the bin to the right). The choice depends on how the bins are defined and must be applied consistently."
+  },
+  {
+    "title": "Student Algorithm Development for Histograms",
+    "body": "Students in Unit 1 Lesson 10 work in teams to create their own algorithms for constructing a histogram. They are given the 'hours of sleep they hope to get on Saturday' dotplot data and are told their algorithm must be precise and work for any given bin width (input). The output of their algorithm will be a histogram. This activity reinforces the principles of computational thinking by requiring students to define clear, sequential steps for transforming raw data into a visual representation, emphasizing the iterative process of refining instructions."
+  },
+  {
+    "title": "Refining Algorithms and Discussing Histogram Benefits",
+    "body": "Unit 1 Lesson 10 involves refining the algorithms developed by student teams for histogram creation. After students present their algorithms, the teacher follows them literally, similar to the sandwich activity, to identify areas of ambiguity. Points of discussion include where bins should start, how to handle boundary values consistently (left-hand vs. right-hand rule), and the importance of a single, repeatable process. Following multiple iterations, students discuss the gains (seeing the overall distribution shape) and losses (losing individual data points) compared to the original dotplot."
+  },
+  {
+    "title": "Class Scribes and Homework Assignment",
+    "body": "As a concluding activity in Unit 1 Lesson 10, a team of students acts as 'Class Scribes.' Their role is to present a brief summary identifying the three most important topics covered during the lesson. This reinforces learning and communication skills. The homework assignment directs students to continue collecting nutritional facts data using the 'Food Habits' Participatory Sensing campaign, either on their smart devices or via a web browser, preparing them for future data analysis tasks."
+  },
+  {
+    "title": "Vocabulary: Histogram Definition",
+    "body": "A **histogram** is a graphical representation used to show the distribution of numerical data. It displays data by dividing the range of values into a series of intervals, called bins. For each bin, a bar is drawn whose height represents the frequency (the count of data points) or relative frequency (the proportion of data points) that fall within that bin. Histograms are useful for understanding the shape, center, and spread of a dataset, as well as for identifying outliers. Unlike a bar chart, histograms typically have no gaps between the bars, as they represent continuous data."
+  },
+  {
+    "title": "Vocabulary: Bin, Bin Widths, Left-hand Rule, Right-hand Rule",
+    "body": "In the context of histograms, a **bin** is a specific range of values into which data points are grouped. The **bin widths** refer to the size of the interval covered by each bin; for example, a bin width of 5 might cover the range 0-5, 5-10, etc. When a data point falls exactly on the boundary between two bins, a rule must be consistently applied. The **left-hand rule** dictates that such a data point is included in the bin to its left. Conversely, the **right-hand rule** dictates that the data point is included in the bin to its right. Consistency is crucial for accurate data representation."
+  },
+  {
+    "title": "Vocabulary: Algorithm, Input, and Output",
+    "body": "An **algorithm** is a step-by-step procedure or a set of rules designed to perform a specific task or solve a particular problem. In computational thinking, algorithms are fundamental for instructing computers. The **input** refers to the data or information that is fed into an algorithm to initiate its process. The **output** is the result or value that the algorithm produces after executing the set of rules. Understanding input and output is essential for designing and implementing effective algorithms, whether for making a sandwich or creating a histogram."
+  },
+  {
+    "title": "Essential Concept: Histograms and Computational Thinking",
+    "body": "A key concept in Unit 1 Lesson 10 is that histograms can be generated using algorithms. This process ties directly into computational thinking, which involves formulating problems and their solutions in ways that a computer can execute. Students learn to describe tasks, like creating a histogram, through a series of precise steps. The shapes of the distributions displayed in histograms can be classified using technical terms, further enhancing data analysis skills. This lesson bridges the gap between understanding data visualization and the systematic process of computational problem-solving."
+  },
+  {
+    "title": "Activity: The Sandwich Algorithm",
+    "body": "Unit 1 Lesson 10 uses a sandwich-making activity to teach the concept of algorithms. Students are prompted to create a detailed, step-by-step algorithm for making a peanut butter and jelly sandwich. The teacher then acts as a computer, interpreting the instructions literally. This highlights the necessity for precise language, clear sequencing, and the definition of specific actions. The activity underscores that an algorithm needs well-defined **input** (the instructions) and produces a specific **output** (the sandwich). A warning about peanut allergies is included for safety."
+  },
+  {
+    "title": "Transitioning to Histogram Algorithms",
+    "body": "After mastering the concept of algorithms through the sandwich-making analogy, Unit 1 Lesson 10 guides students to develop algorithms for constructing histograms. They will use the 'hours of sleep' dotplots from the previous lesson. The core idea is that a histogram represents data grouped into **bins** with defined **bin widths**, showing frequencies. Students will create a set of rules (an algorithm) to transform the dotplot data into a histogram, reinforcing the connection between algorithmic thinking and data visualization techniques."
+  },
+  {
+    "title": "Modeling Histogram Creation with Boundaries",
+    "body": "During Unit 1 Lesson 10, the teacher models creating a histogram from sleep data. This involves defining bins (e.g., 0-3, 3-6 hours) and counting data points within each. A critical point of instruction is how to handle data values that fall exactly on a bin boundary, such as 6 hours. Students learn about the **left-hand rule** (including the boundary value in the bin to the left) and the **right-hand rule** (including it in the bin to the right). The teacher emphasizes that whichever rule is chosen must be applied consistently throughout the dataset to ensure an accurate representation."
+  },
+  {
+    "title": "Student-Led Histogram Algorithm Creation",
+    "body": "In Unit 1 Lesson 10, student teams are tasked with developing their own algorithms for creating a histogram from the 'hours of sleep they hope to get on Saturday' dotplot. Their algorithm must be robust enough to handle varying **input** values for **bin width**. This hands-on practice solidifies their understanding of algorithmic processes and data transformation. The process involves iterative refinement, where students write, test, and revise their steps to ensure precision and clarity, leading to the **output** of a histogram."
+  },
+  {
+    "title": "Comparing Dotplots and Histograms",
+    "body": "Unit 1 Lesson 10 concludes with a class discussion comparing dotplots and histograms. Students analyze what has been gained and lost by transforming data from a dotplot to a histogram. They recognize that histograms provide a clearer view of the overall distribution's shape (e.g., symmetry, skewness) and trends across the entire dataset. However, they also acknowledge the loss of information about individual data points, as specific values are aggregated within bins. This comparison highlights the strengths and weaknesses of different data visualization methods."
+  },
+  {
+    "title": "Homework: Food Habits Data Collection",
+    "body": "The homework for Unit 1 Lesson 10 encourages students to continue their engagement with data collection. They are instructed to gather nutritional facts data using the 'Food Habits' Participatory Sensing campaign. This can be done either through smart device applications or a web browser interface. This ongoing data collection activity serves to reinforce the practical application of data gathering techniques and prepares students for future lessons involving data analysis and interpretation."
+  }
+]

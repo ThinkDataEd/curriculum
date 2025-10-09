@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Abstract of Practicum: Win Win Win",
+    "body": "This document outlines the 'Win Win Win' practicum for Unit 2, focusing on creating and combining simulations to assess probabilities. Students will simulate the California lottery 'Daily 3' game, which involves drawing 3 numbers between 0-9 with replacement. The practicum requires students to write code to simulate this game, perform 500 simulations to estimate probabilities of specific number matches (first 2 or last 2), and compare these probabilities. It also involves collaborative simulations within teams of 4 to estimate the overall probability of winning the 'Daily 3' game. A one-page report including the code is the final deliverable."
+  },
+  {
+    "title": "Practicum Objective: Win Win Win",
+    "body": "The primary objective of the 'Win Win Win' practicum is for students to gain practical experience in creating and combining simulations. Through these simulations, students will learn to assess and compute probabilities related to a specific game scenario, enhancing their understanding of statistical concepts and computational methods."
+  },
+  {
+    "title": "Materials for Practicum: Win Win Win",
+    "body": "The 'Win Win Win' practicum requires specific materials for students to successfully complete the activities. The essential material is the 'Win Win Win Practicum' PDF document, which contains the detailed instructions and context for the simulation tasks. This document is referenced as [LMR_U2_Practicum_Win_Win_Win](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_Win_Win_Win.pdf)."
+  },
+  {
+    "title": "Understanding the Daily 3 Game",
+    "body": "The California lottery game 'Daily 3' is the central focus of this practicum. This game involves the daily drawing of three numbers, each ranging from 0 to 9. A crucial aspect of the game is that the numbers are drawn with replacement, meaning a number can be drawn multiple times. While winners can receive a few hundred dollars, the maximum prize is awarded only if a player correctly guesses all three drawn numbers in the exact order. This setup provides a clear scenario for probability simulation."
+  },
+  {
+    "title": "Simulation Task 1: Simulate Daily 3 Once",
+    "body": "As part of the 'Win Win Win' practicum, students are required to write code that accurately simulates a single round of the 'Daily 3' lottery game. This task builds upon the concepts learned in previous labs, specifically [Lab 2C](lab2c.md) (*Which song plays next?*) and [Lab 2D](lab2d.md) (*Queue it up!*). The code should reflect the rules of the 'Daily 3', including the selection of three numbers between 0-9 with replacement."
+  },
+  {
+    "title": "Simulation Task 2: Simulate Daily 3 500 Times",
+    "body": "Following the creation of the code to simulate the 'Daily 3' game once, students must leverage this code to perform 500 simulations. This larger number of trials is necessary to gather sufficient data for reliable probability estimations. This task directly applies the simulation logic developed in the previous step to a more extensive set of virtual game plays."
+  },
+  {
+    "title": "Probability Calculation 1: First 2 Numbers Correct",
+    "body": "Using the results from simulating the 'Daily 3' game 500 times, students need to compute the estimated probability of correctly guessing the first two numbers drawn. This calculation involves analyzing the simulation outputs to determine the frequency with which the first two numbers matched the player's chosen numbers in the correct order. This task helps in understanding conditional probability within the context of the game."
+  },
+  {
+    "title": "Probability Comparison: First 2 vs. Last 2 Numbers",
+    "body": "Students are prompted to compare the estimated probability of correctly guessing the last two numbers of the 'Daily 3' with the probability of guessing the first two numbers correctly. They must determine if the probability for the last two numbers is less than, the same as, or more than that for the first two numbers and provide a justification for their reasoning. This question probes the understanding of independent events and probability in sequential draws."
+  },
+  {
+    "title": "Collaborative Simulation Task: Group Estimates",
+    "body": "The 'Win Win Win' practicum includes a collaborative component where students work in teams of 4. Each team member will independently choose three numbers for the 'Daily 3' game and simulate it 500 times using their code. Subsequently, the team will combine their individual simulation results to derive a more robust, aggregated estimate of the probability of winning the 'Daily 3' game. This pooling of data aims to improve the accuracy of the probability estimate."
+  },
+  {
+    "title": "Final Deliverable: One-Page Report",
+    "body": "The culmination of the 'Win Win Win' practicum is the submission of a one-page report. This report should encapsulate all the work done by the students, including the code they developed for simulating the 'Daily 3' game. The report will detail the steps taken, the results obtained from the simulations, the computed probabilities, and the comparative analysis. It serves as a comprehensive summary of their learning and findings from the practicum."
+  },
+  {
+    "title": "Concept: Simulation",
+    "body": "Simulation is a technique used to model the behavior of a real-world process or system over time. In the 'Win Win Win' practicum, students create a simulation of the 'Daily 3' lottery game. This involves writing code that mimics the random drawing of numbers, with replacement, according to the game's rules. By running the simulation multiple times (e.g., 500 times), students can gather data to estimate probabilities and understand the likelihood of different outcomes, such as winning the lottery."
+  },
+  {
+    "title": "Concept: Probability",
+    "body": "Probability is a measure of the likelihood that an event will occur. In this practicum, students calculate the estimated probability of specific outcomes in the 'Daily 3' lottery game. This includes the probability of guessing the first two numbers correctly and the overall probability of winning. Probability is calculated as the ratio of the number of favorable outcomes to the total number of possible outcomes. In simulations, it's estimated by observing the frequency of an event over many trials."
+  },
+  {
+    "title": "Concept: Replacement (in Probability)",
+    "body": "In probability and statistics, 'with replacement' means that after an item is selected from a set, it is returned to the set before the next selection. This is crucial in the 'Daily 3' lottery game, where numbers are drawn with replacement. It signifies that each draw is an independent event, and the pool of possible numbers (0-9) remains the same for all three draws. This impacts the probability calculations, as the chance of drawing any specific number remains constant for each position."
+  },
+  {
+    "title": "Concept: Independent Events",
+    "body": "Independent events are events where the outcome of one event does not affect the outcome of another event. In the 'Daily 3' game, since numbers are drawn with replacement, each number drawn is an independent event. The probability of drawing a '7' on the first draw does not change the probability of drawing a '7' on the second or third draw. Understanding independent events is key to correctly calculating probabilities for sequential guesses in the game."
+  },
+  {
+    "title": "Code Snippet Idea: Simulate One Daily 3 Draw",
+    "body": "To simulate one draw of the 'Daily 3' game, you would need to generate three random numbers between 0 and 9. Since the numbers are drawn with replacement, each generation is independent. For example, in Python, you could use the `random.randint(0, 9)` function three times. The result would be a sequence of three digits, such as [5, 0, 5]. This forms the basis for simulating the game once, as required in Task 1 of the practicum."
+  },
+  {
+    "title": "Code Snippet Idea: Simulating Multiple Draws",
+    "body": "To simulate the 'Daily 3' game 500 times, you would place the code for simulating a single draw (generating three random numbers) inside a loop that runs 500 times. Each iteration of the loop would represent one game simulation. You would store the results of each simulation, perhaps in a list of lists, to later analyze frequencies and calculate estimated probabilities, fulfilling Task 2 of the practicum."
+  },
+  {
+    "title": "Context: Daily 3 Lottery Game Rules",
+    "body": "The 'Daily 3' is a lottery game where three numbers are drawn daily from the set {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. The draws occur with replacement, meaning a number can be picked more than once. To win the top prize, a player must match all three numbers in the exact order they are drawn. This set of rules defines the parameters for the simulations students will create in the 'Win Win Win' practicum."
+  },
+  {
+    "title": "Connection to Previous Labs: Lab 2C and Lab 2D",
+    "body": "The 'Win Win Win' practicum builds upon the skills and knowledge acquired in [Lab 2C](lab2c.md) (*Which song plays next?*) and [Lab 2D](lab2d.md) (*Queue it up!*). These labs likely introduced students to the concepts and implementation of simulations and probability calculations. The practicum requires students to apply these foundational understanding to a new scenario, the 'Daily 3' lottery game, and to extend their abilities by combining simulations and analyzing results."
+  }
+]

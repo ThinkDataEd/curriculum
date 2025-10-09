@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract for Unit 2 Lesson 5: Human Boxplots",
+    "body": "This lesson introduces students to boxplots as a tool for comparing groups of data. It covers the computation and interpretation of the Interquartile Range (IQR) as a measure of spread. The lesson involves a hands-on activity where students physically represent data points to construct a human boxplot. Key vocabulary includes boxplot, quartiles (Q1, Q3), quantiles, minimum, maximum, five-number summary, range, and IQR. Students will learn to identify these components and understand their significance in describing data distributions. The lesson concludes with a homework assignment requiring students to apply their knowledge to real-world data."
+  },
+  {
+    "title": "Unit 2 Lesson 5: Objective and Materials",
+    "body": "The objective of Unit 2 Lesson 5 is for students to learn how and when to effectively use boxplots for comparing groups of data. A significant part of this objective is understanding and computing the Interquartile Range (IQR), another measure of data spread. The materials required for this lesson include poster paper (3-4 feet long), tape, markers, and the 'Ages of Oscar Winners' handout. The poster paper needs advance preparation; it must be labeled and posted in the classroom before the lesson begins, specifically for step 9 of the activity where students will create a visual representation of the median."
+  },
+  {
+    "title": "Vocabulary: Boxplot",
+    "body": "A boxplot is a specialized type of diagram used in statistics. It visually represents the distribution of a dataset by displaying its quartiles. Specifically, a boxplot shows the first quartile (Q1), the median (Q2), and the third quartile (Q3) within a rectangular box. Lines, often called 'whiskers', extend from the box to indicate the minimum and maximum values of the dataset, provided they are within a certain range of the quartiles. This visual representation is particularly useful for comparing the spread and central tendency of multiple datasets."
+  },
+  {
+    "title": "Vocabulary: Quartiles and Quantiles",
+    "body": "Quartiles are values that divide a dataset into four equal parts. They are specific types of quantiles. The first quartile (Q1) is the value below which 25% of the data falls. The median (Q2) is the value below which 50% of the data falls. The third quartile (Q3) is the value below which 75% of the data falls. Quantiles, in general, are points taken at regular intervals from the cumulative distribution function of a random variable. In simpler terms, they represent a proportion of the data that lies below a certain value, with quartiles representing quarters (25% intervals)."
+  },
+  {
+    "title": "Vocabulary: Five-Number Summary",
+    "body": "The five-number summary is a set of five key values that provide a concise overview of a dataset's distribution. These five numbers are: the minimum value (the smallest data point), the first quartile (Q1), the median (Q2), the third quartile (Q3), and the maximum value (the largest data point). This summary is foundational for constructing a boxplot and offers a quick way to understand the central tendency, spread, and range of the data without needing to see every single data point."
+  },
+  {
+    "title": "Vocabulary: Range and Interquartile Range (IQR)",
+    "body": "The range and the interquartile range (IQR) are both measures of spread, indicating how dispersed the data is. The range is calculated as the difference between the maximum and minimum values in a dataset (Maximum - Minimum). The interquartile range (IQR) is the difference between the third quartile (Q3) and the first quartile (Q1) (Q3 - Q1). The IQR specifically measures the spread of the middle 50% of the data, making it less sensitive to outliers than the overall range."
+  },
+  {
+    "title": "Essential Concepts: Comparing Data Groups",
+    "body": "A fundamental statistical question is how one group of data compares to another. This comparison can be challenging when groups exhibit significant variability. One effective approach is to compare the centers (like the mean or median), spreads (like MAD or IQR), and shapes of their distributions. Boxplots are particularly valuable for this purpose, especially when comparing distributions from different groups, provided that each distribution is unimodal (has a single peak or mode)."
+  },
+  {
+    "title": "Unit 2 Lesson 5: Human Boxplot Activity - Setup",
+    "body": "This lesson begins with a physical activity to help students understand boxplots. Students are asked to line up against a wall, first in no particular order, and then to arrange themselves by height from shortest to tallest. This physical arrangement helps them visualize the concept of data distribution. The teacher guides them to identify students representing the median, first quartile (Q1), third quartile (Q3), minimum, and maximum heights. This human representation makes the abstract concepts of quartiles and the five-number summary more concrete and understandable before they are translated into a graphical boxplot."
+  },
+  {
+    "title": "Unit 2 Lesson 5: Human Boxplot Activity - Constructing the Plot",
+    "body": "Following the physical arrangement of students by height, the lesson moves to constructing a visual representation. A poster paper serves as the backdrop where horizontal lines are drawn to mark the heights of specific students. The median student's height is marked first, followed by the Q1 and Q3 students, and finally the minimum and maximum height students. These five marked heights form the 'five-number summary'. A box is then drawn between Q1 and Q3, with a line inside marking the median. Whiskers extend from the box to the minimum and maximum marks, creating the human boxplot. Students are encouraged to sketch this in their journals."
+  },
+  {
+    "title": "Unit 2 Lesson 5: Interpreting the Boxplot and Measures of Spread",
+    "body": "After constructing the human boxplot, students are guided to interpret its components. They calculate the range (maximum - minimum) and discuss its meaning regarding the overall spread of heights. More importantly, they calculate the interquartile range (IQR = Q3 - Q1) and understand that it represents the spread of the middle 50% of the data. The lesson emphasizes the significance of the IQR: a small IQR indicates that the middle 50% of the data are close together, while a large IQR suggests this middle group is more spread out. This builds upon their prior knowledge of the Mean Absolute Deviation (MAD)."
+  },
+  {
+    "title": "Unit 2 Lesson 5: Comparing Group Boxplots",
+    "body": "To solidify the concept of using boxplots for comparison, students are divided into two subgroups (e.g., introverts and extroverts) and asked to create a separate boxplot for each group's heights. These group boxplots are then shared and compared to each other and to the original combined boxplot of the entire class. This comparative analysis prompts discussions on similarities and differences between the distributions. Calculating and comparing the IQRs of the subgroups helps students understand how the spread of the middle 50% of heights differs between the groups."
+  },
+  {
+    "title": "Unit 2 Lesson 5: Class Scribes and Homework",
+    "body": "As a concluding activity for Unit 2 Lesson 5, a 'Class Scribes' team is designated to present a brief summary of the three most important topics covered during the lesson. This encourages students to reflect and synthesize the key takeaways. For homework, students are assigned the 'Ages of Oscar Winners' handout. This assignment requires them to apply the concepts of boxplots, quartiles, IQR, and the five-number summary to analyze and interpret a real-world dataset, reinforcing the practical application of what they learned in class. Page 2 of the handout is an answer key for the teacher's reference."
+  },
+  {
+    "title": "Vocabulary: Minimum and Maximum",
+    "body": "In the context of a dataset, the minimum and maximum values represent the extreme ends of the data range. The minimum is the smallest value observed in the dataset. Conversely, the maximum is the largest value observed in the dataset. These two values are crucial components of the five-number summary and are graphically represented as the endpoints of the whiskers in a boxplot, unless specific outlier rules are applied. They provide a basic understanding of the overall spread of the data."
+  },
+  {
+    "title": "Boxplot Construction Detail",
+    "body": "Constructing a boxplot involves several key steps derived from the data's distribution. First, the five-number summary must be determined: minimum, Q1, median, Q3, and maximum. A box is drawn with its left edge at Q1 and its right edge at Q3. A vertical line is drawn inside the box to mark the median. Then, whiskers are drawn: a line extends from the left edge of the box (Q1) down to the minimum value, and another line extends from the right edge of the box (Q3) up to the maximum value. This visual representation effectively summarizes the data's central tendency and spread."
+  },
+  {
+    "title": "Comparing Distributions with Boxplots",
+    "body": "Boxplots are powerful tools for visually comparing the distributions of different datasets, especially when dealing with unimodal data. By placing boxplots side-by-side, one can easily compare measures of center (medians), measures of spread (IQRs and ranges), and the overall shape of the distributions. For instance, if one boxplot is noticeably longer than another, it indicates greater variability in that dataset. Differences in median lines highlight variations in central tendency. This visual comparison aids in identifying patterns and differences between groups that might be less apparent in raw data or other plot types."
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Abstract of Unit 4 Vocabulary",
+    "body": "This document defines key vocabulary terms relevant to data analysis and machine learning, specifically focusing on concepts encountered in Unit 4. It covers fundamental statistical ideas like 'census', 'correlation coefficient', 'mean absolute error', and 'mean squared error'. Machine learning algorithms and concepts are detailed, including 'Classification and Regression Trees (CART)', 'classify', 'clustering', 'decision tree', 'k-means', and 'model'. Descriptive terms for data patterns such as 'linear', 'non-linear', 'polynomial trends', 'positive association', 'negative association', 'no association', and 'trend' are explained. Practical aspects like 'market', 'network', 'nodes', 'rule', 'shape', 'strength of association', 'observed value', 'predicted value', 'regression line', and 'residual' are also defined. Finally, data partitioning for model development is described with 'training data' and 'test data'."
+  },
+  {
+    "title": "Census Definition",
+    "body": "A 'census' is defined as an official count or survey of a population. This process typically involves recording various details about each individual within that population, providing a comprehensive snapshot of demographic information."
+  },
+  {
+    "title": "Classification and Regression Trees (CART)",
+    "body": "Classification and Regression Trees (CART) is a significant predictive algorithm employed in machine learning. Its primary function is to explain how the values of a target variable can be predicted by leveraging other associated values within a dataset. CART builds a tree-like structure to represent these decision rules."
+  },
+  {
+    "title": "Classify Definition",
+    "body": "To 'classify' refers to the problem of identifying which specific category or sub-population an observation, or a set of observations, belongs to. This is a core task in supervised machine learning, where the goal is to assign items to predefined groups based on their characteristics."
+  },
+  {
+    "title": "Cluster Definition",
+    "body": "A 'cluster' is defined as a group of similar things or people that are positioned or occur closely together. In data analysis, clusters represent natural groupings within a dataset where the members share common characteristics."
+  },
+  {
+    "title": "Clustering Definition",
+    "body": " 'Clustering' is the process of grouping a set of objects or people in such a way that items within the same group are more similar to each other than they are to items in other groups. This is an unsupervised machine learning technique used to discover inherent structures in data."
+  },
+  {
+    "title": "Correlation Coefficient Definition",
+    "body": "The 'correlation coefficient' is a statistical measure that quantifies the strength of the linear relationship between the relative movements of two variables. It indicates both the direction and the magnitude of the linear association, with values typically ranging from -1 to +1."
+  },
+  {
+    "title": "Decision Tree Definition",
+    "body": "A 'decision tree' is a decision support tool that utilizes a tree-like model to represent decisions and their potential consequences. This model includes various outcomes, including chance events, making it useful for analyzing complex decision-making processes and predictions."
+  },
+  {
+    "title": "K-Means Algorithm",
+    "body": "The 'k-means' algorithm is a method that aims to partition a dataset into 'k' distinct clusters. The objective is to ensure that data points within the same cluster are highly similar to each other, while data points belonging to different clusters are as far apart as possible, minimizing intra-cluster variance and maximizing inter-cluster variance."
+  },
+  {
+    "title": "Linear Relationship",
+    "body": "The term 'linear' is used to describe a straight-line relationship between two variables. In a linear relationship, as one variable changes, the other variable changes by a constant amount. This is often visualized as a straight line on a scatterplot."
+  },
+  {
+    "title": "Line of Best Fit Definition",
+    "body": "A 'line of best fit' is a line drawn through a scatterplot of data points that best expresses the relationship between those points. It minimizes the overall distance between the line and the individual data points, serving as a visual representation of the trend in the data."
+  },
+  {
+    "title": "Market Definition",
+    "body": "In the context of data, 'market' refers to the live streaming of trade-related data. This encompasses a wide range of information crucial for financial analysis, such as current price, bid/ask quotes, and trading volume, providing real-time insights into market activity."
+  },
+  {
+    "title": "Mean Absolute Error (MAE)",
+    "body": "The 'mean absolute error' (MAE) quantifies the amount of error in a set of measurements or predictions. It is calculated as the average of the absolute differences between the measured or predicted values and the corresponding 'true' or actual values. MAE provides a straightforward measure of prediction accuracy."
+  },
+  {
+    "title": "Mean Squared Error (MSE)",
+    "body": " 'Mean squared error' (MSE) is a metric used to evaluate the performance of a regression model. It indicates how close a regression line is to a set of data points. MSE is determined by calculating the average of the squared differences between the predicted values (guesses) and the actual values. Squaring the errors penalizes larger errors more heavily."
+  },
+  {
+    "title": "Misclassification Rate",
+    "body": "The 'misclassification rate' represents the proportion of observations in a dataset that were incorrectly categorized by a predictive model. It is calculated as the number of misclassified observations divided by the total number of observations. A lower misclassification rate indicates a more accurate classification model."
+  },
+  {
+    "title": "Model Definition",
+    "body": "A 'model' is a simplified version or representation of real-life situations or data. Models are created to help understand complex systems, identify patterns, and make predictions based on the available data. They abstract away unnecessary details to focus on essential relationships."
+  },
+  {
+    "title": "Negative Association",
+    "body": "A 'negative association' between two variables occurs when the values of one variable tend to decrease as the values of the other variable increase. This inverse relationship is often visualized as a downward-sloping trend on a scatterplot."
+  },
+  {
+    "title": "Network Definition",
+    "body": "A 'network' is a system designed to facilitate the transfer of data from one network access point to one or more other network access points. This transfer is achieved through the use of data switching, transmission lines, and various system controls, enabling communication and data exchange."
+  },
+  {
+    "title": "No Association",
+    "body": " 'No association' between variables means that there is no discernible linear or systematic relationship between them. On a scatterplot, this is typically represented by data points that are scattered randomly with no clear pattern or trend, suggesting that changes in one variable do not predictably relate to changes in the other."
+  },
+  {
+    "title": "Nodes Definition",
+    "body": "In the context of data communication networks, 'nodes' refer to points of intersection or connection. These can be devices like computers, routers, or servers that participate in the network, sending, receiving, or forwarding data packets."
+  },
+  {
+    "title": "Non-linear Relationship",
+    "body": "A 'non-linear' relationship describes a connection between variables that cannot be represented by a straight line. This type of relationship is modeled using regression analysis where the function is a non-linear combination of model parameters and dependent variables. Data fitting often involves methods of successive approximations to capture curved trends."
+  },
+  {
+    "title": "Observed Value Definition",
+    "body": "An 'observed value' is the actual value that is measured or recorded in a real-world situation. It represents what actually happened or what was directly measured, as opposed to a predicted or estimated value."
+  },
+  {
+    "title": "Polynomial Trends",
+    "body": " 'Polynomial trends' describe a pattern in data that is curved, deviating from a straight linear trend. These trends often emerge in datasets with numerous fluctuations or complex interactions between variables, requiring a polynomial function to model the relationship accurately."
+  },
+  {
+    "title": "Positive Association",
+    "body": "A 'positive association' between two variables indicates that as the values of one variable increase, the values of the other variable also tend to increase. This direct relationship is typically visualized as an upward-sloping trend on a scatterplot."
+  },
+  {
+    "title": "Predicted Value Definition",
+    "body": "A 'predicted value' represents the projected outcome or value estimated by a model, often based on the equation of the line of best fit. It is the model's best guess for a particular data point or outcome."
+  },
+  {
+    "title": "Regression Line Definition",
+    "body": "A 'regression line' is a statistical tool that best describes the behavior or trend of a set of data points plotted on a graph. It is typically a straight line that minimizes the distance between itself and the data points, representing the average relationship between variables."
+  },
+  {
+    "title": "Residual Definition",
+    "body": "A 'residual' represents the difference between a predicted value and the actual observed value. It is essentially the error made by a model in its prediction. Residuals are also commonly referred to as 'errors'."
+  },
+  {
+    "title": "Rule Definition",
+    "body": "A 'rule' is defined as a set method or procedure established for calculating, solving a problem, or making a decision. In data analysis and machine learning, rules often form the basis of algorithms or decision trees."
+  },
+  {
+    "title": "Shape of Data Distribution",
+    "body": "The 'shape' of a dataset describes the overall distribution or pattern of the data points within it. This includes characteristics like symmetry, skewness, modality (number of peaks), and the presence of outliers, providing insights into the data's structure."
+  },
+  {
+    "title": "Strength of Association Definition",
+    "body": "The 'strength of association' measures how closely two variables are related and the extent to which the independent variable influences the dependent variable. It quantifies the degree of covariation between variables, indicating how predictable one variable is from another."
+  },
+  {
+    "title": "Test Data Definition",
+    "body": " 'Test data' is a randomly selected subset, typically comprising about 15-25% of the original dataset. This portion is reserved for evaluating the performance of a machine learning model after it has been trained on the training data. It provides an unbiased assessment of how well the model generalizes to unseen data."
+  },
+  {
+    "title": "Training Data Definition",
+    "body": " 'Training data' constitutes a major random subset, usually around 75-85%, of the original dataset. This data is used to teach or train a machine learning model. The model learns patterns, relationships, and parameters from this data to make future predictions or classifications."
+  },
+  {
+    "title": "Trend Definition",
+    "body": "A 'trend', often synonymous with a 'line of best fit', is a line used to represent the general behavior or direction of a set of data points. It helps analysts determine if a particular pattern exists within the data over time or across variables."
+  }
+]

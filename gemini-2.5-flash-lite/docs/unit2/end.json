@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract of End of Unit 2 Project",
+    "body": "This document outlines the End of Unit 2 Project, focused on comparing groups using student-collected data. Students will apply concepts learned in the first two units to design and answer a statistical question. The project requires comparing two distinct groups within at least one of the provided datasets (Food Habits, Time Use, Stress/Chill, Personality Color). The analysis must determine if observed differences are statistically significant or due to chance, utilizing methods like data merging, simulations, probability calculations, Normal models, or shuffling data. The project spans five days, culminating in a 4-slide, 5-minute presentation by partners and a 2-4 page written summary of the analysis. Key steps include question formulation, teacher approval, data analysis, visualization, and presentation preparation."
+  },
+  {
+    "title": "End of Unit 2 Project: Objective",
+    "body": "The primary objective of the End of Unit 2 Project is for students to demonstrate their mastery of the statistical concepts covered in the first two units of the curriculum. They will achieve this by undertaking a comprehensive design project that involves formulating a statistical question, collecting or utilizing existing data, performing an analysis, and presenting their findings. This project serves as a capstone experience, integrating the theoretical knowledge and practical skills acquired throughout Unit 1 and Unit 2."
+  },
+  {
+    "title": "End of Unit 2 Project: Materials",
+    "body": "The essential material for the End of Unit 2 Project is the project guideline document itself, titled 'End of Unit 2 Project: Comparing Groups Using Our Own Data'. This document, which can be found as a PDF, provides detailed instructions and requirements for the project. Students will need access to this guide to understand the scope of the project, the available datasets, the analytical methods to be employed, and the deliverables required for completion. No other specific physical materials are listed, implying the project is primarily data-driven and analytical."
+  },
+  {
+    "title": "End of Unit 2 Project: Datasets Available",
+    "body": "For the End of Unit 2 Project, 'Comparing Groups Using Our Own Data', students have access to four distinct datasets. These datasets are: 1. Food Habits, 2. Time Use, 3. Stress/Chill, and 4. Personality Color. Students are required to select at least one of these datasets to formulate and answer their statistical question. The choice of dataset will influence the types of comparisons and analyses that can be performed, making dataset selection a critical first step in the project."
+  },
+  {
+    "title": "End of Unit 2 Project: Core Requirements",
+    "body": "The End of Unit 2 Project requires students to formulate a statistical question that involves comparing two distinct groups within a chosen dataset. The analysis must rigorously address whether any observed differences between these groups are statistically significant or merely attributable to random chance. To support their conclusions, students must employ at least two specific analytical methods from a provided list, which includes merging data, creating simulations, calculating probabilities from simulations, using a Normal model, or shuffling/permuting data. Clear explanations for the chosen methods and their application are mandatory."
+  },
+  {
+    "title": "End of Unit 2 Project: Deliverables",
+    "body": "The End of Unit 2 Project has two main deliverables: a presentation and a written summary. The presentation, prepared and delivered by both partners, should be a maximum of 4 slides and last no more than 5 minutes. It must explain the chosen statistical question's interest, interpret supporting plots and summaries, and provide reasoning on whether observed outcomes could be due to chance. The second deliverable is a written summary of the analysis, which should be 2-4 pages long, typed, and double-spaced, detailing the entire analytical process and findings."
+  },
+  {
+    "title": "End of Unit 2 Project: Project Timeline (Day 1)",
+    "body": "Day 1 of the End of Unit 2 Project is dedicated to initial planning and question formulation. Students, working with their assigned partner, must decide on a statistical question that meets the project's criteria: comparing two distinct groups and being interesting. Following the formulation of the question, it must be presented to the teacher for approval. This initial step is crucial as it sets the direction for the entire project and ensures the question aligns with the project's learning objectives."
+  },
+  {
+    "title": "End of Unit 2 Project: Project Timeline (Day 2)",
+    "body": "Day 2 of the End of Unit 2 Project is designated as a working day for data analysis. With an approved statistical question and a chosen dataset, students and their partners will focus on performing the necessary statistical procedures. This includes creating relevant plots (visualizations) and calculating numerical summaries that will help in answering the research question. This day is critical for gathering the quantitative evidence needed for the subsequent presentation and written report."
+  },
+  {
+    "title": "End of Unit 2 Project: Project Timeline (Day 3)",
+    "body": "Day 3 of the End of Unit 2 Project is allocated for preparing the presentation. Students will use the plots and numerical summaries generated on Day 2 to construct a concise 4-slide presentation. This involves deciding how best to visually and verbally communicate their statistical question, their analysis, their findings, and their interpretation of whether the results are due to chance. The focus is on effectively summarizing complex statistical work into an accessible format for a short presentation."
+  },
+  {
+    "title": "End of Unit 2 Project: Project Timeline (Day 4 & 5)",
+    "body": "Days 4 and 5 of the End of Unit 2 Project are dedicated to student presentations. Partners will deliver their 4-slide, 5-minute presentations to the class, explaining their statistical question, the analysis performed, the supporting evidence (plots and summaries), and their conclusions regarding the significance of the observed differences. This is an opportunity for students to showcase their work, practice their communication skills, and learn from the projects of their peers. Following presentations, the final written summary of the analysis will also be due."
+  },
+  {
+    "title": "End of Unit 2 Project: Analytical Methods",
+    "body": "The End of Unit 2 Project requires students to utilize at least two analytical methods to investigate their statistical question. These methods are designed to help determine if observed differences between groups are statistically significant. The options include: 'Merge data' (combining datasets), 'Create simulations' (generating artificial data based on assumptions), 'Calculate probabilities based on simulations' (estimating likelihoods from simulated results), 'Use a Normal model' (applying a theoretical distribution), and 'Shuffle/permute data' (randomly reassigning group labels to assess variability). Students must choose and explain at least two of these techniques in their analysis."
+  },
+  {
+    "title": "End of Unit 2 Project: Statistical Question Criteria",
+    "body": "A fundamental requirement for the End of Unit 2 Project is the formulation of a suitable statistical question. This question must satisfy two key criteria: 1. It must explicitly involve a comparison between two distinct groups within one of the provided datasets (Food Habits, Time Use, Stress/Chill, Personality Color). 2. The question should lead to an analysis that explores whether any observed differences between the groups are statistically meaningful or could have arisen purely by chance. Teacher approval is necessary to ensure the question is appropriate and feasible for the project."
+  },
+  {
+    "title": "End of Unit 2 Project: Data Analysis Focus",
+    "body": "The core of the End of Unit 2 Project involves analyzing data to answer a statistical question comparing two groups. Students must move beyond simple observation to statistical inference. The analysis should address the 'realness' of differences, meaning whether they are likely to reflect a true effect in the population or just random variation. This necessitates the use of appropriate statistical tools and methods, such as simulations or modeling, to quantify the uncertainty associated with the observed differences. The process culminates in interpreting plots and numerical summaries to support their conclusions."
+  }
+]

@@ -1,0 +1,166 @@
+[
+  {
+    "title": "Abstract of Lab 1B - Get the picture?",
+    "body": "Lab 1B, titled \"Get the picture?\", focuses on understanding variable types (numerical and categorical) and data visualization using RStudio. It guides students through identifying variable types in the `cdc` dataset, using R functions like `View`, `names`, and `str` to explore data. The lab emphasizes the importance of plots (graphs) for visualizing data, differentiating between bar graphs and histograms, and how to create them. Students learn to add options (arguments) to plotting functions, such as `nint` to control histogram intervals. A significant portion of the lab is dedicated to analyzing the relationship between texting and driving habits, exploring how sex influences these behaviors through side-by-side and split graphs. The lab concludes with exercises encouraging students to explore other factors affecting texting and driving and to visualize relationships between `drive_text` and other variables in the dataset."
+  },
+  {
+    "title": "Introduction to Lab 1B and RStudio Refresher",
+    "body": "Lab 1B, \"Get the picture?\", builds upon the previous lab's introduction to RStudio, focusing on variable types and data visualization. Students are reminded to follow along with slides, answering blue questions on their computers and red questions in their journals. The lab aims to introduce numerical and categorical variables, explaining that numerical variables are measured in units while categorical variables describe categories. Data visualization using plots (graphs) will be a key focus. A practical exercise involves using the *History* tab in RStudio to reload the `cdc` data, reinforcing basic RStudio navigation and command recall."
+  },
+  {
+    "title": "Understanding Variable Types: Numerical vs. Categorical",
+    "body": "This section of Lab 1B defines and distinguishes between two fundamental variable types: numerical and categorical. Numerical variables have values that are measured in specific units, such as height in inches or weight in pounds. Categorical variables, on the other hand, have values that describe or categorize observations, like gender or opinion. Students are prompted to use the `View` function in RStudio to examine the `cdc` dataset and identify the columns for `height` and `sex`. They must then classify `height` and `sex` as either numerical or categorical, providing justifications and listing the categories or units for each."
+  },
+  {
+    "title": "Exploring Variable Names in the `cdc` Dataset",
+    "body": "To further understand the nature of variables within the `cdc` dataset, students in Lab 1B are instructed to retrieve and examine the names of all variables. This is achieved by running the code previously used to display variable names, likely accessible through the *History* pane in RStudio. The output of this command serves as a basis for students to hypothesize which variables are categorical and which are numerical, providing reasons for their classifications. They are asked to list three examples of each type, encouraging critical thinking about the data's content and structure."
+  },
+  {
+    "title": "Using the `str` Function for Data Structure Overview",
+    "body": "Lab 1B introduces the `str` function as a powerful tool for understanding the structure of a dataset. By running `str(cdc)` in the R console, students can obtain a concise summary of the dataset, including the names of variables, their types (e.g., numeric, character), and the first few values. This function is presented as an alternative to clicking on the data in the *Environment* pane. Students are asked to analyze the output of the `str` function and reflect on whether their previous classifications of numerical and categorical variables were accurate, noting any mislabeled variables."
+  },
+  {
+    "title": "Visualizing Data with Bar Graphs and Histograms",
+    "body": "A core component of Lab 1B is learning to visualize data using plots. The lab guides students to create both bar graphs and histograms for both numerical and categorical variables from the `cdc` dataset. They are asked to choose one numerical variable and one categorical variable, then generate both types of plots for each. Following this, students must compare the effectiveness of bar graphs and histograms for visualizing different variable types, concluding which plot is better suited for categorical data and which is better for numerical data."
+  },
+  {
+    "title": "Analyzing the Distribution of 'weight' and Plot Options",
+    "body": "In Unit 1, Lab 1B, students are prompted to analyze the distribution of the 'weight' variable using R. They are instructed to create a graph to visualize this distribution and then describe its shape, center, and spread. The lab further explores how to modify plots using options, also known as arguments. Specifically, students learn about the `nint` option in the `histogram` function, which controls the number of intervals. They experiment with `histogram(~weight, data = cdc, nint = 3)` and analyze how changing `nint` affects the graph's appearance and their interpretation of the distribution's characteristics."
+  },
+  {
+    "title": "Exploring Texting While Driving Habits",
+    "body": "Unit 1, Lab 1B shifts focus to analyzing the `drive_text` variable within the `cdc` dataset. Students are tasked with creating a graph to visualize the frequency of texting while driving. They must then interpret the resulting graph, identifying what the x-axis and y-axis represent. Key questions involve understanding the meaning of \"most\" in the context of the data and estimating the percentage of individuals who texted while driving on 20 or more days, using the total number of students (17,232) for calculation."
+  },
+  {
+    "title": "Investigating the Relationship Between Texting & Driving and Sex",
+    "body": "Lab 1B explores whether texting and driving habits differ based on sex. Students are provided with a fill-in-the-blank code structure to create a side-by-side bar graph: `bargraph(~____, data = ____, groups = ____)`. After generating the graph, they must analyze it to describe how boys and girls differ in their texting while driving behavior. The exercise prompts further reflection on whether \"most\" girls and \"most\" boys engage in this behavior and how the `groups` argument specifically changed the visualization."
+  },
+  {
+    "title": "Comparing Heights of Males and Females Using Plots",
+    "body": "This section of Lab 1B addresses the question: \"Do males and females have similar heights?\". Students are asked to create a histogram for the `height` variable, using the `groups` argument to visualize male and female heights separately. They then evaluate whether this graphical representation effectively answers the question and compare the utility of grouping numerical variables (like height) versus categorical variables (like texting and driving). The lab explains why the `groups` argument, while useful for bar graphs, can make histograms overlapping and difficult to interpret due to the nature of the x-axis."
+  },
+  {
+    "title": "Creating Split Histograms for Height Comparison",
+    "body": "To overcome the limitations of the `groups` argument in histograms, Lab 1B introduces the concept of a \"split histogram\" using the syntax `histogram(~ ____ | ____, data = ____)`. Students are instructed to create such a plot to visualize male and female heights separately. This allows for a more direct comparison of the height distributions between the sexes. Based on the resulting split histogram, students must conclude whether males and females have similar heights and justify their answer using the plot."
+  },
+  {
+    "title": "Exploring Split Bar Graphs and Further Analysis",
+    "body": "Following the discussion on split histograms, Lab 1B investigates whether a similar \"split\" approach can be applied to bar graphs. Students are asked to write and run code to create a split bar graph of `drive_text` split by `sex`, similar to the earlier side-by-side bar graph. This reinforces the understanding of how different plotting functions and arguments can be used to explore relationships in data. The lab concludes with 'On your own' exercises, encouraging students to identify other factors that might influence texting and driving and to independently create a graph to explore the relationship between `drive_text` and another chosen variable from the `cdc` dataset."
+  },
+  {
+    "title": "R Function: `View`",
+    "body": "The `View` function in R is used to display a data frame or a similar object in a spreadsheet-like viewer. In Lab 1B, students use `View(cdc)` to visually inspect the `cdc` dataset, allowing them to examine the columns, rows, and individual data points. This is a fundamental tool for data exploration, helping users to understand the content and format of their data before performing more complex analyses or visualizations. It is particularly useful for identifying variable names and getting a sense of the data's values."
+  },
+  {
+    "title": "R Function: `names`",
+    "body": "The `names` function in R returns the names of the elements of an object. When applied to a data frame like `cdc`, `names(cdc)` returns a character vector containing the names of all the columns (variables) in the data frame. In Lab 1B, students use this function to list the variables available in the `cdc` dataset. This is a crucial step in understanding the data and selecting appropriate variables for analysis and visualization, helping them to categorize variables as numerical or categorical."
+  },
+  {
+    "title": "R Function: `str`",
+    "body": "The `str` function in R is a compact way to display the internal structure of an R object. For a data frame, `str(cdc)` provides a summary including the data frame's name, dimensions, names of variables, their data types (e.g., numeric, factor, character), and the first few values of each variable. Lab 1B utilizes `str` to offer a quick overview of the `cdc` dataset's structure, aiding students in verifying their understanding of variable types and identifying potential issues or patterns in the data."
+  },
+  {
+    "title": "R Function: `bargraph`",
+    "body": "The `bargraph` function (likely from a specific R package used in the course, such as `Sleuth3` or similar) is used to create bar graphs. Bar graphs are suitable for visualizing the frequency or proportion of categorical data, or for comparing values across different categories. In Lab 1B, students use `bargraph` to visualize categorical variables and explore relationships between categorical variables, such as texting and driving habits broken down by sex. The function can also accept arguments like `groups` to create side-by-side bar graphs for comparison."
+  },
+  {
+    "title": "R Function: `histogram`",
+    "body": "The `histogram` function in R is used to create histograms, which are graphical representations of the distribution of numerical data. Histograms display the frequency of data points falling into specified intervals or bins. In Lab 1B, students use `histogram` to visualize the distribution of numerical variables like `height` and `weight`. They also learn to customize histograms using options like `nint` (number of intervals) and to create split histograms using the `|` syntax (e.g., `histogram(~ height | sex, data = cdc)`) for comparing distributions across groups."
+  },
+  {
+    "title": "R Argument: `nint`",
+    "body": "The `nint` argument, when used with plotting functions like `histogram` in R, specifies the number of intervals (bins) to be used in the plot. In Lab 1B, students experiment with `histogram(~weight, data = cdc, nint = 3)`. By controlling the number of intervals, they can alter the appearance and resolution of the histogram, influencing their perception of the data's shape, center, and spread. This highlights how graphical choices can affect data interpretation."
+  },
+  {
+    "title": "R Argument: `groups`",
+    "body": "The `groups` argument in R plotting functions, such as `bargraph` and `histogram`, is used to create visualizations that compare different subgroups within a dataset. When used with `bargraph`, it typically generates side-by-side bars for each category, facilitating comparison. In Lab 1B, students use `groups` to compare texting and driving behavior by sex and to initially attempt visualizing height distributions by sex. The lab discusses how the effectiveness of `groups` can vary depending on the plot type and variable types involved."
+  },
+  {
+    "title": "R Syntax: Split Plotting (`|`)",
+    "body": "The vertical bar symbol (`|`) used within plotting functions in R, such as `histogram(~ height | sex, data = cdc)`, creates 'split' plots. This syntax generates separate plots for each level of the conditioning variable (in this case, `sex`). This is particularly useful for comparing the distributions or relationships of a variable across different categories. Lab 1B uses this syntax to create split histograms of `height` by `sex`, enabling a clearer comparison than using the `groups` argument alone for histograms."
+  },
+  {
+    "title": "Key Concept: Variable Types (Numerical and Categorical)",
+    "body": "A fundamental concept in data analysis, explored in Lab 1B, is the distinction between numerical and categorical variables. Numerical variables represent quantities that can be measured and have meaningful units (e.g., height, weight, age). Categorical variables represent qualities or characteristics that place observations into distinct groups or categories (e.g., sex, opinion, color). Understanding variable types is crucial for selecting appropriate statistical methods and visualization techniques. The lab uses the `cdc` dataset to practice identifying these types."
+  },
+  {
+    "title": "Key Concept: Data Visualization (Plots/Graphs)",
+    "body": "Data visualization, referred to as using plots or graphs, is a key skill developed in Lab 1B. Visualizing data helps in understanding patterns, trends, and relationships that might not be apparent from raw numbers alone. The lab introduces two primary plot types: bar graphs, generally used for categorical data, and histograms, used for numerical data distributions. Students learn to create these plots in R and interpret the information they convey about the dataset, reinforcing the idea that \"a picture is worth a thousand words.\""
+  },
+  {
+    "title": "Key Concept: Distribution (Shape, Center, Spread)",
+    "body": "Describing the distribution of a numerical variable is a key analytical skill practiced in Lab 1B. This involves characterizing the data's pattern using three main features: shape (e.g., symmetric, skewed, unimodal, bimodal), center (a typical or central value, often represented by the mean or median), and spread (the variability or range of the data, often measured by standard deviation or range). Students apply these concepts when describing the distribution of `weight` and comparing height distributions between males and females."
+  },
+  {
+    "title": "RStudio Feature: History Pane",
+    "body": "The History pane in RStudio provides a log of all the commands that have been entered into the console. This feature is invaluable for recalling previously used code, correcting errors, and avoiding retyping. In Lab 1B, students are repeatedly directed to use the History pane to reload data (`cdc`), re-run commands to view variable names, and access previously typed code snippets. This emphasizes the practical utility of RStudio's interface for efficient data analysis workflow."
+  },
+  {
+    "title": "RStudio Feature: Environment Pane",
+    "body": "The Environment pane in RStudio displays all the objects (variables, data frames, functions) that are currently loaded into the R session's memory. It provides a quick overview of the workspace, showing the names of objects, their types, and often a preview of their contents or size. Lab 1B mentions the Environment pane as a place where students can find the `cdc` data object and suggests clicking the arrow next to it as one way to view the data's structure, complementing the `str()` function."
+  },
+  {
+    "title": "Vocabulary: Plot vs. Graph",
+    "body": "In the context of data science and statistical analysis, the terms 'plot' and 'graph' are often used interchangeably. Lab 1B explicitly states this interchangeability. Both terms refer to visual representations of data designed to help in understanding patterns, relationships, and distributions. Whether referred to as a plot or a graph, the goal is to translate numerical or categorical data into a visual format that facilitates easier interpretation."
+  },
+  {
+    "title": "Vocabulary: Options/Arguments",
+    "body": "In R, 'options' and 'arguments' are terms used for additional pieces of information provided to a function to modify its behavior or output. These are typically separated by commas within the function call. Lab 1B introduces this concept when discussing how to change the appearance of plots. For example, the `nint` argument in the `histogram` function controls the number of intervals, and the `groups` argument specifies how to divide the data for comparison. Understanding arguments is key to customizing R analyses and visualizations."
+  },
+  {
+    "title": "Exercise Walkthrough: Reloading `cdc` Data",
+    "body": "Part of Unit 1, Lab 1B involves a practical exercise using RStudio's interface. Students are directed to locate the *History* tab and use the information found there to reload the `cdc` dataset. This task reinforces basic RStudio navigation skills and the concept of command recall. It serves as a preliminary step before delving into variable types and data visualization, ensuring students have the necessary data loaded and accessible in their environment."
+  },
+  {
+    "title": "Exercise Walkthrough: Classifying `height` and `sex` Variables",
+    "body": "Within Unit 1, Lab 1B, students are asked to classify the `height` and `sex` variables from the `cdc` dataset as either numerical or categorical. After using `View(cdc)` to inspect the data, they must provide a justification for their classification and identify the units (for numerical) or categories (for categorical) associated with each variable. For `height`, the units would be units of length (e.g., inches or cm), while `sex` would be a category (e.g., male, female). This exercise solidifies the understanding of variable types."
+  },
+  {
+    "title": "Exercise Walkthrough: Identifying Numerical and Categorical Variables",
+    "body": "Building on the `names(cdc)` command in Lab 1B, students are required to list three variables they believe are categorical and three they believe are numerical, providing reasons for each choice. This encourages them to apply their understanding of variable definitions to a broader set of variables within the `cdc` dataset. For example, `age` might be classified as numerical, while `race` could be categorical. This task prepares them for further analysis by reinforcing variable identification."
+  },
+  {
+    "title": "Exercise Walkthrough: Interpreting `str()` Output",
+    "body": "After running `str(cdc)` in R, students in Lab 1B must interpret the output. They are asked what information the `str` function provides and to reflect on their accuracy in previously classifying variables as numerical or categorical. This exercise connects the practical use of the `str` function with the theoretical understanding of variable types, prompting self-correction and reinforcing the utility of structural summaries for data exploration."
+  },
+  {
+    "title": "Exercise Walkthrough: Creating Basic Plots",
+    "body": "Unit 1, Lab 1B includes exercises where students must create basic plots. They are prompted to choose one numerical variable and generate both a bar graph and a histogram, and then do the same for one categorical variable. This hands-on practice helps them understand the mechanics of creating plots in R and observe how different plot types render data. The subsequent comparison of these plots leads to understanding their suitability for different variable types."
+  },
+  {
+    "title": "Exercise Walkthrough: Describing 'weight' Distribution",
+    "body": "Students in Lab 1B are asked to generate a graph (likely a histogram) for the `weight` variable and then describe its distribution. This description must include the *shape* (e.g., symmetry, skewness), *center* (a measure of central tendency), and *spread* (a measure of variability). This exercise applies the concepts of distribution characteristics to a real dataset, requiring students to synthesize visual information into a descriptive analysis."
+  },
+  {
+    "title": "Exercise Walkthrough: Modifying Histograms with `nint`",
+    "body": "Lab 1B guides students to experiment with the `nint` option in the `histogram` function. After running `histogram(~weight, data = cdc, nint = 3)`, they analyze how this changes the graph compared to the default. They further explore the impact of `nint` on describing the shape, center, and spread, and then try different values of `nint` to determine which produces the 'best' graph and why. This teaches the practical effect of plot customization on data interpretation."
+  },
+  {
+    "title": "Exercise Walkthrough: Analyzing 'drive_text' Graph",
+    "body": "Students in Lab 1B create a graph (likely a bar graph) to show the frequency of texting while driving (`drive_text`). They must then interpret the axes: identifying what the y-axis represents (frequency or count) and what the x-axis shows (categories of texting frequency). They also analyze the meaning of \"most\" in this context and estimate the percentage of people who texted while driving for 20 or more days, using the total dataset size (17,232) for calculation."
+  },
+  {
+    "title": "Exercise Walkthrough: Side-by-Side Bar Graph of `drive_text` by `sex`",
+    "body": "To investigate if texting and driving habits differ by sex, students in Lab 1B construct a side-by-side bar graph using the `groups` argument. They fill in the code `bargraph(~____, data = ____, groups = ____)`. After creating the graph, they analyze the differences in texting while driving behavior between sexes, assess whether \"most\" individuals in each group refrain from texting while driving, and explain how the `groups` argument visually changed the representation."
+  },
+  {
+    "title": "Exercise Walkthrough: Comparing Male and Female Heights with `groups`",
+    "body": "In Lab 1B, students attempt to visualize the height distributions for males and females separately using `histogram(~height, data = cdc, groups = sex)`. They then evaluate if this approach effectively answers whether males and females have similar heights and consider if grouping numerical variables is as helpful as grouping categorical ones. The subsequent explanation clarifies why `groups` is less effective for histograms due to overlapping bars."
+  },
+  {
+    "title": "Exercise Walkthrough: Creating Split Histograms for Height",
+    "body": "To address the limitations of the `groups` argument for histograms, Lab 1B instructs students to create split histograms using the `|` syntax: `histogram(~ ____ | ____, data = ____)`. This allows for a clearer visual comparison of height distributions between males and females. Based on the generated plot, students must conclude whether heights are similar between sexes and provide justification from the visualization."
+  },
+  {
+    "title": "Exercise Walkthrough: Creating a Split Bar Graph",
+    "body": "As a final practical exercise in Lab 1B, students explore the possibility of creating split bar graphs, analogous to the split histograms. They are asked to write and run code to create a bar graph of `drive_text` split by `sex`. This reinforces the syntax and application of splitting plots based on a categorical variable, contrasting it with the earlier side-by-side bar graph approach and further solidifying understanding of visualization techniques."
+  },
+  {
+    "title": "Exercise: Factors Affecting Texting and Driving",
+    "body": "The 'On your own' section of Lab 1B encourages critical thinking beyond the provided analyses. Students are prompted to brainstorm and list other factors (variables) they believe might influence how often people text and drive. This encourages them to think about real-world context and potential confounding variables or related factors that could be explored in future analyses, expanding their understanding of data investigation."
+  },
+  {
+    "title": "Exercise: Independent Data Exploration",
+    "body": "The concluding exercise of Lab 1B tasks students with independently choosing one variable from the `cdc` dataset. They must then create a relevant graph using this variable and the `drive_text` variable. The final step is to use the generated graph to describe how texting and driving usage differs in relation to the chosen variable. This promotes self-directed learning and the application of all concepts learned throughout the lab."
+  }
+]

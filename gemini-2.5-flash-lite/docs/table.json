@@ -1,0 +1,594 @@
+[
+  {
+    "title": "Abstract of the Document",
+    "body": "This document outlines a comprehensive curriculum focused on data science, spanning four units. Unit 1 introduces fundamental data concepts, including data collection, organization (data structures), the data cycle, and visualization techniques like dotplots and histograms. It also provides an introduction to RStudio and basic data manipulation. Unit 2 delves into measures of center (mean, median) and spread (MAD, IQR, SD), comparing distributions, and an introduction to probability through simulations and compound events. It also covers categorical associations and an introduction to normal distributions and z-scores. Unit 3 focuses on experimental design, distinguishing between observational studies and experiments, identifying confounding factors, and exploring survey methods including random sampling and confidence intervals. It also introduces Participatory Sensing (PS) campaigns. Unit 4 builds upon previous concepts by focusing on statistical predictions using one and two variables, linear regression, correlation, and model improvement. It also covers classification using decision trees and clustering techniques like k-means and network analysis. Each unit is structured into sections, lessons, labs, and practicums, with clear learning objectives and links to relevant resources."
+  },
+  {
+    "title": "Table of Contents Overview",
+    "body": "This document presents a table of contents for a data science curriculum. It is organized into four main units, each covering distinct but related topics. Unit 1, 'Data are All Around,' focuses on foundational data concepts, including defining data, organizing it, understanding the data cycle, and initial visualization techniques. Unit 2, 'What is Your True Color?', explores measures of center and spread, probability, and introduces the normal distribution. Unit 3, 'Testing, Testing…1, 2, 3…', delves into experimental design, observational studies, surveys, and confidence intervals, along with Participatory Sensing campaigns. Unit 4, 'Campaigns and Community,' focuses on statistical predictions, modeling with linear regression and decision trees, and clustering. Each unit contains multiple sections, lessons, labs, and practicums, with specific topics and associated page numbers indicated."
+  },
+  {
+    "title": "Unit 1 Overview and Philosophy",
+    "body": "Unit 1, titled 'Overview and Philosophy,' serves as an introduction to the entire curriculum. It establishes the foundational principles and overarching goals of the data science program. This unit likely covers the importance of data in the modern world, the investigative process of data analysis, and the ethical considerations involved in working with data. It sets the stage for the subsequent units by providing context and motivation for learning data science skills. The content associated with this unit can be found starting on page 8 of the curriculum materials."
+  },
+  {
+    "title": "Unit 1 Scope and Sequence",
+    "body": "Unit 1, 'Scope and Sequence,' details the progression of topics throughout the curriculum. It outlines the order in which concepts will be introduced and built upon. This unit provides a roadmap for learners, showing how each topic connects to the broader learning objectives. Understanding the scope and sequence helps learners anticipate future topics and see the logical flow of the data science education. This section of the curriculum is located starting on page 14."
+  },
+  {
+    "title": "Unit 1 Daily Overview",
+    "body": "The 'Daily Overview' for Unit 1 provides a day-by-day breakdown of the learning activities and topics covered within this initial unit. It serves as a practical guide for pacing and structuring the learning experience. This overview helps students and instructors stay on track with the curriculum's progression. The details for Unit 1's daily schedule begin on page 19."
+  },
+  {
+    "title": "Unit 1 Essential Concepts",
+    "body": "Unit 1's 'Essential Concepts' section distills the core knowledge and skills that students are expected to grasp by the end of this unit. It highlights the most critical ideas and principles that form the bedrock of data science understanding. Mastering these concepts is crucial for building a strong foundation for more advanced topics. Information on these essential concepts can be found starting on page 20."
+  },
+  {
+    "title": "Unit 1 Section 1: Data are All Around",
+    "body": "Section 1 of Unit 1, titled 'Data are All Around,' introduces the fundamental idea that data permeates our daily lives. This section emphasizes recognizing and understanding the presence of data in various contexts. It aims to foster an awareness of data as a valuable resource and a subject of study. The content for this section begins on page 22."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Data Trails",
+    "body": "Unit 1 Lesson 1, 'Data Trails,' focuses on the definition of data and introduces the concept of consumer privacy. This lesson helps learners understand what constitutes data, how it is generated and collected (often through user activity, hence 'data trails'), and the ethical implications related to privacy in the digital age. Key topics include defining data and understanding consumer privacy concerns. This lesson is found on page 24."
+  },
+  {
+    "title": "Unit 1 Lesson 2: Stick Figures",
+    "body": "Unit 1 Lesson 2, 'Stick Figures,' covers the practical aspects of organizing and collecting data. While the title might suggest a simple visualization, the core content is about the methodologies and strategies employed in gathering and structuring data. This lesson likely touches upon different data collection methods and how to arrange the collected information systematically. It can be found on page 26."
+  },
+  {
+    "title": "Unit 1 Lesson 3: Data Structures",
+    "body": "Unit 1 Lesson 3, 'Data Structures,' delves into the organization of data. This lesson explains how data is structured, likely covering concepts such as rows and columns (tabular data) and variables. Understanding data structures is fundamental for efficient data analysis and manipulation. This lesson is located on page 28."
+  },
+  {
+    "title": "Unit 1 Lesson 4: The Data Cycle",
+    "body": "Unit 1 Lesson 4, 'The Data Cycle,' introduces the concept of the data cycle, which encompasses the stages data goes through from collection to analysis and interpretation. This lesson also introduces the idea of statistical questions, which guide the entire data inquiry process. Understanding the data cycle is crucial for a systematic approach to data science. This lesson begins on page 30."
+  },
+  {
+    "title": "Unit 1 Lesson 5: So Many Questions",
+    "body": "Unit 1 Lesson 5, 'So Many Questions,' focuses on the formulation of statistical questions and the concept of variability within data. This lesson teaches learners how to ask meaningful questions that can be answered with data and understand that data often exhibits variation. This is a critical step in framing a data analysis problem. This lesson is found on page 35."
+  },
+  {
+    "title": "Unit 1 Lesson 6: What Do I Eat?",
+    "body": "Unit 1 Lesson 6, 'What Do I Eat?', is a practical application focusing on 'Food Habits.' This lesson uses the data cycle and data collection as its primary topics. Students will likely engage in activities related to gathering and organizing data about food consumption, applying the concepts learned earlier in the unit. This lesson is detailed on page 39."
+  },
+  {
+    "title": "Unit 1 Lesson 7: Setting the Stage",
+    "body": "Unit 1 Lesson 7, 'Setting the Stage,' continues the exploration of 'Food Habits' data, with a specific focus on 'Participatory Sensing.' This lesson introduces the idea of using sensors or collective data collection by individuals to gather information on a topic. It builds on the data collection and data cycle concepts. This lesson is presented on page 42."
+  },
+  {
+    "title": "Unit 1 Section 2: Visualizing Data",
+    "body": "Section 2 of Unit 1, titled 'Visualizing Data,' shifts the focus to graphical representations of data. This section aims to equip learners with the skills to create and interpret various plots that help in understanding data patterns, trends, and distributions. Effective data visualization is key to communicating insights derived from data. This section starts on page 47."
+  },
+  {
+    "title": "Unit 1 Lesson 8: Tangible Plots",
+    "body": "Unit 1 Lesson 8, 'Tangible Plots,' introduces basic data visualization techniques, specifically dotplots. It also covers key descriptive statistics such as the minimum and maximum values in a dataset, and the concept of frequency. This lesson provides a hands-on approach to understanding data through visual representations. This lesson is found on page 48."
+  },
+  {
+    "title": "Unit 1 Lesson 9: What Is Typical?",
+    "body": "Unit 1 Lesson 9, 'What Is Typical?', focuses on understanding the 'typical' value within a dataset. This lesson introduces measures of center, which help in describing the central tendency of the data. Learners will explore how to identify and interpret what constitutes a representative value in a dataset. This lesson is on page 52."
+  },
+  {
+    "title": "Unit 1 Lesson 10: Making Histograms",
+    "body": "Unit 1 Lesson 10, 'Making Histograms,' focuses on a specific type of data visualization: histograms. This lesson teaches learners how to construct histograms and understand their components, such as bin widths. Histograms are essential for visualizing the distribution of numerical data. This lesson is located on page 54."
+  },
+  {
+    "title": "Unit 1 Lesson 11: What Shape Are You In?",
+    "body": "Unit 1 Lesson 11, 'What Shape Are You In?', explores the characteristics of data distributions, focusing on shape, center, and spread. Learners will learn to describe datasets based on these properties, which are crucial for selecting appropriate statistical methods and drawing meaningful conclusions. This lesson is on page 57."
+  },
+  {
+    "title": "Unit 1 Lesson 12: Exploring Food Habits",
+    "body": "Unit 1 Lesson 12, 'Exploring Food Habits,' applies data visualization techniques to the 'Food Habits' data. This lesson focuses on creating and interpreting single-variable and multi-variable plots to explore relationships and patterns within the data related to food consumption. This lesson is found on page 59."
+  },
+  {
+    "title": "Unit 1 Lesson 13: RStudio Basics",
+    "body": "Unit 1 Lesson 13, 'RStudio Basics,' provides an introduction to RStudio, a popular integrated development environment (IDE) for R programming. This foundational lesson equips learners with the essential skills to navigate and utilize RStudio for data analysis tasks, preparing them for subsequent coding-related activities. This lesson is located on page 61."
+  },
+  {
+    "title": "Unit 1 Lab 1A: Data, Code & RStudio",
+    "body": "Unit 1 Lab 1A, 'Data, Code & RStudio,' is a practical exercise that integrates the concepts of data, programming code, and the RStudio environment. This lab allows students to apply their knowledge by working with data, writing R code, and using RStudio to perform basic data analysis tasks. This lab is found on page 64."
+  },
+  {
+    "title": "Unit 1 Lab 1B: Get the Picture?",
+    "body": "Unit 1 Lab 1B, 'Get the Picture?', focuses on data visualization, specifically exploring 'Variable types, bar graphs, and histograms.' This lab provides hands-on experience in creating and interpreting different types of graphs to represent data, reinforcing the visualization concepts introduced earlier in the unit. This lab is located on page 68."
+  },
+  {
+    "title": "Unit 1 Lab 1C: Export, Upload, Import",
+    "body": "Unit 1 Lab 1C, 'Export, Upload, Import,' addresses the practical skill of data management, focusing on the processes of importing data into analysis software. This lab teaches learners how to move data from external sources into their working environment, a crucial step in any data analysis workflow. This lab is found on page 71."
+  },
+  {
+    "title": "Unit 1 Lesson 14: Variables, Variables, Variables",
+    "body": "Unit 1 Lesson 14, 'Variables, Variables, Variables,' expands on the understanding of variables within datasets, with a specific focus on multi-variable plots. This lesson helps learners explore relationships between multiple variables simultaneously, enhancing their ability to analyze complex data. This lesson is located on page 76."
+  },
+  {
+    "title": "Unit 1 Lab 1D: Zooming Through Data",
+    "body": "Unit 1 Lab 1D, 'Zooming Through Data,' focuses on the technique of 'Subsetting' data. This lab teaches learners how to select specific portions or subsets of a dataset for focused analysis, a fundamental skill for managing and exploring large amounts of information. This lab is found on page 80."
+  },
+  {
+    "title": "Unit 1 Lab 1E: What’s the Relationship?",
+    "body": "Unit 1 Lab 1E, 'What’s the Relationship?', delves into the exploration of relationships between variables using 'Multi-variable plots.' This lab provides practical experience in visualizing and identifying potential associations between different variables in a dataset. This lab is located on page 84."
+  },
+  {
+    "title": "Unit 1 Practicum 1: The Data Cycle & My Food Habits",
+    "body": "Unit 1 Practicum 1, 'The Data Cycle & My Food Habits,' serves as a capstone activity for the first unit, focusing on 'Food Habits.' This practicum requires students to apply their understanding of the entire 'Data cycle' and 'variability' by collecting and analyzing their own food habit data, integrating the concepts learned throughout Unit 1. This practicum is on page 87."
+  },
+  {
+    "title": "Unit 1 Section 3: Would You Look at the Time",
+    "body": "Section 3 of Unit 1, titled 'Would You Look at the Time,' introduces data related to 'Time Use.' This section likely explores how data can be used to understand patterns and trends in how people spend their time. It serves as a transition to more complex data analysis topics within the unit. This section begins on page 89."
+  },
+  {
+    "title": "Unit 1 Lesson 15: Americans’ Time on Task",
+    "body": "Unit 1 Lesson 15, 'Americans’ Time on Task,' uses 'Time Use – data' to focus on 'Evaluating claims.' This lesson teaches learners how to critically assess information presented about time usage, distinguishing between substantiated claims and potentially misleading statements by analyzing the underlying data. This lesson is found on page 90."
+  },
+  {
+    "title": "Unit 1 Lab 1F: A Diamond In the Rough",
+    "body": "Unit 1 Lab 1F, 'A Diamond In the Rough,' focuses on cleaning and preparing 'Time Use – data.' This lab covers essential data cleaning techniques, including 'Cleaning names, categories, and strings,' ensuring that the data is accurate and consistent for analysis. This practical skill is vital for real-world data projects. This lab is located on page 95."
+  },
+  {
+    "title": "Unit 1 Lesson 16: Categorical Associations",
+    "body": "Unit 1 Lesson 16, 'Categorical Associations,' introduces the analysis of relationships between categorical variables. The focus is on understanding 'Joint relative frequencies in 2-way tables,' which helps in examining how two categorical variables occur together. This is a key step in exploring associations in data. This lesson is on page 100."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Interpreting Two-Way Tables",
+    "body": "Unit 1 Lesson 17, 'Interpreting Two-Way Tables,' builds upon the previous lesson by focusing on 'Marginal & conditional relative frequencies' within two-way tables. Learners will develop skills in understanding the relationships between categorical variables by analyzing these specific types of frequencies. This lesson is found on page 102."
+  },
+  {
+    "title": "Unit 1 Lab 1G: What’s the FREQ?",
+    "body": "Unit 1 Lab 1G, 'What’s the FREQ?', provides practical experience with analyzing 'Time Use – data' using '2-way tables' and 'tally' methods. This lab reinforces the understanding of categorical data analysis and how to summarize frequencies within two-way contingency tables. This lab is located on page 107."
+  },
+  {
+    "title": "Unit 1 Practicum 2: Teen Depression",
+    "body": "Unit 1 Practicum 2, 'Teen Depression,' uses 'Time Use' data to explore 'Statistical questions' and 'interpreting plots.' This practicum requires students to formulate questions about the data and use visualization techniques to interpret potential trends or insights related to the topic, likely connecting to well-being or time allocation. This practicum is on page 110."
+  },
+  {
+    "title": "Unit 1 Lab 1H: Our Time",
+    "body": "Unit 1 Lab 1H, 'Our Time,' is a comprehensive lab that involves 'Data cycle' and 'synthesis' related to time usage. This lab likely brings together various concepts learned in Unit 1, requiring students to apply their understanding of data collection, analysis, and interpretation to a specific context. This lab is found on page 112."
+  },
+  {
+    "title": "Unit 1 End of Unit 1 Project: Evaluating Claims from the Media",
+    "body": "The 'End of Unit 1 Project: Evaluating Claims from the Media' is a culminating activity for the first unit. It challenges students to apply their understanding of the 'Data cycle' to critically analyze claims presented in media sources, assessing the validity of these claims based on data evidence. This project is detailed on page 113."
+  },
+  {
+    "title": "Unit 2 Daily Overview",
+    "body": "The 'Daily Overview' for Unit 2 provides a structured plan for each day's learning activities within this unit. It outlines the topics to be covered, potential activities, and learning objectives, ensuring a clear and organized progression through the material. This daily guide helps students and instructors manage their time effectively. The overview for Unit 2 begins on page 115."
+  },
+  {
+    "title": "Unit 2 Essential Concepts",
+    "body": "Unit 2's 'Essential Concepts' section highlights the key takeaways and fundamental principles that students should master during this unit. It focuses on the core ideas that are critical for understanding the subsequent topics in the curriculum. A strong grasp of these concepts is vital for building a solid foundation in data analysis. This section starts on page 116."
+  },
+  {
+    "title": "Unit 2 Section 1: What is Your True Color?",
+    "body": "Section 1 of Unit 2, titled 'What is Your True Color?', introduces data related to 'Personality Color.' This section likely explores how data can be used to understand individual differences or categorize people based on certain traits. It serves as an engaging entry point into the unit's statistical concepts. This section begins on page 118."
+  },
+  {
+    "title": "Unit 2 Lesson 1: What Is Your True Color?",
+    "body": "Unit 2 Lesson 1, 'What Is Your True Color?', uses 'Personality Color – data' to teach about 'Subsets' and 'relative frequency.' This lesson introduces learners to the techniques of isolating specific parts of a dataset and calculating the proportion of observations that fall into certain categories, which are fundamental for data analysis. This lesson is found on page 120."
+  },
+  {
+    "title": "Unit 2 Lesson 2: What Does Mean Mean?",
+    "body": "Unit 2 Lesson 2, 'What Does Mean Mean?', focuses on 'Measures of center,' specifically introducing the 'mean' as a way to describe the typical value in a dataset. This lesson explains the calculation and interpretation of the mean, a fundamental concept in descriptive statistics. This lesson is located on page 123."
+  },
+  {
+    "title": "Unit 2 Lesson 3: Median In the Middle",
+    "body": "Unit 2 Lesson 3, 'Median In the Middle,' introduces another key 'Measure of center': the 'median.' This lesson explains how to find the median value in a dataset and its significance in representing the central tendency, especially when dealing with skewed data. This lesson is on page 127."
+  },
+  {
+    "title": "Unit 2 Lesson 4: How Far Is It from Typical?",
+    "body": "Unit 2 Lesson 4, 'How Far Is It from Typical?', delves into 'Measures of spread,' introducing the concept of Mean Absolute Deviation (MAD). This lesson teaches learners how to quantify the variability of data points around the typical value, providing a measure of dispersion. This lesson is found on page 130."
+  },
+  {
+    "title": "Unit 2 Lab 2A: All About Distributions",
+    "body": "Unit 2 Lab 2A, 'All About Distributions,' provides a practical application of 'Measures of center & spread' using 'Personality Color' data. This lab allows students to calculate and interpret various measures of center and spread, gaining a deeper understanding of the characteristics of data distributions. This lab is located on page 134."
+  },
+  {
+    "title": "Unit 2 Lesson 5: Human Boxplots",
+    "body": "Unit 2 Lesson 5, 'Human Boxplots,' introduces the visualization technique of 'Boxplots' and the related concept of the Interquartile Range (IQR). This lesson explains how boxplots effectively display the distribution of data, highlighting quartiles and identifying potential outliers. This lesson is on page 136."
+  },
+  {
+    "title": "Unit 2 Lesson 6: Face Off",
+    "body": "Unit 2 Lesson 6, 'Face Off,' focuses on the crucial skill of 'Comparing distributions.' This lesson likely uses visual tools like boxplots or histograms to compare different datasets or groups, enabling learners to draw conclusions based on observed differences. This lesson is found on page 139."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Plot Match",
+    "body": "Unit 2 Lesson 7, 'Plot Match,' continues the theme of 'Comparing distributions.' This lesson likely involves matching different statistical plots to their corresponding data descriptions or scenarios, enhancing learners' ability to interpret and differentiate between various data distributions. This lesson is located on page 142."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Oh, the Summaries…",
+    "body": "Unit 2 Lab 2B, 'Oh, the Summaries…,' focuses on 'Numerical summaries' for 'Personality Color' data and introduces 'custom functions.' This lab provides hands-on experience in calculating various statistical summaries and potentially writing simple R functions to automate these calculations, enhancing programming skills. This lab is on page 144."
+  },
+  {
+    "title": "Unit 2 Practicum 1: The Summaries",
+    "body": "Unit 2 Practicum 1, 'The Summaries,' consolidates learning for 'Food Habits or Time Use' data by focusing on the 'Data cycle' and 'comparing distributions.' This practicum integrates concepts from the unit, requiring students to analyze and compare datasets using various statistical summaries and visualization techniques. This practicum is on page 147."
+  },
+  {
+    "title": "Unit 2 Section 2: How Likely is it?",
+    "body": "Section 2 of Unit 2, titled 'How Likely is it?', introduces the fundamental concepts of probability and the use of simulations to estimate probabilities. This section lays the groundwork for understanding randomness and uncertainty in data. This section begins on page 149."
+  },
+  {
+    "title": "Unit 2 Lesson 8: How Likely is It?",
+    "body": "Unit 2 Lesson 8, 'How Likely is It?', serves as an introduction to 'Probability' and 'simulations.' This lesson explains the basic principles of probability and demonstrates how computer simulations can be used to model random events and estimate the likelihood of different outcomes. This lesson is found on page 150."
+  },
+  {
+    "title": "Unit 2 Lesson 9: Dice Detective",
+    "body": "Unit 2 Lesson 9, 'Dice Detective,' focuses on using 'Simulations to detect unfairness.' This lesson applies the principles of probability and simulation to investigate whether a random process, like rolling dice, is behaving as expected or if there might be evidence of bias. This lesson is located on page 153."
+  },
+  {
+    "title": "Unit 2 Lesson 10: Marbles, Marbles",
+    "body": "Unit 2 Lesson 10, 'Marbles, Marbles,' explores 'Probability' in scenarios involving 'with replacement.' This lesson uses the classic example of drawing marbles from a bag to illustrate how probabilities are calculated when items are returned to the population after being drawn. This lesson is on page 157."
+  },
+  {
+    "title": "Unit 2 Lab 2C: Which Song Plays Next?",
+    "body": "Unit 2 Lab 2C, 'Which Song Plays Next?', involves calculating the 'Probability of simple events' and introduces programming constructs like 'do loops' and the `set.seed()` function in R. This lab applies probability concepts to a real-world scenario (music playback) and enhances coding skills for simulations. This lab is found on page 159."
+  },
+  {
+    "title": "Unit 2 Lesson 11: This AND/OR That",
+    "body": "Unit 2 Lesson 11, 'This AND/OR That,' delves into 'Compound probabilities,' teaching learners how to calculate the probability of multiple events occurring together (AND) or at least one of several events occurring (OR). This is a key concept in understanding complex probabilistic scenarios. This lesson is located on page 162."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Queue It Up!",
+    "body": "Unit 2 Lab 2D, 'Queue It Up!', explores 'Probability with/without replacement' using the `sample()` function in R. This lab provides hands-on experience in simulating scenarios involving sampling, reinforcing the understanding of how replacement affects probabilities and how to implement these simulations in code. This lab is on page 166."
+  },
+  {
+    "title": "Unit 2 Practicum 2: Win, Win, Win",
+    "body": "Unit 2 Practicum 2, 'Win, Win, Win,' focuses on 'Probability estimation through repeated simulations.' This practicum challenges students to use simulation techniques to estimate the probability of certain outcomes, applying the concepts of probability and computational statistics learned in the unit. This practicum is on page 169."
+  },
+  {
+    "title": "Unit 2 Section 3: Are You Stressing or Chilling?",
+    "body": "Section 3 of Unit 2, titled 'Are You Stressing or Chilling?', introduces a campaign focused on 'Stress/Chill – data.' This section likely uses this theme to explore statistical concepts related to differences between groups and the introduction to inference. This section begins on page 170."
+  },
+  {
+    "title": "Unit 2 Lesson 12: Don’t Take My Stress Away",
+    "body": "Unit 2 Lesson 12, 'Don’t Take My Stress Away,' kicks off the 'Stress/Chill – data' campaign by focusing on the 'Introduction to the campaign.' This lesson sets the context for the data analysis that will follow, explaining the campaign's goals and the type of data being collected. This lesson is found on page 172."
+  },
+  {
+    "title": "Unit 2 Lesson 13: The Horror Movie Shuffle",
+    "body": "Unit 2 Lesson 13, 'The Horror Movie Shuffle,' uses 'Stress/Chill – data' to explore 'Chance differences – categorical.' This lesson introduces methods for comparing the likelihood of categorical outcomes between different groups, which is a foundational step in statistical inference. This lesson is located on page 176."
+  },
+  {
+    "title": "Unit 2 Lab 2E: The Horror Movie Shuffle",
+    "body": "Unit 2 Lab 2E, 'The Horror Movie Shuffle,' continues the theme of 'Stress/Chill – data' with a focus on 'Inference for categorical variables.' This lab provides practical experience in conducting statistical tests to determine if observed differences in categorical data between groups are statistically significant. This lab is on page 180."
+  },
+  {
+    "title": "Unit 2 Lesson 14: The Titanic Shuffle",
+    "body": "Unit 2 Lesson 14, 'The Titanic Shuffle,' shifts the focus to 'Chance differences - numerical' using 'Stress/Chill – data.' This lesson introduces the concept of comparing numerical data between groups and preparing for inference on quantitative variables. This lesson is found on page 183."
+  },
+  {
+    "title": "Unit 2 Lab 2F: The Titanic Shuffle",
+    "body": "Unit 2 Lab 2F, 'The Titanic Shuffle,' provides hands-on experience with 'Inference for numerical variables' using 'Stress/Chill – data.' This lab involves applying statistical methods to compare numerical data across different groups and draw conclusions about potential differences. This lab is located on page 187."
+  },
+  {
+    "title": "Unit 2 Lesson 15: Tangible Data Merging",
+    "body": "Unit 2 Lesson 15, 'Tangible Data Merging,' focuses on the practical skill of 'Merging datasets,' using 'Stress/Chill – data.' This lesson teaches learners how to combine data from different sources, a common task in data analysis that allows for more comprehensive insights. This lesson is on page 189."
+  },
+  {
+    "title": "Unit 2 Lab 2G: Getting It Together",
+    "body": "Unit 2 Lab 2G, 'Getting It Together,' contrasts 'Stacking vs. joining datasets' for 'Stress/Chill & Personality Color' data. This lab provides practical experience in combining datasets using different methods, teaching learners when and how to use each technique for effective data integration. This lab is found on page 191."
+  },
+  {
+    "title": "Unit 2 Practicum 3: What Stresses Us?",
+    "body": "Unit 2 Practicum 3, 'What Stresses Us?', involves 'Analyzing merged data' from 'Stress/Chill & Personality Color' datasets. This practicum requires students to synthesize their understanding of data merging and analysis techniques to explore relationships between stress levels and personality types. This practicum is on page 193."
+  },
+  {
+    "title": "Unit 2 Section 4: What’s Normal?",
+    "body": "Section 4 of Unit 2, titled 'What’s Normal?', introduces the concept of the normal distribution and related statistical measures. This section is fundamental for understanding many statistical methods and probability distributions used in data science. This section begins on page 194."
+  },
+  {
+    "title": "Unit 2 Lesson 16: What Is Normal?",
+    "body": "Unit 2 Lesson 16, 'What Is Normal?', provides an 'Introduction to the normal curve.' This lesson explains the characteristics of the normal distribution, its importance in statistics, and how it is used to model various phenomena. This lesson is found on page 195."
+  },
+  {
+    "title": "Unit 2 Lesson 17: A Normal Measure of Spread",
+    "body": "Unit 2 Lesson 17, 'A Normal Measure of Spread,' focuses on 'Measures of spread' specifically in the context of the normal distribution, introducing the 'Standard Deviation (SD).' This lesson explains how the standard deviation quantifies the spread of data around the mean in a normal distribution. This lesson is located on page 198."
+  },
+  {
+    "title": "Unit 2 Lesson 18: What’s Your Z-Score?",
+    "body": "Unit 2 Lesson 18, 'What’s Your Z-Score?', introduces the concept of 'z-scores' and their relationship to 'shuffling' (likely referring to permutation tests or random sampling). This lesson teaches learners how to standardize data points and understand their position relative to the mean and standard deviation. This lesson is on page 201."
+  },
+  {
+    "title": "Unit 2 Lab 2H: Eyeballing Normal",
+    "body": "Unit 2 Lab 2H, 'Eyeballing Normal,' involves visualizing 'Normal curves overlaid on distributions & simulated data.' This lab provides practical experience in assessing whether data follows a normal distribution by comparing it to theoretical normal curves, enhancing visual interpretation skills. This lab is found on page 205."
+  },
+  {
+    "title": "Unit 2 Lab 2I: R’s Normal Distribution Alphabet",
+    "body": "Unit 2 Lab 2I, 'R’s Normal Distribution Alphabet,' explores the 'Normal probability' functions in R: `rnorm()`, `pnorm()`, and `qnorm()`. This lab provides hands-on experience using R to work with the normal distribution, generating random numbers, calculating probabilities, and finding quantiles. This lab is located on page 207."
+  },
+  {
+    "title": "Unit 2 End of Unit 2 Project: Comparing Groups Using Our Own Data",
+    "body": "The 'End of Unit 2 Project: Comparing Groups Using Our Own Data' is a capstone activity that synthesizes the unit's learning. It involves applying concepts related to 'Stress/Chill, Personality Color, Food Habits, or Time Use' data to compare groups and draw statistical conclusions. This project is detailed on page 209."
+  },
+  {
+    "title": "Unit 3 Daily Overview",
+    "body": "The 'Daily Overview' for Unit 3 provides a day-by-day plan for the lessons and activities within this unit. It outlines the topics, objectives, and schedule, helping students and instructors navigate the curriculum effectively. This overview ensures a structured approach to learning the material. The daily plan for Unit 3 starts on page 211."
+  },
+  {
+    "title": "Unit 3 Essential Concepts",
+    "body": "Unit 3's 'Essential Concepts' section identifies the core knowledge and skills students are expected to acquire during this unit. It emphasizes the most crucial principles related to experimental design, data collection, and inference, providing a foundation for understanding the unit's advanced topics. This section begins on page 212."
+  },
+  {
+    "title": "Unit 3 Section 1: Testing, Testing…1, 2, 3…",
+    "body": "Section 1 of Unit 3, titled 'Testing, Testing…1, 2, 3…,' focuses on the foundations of data-driven investigation and experimentation. This section introduces learners to the process of critically evaluating information and understanding how data can be used to test hypotheses and establish causation. This section starts on page 214."
+  },
+  {
+    "title": "Unit 3 Lesson 1: Anecdotes vs. Data",
+    "body": "Unit 3 Lesson 1, 'Anecdotes vs. Data,' emphasizes critical thinking by focusing on 'Reading articles critically' and understanding the role of 'data.' This lesson teaches learners to differentiate between anecdotal evidence and statistically sound data, promoting a more rigorous approach to evaluating information. This lesson is found on page 216."
+  },
+  {
+    "title": "Unit 3 Lesson 2: What is an Experiment?",
+    "body": "Unit 3 Lesson 2, 'What is an Experiment?', defines and explains the principles of 'Experiments' and the concept of 'causation.' This lesson distinguishes experimental studies from other research methods and highlights how well-designed experiments can establish cause-and-effect relationships. This lesson is located on page 219."
+  },
+  {
+    "title": "Unit 3 Lesson 3: Let’s Try an Experiment!",
+    "body": "Unit 3 Lesson 3, 'Let’s Try an Experiment!', focuses on the practical elements of designing experiments, specifically 'Random assignments' and identifying 'confounding factors.' This lesson teaches learners how to set up experiments to minimize bias and isolate the effects of interest. This lesson is on page 222."
+  },
+  {
+    "title": "Unit 3 Lesson 4: Predictions, Predictions",
+    "body": "Unit 3 Lesson 4, 'Predictions, Predictions,' explores the use of 'Visualizations' to make 'predictions.' This lesson demonstrates how graphical representations of data can aid in forecasting future outcomes or understanding trends, linking data visualization to predictive analysis. This lesson is found on page 224."
+  },
+  {
+    "title": "Unit 3 Lesson 5: Time Perception Experiment",
+    "body": "Unit 3 Lesson 5, 'Time Perception Experiment,' applies experimental principles to a specific context. This lesson focuses on the 'Elements of an experiment' by having students engage with a time perception study, reinforcing the concepts of experimental design. This lesson is located on page 226."
+  },
+  {
+    "title": "Unit 3 Lab 3A: The Results Are In!",
+    "body": "Unit 3 Lab 3A, 'The Results Are In!', involves 'Analyzing experiment data.' This lab provides hands-on practice in interpreting the outcomes of experiments, using statistical methods to draw conclusions based on the collected data. This lab is on page 228."
+  },
+  {
+    "title": "Unit 3 Practicum 1: TB or Not TB",
+    "body": "Unit 3 Practicum 1, 'TB or Not TB,' uses 'Time Perception' data for a 'Simulation using experiment data.' This practicum challenges students to apply simulation techniques to analyze experimental results, further deepening their understanding of statistical inference and data analysis. This practicum is found on page 229."
+  },
+  {
+    "title": "Unit 3 Section 2: Would You Look at That?",
+    "body": "Section 2 of Unit 3, titled 'Would You Look at That?', contrasts different methods of data collection, specifically 'Observational Studies' versus 'Experiments.' This section helps learners understand the strengths and limitations of each approach in gathering data and drawing conclusions. This section begins on page 231."
+  },
+  {
+    "title": "Unit 3 Lesson 6: Observational Studies",
+    "body": "Unit 3 Lesson 6, 'Observational Studies,' defines and explains the nature of an 'Observational study.' This lesson differentiates it from experimental studies by highlighting that researchers observe and collect data without manipulating variables. This lesson is located on page 233."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Observational Studies vs. Experiments",
+    "body": "Unit 3 Lesson 7, 'Observational Studies vs. Experiments,' directly compares these two fundamental research methodologies. This lesson clarifies the key differences, advantages, and disadvantages of each approach for data collection and establishing relationships between variables. This lesson is on page 235."
+  },
+  {
+    "title": "Unit 3 Lesson 8: Monsters that Hide in Observational Studies",
+    "body": "Unit 3 Lesson 8, 'Monsters that Hide in Observational Studies,' focuses on the challenges inherent in observational research, particularly 'confounding factors.' This lesson educates learners on how hidden variables can distort findings and lead to incorrect conclusions in observational studies. This lesson is found on page 237."
+  },
+  {
+    "title": "Unit 3 Lab 3B: Confound it all!",
+    "body": "Unit 3 Lab 3B, 'Confound it all!', is a practical exercise focused on understanding and identifying 'Confounding factors' in data. This lab likely involves analyzing scenarios where confounding variables might be present and learning strategies to mitigate their impact on study results. This lab is located on page 241."
+  },
+  {
+    "title": "Unit 3 Section 3: Are You Asking Me?",
+    "body": "Section 3 of Unit 3, titled 'Are You Asking Me?', focuses on the methods and challenges of collecting data through 'Surveys.' This section covers techniques for designing effective surveys, ensuring data quality, and avoiding bias in responses. This section begins on page 243."
+  },
+  {
+    "title": "Unit 3 Lesson 9: Survey Says…",
+    "body": "Unit 3 Lesson 9, 'Survey Says…,' provides a clear definition and introduction to the concept of a 'Survey' as a method of data collection. This lesson lays the groundwork for understanding how surveys are designed and used to gather information from a population. This lesson is on page 244."
+  },
+  {
+    "title": "Unit 3 Lesson 10: We’re So Random",
+    "body": "Unit 3 Lesson 10, 'We’re So Random,' emphasizes the importance of 'Data collection' through 'random samples.' This lesson explains why random sampling is crucial for obtaining representative data and how it helps in generalizing findings from a sample to a larger population. This lesson is found on page 247."
+  },
+  {
+    "title": "Unit 3 Lesson 11: The Gettysburg Address",
+    "body": "Unit 3 Lesson 11, 'The Gettysburg Address,' uses a historical reference to discuss 'Sampling bias.' This lesson highlights how poorly designed or executed sampling methods can lead to biased results, skewing the data and compromising the validity of conclusions drawn from surveys. This lesson is located on page 251."
+  },
+  {
+    "title": "Unit 3 Lab 3C: Random Sampling",
+    "body": "Unit 3 Lab 3C, 'Random Sampling,' is a practical application of the principles of 'Random sampling.' This lab likely involves using software or methods to draw random samples from a dataset, reinforcing the techniques learned in the previous lessons and demonstrating their application. This lab is on page 256."
+  },
+  {
+    "title": "Unit 3 Lesson 12: Bias in Survey Sampling",
+    "body": "Unit 3 Lesson 12, 'Bias in Survey Sampling,' delves deeper into the various ways 'Bias in survey sampling' can occur. This lesson examines different types of biases (e.g., selection bias, non-response bias) and their impact on survey results, emphasizing the need for careful survey design. This lesson is found on page 258."
+  },
+  {
+    "title": "Unit 3 Lesson 13: The Confidence Game",
+    "body": "Unit 3 Lesson 13, 'The Confidence Game,' introduces the concept of 'Confidence intervals.' This lesson explains how confidence intervals are used to estimate a population parameter based on sample data and provides a measure of the uncertainty associated with that estimate. This lesson is located on page 261."
+  },
+  {
+    "title": "Unit 3 Lesson 14: How Confident Are You?",
+    "body": "Unit 3 Lesson 14, 'How Confident Are You?', elaborates on 'Confidence intervals' by focusing on the 'margin of error.' This lesson teaches learners how to interpret confidence intervals and understand the margin of error, which quantifies the precision of the estimate. This lesson is on page 264."
+  },
+  {
+    "title": "Unit 3 Lab 3D: Are You Sure about That?",
+    "body": "Unit 3 Lab 3D, 'Are You Sure about That?', introduces 'Bootstrapping' as a method for estimating confidence intervals. This lab provides hands-on experience with bootstrapping, a computational technique that allows for the construction of confidence intervals without relying on strong distributional assumptions. This lab is found on page 266."
+  },
+  {
+    "title": "Unit 3 Practicum 2: Let’s Build a Survey!",
+    "body": "Unit 3 Practicum 2, 'Let’s Build a Survey!', focuses on practical 'Survey design with non-leading questions.' This practicum requires students to apply their knowledge by designing their own survey instrument, paying close attention to question wording to avoid bias and ensure accurate data collection. This practicum is on page 269."
+  },
+  {
+    "title": "Unit 3 Section 4: What’s the Trigger?",
+    "body": "Section 4 of Unit 3, titled 'What’s the Trigger?', introduces Participatory Sensing (PS) campaigns. This section explores how sensors and data collection methods can be used to gather information related to specific events or triggers, fostering a hands-on approach to data gathering in real-world contexts. This section begins on page 270."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Ready, Sense, Go!",
+    "body": "Unit 3 Lesson 15, 'Ready, Sense, Go!', covers 'Sensors' and 'data collection' in the context of Participatory Sensing (PS). This lesson introduces the technology and methodologies used in PS campaigns to gather data directly from participants or their environment. This lesson is found on page 271."
+  },
+  {
+    "title": "Unit 3 Lesson 16: Does it have a Trigger?",
+    "body": "Unit 3 Lesson 16, 'Does it have a Trigger?', examines the relationship between 'Survey questions' and 'sensor questions' within PS campaigns. This lesson focuses on how to formulate effective questions, both qualitative (surveys) and quantitative (sensors), to capture relevant information for analysis. This lesson is located on page 274."
+  },
+  {
+    "title": "Unit 3 Lesson 17: Creating Our Own PS Campaign",
+    "body": "Unit 3 Lesson 17, 'Creating Our Own PS Campaign,' guides learners through the process of 'Participatory Sensing campaign creation.' This lesson involves conceptualizing, planning, and designing a PS campaign, applying the principles learned about data collection and research questions. This lesson is on page 276."
+  },
+  {
+    "title": "Unit 3 Lesson 18: Evaluating Our Own PS Campaign",
+    "body": "Unit 3 Lesson 18, 'Evaluating Our Own PS Campaign,' focuses on 'Statistical questions' and how to 'evaluate a campaign.' This lesson teaches learners to assess the effectiveness of a PS campaign by formulating appropriate statistical questions and analyzing the data collected to answer them. This lesson is found on page 279."
+  },
+  {
+    "title": "Unit 3 Lesson 19: Implementing Our Own PS Campaign",
+    "body": "Unit 3 Lesson 19, 'Implementing Our Own PS Campaign,' involves a 'Mock-implement & create campaign' for the 'Class Campaign—data.' This lesson allows students to practically apply their campaign design by simulating its implementation and refining the campaign based on their plans. This lesson is located on page 281."
+  },
+  {
+    "title": "Unit 3 Section 5: Webpages",
+    "body": "Section 5 of Unit 3, titled 'Webpages,' explores the vast amount of 'Data on the internet.' This section introduces techniques for accessing, collecting, and utilizing data found on websites, preparing learners for web scraping and data integration tasks. This section begins on page 283."
+  },
+  {
+    "title": "Unit 3 Lesson 20: Online Data-ing",
+    "body": "Unit 3 Lesson 20, 'Online Data-ing,' focuses specifically on 'Data on the internet' relevant to the 'Class Campaign—data.' This lesson introduces learners to the nature of online data, its sources, and its potential uses in research and analysis. This lesson is found on page 284."
+  },
+  {
+    "title": "Unit 3 Lab 3E: Scraping Web Data",
+    "body": "Unit 3 Lab 3E, 'Scraping Web Data,' provides practical skills in 'Scraping data from the Internet' for the 'Class Campaign—data.' This lab teaches learners how to use tools and techniques to extract data from websites, a valuable skill for data acquisition. This lab is located on page 287."
+  },
+  {
+    "title": "Unit 3 Lab 3F: Maps",
+    "body": "Unit 3 Lab 3F, 'Maps,' focuses on 'Making maps with data from the Internet' for the 'Class Campaign—data.' This lab teaches learners how to visualize geographical data obtained from the web, combining data analysis with spatial representation. This lab is on page 289."
+  },
+  {
+    "title": "Unit 3 Lesson 21: Learning to Love XML",
+    "body": "Unit 3 Lesson 21, 'Learning to Love XML,' introduces 'Data storage' concepts, specifically focusing on 'XML' format for the 'Class Campaign—data.' This lesson explains the structure and use of XML files for organizing and exchanging data. This lesson is found on page 291."
+  },
+  {
+    "title": "Unit 3 Lesson 22: Changing Format",
+    "body": "Unit 3 Lesson 22, 'Changing Format,' focuses on 'Converting XML files' relevant to the 'Class Campaign—data.' This lesson teaches learners how to transform data from XML format into other usable formats, a common task in data preparation. This lesson is located on page 296."
+  },
+  {
+    "title": "Unit 3 End of Unit 3 Project: Analyzing Our Own Campaign Data",
+    "body": "The 'End of Unit 3 Project: Analyzing Our Own Campaign Data' is a capstone activity for the 'Class Campaign.' Students apply their acquired knowledge to analyze data collected or generated during the unit, focusing on 'Statistical question' and their own data. This project is detailed on page 299."
+  },
+  {
+    "title": "Unit 4 Daily Overview",
+    "body": "The 'Daily Overview' for Unit 4 provides a day-by-day schedule of topics and activities for this unit. It outlines the learning progression, ensuring that students and instructors have a clear plan for covering the material related to campaigns, community issues, and predictive modeling. This overview begins on page 301."
+  },
+  {
+    "title": "Unit 4 Essential Concepts",
+    "body": "Unit 4's 'Essential Concepts' section highlights the core principles and skills that students are expected to master throughout the unit. It focuses on advanced topics such as statistical modeling, prediction, and data-driven decision-making, providing a roadmap for learning. This section starts on page 302."
+  },
+  {
+    "title": "Unit 4 Section 1: Campaigns and Community",
+    "body": "Section 1 of Unit 4, 'Campaigns and Community,' focuses on applying data science skills to real-world 'Community issues.' This section emphasizes the creation and evaluation of campaigns, using data to understand and address problems relevant to society. This section begins on page 304."
+  },
+  {
+    "title": "Unit 4 Lesson 1: Trash",
+    "body": "Unit 4 Lesson 1, 'Trash,' introduces 'Modeling to answer real world problems' using 'official datasets.' This lesson focuses on leveraging authentic data sources to build models that can address practical issues like waste management, emphasizing the application of data science in solving societal challenges. This lesson is found on page 306."
+  },
+  {
+    "title": "Unit 4 Lesson 2: Drought",
+    "body": "Unit 4 Lesson 2, 'Drought,' covers 'Exploratory data analysis' and 'campaign creation' related to environmental issues. This lesson teaches learners how to analyze data to understand complex problems like drought and how to design campaigns to communicate findings and solutions effectively. This lesson is located on page 309."
+  },
+  {
+    "title": "Unit 4 Lesson 3: Community Connection",
+    "body": "Unit 4 Lesson 3, 'Community Connection,' involves 'Team Campaign—data' with a focus on 'Community topic research' and 'campaign creation.' This lesson guides students in identifying relevant community issues, conducting research using data, and developing a campaign strategy to address the chosen topic. This lesson is on page 311."
+  },
+  {
+    "title": "Unit 4 Lesson 4: Evaluate and Implement the Campaign",
+    "body": "Unit 4 Lesson 4, 'Evaluate and Implement the Campaign,' focuses on the 'Team Campaign—data' by teaching learners to 'Evaluate & mock-implement campaign.' This lesson emphasizes assessing the potential effectiveness of a campaign and planning its rollout. This lesson is found on page 314."
+  },
+  {
+    "title": "Unit 4 Lesson 5: Refine and Create the Campaign",
+    "body": "Unit 4 Lesson 5, 'Refine and Create the Campaign,' continues the work on 'Team Campaign—data' by focusing on 'Revise and edit campaign, data collection.' This lesson guides students in improving their campaign based on feedback and planning the necessary data collection for its execution. This lesson is located on page 316."
+  },
+  {
+    "title": "Unit 4 Section 2: Predictions and Models",
+    "body": "Section 2 of Unit 4, 'Predictions and Models,' focuses on using statistical methods to make predictions and build models from data. This section introduces learners to various modeling techniques, starting with single-variable predictions and progressing to more complex multi-variable approaches. This section begins on page 317."
+  },
+  {
+    "title": "Unit 4 Lesson 6: Statistical Predictions Using One Variable",
+    "body": "Unit 4 Lesson 6, 'Statistical Predictions Using One Variable,' focuses on 'One variable predictions using a rule' with 'Team Campaign—data.' This lesson introduces basic methods for forecasting outcomes based on a single predictor variable, laying the foundation for more advanced modeling. This lesson is found on page 319."
+  },
+  {
+    "title": "Unit 4 Lesson 7: Statistical Predictions Applying the Rule",
+    "body": "Unit 4 Lesson 7, 'Statistical Predictions Applying the Rule,' deals with 'Predictions applying MSE, MAE' for 'Team Campaign—data.' This lesson teaches learners how to evaluate the accuracy of their predictions using metrics like Mean Squared Error (MSE) and Mean Absolute Error (MAE). This lesson is located on page 321."
+  },
+  {
+    "title": "Unit 4 Lesson 8: Statistical Predictions Using Two Variables",
+    "body": "Unit 4 Lesson 8, 'Statistical Predictions Using Two Variables,' expands on prediction techniques by covering 'Two-variable statistical predictions' for 'Team Campaign—data.' This lesson explores how to use multiple predictor variables to improve the accuracy of forecasts. This lesson is on page 325."
+  },
+  {
+    "title": "Unit 4 Lesson 9: The Spaghetti Line",
+    "body": "Unit 4 Lesson 9, 'The Spaghetti Line,' introduces 'Estimate line of best fit' and 'linear regression' using 'Team Campaign—data.' This lesson focuses on finding the best linear relationship to model the data and make predictions. This lesson is found on page 328."
+  },
+  {
+    "title": "Unit 4 LAB 4A: If the Line Fits…",
+    "body": "Unit 4 LAB 4A, 'If the Line Fits…,' provides practical experience in how to 'Estimate line of best fit' for 'Team Campaign—data.' This lab reinforces the concepts of linear regression and allows students to apply these techniques to real datasets. This lab is located on page 330."
+  },
+  {
+    "title": "Unit 4 Lesson 10: What’s the Best Line?",
+    "body": "Unit 4 Lesson 10, 'What’s the Best Line?', focuses on 'Predictions based on linear models' using 'Team Campaign—data.' This lesson teaches learners how to use the line of best fit to make predictions and interpret the results within the context of their data. This lesson is on page 332."
+  },
+  {
+    "title": "Unit 4 LAB 4B: What’s the Score?",
+    "body": "Unit 4 LAB 4B, 'What’s the Score?', involves 'Comparing predictions to real data' for 'Team Campaign—data.' This lab assesses the performance of linear models by evaluating how well their predictions match actual observed values. This lab is found on page 335."
+  },
+  {
+    "title": "Unit 4 LAB 4C: Cross-Validation",
+    "body": "Unit 4 LAB 4C, 'Cross-Validation,' introduces a crucial technique for model evaluation: 'Use training and test data for predictions' with 'Team Campaign—data.' This lab teaches learners how to split data to train models and then test their performance on unseen data, preventing overfitting. This lab is located on page 337."
+  },
+  {
+    "title": "Unit 4 Lesson 11: What’s the Trend?",
+    "body": "Unit 4 Lesson 11, 'What’s the Trend?', examines 'Trend, associations, linear model' using 'Team Campaign—data.' This lesson focuses on identifying trends in data and understanding how linear models can represent these trends and associations. This lesson is on page 340."
+  },
+  {
+    "title": "Unit 4 Lesson 12: How Strong Is It?",
+    "body": "Unit 4 Lesson 12, 'How Strong Is It?', introduces the 'Correlation coefficient' and measures the 'strength of trend' for 'Team Campaign—data.' This lesson teaches learners how to quantify the strength and direction of linear relationships between variables. This lesson is found on page 344."
+  },
+  {
+    "title": "Unit 4 LAB 4D: Interpreting Correlations",
+    "body": "Unit 4 LAB 4D, 'Interpreting Correlations,' focuses on using the 'Correlation coefficient' to find the 'best model' for 'Team Campaign—data.' This lab provides practice in interpreting correlation values and selecting appropriate models based on the strength of association. This lab is located on page 347."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Improving Your Model",
+    "body": "Unit 4 Lesson 13, 'Improving Your Model,' introduces advanced modeling techniques, specifically 'Non-linear regression' for 'Team Campaign—data.' This lesson explores how to model relationships that are not strictly linear, leading to more accurate predictions in certain scenarios. This lesson is on page 350."
+  },
+  {
+    "title": "Unit 4 LAB 4E: Some Models Have Curves",
+    "body": "Unit 4 LAB 4E, 'Some Models Have Curves,' provides hands-on experience with 'Non-linear regression' for 'Team Campaign—data.' This lab allows students to apply non-linear modeling techniques to datasets, enhancing their ability to capture complex patterns. This lab is found on page 352."
+  },
+  {
+    "title": "Unit 4 Practicum: Predictions",
+    "body": "Unit 4 Practicum, 'Predictions,' focuses on 'Linear regression' for 'Team Campaign—data.' This practicum synthesizes the unit's learnings on predictive modeling, requiring students to apply linear regression techniques to make and evaluate predictions based on data. This practicum is on page 354."
+  },
+  {
+    "title": "Unit 4 Section 3: Piecing it Together",
+    "body": "Section 3 of Unit 4, 'Piecing it Together,' focuses on building more sophisticated predictive models by incorporating multiple variables. This section delves into advanced regression techniques that allow for a more comprehensive understanding of complex relationships within data. This section begins on page 355."
+  },
+  {
+    "title": "Unit 4 Lesson 14: More Variables to Make Better Predictions",
+    "body": "Unit 4 Lesson 14, 'More Variables to Make Better Predictions,' introduces 'Multiple linear regression' using 'Team Campaign—data.' This lesson explains how to build models that utilize several predictor variables simultaneously to improve prediction accuracy. This lesson is found on page 357."
+  },
+  {
+    "title": "Unit 4 Lesson 15: Combination of Variables",
+    "body": "Unit 4 Lesson 15, 'Combination of Variables,' continues the exploration of 'Multiple linear regression' for 'Team Campaign—data.' This lesson deepens the understanding of how combining variables in a model can lead to more robust and accurate statistical predictions. This lesson is located on page 360."
+  },
+  {
+    "title": "Unit 4 LAB 4F: This Model Is Big Enough for All of Us",
+    "body": "Unit 4 LAB 4F, 'This Model Is Big Enough for All of Us,' provides practical application of 'Multiple linear regression' for 'Team Campaign—data.' This lab allows students to build and interpret models that include multiple predictors, enhancing their skills in complex data analysis. This lab is on page 363."
+  },
+  {
+    "title": "Unit 4 Section 4: Decisions, Decisions!",
+    "body": "Section 4 of Unit 4, 'Decisions, Decisions!', shifts focus to using data for classification and decision-making. This section introduces methods for categorizing observations based on their characteristics and building models that support informed choices. This section begins on page 364."
+  },
+  {
+    "title": "Unit 4 Lesson 16: Football or Futbol?",
+    "body": "Unit 4 Lesson 16, 'Football or Futbol?', explores 'Multiple predictors, classifying into groups' using 'Team Campaign—data.' This lesson introduces techniques for using several variables to predict which category an observation belongs to, a fundamental concept in classification. This lesson is found on page 365."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Grow Your Own Decision Tree",
+    "body": "Unit 4 Lesson 17, 'Grow Your Own Decision Tree,' focuses on 'Decision trees based on training/test data' for 'Team Campaign—data.' This lesson explains how decision trees work for classification by partitioning data based on predictor variables, using a common machine learning technique. This lesson is located on page 371."
+  },
+  {
+    "title": "Unit 4 LAB 4G: Growing Trees",
+    "body": "Unit 4 LAB 4G, 'Growing Trees,' provides hands-on experience with 'Decision trees to classify observations' for 'Team Campaign—data.' This lab allows students to build and interpret decision tree models, applying classification techniques to real-world data. This lab is on page 375."
+  },
+  {
+    "title": "Unit 4 Section 5: Ties That Bind",
+    "body": "Section 5 of Unit 4, 'Ties That Bind,' introduces unsupervised learning techniques, specifically clustering and network analysis. This section explores how to group similar data points together and understand the relationships within networks. This section begins on page 378."
+  },
+  {
+    "title": "Unit 4 Lesson 18: Where Do I Belong?",
+    "body": "Unit 4 Lesson 18, 'Where Do I Belong?', introduces 'Clustering' and 'k-means' algorithms using 'Team Campaign—data.' This lesson explains how clustering methods can be used to group similar observations together without prior labels, revealing underlying structures in the data. This lesson is found on page 379."
+  },
+  {
+    "title": "Unit 4 LAB 4H: Finding Clusters",
+    "body": "Unit 4 LAB 4H, 'Finding Clusters,' provides practical application of 'Clustering' and 'k-means' for 'Team Campaign—data.' This lab allows students to implement k-means clustering on datasets, identifying natural groupings within the data. This lab is located on page 385."
+  },
+  {
+    "title": "Unit 4 Lesson 19: Our Class Network",
+    "body": "Unit 4 Lesson 19, 'Our Class Network,' explores 'Clustering' and 'networks' using 'Team Campaign—data.' This lesson extends the concept of grouping data points to understanding relationships within networks, examining how individuals or entities are connected. This lesson is on page 387."
+  },
+  {
+    "title": "Unit 4 End of Unit 4 Project: Modeling a Community Issue",
+    "body": "The 'End of Unit 4 Project: Modeling a Community Issue' is the culminating activity for the 'Team Campaign.' Students synthesize their knowledge of modeling techniques, including regression, classification, and clustering, to analyze and propose solutions for a community problem using data. This project is detailed on page 390."
+  }
+]

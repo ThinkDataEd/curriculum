@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Unit 4, Lesson 12",
+    "body": "This lesson, titled 'How Strong Is It?', focuses on understanding the correlation coefficient as a measure of the strength of linear associations between variables. Students will analyze scatterplots to visually assess the strength of association, distinguishing between strong and weak relationships. The lesson introduces the correlation coefficient as a numerical value that quantifies this strength, with values closer to 1 or -1 indicating a strong linear trend and values closer to 0 indicating a weak trend. Students will practice assigning approximate correlation coefficients to various scatterplots and justifying their reasoning, reinforcing the concept that the correlation coefficient is only applicable to linear relationships. The lesson includes activities using handouts and plot cutouts, culminating in a journal entry for students to define and explain the significance of the correlation coefficient. Homework involves completing the journal entry and preparing for Lab 4D, 'Interpreting Correlations', which precedes Lesson 13."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Objective",
+    "body": "The primary objective of Unit 4 Lesson 12, 'How Strong Is It?', is for students to grasp that the correlation coefficient is a specific statistical measure used exclusively to quantify the strength of linear associations between two variables. This means understanding that it does not effectively describe or measure the strength of non-linear relationships."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Materials",
+    "body": "The materials required for Unit 4 Lesson 12, 'How Strong Is It?', include two handouts: 'Strength of Association' (LMR_U4_L12_A) and 'Correlation Coefficient' (LMR_U4_L12_B). The 'Correlation Coefficient' handout serves as the source for plot cutouts and requires advance preparation; it should not be distributed to students in its original form due to the need for specific steps in the lesson (steps 6 and 10)."
+  },
+  {
+    "title": "Vocabulary: Correlation Coefficient",
+    "body": "The 'correlation coefficient' is a statistical measure used to calculate the strength of the relationship between the relative movements of two variables. In Unit 4 Lesson 12, it is introduced as a numerical value that quantifies the strength of a linear association. A high absolute value of the correlation coefficient indicates a strong linear trend, while a value close to 0 suggests a weak linear trend. It is important to note that this coefficient is only applicable to linear relationships."
+  },
+  {
+    "title": "Vocabulary: Strength of Association",
+    "body": "'Strength of association' refers to how much two variables covary and the extent to which the independent variable affects the dependent variable. In Unit 4 Lesson 12, students explore this concept visually through scatterplots, learning to identify strong associations where data points are close together and weak associations where data points are more scattered. The correlation coefficient is later introduced as a numerical measure of this strength for linear relationships."
+  },
+  {
+    "title": "Essential Concepts: Correlation Coefficient and Trend Strength",
+    "body": "A key concept in Unit 4 Lesson 12 is the interpretation of the correlation coefficient's magnitude. A high absolute value of the correlation coefficient signifies a strong linear trend between two variables. Conversely, a correlation coefficient value that is close to 0 indicates a weak linear trend. This principle helps students numerically assess the strength of relationships depicted in scatterplots."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Activity 1 - Strength of Association",
+    "body": "In Unit 4 Lesson 12, students begin by examining scatterplots (b) through (e) on the 'Strength of Association' handout (LMR_U4_L12_A). Working in teams, they discuss and determine the strength of association for each plot, identifying which appear strong and which appear weak. They must justify their decisions by referencing the visual patterns in the plots, such as how closely the points cluster together."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Demonstrating Scatterplot Description",
+    "body": "As an example in Unit 4 Lesson 12, the instructor demonstrates how to describe plot (a) from the 'Strength of Association' handout. A possible description provided is: 'Plot (a) shows a negative association, or decreasing trend. The association appears to be fairly strong because the points are relatively close together, forming a moderate linear pattern.' This example guides students on how to articulate their observations about scatterplots."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Sharing Scatterplot Analyses",
+    "body": "After teams analyze the scatterplots on the 'Strength of Association' handout in Unit 4 Lesson 12, each team is assigned one plot to share with the class. If multiple teams have the same plot, one team presents first, and the other can then add to or disagree with the initial explanation. This process encourages collaborative analysis and discussion of visual patterns in data."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Visualizing Strength of Association",
+    "body": "Unit 4 Lesson 12 guides students to understand that the visual representation of data on a scatterplot provides clues about the strength of an association. The lesson emphasizes that a strong association is indicated when the data points are clustered closely together, forming a discernible pattern. Conversely, a weak association is characterized by data points that are more scattered and spread out, making a clear pattern harder to identify."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Introducing the Correlation Coefficient",
+    "body": "In Unit 4 Lesson 12, students are introduced to the 'correlation coefficient' as a numerical value that quantifies the strength of association observed in scatterplots. It is explicitly stated that this coefficient is applicable only to linear relationships. Students are advised that visually inspecting a scatterplot is necessary to confirm linearity before applying or interpreting the correlation coefficient. The lesson also mentions that students will later learn to calculate this value using RStudio."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Activity 2 - Assigning Correlation Coefficients (Part 1)",
+    "body": "In Unit 4 Lesson 12, after introducing the correlation coefficient, students work with plot cutouts from [LMR_U4_L12_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L12_B.pdf) (Part 1). Teams examine each plot and assign a corresponding correlation coefficient. They are given the crucial information that a coefficient of 1 represents the strongest positive linear association and 0 represents the weakest linear association. Advance preparation involves creating envelopes with these plots for each team."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Correlation Coefficient Values (Positive)",
+    "body": "During Unit 4 Lesson 12, students are guided to assign correlation coefficients to plots showing positive associations. After team share-outs and class voting using the 'Voting Cards' strategy, the actual correlation coefficients for these plots are revealed: Plot A: r = 1.00, Plot B: r = 0.72, Plot C: r = 0.19, Plot D: r = 0.48, Plot E: r = 0.98, and Plot F: r = 0.00. This activity reinforces the understanding of how the coefficient's value relates to the visual strength and direction of linear trends."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Activity 3 - Assigning Correlation Coefficients (Part 2)",
+    "body": "Following the analysis of positive associations, Unit 4 Lesson 12 proceeds to plots showing negative associations (G-L) from [LMR_U4_L12_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L12_B.pdf) (Part 2). Similar to the previous activity, teams examine the plots and assign correlation coefficients, this time with the knowledge that -1 represents the strongest negative linear association and 0 represents the weakest (no linear) association. Advance preparation includes distributing envelopes with these plots."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Correlation Coefficient Values (Negative)",
+    "body": "In Unit 4 Lesson 12, after teams analyze plots G-L and engage in class discussion and voting, the correlation coefficients for these negative associations are provided. The values are: Plot G: r = -1.00, Plot H: r = -0.72, Plot I: r = -0.19, Plot J: r = -0.48, Plot K: r = -0.98, and Plot L: r = 0.00. This segment solidifies the understanding that negative coefficients indicate decreasing trends, with values closer to -1 signifying stronger negative linear relationships."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Journal Entry",
+    "body": "To conclude Unit 4 Lesson 12, students are tasked with a journal entry. They need to define what a correlation coefficient is, explain its function, and describe what information it provides about a scatterplot. This reflective activity serves to consolidate their understanding of the lesson's core concepts regarding the measurement of linear association strength."
+  },
+  {
+    "title": "Unit 4 Lesson 12: Homework and Next Steps",
+    "body": "If the journal entry is not completed during class time in Unit 4 Lesson 12, students are assigned to finish it for homework. Additionally, students are instructed to complete [Lab 4D: Interpreting Correlations](lab4d.md) before proceeding to [Lesson 13](lesson13.md). This lab likely provides further practice in interpreting and applying the concepts of correlation strength learned in this lesson."
+  }
+]

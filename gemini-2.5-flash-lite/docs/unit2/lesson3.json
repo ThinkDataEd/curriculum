@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Abstract of Unit 2 Lesson 3",
+    "body": "This lesson introduces the median as another measure of the center of a distribution, contrasting it with the mean. Students learn that the median is the middle value in an ordered set of data and is particularly useful for skewed distributions or datasets with outliers. The lesson includes hands-on activities using sticky notes to visualize the impact of outliers on the mean versus the median. It also involves analyzing dotplots and histograms to find and interpret medians, and comparing the mean and median across different distribution shapes (symmetric, left-skewed, right-skewed) to understand which measure best represents the 'typical' value. The lesson concludes with a discussion on the relationship between distribution shape and the choice of the best measure of center, and homework that applies these concepts to personal data."
+  },
+  {
+    "title": "Unit 2 Lesson 3 Objective",
+    "body": "The primary objective of Unit 2 Lesson 3 is for students to understand that the median is a valid measure for determining the center or typicality of a data distribution. Students will also learn to compare and contrast the median with the mean, recognizing the situations where each measure is most appropriate. This includes understanding how outliers and skewness affect these measures."
+  },
+  {
+    "title": "Materials for Unit 2 Lesson 3",
+    "body": "The materials required for Unit 2 Lesson 3 include: sticky notes (one per student), poster paper, graphics from 'Medians – Dotplots or Histograms?' (LMR_U2_L3_A), the 'Where is the Middle?' handout (LMR_U2_L3_B), and exported, printed, and reproduced class data from the 'Personality Color' survey. Advance preparation involves ensuring one sticky note per student, with one note marked as $1,000,000 and the rest as 0."
+  },
+  {
+    "title": "Vocabulary: Median",
+    "body": "The vocabulary term for this lesson is 'median'. The median is defined as the middle value in a group of ordered observations. It represents the central point of a dataset when the data is arranged from least to greatest. For an odd number of data points, it's the exact middle value. For an even number of data points, it's typically the average of the two middle values."
+  },
+  {
+    "title": "Essential Concept: Median as a Measure of Center",
+    "body": "An essential concept in Unit 2 Lesson 3 is that the median serves as an alternative measure of the center of a distribution, similar to the mean. The median is particularly valuable and often preferred for skewed distributions or when outliers are present. In such cases, the median provides a more accurate representation of the 'typical' value compared to the mean, as it is not as heavily influenced by extreme values."
+  },
+  {
+    "title": "Lesson Activity: Introducing the Median",
+    "body": "The lesson begins by reminding students of the mean as a measure of center from the previous lesson. The median is introduced as another measure of center, defined as the middle value in an ordered group of observations. An example list of numbers (8, 2, 6, 3, 7, 4, 9, 5, 5) is presented. Students are guided to first order the numbers (2, 3, 4, 5, 5, 6, 7, 8, 9) and then identify the median, which is the 5th number (5). This step emphasizes the necessity of ordering data before finding the median."
+  },
+  {
+    "title": "Lesson Activity: Median vs. Mean with Outliers",
+    "body": "To illustrate the impact of outliers, students receive sticky notes. All but one note have '0' written on them; one note has '1,000,000'. Students create a dotplot of these values. They then answer: What is the typical value? (Answer: 0). Calculate the mean (which will be very high due to the outlier). Does the mean match 'typical'? (Answer: No, the $1,000,000 outlier skews it). Finally, they find the median of their sticky notes (which is 0). This activity starkly contrasts the mean and median in the presence of an extreme outlier."
+  },
+  {
+    "title": "Discussion: Mean vs. Median with Outliers",
+    "body": "Following the sticky note activity in Unit 2 Lesson 3, a discussion is held comparing the calculated mean and the identified median. Students are asked why there's a large difference between the mean (around $35,714.3 for a 28-student class) and the median (0). The reason is the outlier value ($1,000,000) which heavily skews the distribution and pulls the balancing point (the mean) significantly higher than what is considered typical. This reinforces the concept that medians are more robust to outliers than means."
+  },
+  {
+    "title": "Analyzing Dotplots and Histograms for Medians (Part 1)",
+    "body": "In Unit 2 Lesson 3, students examine the first two plots in the 'Medians – Dotplots or Histograms?' file (LMR_U2_L3_A). These plots depict the number of candies eaten by 17 high school students. Students compare a dotplot and a histogram for this data. They determine which plot makes it easier to find the median (dotplot, as the middle dot can be easily identified) and find the median value (1 candy). This exercise helps them visualize how different graphical representations facilitate the identification of the median."
+  },
+  {
+    "title": "Practice Activity: 'Where is the Middle?' Handout",
+    "body": "Unit 2 Lesson 3 includes a practice activity using the 'Where is the Middle?' handout (LMR_U2_L3_B). Students work individually and then in teams to find the medians of distributions with varying shapes (symmetric, left-skewed, right-skewed). This handout allows them to apply the concept of finding the median to different data patterns and prepares them for a class discussion on the relationship between distribution shape and measures of center."
+  },
+  {
+    "title": "Discussion: Mean and Median Relationships in Different Distributions",
+    "body": "After completing the 'Where is the Middle?' handout, students discuss their findings. They analyze the relationship between the mean and median for symmetric distributions (mean ≈ median), left-skewed distributions (mean < median), and right-skewed distributions (mean > median). They identify patterns and discuss which measure (mean or median) better represents the 'typical' value for each distribution shape, leading to the conclusion that medians are better for skewed data and means for symmetric data."
+  },
+  {
+    "title": "Analyzing Dotplots and Histograms for Medians (Part 2)",
+    "body": "Students examine the last two plots in the 'Medians – Dotplots or Histograms?' file (LMR_U2_L3_A), which show the number of candies eaten by 330 high school students. For this larger dataset, they compare the dotplot and histogram. They determine that the histogram is now easier for finding the median because the dotplot has too many data points to easily find the middle. They estimate the median value from the histogram (7 candies), understanding how the suitability of graphical representations changes with dataset size and distribution shape."
+  },
+  {
+    "title": "Class Scribes and Homework",
+    "body": "As a wrap-up for Unit 2 Lesson 3, one team of students acts as 'Class Scribes' to present the three most important topics discussed during the lesson. The homework assignment requires students to calculate the median scores for their own 'Personality Color' scores. They must then compare these medians to their previously calculated mean scores (from Lesson 2) and infer the likely shape of the distribution for their scores based on this comparison."
+  },
+  {
+    "title": "Vocabulary: Median Definition",
+    "body": "The median is a measure of the center of a dataset. It is defined as the middle value when the dataset is arranged in numerical order. For a dataset with an odd number of observations, the median is the single middle value. For a dataset with an even number of observations, the median is typically calculated as the average of the two middle values. It is less sensitive to extreme values (outliers) compared to the mean."
+  },
+  {
+    "title": "Comparing Mean and Median",
+    "body": "The mean is calculated by summing all values in a dataset and dividing by the number of values, representing the 'balancing point'. The median is the middle value in an ordered dataset. While both measure the center, the mean is significantly affected by outliers and skewed data, whereas the median remains more stable. For symmetric distributions, the mean and median are typically close. For skewed distributions, the median often provides a better representation of the typical value. For example, in a dataset with a very high outlier, the mean will be pulled towards the outlier, while the median will remain closer to the bulk of the data."
+  },
+  {
+    "title": "Identifying the Median in Ordered Data",
+    "body": "To find the median of a dataset, the first crucial step is to arrange all the data points in numerical order, from the smallest value to the largest. Once ordered, the median can be identified. If there is an odd number of data points (n), the median is the value at the position (n+1)/2. For instance, in the set {2, 3, 4, 5, 5, 6, 7, 8, 9}, there are 9 data points. The median is the value at the (9+1)/2 = 5th position, which is 5."
+  },
+  {
+    "title": "Outliers and Their Impact on Mean vs. Median",
+    "body": "Outliers are extreme values that lie far from the rest of the data. They can significantly distort the mean, pulling it towards the outlier's value. For example, if a dataset includes values like {0, 0, 0, 0, 1,000,000}, the mean would be heavily influenced by the $1,000,000 value. The median, however, would remain at 0 (the middle value after ordering). This demonstrates that the median is a more robust measure of central tendency when outliers are present, as it is not affected by the magnitude of extreme values, only their position relative to the other data points."
+  },
+  {
+    "title": "Median in Skewed vs. Symmetric Distributions",
+    "body": "The shape of a distribution provides clues about the relationship between its mean and median. In symmetric distributions, the mean and median are typically very close or equal. In left-skewed distributions (with a tail extending to the left), the mean is usually less than the median because the smaller outlier values pull the mean down. In right-skewed distributions (with a tail extending to the right), the mean is usually greater than the median because the larger outlier values pull the mean up. Consequently, the median is often considered a better indicator of the 'typical' value in skewed distributions."
+  },
+  {
+    "title": "Choosing the Best Measure of Center",
+    "body": "The choice between using the mean or the median as the primary measure of center depends on the characteristics of the data, particularly its shape and the presence of outliers. For symmetric distributions with no significant outliers, the mean is a good measure as it uses all the data values. However, for skewed distributions or datasets containing outliers, the median is generally preferred because it is less sensitive to these extreme values and provides a better sense of the 'typical' or central value for the majority of the data."
+  }
+]

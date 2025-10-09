@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Abstract for Unit 2 Lesson 13: The Horror Movie Shuffle",
+    "body": "This lesson introduces the concept that observed differences between groups can occur purely by chance. Students learn to identify if differences in categorical variables are statistically significant or a result of randomness through the use of simulations. The lesson uses a horror movie dataset to illustrate how to calculate the difference in proportions of survival between male and female characters. By simulating the shuffling of survival data, students can compare the observed difference to a distribution of differences that would occur by chance alone. This helps them determine if the difference in survival rates is a real phenomenon or just a statistical artifact. The lesson also touches upon data collection monitoring using the IDS Campaign Monitoring Tool and prepares students for future lessons involving RStudio simulations."
+  },
+  {
+    "title": "Objective: Understanding Chance Differences in Group Data",
+    "body": "The primary objective of Unit 2 Lesson 13, 'The Horror Movie Shuffle,' is for students to grasp that variations observed between two distinct groups can arise simply due to chance. These chance-driven differences are typically small. Specifically, students will learn a method to ascertain if outcomes related to categorical variables are attributable to chance. This is achieved by calculating and analyzing the differences in proportions between the two groups. This objective is central to understanding statistical significance and the role of randomness in data analysis."
+  },
+  {
+    "title": "Materials for Unit 2 Lesson 13",
+    "body": "The essential material required for Unit 2 Lesson 13, 'The Horror Movie Shuffle,' is a set of 3\" x 5\" index cards, with one card provided for each student. These cards will be used during the activity where students simulate survival outcomes by writing 'dies' or 'survives' on them. This hands-on approach allows for the physical shuffling and redistribution of outcomes, forming the basis for simulating randomness and analyzing differences in proportions."
+  },
+  {
+    "title": "Vocabulary: Chance, Simulations, Randomness, Shuffle",
+    "body": "This lesson introduces key vocabulary terms crucial for understanding statistical concepts. 'Chance' refers to the possibility of an event occurring. 'Simulations' are methods used to model random events that mimic real-life situations without actually performing them. 'Randomness' describes occurrences that happen by chance and cannot be predicted. 'Shuffle' means to rearrange items into a random order. These terms are fundamental to the lesson's goal of differentiating between genuine group differences and those that arise from random variation."
+  },
+  {
+    "title": "Essential Concepts: Shuffling Data and Difference in Proportions",
+    "body": "A core concept in Unit 2 Lesson 13 is the ability to 'shuffle' data related to categorical variables. The statistic of interest is the difference in proportions between groups. By creating a distribution through this shuffling process, we can understand what outcomes are plausible if chance were the sole influencing factor. If the actual observed difference in proportions falls near the center of this shuffling distribution, it suggests that chance is a likely explanation. However, if the observed difference is extreme (in the tails or outside the typical range), it indicates that chance is not the primary cause, and a real difference likely exists. This helps to distinguish between real effects and random fluctuations."
+  },
+  {
+    "title": "Lesson Activity: Data Collection Monitoring Setup",
+    "body": "Unit 2 Lesson 13 begins with a 'Data Collection Monitoring' activity. Students are instructed to access the IDS Campaign Monitoring Tool via the provided link. After signing in, they are prompted to observe various data points, such as identifying who collected the most data, the number of active versus inactive users, recent response submissions, and the status of shared versus private responses. This initial phase uses prompts related to the 'Total' and 'Pie Chart' features within the tool, followed by a Think-Pair-Share (TPS) activity encouraging students to strategize on increasing their data collection efforts. This sets a practical context for data analysis."
+  },
+  {
+    "title": "Lesson Discussion: Recalling Chance and Introducing Simulations",
+    "body": "Following the data monitoring activity, Unit 2 Lesson 13 facilitates a discussion about previously learned concepts, specifically recalling the definition of 'chance' from Lesson 8. The lesson then introduces 'simulations' as a tool to demonstrate that perceived differences between two groups might actually be due to randomness rather than a true underlying effect. Students are reminded that a simulation models random outcomes, and randomness implies events occurring without a predictable order. This discussion bridges prior knowledge with the core concepts of the current lesson."
+  },
+  {
+    "title": "Lesson Activity: Brainstorming Comparative Situations",
+    "body": "In pairs, students participating in Unit 2 Lesson 13 are tasked with brainstorming various situations where two groups could be compared. These situations are to be recorded in their DS journals. Examples provided include income differences between genders, athletic abilities of sports players, and performance outcomes of students from different universities. After listing these scenarios, students are asked to make an initial judgment on whether the observed differences are likely 'real' or 'due to chance.' This activity aims to activate prior knowledge and encourage critical thinking about group comparisons before delving into the formal methodology."
+  },
+  {
+    "title": "Lesson Introduction: Horror Movie Survival - Initial Perceptions",
+    "body": "Unit 2 Lesson 13 sets the stage for a statistical investigation by posing a question about survival rates in horror movies: 'Do you think men and women have an equal likelihood of surviving by the end of a horror movie?' Students are encouraged to share their opinions and the reasoning behind them. This initial discussion serves to gauge student intuition and expectations regarding potential differences between groups before any data is presented or analyzed. It highlights that perceived differences are common and sets up the core question the lesson will address: are these perceived differences real or just due to chance?"
+  },
+  {
+    "title": "Lesson Scenario: Horror Movie Character Data",
+    "body": "The lesson transitions to a specific dataset for analysis: data from 485 characters across 50 horror movies, recording 'Gender' (Female/Male) and 'Survival' (Dies/Survives). A contingency table displays the counts: 172 females died, 50 females survived; 228 males died, 35 males survived. The total number of female characters was 222, and male characters was 263. This data reveals that there were more male characters and that a majority of characters did not survive. This concrete data forms the basis for calculating survival proportions."
+  },
+  {
+    "title": "Calculating Survival Proportions by Gender",
+    "body": "Unit 2 Lesson 13 guides students in calculating the proportion of survivors for each gender within the horror movie dataset. The calculation involves dividing the number of survivors of a specific gender by the total number of characters of that gender. For females, the proportion of survivors is 50 (female survivors) / 222 (total females) ≈ 23%. For males, it is 35 (male survivors) / 263 (total males) ≈ 13%. These calculated proportions are then presented to the students for interpretation."
+  },
+  {
+    "title": "Analyzing Initial Survival Proportions and Differences",
+    "body": "After calculating the survival proportions (approx. 23% for females, 13% for males), Unit 2 Lesson 13 prompts students to reflect on the results. They compare these findings to their initial expectations and discuss the difference in proportions (23% - 13% = 10%). The lesson then raises the critical question of whether this 10% difference is considered 'big' or 'small,' emphasizing that defining these terms requires further statistical investigation. This step bridges the calculation of proportions to the core problem of determining statistical significance."
+  },
+  {
+    "title": "Activity: Simulating Horror Movie Survival by Chance",
+    "body": "To determine if the observed 10% difference in survival rates between genders in horror movies is significant, Unit 2 Lesson 13 involves a simulation activity. The class is divided into two groups representing 46% (females) and 54% (males) of the characters. Using the previously calculated survival proportions (23% female, 13% male), students determine the number of survivors within each simulated group. They then use 3\" x 5\" cards to write 'dies' or 'survives' for each character, reflecting the calculated number of survivors, before the cards are shuffled."
+  },
+  {
+    "title": "Simulating Random Survival Outcomes",
+    "body": "In Unit 2 Lesson 13, after assigning students to 'female' (46%) and 'male' (54%) character roles and determining the number of survivors based on actual proportions (approx. 23% female, 13% male), students physically simulate survival. Each student writes 'dies' or 'survives' on a 3\" x 5\" card to represent their character's outcome. This is done according to the calculated survivor counts for their assigned gender group. This step prepares the data for the crucial 'shuffling' process that follows, where the link between gender and survival is intentionally broken to model chance."
+  },
+  {
+    "title": "Calculating Overall Survival Proportion in the Class Simulation",
+    "body": "Following the initial assignment of 'dies' or 'survives' based on calculated proportions (Unit 2 Lesson 13), students collectively determine the total number of survivors in their simulated class. They then calculate the overall proportion of survivors within the entire class. For example, if there are 3 female survivors and 2 male survivors in a class of 30, the total survivors are 5, resulting in a class survival proportion of 5/30, or approximately 17%. This overall proportion serves as a baseline before the shuffling occurs."
+  },
+  {
+    "title": "Expected Survival by Gender in the Class Simulation",
+    "body": "In Unit 2 Lesson 13's simulation, after determining the overall class survival proportion (e.g., 17%), students are asked to predict how many survivors would be expected for each gender group if survival were purely random, based on this overall proportion. Using the example of 17% overall survival, they would calculate the expected number of male survivors (17% of the male characters) and female survivors (17% of the female characters). This calculation sets up a comparison point for the post-shuffle results."
+  },
+  {
+    "title": "The Shuffle: Randomizing Survival Outcomes",
+    "body": "A critical step in Unit 2 Lesson 13 is the 'shuffle.' All the 3\" x 5\" cards ('dies' or 'survives') are collected from the students. The instructor then visibly shuffles these cards to randomize their order, effectively breaking any connection between a student's assigned 'gender' role and their 'survival' outcome. The shuffled cards are then redistributed randomly back to the students. This process simulates a scenario where survival is entirely due to chance, allowing for the calculation of new survival proportions for each gender group under this null hypothesis."
+  },
+  {
+    "title": "Post-Shuffle Analysis: New Survival Proportions and Differences",
+    "body": "After the cards are shuffled and redistributed in Unit 2 Lesson 13, students calculate the new number and proportion of survivors within their assigned 'female' and 'male' groups. A table is created on the board to record these post-shuffle proportions and the resulting difference (Female Survivors Proportion – Male Survivors Proportion). This column can show positive or negative differences, reflecting random fluctuations. The first row of the table often shows the original, pre-shuffle (actual data) proportions for comparison."
+  },
+  {
+    "title": "Visualizing Differences: The Dotplot of Proportions",
+    "body": "In Unit 2 Lesson 13, a dotplot is created on the board to visualize the results of the shuffling simulations. The x-axis represents the 'Difference in Proportions' between female and male survivor rates. A vertical line is marked at 10% to indicate the difference observed in the actual horror movie dataset. After each shuffle and calculation (steps 19-21), a dot representing the calculated difference is added to this plot. This allows students to see the distribution of differences that occur purely by chance."
+  },
+  {
+    "title": "Interpreting the Shuffling Distribution",
+    "body": "Students in Unit 2 Lesson 13 are prompted to compare the differences they observe from the shuffled data (plotted on the dotplot) to the actual difference of 10% from the real horror movie dataset. The expectation is that most differences from the shuffled data will be centered around 0 and will be much smaller than 10%. This visual comparison helps students understand whether the observed 10% difference is statistically significant or likely just a random occurrence. Repeating the shuffle multiple times reinforces this concept."
+  },
+  {
+    "title": "Reflection: Biggest/Smallest Differences and Expected Dotplot",
+    "body": "After conducting several shuffling iterations in Unit 2 Lesson 13, students are asked to reflect on their findings. They record the biggest and smallest differences in proportions observed from their shuffles. They also predict what the dotplot would look like if the shuffling process were repeated 1000 times. The expected answer is a roughly symmetric distribution centered around 0, illustrating that random chance alone rarely produces a large difference like the observed 10% in the actual data."
+  },
+  {
+    "title": "Conclusion: Real Differences vs. Chance",
+    "body": "Unit 2 Lesson 13 concludes with a discussion connecting the simulation results to the real-world data. Students are led to understand that because the 10% difference in survival rates between genders was rarely (or never) observed in their simulations of pure chance, it suggests a genuine difference favoring female survival in actual horror movies. This interpretation helps students solidify the concept that simulations of chance can be used to evaluate the plausibility of observed differences in real-world data."
+  },
+  {
+    "title": "Decision Making: Choosing a Horror Movie Character Role",
+    "body": "Based on the findings from Unit 2 Lesson 13's analysis, students are asked a practical, reflective question: 'If you were going to be cast in a horror movie, would you want to be a male character or a female character?' The expected answer, supported by the data suggesting higher survival rates for female characters, is that students would prefer to be female characters because they are statistically more likely to survive by the end of the film."
+  },
+  {
+    "title": "Looking Ahead: RStudio Simulations and Next Steps",
+    "body": "Unit 2 Lesson 13 concludes by informing students that they will soon learn how to perform these types of shuffling simulations using RStudio. This prepares them for more advanced statistical analysis and computational methods. Additionally, students are assigned homework: collecting data for the 'Stress/Chill' campaign for the next five days using the IDS ThinkData Ed app or website. They are also directed to complete 'Lab 2E: The Horror Movie Shuffle' before proceeding to 'Lesson 14.'"
+  },
+  {
+    "title": "Class Scribes: Summarizing Key Topics",
+    "body": "As part of the concluding activities for Unit 2 Lesson 13, a designated team of students will act as 'Class Scribes.' Their role is to prepare and deliver a brief presentation summarizing what they identify as the three most important topics covered during the lesson. This serves as a peer-led review and reinforces the key takeaways of the lesson for the entire class."
+  },
+  {
+    "title": "Homework and Next Day: Stress/Chill Campaign and Lab 2E",
+    "body": "The homework assignment following Unit 2 Lesson 13 involves data collection for the 'Stress/Chill' campaign over the next five days, accessible via the IDS ThinkData Ed App or website. Students are also instructed to complete 'Lab 2E: The Horror Movie Shuffle' prior to attending 'Lesson 14.' This lab likely provides a practical application or extension of the concepts learned in Lesson 13, reinforcing the simulation and analysis techniques."
+  }
+]

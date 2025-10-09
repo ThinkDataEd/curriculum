@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract of Unit 2 Lesson 1",
+    "body": "This lesson, 'What is Your True Color?', aims to help students understand their personality types and the concept of data subsetting. Students will complete a 'True Colors Personality Test' to identify their predominant personality color. They will then collect and analyze data based on these color groups, exploring concepts like 'typical' values within groups. The lesson involves activities such as posting signs for each color, gathering in color-based groups, discussing common characteristics, and creating visualizations. Students will also learn about creating subsets of data, specifically dividing into introvert and extrovert groups, and using two-way frequency tables and visualizations to compare these subsets. The lesson concludes with students comparing their perceived traits to official descriptions of the personality colors and recording their data in an app. Homework involves completing the personality color survey if not finished in class."
+  },
+  {
+    "title": "Unit 2 Lesson 1 Objective and Materials",
+    "body": "The primary objective of Unit 2 Lesson 1, 'What is Your True Color?', is for students to collect data that might reveal their personality type and to understand the concept of data subsetting. The materials required for this lesson include the 'True Colors Personality Test' (LMR_U2_L1), posted signs for each personality color (Blue, Gold, Green, Orange), poster paper, markers, and data collection devices. Advance preparation involves labeling and posting the signs for each personality color. The 'True Colors Personality Test' handout, specifically the first two pages excluding the description of each color, will be distributed to students."
+  },
+  {
+    "title": "Vocabulary: Subset",
+    "body": "The term 'subset' is a key vocabulary term in Unit 2 Lesson 1. A subset is defined as a set where all of its variables are contained within another, larger set. In the context of this lesson, students will learn to organize and analyze data by creating subsets based on different criteria, such as personality colors or introvert/extrovert classifications. This concept is fundamental to understanding how to segment and explore data more deeply."
+  },
+  {
+    "title": "Essential Concept: Typical Value",
+    "body": "An essential concept introduced in Unit 2 Lesson 1 is the understanding that a 'typical' value can represent an entire group, even if not all members of that group share the exact same value. This concept is crucial when analyzing group data. For instance, after students group themselves by personality color, they will discuss common characteristics. The 'typical' characteristics identified will represent the group as a whole, acknowledging the diversity within it. This helps students grasp the idea of generalization and representation in data analysis."
+  },
+  {
+    "title": "Lesson Activity: Introduction and Personality Test",
+    "body": "Unit 2 Lesson 1 begins with students reflecting on self-knowledge and classmate knowledge. They are then introduced to the 'True Colors Personality Test' (LMR_U2_L1) as a tool to explore personality types and fundamental statistical concepts. Students will complete the first two pages of the test, which involves scoring different personality colors. They record their scores and identify their predominant personality color (the one with the highest score) in their DS journals. It is emphasized that students should not add scores straight down each column when calculating their color scores. The actual descriptions of the colors are withheld until later in the lesson."
+  },
+  {
+    "title": "Lesson Activity: Grouping by Color and Initial Data Collection",
+    "body": "Following the completion of the 'True Colors Personality Test' in Unit 2 Lesson 1, students are instructed to post signs for each personality color (Blue, Gold, Green, Orange) in different locations in the classroom. Students then physically gather by the wall corresponding to their predominant personality color. In their DS journals, they record the number of students in their color group, the number of students in each of the other color groups, and identify the predominant personality color within the entire class. This activity serves as an initial data collection and visualization exercise, helping students see the distribution of personality types in their class."
+  },
+  {
+    "title": "Lesson Activity: Discovering Group Characteristics",
+    "body": "After forming groups based on their predominant personality color in Unit 2 Lesson 1, students are tasked with identifying common characteristics within their respective groups. Guided by questions such as 'What are your likes and dislikes?', 'What things do you have in common?', and 'What is your favorite type of music?', each team discusses and reaches a consensus on their group's typical traits. These descriptions are then shared with the whole class as the groups present. This process encourages students to think critically about what defines a 'typical' member of their group and prepares them for comparing these perceived traits with official descriptions later on."
+  },
+  {
+    "title": "Lesson Activity: Introduction to Subsetting and Two-Way Tables",
+    "body": "In Unit 2 Lesson 1, after discussing group characteristics, students are introduced to the concept of 'subsetting' data. Each color group is further divided into two subsets: introverts and extroverts. A two-way frequency table is presented on the board to record these results. This visually organizes the data by two categories (personality color and introvert/extrovert). Students are reminded of two-way tables and relative frequencies from Unit 1 Lessons 16 and 17 if they need clarification on how to analyze this data structure."
+  },
+  {
+    "title": "Lesson Activity: Creating Visualizations for Subsets",
+    "body": "As part of Unit 2 Lesson 1, students work in teams to create visualizations that compare subsets of their data. The Orange and Gold groups are assigned to create visuals that subset the personality color variable by introverts and extroverts. Conversely, the Blue and Green groups create visuals that subset introverts and extroverts by personality color. This exercise reinforces the understanding of two-way tables and how different perspectives (row vs. column analysis) can be used to interpret the same data. The goal is to visually represent the relationships between personality colors and introversion/extroversion."
+  },
+  {
+    "title": "Lesson Activity: Analyzing and Interpreting Visualizations",
+    "body": "In Unit 2 Lesson 1, after creating visualizations of the subsetted data, the Orange and Gold groups select one poster to display, and the Blue and Green groups select one of their visuals. These selected visuals are displayed, and the class discusses their similarities and differences. Students analyze and interpret these visualizations by considering questions like the type of plot, the number of variables, the information gathered from the subset, what is most/least prevalent, and the typical personality color or group (introvert/extrovert) within the subset. This step deepens their understanding of data interpretation."
+  },
+  {
+    "title": "Lesson Activity: Comparing Traits and Official Descriptions",
+    "body": "Towards the end of Unit 2 Lesson 1, students are given the description of each personality color from page 3 of the 'True Colors Personality Test' handout (LMR_U2_L1). They are reminded that their highest score indicates their predominant color and the second highest their secondary color, with tie-breaking rules applied. Students then compare these official descriptions with the common characteristics they identified and recorded on the board in step 7. This comparison helps them evaluate the accuracy of the personality test and their initial perceptions, fostering critical thinking about self-perception and group identity."
+  },
+  {
+    "title": "Lesson Activity: Data Recording and Homework",
+    "body": "The final activity of Unit 2 Lesson 1 involves students recording their collected data by completing the 'Personality Color' campaign on the IDS ThinkData Ed App or via the web portal at https://portal.thinkdataed.org. For homework, if students did not finish this survey in class, they are required to complete it either through the app or the web browser. This ensures all students contribute their data to a larger dataset for potential future analysis and reinforces the digital data collection aspect of the curriculum."
+  },
+  {
+    "title": "Class Scribes and Summary",
+    "body": "In Unit 2 Lesson 1, a designated team of students acts as 'Class Scribes.' Their role is to prepare and present a brief talk summarizing what they believe were the three most important topics covered during the lesson. Additionally, students are asked to summarize their overall impressions of the class's personality color data in their DS journals. This concluding activity encourages reflection on the key learning points of the lesson and consolidates their understanding of personality types and data analysis concepts."
+  }
+]

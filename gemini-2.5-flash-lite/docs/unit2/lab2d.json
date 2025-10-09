@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Abstract: Queue It Up! Lab 2D",
+    "body": "This document outlines Lab 2D, 'Queue It Up!', focusing on extending simulation methods to more complex scenarios, particularly in estimating probabilities. It revisits the concept of simulations from previous labs, emphasizing the trade-off between the number of simulations, execution time, and estimate variability. The lab introduces and differentiates between sampling with and without replacement, using a song playlist as a primary example. Key activities include writing and running code to simulate song selections, estimating probabilities of specific song genres, and observing the effects of sampling with and without replacement on sample composition. The lab also delves into methods for calculating probabilities from simulation data, such as using `rowSums` and filtering subsets, and concludes with independent exercises on comparing sampling strategies for different song selections and visualizing results with histograms."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Introduction and Recap",
+    "body": "This lab, Unit 2 Lab 2D: Queue It Up!, builds upon previous work with computer simulations to estimate simple probabilities, such as drawing a song genre from a playlist. We previously observed that conducting more simulations increased the time taken but reduced the variability of the estimates. In this lab, we will extend these simulation methods to tackle more complex situations and learn how to estimate probabilities in these scenarios. A key focus will be understanding the difference and implications of sampling with replacement versus sampling without replacement. We will start by simulating a playlist and estimating probabilities of drawing specific song genres."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Simulating a Song Playlist",
+    "body": "The first task in Unit 2 Lab 2D involves simulating a playlist of songs. You are instructed to write and run code to create a playlist containing 30 \"rap\" songs, 23 \"country\" songs, and 47 \"rock\" songs. This combined playlist should be assigned to a variable named `songs`. Following this, you will simulate the process of choosing a single song from this playlist 50 times. Using the results of these simulated draws, you will then estimate the probability of choosing a \"rap\" song. The \"true\" theoretical probability of choosing a \"rap\" song in this setup is 0.30. After obtaining your estimated probability, you are asked to write a sentence comparing it to this known true probability."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Sampling With and Without Replacement",
+    "body": "In Unit 2 Lab 2D, we explore the concept of sampling with and without replacement. So far, selections have been made 'with replacement,' meaning after a song is chosen and its data recorded, it is returned to the playlist, making it available for subsequent selections. This process ensures the pool of available items remains constant for each draw. Conversely, sampling 'without replacement' means that once an item is selected, it is removed from the pool and cannot be selected again. This is achieved in programming by setting the `replace` option in the `sample` function to `FALSE`. We will investigate the consequences of sampling without replacement."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Investigating Sampling Without Replacement",
+    "body": "As part of Unit 2 Lab 2D, you will conduct a simulation of sampling without replacement. You are to write and run code to take a sample of size 100 from the previously created `songs` playlist without replacement. This sample should be assigned to a variable named `without`. After running this code, you will use the `tally(without)` function and describe the output it produces. Additionally, you will consider whether a similar outcome occurs when sampling *with* replacement. A key observation related to the `tally` function is noted: the tilde symbol (~) is not needed when `without` is a vector, as it acts like a standalone variable rather than a column within a data frame. Finally, you will explore what happens if you attempt to sample 101 items without replacement (`size = 101`, `replace = FALSE`)."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Scenario Analysis: With vs. Without Replacement",
+    "body": "Unit 2 Lab 2D presents two scenarios to help differentiate when to use sampling with or without replacement. Scenario 1 involves a coin with 'Heads' and 'Tails' sides, where the goal is to estimate the probability of getting 'Head' assuming the coin's fairness is unknown. Scenario 2 describes a child drawing three candies from a jar containing 10 'strawberry', 50 'chocolate', and 25 'watermelon' candies, with the interest being the probability that all three are 'chocolate'. You are asked to determine which scenario warrants sampling *with replacement* and which requires sampling *without replacement*, providing justifications for your choices. You will also write the line of R code needed to simulate sampling from the candy jar, assuming the simulated jar is named `candies`."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Realistic Playlist Simulation",
+    "body": "In Unit 2 Lab 2D, we acknowledge that in real-world scenarios, songs from a playlist are typically chosen without replacement to avoid repetition. To simulate this more realistically, we will estimate the probability that, when selecting two songs at random without replacement, both are \"rap\" songs. You will write and run code using the `do` function to perform 10 simulated `sample`s, each of `size` 2, without replacement. These simulations should be assigned the name `draws`, and you should use `set.seed(1)` for reproducibility. After viewing the `draws` data, you need to identify the variable names and describe what occurred in the first simulation. You will also note whether any of the 10 simulations resulted in two \"rap\" songs."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Methods for Estimating Probability from Simulations",
+    "body": "Unit 2 Lab 2D explains how to estimate probabilities from simulation results. The fundamental principle is to determine the proportion of times the event of interest occurred within the total number of simulations performed. This is calculated as: (Number of times the desired event occurred) / (Total number of attempts or simulations). The lab will demonstrate two primary methods for achieving this calculation. The first method involves using the `mutate` function in conjunction with `rowSums` to count occurrences across rows of simulation data. The second method uses a two-step process: first, subsetting the simulation data to isolate the desired outcomes, and second, counting the rows in the subset and dividing by the total number of simulations."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Counting Similar Outcomes with rowSums",
+    "body": "In Unit 2 Lab 2D, one technique to estimate the probability of drawing two songs of the same genre, specifically focusing on 'rap' songs, involves using the `mutate` function with `rowSums`. The provided code snippet `mutate(draws, nrap = rowSums(draws == \"rap\"))` is designed to count the number of 'rap' songs in each of the 10 simulations stored in the `draws` variable. You are tasked to break down this code by running each part individually: `draws == \"rap\"`, `rowSums(draws == \"rap\")`, and finally `mutate(draws, nrap = rowSums(draws == \"rap\"))`, describing the output of each step. Remember to assign a name to your mutated dataset as instructed."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Counting Outcomes with Subsetting",
+    "body": "Unit 2 Lab 2D introduces an alternative method for estimating the probability of complex events from simulation data using a two-step procedure. Step 1 involves creating a subset of the simulation results that precisely match the desired outcome(s). Step 2 entails counting the number of rows within this subset and then dividing that count by the total number of simulations performed. This result yields an estimate of the probability for the specific combination of events. For practice, you will fill in the blanks in the provided code to create a subset where both draws were 'rap' songs from the `draws` data, count the rows in this subset, and divide by the total number of simulations to estimate the probability."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Probability Estimation Practice",
+    "body": "As part of Unit 2 Lab 2D, you will perform simulations to estimate probabilities. First, you are instructed to write and run code to conduct 500 simulations of sampling 2 songs from the original playlist (30 \"rap\", 23 \"country\", 47 \"rock\"). Using `set.seed()` is recommended for reproducibility. Following this, you will calculate and record the estimated probabilities for two specific situations: 1) drawing two \"rap\" songs, and 2) drawing a \"rap\" song first, followed by a \"country\" song. Finally, you will create a histogram to visualize the distribution of the number of \"rap\" songs drawn in each simulation, analyzing how often zero, one, or two \"rap\" songs occurred."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Independent Exercise: With vs. Without Replacement Probability",
+    "body": "In the 'On your own' section of Unit 2 Lab 2D, you will apply the learned concepts to a comparative analysis. Using simulations with 500 repetitions each, you will investigate how the estimated probability of drawing 5 \"rap\" songs from the playlist (30 \"rap\", 23 \"country\", 47 \"rock\") changes when sampling *with* replacement versus sampling *without* replacement. For each of these two simulations (one with replacement, one without), you need to create a histogram displaying the number of \"rap\" songs that occurred in each of the 500 repetitions. This will allow for a visual comparison of the outcomes under both sampling conditions."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Describing Distribution Changes",
+    "body": "Concluding Unit 2 Lab 2D's independent exercise, after performing the simulations and creating histograms for both sampling with and without replacement (as described in the previous chunk), you are asked to articulate the differences observed. Specifically, you need to describe how the distribution of the number of \"rap\" songs changes depending on whether you used replacement or not. This involves analyzing the shapes, centers, and spreads of the histograms generated for both scenarios and explaining the implications of sampling with versus without replacement on the likelihood of observing a certain number of \"rap\" songs in a sample of five."
+  },
+  {
+    "title": "Vocabulary: Simulation",
+    "body": "In the context of Unit 2 Lab 2D: Queue It Up!, a **simulation** is a technique used to imitate the behavior of a real-world process or system over time using a computer model. In this lab, simulations are employed to estimate probabilities, particularly those involving sequences of events or selections from a collection. By running a large number of simulated trials (e.g., drawing songs from a playlist), we can approximate the likelihood of specific outcomes. The accuracy of the probability estimate generally improves as the number of simulations increases, although this also increases the computational time required."
+  },
+  {
+    "title": "Vocabulary: Probability",
+    "body": "In Unit 2 Lab 2D, **probability** refers to the measure of the likelihood that a specific event will occur. It is often expressed as a number between 0 and 1, where 0 indicates impossibility and 1 indicates certainty. In this lab, we are focused on estimating probabilities through computer simulations rather than calculating theoretical probabilities directly. For instance, we estimate the probability of drawing a \"rap\" song from a playlist or the probability of drawing multiple \"rap\" songs in a sequence. The lab distinguishes between the 'true' or theoretical probability and the 'estimated' probability derived from simulation results."
+  },
+  {
+    "title": "Vocabulary: Sampling With Replacement",
+    "body": "**Sampling with replacement**, as discussed in Unit 2 Lab 2D, is a method of selecting items from a population where each selected item is returned to the population before the next selection is made. This means that the total number of items and the proportion of each type of item remain constant throughout the sampling process. Consequently, the probability of selecting any particular item or type of item remains the same for every draw. In the context of the lab, selecting songs 'with replacement' means a song, once chosen, is put back into the playlist and could be chosen again."
+  },
+  {
+    "title": "Vocabulary: Sampling Without Replacement",
+    "body": "**Sampling without replacement**, explored in Unit 2 Lab 2D, is a method where each selected item is removed from the population and is not available for subsequent selections. This process changes the composition of the remaining population with each draw. As a result, the total number of items decreases, and the probabilities of selecting remaining items change after each selection. In the lab's song playlist example, sampling 'without replacement' ensures that the same song cannot be drawn multiple times in a single sample, mirroring real-world scenarios like drawing cards from a deck without putting them back."
+  },
+  {
+    "title": "Vocabulary: Playlist",
+    "body": "In Unit 2 Lab 2D, a **playlist** refers to a list or collection of items, specifically songs in this context. The lab uses a simulated playlist composed of different genres: \"rap\", \"country\", and \"rock\". The composition of this playlist (the number of songs of each genre) is defined at the beginning of the lab. This playlist serves as the population from which samples are drawn during the simulations to estimate probabilities related to song selection. The structure of the playlist is crucial for determining the theoretical probabilities involved."
+  },
+  {
+    "title": "Vocabulary: Vector",
+    "body": "In the context of R programming, as referenced in Unit 2 Lab 2D, a **vector** is a one-dimensional array of elements of the same basic type (e.g., all characters, all numbers). When the lab mentions that a variable like `without` (resulting from a sampling process) acts like a 'lone variable' and doesn't require the tilde (~) with the `tally` function, it implies `without` is a vector. Unlike data frames which contain multiple columns (variables), a vector represents a single sequence or list of values, making its reference straightforward within functions like `tally`."
+  },
+  {
+    "title": "Code Snippet: Simulating a Playlist",
+    "body": "This code snippet is foundational to Unit 2 Lab 2D. It demonstrates how to create a simulated playlist of songs using R's `c()` function to combine different genre vectors and the `rep()` function to specify the number of songs for each genre. \n\n```R\nsongs <- c(rep(\"rap\", 30), rep(\"country\", 23), rep(\"rock\", 47))\n```\n\nHere, `rep(\"rap\", 30)` creates a vector of 30 \"rap\" strings, and these are concatenated with similar vectors for \"country\" and \"rock\" to form the complete `songs` playlist. This vector serves as the data source for subsequent sampling simulations."
+  },
+  {
+    "title": "Code Snippet: Sampling Function",
+    "body": "The `sample()` function in R is central to the simulations performed in Unit 2 Lab 2D. It is used to draw random samples from a given population (like the `songs` playlist). The basic syntax involves specifying the population to sample from, the desired sample `size`, and the `replace` argument. \n\nExample for sampling *with* replacement:\n```R\nsample(songs, size = 50, replace = TRUE)\n```\n\nExample for sampling *without* replacement:\n```R\nsample(songs, size = 100, replace = FALSE)\n```\n\nThe `replace` argument determines whether items are returned to the population after selection (`TRUE`) or removed (`FALSE`), significantly impacting the sampling process and resulting probabilities."
+  },
+  {
+    "title": "Code Snippet: Tally Function",
+    "body": "The `tally()` function, as used in Unit 2 Lab 2D, is a convenient way to count the frequency of each unique value within a vector or a column of a data frame. When applied to the `without` variable (a sample taken without replacement), `tally(without)` would output a summary table showing how many times each genre appeared in that specific sample. \n\nAs noted in the lab, if `without` is a vector, the `tally` function can be used directly without needing the tilde notation (e.g., `tally(without)`). If it were part of a data frame, the syntax might be `tally(data_frame$vector_name)` or similar, depending on the specific package implementation."
+  },
+  {
+    "title": "Code Snippet: Do Function for Multiple Simulations",
+    "body": "The `do()` function, mentioned in Unit 2 Lab 2D, is used to repeat a simulation process multiple times and collect the results. This is essential for performing a large number of trials to accurately estimate probabilities. The syntax shown involves specifying the number of repetitions and the action to be performed in each repetition. \n\nExample from the lab:\n```R\ndraws <- do(10) * sample(songs, size = 2, replace = FALSE)\n```\n\nThis code performs the `sample(songs, size = 2, replace = FALSE)` action 10 times, and the results of each sample (each pair of drawn songs) are collected into the `draws` data frame, allowing for analysis of multiple simulated outcomes."
+  },
+  {
+    "title": "Code Snippet: Checking for Specific Outcomes (==)",
+    "body": "In Unit 2 Lab 2D, the equality operator `==` is used to compare elements within a vector or data frame to a specific value. This is crucial for identifying desired outcomes within simulation results. \n\nFor example, `draws == \"rap\"` compares each element in the `draws` data frame (which contains pairs of sampled songs) to the string \"rap\". It returns a logical matrix of the same dimensions as `draws`, with `TRUE` where the element is \"rap\" and `FALSE` otherwise. This is a key step in preparing data for counting specific events, such as how many \"rap\" songs were drawn in a simulation."
+  },
+  {
+    "title": "Code Snippet: rowSums Function",
+    "body": "The `rowSums()` function in R, used in Unit 2 Lab 2D, is employed to calculate the sum of values across rows in a matrix or data frame. When combined with logical comparisons like `draws == \"rap\"`, it serves to count occurrences. \n\n`rowSums(draws == \"rap\")` takes the logical matrix (where `TRUE` represents \"rap\" and `FALSE` represents other genres) and sums the `TRUE` values (which are treated as 1s) for each row. This effectively counts the number of \"rap\" songs within each simulated draw (each row of the `draws` data frame). The result is a vector where each element corresponds to the count of \"rap\" songs in one simulation."
+  },
+  {
+    "title": "Code Snippet: Mutate Function",
+    "body": "The `mutate()` function, often used in data manipulation with packages like `dplyr`, is applied in Unit 2 Lab 2D to add new columns to a data frame. \n\nExample from the lab:\n```R\nmutate(draws, nrap = rowSums(draws == \"rap\"))\n```\n\nThis line takes the `draws` data frame and adds a new column named `nrap`. The values in this `nrap` column are calculated by `rowSums(draws == \"rap\")`, which, as explained previously, counts the number of \"rap\" songs in each row (simulation). This creates a dataset where each row now includes the original sampled songs plus a count of how many were \"rap\"."
+  },
+  {
+    "title": "Code Snippet: Filter Function",
+    "body": "The `filter()` function, commonly used with the `dplyr` package in R as seen in Unit 2 Lab 2D, is used to select rows from a data frame based on specified conditions. \n\nExample from the lab:\n```R\ndraws_sub <- filter(draws, ___ == \"rap\", ___ == \"rap\")\n```\n\nThis code snippet is designed to create a subset (`draws_sub`) containing only those rows from the `draws` data frame where *both* sampled songs meet the condition of being \"rap\". By filling in the blanks with the appropriate column identifiers (which would likely be the column names representing the first and second draw, or simply referring to the elements within each row), `filter` isolates the specific simulation outcomes of interest."
+  },
+  {
+    "title": "Code Snippet: nrow and Division for Probability Estimation",
+    "body": "This snippet from Unit 2 Lab 2D illustrates the second method for estimating probability: subsetting and counting. \n\n```R\ndraws_sub <- filter(draws, draw1 == \"rap\", draw2 == \"rap\") # Assuming draw1 and draw2 are column names\ncount_rap_rap <- nrow(draws_sub)\nprobability_estimate <- count_rap_rap / nrow(draws)\n```\n\nHere, `nrow(draws_sub)` counts the number of simulations where both songs were \"rap\". This count is then divided by the total number of simulations (`nrow(draws)`) to get the estimated probability of that specific event occurring. This demonstrates the core principle: (favorable outcomes) / (total possible outcomes)."
+  },
+  {
+    "title": "Code Snippet: Histogram Function",
+    "body": "The `hist()` function in R is used to create histograms, which are graphical representations of the distribution of numerical data. In Unit 2 Lab 2D, it's used to visualize the frequency of different counts of \"rap\" songs obtained across multiple simulations. \n\nExample usage:\n```R\nhist(nrap_vector, main = \"Distribution of Rap Songs per Simulation\", xlab = \"Number of Rap Songs\", ylab = \"Frequency\")\n```\n\nWhere `nrap_vector` contains the counts of \"rap\" songs from each simulation (e.g., obtained using `rowSums`). The histogram helps to visually assess how often specific outcomes (like 0, 1, or 2 \"rap\" songs in a sample of 2) occurred, aiding in probability estimation and understanding the simulation's results."
+  },
+  {
+    "title": "Code Snippet: set.seed Function",
+    "body": "The `set.seed()` function in R is essential for ensuring the reproducibility of results that involve random number generation, including simulations. By setting a specific integer value as the seed, you initialize the random number generator in a predictable state. \n\nExample usage in the lab:\n```R\nset.seed(1)\n```\n\nWhen `set.seed(1)` is called before a sequence of random operations (like `sample()` or `do()`), the same sequence of random numbers will be generated every time the code is run. This allows researchers and students to obtain identical results, making it easier to debug code, share findings, and compare different approaches reliably."
+  }
+]

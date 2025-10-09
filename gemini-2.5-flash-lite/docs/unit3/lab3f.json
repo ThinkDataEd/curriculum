@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Abstract for Lab 3F - Maps",
+    "body": "This document details Lab 3F, focused on creating interactive maps using R. It guides users through loading previously saved mountain data, building a basic map with markers, and then enhancing it with color-coding based on state and adding a legend. The lab emphasizes using the 'leaflet' package in RStudio for these visualizations. Key functions covered include 'leaflet()', 'addTiles()', 'addMarkers()', 'addCircleMarkers()', 'mutate()', and 'addLegend()'. The goal is to represent geographic information, specifically mountain locations, in an interactive and informative way."
+  },
+  {
+    "title": "Introduction to Maps and Geographic Data",
+    "body": "Maps are powerful tools for visualizing data related to location, movement, and areas of interest. They are particularly useful for displaying geographic information. Historically, maps have played a crucial role in scientific discovery; for instance, John Snow famously used a map to trace the transmission of cholera. This lab will utilize R to construct an interactive map using the 'mtns' dataset, which was prepared in Lab 3E. The resulting map will be displayed in RStudio's Viewer pane, requiring users to alternate between coding and loading the lab environment. It is recommended to write all commands, including 'load_lab(23)', in an R Script for easy editing and reloading."
+  },
+  {
+    "title": "Loading Mountain Data",
+    "body": "Before creating any maps, it's essential to load the dataset prepared in a previous lab. The 'mtns' dataset, containing information about mountains, was created in Lab 3E. To load this data into RStudio, users need to fill in the blank in the provided R code with the specific file name of the saved data. The command is: `load(\"___.Rda\")`. If the data file from Lab 3E is not available or the lab was not completed, participants are encouraged to obtain the file from a classmate. This step is foundational for all subsequent mapping activities in this lab."
+  },
+  {
+    "title": "Building a Basic Map with Leaflet",
+    "body": "The initial step in creating an interactive map involves using the 'leaflet()' function from the 'leaflet' package in R. This function initializes a map object. The lab instructs users to create a basic map by first defining a 'leaflet' object named 'mtns_leaf' using the 'mtns' data: `mtns_leaf <- leaflet(____)`. Subsequently, this basic map object is enhanced by adding base map tiles using the 'addTiles()' function. The output of this step is assigned to a new variable named 'mtns_map': `mtns_map <- addTiles(mtns_leaf)`. Running 'mtns_map' in the R console will display a functional map, allowing users to pan and zoom, though no specific data points will be visible yet."
+  },
+  {
+    "title": "Adding Markers to the Map",
+    "body": "Once a basic map structure is established, the next step is to incorporate data points as markers. The 'addMarkers()' function is used for this purpose. Users are prompted to fill in the blanks to specify the map object ('mtns_map'), the longitude ('lng'), and the latitude ('lat') variables from the 'mtns' dataset. The code structure would be: `addMarkers(mtns_map = ____, lng = ~____, lat = ~____)`. Furthermore, the 'popup' argument can be utilized to display information when a marker is clicked. By supplying the 'peak' variable to the 'popup' argument in a similar fashion to latitude and longitude, the name of each mountain will appear upon interaction. After implementing these changes, participants are asked to click on a marker within their state of choice and record the name of the mountain displayed."
+  },
+  {
+    "title": "Colorizing Mountain Markers by State",
+    "body": "To enhance the visual representation of the data, this section focuses on adding color to the map markers based on their geographical location. The 'mutate()' function is employed to create a new variable, 'state_colors', within the 'mtns' dataset. This variable assigns a unique color to each mountain depending on the state it is located in, using the 'colorize()' function. The command is: `mtns <- mutate(____, state_colors = colorize(____))`. After adding this new variable, it is necessary to rebuild the 'mtns_leaf' and 'mtns_map' objects to incorporate the color information. The lab then instructs participants to modify the 'addMarkers' function to 'addCircleMarkers', while keeping other arguments the same, preparing the map for color display."
+  },
+  {
+    "title": "Displaying Colored Markers and Adding a Legend",
+    "body": "This part of the lab focuses on visualizing the colored markers and providing context through a legend. The 'addCircleMarkers' function is used, similar to the previous marker addition step, but with the crucial addition of the 'color = ~state_colors' argument. This ensures that the colors assigned in the previous step are applied to the circle markers on the map. To make the color associations clear, a legend needs to be added. First, the map containing the circle markers should be assigned to the variable 'mtns_map'. Then, the 'addLegend()' function is used to place a legend in the top-right corner of the map. The arguments required are the map object, the unique colors present in the data, and the corresponding unique labels (state names): `addLegend(____, colors = ~unique(____), labels = ~unique(____))`."
+  },
+  {
+    "title": "R Functions for Mapping: Leaflet Package",
+    "body": "This lab introduces several key functions from the R 'leaflet' package for creating interactive maps. The 'leaflet()' function initializes a map object. 'addTiles()' adds the underlying map layer (e.g., OpenStreetMap tiles). 'addMarkers()' places clickable markers at specified geographic coordinates, with optional popups for displaying information like mountain names. 'addCircleMarkers()' is similar to 'addMarkers()' but displays points as circles, offering more control over appearance and enabling features like color-coding. 'mutate()' (from the 'dplyr' package, often used in conjunction with 'leaflet') is used to add new variables, such as 'state_colors', to the dataset. Finally, 'addLegend()' is used to create a legend that explains the visual encoding (e.g., colors) used on the map, making it easier for users to interpret the data. The process involves building a map incrementally by adding these layers and functionalities."
+  },
+  {
+    "title": "Key Concepts: Interactive Maps and Data Visualization",
+    "body": "Interactive maps are a powerful form of data visualization that allow users to engage with geographic data by panning, zooming, and clicking on elements to reveal more information. This lab utilizes the 'leaflet' package in R to create such maps. Key concepts include representing spatial data (latitude and longitude), associating attributes with locations (mountain names, states), and using visual encodings like color to differentiate data categories. The process involves initializing a map, adding base layers, plotting data points (markers or circle markers), and providing interpretative aids like popups and legends. The historical example of John Snow's cholera map highlights the significance of maps in understanding and communicating geographic patterns and their underlying causes."
+  },
+  {
+    "title": "R Scripting for Reproducibility",
+    "body": "For Lab 3F, it is highly recommended to write all R commands within an R Script file. This practice enhances reproducibility and makes it easier to manage the code, especially when working with interactive visualizations that require reloading. By consolidating commands like `load_lab(23)`, data loading, and map-building functions into a script, users can efficiently edit and re-run their code. This is particularly useful when iterating on map design, such as adjusting marker properties or testing different color schemes. The ability to quickly reload the lab environment and see the updated map facilitates the learning process and debugging."
+  }
+]

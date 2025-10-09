@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Abstract: Lab 2A - All About Distributions",
+    "body": "This lab, Lab 2A, focuses on understanding and describing data distributions using R. It builds upon previous labs that covered data visualization and cleaning. The core objective is to learn how to answer statistical investigative questions by calculating the mean, median, and Mean Absolute Deviation (MAD). The lab guides users through exploring a 'Personality Color' dataset, examining the center, spread, and shape of data distributions. Key R functions introduced include dotPlot, mean, median, and MAD. The lab also involves comparing distributions between different groups, specifically introverts and extroverts, using faceted plots and numerical summaries. The ultimate goal is to enable users to analyze data, interpret its characteristics, and draw conclusions about statistical questions."
+  },
+  {
+    "title": "Introduction to Data Distributions",
+    "body": "This section introduces the fundamental concepts of describing data distributions. After initial labs focused on visualizing, summarizing, and manipulating data (e.g., class time usage, data cleaning), this lab marks a shift towards using R for statistical investigations. The focus is on answering questions about data by calculating measures like the mean, median, and MAD. When examining plots of data, key questions revolve around identifying where the data is concentrated ('bulk'), where it is sparse, what values are typical, and how much the data varies. These characteristics are collectively described by the data's 'distribution', which is analyzed by looking at its 'center', 'spread', and 'shape'."
+  },
+  {
+    "title": "Lab 2A: Data Preparation and Initial Exploration",
+    "body": "Lab 2A begins with the practical steps of preparing the 'Personality Color' dataset for analysis in R. This involves exporting, uploading, and importing the data, with specific instructions to name the dataset 'colors'. Before diving into calculations, it's crucial to get acquainted with the data. This initial exploration includes identifying the names of the four variables that hold the point-totals or scores for each personality color. Additionally, users need to identify the variables indicating an observation's introvert/extrovert designation and involvement in sports. The lab also prompts users to determine the total number of variables and observations within the dataset."
+  },
+  {
+    "title": "Estimating the Center of a Distribution (Dot Plot)",
+    "body": "The lab guides users to start estimating the center of their data's distribution using a dot plot. For their predominant personality color score, users are instructed to write and run R code to create a 'dotPlot'. A helpful tip suggests using 'nint' and 'cex' options if the plot appears unclear. Based on this dot plot, users must identify the most frequent scores and estimate how many classmates share a similar score to their own. They are then asked to determine what they consider a 'typical' score for their predominant color and compare it to their own score, providing an initial, visual estimate of the data's center."
+  },
+  {
+    "title": "Calculating Mean and Median",
+    "body": "This section focuses on calculating numerical measures for the 'center' of a data distribution: the mean and the median. Users are prompted to write and run R code to calculate the mean value of their predominant color score using the 'mean(~____, data = colors)' syntax. Subsequently, they perform a similar operation to calculate the median value for the same scores. A critical step involves comparing the calculated mean and median. If they are not roughly the same, users must refer back to their dot plot and use its visual information to explain the discrepancy, linking graphical representation to numerical summaries."
+  },
+  {
+    "title": "Estimating Data Spread using Dot Plots",
+    "body": "After understanding how to describe the 'center' of the data, Lab 2A moves to quantifying the 'spread' or variability. Variability is visually represented in plots like histograms or dot plots by the horizontal extent of the data. Users are instructed to recreate a dot plot of their predominant color scores. They will then add a vertical line to this plot, representing the mean score, using the 'add_line(vline = mean(~____, data = colors))' function. Following this visualization, users must estimate how far data points typically fall from this mean score, completing a sentence to quantify this spread in units."
+  },
+  {
+    "title": "Mean Absolute Deviation (MAD)",
+    "body": "The Mean Absolute Deviation (MAD) is introduced as a specific measure to quantify the average distance of data points from the mean. This provides a numerical value for the data's 'spread' or variability. Users are guided to calculate the MAD for their predominant color scores by filling in the blank in the R code: 'MAD(~_____, data = colors)'. After calculating the actual MAD value, they are asked to compare it to their earlier estimate of the spread (from the previous slide). This comparison helps in understanding the accuracy of their visual estimations and the meaning of the MAD in relation to the data's variability."
+  },
+  {
+    "title": "Comparing Introvert and Extrovert Scores (Part 1)",
+    "body": "This section of Lab 2A investigates potential differences in personality color scores between introverts and extroverts. The analysis begins with creating a faceted dot plot. Users need to generate a dot plot for their predominant color, but this time, the plot is divided ('faceted') by the introvert/extrovert variable. Options like 'layout' (to stack plots) and 'nint'/'cex' are to be included. Following the creation of these comparative plots, users are asked to describe the 'shape' of the distribution of scores separately for extroverts and introverts, observing any visual patterns or differences in how their scores are distributed."
+  },
+  {
+    "title": "Comparing Introvert and Extrovert Scores (Part 2)",
+    "body": "Continuing the comparison between introverts and extroverts, this part of Lab 2A focuses on numerical summaries and drawing conclusions. Users are instructed to write and run R code to calculate either the 'mean' or 'median' for their predominant color scores, specifically for introverts and extroverts separately. This is done using syntax similar to that used for faceting plots. After obtaining these numerical centers, users must directly answer whether introverts and extroverts differ in their typical scores for the predominant color. Finally, they use the previously calculated MAD values to determine which group, introverts or extroverts, exhibits greater variability in their scores for that color."
+  },
+  {
+    "title": "Independent Analysis: Introvert vs. Extrovert Color Scores",
+    "body": "The final section of Lab 2A, titled 'On your own,' challenges users to apply the learned concepts to answer a statistical investigative question independently. The question posed is whether introverts and extroverts in the class differ in their scores across any of the personality colors. Users must conduct an analysis that includes both numerical summaries and graphical representations. The culmination of this task is to write a few sentences that address the investigative question. This written response should explicitly consider the 'shape', 'center', and 'spread' of the data distributions as observed in the graphs they create, demonstrating a comprehensive understanding of data analysis."
+  },
+  {
+    "title": "Vocabulary: Distribution",
+    "body": "A 'distribution' in statistics refers to how data values are arranged or spread out. It provides a summary of the frequency of different values in a dataset. When we talk about the distribution of data, we are describing its characteristics such as its 'center' (typical value), 'spread' (variability), and 'shape' (e.g., symmetric, skewed, unimodal, bimodal). Visualizations like histograms and dot plots are used to display distributions, allowing us to understand the patterns and tendencies within the data. Understanding distributions is key to interpreting statistical summaries and drawing meaningful conclusions from data."
+  },
+  {
+    "title": "Vocabulary: Center",
+    "body": "In the context of data distributions, the 'center' refers to a typical or central value that best represents the dataset. It gives us an idea of where the bulk of the data lies. Common measures used to describe the center of a distribution include the 'mean' (the average of all values) and the 'median' (the middle value when the data is ordered). Visual inspection of plots like dot plots can also help in estimating the center by observing where the data appears to be most concentrated or where the highest frequencies occur."
+  },
+  {
+    "title": "Vocabulary: Spread",
+    "body": "The 'spread' of a data distribution describes how much the data values vary or differ from each other and from the center. It quantifies the 'variability' or 'dispersion' of the data. A larger spread indicates that the data points are more spread out, while a smaller spread suggests that the data points are clustered closely around the center. Measures like the Mean Absolute Deviation (MAD) and visual cues from the horizontal extent of plots (like dot plots and histograms) are used to describe and quantify the spread of a distribution."
+  },
+  {
+    "title": "Vocabulary: Shape",
+    "body": "The 'shape' of a data distribution describes the overall pattern of the data when visualized. Key aspects of shape include: \n- **Symmetry:** Whether the data is evenly distributed on both sides of the center (like a bell curve).\n- **Skewness:** Whether the data is pulled more to one side than the other. A distribution is right-skewed if the tail extends to the right (higher values), and left-skewed if the tail extends to the left (lower values).\n- **Modality:** The number of peaks (modes) in the distribution. A unimodal distribution has one peak, bimodal has two, and multimodal has more than two.\n- **Outliers:** Extreme values that lie far from the rest of the data.\nDescribing the shape helps in understanding the nature of the data and choosing appropriate statistical methods."
+  },
+  {
+    "title": "Vocabulary: Mean",
+    "body": "The 'mean' is a measure of central tendency calculated by summing all the values in a dataset and then dividing by the number of values. It is often referred to as the 'average'. The formula for the mean of a dataset $x_1, x_2, ..., x_n$ is: $$ \\bar{x} = \\frac{\\sum_{i=1}^{n} x_i}{n} $$ The mean is sensitive to extreme values (outliers), which can pull the mean towards them. In R, the mean can be calculated using the `mean()` function, for example, `mean(~variable_name, data = dataset_name)`."
+  },
+  {
+    "title": "Vocabulary: Median",
+    "body": "The 'median' is another measure of central tendency. It is the middle value of a dataset when the data is arranged in ascending or descending order. If there is an odd number of observations, the median is the single middle value. If there is an even number of observations, the median is the average of the two middle values. The median is less sensitive to outliers than the mean, making it a more robust measure of center for skewed datasets. In R, the median can be calculated using the `median()` function, for example, `median(~variable_name, data = dataset_name)`."
+  },
+  {
+    "title": "Vocabulary: Mean Absolute Deviation (MAD)",
+    "body": "The 'Mean Absolute Deviation' (MAD) is a measure of statistical dispersion, quantifying the average absolute difference between each data point and the mean of the dataset. It provides an alternative way to describe the 'spread' or variability of the data. A lower MAD indicates that the data points tend to be very close to the mean, whereas a higher MAD signifies greater variability. The MAD is calculated by: 1. Finding the mean of the data. 2. Calculating the absolute difference between each data point and the mean. 3. Finding the mean of these absolute differences. In R, it can be calculated using the `MAD()` function, for example, `MAD(~variable_name, data = dataset_name)`."
+  },
+  {
+    "title": "R Function: dotPlot",
+    "body": "The `dotPlot()` function in R is a visualization tool used to display the distribution of a quantitative variable. It creates a plot where each data point is represented by a dot placed along a number line. For repeated values, the dots are stacked vertically. This plot is particularly useful for small to moderate-sized datasets as it clearly shows individual data points, clusters, gaps, and potential outliers. Options like `nint` (number of intervals) and `cex` (character expansion factor for size) can be used to adjust the plot's appearance for better readability, especially when dealing with many data points or overlapping values."
+  },
+  {
+    "title": "R Function: mean()",
+    "body": "The `mean()` function in R is used to calculate the arithmetic average (mean) of a set of numbers. When used in the context of a data frame, it typically requires specifying the variable and the data frame. For example, `mean(~score, data = colors)` calculates the mean of the 'score' variable within the 'colors' dataset. This function is fundamental for understanding the central tendency of a dataset. It sums all values in the specified variable and divides by the count of those values. It is important to note that `mean()` can be affected by outliers."
+  },
+  {
+    "title": "R Function: median()",
+    "body": "The `median()` function in R calculates the median, or the middle value, of a numeric vector or a specified variable within a data frame. Similar to the `mean()` function, it requires specifying the variable and the data frame when working with datasets, like `median(~score, data = colors)`. The median is the value that separates the higher half from the lower half of a data sample. It is a robust measure of center, meaning it is not heavily influenced by extreme values (outliers) in the dataset, unlike the mean."
+  },
+  {
+    "title": "R Function: MAD()",
+    "body": "The `MAD()` function in R calculates the Mean Absolute Deviation (MAD) for a given variable within a dataset. The MAD measures the average distance between each data point and the mean of the dataset. It serves as a measure of variability or spread. For example, `MAD(~score, data = colors)` would compute the MAD for the 'score' variable in the 'colors' dataset. This function helps quantify how spread out the data is around its mean and is less sensitive to outliers compared to measures like standard deviation."
+  },
+  {
+    "title": "R Function: add_line()",
+    "body": "The `add_line()` function, often used in conjunction with plotting functions in R (like `dotPlot` in certain packages), allows for the addition of lines to an existing plot. In the context of Lab 2A, it's used to add a vertical line (`vline`) representing the mean of a distribution. The syntax `add_line(vline = mean(~____, data = colors))` draws a vertical line at the calculated mean value of the specified variable, overlaying it on the existing plot (e.g., a dot plot). This visually highlights the position of the mean relative to the data points."
+  },
+  {
+    "title": "R Function: facetting",
+    "body": "Faceting in R refers to the process of creating multiple plots (or panels) from a single dataset, where each plot displays a subset of the data based on the values of one or more categorical variables. This technique is extremely useful for comparing distributions across different groups. For instance, faceting a plot by an 'introvert/extrovert' variable would create separate plots for introverts and extroverts, allowing for a direct visual comparison of their score distributions. Syntax for faceting often involves using a formula like `~ categorical_variable` within the plotting function, and options like `layout` can control how these facets are arranged (e.g., stacked or gridded)."
+  },
+  {
+    "title": "Lab 2A: Comparing Introvert and Extrovert Distributions",
+    "body": "This lab activity involves comparing the distribution of personality color scores between introverts and extroverts. Using R, students create faceted dot plots to visualize these differences. They are asked to analyze the 'shape' of the distributions for each group. Furthermore, they calculate numerical summaries like the 'mean' or 'median' to determine the 'center' for both introverts and extroverts. Finally, they use the 'Mean Absolute Deviation' (MAD) to compare the 'spread' or variability between the two groups. This multi-faceted approach (visual, center, spread) allows for a comprehensive statistical comparison to answer whether introverts and extroverts differ significantly in their scores."
+  }
+]

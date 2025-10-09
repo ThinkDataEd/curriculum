@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract for Unit 4 Lesson 11",
+    "body": "This lesson introduces the concept of a regression line as a model for linear associations or trends in data. Students will learn to identify the direction of trends (positive, negative, or no association) and interpret the slope and intercept of a linear model within the context of the data. The lesson utilizes two scatterplots: one showing 'Profits per Explosion' for Michael Bay movies and another showing 'Scores Over Time' for M. Night Shyamalan movies. Through guided discussion and handout activities, students will analyze these plots, understand the meaning of different associations, and practice using linear equations to make predictions. Key vocabulary includes trend, positive association, negative association, no association, linear, and model."
+  },
+  {
+    "title": "Unit 4 Lesson 11: Objective and Materials",
+    "body": "The objective of Unit 4 Lesson 11 is for students to understand that the regression line serves as a model for a linear association or trend. They will learn to identify the direction of trends and interpret the slope and intercept of a linear model in the context of the data. Materials required for this lesson include the 'What’s the Trend?' handout (LMR_U4_L11_A) and the 'Predicting Values' handout (LMR_U4_L11_B)."
+  },
+  {
+    "title": "Vocabulary: Trend",
+    "body": "A trend, often referred to as a line of best fit, is a line that is used to represent the behavior of a set of data to determine if there is a certain pattern. In Unit 4 Lesson 11, students learn to identify and interpret trends in scatterplots, understanding that these trends can indicate relationships between variables."
+  },
+  {
+    "title": "Vocabulary: Positive Association",
+    "body": "A positive association occurs when the values of one variable tend to increase as the values of the other variable increase. In Unit 4 Lesson 11, this is described as an increasing trend, where a line drawn through the data points slopes upwards, indicating that as one variable increases, the other also tends to increase."
+  },
+  {
+    "title": "Vocabulary: Negative Association",
+    "body": "A negative association occurs when the values of one variable tend to decrease as the values of the other variable increase. In Unit 4 Lesson 11, this is described as a decreasing trend, where a line drawn through the data points slopes downwards, indicating that as one variable increases, the other tends to decrease."
+  },
+  {
+    "title": "Vocabulary: No Association",
+    "body": "No association means that there is no discernible line or pattern in the data points on a scatterplot; the dots are scattered without a clear trend. In Unit 4 Lesson 11, students are asked to sketch what a plot with no association might look like, emphasizing that the data points would not show a positive or negative relationship."
+  },
+  {
+    "title": "Vocabulary: Linear",
+    "body": "Linear is used to describe a straight-line relationship between two variables. In Unit 4 Lesson 11, students are guided to understand that the trends observed in the scatterplots can be represented by a linear model, meaning the relationship can be approximated by a straight line."
+  },
+  {
+    "title": "Vocabulary: Model",
+    "body": "A model is a mathematical representation that embodies a set of statistical assumptions concerning the generation of sample data. In Unit 4 Lesson 11, the regression line is presented as a linear model that describes the relationship between two variables, allowing for predictions and interpretation of the data's behavior."
+  },
+  {
+    "title": "Essential Concepts: Associations and Predictions",
+    "body": "A positive or negative association between variables provides valuable insights into increasing or decreasing trends, which are particularly useful for making predictions. By understanding these associations, we can anticipate future outcomes or behaviors more accurately. Unit 4 Lesson 11 focuses on interpreting these associations to understand trends in data."
+  },
+  {
+    "title": "Unit 4 Lesson 11: Analyzing Scatterplots - Initial Observations",
+    "body": "Unit 4 Lesson 11 begins with students analyzing two scatterplots from the 'What’s the Trend?' handout. The first plot examines the relationship between the number of explosions in Michael Bay movies and their profit. The second plot shows the relationship between the number of M. Night Shyamalan movies made since 1999 and their IMDB scores. Students, in teams, discuss questions about the type of plot (scatterplot), the meaning of the axes, and what the plot generally suggests about the relationship between the variables. For the 'Profits per Explosion' plot, students might note a relationship where more explosions correlate with higher profits. For the 'Scores Over Time' plot, they might observe that as more movies are made, the scores tend to decrease."
+  },
+  {
+    "title": "Unit 4 Lesson 11: Identifying Trends and Associations",
+    "body": "During class discussion in Unit 4 Lesson 11, students are guided to identify the trend in each scatterplot. An increasing trend, like in the 'Profits per Explosion' plot, is identified as a positive association. A decreasing trend, observed in the 'Scores Over Time' plot, is identified as a negative association. Students discuss what these associations mean in the context of the data: a positive association means both variables tend to increase together, while a negative association means as one variable increases, the other tends to decrease. The concept of 'no association' is also introduced, characterized by scattered data points with no clear pattern."
+  },
+  {
+    "title": "Unit 4 Lesson 11: Understanding Linear Models and Equations",
+    "body": "Unit 4 Lesson 11 explains that the line drawn through the data points on a scatterplot represents a linear trend and serves as a model for the relationship between the variables. The equation associated with this line, typically in the form y=mx+b, describes this linear model. Students are introduced to the idea that this equation summarizes the data's relationship and can be used for predictions. This concept is explored using the 'What’s the Trend?' handout, where the regression line and its equation are presented for analysis."
+  },
+  {
+    "title": "Unit 4 Lesson 11: Interpreting the 'Profits per Explosion' Linear Model",
+    "body": "In Unit 4 Lesson 11, students analyze the linear model for the 'Profits per Explosion' scatterplot, represented by the equation y=0.685x+94.093. They identify that 'x' represents the number of explosions and 'y' represents the predicted box office gross in millions of dollars. The slope (0.685) signifies that for each additional explosion, the box office gross increases by $0.685 million. The y-intercept (94.093) represents the predicted box office gross ($94.093 million) if a movie had zero explosions, serving as a baseline prediction. Students practice using this equation to calculate predicted profits for a specific number of explosions (e.g., 275 explosions, predicting $282.468 million profit) and compare it to the actual gross for a point close to the line."
+  },
+  {
+    "title": "Unit 4 Lesson 11: Interpreting the 'Scores Over Time' Linear Model",
+    "body": "Unit 4 Lesson 11 delves into the linear model for the 'Scores Over Time' scatterplot, described by an equation (slope of -0.04377 and y-intercept of 6.68592). Students learn that 'x' represents the number of years since 1999 and 'y' represents the predicted IMDB score. The negative slope (-0.04377) indicates that for each year that passes after 1999, the IMDB score decreases by approximately 0.04377 points. The y-intercept (6.68592) theoretically represents the IMDB score in 1999 (when x=0), though its practical interpretation for this model is limited as it refers to a historical baseline. Students practice using this equation to predict scores for future movie releases (e.g., predicting a score of 5.32905 for a movie released in 2030)."
+  },
+  {
+    "title": "Unit 4 Lesson 11: Homework Assignment",
+    "body": "The homework assignment for Unit 4 Lesson 11 requires students to complete the analysis of the 'Scores Over Time' scatterplot. Specifically, they need to answer the remaining questions related to this plot, which are found in the 'What’s the Trend?' handout (LMR_U4_L11_A). This reinforces their understanding of interpreting negative associations, slopes, and intercepts within the context of M. Night Shyamalan movie scores over time."
+  }
+]

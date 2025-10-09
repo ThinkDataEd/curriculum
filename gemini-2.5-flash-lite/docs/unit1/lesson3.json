@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Abstract of Unit 1 Lesson 3: Data Structures",
+    "body": "This lesson introduces the concept of data representation in a rectangular or spreadsheet format, crucial for computer processing. Students will learn to identify and differentiate between numerical and categorical variables, understanding that variables record values that vary. The lesson emphasizes organizing data into rows (observations) and columns (variables) to facilitate analysis of individual characteristics and the variability within datasets. Key vocabulary includes variables, numerical variables, categorical variables, rows, columns, rectangular format, and variability. The objective is for students to grasp that data can be structured rectangulary, enabling easier analysis and computational processing."
+  },
+  {
+    "title": "Unit 1 Lesson 3: Data Structures Overview",
+    "body": "Unit 1 Lesson 3 focuses on understanding data representation, specifically in a rectangular or spreadsheet format. The primary objective is for students to learn that data can be effectively organized in this rectangular structure, which is essential for computer processing. The lesson utilizes materials such as DS journals and stick figure cutouts from Lesson 2. Key vocabulary introduced includes variables, numerical variables, categorical variables, rows, columns, rectangular or spreadsheet format, and variability. The essential concept is that variables record varying values, and organizing data rectangulary allows for easy observation of individual characteristics (by row) and the variability within a dataset (by column)."
+  },
+  {
+    "title": "Vocabulary: Variables",
+    "body": "In the context of Unit 1 Lesson 3, a 'variable' refers to a characteristic of an object or person. Students are prompted to create their own definitions and share them, refining the understanding of what constitutes a variable. Examples from the stick figure data include 'Name', 'Height', 'GPA', 'Shoe', 'Sport', and 'Friends'. Variables are fundamental to organizing and describing data, as they hold the values that are recorded for each observation."
+  },
+  {
+    "title": "Vocabulary: Numerical and Categorical Variables",
+    "body": "Unit 1 Lesson 3 distinguishes between two main types of variables: numerical and categorical. 'Numerical variables' are those whose values have numbers, such as 'Height' or 'GPA' in the stick figure example. 'Categorical variables' are those whose values have words or represent categories, such as 'Name', 'Shoe', or 'Sport'. Understanding this distinction is key to organizing and analyzing data, as different types of variables require different analytical approaches. While typically represented by words, categorical variables can sometimes be coded as numbers."
+  },
+  {
+    "title": "Vocabulary: Rows and Columns in Data Tables",
+    "body": "In Unit 1 Lesson 3, the concepts of 'rows' and 'columns' are introduced as fundamental components of structured data organization. A 'row' represents a single observation or record within a data table; for instance, each stick figure person would occupy one row. A 'column' represents a specific variable, detailing a particular characteristic across all observations; for example, a 'Height' column would list the heights of all individuals. Together, rows and columns form a rectangular or spreadsheet format, which is easily processed by computers."
+  },
+  {
+    "title": "Vocabulary: Rectangular or Spreadsheet Format",
+    "body": "Unit 1 Lesson 3 emphasizes the importance of organizing data into a 'rectangular or spreadsheet format'. This structured layout, consisting of rows and columns, is crucial for enabling computers to read and interpret data effectively. While humans can understand various data representations, computers require this organized, grid-like structure. This format allows for easy access to individual data points, characteristics of observations by reading across a row, and variability within a variable by reading down a column."
+  },
+  {
+    "title": "Vocabulary: Variability",
+    "body": "Variability is a key concept in Unit 1 Lesson 3, defined as how spread out a set of data is. It provides a way to describe how much data sets differ and allows for comparisons. The lesson highlights that the first step in any data investigation is noticing variability. This concept is directly linked to the term 'variable,' as the 'variable' indicates that values differ or vary. Observing variability within a column (a variable) is a primary outcome of organizing data into a rectangular format."
+  },
+  {
+    "title": "Essential Concepts: Data Organization and Variability",
+    "body": "The essential concept of Unit 1 Lesson 3 is that variables record values that exhibit variation. By organizing data into a rectangular or spreadsheet format, we gain the ability to easily perceive the characteristics of individual observations by examining a row. Furthermore, we can readily identify the variability within a specific variable by examining the values down a column. This structured format is also vital because computers can efficiently process data when it is arranged in this manner, making it a foundational skill for data analysis."
+  },
+  {
+    "title": "Unit 1 Lesson 3: Defining and Identifying Variables",
+    "body": "In Unit 1 Lesson 3, students begin by revisiting the concept of 'variables' from the previous lesson, creating their own definitions and discussing them. Using the 'Stick Figures' data from Lesson 2, the class collaboratively identifies potential variable names such as 'Name', 'Height', 'GPA', 'Shoe', 'Sport', and 'Friends'. This step reinforces the understanding that variables are descriptors of observations. The lesson then progresses to categorizing these variables into 'numerical' (having numbers) and 'categorical' (having words or categories)."
+  },
+  {
+    "title": "Unit 1 Lesson 3: Classifying Variables",
+    "body": "Following the identification of variable names for the 'Stick Figures' data in Unit 1 Lesson 3, students engage in a discussion to differentiate between numerical and categorical variables. They observe that variables like 'Height' consist of numerical values, while variables like 'Shoe' consist of categories (words). This leads to the classification: 'numerical variables' represent values with numbers, and 'categorical variables' represent values with words. Students practice this by creating two lists in their journals, classifying variables like 'Height' and 'GPA' as numerical, and 'Name', 'Shoe', and 'Sport' as categorical."
+  },
+  {
+    "title": "Unit 1 Lesson 3: The Importance of Rectangular Data Format",
+    "body": "Unit 1 Lesson 3 stresses that while humans can interpret various data formats, computers require a structured approach. The lesson introduces the 'rectangular or spreadsheet format' as the standard for computer readability. This format, composed of 'rows' and 'columns', allows data to be organized systematically. The discussion clarifies that each 'row' represents a single observation (e.g., one stick figure), and each 'column' represents a single 'variable' (e.g., height). This structure is fundamental for data processing and analysis by computational tools."
+  },
+  {
+    "title": "Unit 1 Lesson 3: Constructing a Data Table",
+    "body": "As part of Unit 1 Lesson 3, students are guided to construct a data table in their DS journals using the 'Stick Figures' information. This table is structured in 'rectangular format,' featuring 'rows' for each observation (person) and 'columns' for each 'variable' (e.g., Name, Height, GPA). The lesson provides an example image of this table structure. Students work in teams to populate the table using all available 'Stick Figures' cards, ensuring each row accurately represents one individual's data across all defined variables."
+  },
+  {
+    "title": "Unit 1 Lesson 3: Analyzing Data Table Variability",
+    "body": "After completing the data table in Unit 1 Lesson 3, students analyze it to understand 'variability'. They answer questions about whether people share the same values for a variable (e.g., multiple people wearing sneakers, or multiple people having the same height) and whether people have different values for a variable. This analysis directly illustrates the concept of variability – how values differ across observations for a given variable. The lesson connects this observation of differing values directly to the definition of variability and the nature of variables themselves."
+  },
+  {
+    "title": "Unit 1 Lesson 3: Key Takeaways on Data Structures",
+    "body": "Unit 1 Lesson 3 concludes by reinforcing key concepts about data structures. Students learn that organizing data into a 'rectangular format' with 'rows' (observations) and 'columns' (variables) is essential for computer processing. They solidify their understanding of 'numerical' versus 'categorical' variables and how 'variability' within data is observed by looking down columns. A 'Class Scribes' activity encourages teams to summarize the three most important topics, ensuring comprehension of how data can be represented and analyzed in a structured, computer-friendly manner."
+  }
+]

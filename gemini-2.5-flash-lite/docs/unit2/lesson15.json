@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract of Unit 2 Lesson 15: Tangible Data Merging",
+    "body": "This lesson, Unit 2 Lesson 15, focuses on the process of merging two datasets to enable more comprehensive statistical analysis. Students will learn the importance of using unique identifiers to accurately combine data from different sources. The lesson employs a tangible, hands-on activity where students physically match data strips based on shared identifiers. Key concepts include the definition of 'merge' and the necessity of unique identifiers for correct data matching. The objective is for students to understand how merging datasets can enhance the context of statistical problems and prepare them for merging data using RStudio in a subsequent lab. The lesson also includes vocabulary, essential concepts, a step-by-step guide for the tangible merging activity, and discussion prompts for students to reflect on the process and its importance. Homework involves collecting more data for the 'Stress/Chill' campaign and preparing for Lab 2G."
+  },
+  {
+    "title": "Vocabulary: Merge",
+    "body": "The term 'merge' in the context of data analysis means to come together or combine. In Unit 2 Lesson 15, this refers to the process of joining two separate datasets into a single, unified dataset. This is crucial for answering more complex statistical questions that require information from multiple sources. For example, merging a dataset about personality colors with a dataset about stress levels allows for an analysis of whether different personality colors are associated with different stress levels. The ability to merge datasets effectively requires understanding how to link records from one dataset to another."
+  },
+  {
+    "title": "Essential Concepts: Enhancing Context with Merged Data",
+    "body": "We can enhance the context of a statistical problem by merging related datasets together. To merge data, each dataset must have a 'unique identifier' that tells us how to match up the lines of the data. This unique identifier is crucial for ensuring that the correct records from each dataset are combined. Without a unique identifier, merging data would lead to incorrect associations and flawed analysis. This concept is central to Unit 2 Lesson 15, where students learn that merging allows for a richer understanding of a statistical problem by bringing together different pieces of relevant information."
+  },
+  {
+    "title": "Unit 2 Lesson 15: Objective and Introduction",
+    "body": "The primary objective of Unit 2 Lesson 15, 'Tangible Data Merging,' is for students to learn how to merge two datasets and subsequently ask statistical questions about the combined data. The lesson begins by introducing the research question: 'Does the personality color test really work?' To explore this, students will examine if different color groups (from a personality test) differ in specific beliefs or attitudes, using the 'Stress/Chill' data to see if there's evidence of differences related to personality colors. This sets the stage for the core activity of merging the 'Personality Color' and 'Stress/Chill' datasets."
+  },
+  {
+    "title": "Unit 2 Lesson 15: Materials and Preparation",
+    "body": "For Unit 2 Lesson 15, 'Tangible Data Merging,' two key materials are required. First, the 'Tangible Data Merging' file (LMR_U2_L15.pdf) needs to be prepared by cutting its content into horizontal strips, with each strip representing one observation of data. This preparation is detailed in step 5 of the lesson. Second, copy paper in two distinct colors is necessary. These different colors are used to visually distinguish between the two datasets (Dataset 1 and Dataset 2) during the tangible merging activity, as described in step 5. This color-coding helps students differentiate the data sources they are working with."
+  },
+  {
+    "title": "Unit 2 Lesson 15: Brainstorming Statistical Questions",
+    "body": "Following the introduction of the research question and the datasets, students in Unit 2 Lesson 15 are tasked with examining the variables within each of the two datasets ('Personality Color' and 'Stress/Chill'). They are given time to work in teams to brainstorm and record statistical questions of interest in their Data Science journals. The lesson encourages students to think about both two-variable and three-variable questions. Subsequently, a share-out session is conducted where student teams present some of their generated questions. Examples provided include: 'Do people whose predominant color is Gold tend to stress more than people whose predominant color is Blue?' and 'Is there a difference between the sorts of things that stress out the different personality colors?'"
+  },
+  {
+    "title": "Unit 2 Lesson 15: The Need for Merging Datasets",
+    "body": "To effectively answer the statistical questions brainstormed in Unit 2 Lesson 15, such as investigating the relationship between personality colors and stress levels, it becomes necessary to combine the 'Personality Color' dataset and the 'Stress/Chill' dataset. The lesson explicitly states that merging these two datasets is the required step for analysis. This highlights the practical application of data merging in statistical inquiry, moving from individual datasets to a more integrated view that can support deeper insights and more complex analyses. The upcoming activity focuses on the process of merging."
+  },
+  {
+    "title": "Unit 2 Lesson 15: Tangible Data Merging Activity Setup",
+    "body": "In Unit 2 Lesson 15, the tangible data merging activity involves preparing physical data strips. Students are instructed to print the material from the 'Tangible Data Merging' file (LMR_U2_L15.pdf). A key step is to use two different colors of paper, one for Dataset 1 and another for Dataset 2, to visually differentiate them. Each observation within a dataset is then cut into a horizontal strip. For instance, if Dataset 1 has 12 observations on its first page, 12 separate strips of paper are created, each representing one unique observation. This physical representation of data is fundamental to the hands-on merging exercise that follows."
+  },
+  {
+    "title": "Unit 2 Lesson 15: The Hands-on Merging Process",
+    "body": "The core of Unit 2 Lesson 15's tangible activity involves students physically merging data. Each student receives a strip of paper from one of the datasets. They are then tasked with finding a classmate who has a strip from the *other* dataset and with whom they can 'match up' or 'merge' their data. The example provided illustrates a potential match: a student with data from Dataset 1 (e.g., a 21-year-old with ID 1742) might look for a match in Dataset 2. This hands-on approach helps students intuitively grasp the concept of data linkage before moving to digital tools."
+  },
+  {
+    "title": "Unit 2 Lesson 15: Identifying Unique Identifiers",
+    "body": "During the tangible merging activity in Unit 2 Lesson 15, students quickly realize the challenges of matching data without clear criteria. They are shown sample data from both datasets, highlighting variables like 'Birth Month,' 'Zip Code,' and 'ID Number.' It becomes apparent that 'Birth Month' and 'Zip Code' are not ideal for merging because multiple individuals can share the same birth month or zip code, leading to ambiguity. The lesson emphasizes that the 'ID Number' is the *only* unique identifier present in both datasets, making it the sole reliable basis for correctly matching observations between Dataset 1 and Dataset 2."
+  },
+  {
+    "title": "Unit 2 Lesson 15: Importance of Unique Identifiers",
+    "body": "Unit 2 Lesson 15 stresses the critical importance of having at least one unique identifier in both datasets when merging. Students are prompted to reflect on this in their journals, answering why it's crucial. The key takeaway is that a unique identifier is the *only* way to ensure that information is correctly associated with the right person or observation. Without it, incorrect matches can occur, compromising the integrity and reliability of any subsequent data analysis. This reinforces the concept that accurate data merging relies on unambiguous links between records."
+  },
+  {
+    "title": "Unit 2 Lesson 15: Preparing for Digital Merging",
+    "body": "Concluding the tangible activity in Unit 2 Lesson 15, students are informed about the next steps in their data science journey. They are told that they will learn to perform dataset merging using RStudio in the upcoming lab session. This bridges the gap between the conceptual and hands-on understanding gained from the physical merging exercise and the practical application of data manipulation tools. The tangible activity serves as a foundational experience, preparing them for the more technical aspects of data merging in a digital environment."
+  },
+  {
+    "title": "Unit 2 Lesson 15: Class Scribes and Homework",
+    "body": "As part of Unit 2 Lesson 15, one student team is designated as 'Class Scribes.' Their role is to present a brief talk summarizing what they consider the three most important topics covered during the lesson. Additionally, students are assigned homework related to the 'Stress/Chill' campaign. They need to collect data for one more day, which can be done using the 'IDS ThinkData Ed App' or via the web browser at https://portal.thinkdataed.org. Students are also directed to complete 'Lab 2G: Getting it Together' prior to the 'Practicum 3.'"
+  }
+]

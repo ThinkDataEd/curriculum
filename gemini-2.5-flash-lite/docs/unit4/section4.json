@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Abstract: Unit 4, Section 4 - Decisions, Decisions",
+    "body": "This document outlines Unit 4, Section 4, focusing on decision trees for classification and prediction. It covers enduring understandings, engagement activities, learning objectives across statistical, data science, and computational thinking domains, language objectives for student discussion and explanation, and data resources including the USMNT/NFL and Titanic datasets. The section also mentions a participatory sensing campaign and provides a legend for activity icons, with an instructional period of 3 days."
+  },
+  {
+    "title": "Enduring Understandings: Decision Trees",
+    "body": "Decision trees are a powerful tool for classifying observations into similar groups based on their characteristics. The process involves asking a series of questions, and observations are sorted according to the answers. This iterative process, also known as classification and regression trees (CART), continues until a final group membership is determined. CART is a specific modeling technique used for creating these decision trees."
+  },
+  {
+    "title": "Engagement Activity: Doctor vs. Data Scientist",
+    "body": "To engage students, they will be presented with a hypothetical scenario: would they trust a doctor or a data scientist to diagnose chest pains? This question serves as an introduction to the concept of decision trees and their application in making predictions for diagnosis and other classification tasks."
+  },
+  {
+    "title": "Learning Objective: Statistical - Model Consistency",
+    "body": "Students will learn to decide if a specified model is consistent with results from a given data-generating process. This objective, aligned with statistical standard S-IC 2, often involves using simulation to test model predictions against actual or simulated data, ensuring the model accurately reflects the underlying data-generating process."
+  },
+  {
+    "title": "Learning Objective: Data Science - Tree-Based Prediction",
+    "body": "Students will understand that classification and regression trees are effective models for predicting group membership. This means learning how these tree structures can categorize data points into predefined classes or predict continuous values, based on the features of the data."
+  },
+  {
+    "title": "Learning Objective: Applied Computational Thinking - Creating Trees",
+    "body": "Using RStudio, students will gain practical experience in creating both classification and regression trees. This involves hands-on application of computational thinking to build predictive models that can be used for various data analysis tasks."
+  },
+  {
+    "title": "Learning Objective: Real-World Connections - Heart Attack Diagnosis",
+    "body": "The section highlights a real-world application of decision trees in cardiology. Cardiologists can use decision trees to diagnose heart attacks. Historically, since the late 1870s, this method has shown a high accuracy rate, correctly diagnosing over 95% of heart attack cases, outperforming individual doctors' expertise which ranged from 75% to 90%."
+  },
+  {
+    "title": "Language Objective 1: Discussion of Classification Trees",
+    "body": "Students will actively participate in partner and whole group discussions. The goal is for them to articulate their understanding of classification trees, using relevant terminology and concepts learned in the unit."
+  },
+  {
+    "title": "Language Objective 2: Explaining Model Accuracy",
+    "body": "Students will be able to explain, both orally and in writing, the process of determining the accuracy of their non-linear models. This involves understanding evaluation metrics and how to assess the performance of their decision tree models."
+  },
+  {
+    "title": "Language Objective 3: Connecting Decision Trees and Linear Models",
+    "body": "Students will develop the ability to make written connections between decision trees and linear models. This requires understanding the similarities and differences between these modeling approaches and how they can be applied in different scenarios."
+  },
+  {
+    "title": "Data File: USMNT/NFL Dataset",
+    "body": "One of the data files available for use in this section is the USMNT/NFL dataset. This dataset can be loaded into RStudio using the command ```data(futbol)```. It can be used for various data analysis and modeling activities, including the creation of classification and regression trees."
+  },
+  {
+    "title": "Data File: Titanic Dataset",
+    "body": "Another data file provided for this section is the Titanic dataset. It can be accessed in RStudio using the command ```data(titanic)```. This dataset is commonly used for classification tasks, such as predicting passenger survival, and is suitable for practicing with decision tree models."
+  },
+  {
+    "title": "Data Collection Method: Participatory Sensing Campaign",
+    "body": "In addition to using pre-existing datasets, students will engage in a team-generated participatory sensing campaign. This involves collecting data for a topic selected by their team, allowing them to apply data collection and analysis skills in a self-directed project."
+  },
+  {
+    "title": "Legend for Activity Icons",
+    "body": "This section provides a legend for understanding the various activity icons used throughout the unit materials. These icons visually represent different types of activities, resources, or learning components. For detailed information, please refer to the image located at ../img/legend.png."
+  },
+  {
+    "title": "Decision Trees and CART",
+    "body": "Decision trees are fundamental to Unit 4, Section 4. They are a method for classifying observations into groups based on characteristics. The process involves asking questions to sort data. Classification and Regression Trees (CART) is a specific modeling tool used to build these decision trees. CART models help in predicting group membership."
+  },
+  {
+    "title": "Classification Trees: Prediction and Group Membership",
+    "body": "A core concept in this unit is the use of classification trees for predicting membership in groups. These tree-like structures, often built using methods like CART, analyze data features to assign observations to specific categories. This predictive capability is crucial for tasks like diagnosis or categorization."
+  },
+  {
+    "title": "CART: Classification and Regression Trees",
+    "body": "CART, standing for Classification and Regression Trees, is a key modeling tool introduced in Unit 4, Section 4. It is a specific algorithm used to construct decision trees. These trees can be used for both classification (predicting categories) and regression (predicting continuous values), making CART a versatile tool for data science and statistical modeling."
+  },
+  {
+    "title": "Application of Decision Trees in Medicine",
+    "body": "Decision trees have significant real-world applications, particularly in medicine. For example, in diagnosing heart attacks, decision trees have proven to be highly effective. Studies show they can achieve over 95% accuracy, surpassing the diagnostic accuracy of individual physicians in many cases, demonstrating their value in critical decision-making processes."
+  },
+  {
+    "title": "RStudio for Tree Creation",
+    "body": "Applied Computational Thinking in this unit involves using RStudio to create decision trees. Students will learn the practical skills of building both classification and regression trees within the RStudio environment, a popular platform for statistical computing and data analysis."
+  }
+]

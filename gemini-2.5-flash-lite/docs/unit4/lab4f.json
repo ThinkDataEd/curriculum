@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Abstract of Lab 4F",
+    "body": "Lab 4F, titled 'This model is big enough for all of us!', focuses on improving prediction accuracy in linear models by incorporating more variables. The lab guides students through building and evaluating regression models using the 'movie' dataset. It starts with a basic model predicting 'gross' using 'runtime', then introduces additional variables like 'reviews_num' to assess their impact on prediction accuracy. Students will practice data splitting, model training, cross-validation using a test set, and iterative model refinement. The lab encourages critical thinking about which variables are most relevant for predicting a movie's gross revenue and culminates in students building their own comprehensive model to compare its performance against simpler models."
+  },
+  {
+    "title": "Lab 4F: Introduction to Building Better Models",
+    "body": "Lab 4F, 'This model is big enough for all of us!', builds upon previous labs by exploring how to enhance prediction accuracy. Previously, students learned to create predictions using lines of best fit (linear/regression models) and measure their accuracy through cross-validation. This lab specifically investigates the question: 'Will including more variables in our model improve its predictions?'. The goal is to understand that incorporating more relevant information can lead to more robust and accurate predictive models. The lab will involve practical steps of data manipulation, model building, and evaluation using the 'movie' dataset."
+  },
+  {
+    "title": "Data Splitting for Lab 4F",
+    "body": "In Unit 4 Lab 4F, the first step is to prepare the data for model building and evaluation. This involves loading the 'movie' dataset and splitting it into two distinct sets using code. A 'training' set, comprising 75% of the data, will be used to build the predictive models. A 'test' set, containing the remaining 25% of the data, will be used to evaluate the accuracy of these models. It is crucial to use the `set.seed()` function before splitting the data to ensure reproducibility of the results. This division allows for an unbiased assessment of how well a trained model generalizes to unseen data."
+  },
+  {
+    "title": "Initial Linear Model (Runtime vs. Gross)",
+    "body": "As part of Unit 4 Lab 4F, students will create and evaluate an initial linear model. The code will be written and run using the 'training' data subset. This model aims to predict the 'gross' revenue of movies based solely on their 'runtime'. After building this model, students will then use the 'test' data to make predictions and calculate the Mean Squared Error (MSE) to quantify the model's prediction accuracy. This serves as a baseline model against which more complex models will be compared."
+  },
+  {
+    "title": "Evaluating Model Accuracy with MSE",
+    "body": "In Unit 4 Lab 4F, after building a linear model, it's essential to measure its prediction accuracy. This is done by using the 'test' data, which the model has not seen during training. The model will generate predictions for the 'gross' revenue of the movies in the 'test' set. The Mean Squared Error (MSE) will be calculated using these predictions and the actual 'gross' values from the 'test' set. A lower MSE indicates that the model's predictions are closer to the actual values, signifying better accuracy. This process is repeated for different models throughout the lab."
+  },
+  {
+    "title": "Factors Affecting Movie Gross",
+    "body": "Unit 4 Lab 4F prompts critical thinking about the factors influencing a movie's financial success. The question is posed: 'Do you think that a movie's runtime is the only factor that goes into how much a movie will make? What else might affect a movie's gross?'. This encourages students to brainstorm other potential variables beyond just the length of the film. Examples of factors that might influence a movie's gross revenue could include marketing budget, star power of actors, genre, critical reviews, number of reviews, release date, and competition from other films."
+  },
+  {
+    "title": "Incorporating 'reviews_num' into the Model",
+    "body": "Building on the initial model, Unit 4 Lab 4F introduces the concept of improving predictions by including additional relevant variables. Students are asked to fill in the blanks in an R formula to create a new linear model. This model predicts 'gross' revenue using both 'runtime' and the number of reviews ('reviews_num') from the 'training' data. The formula provided is `lm(____ ~ ____ + ____, data = training)`. Students need to correctly identify 'gross' as the response variable and 'runtime' and 'reviews_num' as the predictor variables to complete the code."
+  },
+  {
+    "title": "Assessing the Impact of 'reviews_num'",
+    "body": "Following the creation of the new model that includes 'reviews_num' in Unit 4 Lab 4F, students must evaluate its performance. They will compare the accuracy of this multi-variable model against the initial 'runtime'-only model. The process involves using the 'test' data to generate predictions from the new model and calculating its MSE. By comparing the MSE of the new model with the MSE of the baseline model, students can determine if including 'reviews_num' resulted in more or less accurate predictions. They are required to describe the steps taken to reach this conclusion, emphasizing the use of the test set for evaluation."
+  },
+  {
+    "title": "Adding a Third Predictor Variable",
+    "body": "In Unit 4 Lab 4F, students are tasked with extending the linear model further by incorporating a third predictor variable. They need to write down the R code that would be used within the `lm()` function to achieve this. This exercise reinforces the syntax for building multiple linear regression models. The choice of the third variable is left to the student, encouraging them to think about other potentially influential factors that might affect a movie's 'gross' revenue, based on their understanding of the dataset and the problem."
+  },
+  {
+    "title": "Identifying Relevant Variables for Prediction",
+    "body": "Unit 4 Lab 4F includes a section for students to independently select variables they believe will improve prediction accuracy. Students are prompted to write down which other variables in the 'movie' dataset they think would be beneficial for predicting 'gross' revenue. This requires them to analyze the available data and hypothesize relationships between different movie attributes and their commercial success. This step is crucial for developing intuition about feature selection in predictive modeling."
+  },
+  {
+    "title": "Identifying Irrelevant Variables for Prediction",
+    "body": "As part of the critical evaluation process in Unit 4 Lab 4F, students are asked to consider variables that might *not* improve prediction accuracy. They need to identify any variables in the 'movie' dataset that they believe would be unhelpful or potentially detrimental to the predictive power of a model for 'gross' revenue. This encourages a nuanced understanding that not all available data is necessarily useful, and some variables might introduce noise or spurious correlations."
+  },
+  {
+    "title": "Building a Comprehensive Custom Model",
+    "body": "In Unit 4 Lab 4F, after identifying potentially relevant variables, students are instructed to build a new linear model. This model will include all the variables they selected in the previous steps as predictors for 'gross'. The code to create this comprehensive model using the `lm()` function and the 'training' data must be written and executed. This step represents the culmination of their efforts to select and combine relevant information for a predictive task."
+  },
+  {
+    "title": "Evaluating the Comprehensive Model",
+    "body": "The final evaluation step in Unit 4 Lab 4F involves comparing the custom, comprehensive model against a previous benchmark. Students must assess whether their self-built model makes more accurate predictions for the 'test' data than the model that included only 'runtime' and 'reviews_num'. This comparison is done by calculating and comparing the MSE for both models on the unseen 'test' data. The goal is to quantify the improvement, if any, gained by including the additional variables chosen by the student."
+  },
+  {
+    "title": "Determining the Best Predictive Model",
+    "body": "In the concluding part of Unit 4 Lab 4F, students collaborate with their peers to identify the optimal combination of variables for predicting movie 'gross' revenue. Through discussion and comparison of the evaluation metrics (likely MSE on the 'test' data) for various models they have built, they aim to determine which set of predictors yields the most accurate results. This collaborative step emphasizes the iterative nature of model building and the importance of empirical validation in data science."
+  },
+  {
+    "title": "Linear Models (Regression Models)",
+    "body": "In the context of Unit 4 Lab 4F, linear models, also referred to as lines of best fit or regression models, are the primary tool used for prediction. These models establish a linear relationship between one or more predictor variables and a response variable. The goal is to find the line (or hyperplane in higher dimensions) that best represents the data, allowing for predictions to be made about the response variable based on the values of the predictor variables. The accuracy of these models is measured using metrics like Mean Squared Error (MSE)."
+  },
+  {
+    "title": "Cross-Validation",
+    "body": "Cross-validation is a technique mentioned in Unit 4 Lab 4F for measuring the accuracy of predictive models. While the lab primarily uses a simple train-test split, the concept of cross-validation implies more robust methods for model evaluation. It involves partitioning the data into multiple subsets, training the model on some subsets, and validating it on the remaining subset. This process is repeated, and the results are averaged to provide a more reliable estimate of the model's performance on unseen data and to help prevent overfitting."
+  },
+  {
+    "title": "Mean Squared Error (MSE)",
+    "body": "Mean Squared Error (MSE) is a key metric used in Unit 4 Lab 4F to evaluate the accuracy of the predictive models. It quantifies the average of the squared differences between the predicted values and the actual values. Mathematically, MSE = (1/n) * Σ(actual - predicted)^2. A lower MSE indicates a better fit of the model to the data, meaning the model's predictions are closer to the true values. In this lab, MSE is calculated on the 'test' data to provide an unbiased assessment of model performance."
+  },
+  {
+    "title": "R Code: `lm()` function",
+    "body": "The `lm()` function in R is central to Unit 4 Lab 4F for building linear models. It is used to fit linear models. The basic syntax involves specifying a formula that defines the relationship between variables (e.g., `response ~ predictor1 + predictor2`) and the data frame containing these variables (e.g., `data = training`). The function returns an object containing information about the fitted model, including coefficients and diagnostic statistics, which can then be used for making predictions and assessing model fit."
+  },
+  {
+    "title": "R Code: `set.seed()` function",
+    "body": "The `set.seed()` function is a crucial utility in R, emphasized in Unit 4 Lab 4F, particularly for data splitting. It initializes R's random number generator. By setting a specific seed value (e.g., `set.seed(123)`), the sequence of random numbers generated subsequently becomes reproducible. This is essential for ensuring that the random data split into training and test sets is the same every time the code is run, making the results of the lab repeatable and verifiable."
+  },
+  {
+    "title": "R Code: Data Splitting",
+    "body": "In Unit 4 Lab 4F, data splitting is performed to create 'training' and 'test' sets. While the specific code isn't shown in full detail, the process involves dividing the loaded 'movie' dataset. Typically, functions like `sample()` or packages like `rsample` are used. For instance, one might generate random indices for 75% of the data to form the training set and use the remaining 25% for the test set. Using `set.seed()` beforehand is critical for reproducibility, as mentioned in the lab directions."
+  }
+]

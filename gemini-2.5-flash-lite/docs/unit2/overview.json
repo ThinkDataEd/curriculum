@@ -1,0 +1,174 @@
+[
+  {
+    "title": "Unit 2: Daily Overview and Structure",
+    "body": "Unit 2, titled 'Daily Overview: Unit 2', is divided into five main themes, spanning a total of 35 days. The themes are: 'What Is Your True Color?' (10 days), 'How Likely Is It?' (7 days), 'Are You Stressing or Chilling?' (8 days), 'What’s Normal?' (5 days), and an 'End of Unit Project' (5 days). Each day typically includes specific lessons, labs, or practicums, often associated with a campaign and specific data topics. The unit progresses through concepts like data subsets, measures of center and spread, probability, simulations, and normal distributions, culminating in a project that synthesizes these concepts."
+  },
+  {
+    "title": "Unit 2, Theme 1: What Is Your True Color?",
+    "body": "The first theme of Unit 2, 'What Is Your True Color?', spans 10 days. It begins with Unit 2 Lesson 1, focusing on data subsets and relative frequency, and utilizes the 'Personality Color – data' campaign. Subsequent lessons delve into measures of center (mean in Unit 2 Lesson 2, median in Unit 2 Lesson 3) and measures of spread (MAD in Unit 2 Lesson 4). Unit 2 Lab 2A consolidates these concepts. The theme continues with Unit 2 Lesson 5 on boxplots and IQR, Unit 2 Lesson 6 and Unit 2 Lesson 7 on comparing distributions, Unit 2 Lab 2B which covers boxplots, IQR, and numerical summaries, and concludes with Unit 2 Practicum: The Summaries, which involves analyzing data for 'Food Habits or Time Use' and comparing distributions."
+  },
+  {
+    "title": "Unit 2, Theme 2: How Likely Is It?",
+    "body": "The second theme in Unit 2, 'How Likely Is It?', spans 7 days. This section focuses on probability and simulations. It starts with Unit 2 Lesson 8, introducing probability and simulations. Unit 2 Lesson 9, 'Dice Detective', uses simulations to detect unfairness. Unit 2 Lesson 10, 'Marbles, Marbles', covers probability with replacement. Unit 2 Lab 2C, 'Which Song Plays Next?', involves the probability of simple events and introduces `do loops` and `set.seed()`. Unit 2 Lesson 11, 'This AND/OR That', tackles compound probabilities. Unit 2 Lab 2D, 'Queue It Up!', explores probability with and without replacement using the `sample()` function. The theme concludes with Unit 2 Practicum: Win, Win, Win, focusing on probability estimation through repeated simulations."
+  },
+  {
+    "title": "Unit 2, Theme 3: Are You Stressing or Chilling?",
+    "body": "The third theme of Unit 2, 'Are You Stressing or Chilling?', covers 8 days and utilizes the 'Stress/Chill – data' campaign. It begins with Unit 2 Lesson 12, introducing the campaign. Unit 2 Lesson 13 and Unit 2 Lab 2E, 'The Horror Movie Shuffle', focus on chance differences for categorical variables and inference for categorical variables, respectively, incorporating `do loops` and `shuffle()`. Unit 2 Lesson 14 and Unit 2 Lab 2F, 'The Titanic Shuffle', extend this to numerical variables, covering chance differences and inference for numerical variables. Unit 2 Lesson 15, 'Tangible Data Merging', introduces merging datasets. This is followed by Unit 2 Lab 2G, 'Getting It Together', which covers merging datasets, differentiating between stacking and joining, and uses both 'Stress/Chill & Personality Color' data. The theme culminates in Unit 2 Practicum: What Stresses Us?, analyzing merged data from 'Stress/Chill' and 'Personality Color'."
+  },
+  {
+    "title": "Unit 2, Theme 4: What’s Normal?",
+    "body": "The fourth theme in Unit 2, 'What’s Normal?', spans 5 days and introduces concepts related to the normal distribution. Unit 2 Lesson 16, 'What Is Normal?', provides an introduction to the normal curve. Unit 2 Lesson 17, 'Normal Measure of Spread', focuses on the standard deviation (SD) as a measure of spread. Unit 2 Lesson 18, 'What’s Your Z-Score?', explains z-scores and their relation to shuffling data. Unit 2 Lab 2H, 'Eyeballing Normal', involves overlaying normal curves on distributions and simulated data. Unit 2 Lab 2I, 'R’s Normal Distribution Alphabet', delves into R functions for normal distributions, including `rnorm()`, `pnorm()`, and `qnorm()` for generating random numbers, calculating probabilities, and finding quantiles, respectively."
+  },
+  {
+    "title": "Unit 2, Theme 5: End of Unit Project",
+    "body": "The final part of Unit 2 is the 'End of Unit Project: Comparing Groups Using Our Own Data', which spans 5 days (Days 31-35). This project serves as a synthesis of the concepts learned throughout the unit. Students will apply their knowledge to analyze and compare groups using data they have collected or worked with in previous sections. The available datasets include 'Stress/Chill', 'Personality Color', 'Food Habits', or 'Time Use'. The project aims to integrate various analytical techniques and understanding of data distributions developed in the preceding themes."
+  },
+  {
+    "title": "Unit 2: Key Concepts - Measures of Center",
+    "body": "Unit 2 introduces fundamental statistical measures of center. Unit 2 Lesson 2, 'What Does Mean Mean?', specifically covers the calculation and interpretation of the mean, a common measure of central tendency. Unit 2 Lesson 3, 'Median In the Middle', focuses on the median, another key measure of center, emphasizing its position within a dataset. These concepts are applied in various activities throughout the 'What Is Your True Color?' campaign and are foundational for understanding data distributions in later lessons and labs like Unit 2 Lab 2A and Unit 2 Lab 2B."
+  },
+  {
+    "title": "Unit 2: Key Concepts - Measures of Spread",
+    "body": "Understanding the spread or variability of data is crucial in Unit 2. Unit 2 Lesson 4, 'How Far Is It from Typical?', introduces the Mean Absolute Deviation (MAD) as a measure of spread. Unit 2 Lesson 5, 'Human Boxplots', delves into boxplots and the Interquartile Range (IQR) as measures of spread. Later, in the 'What's Normal?' theme, Unit 2 Lesson 17, 'Normal Measure of Spread', focuses on the standard deviation (SD) as a key measure of spread, especially in the context of the normal distribution. These concepts are reinforced through labs like Unit 2 Lab 2A and Unit 2 Lab 2B."
+  },
+  {
+    "title": "Unit 2: Key Concepts - Probability and Simulations",
+    "body": "Unit 2 extensively explores probability and the use of simulations. Unit 2 Lesson 8, 'How Likely is It?', introduces the basic concepts of probability. Unit 2 Lesson 9, 'Dice Detective', and Unit 2 Lesson 10, 'Marbles, Marbles', use specific scenarios to illustrate probability, with the latter focusing on 'with replacement'. Unit 2 Lab 2C, 'Which Song Plays Next?', introduces `set.seed()` for reproducible simulations and `do loops`. Unit 2 Lab 2D, 'Queue It Up!', covers probability both with and without replacement using `sample()`. Unit 2 Practicum 2, 'Win, Win, Win', emphasizes estimating probability through repeated simulations, a core technique in data science."
+  },
+  {
+    "title": "Unit 2: Key Concepts - Normal Distribution and Z-Scores",
+    "body": "The 'What's Normal?' theme in Unit 2 introduces the normal distribution and related concepts. Unit 2 Lesson 16 provides an introduction to the normal curve. Unit 2 Lesson 17 discusses the standard deviation (SD) in the context of normal distributions. Unit 2 Lesson 18, 'What's Your Z-Score?', explains z-scores, which measure how many standard deviations a data point is from the mean, and connects this to shuffling data. Unit 2 Lab 2H, 'Eyeballing Normal', visually explores normal curves, and Unit 2 Lab 2I, 'R’s Normal Distribution Alphabet', introduces R functions like `rnorm()`, `pnorm()`, and `qnorm()` for working with normal distributions, highlighting their practical application in data analysis."
+  },
+  {
+    "title": "Unit 2: Campaigns and Datasets",
+    "body": "Unit 2 utilizes several engaging campaigns and datasets to illustrate data science concepts. The 'Personality Color – data' campaign is central to the first theme ('What Is Your True Color?'), focusing on concepts like subsets, relative frequency, measures of center and spread, and boxplots. The 'Stress/Chill – data' campaign drives the third theme ('Are You Stressing or Chilling?'), exploring categorical and numerical variables, chance differences, inference, and data merging. Datasets related to 'Food Habits' or 'Time Use' are introduced in Unit 2 Practicum 1 for comparative analysis. The unit also incorporates merging datasets, specifically combining 'Stress/Chill & Personality Color' data in Unit 2 Lab 2G and the final project."
+  },
+  {
+    "title": "Unit 2: Key R Functions Introduced",
+    "body": "Throughout Unit 2, several R functions are introduced to facilitate data analysis and simulation. Unit 2 Lab 2C utilizes `do loops` for repeated operations and `set.seed()` to ensure the reproducibility of random simulations. Unit 2 Lab 2D employs the `sample()` function for generating random samples, crucial for understanding probability with and without replacement. In the 'What's Normal?' theme, Unit 2 Lab 2I introduces essential functions for working with normal distributions: `rnorm()` for generating random numbers from a normal distribution, `pnorm()` for calculating cumulative probabilities, and `qnorm()` for finding quantiles. The `shuffle()` function is also mentioned in Unit 2 Lesson 13 and Unit 2 Lesson 14 for simulating random arrangements of data."
+  },
+  {
+    "title": "Unit 2, Lesson 1: What Is Your True Color?",
+    "body": "Unit 2 Lesson 1, 'What Is Your True Color?', is the starting point for the first theme and utilizes the 'Personality Color – data' campaign. This lesson introduces fundamental data analysis concepts, specifically focusing on understanding data subsets and calculating relative frequencies. These concepts are essential for interpreting how different groups or categories within a dataset are represented and for laying the groundwork for subsequent statistical analyses covered in the unit, such as measures of center and spread."
+  },
+  {
+    "title": "Unit 2, Lesson 2: What Does Mean Mean?",
+    "body": "Unit 2 Lesson 2, 'What Does Mean Mean?', delves into one of the primary measures of central tendency: the mean. Within the 'Personality Color' campaign context, this lesson explains how to calculate and interpret the mean of a dataset. Understanding the mean is critical for summarizing numerical data and serves as a foundational concept for comparing groups and understanding distributions throughout Unit 2, including its application in Unit 2 Lab 2A and comparative analyses in later themes."
+  },
+  {
+    "title": "Unit 2, Lesson 3: Median In the Middle",
+    "body": "Unit 2 Lesson 3, 'Median In the Middle', introduces another vital measure of central tendency: the median. This lesson explains how to find the median, which represents the middle value of a dataset when ordered. Applicable to the 'Personality Color' data, understanding the median is crucial because it is less affected by outliers than the mean. This concept builds upon the introduction of the mean and is essential for a comprehensive understanding of data summarization, particularly in conjunction with measures of spread discussed later in Unit 2."
+  },
+  {
+    "title": "Unit 2, Lesson 4: How Far Is It from Typical?",
+    "body": "Unit 2 Lesson 4, 'How Far Is It from Typical?', focuses on quantifying the spread or variability of data using the Mean Absolute Deviation (MAD). This lesson, related to the 'Personality Color' campaign, teaches students how to calculate and interpret the MAD. Understanding spread is as important as understanding the center of a dataset. This concept prepares students for more advanced visualization and analysis techniques, including boxplots and IQR, covered in subsequent lessons and labs like Unit 2 Lab 2A."
+  },
+  {
+    "title": "Unit 2, Lesson 5: Human Boxplots",
+    "body": "Unit 2 Lesson 5, 'Human Boxplots', introduces students to visualizing data distributions using boxplots and calculating the Interquartile Range (IQR). Within the context of the 'Personality Color' campaign, this lesson provides a visual and numerical method for understanding the spread and quartiles of a dataset. Boxplots offer a concise summary of data distribution, complementing measures like mean, median, and MAD discussed earlier. This lesson is a precursor to comparative analysis activities in Unit 2 Lesson 6 and Unit 2 Lesson 7."
+  },
+  {
+    "title": "Unit 2, Lesson 6: Face Off",
+    "body": "Unit 2 Lesson 6, 'Face Off', focuses on the important skill of comparing distributions, likely using data from the 'Personality Color' campaign. This lesson builds upon the understanding of measures of center, spread, and visualizations like boxplots introduced in previous lessons. By comparing how different groups' data are distributed, students develop critical thinking skills for data interpretation and analysis, preparing them for further comparative tasks and the 'Plot Match' lesson (Unit 2 Lesson 7)."
+  },
+  {
+    "title": "Unit 2, Lesson 7: Plot Match",
+    "body": "Continuing the theme of data comparison, Unit 2 Lesson 7, 'Plot Match', further develops students' ability to compare distributions. This lesson likely involves matching statistical plots to their corresponding data descriptions or scenarios, reinforcing the understanding of how different visual representations convey information about data centers, spread, and shape. This skill is crucial for interpreting data effectively and is supported by the campaign context of 'Personality Color'."
+  },
+  {
+    "title": "Unit 2, Lesson 8: How Likely is It?",
+    "body": "Unit 2 Lesson 8, 'How Likely is It?', marks the beginning of the 'How Likely Is It?' theme and introduces the fundamental concepts of probability and simulations. This lesson lays the groundwork for understanding randomness and uncertainty in data. Students learn about the likelihood of events occurring, which is a cornerstone of statistical inference and decision-making. The concepts explored here are essential for subsequent lessons involving dice, marbles, and more complex probability scenarios."
+  },
+  {
+    "title": "Unit 2, Lesson 9: Dice Detective",
+    "body": "Unit 2 Lesson 9, 'Dice Detective', applies the concepts of probability and simulation to a practical scenario involving dice. This lesson uses simulations to help students detect potential unfairness in a die, reinforcing the idea that observed outcomes should align with theoretical probabilities over many trials. It's a hands-on introduction to using simulations as a tool for statistical investigation and hypothesis testing, building upon the foundational concepts from Unit 2 Lesson 8."
+  },
+  {
+    "title": "Unit 2, Lesson 10: Marbles, Marbles",
+    "body": "Unit 2 Lesson 10, 'Marbles, Marbles', continues the exploration of probability, specifically focusing on scenarios involving drawing marbles, likely from a bag. A key aspect of this lesson is understanding probability calculations 'with replacement', meaning the conditions reset after each draw. This concept is critical for distinguishing different types of probability problems and is a direct progression from the general probability introduced in Unit 2 Lesson 8 and the dice simulation in Unit 2 Lesson 9."
+  },
+  {
+    "title": "Unit 2, Lesson 11: This AND/OR That",
+    "body": "Unit 2 Lesson 11, 'This AND/OR That', delves into compound probabilities, which involve calculating the probability of multiple events occurring together (AND) or exclusively (OR). This lesson builds upon the basic probability concepts and single-event calculations introduced earlier in the 'How Likely Is It?' theme. Understanding compound probabilities is crucial for analyzing more complex scenarios and making predictions in situations with multiple influencing factors."
+  },
+  {
+    "title": "Unit 2, Lesson 12: Don’t Take My Stress Away",
+    "body": "Unit 2 Lesson 12, 'Don’t Take My Stress Away', initiates the 'Are You Stressing or Chilling?' theme, using the 'Stress/Chill – data' campaign. This introductory lesson likely sets the context for the campaign, potentially involving data collection or initial exploration of stress and relaxation levels. It serves as the entry point into analyzing categorical variables and understanding differences between groups, which will be further explored in subsequent lessons and labs within this theme."
+  },
+  {
+    "title": "Unit 2, Lesson 13: The Horror Movie Shuffle",
+    "body": "Unit 2 Lesson 13, 'The Horror Movie Shuffle', focuses on analyzing chance differences between categorical variables within the 'Stress/Chill – data' campaign. This lesson likely introduces the concept of shuffling data to simulate random assignment and assess the significance of observed differences. It prepares students for inferential statistics by demonstrating how to determine if an observed association is likely due to chance or a real effect, leading into Unit 2 Lab 2E."
+  },
+  {
+    "title": "Unit 2, Lesson 14: The Titanic Shuffle",
+    "body": "Unit 2 Lesson 14, 'The Titanic Shuffle', extends the shuffling concept to numerical variables, analyzing chance differences within the 'Stress/Chill – data' campaign. Similar to Unit 2 Lesson 13, this lesson uses shuffling techniques but applies them to numerical data, likely exploring relationships between a numerical variable and a grouping variable. This bridges the gap towards statistical inference for numerical comparisons, setting the stage for Unit 2 Lab 2F."
+  },
+  {
+    "title": "Unit 2, Lesson 15: Tangible Data Merging",
+    "body": "Unit 2 Lesson 15, 'Tangible Data Merging', introduces the important data manipulation technique of merging datasets. Within the 'Stress/Chill – data' campaign, students learn how to combine information from different sources, which is a common task in real-world data analysis. This lesson is a precursor to Unit 2 Lab 2G, where students will apply these merging techniques, potentially combining data from different campaigns like 'Stress/Chill' and 'Personality Color'."
+  },
+  {
+    "title": "Unit 2, Lesson 16: What Is Normal?",
+    "body": "Unit 2 Lesson 16, 'What Is Normal?', begins the 'What’s Normal?' theme by introducing the concept of the normal distribution, often referred to as the bell curve. This lesson explains the characteristics of a normal distribution and its prevalence in natural phenomena and data. Understanding the normal curve is fundamental for many statistical methods, including hypothesis testing and confidence intervals, and serves as a basis for subsequent lessons on spread and z-scores."
+  },
+  {
+    "title": "Unit 2, Lesson 17: Normal Measure of Spread",
+    "body": "Unit 2 Lesson 17, 'Normal Measure of Spread', focuses on the standard deviation (SD) as the primary measure of spread for data that follows a normal distribution. This lesson explains how the SD quantifies the typical distance of data points from the mean in a normal distribution. Building on the introduction to the normal curve in Unit 2 Lesson 16, this lesson emphasizes the relationship between the mean and standard deviation in describing a normal distribution, preparing students for z-score calculations."
+  },
+  {
+    "title": "Unit 2, Lesson 18: What’s Your Z-Score?",
+    "body": "Unit 2 Lesson 18, 'What’s Your Z-Score?', introduces the concept of z-scores. A z-score measures how many standard deviations a particular data point is away from the mean of its distribution. This lesson explains how to calculate z-scores and their utility in standardizing data, comparing values from different distributions, and identifying unusual observations. The connection to shuffling is also explored, reinforcing the use of simulation in understanding data variability."
+  },
+  {
+    "title": "Unit 2, Lab 2A: All About Distributions",
+    "body": "Unit 2 Lab 2A, 'All About Distributions', is a hands-on activity within the 'Personality Color' campaign that consolidates understanding of measures of center and spread. Students likely apply the concepts of mean, median, and MAD (Mean Absolute Deviation) to analyze data distributions. This lab serves as a practical application of the concepts learned in Unit 2 Lessons 2, 3, and 4, reinforcing the ability to summarize and describe the central tendency and variability of datasets."
+  },
+  {
+    "title": "Unit 2, Lab 2B: Oh, the Summaries…",
+    "body": "Unit 2 Lab 2B, 'Oh, the Summaries…', continues the 'Personality Color' campaign by focusing on comprehensive data summarization. This lab involves working with boxplots, the Interquartile Range (IQR), and other numerical summaries. It may also introduce the creation of custom functions for analysis. This lab consolidates the understanding of descriptive statistics introduced throughout the first theme, preparing students for more complex analyses and the end-of-unit practicum."
+  },
+  {
+    "title": "Unit 2, Lab 2C: Which Song Plays Next?",
+    "body": "Unit 2 Lab 2C, 'Which Song Plays Next?', is part of the 'How Likely Is It?' theme and focuses on the probability of simple events using simulations. This lab likely involves using R, introducing `do loops` for repetitive tasks and `set.seed()` for generating reproducible random numbers. Students use these tools to model and understand probabilistic scenarios, such as predicting the next song in a playlist, reinforcing concepts of randomness and probability."
+  },
+  {
+    "title": "Unit 2, Lab 2D: Queue It Up!",
+    "body": "Unit 2 Lab 2D, 'Queue It Up!', continues the 'How Likely Is It?' theme by exploring probability calculations with and without replacement. Using the `sample()` function in R, students simulate scenarios like drawing items from a queue. This lab reinforces the distinction between sampling with replacement (where conditions are reset) and without replacement (where conditions change), a critical concept in probability theory and statistical modeling."
+  },
+  {
+    "title": "Unit 2, Lab 2E: The Horror Movie Shuffle",
+    "body": "Unit 2 Lab 2E, 'The Horror Movie Shuffle', is a practical application within the 'Are You Stressing or Chilling?' theme, using the 'Stress/Chill – data' campaign. This lab focuses on inference for categorical variables by employing the `shuffle()` function and `do loops` in R. Students simulate random distributions of categorical data to assess the likelihood of observed associations, learning to distinguish between chance variation and potentially significant relationships."
+  },
+  {
+    "title": "Unit 2, Lab 2F: The Titanic Shuffle",
+    "body": "Unit 2 Lab 2F, 'The Titanic Shuffle', mirrors Unit 2 Lab 2E but focuses on numerical variables within the 'Stress/Chill – data' campaign. Using simulation techniques like `shuffle()` and `do loops`, students perform inference for numerical variables. This lab teaches how to assess the significance of differences between groups based on numerical measurements by comparing observed results to outcomes generated under the assumption of no real difference (null hypothesis)."
+  },
+  {
+    "title": "Unit 2, Lab 2G: Getting It Together",
+    "body": "Unit 2 Lab 2G, 'Getting It Together', is a key data manipulation lab within the 'Are You Stressing or Chilling?' theme. It focuses on merging datasets, specifically combining 'Stress/Chill' data with 'Personality Color' data. The lab differentiates between stacking (appending rows) and joining (combining columns based on common keys), providing students with practical skills for integrating information from multiple sources, essential for comprehensive data analysis."
+  },
+  {
+    "title": "Unit 2, Lab 2H: Eyeballing Normal",
+    "body": "Unit 2 Lab 2H, 'Eyeballing Normal', is part of the 'What’s Normal?' theme and provides a visual approach to understanding the normal distribution. Students likely overlay theoretical normal curves onto histograms of actual data distributions and simulated datasets. This lab helps develop an intuitive understanding of what constitutes a normal distribution and how well real-world data might approximate this theoretical model."
+  },
+  {
+    "title": "Unit 2, Lab 2I: R’s Normal Distribution Alphabet",
+    "body": "Unit 2 Lab 2I, 'R’s Normal Distribution Alphabet', concludes the 'What’s Normal?' theme by introducing practical R functions for working with normal distributions. Students learn to use `rnorm()` to generate random numbers, `pnorm()` to calculate probabilities associated with specific ranges, and `qnorm()` to find values corresponding to given probabilities (quantiles). This lab equips students with computational tools for analyzing data that follows a normal distribution."
+  },
+  {
+    "title": "Unit 2, Practicum 1: The Summaries",
+    "body": "Unit 2 Practicum 1: 'The Summaries', serves as a capstone activity for the 'What Is Your True Color?' theme. Students apply their knowledge of data summarization, including measures of center (mean, median) and spread (MAD, IQR), to analyze datasets related to 'Food Habits or Time Use'. This practicum emphasizes the comparison of distributions between different groups, synthesizing the statistical concepts learned in the initial lessons and labs of Unit 2."
+  },
+  {
+    "title": "Unit 2, Practicum 2: Win, Win, Win",
+    "body": "Unit 2 Practicum 2: 'Win, Win, Win', concludes the 'How Likely Is It?' theme by focusing on probability estimation through repeated simulations. Students engage in activities that require them to design and run simulations to estimate the probability of certain outcomes. This practical application reinforces the power of simulation as a tool for understanding complex probabilistic situations and for making data-driven predictions."
+  },
+  {
+    "title": "Unit 2, Practicum 3: What Stresses Us?",
+    "body": "Unit 2 Practicum 3: 'What Stresses Us?', acts as the culmination of the 'Are You Stressing or Chilling?' theme. This practicum involves analyzing merged datasets, combining information from the 'Stress/Chill' and 'Personality Color' campaigns. Students apply the techniques learned throughout the theme, including data merging and inference, to investigate questions about what factors might be associated with stress or chilling, providing a real-world application of their analytical skills."
+  },
+  {
+    "title": "Unit 2, End of Unit Project: Comparing Groups Using Our Own Data",
+    "body": "The End of Unit 2 Project, 'Comparing Groups Using Our Own Data', spans the final 5 days of the unit. This comprehensive project requires students to synthesize all the concepts learned in Unit 2. They will collect or utilize provided data (from 'Stress/Chill', 'Personality Color', 'Food Habits', or 'Time Use' campaigns) and apply statistical methods to compare groups. This project emphasizes the practical application of data analysis, visualization, and interpretation skills developed throughout the unit."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Abstract: IDS ThinkData Ed Application Options",
+    "body": "This document outlines the available options for accessing and utilizing the IDS ThinkData Ed platform for data collection. It details three primary methods: a native Android application available on the Google Play Store, a native iOS application available on the Apple App Store, and a browser-based version accessible via a web portal for users without compatible mobile devices. Each option provides a means to perform data collection using the ThinkData Ed service."
+  },
+  {
+    "title": "Android Application: IDS ThinkData Ed",
+    "body": "For users with Android devices, a dedicated native application named \"IDS ThinkData Ed\" is available for download. This application can be found on the Google Play Store, providing a direct and optimized experience for data collection on Android smartphones and tablets. Accessing the app through the Google Play Store ensures users receive the official and latest version of the software."
+  },
+  {
+    "title": "iOS Application: IDS ThinkData Ed",
+    "body": "Apple device users can access the IDS ThinkData Ed platform through its native iOS application. This app, also titled \"IDS ThinkData Ed,\" is available for download from the iOS App Store. It is designed to offer a seamless data collection experience on iPhones and iPads, ensuring compatibility and optimal performance within the Apple ecosystem."
+  },
+  {
+    "title": "Browser-Based Version: ThinkDataEd Portal",
+    "body": "For individuals without a compatible mobile device, such as those using Windows phones, Blackberries, or if a mobile device is otherwise unavailable, a browser-based version of the data collection tool is provided. This version can be accessed through the web portal at https://portal.thinkdataed.org. This allows users to perform data collection directly through their web browser, offering flexibility and accessibility for all users."
+  },
+  {
+    "title": "Data Collection Access: Multiple Platforms",
+    "body": "The IDS ThinkData Ed platform supports data collection across multiple device types and operating systems. Users can opt for a native application on Android devices (available on Google Play Store) or iOS devices (available on the iOS App Store). Alternatively, for users without suitable mobile hardware or those preferring a web-based solution, a browser version is accessible via the ThinkDataEd portal at https://portal.thinkdataed.org, ensuring broad accessibility for data collection activities."
+  }
+]

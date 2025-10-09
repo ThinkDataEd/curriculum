@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Unit 4 Overview: Introduction to Data Science",
+    "body": "This document provides a daily overview of Unit 4 in the Introduction to Data Science curriculum. The unit spans 25 days, divided into several themes: Campaigns and Community (5 days), Predictions and Models (14 days), Piecing it Together (3 days), Decisions, Decisions! (3 days), and Ties that Bind (3 days). The unit culminates in a 7-day End of Unit Project focused on Modeling a Community Issue. Key topics covered include modeling real-world problems, exploratory data analysis, campaign creation, statistical predictions using one and two variables, linear regression, correlation, non-linear regression, multiple linear regression, decision trees, and clustering (k-means and networks). Several lessons and labs are detailed, with specific page numbers indicated for each. The data collection window for the Team Campaign begins on Day 5."
+  },
+  {
+    "title": "Unit 4: Campaigns and Community Theme",
+    "body": "Unit 4, Days 1-5, focuses on 'Campaigns and Community.' This theme introduces students to modeling real-world problems using official datasets, exploratory data analysis, and the creation of campaigns. Key lessons include Unit 4 Lesson 1: Trash (modeling and official datasets), Unit 4 Lesson 2: Drought (exploratory data analysis and campaign creation), Unit 4 Lesson 3: Community Connection (community topic research and campaign creation), Unit 4 Lesson 4: Evaluate and Implement the Campaign (evaluating and mock implementing campaigns), and Unit 4 Lesson 5: Refine and Create the Campaign (revising campaigns and data collection). The data collection window for the Team Campaign begins on Day 5."
+  },
+  {
+    "title": "Unit 4: Predictions and Models Theme",
+    "body": "Unit 4, Days 6-19, covers the 'Predictions and Models' theme, a substantial portion of the unit. This theme delves into various statistical prediction techniques. It starts with Unit 4 Lesson 6: Statistical Predictions Using One Variable and Unit 4 Lesson 7: Statistical Predictions by Applying the Rule, focusing on predictions using a rule and evaluating them with mean square error and mean absolute error. The unit progresses to two-variable predictions in Unit 4 Lesson 8: Statistical Predictions Using Two Variables, introducing scatterplots. Unit 4 Lab 4A: If the Line Fits… and Unit 4 Lesson 9: The Spaghetti Line introduce estimating the line of best fit and single linear regression. Further exploration includes Unit 4 Lesson 10: What’s the Best Line? and Unit 4 Lab 4B: What’s the Score? for predictions based on linear models and comparing them to real data. Unit 4 Lab 4C: Cross-Validation focuses on using training and test data. The theme continues with Unit 4 Lesson 11: What’s the Trend? (trend, associations, linear model), Unit 4 Lesson 12: How Strong Is It? (correlation coefficient), and Unit 4 Lab 4D: Interpreting Correlations (using correlation coefficient to determine the best model). Advanced topics include non-linear regression in Unit 4 Lesson 13: Improving Your Model and Unit 4 Lab 4E: Some Models Have Curves. The theme concludes with Unit 4 Practicum: Predictions, applying linear regression."
+  },
+  {
+    "title": "Unit 4: Piecing it Together Theme",
+    "body": "In Unit 4, Days 20-22, the 'Piecing it Together' theme focuses on advanced modeling techniques using multiple variables. Unit 4 Lesson 14: More Variables to Make Better Predictions and Unit 4 Lesson 15: Combination of Variables introduce multiple linear regression, where predictions are improved by incorporating more independent variables. This concept is further reinforced through Unit 4 Lab 4F: This Model Is Big Enough for All of Us, which also utilizes multiple linear regression. These lessons build upon the single and double variable prediction models explored in previous days."
+  },
+  {
+    "title": "Unit 4: Decisions, Decisions! Theme",
+    "body": "Unit 4, Days 23-25, introduces the 'Decisions, Decisions!' theme, focusing on classification and decision-making using data. Unit 4 Lesson 16: Footbal or Futbol? uses multiple predictors to classify observations into groups, introducing decision trees. Unit 4 Lesson 17: Grow Your Own Decision Tree expands on this by having students build decision trees using training and test data. The practical application of this concept is covered in Unit 4 Lab 4G: Growing Trees, where students use decision trees to classify observations. This theme prepares students for making informed decisions based on predictive models."
+  },
+  {
+    "title": "Unit 4: Ties that Bind Theme",
+    "body": "The 'Ties that Bind' theme in Unit 4, spanning Days 26-28, explores unsupervised learning techniques for finding patterns and relationships in data. Unit 4 Lesson 18: Where Do I Belong? introduces clustering, specifically the k-means algorithm, to group similar observations. Unit 4 Lab 4H: Finding Clusters provides hands-on practice with the k-means clustering algorithm. Finally, Unit 4 Lesson 19: Our Class Network delves into network analysis, applying clustering concepts to understand relationships within a network structure. These topics help students discover hidden structures within datasets."
+  },
+  {
+    "title": "Unit 4: End of Unit Project",
+    "body": "The final section of Unit 4, spanning Days 29-36 (7 days), is dedicated to the 'End of Unit 4 Project: Modeling a Community Issue.' This comprehensive project requires students to synthesize the knowledge and skills acquired throughout the unit. Working within their 'Team Campaign' groups, students will apply various modeling techniques, including those learned in the 'Campaigns and Community,' 'Predictions and Models,' 'Piecing it Together,' 'Decisions, Decisions!,' and 'Ties that Bind' themes. The project aims to model a real-world community issue, culminating in a comprehensive data-driven solution. The project details and instructions can be found on page 387."
+  },
+  {
+    "title": "Unit 4 Lesson 1: Trash",
+    "body": "Unit 4 Lesson 1, found on page 304, is the first lesson in the 'Campaigns and Community' theme. It focuses on 'Modeling to answer real-world problems' using 'official datasets.' This lesson introduces students to the fundamental concept of applying data science techniques to solve practical, real-world issues and emphasizes the importance of using reliable and standardized data sources for analysis and modeling."
+  },
+  {
+    "title": "Unit 4 Lesson 2: Drought",
+    "body": "Unit 4 Lesson 2, located on page 307, continues the 'Campaigns and Community' theme. This lesson shifts focus to 'Exploratory data analysis' and 'campaign creation.' Students will learn how to explore datasets to uncover insights and patterns, which will then be used as a foundation for developing and structuring a campaign. This lesson bridges the gap between data analysis and the practical application of communicating findings or advocating for a cause."
+  },
+  {
+    "title": "Unit 4 Lesson 3: Community Connection",
+    "body": "Unit 4 Lesson 3, on page 309, is part of the 'Campaigns and Community' theme and centers on 'Community topic research' and 'campaign creation.' Students will engage in researching topics relevant to a community, likely identifying a specific issue or area of interest. Following this research, they will begin the process of creating a campaign, applying the principles of data analysis and communication learned in previous lessons."
+  },
+  {
+    "title": "Unit 4 Lesson 4: Evaluate and Implement the Campaign",
+    "body": "Found on page 312, Unit 4 Lesson 4 is dedicated to the 'Evaluate and Implement the Campaign' aspect of the 'Campaigns and Community' theme. This lesson involves the critical steps of evaluating the effectiveness of a campaign and practicing its implementation. Students will likely work through scenarios or simulations to understand how a campaign performs and how to execute it in a practical setting."
+  },
+  {
+    "title": "Unit 4 Lesson 5: Refine and Create the Campaign",
+    "body": "Unit 4 Lesson 5, on page 314, concludes the initial 'Campaigns and Community' theme. Titled 'Refine and Create the Campaign,' this lesson involves revising and editing existing campaign materials and focuses on 'data collection.' This is also when the 'Team Campaign - data' work begins, and the 'Data collection window begins.' Students will refine their campaign strategies based on feedback and data, ensuring it is well-prepared and grounded in collected information."
+  },
+  {
+    "title": "Unit 4 Lesson 6: Statistical Predictions Using One Variable",
+    "body": "Unit 4 Lesson 6, found on page 317, marks the beginning of the 'Predictions and Models' theme. This lesson introduces 'One-variable predictions using a rule.' Students will learn foundational techniques for making predictions based on a single variable and a defined rule, setting the stage for more complex modeling in subsequent lessons. This lesson is part of the 'Team Campaign - data' activities."
+  },
+  {
+    "title": "Unit 4 Lesson 7: Statistical Predictions by Applying the Rule",
+    "body": "On page 319, Unit 4 Lesson 7, 'Statistical Predictions by Applying the Rule,' continues the 'Predictions and Models' theme. This lesson focuses on the practical application of prediction rules and introduces metrics for evaluating prediction accuracy, specifically 'mean square error' and 'mean absolute error.' Students will learn to assess how well their predictions align with actual data. This is part of the 'Team Campaign - data' work."
+  },
+  {
+    "title": "Unit 4 Lesson 8: Statistical Predictions Using Two Variables",
+    "body": "Unit 4 Lesson 8, located on page 323, delves into 'Two-variable statistical predictions' within the 'Predictions and Models' theme. This lesson introduces the concept of using two variables to make predictions and utilizes 'scatterplots' as a key visualization tool. Understanding the relationship between two variables is crucial for building more sophisticated predictive models. This lesson is associated with 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 Lesson 9: The Spaghetti Line",
+    "body": "Unit 4 Lesson 9, 'The Spaghetti Line' (page 326), is part of the 'Predictions and Models' theme. This lesson focuses on estimating the 'line of best fit' and introduces 'single linear regression.' Students will learn to visually and statistically represent the relationship between two variables using a line, a fundamental concept in regression analysis. This lesson is part of the 'Team Campaign - data' effort."
+  },
+  {
+    "title": "Unit 4 LAB 4A: If the Line Fits…",
+    "body": "Unit 4 LAB 4A, titled 'If the Line Fits…' (page 328), directly supports the 'Predictions and Models' theme. The primary objective of this lab is for students to 'Estimate the line of best fit.' This hands-on activity reinforces the concepts introduced in Unit 4 Lesson 9, allowing students to practice finding and interpreting the line that best represents the relationship between two variables in a dataset, as part of the 'Team Campaign - data' work."
+  },
+  {
+    "title": "Unit 4 Lesson 10: What’s the Best Line?",
+    "body": "On page 330, Unit 4 Lesson 10, 'What’s the Best Line?', continues the exploration of linear models within the 'Predictions and Models' theme. This lesson focuses on making 'Predictions based on linear models.' Students will learn how to use the established line of best fit to predict outcomes for new data points, further developing their understanding of regression analysis. This lesson is part of the 'Team Campaign - data' activities."
+  },
+  {
+    "title": "Unit 4 LAB 4B: What’s the Score?",
+    "body": "Unit 4 LAB 4B, 'What’s the Score?' (page 333), is a practical application within the 'Predictions and Models' theme. This lab focuses on 'Comparing predictions to real data.' Students will use the predictive models they have developed to forecast outcomes and then compare these predictions against actual observed data, learning to evaluate the accuracy and reliability of their models. This is tied to the 'Team Campaign - data' context."
+  },
+  {
+    "title": "Unit 4 LAB 4C: Cross-Validation",
+    "body": "Unit 4 LAB 4C, 'Cross-Validation' (page 335), addresses a crucial aspect of model evaluation within the 'Predictions and Models' theme. This lab teaches students to 'Use training and test data for predictions.' By splitting the data into training and testing sets, students learn a robust method for assessing how well a model generalizes to unseen data, preventing overfitting and improving model reliability. This lab is part of the 'Team Campaign - data' work."
+  },
+  {
+    "title": "Unit 4 Lesson 11: What’s the Trend?",
+    "body": "Page 338 contains Unit 4 Lesson 11, 'What’s the Trend?'. This lesson within the 'Predictions and Models' theme focuses on identifying 'Trend, associations, and linear models.' Students will learn to recognize trends in data, understand the nature of associations between variables, and how to represent these relationships using linear models. This is a key step in interpreting data patterns. This lesson is part of 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 Lesson 12: How Strong Is It?",
+    "body": "Unit 4 Lesson 12, 'How Strong Is It?' (page 342), delves into quantifying the strength of relationships within the 'Predictions and Models' theme. The lesson focuses on the 'Correlation coefficient' and its role in determining the 'strength of trend.' Students will learn how to calculate and interpret correlation coefficients to understand how closely variables are related, which is vital for model selection. This lesson is associated with 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 LAB 4D: Interpreting Correlations",
+    "body": "Unit 4 LAB 4D, 'Interpreting Correlations' (page 345), provides practical experience in applying the concepts of correlation within the 'Predictions and Models' theme. The lab's objective is to 'Use correlation coefficient to determine best model.' Students will practice selecting appropriate models based on the calculated strength of correlation between variables, enhancing their ability to build effective predictive tools. This lab is part of 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Improving Your Model",
+    "body": "On page 348, Unit 4 Lesson 13, 'Improving Your Model,' addresses more advanced modeling techniques in the 'Predictions and Models' theme. This lesson introduces 'Non-linear regression.' Students will learn that not all relationships can be captured by a straight line and will explore methods for modeling curved or non-linear patterns in data. This lesson is part of the 'Team Campaign - data' activities."
+  },
+  {
+    "title": "Unit 4 LAB 4E: Some Models Have Curves",
+    "body": "Unit 4 LAB 4E, 'Some Models Have Curves' (page 350), offers a hands-on exploration of 'Non-linear regression' within the 'Predictions and Models' theme. Complementing Unit 4 Lesson 13, this lab allows students to apply non-linear modeling techniques to datasets where linear models are insufficient. This practical experience helps solidify their understanding of modeling more complex data relationships. This is part of 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 Practicum: Predictions",
+    "body": "Unit 4 Practicum: Predictions (page 352) serves as a capstone activity for the initial 'Predictions and Models' theme. This practicum focuses on 'Linear regression,' consolidating the skills learned throughout the preceding lessons and labs. Students will apply their knowledge of linear regression to a practical problem, likely as part of their ongoing 'Team Campaign - data' work, demonstrating their proficiency in building and interpreting linear predictive models."
+  },
+  {
+    "title": "Unit 4 Lesson 14: More Variables to Make Better Predictions",
+    "body": "Unit 4 Lesson 14, found on page 354, begins the 'Piecing it Together' theme. This lesson introduces 'Multiple linear regression,' a powerful technique for improving predictions by incorporating 'More Variables.' Students will learn how to build models that utilize multiple independent variables to predict a single dependent variable, significantly enhancing predictive accuracy. This lesson is part of the 'Team Campaign - data' activities."
+  },
+  {
+    "title": "Unit 4 Lesson 15: Combination of Variables",
+    "body": "On page 357, Unit 4 Lesson 15, 'Combination of Variables,' continues the 'Piecing it Together' theme, further exploring 'Multiple linear regression.' This lesson focuses on how different combinations of variables can be used to create effective predictive models. Students will learn strategies for selecting the most impactful variables and understanding their combined influence on the outcome. This lesson is associated with 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 LAB 4F: This Model Is Big Enough for All of Us",
+    "body": "Unit 4 LAB 4F, 'This Model Is Big Enough for All of Us' (page 360), is a practical exercise within the 'Piecing it Together' theme that reinforces the concepts of 'Multiple linear regression.' This lab likely involves building and evaluating complex models that incorporate numerous variables. Students will gain hands-on experience in managing and interpreting multi-variable models, contributing to their 'Team Campaign - data' project."
+  },
+  {
+    "title": "Unit 4 Lesson 16: Footbal or Futbol?",
+    "body": "Unit 4 Lesson 16, titled 'Footbal or Futbol?' (page 362), marks the start of the 'Decisions, Decisions!' theme. This lesson introduces 'Multiple predictors' for 'classifying into groups' and specifically introduces 'decision trees.' Students will learn how to use various data points to categorize observations and understand the foundational logic of decision tree algorithms. This lesson is part of the 'Team Campaign - data' work."
+  },
+  {
+    "title": "Unit 4 Lesson 17: Grow Your Own Decision Tree",
+    "body": "On page 368, Unit 4 Lesson 17, 'Grow Your Own Decision Tree,' delves deeper into classification methods within the 'Decisions, Decisions!' theme. This lesson focuses on building 'Decision trees based on training and test data.' Students will learn the process of constructing these trees, understanding how to use data splits to create accurate classification models, and evaluating their performance on unseen data. This is associated with 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 LAB 4G: Growing Trees",
+    "body": "Unit 4 LAB 4G, 'Growing Trees' (page 372), provides a practical application of decision tree concepts within the 'Decisions, Decisions!' theme. The lab's objective is to use 'Decision trees to classify observations.' Students will actively build and utilize decision tree models to categorize data points, solidifying their understanding of how these algorithms work and how they can be applied to solve classification problems. This lab is part of 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 Lesson 18: Where Do I Belong?",
+    "body": "Unit 4 Lesson 18, 'Where Do I Belong?' (page 376), initiates the 'Ties that Bind' theme, focusing on 'Clustering' and specifically the 'k-means' algorithm. This lesson introduces unsupervised learning, where the goal is to find natural groupings within data without pre-defined labels. Students will learn how k-means works to partition data points into distinct clusters. This lesson is part of 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 LAB 4H: Finding Clusters",
+    "body": "On page 382, Unit 4 LAB 4H, 'Finding Clusters,' offers a hands-on experience with 'Clustering' and the 'k-means' algorithm, directly supporting the 'Ties that Bind' theme. This lab allows students to implement and experiment with k-means clustering on real datasets. By actively finding clusters, students gain practical insight into identifying patterns and structures in unlabeled data. This lab is associated with 'Team Campaign - data'."
+  },
+  {
+    "title": "Unit 4 Lesson 19: Our Class Network",
+    "body": "Unit 4 Lesson 19, 'Our Class Network' (page 384), concludes the 'Ties that Bind' theme within Unit 4. This lesson explores 'Clustering' in the context of 'networks.' Students will learn how to analyze network structures and apply clustering techniques to understand relationships and identify communities within networks. This lesson extends the concept of clustering to relational data, contributing to the 'Team Campaign - data' project."
+  },
+  {
+    "title": "Unit 4 End of Unit Project: Modeling a Community Issue",
+    "body": "The End of Unit 4 Project, detailed on page 387, is a comprehensive assessment spanning Days 29-36. Titled 'Modeling a Community Issue,' this project requires students to apply all the data science concepts learned throughout Unit 4. Working in their 'Team Campaign' groups, they will synthesize knowledge from previous themes, including data analysis, prediction, modeling, classification, and clustering, to address a real-world community problem. This project serves as a culmination of the unit's learning objectives."
+  }
+]

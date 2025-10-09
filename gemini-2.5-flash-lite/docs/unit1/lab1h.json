@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract for Unit 1 Lab 1H",
+    "body": "This document details Lab 1H, titled 'Our Time,' which focuses on applying previously learned data analysis techniques to understand how students spend their time. The lab involves exporting, uploading, and importing 'Time Use' campaign data, which is initially messy. A function, timeuse_format, is used to clean and format the data so each row represents a typical day for a student, by averaging daily activity times. The lab guides students through exploring their formatted data (timeuse), identifying the number of observations and variables, variable names, and their personal data row. It then prompts students to formulate and answer statistical investigative questions related to the class's time usage, compare their personal data to the class average, and justify their findings with graphics and tables. Students are also asked to explain the benefits of subsetting their data for analysis. The lab emphasizes combining plotting, data subsetting, data cleaning, and frequency table creation skills."
+  },
+  {
+    "title": "Unit 1 Lab 1H: Introduction and Objectives",
+    "body": "Lab 1H, 'Our Time,' serves as a capstone lab for Unit 1, integrating various data analysis concepts learned in previous lessons. The primary goal is to apply these skills to a real-world dataset about how students spend their time. The labs covered so far have included making plots for different variable types, subsetting data for focused analysis, cleaning data, and creating two-way frequency tables. This lab requires students to combine all these techniques to investigate the research question: 'How did our class spend our time?' Students are instructed to follow along with slides, completing some questions directly on their computer (in blue) and others in their journal (in red)."
+  },
+  {
+    "title": "Data Import and Formatting in Unit 1 Lab 1H",
+    "body": "The initial step in Lab 1H involves interacting with the 'Time Use' campaign data. Students must export, upload, and import this data. The raw data is described as 'very messy and hard to interpret/analyze.' To address this, a specific function, `timeuse_format()`, is introduced. Students need to fill in the blank with the name of their imported data to format it correctly. The command looks like this: `timeuse <- timeuse_format( ______ )`. This function is crucial as it cleans the data and restructures it so that each row represents a 'typical day' for each student in the class. A hint is provided: students should search their 'History' tab for code to save their formatted `timeuse` data as an R data file (`.Rda`)."
+  },
+  {
+    "title": "Specifics of the timeuse_format Function",
+    "body": "The `timeuse_format` function used in Lab 1H performs specific data manipulation to prepare the 'Time Use' dataset for analysis. For each student's daily activity logs, it calculates the total time spent on each distinct activity per day. Subsequently, it computes the average time spent on each activity across all recorded days for that student. This averaging process creates a representation of a 'typical day' for each individual student, summarizing their time allocation patterns. This formatted data is stored in a variable typically named `timeuse`."
+  },
+  {
+    "title": "Exploring the Formatted Time Use Data",
+    "body": "After formatting the 'Time Use' data using the `timeuse_format` function, students are prompted to explore the resulting `timeuse` dataset. This involves understanding its basic structure. Specifically, students need to answer the following questions in their journal (marked in red): 1. How many observations (rows) and variables (columns) are present in the `timeuse` data? 2. What are the names of all the variables in the dataset? 3. Identify which specific row corresponds to 'YOUR' typical day based on the data. This initial exploration helps familiarize students with the dataset they will be analyzing further."
+  },
+  {
+    "title": "Statistical Investigation Questions - Unit 1 Lab 1H",
+    "body": "The core of Lab 1H involves conducting a statistical investigation centered around the research question: 'How did our class spend our time?' To facilitate this, students are asked to formulate and address two specific statistical investigative questions that are derived from this broader research question. For each question they formulate, they must also provide an answer based on their analysis of the `timeuse` data. This step encourages critical thinking about how to break down a general inquiry into answerable statistical questions and interpret the data to find those answers."
+  },
+  {
+    "title": "Personal Data Comparison and Justification",
+    "body": "In Unit 1 Lab 1H, after formulating and answering their investigative questions, students are required to compare their personal time usage data with that of the rest of the class. They need to identify and state one way in which their own 'typical day' (represented by their row in the `timeuse` data) is typical compared to the class average, and one way in which it differs. To support these claims, students must justify their answers using appropriate statistical graphics (like plots) and summary tables. This demonstrates their ability to interpret visualizations and data summaries in the context of their own experiences and the collective class data."
+  },
+  {
+    "title": "Data Subsetting Benefits in Unit 1 Lab 1H",
+    "body": "A key skill reinforced in Lab 1H is data subsetting. Students are asked to consider if and how they might have subsetted their `timeuse` data during their analysis. If they did subset the data, they must explain the reasoning behind their choice (e.g., focusing on specific activities, a subset of students, or certain time periods) and articulate how this subsetting process benefited their analysis. This might involve making patterns clearer, simplifying the data for specific questions, or improving the efficiency of their computations. The explanation should detail the 'why' and 'how' of their subsetting strategy."
+  },
+  {
+    "title": "Vocabulary: timeuse_format Function",
+    "body": "The `timeuse_format` function is a custom function used in Unit 1 Lab 1H. Its primary purpose is to process raw 'Time Use' data collected from students. It aggregates the time spent on various activities for each student on a daily basis and then calculates an average across all recorded days to represent a 'typical day' for that student. This function is essential for cleaning and transforming the messy raw data into a structured format suitable for further statistical analysis and visualization, where each row represents an individual student's averaged daily time allocation."
+  },
+  {
+    "title": "Key Concept: Typical Day Calculation",
+    "body": "The concept of a 'typical day' is central to Unit 1 Lab 1H. It is derived from raw time use data by first summing up the time spent on each specific activity for a given student on each recorded day. Then, for each student, the average time spent on each activity across all their recorded days is calculated. This average represents their 'typical day,' providing a summary of how they generally allocate their time across different activities. This process is facilitated by the `timeuse_format` function."
+  },
+  {
+    "title": "Code Snippet: Formatting Time Use Data",
+    "body": "In Unit 1 Lab 1H, the initial data preparation step involves using the `timeuse_format()` function to clean and structure the 'Time Use' data. The specific command provided to the students is: `timeuse <- timeuse_format( ______ )`. Students need to replace the blank (`______`) with the actual name of the data file they imported from the 'Time Use' campaign. This line of code assigns the cleaned and formatted data to a new object named `timeuse`, which will be used for subsequent analysis throughout the lab. A hint suggests saving this formatted data as an `.Rda` file for future use."
+  },
+  {
+    "title": "Statistical Investigation Process",
+    "body": "Unit 1 Lab 1H emphasizes the statistical investigation process. This involves moving from a broad research question ('How did our class spend our time?') to specific, answerable statistical questions. Students are required to formulate these questions themselves and then use their data (`timeuse`) and analysis tools (like plots and tables) to find the answers. The process includes collecting and preparing data, formulating questions, analyzing data, interpreting results, and drawing conclusions. This lab integrates skills like data cleaning, subsetting, visualization, and summarization to answer these questions."
+  }
+]

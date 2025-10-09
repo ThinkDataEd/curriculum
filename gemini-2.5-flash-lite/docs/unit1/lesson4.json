@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Abstract of Unit 1 Lesson 4: The Data Cycle",
+    "body": "This lesson introduces students to the Data Cycle, a framework for statistical investigations. It outlines the four main stages: posing statistical questions, considering data, analyzing data, and interpreting data. The lesson emphasizes that statistical questions are key to driving investigations and must address variability. It provides examples and activities to help students understand each stage, including a \"Four Corners\" strategy using various data artifacts like CDC data, a news headline, and the \"Dude Map.\" Students are guided to apply these concepts to real-world data and create their own data cycle investigations using the \"Bros & Dudes Graphics\" handout. The objective is for students to learn about and apply the stages of the Data Cycle."
+  },
+  {
+    "title": "Unit 1 Lesson 4: The Data Cycle - Objective and Materials",
+    "body": "The objective of Unit 1 Lesson 4 is for students to learn about the stages of the Data Cycle. To achieve this, the following materials are required: The \"Data Cycle\" file (LMR_U1_L4_A), a computer, projector, or board with markers, printed descriptions of each Data Cycle stage, the \"Data Cycle Spinners\" handout (LMR_U1_L4_B), access to RStudio via portal.thinkdataed.org, an article headline \"People Who Order Coffee Black Are More Likely To Be Psychopaths,\" the \"Dude Map\" visualization (accessible via a Quartz link or PDF in the LMR), the \"Bros & Dudes Graphics\" handout (LMR_U1_L4_C), sticky notes, and poster paper."
+  },
+  {
+    "title": "Vocabulary for Unit 1 Lesson 4: The Data Cycle",
+    "body": "Key vocabulary for Unit 1 Lesson 4 includes: \n\n*   **Data Cycle:** A guide used when learning to think about data, encompassing the stages of posing statistical questions, considering data, analyzing data, and interpreting data.\n*   **Statistical Questions:** Questions that address variability and can be answered with data. They are crucial for motivating data collection, analysis, and interpretation.\n*   **Data Collection:** The process of observing and recording data, or examining previously collected data to ensure it meets the investigation's needs.\n*   **Data Analysis:** The creation of tables, graphs, and summaries from data to identify patterns and relationships. This is typically done using computers.\n*   **Data Interpretation:** Answering statistical questions by referring to the tables, graphs, and summaries produced during the Data Analysis phase."
+  },
+  {
+    "title": "Essential Concepts of the Data Cycle in Unit 1 Lesson 4",
+    "body": "A statistical investigation fundamentally involves cycling through four stages: posing statistical questions, considering data, analyzing data, and interpreting data. The concept of statistical questions is paramount, as they are designed to address variability and are essential for a productive investigation. These questions drive the entire process, motivating data collection, analysis, and interpretation. Data collection can involve gathering new data through methods like participatory sensing or assessing the quality of existing data. Data analysis, typically computer-based, focuses on creating visualizations and numerical summaries. Data interpretation involves using these analyses to answer the initial statistical questions."
+  },
+  {
+    "title": "Setting Up IDS Class and User Import",
+    "body": "Before proceeding with Unit 1 Lesson 4, it is crucial to set up the IDS class and import users. This is a prerequisite for future lessons, specifically Lesson 7 where students will need their usernames and passwords. If the first and last names of students are merged in a single column separated by commas, a separate video tutorial is provided to guide on how to split them into two distinct columns. This ensures proper student data management within the IDS system."
+  },
+  {
+    "title": "Introduction to the Data Cycle in Unit 1 Lesson 4",
+    "body": "Unit 1 Lesson 4 begins by addressing the question of how to navigate and utilize collected data effectively. The lesson introduces the **Data Cycle** as a foundational guide for thinking about data. The cycle typically commences with posing statistical questions. Students are directed to a visual representation of the Data Cycle found in the \"Data Cycle\" file (LMR_U1_L4_A). This initial introduction provides a brief overview of the four components: posing statistical questions, considering data, analyzing data, and interpreting data, with the understanding that each component will be explored in greater detail throughout the course."
+  },
+  {
+    "title": "Stage 1: Pose Statistical Questions",
+    "body": "Posing statistical questions is the first stage of the Data Cycle. Statistical questions are defined as questions that address variability and can be answered with data. These questions are critical because they guide the entire statistical investigation. An example is provided to differentiate between a regular question and a statistical question: 'How old are you?' asked to one person is not a statistical question due to the lack of variability. However, it could be part of answering the statistical question, 'How old are the students in my school?', which requires data collection and anticipates varying ages. This stage sets the direction for all subsequent steps in the data cycle."
+  },
+  {
+    "title": "Stage 2: Consider Data in the Data Cycle",
+    "body": "The 'Consider Data' stage, also referred to as Data Collection, is the second step in the Data Cycle. This phase involves the process of observing and recording data. Alternatively, it can include examining previously collected data to ascertain its suitability and quality for addressing the investigation's needs. This ensures that the data gathered or selected is appropriate for answering the posed statistical questions and meets the requirements of the investigation. The quality and relevance of the data considered are crucial for the success of the subsequent analysis and interpretation stages."
+  },
+  {
+    "title": "Stage 3: Analyze Data in the Data Cycle",
+    "body": "Data Analysis is the third stage of the Data Cycle. In this phase, tables, graphs, and numerical summaries are created from the collected data. The primary purpose of these analyses is to help identify patterns and relationships within the data. This stage is almost always performed using computer software. By transforming raw data into organized and visual formats, data analysis provides the foundation for drawing conclusions and answering the statistical questions posed at the beginning of the investigation. It bridges the gap between raw data and meaningful insights."
+  },
+  {
+    "title": "Stage 4: Interpret Data in the Data Cycle",
+    "body": "Data Interpretation is the final stage of the Data Cycle. In this crucial phase, the statistical questions initially posed are answered by referring to the tables, graphs, and summaries that were produced during the Data Analysis stage. This involves making sense of the findings from the analysis and drawing conclusions. It requires connecting the analytical results back to the original research questions. Effective data interpretation allows for a clear and meaningful response to the statistical questions, thus completing the cycle of a statistical investigation."
+  },
+  {
+    "title": "Unit 1 Lesson 4 Activity: Data Cycle Four Corners Strategy",
+    "body": "To reinforce understanding of the Data Cycle, Unit 1 Lesson 4 employs a \"Four Corners\" strategy. Sheets with the name and description of each Data Cycle stage (Pose Statistical Questions, Consider Data, Analyze Data, Interpret Data) are posted in different corners of the room. Students are then presented with various artifacts from statistical investigations (e.g., spreadsheets, article headlines, visualizations). For each artifact, students move to the corner representing the stage they believe the artifact best illustrates. This kinesthetic activity encourages critical thinking and initial engagement with data artifacts."
+  },
+  {
+    "title": "Discussion within Four Corners Groups",
+    "body": "After students move to their chosen corner in the \"Four Corners\" activity (representing a stage of the Data Cycle), they engage in group discussions. Within their corner group, students discuss which part of the data cycle the presented artifact represents and provide their reasoning. They also share any questions or wonderings they have about the artifact. This collaborative discussion aims to foster critical thinking about statistical artifacts encountered in everyday life and to begin developing students' statistical habits of mind, encouraging them to question and interrogate data sources."
+  },
+  {
+    "title": "Artifact 1: CDC Data Spreadsheet in Unit 1 Lesson 4",
+    "body": "The first artifact used in the Unit 1 Lesson 4 \"Four Corners\" activity is a spreadsheet of CDC data. This data can be displayed in RStudio using the commands `data(cdc)` and `View(cdc)`. Students are prompted to determine which stage of the Data Cycle this artifact represents and to voice any questions or wonderings they have. Potential discussion points include who the data is about, the purpose of data collection, and the specific survey questions used. The lesson notes that the CDC uses a binary definition of sex, which may lead to discussions about sex and gender."
+  },
+  {
+    "title": "Artifact 2: Coffee and Psychopaths Headline in Unit 1 Lesson 4",
+    "body": "The second artifact presented in Unit 1 Lesson 4's \"Four Corners\" activity is the article headline, 'People Who Order Coffee Black Are More Likely To Be Psychopaths.' Students are asked to identify which stage of the Data Cycle this headline best represents and to generate questions about it. Expected student interrogations include inquiries about the study's design, funding, purpose, and how variables were measured. This artifact serves to illustrate how statistical findings are often presented in headlines, prompting critical evaluation of their origins and methodology."
+  },
+  {
+    "title": "Artifact 3: The Dude Map Visualization in Unit 1 Lesson 4",
+    "body": "The third artifact in Unit 1 Lesson 4's \"Four Corners\" activity is the 'Dude Map,' a visualization showing regional differences in the use of terms like 'bro,' 'buddy,' 'dude,' 'fella,' and 'pal' when referring to friends in the US. The data was collected via Twitter. Students analyze this graphic to determine its place in the Data Cycle and raise questions about the study's purpose, the variables measured, and how they were measured. This visualization serves as a concrete example of data analysis and interpretation presented to a broad audience."
+  },
+  {
+    "title": "Unit 1 Lesson 4: Analyzing and Interpreting the Dude Map",
+    "body": "Following the \"Four Corners\" activity, students in Unit 1 Lesson 4 return to their seats to sketch the Data Cycle in their journals. They are instructed to place the 'Dude Map' under the 'Analyze Data' stage and note its data source (Twitter) under 'Consider Data.' Teams then collaboratively formulate a statistical question that could be answered using the 'Dude Map' graphic, such as 'Where in the United States is the term dude more common when referring to a friend?'. The class discusses these questions, selects one example, and teams work to answer it, sharing their interpretations, which are then recorded under the 'Interpret Data' stage of their sketches."
+  },
+  {
+    "title": "Unit 1 Lesson 4 Activity: Bros & Dudes Graphics Investigation",
+    "body": "In Unit 1 Lesson 4, teams are assigned specific pages from the \"Bros & Dudes Graphics\" handout (LMR_U1_L4_C) to conduct a complete statistical investigation. The goal is to create a Data Cycle poster using their assigned graphic for the 'Analyze Data' stage. Each poster must clearly label and provide appropriate responses for all four components of the Data Cycle: Posing Statistical Questions, Considering Data, Analyzing Data, and Interpreting Data. This hands-on activity allows students to apply the entire Data Cycle framework to a specific dataset and prompts them to formulate questions about regional language use."
+  },
+  {
+    "title": "RStudio Commands for CDC Data",
+    "body": "In Unit 1 Lesson 4, to display the CDC data spreadsheet for analysis, RStudio can be utilized. The following commands are provided: `data(cdc)` loads the `cdc` dataset into the R environment, making it available for use. Subsequently, the command `View(cdc)` opens the dataset in a spreadsheet-like viewer within RStudio. This allows students to directly interact with and examine the data, which is a crucial step in the 'Consider Data' and 'Analyze Data' phases of the Data Cycle."
+  },
+  {
+    "title": "Homework for Unit 1 Lesson 4: Refining Statistical Questions",
+    "body": "The homework assignment for Unit 1 Lesson 4 requires students to revisit the statistical questions generated by their teams concerning the \"Bros & Dudes Graphics.\" Specifically, students are tasked with reformulating any questions that could not be answered using the provided graphics. The objective is to modify these questions so that they become answerable with the available data or by conducting further relevant data collection and analysis, reinforcing the practical application of the Data Cycle and the importance of well-posed statistical questions."
+  },
+  {
+    "title": "Class Scribes: Summarizing Key Topics",
+    "body": "As part of Unit 1 Lesson 4, a designated team of students will serve as 'Class Scribes.' Their role is to present a brief discussion to the class, highlighting what they believe were the three most important topics covered during the lesson. This activity encourages students to synthesize the material, identify key takeaways, and practice communicating statistical concepts, reinforcing the learning outcomes related to the Data Cycle and its components."
+  }
+]

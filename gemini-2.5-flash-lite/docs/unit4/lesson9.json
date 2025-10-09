@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract of Unit 4 Lesson 9",
+    "body": "This lesson, 'The Spaghetti Line,' focuses on estimating the line of best fit for a height and arm span dataset. Students will use a strand of spaghetti as a physical modeling tool to represent this line on scatterplots. The objective is for students to understand how to visually approximate a line that best represents the trend in data. Key vocabulary includes 'line of best fit,' and the essential concept is that a straight line can summarize a data trend, with 'eyeballing' being one method to find this line. The lesson involves distributing handouts, using spaghetti strands and grid paper, recording solutions on poster paper, and conducting a gallery walk for peer review and discussion. A homework assignment to complete Lab 4A is also specified."
+  },
+  {
+    "title": "Unit 4 Lesson 9: The Spaghetti Line Objective",
+    "body": "The primary objective of Unit 4 Lesson 9, 'The Spaghetti Line,' is for students to learn how to estimate the line of best fit for a dataset that shows the relationship between two variables, specifically height and arm span. Students will achieve this by using a physical tool – a strand of spaghetti – to model the line on a scatterplot. This hands-on approach aims to build an intuitive understanding of how a line can represent the general trend within a set of data points."
+  },
+  {
+    "title": "Materials for Unit 4 Lesson 9",
+    "body": "The materials required for Unit 4 Lesson 9, 'The Spaghetti Line,' include: The Spaghetti Line handout (LMR_U4_L9), which necessitates advance preparation by cutting out plots; approximately 1 lb. of uncooked spaghetti; grid paper; tape or glue; and poster paper. The spaghetti will be used as a physical tool to model the line of best fit on the scatterplots provided in the handout."
+  },
+  {
+    "title": "Vocabulary: Line of Best Fit",
+    "body": "The term 'line of best fit' is a key vocabulary term for Unit 4 Lesson 9. It refers to a straight line drawn on a scatterplot of data points that best represents the overall trend or relationship exhibited by those points. The goal of finding the line of best fit is to summarize the data and potentially make predictions."
+  },
+  {
+    "title": "Essential Concept: Summarizing Data Trends with Lines",
+    "body": "A core concept introduced in Unit 4 Lesson 9 is that a straight line can effectively summarize the trend observed in a scatterplot of data. The lesson emphasizes that 'eyeballing' a straight line through the data points is a valid method for approximating this trend, especially when using physical modeling tools like spaghetti. This approach helps students understand the visual representation of a linear relationship in data."
+  },
+  {
+    "title": "Lesson Procedure: Estimating the Line of Best Fit",
+    "body": "In Unit 4 Lesson 9, 'The Spaghetti Line,' students are guided through a process to estimate the line of best fit. After an optional concurrent completion of Lab 4A, students receive 'The Spaghetti Line' handout and strands of spaghetti. Working in teams, they use the spaghetti to visually model the line of best fit on their assigned scatterplot, gluing the plot onto poster paper and recording their responses. The teacher may need to review slope and y-intercept calculations, especially noting the challenge of finding the correct y-intercept when plots don't start at the origin. Teams then post their work for a gallery walk."
+  },
+  {
+    "title": "Teacher Notes for Unit 4 Lesson 9",
+    "body": "For Unit 4 Lesson 9, teachers should be aware of the advance preparation needed: cutting out plots from the LMR_U4_L9 handout for each group. It's also recommended to review the concepts of calculating slope from two points and writing a linear equation (y = mx + b). Special attention should be given to helping students determine the y-intercept, as the provided scatterplots may not originate at (0,0). To facilitate discussion, teachers are encouraged to add an obviously incorrect line to a graph during the gallery walk to prompt students to articulate why their proposed line is superior, leading them to the definition of the 'line of best fit' as the line that comes closest to the most points."
+  },
+  {
+    "title": "Unit 4 Lesson 9: Gallery Walk and Discussion",
+    "body": "Following the creation of their 'spaghetti lines' in Unit 4 Lesson 9, teams post their work around the room. A 'Gallery Walk' allows students to observe and compare the different lines of best fit estimated by each team. This activity is followed by a teacher-led discussion focusing on which line is considered the 'best' and why. This discussion aims to solidify the understanding that the line of best fit is the one that most closely approximates the majority of the data points, reinforcing the concept visually."
+  },
+  {
+    "title": "Unit 4 Lesson 9: Class Scribes Activity",
+    "body": "As a concluding activity for Unit 4 Lesson 9, 'The Spaghetti Line,' one designated team will act as 'Class Scribes.' This team is responsible for presenting a brief summary to the class, highlighting what they believe were the three most important topics or takeaways from the lesson. This serves as a review and reinforces the key learning points of estimating the line of best fit."
+  },
+  {
+    "title": "Homework and Next Steps: Unit 4 Lesson 9",
+    "body": "The homework assignment following Unit 4 Lesson 9, 'The Spaghetti Line,' is to complete [Lab 4A: If the Line Fits...](lab4a.md). This lab should be finished prior to the commencement of [Lesson 10](lesson10.md). The homework serves as a continuation of the concepts explored in the lesson, likely involving further practice with identifying or calculating lines of best fit."
+  },
+  {
+    "title": "Resource Link: LMR_U4_L9 Handout",
+    "body": "The handout for Unit 4 Lesson 9 is titled 'The Spaghetti Line' and is referenced as LMR_U4_L9. It can be accessed via a provided link: [LMR_U4_L9](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L9.pdf). This document contains the scatterplots and questions that students will use during the lesson to estimate the line of best fit. Advance preparation requires cutting out the plots from pages 2-4 of this handout before the lesson begins."
+  },
+  {
+    "title": "Advance Preparation for Unit 4 Lesson 9",
+    "body": "Crucial advance preparation for Unit 4 Lesson 9, 'The Spaghetti Line,' involves cutting out the plots from pages 2-4 of the 'The Spaghetti Line' handout (LMR_U4_L9). These plots are to be distributed to student teams. If there are more than six groups, these plots should be duplicated to ensure each group has one. This preparation is necessary before starting step 2 of the lesson."
+  }
+]

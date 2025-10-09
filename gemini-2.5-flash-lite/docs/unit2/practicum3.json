@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract of Practicum 3: What Stresses Us?",
+    "body": "This practicum, \"What Stresses Us?\", aims to enable students to utilize RStudio for the graphical representation and numerical summarization of their \"Stress/Chill\" and \"Personality Color\" data. The primary objective is to answer specific research questions by analyzing this combined dataset. Students are required to produce a one-page report that addresses these questions, employing the Data Cycle methodology. The analysis must incorporate both numerical summaries (e.g., means, medians) and graphical methods (plots). The report should detail the chosen plots and summaries, explain their relevance to answering the research questions, and include these visualizations and statistics. Finally, students will present their findings to a classmate, ensuring all conclusions are supported by the included data representations. This practicum builds upon skills potentially introduced in Unit 1, with guidance available in the Unit 1 scoring guide."
+  },
+  {
+    "title": "Objective: What Stresses Us? Practicum",
+    "body": "The main objective of this practicum is for students to use RStudio to generate graphical representations and numerical summaries of their \"Stress/Chill\" and \"Personality Color\" data. These analyses will be used to answer specific research questions related to the relationship between personality colors and stress levels."
+  },
+  {
+    "title": "Materials for Practicum 3",
+    "body": "The primary material required for the \"What Stresses Us?\" practicum is the \"What Stresses Us? Practicum\" document. This document is available as a PDF, referenced as [LMR_U2_Practicum_What_Stresses_Us](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_What_Stresses_Us.pdf). Students will also need access to RStudio and the combined dataset containing \"Stress/Chill\" and \"Personality Color\" data."
+  },
+  {
+    "title": "Practicum 3: Dataset Overview",
+    "body": "For \"Practicum 3: What Stresses Us?\", a dataset has been created by merging individual \"Stress/Chill\" data with \"Personality Color\" data. This combined dataset is the foundation for the analysis required in the practicum. Students will use this merged data to explore relationships and answer research questions."
+  },
+  {
+    "title": "Research Questions for Practicum 3",
+    "body": "The \"Practicum 3: What Stresses Us?\" requires students to address the following research questions using the merged \"Stress/Chill\" and \"Personality Color\" dataset:\n\n1. Do color personalities really predict a person’s personality?\n2. Do people with different personality colors tend to have different stress levels?\n\nThese broad questions should be refined into simpler statistical questions for analysis."
+  },
+  {
+    "title": "Analysis Requirements for Practicum 3",
+    "body": "In \"Practicum 3: What Stresses Us?\", students must complete the following tasks based on the merged \"Stress/Chill\" and \"Personality Color\" data:\n\n1. Write a one-page report using the Data Cycle to address the research questions.\n2. The analysis must include both numerical methods (e.g., means, medians) and graphical methods (plots).\n3. Refine the broad research questions into simpler, statistically answerable questions.\n4. The report must include the plot(s) and numerical summary/summaries.\n5. Describe what the plot(s) show.\n6. Explain the rationale for choosing specific plots.\n7. Explain how the plots and numerical summaries answer the statistical questions.\n8. Present the report and its supporting analyses to another student."
+  },
+  {
+    "title": "Presentation and Support for Practicum 3",
+    "body": "As part of \"Practicum 3: What Stresses Us?\", students are required to present their one-page report to a classmate not in their team. Crucially, this presentation must include any relevant plots and numerical summaries that support any conclusions drawn from the analysis of the \"Stress/Chill\" and \"Personality Color\" data."
+  },
+  {
+    "title": "Guidance for Practicum 3 Scoring",
+    "body": "For \"Practicum 3: What Stresses Us?\", students may refer to the scoring guide provided in Unit 1 ([Unit 1](../unit1/overview.md)) for an understanding of how the practicum will be assessed. This guide can offer insights into the expectations for the report, analysis, and presentation."
+  },
+  {
+    "title": "Data Cycle in Practicum 3",
+    "body": "The \"Practicum 3: What Stresses Us?\" mandates the use of the Data Cycle in the creation of the one-page report. Students will apply this framework to analyze their combined \"Stress/Chill\" and \"Personality Color\" data, moving from formulating questions to collecting, analyzing, and interpreting data to answer those questions."
+  },
+  {
+    "title": "Numerical and Graphical Methods in Practicum 3",
+    "body": "In \"Practicum 3: What Stresses Us?\", students are required to employ both numerical and graphical methods for data analysis. This involves using RStudio to generate plots (graphical methods) and calculating statistical summaries such as means and medians (numerical methods) to analyze the \"Stress/Chill\" and \"Personality Color\" data and answer the research questions."
+  },
+  {
+    "title": "Stress/Chill and Personality Color Data",
+    "body": "The core data for \"Practicum 3: What Stresses Us?\" consists of two components: \"Stress/Chill\" data and \"Personality Color\" data. These datasets have been merged to allow for analyses that explore potential relationships between personality types and stress levels. Students will use RStudio to analyze this combined dataset."
+  },
+  {
+    "title": "Refining Research Questions in Practicum 3",
+    "body": "The research questions posed in \"Practicum 3: What Stresses Us?\" are broad: \"Do color personalities really predict a person’s personality?\" and \"Do people with different personality colors tend to have different stress levels?\". A key requirement is for students to first develop simpler, more specific statistical questions that address these broader inquiries. This process of refinement is a crucial step in the data analysis and reporting process."
+  },
+  {
+    "title": "Explaining Analysis Choices in Practicum 3 Report",
+    "body": "A critical component of the report for \"Practicum 3: What Stresses Us?\" is the explanation of analytical choices. Students must describe what their chosen plots illustrate, justify why they selected those particular graphical methods, and articulate how both the plots and numerical summaries effectively answer their statistical questions derived from the \"Stress/Chill\" and \"Personality Color\" data."
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Abstract of Lesson 18: Where Do I Belong?",
+    "body": "Lesson 18 introduces the concept of clustering, a method for grouping data points based on similarities. Students will learn to identify clusters visually and understand the process of k-means clustering. The lesson uses an example of classifying athletes (swimmers and football players) based on height and weight, demonstrating how clustering can group unknown data. Key vocabulary includes clustering, cluster, and k-means. The lesson involves a hands-on activity using the 'Find the Clusters' handout and explores the impact of initial centroid placement on the clustering outcome using an online application."
+  },
+  {
+    "title": "Introduction to Clustering",
+    "body": "This section of Unit 4 Lesson 18 explains the core concept of clustering. Clustering is defined as the process of grouping a set of objects or people such that items within the same group share more similarities with each other than with items in other groups. Unlike previous lessons that used decision trees to classify based on known characteristics (like whether a professional athlete's team is US-based), clustering addresses situations where these specific characteristics are unknown. Instead, clustering uses given numerical variables to identify inherent similarities and groupings. The goal is to observe how similar individuals naturally congregate, allowing us to identify these emergent groupings."
+  },
+  {
+    "title": "Vocabulary: Clustering and Cluster",
+    "body": "In Unit 4, Lesson 18, two key terms related to grouping data are introduced: 'clustering' and 'cluster'.\n\n**Clustering** is defined as the process of grouping a set of objects or people together. The primary characteristic of this grouping is that objects or people within the same group are more similar to each other than they are to objects or people in any other group.\n\nA **cluster** refers to one such group formed by the clustering process. It is a collection of similar things or people that are located or occurring close to one another, sharing common attributes."
+  },
+  {
+    "title": "Vocabulary: K-Means",
+    "body": "Unit 4, Lesson 18 introduces the term 'k-means' as a specific algorithm used for clustering. The k-means algorithm's objective is to partition a given dataset into 'k' distinct clusters. This partitioning is done in a way that data points residing within the same cluster exhibit a high degree of similarity, while data points belonging to different clusters are as far apart as possible. The 'k' in k-means represents the pre-determined number of clusters the user wishes to identify in the data."
+  },
+  {
+    "title": "Essential Concepts: Identifying Groups in Data",
+    "body": "Unit 4, Lesson 18 highlights an essential concept: the ability to identify groups, referred to as 'clusters,' within data based on a limited set of characteristics. The lesson poses a thought experiment: classifying people into distinct groups like 'football players' and 'swimmers' is straightforward if you know specific attributes. However, the challenge arises when only less obvious numerical variables, such as arm span, are known. The question is how effectively one could classify individuals into these sports groups using only such indirect measurements, emphasizing that clustering aims to find these hidden groupings even with incomplete information."
+  },
+  {
+    "title": "Lesson Example: Initial Data Visualization",
+    "body": "Unit 4, Lesson 18 begins the practical exploration of clustering with a dataset of 6 observations, each having two numerical variables, X1 and X2. The lesson provides a table with these data points:\n\n| Obs | X1  | X2  |\n|-----|-----|-----|\n| 1   | 160 | 74  |\n| 2   | 165 | 72  |\n| 3   | 165 | 74  |\n| 4   | 175 | 68  |\n| 5   | 180 | 70  |\n| 6   | 185 | 72  |\n\nThese points are then plotted on a scatterplot, with X1 on the horizontal axis and X2 on the vertical axis. This visual representation typically reveals two apparent groups: three points clustered in the top-left region and three points clustered in the bottom-right region. Students are asked to identify these visually distinct groupings."
+  },
+  {
+    "title": "Lesson Example: Introducing Contextual Data",
+    "body": "Following the initial visualization in Unit 4, Lesson 18, the context for the data is revealed. A doctor has collected data on high school football players and swimmers, recording their weight (variable X1) and height (variable X2). This new information allows the scatterplot to be re-labeled. The students are then asked to infer which cluster likely represents swimmers and which represents football players. Typically, the taller, thinner individuals in the upper-left cluster are identified as swimmers, while the heavier, more muscular individuals in the bottom-right cluster are identified as football players. This step bridges the gap between abstract numerical data and a real-world scenario."
+  },
+  {
+    "title": "Lesson Example: Classifying a New Data Point",
+    "body": "In Unit 4, Lesson 18, after establishing the context of swimmers and football players based on height (X2) and weight (X1), a new scenario is introduced. A new player's measurements are recorded: 166 pounds (X1) and 73 inches (X2). This new data point is plotted on the existing scatterplot. Students are asked to determine which sport this player most likely belongs to. Given that the new point falls close to the upper-left cluster (representing swimmers), and its attributes (tall and relatively thin) align with that group, students can infer that this player is likely a swimmer. This demonstrates a basic application of clustering for classification."
+  },
+  {
+    "title": "Lesson Example: Ambiguous Data Point and Introduction to K-Means",
+    "body": "Unit 4, Lesson 18 introduces a more challenging data point: a new player with measurements of 173 pounds (X1) and 73 inches (X2). When plotted, this point lies directly between the two visually identified clusters (swimmers and football players). This ambiguity highlights the limitations of simple visual inspection for classification. To address such cases, the lesson introduces the concept of **k-means clustering**. This algorithm aims to systematically partition data into a pre-defined number of clusters ('k'). Since there are two types of athletes (swimmers and football players), the goal is to find k=2 clusters."
+  },
+  {
+    "title": "K-Means Clustering: Initialization Step",
+    "body": "Unit 4, Lesson 18 explains the initialization step in the k-means clustering algorithm. Before data points can be assigned to clusters, initial 'centers' or 'centroids' for each cluster must be established. For the example involving 2 athlete groups (k=2), two initial points, labeled A and B, are chosen to represent the centers of the two potential clusters. The lesson suggests an option: calculate the mean point of the visually identified 'swimmer' cluster (the top-left three points) and use this as one initial center (e.g., point A). Another random point near the other cluster can serve as the second initial center (point B). Alternatively, the lesson specifies starting with A: (170, 70) and B: (175, 74) for 'Round 0' on the 'Find the Clusters' handout, instructing students to plot these points."
+  },
+  {
+    "title": "K-Means Clustering: Assignment Step",
+    "body": "Following the initialization in Unit 4, Lesson 18, the **Assignment Step** of the k-means algorithm is described. In this phase, each data point (observation) is assigned to the cluster whose center (centroid) is closest to it. Students are instructed to calculate the distance between each of the 7 observations and the initial cluster centers (points A and B). Based on which center is nearer, each observation is then labeled with the corresponding cluster letter (A or B). The lesson provides visual guides showing lines drawn from points to cluster centers to illustrate the distance calculation. Even if students initially misclassify points, the algorithm is designed to correct these assignments in subsequent rounds."
+  },
+  {
+    "title": "K-Means Clustering: Update Step",
+    "body": "Unit 4, Lesson 18 details the **Update Step** in the k-means clustering process, which follows the Assignment Step. Once all data points have been assigned to a cluster, the positions of the cluster centers (centroids) are recalculated. This is done by finding the mean of all the data points that were assigned to each cluster in the previous step. For instance, if points 1, 2, 3, and a new point 7 are assigned to cluster A, the new center for A is calculated by finding the average X1 and X2 values of these points. Similarly, the center for cluster B is recalculated based on the points assigned to it. The lesson provides an example calculation for new centers A and B using the assignments from 'Round 0'."
+  },
+  {
+    "title": "K-Means Clustering: Iteration and Convergence",
+    "body": "The process of **k-means clustering**, as explained in Unit 4, Lesson 18, is iterative. After the Update Step recalculates the cluster centers, the algorithm returns to the Assignment Step. Data points are reassigned to the *new* nearest cluster centers. This cycle of Assignment and Update repeats. The lesson instructs students to continue this process using the 'Find the Clusters' handout until the cluster membership remains consistent between two consecutive rounds. This state, where no data points change their cluster assignment from one iteration to the next, indicates that the algorithm has converged, and the final clusters have been determined. A note mentions that convergence can be reached in as few as two rounds depending on initial points."
+  },
+  {
+    "title": "Impact of Initial Centroid Placement in K-Means",
+    "body": "Unit 4, Lesson 18 emphasizes a critical aspect of the k-means algorithm: the significant influence of the initial placement of cluster centers (centroids). The lesson demonstrates this using the K-means Clustering App. By strategically placing initial centroids—for example, placing two close together within one apparent group and the third between groups—and running the algorithm, the resulting clusters can be shown to be heavily influenced by these starting positions. Conversely, placing centroids near the actual centers of the data groups and running the algorithm leads to a more accurate and intuitive clustering. This highlights that while k-means is effective, the choice of initial centroids can affect the final outcome, and sometimes multiple runs with different initializations are beneficial."
+  },
+  {
+    "title": "Lesson Activity: Find the Clusters Handout",
+    "body": "Unit 4, Lesson 18 utilizes the 'Find the Clusters' handout ([LMR_U4_L18](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L18.pdf)) as a primary tool for students to engage with the k-means clustering process. This handout guides students through the iterative steps of initialization, assignment, and update. Students plot initial cluster centers, calculate distances to assign points, and then recalculate new cluster centers. They continue this process until cluster assignments stabilize. The handout likely includes diagrams for each 'Round' of the algorithm, allowing students to visually track the convergence of clusters and understand how the algorithm refines the groupings based on the data's inherent structure."
+  },
+  {
+    "title": "Class Scribes and Homework Assignment",
+    "body": "At the conclusion of Unit 4, Lesson 18, students participate in a 'Class Scribes' activity. In this activity, a designated team of students is responsible for presenting a brief summary of what they consider the three most important topics covered during the lesson. This encourages synthesis and reinforces key takeaways. The homework assignment for this lesson requires students to write a paragraph explaining the concept of k-means clustering in their own words, further solidifying their understanding. Additionally, students are directed to complete [Lab 4H: Finding Clusters](lab4h.md) before proceeding to [Lesson 19](lesson19.md)."
+  }
+]

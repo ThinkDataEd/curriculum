@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Abstract for Unit 3 Lesson 8",
+    "body": "This lesson, \"Monsters that Hide in Observational Studies,\" focuses on the concept of confounding factors in observational studies. The primary objective is for students to understand that while observational studies can reveal associations between variables, they cannot establish causation due to the influence of confounding variables. The lesson introduces key vocabulary such as 'cause,' 'confounding factors,' and 'associated.' It outlines a step-by-step process for identifying and illustrating confounding factors using a real-world example (umbrella sales and street crime) and a visual diagrammatic progression. Students will also explore the \"Spurious Correlations\" website to find examples of statistically associated variables that lack a causal relationship. The lesson concludes with a discussion and a journal activity requiring students to analyze their chosen spurious correlations, identify potential confounding factors, and articulate why causation cannot be inferred. The session emphasizes that only controlled experiments can establish causation, while observational studies can only demonstrate association."
+  },
+  {
+    "title": "Unit 3 Lesson 8 Objective",
+    "body": "The main objective of Unit 3 Lesson 8 is for students to comprehend that confounding factors significantly influence the outcomes of observational studies. Consequently, it is impossible to conclude causation from such studies; only associations between variables can be determined. This understanding is crucial for correctly interpreting data and avoiding incorrect conclusions about cause-and-effect relationships."
+  },
+  {
+    "title": "Materials for Unit 3 Lesson 8",
+    "body": "The materials required for Unit 3 Lesson 8 include computers for students and access to the \"Spurious Correlations\" website, which can be found at https://tylervigen.com/spurious-correlations. This website serves as a practical tool for students to explore and analyze examples of variables that appear related but likely are not causally linked."
+  },
+  {
+    "title": "Vocabulary: Cause",
+    "body": "In the context of Unit 3 Lesson 8, the term 'cause' refers to a reason for an action or condition. Understanding the concept of cause is fundamental to differentiating between mere association and actual causation, which is a key learning objective of this lesson. Students will learn that observational studies often show associations, but not the direct causal links."
+  },
+  {
+    "title": "Vocabulary: Confounding Factors",
+    "body": "Confounding factors, also referred to as confounding variables, are 'extra' variables that are not accounted for in a study. In Unit 3 Lesson 8, these factors are explained as providing an alternative explanation for the observed relationship between an explanatory variable and an outcome variable in an observational study. They are related to both variables, making it difficult to determine a true cause-and-effect relationship. These factors can lead to spurious correlations."
+  },
+  {
+    "title": "Vocabulary: Associated",
+    "body": "In Unit 3 Lesson 8, 'associated' describes variables that are joined together, often in a working relationship. When two variables are associated, the values of one variable relate to the values of the other in some way. This lesson emphasizes that an association is not the same as causation. Observational studies can demonstrate that variables are associated, but cannot prove that one causes the other."
+  },
+  {
+    "title": "Essential Concepts: Confounding Factors",
+    "body": "A core concept in Unit 3 Lesson 8 is that confounding factors or variables complicate the determination of a cause-and-effect relationship between two variables. These external variables offer alternative explanations for observed correlations, preventing the conclusion that one variable directly influences another. Identifying these factors is key to understanding the limitations of observational studies."
+  },
+  {
+    "title": "Lesson Activity: Revisiting Social Media and GPA",
+    "body": "Unit 3 Lesson 8 begins by asking students to recall their analysis from Lesson 6, specifically the relationship between a student's GPA and the number of friends they have on social media. The lesson prompts them to question whether a higher GPA *causes* more friends, or vice versa. This serves as an introductory example to highlight that observed relationships might not be causal, setting the stage for discussing confounding factors."
+  },
+  {
+    "title": "Lesson Activity: Introducing Confounding Factors",
+    "body": "The lesson defines confounding factors as outside variables that could contribute to a relationship observed in an observational study. It reminds students of the definition from Unit 3 Lesson 3: confounding factors provide an alternative explanation for the effect of a treatment on an outcome variable. These variables are linked to both the explanatory variable and the response variable, thus interfering with the isolation of a direct causal link."
+  },
+  {
+    "title": "Lesson Activity: Umbrella Sales and Street Crime Example",
+    "body": "Unit 3 Lesson 8 presents a scenario: 'Research suggests that a rise in umbrella sales leads to decreased street crime.' Students are asked to work in teams to identify potential confounding factors that might explain this association. The lesson then uses a step-by-step diagram progression to illustrate how a confounding variable, such as rainy weather, can offer an alternative explanation for the observed relationship, thereby challenging the initial claim of causation."
+  },
+  {
+    "title": "Diagram Progression: Umbrella Sales and Street Crime",
+    "body": "This section details a visual explanation of confounding factors using the umbrella sales and street crime example. Initially, an arrow shows a link from 'Umbrella Sales' to 'Street Crime Down' (Step 1). Then, a confounding factor like 'Weather' is introduced, showing it influences 'Umbrella Sales' (e.g., rain increases sales) (Step 2). Crucially, 'Weather' is also shown to influence 'Street Crime' (e.g., bad weather reduces crime) (Step 3). This leads to the conclusion that the original link might not be causal but merely associated, as the confounding factor provides an alternative explanation (Steps 4 & 5)."
+  },
+  {
+    "title": "Introducing Spurious Correlations Website",
+    "body": "Unit 3 Lesson 8 introduces students to the 'Spurious Correlations' website by Tyler Vigen (http://www.tylervigen.com/spurious-correlations). This online resource showcases numerous examples where two unrelated variables exhibit a strong statistical association purely by chance or due to unconsidered confounding factors. The website serves as a tool for students to explore and analyze such non-causal relationships."
+  },
+  {
+    "title": "Example: Cheddar Cheese and Solar Power",
+    "body": "An example from the 'Spurious Correlations' website discussed in Unit 3 Lesson 8 involves cheddar cheese consumption in the US and solar power generated in Haiti. These two variables show a positive association, meaning they tend to increase together. However, the lesson emphasizes that this relationship is not causal; it is likely coincidental or influenced by complex, unobserved confounding factors, illustrating the principle that correlation does not imply causation."
+  },
+  {
+    "title": "Student Activity: Analyzing Spurious Correlations",
+    "body": "Students in Unit 3 Lesson 8 are tasked with exploring the 'Spurious Correlations' website, selecting a graph that interests them, and analyzing it in their journals. They must identify the two variables, determine the type of association (positive or negative), interpret the plot, format the data for RStudio, create a manual scatterplot, describe the strength of the association, and crucially, decide if a causal link exists. If they conclude no causation, they must propose potential confounding factors and illustrate them with a diagram."
+  },
+  {
+    "title": "Journal Questions for Spurious Correlations Analysis",
+    "body": "The journal activity in Unit 3 Lesson 8 requires students to answer specific questions about a chosen spurious correlation: 1. What are the two variables? 2. Is there a positive or negative association? 3. Interpret the plot. 4. Format the data for RStudio. 5. Manually create a scatterplot and assess its strength. 6. Does the explanatory variable cause the response variable? Explain. 7. If 'no' to question 6, draw a diagram with possible confounding factors."
+  },
+  {
+    "title": "Example Analysis: Fruit Spending and CNI Stock Price",
+    "body": "Unit 3 Lesson 8 provides an example analysis from the 'Spurious Correlations' website: Annual US household spending on fresh fruits and the Canadian National Railway Company's stock price (CNI). The example demonstrates a positive association. The interpretation is that as fruit spending increases, CNI stock price rises. However, it concludes 'No' to causation, suggesting the association is not direct. A potential confounding factor diagram is provided, illustrating how unobserved variables could influence both factors simultaneously, preventing a causal conclusion."
+  },
+  {
+    "title": "Student Discussion and Sharing",
+    "body": "Following their individual analysis of spurious correlations in Unit 3 Lesson 8, students are instructed to share their findings with a partner. This collaborative activity involves explaining why their chosen graph was interesting, detailing the relationship between the variables (direct or inverse association), and justifying whether a causal link can be established or if confounding factors are likely at play."
+  },
+  {
+    "title": "Lesson Conclusion: Association vs. Causation",
+    "body": "The key takeaway from Unit 3 Lesson 8 is the distinction between association and causation. Students should understand that observational studies can reveal associations between variables, but they cannot definitively conclude causation. Establishing causation requires controlled experiments where variables can be manipulated and confounding factors minimized or accounted for. This reinforces the limitations of observational data."
+  },
+  {
+    "title": "Class Scribes: Key Topics Discussion",
+    "body": "As part of Unit 3 Lesson 8, one team of students is assigned the role of 'Class Scribes.' Their task is to present a brief talk to the class, highlighting what they consider to be the three most important topics or concepts covered during the lesson. This activity encourages synthesis and reinforces the main learning points for the entire class."
+  },
+  {
+    "title": "Next Steps: Lab 3B and Lesson 9",
+    "body": "Unit 3 Lesson 8 concludes by directing students to the next activities. They are required to complete 'Lab 3B: Confound it all!' prior to attending 'Lesson 9.' This sequence suggests that the lab will provide practical application and reinforcement of the concepts of confounding factors and the difference between association and causation discussed in Lesson 8."
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Abstract of Unit 2, Section 1",
+    "body": "Unit 2, Section 1, titled 'What is Your True Color?', spans 7 instructional days and focuses on understanding how statistical measures can interpret large datasets. It introduces the concepts of measures of center (central tendency) and measures of spread (variability) to describe quantitative data. Students engage with the 'True Colors Personality Test', collecting data through a survey via the IDS ThinkData Ed App or a web portal. The learning objectives cover interpreting the structure of expressions, using statistics to compare distributions (center and spread), interpreting shape/center/spread differences considering outliers, and evaluating data-based reports. Mathematical Practice Standards emphasize modeling with mathematics and using tools strategically. Data Science objectives include understanding numerical summaries and boxplots. Applied Computational Thinking using RStudio involves calculating numerical summaries (mean, median, MAD, IQR) and creating boxplots for comparison. Real-world connections highlight the importance of synthesizing data and critically consuming statistical information in media. Language objectives focus on choosing appropriate measures of center and spread, debating distribution comparisons, and presenting statistical investigation understanding."
+  },
+  {
+    "title": "Enduring Understandings: Statistics and Data Summaries",
+    "body": "Statistics are essential for making sense of large volumes of data. Numerical summaries are key to capturing the important characteristics of a data distribution. Measures of center, also called measures of central tendency, indicate where the quantitative data tends to group. Measures of spread, also known as measures of variability, quantify how spread out the quantitative data is. By examining both the central clustering and the variability within data, we can gain significant insights into the dataset's nature."
+  },
+  {
+    "title": "Engagement: True Colors Personality Test and Data Collection",
+    "body": "In Unit 2, Section 1, students will participate in the 'True Colors Personality Test' to identify their unique personality qualities and styles. The results from this test will serve as the dataset for learning about subsetting data and calculating measures of center and spread. Data collection will be facilitated through a survey using the IDS ThinkData Ed App or via the web portal at https://portal.thinkdataed.org."
+  },
+  {
+    "title": "Learning Objectives: Statistical and Mathematical",
+    "body": "The statistical and mathematical learning objectives for Unit 2, Section 1 include interpreting the structure of algebraic expressions (A-SSE A). Students will learn to use appropriate statistics to compare the center (median, mean) and spread (interquartile range, standard deviation) of two or more different data sets (S-ID 2). They will also interpret differences in shape, center, and spread within the context of the data, considering potential impacts of extreme values or outliers (S-ID 3). Furthermore, students will develop the ability to evaluate the reliability of reports that are based on data (S-IC 6)."
+  },
+  {
+    "title": "Learning Objectives: Mathematical Practice and Data Science",
+    "body": "For Unit 2, the overarching Mathematical Practice standards are 'Model with mathematics' (SMP-4) and 'Use appropriate tools strategically' (SMP-5). In terms of Data Science, students will understand the information conveyed by numerical summaries of data and recognize that a boxplot serves as a graphical representation of these numerical summaries."
+  },
+  {
+    "title": "Learning Objectives: Applied Computational Thinking and Real-World Connections",
+    "body": "Using RStudio, students will gain practical skills in calculating essential numerical summaries such as the mean, median, Mean of Absolute Deviations (MAD), and Interquartile Range (IQR). They will also learn to create graphical representations, including boxplots, to effectively compare two or more datasets. The real-world relevance of this unit lies in the necessity of synthesizing vast amounts of data into understandable measures. Understanding statistical references in media is crucial for critical consumerism, requiring comprehension of data summaries."
+  },
+  {
+    "title": "Language Objectives: Discussing Statistical Measures",
+    "body": "Students will enhance their language skills by considering the appropriateness of using the mean versus the median as a measure of center for various data distributions. They will also determine and articulate the most suitable measure of spread for a given dataset. Furthermore, students will participate in an 'Active Debate' to discuss and compare the shape, center, and spread of different distributions, and engage in partner and whole-group activities to present their understanding of statistical investigations."
+  },
+  {
+    "title": "Data Source: Personality Color Survey",
+    "body": "The primary data source for Unit 2, Section 1 is the 'True Colors Personality Test' which students will complete. This survey is designed to collect data on students' personality styles. The collected data is accessible within the R environment using the command ```data(colors)```. This dataset will be used for various statistical analyses throughout the unit."
+  },
+  {
+    "title": "Enduring Understandings: Measures of Center and Spread",
+    "body": "The core idea is that statistical measures allow us to interpret large datasets. Specifically, numerical summaries help us understand key aspects of data distributions. Measures of center, like the mean and median, show the typical value in a dataset. Measures of spread, such as the interquartile range and standard deviation, indicate how varied the data points are. Understanding both where data clusters (center) and how much it varies (spread) provides valuable insights."
+  },
+  {
+    "title": "Engagement: Personality Test Data for Analysis",
+    "body": "Students will begin Unit 2, Section 1 by taking the 'True Colors Personality Test'. This activity serves as the foundation for collecting real-world data related to personality styles. The data gathered from this test will be used in subsequent lessons to explore concepts like data subsetting and the calculation of measures of central tendency and variability. The data can be accessed online or through a dedicated application."
+  },
+  {
+    "title": "Learning Objectives: Statistical Comparison of Data Sets",
+    "body": "A key mathematical objective is S-ID 2, which involves using statistics effectively to compare the center (mean, median) and spread (interquartile range, standard deviation) of multiple datasets. This objective is supported by A-SSE A, focusing on interpreting the structure of expressions. Students will also learn to interpret differences in data distributions' shape, center, and spread, considering the influence of outliers (S-ID 3), and to critically evaluate data-based reports (S-IC 6)."
+  },
+  {
+    "title": "Data Science and Computational Thinking Objectives",
+    "body": "In Data Science, students will grasp the meaning of numerical summaries in describing data and will learn that boxplots are visual tools representing these summaries. Applying computational thinking with RStudio, they will compute key numerical summaries (mean, median, MAD, IQR) and generate graphical comparisons like boxplots for multiple datasets. The unit also reinforces the mathematical practices of modeling with data and using tools strategically (SMP-4, SMP-5)."
+  },
+  {
+    "title": "Real-World Relevance and Language Objectives",
+    "body": "This unit connects statistical concepts to the real world, emphasizing the need to condense large data into understandable measures, especially given the prevalence of statistics in media. Students will practice critical consumption of data. Language objectives include debating the suitability of mean vs. median for different distributions, explaining appropriate measures of spread, actively debating distribution comparisons, and presenting findings from statistical investigations."
+  },
+  {
+    "title": "Data Collection Method: True Colors Personality Test",
+    "body": "The primary method for data collection in Unit 2, Section 1 is the 'True Colors Personality Test'. Students will complete this survey to generate data about their personality styles. This data will then be used for analysis within the R environment, specifically with the dataset named 'colors' (```data(colors)```). This hands-on approach connects personality insights with statistical analysis."
+  },
+  {
+    "title": "Vocabulary: Measures of Center",
+    "body": "Measures of center, also referred to as measures of central tendency, are statistical values that describe the typical or central location of a dataset. Common measures include the mean (the average value) and the median (the middle value when data is ordered). Understanding these measures helps in summarizing the central tendency of quantitative data."
+  },
+  {
+    "title": "Vocabulary: Measures of Spread",
+    "body": "Measures of spread, also known as measures of variability, are statistical values that describe the amount of dispersion or variability in a dataset. They indicate how spread out the data points are from the center. Key measures include the interquartile range (IQR), which measures the spread of the middle 50% of the data, and the standard deviation, which measures the average distance of data points from the mean."
+  },
+  {
+    "title": "Code Snippet: Accessing Data in R",
+    "body": "In Unit 2, Section 1, students will use the R programming language to analyze data. To access the dataset containing the results of the 'True Colors Personality Test', the following R command will be used: ```data(colors)```. This command loads the 'colors' dataset into the R environment, making it available for statistical calculations and graphical representations such as boxplots and summaries of center and spread."
+  },
+  {
+    "title": "Standard: S-ID 2 - Comparing Data Sets",
+    "body": "Standard S-ID 2 focuses on the practical application of statistics to compare datasets. Students are expected to use appropriate statistical measures, including measures of center (mean and median) and measures of spread (interquartile range and standard deviation), to effectively compare the characteristics of two or more distinct data sets. This involves understanding how these summary statistics reveal differences and similarities between distributions."
+  },
+  {
+    "title": "Standard: S-ID 3 - Interpreting Distribution Differences",
+    "body": "Standard S-ID 3 guides students in interpreting the meaning of differences observed in the shape, center, and spread of data distributions. A crucial aspect of this standard is accounting for the potential impact of extreme data points, known as outliers. Students learn to discuss how outliers can influence the appearance and interpretation of the data and affect measures of center and spread."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract of Lesson 22: Changing Format",
+    "body": "This lesson focuses on transforming data between XML and data table formats, essential for data analysis and understanding. Students will learn to convert XML files into a more familiar spreadsheet-like structure using RStudio and the XML package. The process involves loading the XML data, parsing it, and then converting it into a data frame. This allows for easier viewing and analysis of the data. The lesson also covers the reverse process: converting data tables back into XML format. Students will work with handouts and R code to practice these conversions, reinforcing their understanding of data structure and manipulation. The objective is to equip students with the skills to handle data in different formats, making it accessible for various analytical tasks."
+  },
+  {
+    "title": "Lesson 22: Changing Format - Objective",
+    "body": "The primary objective of Unit 3 Lesson 22 is for students to gain proficiency in converting XML files into a data table format, which is more intuitive for analysis and visualization. Conversely, they will also learn to convert data tables back into XML format. This dual capability is crucial for data interoperability and for making sense of data presented in different structures."
+  },
+  {
+    "title": "Lesson 22: Changing Format - Materials",
+    "body": "To successfully complete Unit 3 Lesson 22, students will require RStudio as their primary development environment. Additionally, two handouts are essential: 'There and Back Again: From XML to Data Tables' (LMR_U3_L22_A) and 'There and Back Again: From Data Tables to XML' (LMR_U3_L22_B). Electronic copies of these handouts should be provided to facilitate copying and pasting of code and data. The PDF links for these handouts are provided within the lesson materials."
+  },
+  {
+    "title": "Essential Concepts: Converting XML to Data Tables",
+    "body": "A key concept in Unit 3 Lesson 22 is that converting data from XML format to a spreadsheet or data table format significantly enhances our ability to understand and visualize the data. This transformation makes the data more accessible for analysis, comparison, and interpretation, especially within tools like RStudio that are optimized for tabular data structures."
+  },
+  {
+    "title": "Lesson Procedure: Initial Comparison and Introduction",
+    "body": "Unit 3 Lesson 22 begins by having students compare the default display of XML code with HTML code, referencing previous lessons (Lesson 14 and 16 from Lesson 21). This comparison sets the stage for understanding the differences in data representation. The instructor then informs students that the core goal of this lesson is to learn how to translate information from XML code into a readable data table format within RStudio."
+  },
+  {
+    "title": "Lesson Procedure: XML to Data Table Handout and Setup",
+    "body": "Students are provided with the 'There and Back Again: From XML to Data Tables' handout (LMR_U3_L22_A). It is recommended to give students an electronic copy so they can easily copy and paste the provided XML code. The handout contains XML code on page 1, which students will work with in RStudio. Their task is to translate this XML code into a structured table and then transfer the information into an empty data table provided on the handout. Creating a new RScript for this process is suggested for better organization."
+  },
+  {
+    "title": "R Code: Loading the XML Package",
+    "body": "The first step in manipulating XML data within RStudio during Unit 3 Lesson 22 is to load the necessary package. This is achieved by running the command:\n\n```R\nlibrary(\"XML\")\n```\n\nThis line of code ensures that all functions related to XML parsing and manipulation are available for use in the current R session."
+  },
+  {
+    "title": "R Code: Assigning and Inspecting Raw XML Data",
+    "body": "Following the loading of the XML package, students are instructed to assign the provided XML data to a variable named `volunteers`. They then copy and paste the XML code into RStudio. After this step, students are prompted to observe the data in the Environment pane. Initially, RStudio displays the data in its raw XML format, and students should notice newlines represented by `\\n`, indicating that the data is not yet in an analyzable format."
+  },
+  {
+    "title": "R Function: xmlParse()",
+    "body": "To begin translating the raw XML data into a format that RStudio can better recognize, the `xmlParse()` function is introduced in Unit 3 Lesson 22. Students run the following code:\n\n```R\nvolunteers <- xmlParse(volunteers)\n```\n\nThis function parses the XML string, and after execution, the Environment pane will show the `volunteers` data as an 'XMLInternalDocument', indicating that RStudio now understands it as an XML file structure."
+  },
+  {
+    "title": "R Function: xmlToDataFrame()",
+    "body": "The final step in converting XML to a usable data structure in Unit 3 Lesson 22 involves the `xmlToDataFrame()` function. After parsing the XML, students execute the following command:\n\n```R\nvolunteers <- xmlToDataFrame(volunteers)\n```\n\nThis function transforms the parsed XML data into an R data frame. The data will now appear familiar in the Environment pane, similar to previously worked-with datasets like `cdc`, `atus`, `slasher`, and `titanic`, making it ready for analysis."
+  },
+  {
+    "title": "Lesson Activity: Viewing and Filling Data Tables",
+    "body": "Once the XML data has been successfully converted into an R data frame using `xmlToDataFrame()`, students are instructed to use the `View(volunteers)` command in RStudio. This opens the data in a spreadsheet-like viewer. Students then use this view to fill in the corresponding empty data table on page 1 of the 'There and Back Again: From XML to Data Tables' handout (LMR_U3_L22_A). This practical step reinforces the successful conversion and data accessibility."
+  },
+  {
+    "title": "Lesson Procedure: Class Discussion and Data Table to XML",
+    "body": "After students individually complete filling out their tables from the XML to data table conversion, a whole-class discussion is held to review their responses and address any questions regarding the data and the conversion process. Subsequently, students transition to the reverse process by working in teams on the 'There and Back Again: From Data Tables to XML' handout (LMR_U3_L22_B)."
+  },
+  {
+    "title": "Lesson Procedure: Data Table to XML Conversion Activity",
+    "body": "In Unit 3 Lesson 22, after completing the XML to data table conversion, students work in teams on the 'There and Back Again: From Data Tables to XML' handout (LMR_U3_L22_B). The teams are tasked with guiding the instructor to write the correct XML code based on the data table. This is done through a 'Whip Around' activity where teams suggest lines of code sequentially, and other teams verify the correctness, ensuring collaborative construction of the XML output."
+  },
+  {
+    "title": "Class Scribes: Key Topic Discussion",
+    "body": "As part of the wrap-up for Unit 3 Lesson 22, a designated team of students acts as 'Class Scribes'. Their role is to prepare and deliver a brief presentation discussing what they believe were the three most important topics covered during the lesson. This activity encourages reflection and summarization of the key learning points regarding data format conversion."
+  },
+  {
+    "title": "Homework & Next Day: Participatory Sensing Campaign",
+    "body": "The homework assignment for Unit 3 Lesson 22 involves students continuing to collect data for the class's Participatory Sensing campaign, building upon the activities in [Lessons 17](lesson17.md) through [19](lesson19.md). The following day's class session will be dedicated to analyzing this collected campaign data during a Practicum titled 'What Does Our Campaign Data Say?'."
+  }
+]

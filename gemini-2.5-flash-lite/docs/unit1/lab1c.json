@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Abstract of Lab 1C: Export, Upload, Import",
+    "body": "Lab 1C focuses on the crucial process of loading personal Participatory Sensing data into RStudio for analysis. This involves a three-step procedure: exporting data from a class campaign page, uploading the exported file to the RStudio server, and finally importing the data into R's working memory. The lab guides users through navigating the IDS Tools page, using the Campaign Manager to select and export data (typically as a .csv file), and then utilizing the RStudio interface to upload this file. It emphasizes the distinction between uploading (making data accessible) and importing (making data usable in R). Importing involves selecting the file within RStudio's Files pane and using the 'Import Dataset...' option, where users can name their dataset. The lab also introduces the R code function `read.csv()` that underlies the import process and highlights the importance of organization, including renaming files. The ultimate goal is to prepare data for analysis, with the lab concluding with practical exercises in viewing data, creating plots, and summarizing the learned process."
+  },
+  {
+    "title": "Introduction to Lab 1C: Own Data in RStudio",
+    "body": "Lab 1C, titled \"Export, Upload, Import,\" addresses the fundamental need to analyze personal data within RStudio. Previously, labs utilized pre-loaded data. This lab shifts the focus to empowering users to load their own Participatory Sensing data. The core objective is to learn the workflow for incorporating user-generated data into the R environment, enabling personalized analysis. This process is broken down into three key stages: exporting the data from its source, uploading it to RStudio's environment, and finally importing it into R's active memory for manipulation and analysis."
+  },
+  {
+    "title": "The Three Steps: Export, Upload, Import",
+    "body": "To analyze personal Participatory Sensing data in RStudio, a specific three-step process must be followed: \n\n1.  **Export:** The data is first obtained from its original source, typically a class campaign page, and saved in a format like a .csv file. This action removes the data from its online location and places it onto the user's local computer.\n2.  **Upload:** The exported file is then transferred to the RStudio server. This makes the file accessible within the RStudio environment but does not yet make it ready for direct use by R commands.\n3.  **Import:** Finally, the uploaded data is brought into R's working memory. This step makes the dataset available for R to process, analyze, and visualize. \n\nThis sequence is essential before any analytical operations can be performed on the user's data. A video tutorial is available for a step-by-step visual guide to this entire process."
+  },
+  {
+    "title": "Exporting Data from the Campaign Manager",
+    "body": "The first step in loading your own data into RStudio is exporting it. This process begins by navigating to the IDS Tools page and accessing the 'Campaign Manager.' Users must log in using their provided username and password. If credentials are forgotten, assistance should be sought from the teacher. Once logged into the Campaign Manager, locate the specific campaign from which you wish to download data. Click the dropdown arrow associated with that campaign. From the presented options, select 'Export Data.' This action will generate a .csv file containing your campaign's data, which will be saved to your computer. It is crucial to remember the location where this file is saved for the subsequent steps."
+  },
+  {
+    "title": "Uploading Data to RStudio Server",
+    "body": "After exporting your data as a .csv file and saving it to your computer, the next stage is to upload it into the RStudio environment. RStudio is organized into several panes; you need to locate the pane that contains the 'Files' tab. Activate this pane by clicking on it. Within the Files pane, find and click the 'Upload' button. This action will prompt you to choose a file from your computer. Click 'Choose File,' navigate to the location where you saved your exported .csv file (e.g., 'SurveyResponses.csv'), select it, and then click 'OK.' Once the upload is complete, the file should appear in the RStudio Files pane, indicating it is now accessible on the server."
+  },
+  {
+    "title": "Understanding Upload vs. Import",
+    "body": "It is important to distinguish between 'uploading' and 'importing' data in RStudio. Uploading a file, such as the .csv data exported from a campaign, merely makes it accessible within the RStudio server environment. It does not mean R can directly use the data for analysis. If you check the 'Environment' pane after uploading, you will likely not see your data listed as an available dataset. To actually work with the data, it must be 'imported' into R's working memory. R can only hold a limited number of datasets in its memory at any given time for efficient computation. Importing tells R that a specific dataset is important and should be stored in its memory for immediate use."
+  },
+  {
+    "title": "Importing Data into R's Memory",
+    "body": "The process of importing data into R's working memory is initiated from the Files pane in RStudio. First, locate the file you previously uploaded (e.g., 'SurveyResponses.csv') within the Files pane. Click on the file's name. A context menu will appear, offering several options; choose 'Import Dataset...' from this menu. This action will open a new window, often referred to as the 'Data Preview.' In this window, you can assign a name to your dataset in the 'Name:' field located in the lower-left corner. This name is critical as it will be used in your R code to reference the data. Choose a short, descriptive name, such as 'foodhabits' or 'food' for the Food Habits campaign. Ensure the name in the 'Import Options' section matches the name you intend to use, and then click the 'Import' button. This action loads the data into R's memory, making it ready for analysis."
+  },
+  {
+    "title": "The `read.csv()` Function and Code Preview",
+    "body": "When you import a dataset using RStudio's graphical interface (e.g., clicking 'Import Dataset...'), R executes underlying code to perform the action. After clicking 'Import,' you will often notice that code has appeared in your R console. A typical example might look like: `data.file <- read_csv('~/SurveyResponse.csv')` followed by `View(data.file)`. This demonstrates that RStudio is using the `read_csv()` function (or a similar variant like `read.csv()`) to read the data file and assign it to a variable. This is significant because it shows that importing can also be done directly by writing R code. Understanding this allows users to import data programmatically in the future, which is a valuable skill for reproducibility and efficiency in data analysis workflows."
+  },
+  {
+    "title": "File Organization in RStudio",
+    "body": "Maintaining organization within RStudio is crucial for managing data effectively. The 'Files' tab provides tools to help with this. When data files are first uploaded or appear after export, their default names might be long and uninformative, such as 'CampaignName - Ids Teacher Year Semester.' To improve clarity and ease of use, you can rename these files. Click on the file within the Files pane and select the 'Rename' option. It is often best practice to give your data file a concise and descriptive name that aligns with how you intend to refer to it in your analysis. For instance, if you imported data named 'foodhabits' in R, naming the corresponding .csv file 'food.csv' can help maintain consistency and improve organization. This practice simplifies tracking and referencing your datasets."
+  },
+  {
+    "title": "Post-Import Analysis Steps (Lab 1C)",
+    "body": "Once the data has been successfully exported, uploaded, and imported into RStudio, the stage is set for analysis. Lab 1C includes practical exercises to apply these skills. \n\n**(1)** The first task involves using the `View()` function to inspect your data. After viewing, you are instructed to select a specific variable from your dataset. Based on the type of variable chosen, you must then write and execute R code to generate an appropriate plot that visually represents that variable. \n\n**(2)** Following the plot creation, you are required to answer questions about your chosen variable and the resulting plot. Specifically, you need to identify which variable you selected and interpret what the generated plot reveals about its characteristics or distribution.\n\n**(3)** The final part of the lab requires a summary of the entire process. This involves reflecting on potential points of forgetfulness regarding the data handling steps and providing a concise outline of the sequence followed in the lab to successfully load and prepare new data for analysis in RStudio."
+  },
+  {
+    "title": "Vocabulary: Export",
+    "body": "In the context of Unit 1 Lab 1C, **Export** refers to the action of retrieving data from its source location, such as a class campaign page, and saving it to your local computer. This typically results in a file, commonly in the Comma Separated Values (.csv) format. Exporting is the first essential step in the process of bringing your own data into RStudio for analysis. It signifies moving data *out* of an online system and *onto* your device."
+  },
+  {
+    "title": "Vocabulary: Upload",
+    "body": "Within the workflow of Unit 1 Lab 1C, **Upload** describes the process of transferring a file from your local computer to the RStudio server environment. After you have exported your data (e.g., as a .csv file), uploading makes this file accessible within RStudio's interface, particularly visible in the 'Files' pane. While uploading makes the file available on the server, it does not yet make the data directly usable for analysis by R commands. It's a preparatory step before the data can be imported."
+  },
+  {
+    "title": "Vocabulary: Import",
+    "body": "In Unit 1 Lab 1C, **Import** is the final and critical step that makes data usable within R. After a file has been exported and uploaded to RStudio, importing involves loading that data into R's working memory. This action allows R to recognize the data as a structured dataset (like a data frame) that can be manipulated, analyzed, and visualized using R functions. Importing designates the data as important for R to store temporarily for computations. The process can be done via the RStudio interface or directly using R code, such as the `read.csv()` function."
+  },
+  {
+    "title": "RStudio Panes and Files Tab",
+    "body": "RStudio is organized into several distinct areas known as **panes**. For Lab 1C, understanding the panes is crucial for managing data. The **Files tab**, typically located within one of the panes (often the bottom-right), is a file explorer for your RStudio environment. It allows you to see the files and folders on the RStudio server. Within the Files tab, you will find options to navigate directories, upload new files from your computer, rename files, and crucially, initiate the process of importing a dataset by selecting a file and choosing 'Import Dataset...'. Being familiar with the location and function of the Files tab is essential for the export, upload, and import workflow."
+  },
+  {
+    "title": "R Code: read.csv()",
+    "body": "The `read.csv()` function (or its tidyverse counterpart, `read_csv()`) is a fundamental R command used for importing data from Comma Separated Values (.csv) files. In Unit 1 Lab 1C, users observe that when they import a dataset through the RStudio interface, the console displays the code that R executed, often including a call to `read_csv()` or `read.csv()`. For example, `data.file <- read_csv('~/SurveyResponse.csv')`. This line of code reads the specified CSV file and assigns its contents to a variable named `data.file` in R's environment. Understanding this function empowers users to import data directly by writing code, which is a more flexible and reproducible method than relying solely on the graphical interface."
+  },
+  {
+    "title": "Data Analysis Step 1: Viewing and Plotting",
+    "body": "Following the successful import of data into RStudio in Unit 1 Lab 1C, the next analytical step is to explore the data visually. The first part of the analysis task requires you to use the `View()` function in R. This function opens your imported dataset in a new tab, allowing you to inspect its contents row by row and column by column. After examining the data, you need to choose a single variable that you find interesting or relevant. Based on the type of data in the variable you selected (e.g., numerical, categorical), you must then write and execute R code to generate an appropriate plot. Examples include histograms for numerical data or bar charts for categorical data. This step is about initial data exploration and visualization."
+  },
+  {
+    "title": "Data Analysis Step 2: Interpretation",
+    "body": "After creating a plot for a selected variable in Unit 1 Lab 1C, the subsequent analysis step focuses on interpretation. You are prompted to articulate what your visualization reveals about the chosen variable. This involves answering two key questions: **What variable did you choose?** This requires you to state the name of the data column you decided to plot. **What does the plot tell us about that variable?** This requires you to interpret the visual representation. For instance, if you plotted a histogram of a numerical variable, you might describe its distribution, central tendency, spread, or identify any unusual values or patterns. This step bridges the gap between seeing a plot and understanding the underlying data it represents."
+  },
+  {
+    "title": "Data Analysis Step 3: Process Summary",
+    "body": "The final component of the analysis section in Unit 1 Lab 1C requires a metacognitive reflection on the entire data handling process. You are asked to summarize what your 'future self' might forget about the steps involved in getting new data into RStudio. This encourages you to identify potential pitfalls or commonly overlooked details. Following this, you need to provide a concise summary of the actual steps taken during the lab. This should cover the sequence from exporting the data from its source, uploading it to RStudio, and finally importing it into R's memory, effectively preparing it for analysis. This summarization reinforces learning and aids in long-term retention of the workflow."
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Abstract: Lab 3E - Scraping Web Data",
+    "body": "This document outlines Lab 3E, focused on scraping web data. It introduces the concept of web scraping as a method to automatically gather information from the internet, highlighting the challenges due to varying website structures. The lab details a two-step process: gathering data from a webpage and then cleaning it for use in subsequent labs. It covers understanding HTML structure, specifically table tags, and demonstrates how to use R functions like `readHTMLTable()` to extract data from web tables. The lab guides users through identifying the correct table, saving it, and performing basic analysis such as calculating means, standard deviations, and identifying states with the most mountains. This lab prepares users for data manipulation and analysis in R using real-world web data."
+  },
+  {
+    "title": "Introduction to Web Scraping",
+    "body": "The internet serves as a vast repository of information. The process of using computers to automatically collect this information is known as web scraping. A key challenge in web scraping is that each website structures and stores data uniquely, making a universal approach difficult. This lab, Unit 3 Lab 3E, focuses on teaching how to scrape data from the web. The process is divided into two main steps: first, gathering the raw information from the web, and second, cleaning this data to transform it into a usable data frame, which will be prepared for use in Unit 3 Lab 3F."
+  },
+  {
+    "title": "Accessing the Data Source",
+    "body": "To begin Unit 3 Lab 3E, users are instructed to access a specific webpage containing data they will scrape. This involves copying and pasting a provided URL into a web browser. The URL directs users to a page displaying data about mountains. After viewing the data, users are prompted to answer questions in their journal regarding the nature of the data and to formulate analytical questions they might address using this dataset. The data itself pertains to various mountain peaks, including their names, ranges, states, geographical coordinates, and elevations in both feet and meters."
+  },
+  {
+    "title": "Understanding HTML for Web Scraping",
+    "body": "HTML (HyperText Markup Language) is the foundational code used to construct all websites. Understanding HTML is crucial for web scraping, especially when dealing with tabular data. This section of Unit 3 Lab 3E explains that HTML uses specific tags to define the structure of a webpage. For tables, key tags include `<TABLE>` to denote the table, `<TR>` for table rows, `<TH>` for table headers, and `<TD>` for table data cells. Users are asked to compare how data tables appear in HTML versus how they are displayed in R using functions like `View()`, and to deduce the meaning and function of these HTML tags in rendering tables."
+  },
+  {
+    "title": "HTML Table Structure Example",
+    "body": "The provided HTML code in Unit 3 Lab 3E illustrates how a data table is structured using HTML tags. It begins with a `<TABLE>` tag, followed by a `<TR>` (table row) tag. Within this row, `<TH>` tags define the header cells for each column: `peak`, `range`, `state`, `long`, `lat`, `elev_ft`, `elev_m`, `prominence_ft`, `prominence_m`, and `rank`. Subsequently, another `<TR>` tag introduces a data row, where `<TD>` tags contain the actual data for each corresponding column, exemplified by the entry for Denali (Mount McKinley). This structure is fundamental to understanding how web scraping tools parse table data."
+  },
+  {
+    "title": "Scraping All Tables with R",
+    "body": "In Unit 3 Lab 3E, after accessing the target website, the next step is to scrape all available tables using R. Users are instructed to find the URL of the website and assign it to a variable named `data_url`. They will then use the `readHTMLTable()` function in R, leaving the first argument blank to indicate that all tables on the page should be scraped. This function reads HTML tables from a given URL. The result of this operation, which will be a list of data frames (one for each table found), is to be stored in a variable named `tables`."
+  },
+  {
+    "title": "Identifying the Target Data Table",
+    "body": "Websites can contain multiple tables, as noted in Unit 3 Lab 3E. For example, a Wikipedia page might have several tables. Therefore, after scraping all tables from a URL using `readHTMLTable()`, it's necessary to identify which of these tables contains the desired data. In this lab, users are asked to use the `length()` function on the `tables` object (which stores the scraped tables) to determine the total number of tables found on the webpage. This count helps in selecting the specific table of interest for further processing."
+  },
+  {
+    "title": "Scraping a Specific Table",
+    "body": "Once the number of tables on the webpage is known, Unit 3 Lab 3E guides users to scrape only the specific table containing the mountain data. This is achieved by re-using the `readHTMLTable()` function, but this time providing the `which` argument. The `which` argument takes an integer value corresponding to the index of the table to be scraped (e.g., `which = 1` for the first table, `which = 2` for the second, and so on). The data scraped from this specific table should be assigned to a new variable named `mtns` for subsequent analysis."
+  },
+  {
+    "title": "Saving and Analyzing Scraped Data",
+    "body": "The final steps of Unit 3 Lab 3E involve saving the scraped data and performing basic analyses. After successfully scraping the mountain data into the `mtns` data frame, users are instructed to save it in R's native format (`.Rda`). This is done using the `save()` function, specifying the object to save (`mtns`) and the desired file name (e.g., 'mountains_data.Rda'). Following the save operation, users are prompted to calculate the mean and standard deviation of the `elev_ft` column and to determine which `state` has the highest number of mountains listed in the dataset."
+  },
+  {
+    "title": "Vocabulary: Web Scraping",
+    "body": "Web scraping is the automated process of extracting data from websites. It involves using software or scripts to systematically collect information presented on web pages. This technique is valuable for gathering large amounts of data for analysis, research, or integration into other applications. Challenges in web scraping arise from the dynamic nature of websites, varying data formats, and potential anti-scraping measures implemented by website owners. Unit 3 Lab 3E introduces the fundamental concepts and practical application of web scraping."
+  },
+  {
+    "title": "Vocabulary: HTML Tags",
+    "body": "HTML (HyperText Markup Language) uses tags to structure content on web pages. Key tags relevant to tables include: `<TABLE>` which defines the entire table; `<TR>` which represents a table row; `<TH>` which denotes a header cell within a row, typically containing column titles; and `<TD>` which represents a standard data cell within a row. Understanding these tags is essential for web scraping, as scraping tools parse these tags to identify and extract structured data like that found in tables. Unit 3 Lab 3E uses these concepts to explain data extraction from a webpage."
+  },
+  {
+    "title": "R Function: `readHTMLTable()`",
+    "body": "The `readHTMLTable()` function in R, often part of libraries like `XML`, is used for scraping tabular data from HTML web pages. It parses the HTML source of a given URL and extracts tables. When called without specific arguments, it attempts to read all tables found on the page, returning them as a list of data frames. The function can also accept a `which` argument to specify a particular table to be scraped by its index. This function is central to Unit 3 Lab 3E for acquiring data directly from the web."
+  },
+  {
+    "title": "R Function: `length()`",
+    "body": "The `length()` function in R is a fundamental utility used to determine the number of elements in a vector or the number of items in other R objects, such as lists or data frames. In the context of Unit 3 Lab 3E, `length()` is applied to the result of `readHTMLTable()` (which is a list of tables). This allows the user to count how many tables were successfully scraped from the specified webpage, which is a crucial step in identifying the correct table containing the desired data before attempting to extract it individually."
+  },
+  {
+    "title": "R Function: `save()`",
+    "body": "The `save()` function in R is used to save R objects to a specified file. This is commonly used to persist data, models, or functions for later use without needing to recompute or re-scrape them. The function requires at least two arguments: the name(s) of the object(s) to be saved, and the `file` argument specifying the name of the file (often with an `.Rda` or `.RData` extension for R data files). In Unit 3 Lab 3E, `save()` is used to store the scraped mountain data (`mtns`) into a file, preserving it for future analysis or use in subsequent labs like Unit 3 Lab 3F."
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Unit 3 Lesson 16",
+    "body": "This lesson, \"Does It Have a Trigger?\", focuses on distinguishing between survey questions and sensor questions. Students will learn that sensors collect data when a predefined 'trigger' event occurs, a concept central to Participatory Sensing. The lesson involves activities like creating tables about sensors and triggers, a Gallery Walk, and a Quickwrite to reinforce understanding. Students will also practice differentiating between scenarios best suited for sensor-based Participatory Sensing campaigns versus traditional surveys, using a handout for practice. The homework assignment requires students to design both a Participatory Sensing campaign and a survey to investigate superstitious behavior, highlighting the differences and unique insights each method offers."
+  },
+  {
+    "title": "Unit 3 Lesson 16 Objective",
+    "body": "The primary objective of Unit 3 Lesson 16 is for students to develop the ability to identify and categorize survey questions versus sensor questions. Furthermore, students will engage in practical application by writing their own sensor questions, solidifying their understanding of how sensors operate based on triggers."
+  },
+  {
+    "title": "Materials for Unit 3 Lesson 16",
+    "body": "The necessary materials for Unit 3 Lesson 16 include poster paper, with one sheet provided per student team. Additionally, sticky notes are required for collaborative activities. A key resource is the \"Sensor or Survey?\" handout, which is essential for practicing the distinction between sensor-based and survey-based data collection methods. This handout is referenced as LMR_U3_L16."
+  },
+  {
+    "title": "Vocabulary: Participatory Sensing",
+    "body": "Participatory Sensing is a method of gathering and analyzing data where individuals or groups utilize their personal mobile devices and web services. This approach systematically explores various aspects of their environment, ranging from personal health to cultural observations. It's a core concept in understanding how data can be collected in real-world, user-driven contexts."
+  },
+  {
+    "title": "Essential Concepts: Triggers in Sensor Data Collection",
+    "body": "A fundamental characteristic differentiating sensor data collection from traditional methods is the concept of a 'trigger' event. Sensors are designed to collect data specifically when a predetermined event occurs. In the context of Participatory Sensing, this trigger event is collaboratively agreed upon beforehand by the participants. Each instance of this trigger event prompts the sensor to collect data."
+  },
+  {
+    "title": "Activity: Sensor Trigger Table Creation",
+    "body": "In Unit 3 Lesson 16, students begin by revisiting a list of sensors previously compiled by the class. Each student team receives a piece of poster paper to create a table with specific columns. The table is designed to document sensors, their corresponding trigger events, and the data collected upon trigger. This activity helps students visualize and understand the relationship between a sensor, its activation event, and the resulting data."
+  },
+  {
+    "title": "Activity: Sensor Trigger Table Completion and Gallery Walk",
+    "body": "Following the creation of the sensor trigger table, each student team is assigned three sensors from the class list. They then complete their tables, applying their understanding of triggers discussed previously. The lesson emphasizes that a trigger prompts a sensor to react and send a signal to a data collector. Subsequently, a 'Gallery Walk' takes place, allowing teams to review each other's posters and add reactions or questions. Teams then return to their posters to respond to the questions posed by their peers."
+  },
+  {
+    "title": "Quickwrite Activity: Survey Question Categories",
+    "body": "Unit 3 Lesson 16 includes a 'Quickwrite' activity where students respond to specific questions in their journals within a two-minute timeframe. The questions prompt students to recall the two categories of survey questions learned previously (open-ended and closed-ended) and to provide examples of each. This exercise reinforces foundational knowledge about survey question types."
+  },
+  {
+    "title": "Activity: Give One/Get One for Survey Questions",
+    "body": "After the Quickwrite activity in Unit 3 Lesson 16, students engage in a 'Give One/Get One' strategy within their teams. They share their responses regarding survey question categories and examples. A timer is used to manage the activity, ensuring efficient participation and peer learning. This collaborative sharing helps solidify understanding of different survey question formats."
+  },
+  {
+    "title": "Connecting Participatory Sensing and Sensor Triggers",
+    "body": "Unit 3 Lesson 16 reminds students that a crucial aspect of sensors is the presence of a trigger. This trigger signals either a device or a person to respond to a question or collect data. Students are reminded of their prior experience with sensors through Participatory Sensing (PS) campaigns. It is explained that PS campaigns also utilize survey questions, and the distinction between collecting data via surveys versus PS campaigns depends on the research question and the potential for using triggers."
+  },
+  {
+    "title": "Choosing Between Surveys and Participatory Sensing Campaigns",
+    "body": "The decision to employ a survey or a Participatory Sensing (PS) campaign for data collection in Unit 3 Lesson 16 hinges on the specific research question. PS campaigns are particularly well-suited for research questions involving variation across time or locations, as they can capture data in real-time. Surveys, especially those based on random sampling, are effective for questions about proportions or general characteristics of a population. Some research questions can be addressed by both methods."
+  },
+  {
+    "title": "Example: PS Campaign vs. Survey for Research Questions",
+    "body": "Unit 3 Lesson 16 provides examples to illustrate the choice between surveys and PS campaigns. For the research question 'How does my sense of safety and security change as I go about my daily routine?', a PS campaign is ideal. Triggers like 'whenever you change locations' or 'at the start of every hour' could be used to collect real-time data. Conversely, the question 'What proportion of high school students are superstitious?' is better answered with a survey, using a random sample of the student population."
+  },
+  {
+    "title": "Activity: Sensor or Survey? Handout",
+    "body": "In Unit 3 Lesson 16, students work in teams to complete the \"Sensor or Survey?\" handout. This activity requires them to analyze different research scenarios and determine whether a sensor-based approach (like a PS campaign) or a survey is the more appropriate method for data collection. Page 2 of the handout serves as an answer key for teacher reference. The handout is available as LMR_U3_L16."
+  },
+  {
+    "title": "Activity: Whip Around - Sensor or Survey? Scenarios",
+    "body": "Following the completion of the \"Sensor or Survey?\" handout in Unit 3 Lesson 16, each team is assigned a specific research scenario from the activity. They then participate in a 'Whip Around' where they share their conclusions and reasoning with the class. This allows for immediate feedback and correction of any misconceptions, ensuring that students refine their understanding of when to use sensors versus surveys."
+  },
+  {
+    "title": "Lesson Summary: Triggers and Data Collection Methods",
+    "body": "Unit 3 Lesson 16 concludes with a summary emphasizing that both Participatory Sensing (PS) campaigns and traditional surveys can utilize similar types of questions. The critical factor in deciding between these two data collection methods is the presence or absence of a trigger. If the research topic involves changes over time or location, or requires real-time data, a trigger-based approach like PS is often more suitable. Otherwise, a survey might be more appropriate."
+  },
+  {
+    "title": "Class Scribes Activity",
+    "body": "As part of Unit 3 Lesson 16, one designated student team takes on the role of 'Class Scribes'. Their responsibility is to prepare and deliver a brief presentation to the class, highlighting what they believe were the three most important topics covered during the lesson. This activity encourages synthesis and communication of key learning points."
+  },
+  {
+    "title": "Homework: Investigating Superstitious Behavior",
+    "body": "The homework assignment for Unit 3 Lesson 16 challenges students to explore the topic of superstitious behavior. They are required to design two distinct data collection approaches: one using Participatory Sensing (PS), including a specific trigger event and the data to be collected; and another using a survey based on a random sample of people in California. Students must also describe the differences between these two methods and what unique insights each can provide."
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Abstract for Unit 4 Lesson 7: Statistical Predictions Applying the Rule",
+    "body": "This lesson focuses on applying statistical rules to make predictions, specifically for student heights at a high school. Students will recall previous lessons where they created rules for determining winners and will now use provided rules to find the best predictions. Key concepts include training data, test data, mean squared error (MSE), and mean absolute error (MAE). The lesson explains that the mean is the best predictor when using the MSE rule, while the median is the best predictor for the MAE rule. Students will use R code examples to calculate MSE and MAE and will work through handouts to compare different prediction methods and determine the 'winner' based on each rule. The lesson emphasizes that the choice of prediction method (MSE vs. MAE) influences which statistical measure (mean vs. median) yields the best results."
+  },
+  {
+    "title": "Unit 4 Lesson 7: Objective and Materials",
+    "body": "The objective of Unit 4 Lesson 7 is for students to apply the rule statisticians use to determine the best method for predicting heights for students at a high school. The materials required for this lesson include: each team's rule for determining a winner (from a previous lesson), the 'Heights of Students at a Large High School' handout (LMR_U4_L6), the 'A Tale of Two Rules' handout (LMR_U4_L7_A), and the 'Prediction Games' handout (LMR_U4_L7_B)."
+  },
+  {
+    "title": "Vocabulary: Training Data",
+    "body": "Training data refers to a random subset of the original dataset, typically comprising about 75-85% of the data. This subset is used to train a model, allowing it to learn patterns and relationships within the data. This learned information is then used to make predictions on new, unseen data. In the context of Unit 4 Lesson 7, the initial height data on 40 selected students serves as the training data for developing predictive models."
+  },
+  {
+    "title": "Vocabulary: Test Data",
+    "body": "Test data is a random subset of the original dataset, usually accounting for about 15-25% of the data. Its purpose is to evaluate the performance of a model that has been trained on the training data. By applying the trained model to the test data, one can assess how accurately it makes predictions on unseen information. In Unit 4 Lesson 7, 'Dataset A' and 'Dataset B' from the 'Heights of Students at a Large High School' handout are used as test data to evaluate the prediction methods trained on the initial dataset."
+  },
+  {
+    "title": "Vocabulary: Mean Squared Error (MSE)",
+    "body": "Mean Squared Error (MSE) is a metric used to evaluate the accuracy of a regression line or prediction model. It quantifies how close the predicted values are to the actual observed values. MSE is calculated by finding the average of the squared differences between the predicted values and the actual values. A lower MSE indicates a better fit of the model to the data. It is also known as mean squared deviation or mean squared residual. The formula is MSE = Σ(xᵢ - ŷ)² / n, where xᵢ are the actual values, ŷ are the predicted values, and n is the number of data points. The units of MSE are squared units of the original data."
+  },
+  {
+    "title": "Vocabulary: Mean Absolute Error (MAE)",
+    "body": "Mean Absolute Error (MAE) is a measure of the accuracy of predictions. It represents the average magnitude of the errors in a set of predictions, without considering their direction. MAE is calculated by finding the average of the absolute differences between the predicted values and the actual values. It is expressed by the formula MAE = Σ|xᵢ - ŷ| / n, where xᵢ are the actual values, ŷ are the predicted values, and n is the number of data points. MAE provides a straightforward measure of the average error in the original units of the data."
+  },
+  {
+    "title": "Vocabulary: Residual",
+    "body": "A residual, also known as an 'error', represents the difference between a predicted value and the actual observed outcome. In statistical modeling, residuals are crucial for understanding how well a model fits the data. They quantify the discrepancy between what the model forecasts and what actually occurred. Calculating and analyzing residuals, such as their squared values (for MSE) or absolute values (for MAE), helps in evaluating the performance and accuracy of prediction methods."
+  },
+  {
+    "title": "Essential Concepts: Prediction Rules and Data Statistics",
+    "body": "The choice of prediction statistic is directly linked to the error metric used. If the Mean Squared Errors (MSE) rule is applied, the mean of the current data is the most effective predictor for future values. Conversely, if the Mean Absolute Errors (MAE) rule is the chosen metric, the median of the current data becomes the best predictor for future outcomes. This highlights how different methods of quantifying error lead to different optimal strategies for making statistical predictions."
+  },
+  {
+    "title": "Lesson Introduction: Reviewing Prediction Rules",
+    "body": "Unit 4 Lesson 7 begins by asking students to recall the rules their teams developed in the previous lesson for determining a winner based on predictions. The instructor will remind students that they previously took notes on each team's rule in their DS Journals. Now, the roles are reversed: instead of creating judgment rules, students will be given a specific rule and tasked with identifying the best prediction strategy to succeed in a contest. This sets the stage for learning about established statistical methods for prediction."
+  },
+  {
+    "title": "Training Data vs. Test Data in Height Prediction",
+    "body": "In Unit 4 Lesson 7, students are reminded of the 'Heights of Students at a Large High School' handout. The initial dataset of 40 selected students serves as the **training data**. This data is used to develop and train prediction models. Subsequently, 'Dataset A' and 'Dataset B' from the same handout function as **test data**. These datasets are used to evaluate how well the models trained on the initial data perform when making predictions on new, unseen data. This distinction between training and test data is a fundamental practice in data science for building reliable predictive models."
+  },
+  {
+    "title": "Team Prediction Strategies in Training Data",
+    "body": "During the training phase in Unit 4 Lesson 7, using the initial height data of 40 students, different teams employed various statistical measures for their predictions: Team A utilized the mean, Team B used the median, and Team C relied on the third quartile. These different approaches to prediction based on the training data will be evaluated using established statistical error metrics in subsequent parts of the lesson."
+  },
+  {
+    "title": "Introduction to Mean Squared Error (MSE) Rule",
+    "body": "Unit 4 Lesson 7 introduces statisticians' and data scientists' methods for prediction, starting with the **mean squared error** (MSE) rule. The instructor acknowledges any student teams from the previous lesson who may have independently arrived at MSE or Mean Absolute Error (MAE). An 'error' or 'residual' is defined as the difference between a prediction and the actual outcome. MSE, also known as mean squared deviation or mean squared residual, is calculated using the formula: MSE = Σ(xᵢ - ŷ)² / n. The team with the lowest MSE is declared the winner."
+  },
+  {
+    "title": "Calculating Mean Squared Error (MSE) with R",
+    "body": "The lesson demonstrates how to calculate Mean Squared Error (MSE) using R. A vector `heightA` is created, then converted into a dataframe `datasetA`. Residuals are calculated by subtracting a chosen statistic (e.g., the first quartile, 65 inches) from the actual heights (`residual = heightA - 65`). These residuals are then squared (`sq_res = residual^2`). Finally, the `mean()` function is used to calculate the average of the squared residuals (`mean(~sq_res, data=datasetA)`), yielding the MSE. For the example, the MSE is 22.05. The square root of the MSE (√22.05 ≈ 4.6957) represents the typical error in the original units (inches)."
+  },
+  {
+    "title": "Dataset B Heights and MSE Application",
+    "body": "Following the R demonstration for calculating Mean Squared Error (MSE) using Dataset A, the heights for Dataset B are provided: `heightB <- c(70.1, 72, 68.9, 61.8, 70.9, 59.8, 72, 65, 66.1, 68.9)`. Students are then instructed to use the 'A Tale of Two Rules' handout to apply the MSE rule to this test data. Their task is to determine which statistic (mean, median, or third quartile) resulted in the lowest MSE, thus identifying the 'winner' according to this specific error metric. The lesson notes that, in this context, the mean (Team A) is the winner, reinforcing the mathematical principle that the mean is generally the best predictor when using MSE."
+  },
+  {
+    "title": "Introduction to Mean Absolute Error (MAE) Rule",
+    "body": "Unit 4 Lesson 7 introduces another statistical method for prediction: the **mean absolute error** (MAE). While the mathematical proof is beyond the scope of the course, MAE is a commonly used metric by statisticians and data scientists. It calculates the average of the absolute differences between predicted and actual values, using the formula MAE = Σ|xᵢ - ŷ| / n. The lesson emphasizes that the 'winner' or best prediction strategy can change depending on whether MSE or MAE is the chosen evaluation rule."
+  },
+  {
+    "title": "Calculating Mean Absolute Error (MAE) with R",
+    "body": "The lesson provides R code to calculate the Mean Absolute Error (MAE). Using the same `datasetA` dataframe from previous calculations, the absolute value of the residuals is computed (`residual = abs(heightA - 65)`), where 65 represents a predicted value (e.g., the first quartile). Subsequently, the `mean()` function is used to sum these absolute residuals and divide by the number of data points to find the MAE (`mean(~residual, data=datasetA)`). For the example using the first quartile, the MAE is calculated as 4.32. This value represents the average absolute difference between the predictions and the actual heights."
+  },
+  {
+    "title": "Comparing MSE and MAE: Determining the Winner",
+    "body": "After calculating both Mean Squared Error (MSE) and Mean Absolute Error (MAE), Unit 4 Lesson 7 prompts students to determine the 'winner' based on each metric using the provided test data (implicitly, Dataset A and Dataset B results are analyzed). The key takeaway, as explained by the teacher, is that the choice of evaluation rule dictates the best prediction strategy. When using MSE, the mean (Team A) is the optimal predictor. However, when using MAE, the median (Team B) emerges as the winner for this specific dataset. This demonstrates that the 'best' prediction method is context-dependent on the chosen error metric."
+  },
+  {
+    "title": "Optional Practice: Prediction Games Handout",
+    "body": "Unit 4 Lesson 7 includes an optional practice activity using the 'Prediction Games' handout (LMR_U4_L7_B). This handout allows students to further practice calculating both the mean squared error (MSE) and mean absolute error (MAE). Students can apply these calculations using various statistics (like the mean and median) with different datasets. The handout also provides the five-number summary for additional statistical comparisons. Importantly, page 3 of this handout serves as an answer key for the teacher's reference, facilitating independent student practice and reinforcement of the lesson's concepts."
+  },
+  {
+    "title": "Class Scribes: Summarizing Key Topics",
+    "body": "To conclude Unit 4 Lesson 7, a 'Class Scribes' activity is designated. One team of students will be responsible for preparing and delivering a brief presentation summarizing what they believe were the three most important topics covered during the lesson. This activity encourages students to reflect on the core concepts, synthesize the information learned about statistical predictions, MSE, MAE, and the application of these rules, and practice communicating key data science ideas."
+  }
+]

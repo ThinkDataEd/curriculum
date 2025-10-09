@@ -1,0 +1,254 @@
+[
+  {
+    "title": "Abstract of Unit 1",
+    "body": "Unit 1, titled 'Introduction to Data Science Daily Overview', spans 35 days and is divided into three main themes: 'Data Are All Around' (7 days), 'Visualizing Data' (14 days), and 'Would You Look at the Time?' (9 days), concluding with an 'End of Unit Project' (5 days). The unit introduces fundamental data science concepts including defining data, understanding consumer privacy, organizing and collecting data, data structures (rows, columns, variables), the data cycle, and statistical questions. It progresses to data visualization techniques such as dot plots, histograms, and exploring single and multi-variable plots. Key tools like RStudio are introduced, along with practical labs on data manipulation, import/export, and subsetting. The unit also delves into analyzing categorical data using two-way tables, exploring joint relative frequencies, and marginal/conditional relative frequencies. The 'Food Habits' and 'Time Use' datasets are used as case studies throughout the unit, culminating in a project where students evaluate claims from the media. The unit incorporates hands-on labs and practicums to reinforce learning and build practical data science skills."
+  },
+  {
+    "title": "Unit 1 Theme: Data Are All Around",
+    "body": "The first theme of Unit 1, 'Data Are All Around,' covers 7 days and focuses on foundational data science concepts. It begins with Lesson 1: Data Trails, which defines data and explores consumer privacy. Day 2 introduces Lesson 2: Stick Figures, focusing on organizing and collecting data. Lesson 3: Data Structures builds on this by explaining how data is organized into rows and columns and defining variables. The data cycle and statistical questions are covered in Lesson 4: The Data Cycle. Lesson 5: So Many Questions delves deeper into statistical questions and the concept of variability. The unit then applies these concepts to real-world scenarios with Lesson 6: What Do I Eat?, which uses the 'Food Habits' campaign to explore the data cycle and data collection. Finally, Lesson 7: Setting the Stage, also related to the 'Food Habits' campaign, introduces participatory sensing. This initial theme lays the groundwork for understanding what data is, how it's collected and organized, and its relevance in everyday life."
+  },
+  {
+    "title": "Unit 1 Theme: Visualizing Data",
+    "body": "The second theme of Unit 1, 'Visualizing Data,' spans 14 days and builds upon the foundational concepts from the previous theme. It begins with Lesson 8: Tangible Plots, introducing dot plots, minimum/maximum values, and frequency, often using the 'Food Habits – data' campaign. Lesson 9: What Is Typical? focuses on understanding the typical value and center of data. Lesson 10: Making Histograms introduces histograms and the concept of bin widths. Lesson 11: What Shape Are You In? explores the shape, center, and spread of data distributions. Lesson 12: Exploring Food Habits applies these concepts to single and multi-variable plots using the 'Food Habits – data' campaign. The unit then introduces RStudio with Lesson 13: RStudio Basics, followed by Lab 1A: Data, Code & RStudio to practice RStudio basics. Lab 1B: Get the Picture? (covering variable types, bar graphs, and histograms) and Lab 1C: Export, Upload, Import (focusing on importing data) provide practical experience. Lesson 14: Variables, Variables, Variables delves into multi-variable plots, and Lab 1D: Zooming Through Data introduces subsetting. Lab 1E: What's the Relationship? further explores multi-variable plots. The theme concludes with Practicum: The Data Cycle & My Food Habits, integrating the data cycle and variability concepts using the 'Food Habits' dataset, followed by Practicum Presentations."
+  },
+  {
+    "title": "Unit 1 Theme: Would You Look at the Time?",
+    "body": "The third theme of Unit 1, 'Would You Look at the Time?', covers 9 days and shifts focus to analyzing categorical data and evaluating claims. It starts with Lesson 15: Americans’ Time on Task, which uses the 'Time Use – data' campaign to teach evaluating claims. Lab 1F: A Diamond In the Rough, also using 'Time Use – data', focuses on cleaning names, categories, and strings within datasets. Lesson 16: Categorical Associations introduces joint relative frequencies in two-way tables, applied to 'Time Use – data'. Lesson 17: Interpreting Two-Way Tables deepens this understanding with marginal and conditional relative frequencies, again using 'Time Use – data'. Lab 1G: What's the FREQ? provides hands-on practice with two-way tables and tallying data, related to 'Time Use – data'. Practicum: Teen Depression, using 'Time Use', focuses on formulating statistical questions and interpreting plots. This is followed by Practicum Presentations. The theme concludes with Lab 1H: Our Time, synthesizing concepts of the data cycle and data collection."
+  },
+  {
+    "title": "Unit 1 End of Unit Project",
+    "body": "The Unit 1 'End of Unit Project: Evaluating Claims from the Media' spans 5 days (Days 31-35). This project serves as a capstone experience, allowing students to synthesize the knowledge and skills acquired throughout the unit. The primary focus is on applying the data cycle concept to critically evaluate claims presented in various media sources. Students will learn to identify data-driven claims, understand how data might be collected and analyzed to support or refute these claims, and assess the validity of the evidence presented. This project reinforces the practical application of data science principles in real-world contexts, encouraging critical thinking and data literacy."
+  },
+  {
+    "title": "Lesson 1: Data Trails",
+    "body": "Unit 1, Lesson 1: Data Trails, introduces the fundamental concept of data and its prevalence in our daily lives. This lesson defines what data is and explores the significant aspect of consumer privacy in the context of data collection. It helps students understand that data trails are created through various online and offline activities, raising awareness about the information that is generated about them. This foundational understanding is crucial for subsequent lessons on data organization, collection, and analysis. The lesson is associated with Day 1 of the 'Data Are All Around' theme and is located on page 24 of the course material."
+  },
+  {
+    "title": "Lesson 2: Stick Figures",
+    "body": "Unit 1, Lesson 2: Stick Figures, focuses on the practical aspects of organizing and collecting data. This lesson builds upon the definition of data introduced in Lesson 1 by teaching students methods for structuring and gathering information. It emphasizes the importance of systematic approaches to data collection to ensure accuracy and usability. This lesson is relevant to Day 2 of the 'Data Are All Around' theme and can be found on page 26. Understanding effective data collection and organization is a key step towards meaningful data analysis."
+  },
+  {
+    "title": "Lesson 3: Data Structures",
+    "body": "Unit 1, Lesson 3: Data Structures, delves into the organization of data, a critical step in data science. This lesson explains fundamental data structures, specifically focusing on rows and columns as a common way to organize data. It also introduces the concept of variables, which are the attributes or characteristics being measured or recorded. Understanding these structures is essential for working with datasets effectively. This lesson corresponds to Day 3 of the 'Data Are All Around' theme and is located on page 28."
+  },
+  {
+    "title": "Lesson 4: The Data Cycle",
+    "body": "Unit 1, Lesson 4: The Data Cycle, introduces the process through which data is generated, collected, analyzed, and used. Understanding the data cycle provides a framework for comprehending the lifecycle of data in any project. This lesson also introduces the concept of statistical questions, which are questions that can be answered by collecting and analyzing data that exhibit variability. This lesson falls on Day 4 of the 'Data Are All Around' theme and can be found on page 30."
+  },
+  {
+    "title": "Lesson 5: So Many Questions",
+    "body": "Unit 1, Lesson 5: So Many Questions, expands on the concept of statistical questions introduced in Lesson 4. It emphasizes the importance of formulating clear and relevant statistical questions that can guide data collection and analysis. The lesson also introduces the concept of variability, which is the natural variation or inconsistency present in data. Understanding variability is key to interpreting data accurately. This lesson is associated with Day 5 of the 'Data Are All Around' theme and is located on page 35."
+  },
+  {
+    "title": "Lesson 6: What Do I Eat?",
+    "body": "Unit 1, Lesson 6: What Do I Eat? is part of the 'Data Are All Around' theme and focuses on applying data cycle concepts and data collection methods. This lesson utilizes the 'Food Habits' campaign as a practical context. Students will engage with how data related to food consumption is collected and how the data cycle operates in this specific scenario. This lesson corresponds to Day 6 and is found on page 39."
+  },
+  {
+    "title": "Lesson 7: Setting the Stage",
+    "body": "Unit 1, Lesson 7: Setting the Stage, continues the exploration of the data cycle within the 'Food Habits' campaign. This lesson introduces the concept of participatory sensing, where individuals actively contribute to data collection, often using their own devices. This hands-on approach to data gathering is a modern method used in data science. This lesson falls on Day 7, marking the end of the first theme, and is located on page 42."
+  },
+  {
+    "title": "Lesson 8: Tangible Plots",
+    "body": "Unit 1, Lesson 8: Tangible Plots, marks the beginning of the 'Visualizing Data' theme. This lesson introduces basic data visualization techniques, specifically focusing on dot plots. Students will learn to identify the minimum and maximum values within a dataset and understand the concept of frequency (how often a value appears). This lesson often uses the 'Food Habits – data' campaign for examples and is associated with Day 8, found on page 48."
+  },
+  {
+    "title": "Lesson 9: What Is Typical?",
+    "body": "Unit 1, Lesson 9: What Is Typical?, continues the 'Visualizing Data' theme by focusing on summarizing datasets. This lesson introduces the concept of a 'typical value' or the 'center' of a dataset. Students learn to identify measures that represent the central tendency of the data, which is a crucial step in understanding the overall characteristics of a dataset. This lesson is part of the 'Food Habits – data' campaign, occurs on Day 9, and is located on page 52."
+  },
+  {
+    "title": "Lesson 10: Making Histograms",
+    "body": "Unit 1, Lesson 10: Making Histograms, introduces another important data visualization tool: the histogram. Histograms are used to display the distribution of numerical data. This lesson teaches students how to construct histograms and explains the significance of 'bin widths' – the intervals into which the data is grouped for visualization. This lesson, related to the 'Food Habits – data' campaign, falls on Day 10 and is found on page 55."
+  },
+  {
+    "title": "Lesson 11: What Shape Are You In?",
+    "body": "Unit 1, Lesson 11: What Shape Are You In?, delves into interpreting the visual representation of data, specifically focusing on the 'shape' of distributions, often observed in histograms. Students learn to describe the shape of a data distribution and relate it to measures of 'center' and 'spread'. Understanding these characteristics is fundamental for statistical analysis and making informed interpretations of data. This lesson is part of the 'Food Habits – data' campaign, occurs on Day 11, and is located on page 58."
+  },
+  {
+    "title": "Lesson 12: Exploring Food Habits",
+    "body": "Unit 1, Lesson 12: Exploring Food Habits, reinforces the concepts of data visualization using the 'Food Habits – data' campaign. This lesson focuses on exploring data through both single-variable plots (like dot plots and histograms) and multi-variable plots. This helps students understand how to visualize and analyze different aspects of a dataset, comparing variables and identifying relationships. This lesson falls on Day 12 and is found on page 60."
+  },
+  {
+    "title": "Lesson 13: RStudio Basics",
+    "body": "Unit 1, Lesson 13: RStudio Basics, introduces students to a powerful integrated development environment (IDE) for statistical computing and graphics, RStudio. This lesson provides an introduction to the RStudio interface and its basic functionalities. Familiarity with RStudio is essential for conducting data analysis using the R programming language, a core skill in data science. This lesson is part of the 'Food Habits – data' campaign, occurs on Day 13, and is located on page 62."
+  },
+  {
+    "title": "Lab 1A: Data, Code & RStudio",
+    "body": "Unit 1, Lab 1A: Data, Code & RStudio, provides hands-on practice with the concepts introduced in Lesson 13. Students will apply their initial knowledge of RStudio by working with data and writing basic code. This lab is crucial for building practical skills in using RStudio for data science tasks. It is associated with the 'Food Habits – data' campaign, falls on Day 14, and can be found on page 65."
+  },
+  {
+    "title": "Lab 1B: Get the Picture?",
+    "body": "Unit 1, Lab 1B: Get the Picture?, focuses on practical data visualization techniques within the context of the 'Food Habits – data' campaign. Students will explore different types of variables and learn to create and interpret visualizations such as bar graphs and histograms. This lab reinforces the importance of choosing appropriate plots for different types of data and for answering specific questions. This lab occurs on Day 15+ and is located on page 68."
+  },
+  {
+    "title": "Lab 1C: Export, Upload, Import",
+    "body": "Unit 1, Lab 1C: Export, Upload, Import, addresses a critical skill in data science: data management. This lab focuses specifically on the process of importing data into RStudio from various sources. Efficiently importing data is a necessary first step for any data analysis workflow. This lab is associated with the 'Food Habits – data' campaign, occurs on Day 16, and can be found on page 71."
+  },
+  {
+    "title": "Lesson 14: Variables, Variables, Variables",
+    "body": "Unit 1, Lesson 14: Variables, Variables, Variables, revisits the concept of variables, with a particular emphasis on multi-variable plots. This lesson explores how to visualize and analyze relationships between two or more variables simultaneously. Understanding multi-variable plots is essential for uncovering complex patterns and correlations within datasets. This lesson occurs on Day 17 and is located on page 75."
+  },
+  {
+    "title": "Lab 1D: Zooming Through Data",
+    "body": "Unit 1, Lab 1D: Zooming Through Data, introduces the concept of 'subsetting' in data analysis. Subsetting involves selecting specific portions or subsets of a dataset based on certain criteria. This is a fundamental technique for isolating relevant data for focused analysis or visualization. This lab is associated with the 'Food Habits' theme, occurs on Day 18, and can be found on page 79."
+  },
+  {
+    "title": "Lab 1E: What's the Relationship?",
+    "body": "Unit 1, Lab 1E: What's the Relationship?, continues the exploration of multi-variable plots introduced in Lesson 14. This lab provides practical experience in visualizing and interpreting the relationships between multiple variables. By analyzing these relationships, students can gain deeper insights into the data and identify potential associations or correlations. This lab occurs on Day 19 and is located on page 83."
+  },
+  {
+    "title": "Practicum 1: The Data Cycle & My Food Habits",
+    "body": "Unit 1, Practicum 1: The Data Cycle & My Food Habits, serves as an integrated application of concepts learned in the first half of the unit. Using the 'Food Habits' dataset, students will revisit the data cycle, applying it to their own context. The practicum emphasizes understanding and analyzing variability within the collected food habit data. This practicum occurs on Day 20 and is found on page 86, followed by Practicum Presentations on Day 21."
+  },
+  {
+    "title": "Lesson 15: Americans’ Time on Task",
+    "body": "Unit 1, Lesson 15: Americans’ Time on Task, initiates the 'Would You Look at the Time?' theme by focusing on evaluating claims using data. This lesson uses the 'Time Use – data' campaign to teach students how to critically assess information presented in media or other sources, determining if the claims are supported by data. This lesson is crucial for developing critical thinking skills in the context of data science. It occurs on Day 22^ and is located on page 89."
+  },
+  {
+    "title": "Lab 1F: A Diamond In the Rough",
+    "body": "Unit 1, Lab 1F: A Diamond In the Rough, is a practical data cleaning exercise within the 'Time Use – data' campaign. This lab focuses on common data cleaning tasks, specifically addressing the refinement of names, categories, and strings within a dataset. Clean data is essential for accurate analysis, making this a vital skill for any data scientist. This lab occurs on Day 23 and is found on page 94."
+  },
+  {
+    "title": "Lesson 16: Categorical Associations",
+    "body": "Unit 1, Lesson 16: Categorical Associations, transitions into the analysis of categorical data using the 'Time Use – data' campaign. This lesson introduces the concept of 'joint relative frequencies' within two-way tables. Two-way tables are used to examine the relationship between two categorical variables, and understanding joint frequencies helps in quantifying these associations. This lesson falls on Day 24 and is located on page 99."
+  },
+  {
+    "title": "Lesson 17: Interpreting Two-Way Tables",
+    "body": "Unit 1, Lesson 17: Interpreting Two-Way Tables, builds upon the previous lesson by further analyzing the relationships between categorical variables in two-way tables, using the 'Time Use – data' campaign. This lesson introduces 'marginal relative frequencies' and 'conditional relative frequencies'. These measures provide different perspectives on the associations between variables, enabling more nuanced interpretations of categorical data. This lesson occurs on Day 25 and is found on page 101."
+  },
+  {
+    "title": "Lab 1G: What's the FREQ?",
+    "body": "Unit 1, Lab 1G: What's the FREQ?, provides hands-on experience with two-way tables and data tabulation, related to the 'Time Use – data' campaign. Students will practice creating and interpreting two-way tables and using tally methods to summarize data. This lab reinforces the concepts of categorical data analysis and the calculation of frequencies, which are fundamental for understanding associations between variables. This lab occurs on Day 26+ and is located on page 106."
+  },
+  {
+    "title": "Practicum 2: Teen Depression",
+    "body": "Unit 1, Practicum 2: Teen Depression, uses the 'Time Use' dataset to apply the principles of statistical analysis. This practicum focuses on formulating a relevant 'statistical question' concerning teen depression and then interpreting data plots to address that question. It bridges the gap between theoretical knowledge and practical application in analyzing social phenomena. This practicum occurs on Day 27, followed by Practicum Presentations on Day 28, and is found on page 109."
+  },
+  {
+    "title": "Lab 1H: Our Time",
+    "body": "Unit 1, Lab 1H: Our Time, serves as a concluding activity for the 'Would You Look at the Time?' theme, focusing on data synthesis. This lab involves applying the 'data cycle' concepts previously learned and integrating them into a cohesive analysis. It encourages students to bring together different skills acquired throughout the unit to understand and interpret data related to time use. This lab occurs on Days 29-30 and is located on page 111."
+  },
+  {
+    "title": "Vocabulary: Data",
+    "body": "Data refers to facts, statistics, or information, often in the form of numbers or text, that are collected and analyzed to provide insights or support decisions. In Unit 1, data is presented as the fundamental building block of data science, emphasizing that it can be found everywhere in our daily lives. Understanding what constitutes data is the first step in the data science process."
+  },
+  {
+    "title": "Vocabulary: Consumer Privacy",
+    "body": "Consumer privacy relates to the right of individuals to control their personal information and how it is collected, used, and shared. In Unit 1, Lesson 1: Data Trails, consumer privacy is highlighted as a critical consideration when discussing the data generated by individuals' online and offline activities. It raises awareness about the ethical implications of data collection."
+  },
+  {
+    "title": "Vocabulary: Data Collection",
+    "body": "Data collection is the process of gathering and measuring information on targeted variables in an established systematic fashion, so that one can answer relevant questions and evaluate outcomes. Unit 1 introduces various methods of data collection, including direct observation, surveys, and participatory sensing, emphasizing its importance in the data cycle."
+  },
+  {
+    "title": "Vocabulary: Data Structures",
+    "body": "Data structures are ways of organizing and storing data so that it can be accessed and manipulated efficiently. In Unit 1, Lesson 3: Data Structures, the focus is on basic structures like rows and columns, which are fundamental to understanding how data is typically arranged in tables and spreadsheets for analysis."
+  },
+  {
+    "title": "Vocabulary: Variables",
+    "body": "Variables are characteristics or attributes that can be measured or controlled in a study. In Unit 1, variables are introduced as the components that make up a dataset, typically represented in columns. They can be numerical (quantitative) or categorical (qualitative) and are central to data analysis."
+  },
+  {
+    "title": "Vocabulary: Data Cycle",
+    "body": "The data cycle describes the process data goes through from its creation to its eventual use or archiving. Unit 1 introduces the data cycle as a framework encompassing stages like question formulation, data collection, data analysis, and interpretation/communication. It's a core concept applied throughout the unit."
+  },
+  {
+    "title": "Vocabulary: Statistical Questions",
+    "body": "A statistical question is a question that anticipates variability in the data related to the question and that can be answered only by data. Unit 1, particularly Lesson 4 and 5, emphasizes the importance of formulating good statistical questions to guide the data science process effectively."
+  },
+  {
+    "title": "Vocabulary: Variability",
+    "body": "Variability refers to the natural differences or inconsistencies observed within a dataset. Unit 1 introduces variability as a key characteristic of data, essential for understanding the range of values and making accurate statistical inferences. It means that data points are not all the same."
+  },
+  {
+    "title": "Vocabulary: Participatory Sensing",
+    "body": "Participatory sensing is a method of data collection where individuals actively contribute data, often using mobile devices or sensors. Unit 1, Lesson 7: Setting the Stage, introduces this concept as a modern approach to gathering real-world data."
+  },
+  {
+    "title": "Vocabulary: Dot Plots",
+    "body": "Dot plots are a simple type of data visualization that displays data points as dots over a horizontal axis. Unit 1, Lesson 8: Tangible Plots, introduces dot plots as a way to visualize the distribution, minimum, maximum, and frequency of data values."
+  },
+  {
+    "title": "Vocabulary: Frequency",
+    "body": "Frequency refers to the number of times a particular value or category appears in a dataset. In Unit 1, frequency is discussed in the context of data visualization, such as in dot plots and histograms, to understand the distribution of data."
+  },
+  {
+    "title": "Vocabulary: Typical Value / Center",
+    "body": "The typical value, or center, of a dataset refers to a measure that represents the central tendency of the data. Unit 1, Lesson 9: What Is Typical?, introduces this concept as a key characteristic used to summarize and understand datasets."
+  },
+  {
+    "title": "Vocabulary: Histograms",
+    "body": "Histograms are graphical representations of the distribution of numerical data. Unit 1, Lesson 10: Making Histograms, teaches students how to create and interpret histograms, which group data into bins to show frequency."
+  },
+  {
+    "title": "Vocabulary: Bin Widths",
+    "body": "Bin widths are the intervals or ranges used to group data in a histogram. Unit 1, Lesson 10: Making Histograms, highlights the importance of bin width in determining the appearance and interpretation of a histogram."
+  },
+  {
+    "title": "Vocabulary: Shape (of Distribution)",
+    "body": "The 'shape' of a data distribution describes its overall form when visualized, such as symmetric, skewed, or unimodal. Unit 1, Lesson 11: What Shape Are You In?, focuses on interpreting the shape of data distributions to understand central tendency and spread."
+  },
+  {
+    "title": "Vocabulary: Spread",
+    "body": "Spread refers to the extent to which data points in a dataset are dispersed or clustered together. Alongside center and shape, spread is a key characteristic used to describe a data distribution. Unit 1 discusses spread in the context of data interpretation."
+  },
+  {
+    "title": "Vocabulary: Single & Multi-variable Plots",
+    "body": "Single-variable plots visualize one variable at a time (e.g., histograms, dot plots), while multi-variable plots visualize the relationships between two or more variables (e.g., scatter plots). Unit 1, Lesson 12 and Lesson 14, explores both types for comprehensive data analysis."
+  },
+  {
+    "title": "Vocabulary: RStudio",
+    "body": "RStudio is an integrated development environment (IDE) for R, a popular programming language for statistical analysis and graphics. Unit 1 introduces RStudio in Lesson 13: RStudio Basics and Lab 1A: Data, Code & RStudio as a primary tool for data science work."
+  },
+  {
+    "title": "Vocabulary: Subsetting",
+    "body": "Subsetting is the process of selecting a portion of a dataset that meets specific criteria. Unit 1, Lab 1D: Zooming Through Data, introduces subsetting as a fundamental technique for isolating relevant data for analysis."
+  },
+  {
+    "title": "Vocabulary: Variable Types",
+    "body": "Variable types categorize the nature of data, such as numerical (quantitative) or categorical (qualitative). Understanding variable types is crucial for selecting appropriate visualization and analysis methods, as covered in Lab 1B: Get the Picture?."
+  },
+  {
+    "title": "Vocabulary: Bar Graphs",
+    "body": "Bar graphs are used to display and compare categorical data. Each bar represents a category, and the height of the bar indicates the frequency or proportion of data in that category. Bar graphs are introduced in Lab 1B: Get the Picture?."
+  },
+  {
+    "title": "Vocabulary: Importing Data",
+    "body": "Importing data is the process of bringing data from an external source (like a file or database) into a software environment for analysis. Unit 1, Lab 1C: Export, Upload, Import, focuses on the practical skills required for importing data into RStudio."
+  },
+  {
+    "title": "Vocabulary: Evaluating Claims",
+    "body": "Evaluating claims involves critically assessing statements or assertions, particularly those presented in media, by examining the underlying evidence and data. Unit 1, Lesson 15: Americans’ Time on Task, introduces this skill as a core component of data literacy and responsible data interpretation."
+  },
+  {
+    "title": "Vocabulary: Cleaning Data",
+    "body": "Data cleaning is the process of detecting and correcting (or removing) corrupt or inaccurate records from a dataset. Unit 1, Lab 1F: A Diamond In the Rough, provides practical experience in cleaning data, focusing on names, categories, and strings."
+  },
+  {
+    "title": "Vocabulary: Categorical Associations",
+    "body": "Categorical associations refer to the relationships or patterns observed between two or more categorical variables. Unit 1, Lesson 16, introduces the analysis of these associations using two-way tables."
+  },
+  {
+    "title": "Vocabulary: Two-Way Tables",
+    "body": "Two-way tables (also known as contingency tables) are used to display the frequency distribution of variables. They show the relationship between two categorical variables by breaking down the data into cells representing combinations of categories. These are central to Lessons 16, 17, and Lab 1G."
+  },
+  {
+    "title": "Vocabulary: Joint Relative Frequencies",
+    "body": "Joint relative frequencies represent the proportion of the total observations that fall into a specific combination of two categories in a two-way table. Unit 1, Lesson 16, introduces this concept for analyzing categorical associations."
+  },
+  {
+    "title": "Vocabulary: Marginal Relative Frequencies",
+    "body": "Marginal relative frequencies refer to the proportion of observations in a specific category of one variable, irrespective of the other variable's category. They are found in the margins of a two-way table. Unit 1, Lesson 17, covers these frequencies."
+  },
+  {
+    "title": "Vocabulary: Conditional Relative Frequencies",
+    "body": "Conditional relative frequencies describe the proportion of observations within a specific category of one variable, given a specific category of another variable. They are calculated within rows or columns of a two-way table. Unit 1, Lesson 17, explores these for deeper analysis."
+  },
+  {
+    "title": "Vocabulary: Tally",
+    "body": "Tallying is a method of counting occurrences, often used when constructing frequency tables or two-way tables. Lab 1G: What's the FREQ? involves using tally marks to organize and count data, facilitating the creation of tables."
+  },
+  {
+    "title": "Vocabulary: Strings",
+    "body": "In programming and data analysis, strings are sequences of characters, typically representing text. Lab 1F: A Diamond In the Rough, involves cleaning and manipulating strings within datasets."
+  }
+]

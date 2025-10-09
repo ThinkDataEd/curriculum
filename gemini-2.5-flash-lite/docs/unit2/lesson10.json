@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Abstract of Unit 2 Lesson 10",
+    "body": "Unit 2 Lesson 10, 'Marbles, Marbles...', focuses on understanding that random events have variable outcomes, meaning the predicted percentage from probability is not exact but rather an approximation. The lesson aims to solidify students' understanding of converting percentages to proportions. It introduces the concepts of sampling with and without replacement, using a hands-on activity with marbles. Students will simulate drawing marbles from a bag containing 20 of one color and 30 of another, recording results after 10 and then 50 draws. Key vocabulary includes proportion, percentage, event, with replacement, and without replacement. The lesson emphasizes that larger sample sizes tend to yield results closer to the true probability and prepares students for creating their own simulations in Lab 2C."
+  },
+  {
+    "title": "Unit 2 Lesson 10 Objective and Materials",
+    "body": "The primary objective of Unit 2 Lesson 10 is for students to grasp that random events exhibit variability, leading to outcomes where the predicted probability (expressed as a percentage) is an approximation rather than an exact value. Students will also practice the skill of converting percentages into proportions. To facilitate this learning, the required materials include a bag containing 50 marbles for each student team. Within each bag, there should be 20 marbles of one color and 30 marbles of another color. It is noted that marbles can be substituted with similar-sized objects like small blocks if necessary."
+  },
+  {
+    "title": "Vocabulary: Proportion",
+    "body": "Proportion: A proportion is a statement that two ratios (or fractions) are equal. In the context of Unit 2 Lesson 10, proportions are used to represent the relationship between the number of favorable outcomes (e.g., drawing a red marble) and the total number of possible outcomes. For instance, if there are 30 red marbles out of a total of 50, the proportion of red marbles is 30/50. This concept is fundamental to understanding probability and is practiced by students through converting these ratios into percentages."
+  },
+  {
+    "title": "Vocabulary: Percentage",
+    "body": "Percentage: A percentage represents 'parts per 100' or 'for each hundred'. It is a fraction where the denominator is always 100. For example, 60% is equivalent to 60/100 or 0.60. In Unit 2 Lesson 10, students learn to convert proportions, like the ratio of red marbles drawn, into percentages. This helps them interpret the results of their simulations and compare them to theoretical probabilities. Understanding percentages is crucial for describing the likelihood of events in a standardized way."
+  },
+  {
+    "title": "Vocabulary: Event",
+    "body": "Event: An event is defined as a set of possible outcomes that result from a particular experiment or action. In Unit 2 Lesson 10, the experiment involves drawing marbles from a bag. Each individual draw of a marble, noting its color, constitutes an event. For example, drawing a red marble is one possible event, and drawing a blue marble is another. The collection of these individual events over multiple trials helps in understanding probability and the variability of random outcomes."
+  },
+  {
+    "title": "Vocabulary: With Replacement",
+    "body": "With Replacement: Sampling 'with replacement' occurs when a population element can be selected more than one time during a simulation or experiment. In Unit 2 Lesson 10, this means that after a marble is drawn from the bag, its color is recorded, and then the marble is placed back into the bag before the next marble is drawn. This ensures that the total number of marbles and the number of marbles of each color remain constant for each draw, making each draw an independent event. Students practice this method during the lesson's marble activity."
+  },
+  {
+    "title": "Vocabulary: Without Replacement",
+    "body": "Without Replacement: Sampling 'without replacement' means that a population element can be selected only one time. In the context of Unit 2 Lesson 10, this involves drawing a marble from the bag, recording its color, and then *not* putting it back into the bag. The marble is kept aside. This changes the total number of marbles and the composition of colors remaining in the bag for subsequent draws. Consequently, each draw is dependent on the previous draws, as the probabilities change with each marble removed."
+  },
+  {
+    "title": "Essential Concepts: Sampling Methods and Sample Size",
+    "body": "Unit 2 Lesson 10 highlights two key concepts regarding data sampling: 'with replacement' and 'without replacement'. Both methods are used to model real-life sampling situations. The lesson emphasizes that the size of the sample plays a significant role in the accuracy of the results. Specifically, larger samples tend to produce results that are closer to the 'true' or theoretical probability of an event. This principle is demonstrated through the marble-drawing activity, where students compare outcomes from 10 draws versus 50 draws."
+  },
+  {
+    "title": "Unit 2 Lesson 10: Introduction to Simulations",
+    "body": "Unit 2 Lesson 10 builds upon students' prior knowledge of estimating probabilities using simulations, as learned in previous lessons. While Lesson 8 used the RStudio function ```rflip()``` for coin flips and Lesson 9 utilized ```roll_die()``` for dice rolls, this lesson introduces the concept of creating simulations from scratch. This is a preparatory step for upcoming activities, specifically [Lab 2C](lab2c.md), where students will learn to build their own simulation methods. The lesson begins by revisiting the calculation of theoretical probability using a practical example involving marbles."
+  },
+  {
+    "title": "Calculating Theoretical Probability: Marble Example",
+    "body": "In Unit 2 Lesson 10, students are prompted to calculate the theoretical probability of drawing a specific color marble from a bag. The scenario presented is a bag containing 50 marbles, with 20 of one color and 30 of another. The question posed is: What is the probability of drawing a red marble? The expected answer is 30/50, which simplifies to 3/5 or translates to a 60% probability. This exercise serves as a review and a foundation for understanding the concepts of probability and proportions before moving into simulation activities."
+  },
+  {
+    "title": "Converting Proportions to Percentages",
+    "body": "A key skill practiced in Unit 2 Lesson 10 is the conversion of proportions into percentages. After calculating the theoretical probability of drawing a red marble as a proportion (e.g., 30/50), students are asked to share their strategies for converting this into a percentage. This involves understanding that a percentage represents 'parts per hundred'. Students are encouraged to take notes on these strategies in their journals. If necessary, the instructor will review methods for converting fractions to percentages, reinforcing the connection between these two ways of expressing likelihood."
+  },
+  {
+    "title": "Simulating Draws: The Concept of an Event",
+    "body": "Unit 2 Lesson 10 introduces the practical application of probability through simulation using marbles. Students are asked to consider drawing a marble 10 times, recording its color, and replacing it. Each individual draw is defined as an 'event'. A critical question arises: Would the percentage of red marbles drawn in this sample necessarily be exactly the same as the theoretical probability? The anticipated answer is 'no', highlighting the inherent variability in random events. This concept sets the stage for understanding why sample results differ from true probabilities."
+  },
+  {
+    "title": "Hands-on Simulation: Sampling With Replacement (10 Draws)",
+    "body": "In Unit 2 Lesson 10, student teams engage in a hands-on simulation activity using bags of 50 marbles (20 of one color, 30 of another). The first part of the activity involves drawing one marble, recording its color, and then replacing it back into the bag. This process, known as sampling 'with replacement', is repeated 10 times. Students record the color of each marble drawn. This initial simulation aims to provide a small sample size to observe the variability of random outcomes and to calculate preliminary sample proportions."
+  },
+  {
+    "title": "Analyzing Initial Sample Results (10 Draws)",
+    "body": "Following the first 10 draws in Unit 2 Lesson 10's marble simulation (conducted with replacement), students participate in a 'Whip Around'. This involves sharing the number of red marbles each team drew out of their 10 draws. Teams then calculate their corresponding sample proportion (e.g., 7 red marbles out of 10 draws is 7/10 or 0.70, representing a 70% sample percentage). This step allows for immediate comparison of results across different teams and highlights how sample percentages can vary from the true probability."
+  },
+  {
+    "title": "Exploring Variability and True Probability",
+    "body": "Unit 2 Lesson 10 prompts students to discuss why the sample proportions obtained from their initial 10 draws might differ from each other and from the theoretical probability of drawing a red marble (60%). This discussion addresses the fundamental concept that random events are not perfectly predictable on a small scale. The variability observed reinforces that the theoretical probability represents a long-term average, not a guaranteed outcome for every small sample."
+  },
+  {
+    "title": "Hands-on Simulation: Sampling With Replacement (50 Draws)",
+    "body": "To further explore the impact of sample size, students in Unit 2 Lesson 10 continue their marble simulation. After the initial 10 draws, they are instructed to keep drawing marbles, one at a time, with replacement, until they have recorded a total of 50 events. This larger sample size allows for a more robust analysis of the relationship between sample results and theoretical probability. Students record the total number of red marbles drawn out of these 50 attempts."
+  },
+  {
+    "title": "Analyzing Larger Sample Results (50 Draws)",
+    "body": "After completing 50 draws with replacement in Unit 2 Lesson 10, students calculate the new sample proportion. They compare this result to the proportion obtained from only 10 draws and, more importantly, to the true probability of 60%. The key observation reinforced is that as the sample size increases (from 10 to 50 draws), the sample proportion generally gets closer to the true population proportion. This demonstrates the Law of Large Numbers in action."
+  },
+  {
+    "title": "Discussion: Impact of Sample Size",
+    "body": "Unit 2 Lesson 10 culminates in a discussion about how sample size influences the accuracy of probability estimates. Students are guided to recognize that larger sample sizes lead to sample proportions that more closely approximate the true probability. The lesson emphasizes that if the simulation were continued indefinitely ('forever'), the sample proportion would converge to the true probability. This understanding is crucial for interpreting statistical data and the reliability of simulation results."
+  },
+  {
+    "title": "Understanding Sampling Without Replacement",
+    "body": "The lesson concludes by having students consider the implications of sampling 'without replacement' using their marble bags. They are asked how they would perform this. The core understanding is that after drawing a marble, it is *not* returned to the bag. This means the probabilities for subsequent draws change because the total number of marbles and the count of specific colors decrease. Students realize that draws made 'without replacement' are not independent events, as each draw affects the conditions for the next."
+  },
+  {
+    "title": "Unit 2 Lesson 10 Exit Slip",
+    "body": "As an 'Exit Slip' for Unit 2 Lesson 10, students are asked to articulate their understanding of key concepts based on the day's activities. They need to describe what constitutes a 'sample' in the context of the lesson, define what an 'event' is, and explain the meaning of 'replacement' in the context of sampling. This serves as a quick assessment to gauge individual comprehension of the lesson's core ideas before proceeding to subsequent topics."
+  },
+  {
+    "title": "Unit 2 Lesson 10: Class Scribes and Next Steps",
+    "body": "In Unit 2 Lesson 10, one team of students is assigned the role of 'Class Scribes'. Their task is to present a brief summary to the class, highlighting what they identified as the three most important topics covered during the lesson. Following this lesson, students are directed to complete [Lab 2C](lab2c.md), titled 'Which Song Plays Next?'. This lab should be completed *before* starting [Lesson 11](lesson11.md), indicating a progression towards creating more complex simulations."
+  }
+]

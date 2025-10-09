@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Abstract of IDS Unit 1: Essential Concepts",
+    "body": "This document outlines Unit 1: Essential Concepts for an Introduction to Data Science (IDS). It covers foundational topics including the nature of data, how it's collected and organized, and the statistical investigation process. Key lessons introduce data trails, stick figures for data representation, data structures like rectangular formats, and the four stages of the Data Cycle: Consider Data, Collect Data, Analyze Data, and Interpret Data. The unit emphasizes the importance of formulating good statistical questions, the role of participatory sensing in data collection, and the basics of data analysis using tools like RStudio. It also delves into understanding distributions, identifying their shapes, and exploring relationships between variables through visualizations and two-way tables. The concepts are presented through a series of lessons, each focusing on specific aspects of data handling and statistical thinking."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Data Trails",
+    "body": "Data are fundamentally collections of recorded observations. These observations can be gathered through direct human input or via automated sensors. The patterns that emerge from analyzing these data can illuminate previously unrecognized patterns within our world. Data play a significant, and often subtle or unnoticed, role in many aspects of our daily lives."
+  },
+  {
+    "title": "Unit 1 Lesson 2: Stick Figures",
+    "body": "Data are comprised of records detailing specific characteristics of individuals or objects. The way data is organized can significantly impact the ease and effectiveness with which it can be used for various purposes. Different organizational structures serve different needs, making some formats more suitable than others depending on the intended application."
+  },
+  {
+    "title": "Unit 1 Lesson 3: Data Structures",
+    "body": "Variables are used to record values that can change or vary. Organizing data into a rectangular format is highly beneficial for analysis. In this structure, each row represents an observation, allowing us to easily understand the characteristics of that observation by reading across the row. Each column represents a variable, enabling us to see the variability within that specific characteristic by reading down the column. This rectangular format is also easily processed by computers."
+  },
+  {
+    "title": "Unit 1 Lesson 4: The Data Cycle",
+    "body": "A statistical investigation follows a cyclical process involving four key stages: Consider Data, Collect Data, Analyze Data, and Interpret Data. The overarching concept of statistical questions is crucial throughout this process. These questions guide the investigation, driving data collection, analysis, and interpretation. Good statistical questions are characterized by their ability to address variability and their potential to yield productive insights. Data Collection can involve gathering new data through methods like Participatory Sensing or by examining existing datasets to assess their suitability for answering the research questions. Data Analysis typically utilizes computer tools to create visualizations and numerical summaries. Data Interpretation involves using the results of the analysis to answer the initial statistical questions."
+  },
+  {
+    "title": "Unit 1 Lesson 5: What Makes a Good Statistical Question",
+    "body": "Statistical questions often evolve from initial general inquiries into more precise and answerable forms through an iterative process. Dr. Pip Arnold's research identifies six key features of a strong statistical question: 1. Clarity of the variable(s) of interest. 2. Clear definition of the group or population being studied. 3. The question must be answerable using available data. 4. The question should pertain to the entire group, not just an individual or a small subset. 5. The underlying intention of the question should be clear (e.g., seeking a summary, comparison, association, or time series analysis). 6. The question must be worthwhile, interesting, and serve a defined purpose."
+  },
+  {
+    "title": "Unit 1 Lesson 6: Consider Data Stage of the Data Cycle",
+    "body": "Following the formulation of statistical questions, the 'Consider Data' stage of the Data Cycle involves examining and recording data. This step is crucial for evaluating the appropriateness and relevance of the initial questions. It ensures that the data available or to be collected aligns with the investigative goals."
+  },
+  {
+    "title": "Unit 1 Lesson 7: Collect Data Stage of the Data Cycle",
+    "body": "The 'Collect Data' stage of the Data Cycle can involve various methods. Participatory Sensing is one such method, where individuals act as human sensors, collecting data in response to specific 'trigger' events. The reliability of individuals as data collectors is paramount for learning about life patterns through the data gathered."
+  },
+  {
+    "title": "Unit 1 Lesson 8: Analyze Data Stage of the Data Cycle",
+    "body": "Within the 'Analyze Data' stage of the Data Cycle, distributions serve a critical organizational purpose. They present data by detailing (a) the specific values that were observed for a variable and (b) the frequency, or count, of how many times each value occurred. This organization helps in understanding the data's characteristics."
+  },
+  {
+    "title": "Unit 1 Lesson 9: What Is Typical? - Distribution Center",
+    "body": "The concept of the 'center' of a distribution is intentionally kept somewhat vague, serving as a means to address the subjective question of 'What is a typical value?'. This center can be interpreted in a few ways, such as the perceived balancing point of the distribution or a value that divides the distribution's area into two roughly equal halves."
+  },
+  {
+    "title": "Unit 1 Lesson 10: Making Histograms",
+    "body": "Histograms are a visual tool for representing data distributions and can be generated using an algorithm. The shapes of the distributions displayed in histograms can be described using specific technical terms. Understanding how to articulate routine tasks, such as histogram creation, through algorithms is a fundamental aspect of computational thinking."
+  },
+  {
+    "title": "Unit 1 Lesson 11: What Shape Are You In? - Distribution Shape",
+    "body": "Identifying the shape of a histogram is an integral part of the 'Interpret' step within the Data Cycle. Recognizing and describing these shapes allows for a deeper understanding of the data's underlying patterns and characteristics."
+  },
+  {
+    "title": "Unit 1 Lesson 12: Exploring Food Habits - Data Analysis",
+    "body": "Once data has been collected, particularly through methods like Participatory Sensing, tools such as the Dashboard and PlotApp are employed for the 'Analyze Data' step of the Data Cycle. While these tools perform the analysis, human input is still required to specify which plots and analyses are relevant to the statistical questions being investigated."
+  },
+  {
+    "title": "Unit 1 Lesson 13: RStudio Basics",
+    "body": "Interacting with computers for data analysis requires adherence to their specific rules. The computer operates based on a precise syntax, and it can only understand instructions that are communicated in its designated language. Learning this 'language' is essential for effective data manipulation and analysis."
+  },
+  {
+    "title": "Unit 1 Lesson 14: Variables, Variables, Variables - Relationships",
+    "body": "To investigate potential relationships between two or more variables, a common technique is to plot their distributions on the same graph. This allows for a visual comparison and helps in identifying any associations or patterns that exist between them."
+  },
+  {
+    "title": "Unit 1 Lesson 15: Americans’ Time on Task - Examining Analyses",
+    "body": "A crucial skill in statistical thinking involves the ability to critically examine analyses performed by others. This practice allows for a deeper understanding of different approaches and the interpretation of results, contributing to a more robust statistical literacy."
+  },
+  {
+    "title": "Unit 1 Lesson 16: Categorical Associations - Two-Way Tables",
+    "body": "A two-way table is a fundamental tool for summarizing the association or relationship between two categorical variables. Joint relative frequencies, calculated from these tables, address questions about the proportion of observations that exhibit specific combinations of values across the two variables, answering queries like 'what proportion of the people/objects had *this* value on the first variable and *this* value on the second?'"
+  },
+  {
+    "title": "Unit 1 Lesson 17: Interpreting Two-Way Tables - Frequencies",
+    "body": "Interpreting two-way tables involves understanding different types of relative frequencies. Marginal relative frequencies provide insights into the distribution of a single variable, irrespective of the other. Conditional relative frequencies, on the other hand, offer information about the distribution of one variable within specific subsets defined by the values of the other variable, effectively answering questions about one variable 'when' or 'given' a certain condition on the second."
+  }
+]

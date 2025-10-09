@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Abstract for Lab 2I - R's Normal Distribution Alphabet",
+    "body": "This lab, Unit 2 Lab 2I, focuses on understanding and utilizing the normal distribution in R. It builds upon previous labs by reinforcing the visual assessment of data distributions against a normal curve and the observation that the mean of shuffled data often follows a normal distribution. The core objectives are to learn how to simulate random draws from a normal distribution using `rnorm`, calculate probabilities associated with normal distributions using `pnorm`, and determine quantiles for given probabilities using `qnorm`. Practical exercises involve analyzing the `titanic` dataset to examine age differences between survivors and non-survivors, assessing the normality of shuffled data, and calculating extreme probabilities. The lab concludes with a section on simulating normal draws for heights and determining specific quantiles, followed by independent investigations using either the `titanic` or `cdc` datasets to explore gender-based differences in height or age."
+  },
+  {
+    "title": "Introduction to Unit 2 Lab 2I",
+    "body": "This lab, Unit 2 Lab 2I, aims to deepen the understanding of normal distributions using R. Following previous labs where students overlaid normal curves on histograms and observed normally distributed means from random shuffles, this session introduces practical R functions for normal distribution analysis. Key functions covered include `rnorm` for simulating random draws from a normal distribution, `pnorm` for calculating probabilities, and `qnorm` for determining quantities based on probabilities. The lab will guide students through analyzing the `titanic` dataset to investigate age differences and will also include exercises on simulating data and calculating extreme probabilities, with a focus on interpreting the results in the context of statistical significance."
+  },
+  {
+    "title": "Setup and Initial Analysis in Unit 2 Lab 2I",
+    "body": "In Unit 2 Lab 2I, the setup begins with loading the `titanic` dataset. Students are instructed to calculate the `mean` `age` after shuffling the `survival` status 500 times, assigning the result to a variable named `shfls`. Subsequently, the `mutate` function is used to add a new variable called `diff` to this dataset. This `diff` variable represents the difference between the `mean` `age` of survivors and the `mean` `age` of non-survivors. Finally, students calculate and assign the `mean` and `sd` of the `diff` variable to `diff_mean` and `diff_sd` respectively. This initial setup prepares the data for assessing the normality of the age difference and its distribution."
+  },
+  {
+    "title": "Assessing Normality of 'diff' in Unit 2 Lab 2I",
+    "body": "Unit 2 Lab 2I requires an assessment of the `diff` variable, calculated from shuffled `titanic` data, to determine if its distribution is approximately normal. Students must explain their reasoning based on visual inspection or statistical properties. Furthermore, they need to describe the center and spread of this `diff` distribution. A crucial step involves computing and recording the actual mean difference in age between survivors and non-survivors from the original `titanic` data. This actual difference will later be compared to the `diff_mean` derived from the shuffles to gauge the significance of the observed difference."
+  },
+  {
+    "title": "Using the Normal Model for Probability Estimation in Unit 2 Lab 2I",
+    "body": "Given that the `diff` variable in Unit 2 Lab 2I appears normally distributed, the lab guides students to use a normal model for probability estimation. They are asked to sketch a normal curve, marking the `diff_mean` (from shuffles) and the actual age difference (from original data). The area under the curve *smaller* than the actual difference should be shaded. To quantify this, students will use the `pnorm` function: `pnorm(____, mean = diff_mean, sd = diff_sd)`. This calculation estimates the probability of observing an age difference as small as or smaller than the actual observed difference purely by chance."
+  },
+  {
+    "title": "Calculating Extreme Probabilities with pnorm in Unit 2 Lab 2I",
+    "body": "Unit 2 Lab 2I explains how to use the normal model to estimate extreme probabilities. After calculating the probability of a smaller difference, students learn to calculate the probability of a *larger* difference occurring than the actual observed one. This is achieved by using the complement rule with `pnorm`. The formula provided is `1 - pnorm(____, mean = diff_mean, sd = diff_sd)`. This calculation estimates the likelihood of observing an age difference as large as or larger than the actual observed difference by chance alone, based on the distribution of shuffled data."
+  },
+  {
+    "title": "Simulating Normal Draws with rnorm in Unit 2 Lab 2I",
+    "body": "In Unit 2 Lab 2I, students learn to simulate random draws from a normal distribution using the `rnorm` function. They are tasked with simulating 100 heights for randomly chosen men, assuming a `mean` height of 67 inches and a `standard deviation` of 3 inches. The code to be completed is `draws <- rnorm(____, mean = ____, sd = ____)`. This exercise demonstrates how to generate data that follows a specified normal distribution, which is a fundamental tool for statistical modeling and simulation."
+  },
+  {
+    "title": "Visualizing Simulated Data with histogram in Unit 2 Lab 2I",
+    "body": "Following the simulation of random heights using `rnorm` in Unit 2 Lab 2I, students are required to visualize the simulated data. They will use the `histogram` function to plot the `draws` variable. The instruction is to fill in the blank for the `fit` argument: `histogram(draws, fit = ____)`. This step helps in visually confirming that the simulated data approximates a normal distribution, reinforcing the concept of the normal curve as a model for such data."
+  },
+  {
+    "title": "Using qnorm for Quantile Calculation in Unit 2 Lab 2I",
+    "body": "Unit 2 Lab 2I introduces the `qnorm` function, which performs the inverse of `pnorm`. While `pnorm` calculates probabilities for given values, `qnorm` calculates the value (quantity) corresponding to a given probability. The lab poses a practical question: 'How tall can a man be and still be in the shortest 25% of heights if the mean height is 67 inches with a standard deviation of 3 inches?' Students must complete the `qnorm` function: `qnorm(____, mean = ____, sd = ____)` to find this height, demonstrating the application of 'Q' norm for finding quantiles."
+  },
+  {
+    "title": "Vocabulary: mean",
+    "body": "In the context of Unit 2 Lab 2I, the `mean` refers to the arithmetic average of a set of numbers. It is a measure of central tendency. In this lab, the `mean` is used to calculate the average age of individuals within the `titanic` dataset, both for the entire group and for subgroups like survivors and non-survivors. It is also a key parameter for normal distributions, representing the center of the distribution. The calculation typically involves summing all values in a dataset and dividing by the number of values."
+  },
+  {
+    "title": "Vocabulary: shuffle",
+    "body": "In Unit 2 Lab 2I, `shuffle` refers to the process of randomly reordering or permuting the values of a variable within a dataset. This technique is employed to break any existing association between variables, allowing for the assessment of whether an observed relationship (like the age difference between survivors and non-survivors) is likely due to chance or a real effect. By repeatedly shuffling a variable (e.g., `survival` status) and recalculating a statistic (e.g., the difference in `mean` `age`), one can generate a distribution of null-hypothesis results against which the actual observed statistic can be compared."
+  },
+  {
+    "title": "Vocabulary: R functions (mutate, rnorm, pnorm, qnorm)",
+    "body": "This chunk defines key R functions used in Unit 2 Lab 2I. `mutate` is a function from the `dplyr` package used to add new variables to a data frame or modify existing ones. `rnorm` generates random deviates from a normal distribution, requiring arguments for the number of draws, `mean`, and `sd`. `pnorm` calculates the cumulative probability (P-value) up to a specified value in a normal distribution, given its `mean` and `sd`. `qnorm` performs the inverse operation, returning the value (quantile) at which a specified cumulative probability occurs for a normal distribution with a given `mean` and `sd`."
+  },
+  {
+    "title": "Vocabulary: sd (standard deviation)",
+    "body": "In Unit 2 Lab 2I, `sd` stands for standard deviation. It is a measure of the amount of variation or dispersion in a set of values. A low standard deviation indicates that the values tend to be close to the mean of the set, while a high standard deviation indicates that the values are spread out over a wider range. In this lab, `sd` is used both to describe the spread of the `diff` variable (calculated from shuffled data) and as a parameter for the normal distribution functions (`rnorm`, `pnorm`, `qnorm`)."
+  },
+  {
+    "title": "Vocabulary: histogram",
+    "body": "In Unit 2 Lab 2I, a `histogram` is a graphical representation of the distribution of numerical data. It is an estimate of the probability distribution of a continuous variable. The data is divided into a series of intervals (bins), and the height of each bar in the histogram represents the frequency or proportion of data points that fall into that interval. Histograms are used in this lab to visually assess whether a dataset's distribution approximates a normal distribution."
+  },
+  {
+    "title": "Vocabulary: titanic data",
+    "body": "The `titanic` data is a dataset used in Unit 2 Lab 2I that contains information about passengers aboard the Titanic. It typically includes variables such as age, survival status, class, sex, and fare. This dataset is commonly used in introductory statistics and data science examples to illustrate concepts like data manipulation, visualization, and hypothesis testing. In this lab, it's used to explore age differences between groups and assess the normality of these differences through simulation."
+  },
+  {
+    "title": "Vocabulary: cdc data",
+    "body": "The `cdc` data is a dataset often used in statistical contexts, likely derived from the Centers for Disease Control and Prevention. It typically contains health-related information, such as height, weight, and demographic details for a sample population. In Unit 2 Lab 2I, this dataset is presented as an alternative for independent investigation, specifically for exploring potential differences in height between males and females and analyzing the statistical significance of these differences using methods learned in the lab."
+  },
+  {
+    "title": "Independent Investigation 1: Titanic Age Differences (Unit 2 Lab 2I)",
+    "body": "In Unit 2 Lab 2I, one of the independent investigations involves using the `titanic` data to answer the question: 'Were women on the Titanic typically younger than men?'. To address this, students are instructed to write and run R code that utilizes a `histogram` to visualize the relevant age distribution, performs 500 random `shuffles` (likely shuffling gender status against age differences), and employs a `normal model` for analysis. This approach allows for the statistical assessment of whether any observed age difference between genders is significant or could have occurred by chance."
+  },
+  {
+    "title": "Independent Investigation 2: CDC Height Differences (Unit 2 Lab 2I)",
+    "body": "Unit 2 Lab 2I offers an independent investigation using the `cdc` data. The first part asks: 'How much taller would the typical male have to be than the typical female in order for the difference to be in the upper 1% by chance alone?'. This requires using 500 random `shuffles` and a `normal model` to determine the threshold difference. Students will likely use functions like `rnorm` or `pnorm`/`qnorm` in conjunction with simulated differences to find this value. This step quantifies the magnitude of difference needed to be considered statistically significant at the 1% level."
+  },
+  {
+    "title": "Independent Investigation 3: Justifying Height Claims (Unit 2 Lab 2I)",
+    "body": "Continuing the independent investigation with the `cdc` data in Unit 2 Lab 2I, the second part asks: 'How can we use this value [from the previous question regarding the upper 1% height difference] to justify the claim that the average `Male` in our data is taller than the average `Female`?'. This involves comparing the actual observed mean height difference between males and females in the `cdc` dataset to the threshold calculated in the previous step. If the actual difference exceeds the threshold (i.e., falls within the extreme upper percentile), it provides statistical evidence to support the claim that males are, on average, taller than females in the dataset."
+  }
+]

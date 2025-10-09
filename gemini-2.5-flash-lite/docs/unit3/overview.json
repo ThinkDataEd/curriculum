@@ -1,0 +1,150 @@
+[
+  {
+    "title": "Abstract of Unit 3: Data Science Overview",
+    "body": "Unit 3 of the Data Science curriculum focuses on understanding and collecting data, with a strong emphasis on experimental design, observational studies, surveys, and data from the internet. The unit is divided into several themes: 'Testing, Testing… 1, 2, 3…' (7 days) covers critical reading of articles, the nature of experiments, randomization, confounding factors, and predictions. 'Would You Look at That?' (4 days) delves into observational studies, distinguishing them from experiments, and identifying confounding factors within observational data. 'Are You Asking Me?' (9 days) explores surveys, random sampling techniques, sampling bias, confidence intervals, margin of error, and bootstrapping, culminating in a practicum on survey design. 'What's the Trigger?' (5 days) introduces participatory sensing, sensor data, and the creation and evaluation of a participatory sensing campaign. Finally, 'Webpages' (5 days) covers online data collection, web scraping, using internet data to create maps, and understanding data formats like XML. The unit concludes with an 'End of Unit Project' (5 days) where students analyze their own campaign data. Key concepts include distinguishing between correlation and causation, understanding bias, and applying statistical methods to real-world data."
+  },
+  {
+    "title": "Unit 3 Daily Overview: Testing, Testing… 1, 2, 3…",
+    "body": "This section covers the first seven days of Unit 3, focusing on experimental design and data analysis. Unit 3 Lesson 1 introduces critical reading of articles and the role of data. Unit 3 Lesson 2 defines what an experiment is and the concept of causation. Unit 3 Lesson 3 delves into conducting experiments, emphasizing random assignments and identifying confounding factors. Unit 3 Lesson 4 focuses on making predictions using data visualizations. Unit 3 Lesson 5 provides a practical example with the Time Perception Experiment, detailing the elements of an experiment. Unit 3 Lab 3A, 'The results are in!', involves analyzing experiment data. The week concludes with Unit 3 Practicum: TB or Not TB, which uses simulation with experiment data. This segment lays the foundation for understanding how to collect and interpret data from controlled studies, highlighting the importance of proper methodology to establish causal relationships."
+  },
+  {
+    "title": "Unit 3 Daily Overview: Would You Look at That?",
+    "body": "This part of Unit 3 spans four days and concentrates on observational studies. Unit 3 Lesson 6 defines and explores observational studies. Unit 3 Lesson 7 compares observational studies with experiments, clarifying their differences and applications. Unit 3 Lesson 8, 'Monsters that Hide in Observational Studies', highlights potential pitfalls, particularly confounding factors, within observational data. Unit 3 Lab 3B, 'Confound It All!', provides hands-on experience in identifying and addressing confounding factors. This section emphasizes the challenges in drawing causal conclusions from observational data due to the potential influence of unmeasured variables."
+  },
+  {
+    "title": "Unit 3 Daily Overview: Are You Asking Me?",
+    "body": "This is a substantial segment of Unit 3, lasting nine days, and it centers on survey methodology and statistical inference. It begins with Unit 3 Lesson 9, 'Survey Says…', introducing the concept of surveys. Unit 3 Lesson 10, 'We’re So Random', focuses on data collection and the importance of random samples. Unit 3 Lesson 11, 'The Gettysburg Address', examines sampling bias. Unit 3 Lab 3C, 'Random Sampling', provides practical experience with random sampling techniques. Unit 3 Lesson 12, 'Bias in Survey Sampling', delves deeper into various types of bias that can affect survey results. Unit 3 Lesson 13, 'The Confidence Game', introduces confidence intervals as a way to quantify uncertainty. Unit 3 Lesson 14, 'How Confident Are You?', further explores confidence intervals and the concept of margin of error. Unit 3 Lab 3D, 'Are You Sure about That?', introduces bootstrapping for estimating confidence intervals. The section concludes with Unit 3 Practicum: Let’s Build a Survey!, where students design their own surveys, focusing on creating non-leading questions."
+  },
+  {
+    "title": "Unit 3 Daily Overview: What's the Trigger?",
+    "body": "This segment of Unit 3, spanning five days, introduces participatory sensing and campaign creation. Unit 3 Lesson 15, 'Ready, Sense, Go!', focuses on sensors and data collection methods. Unit 3 Lesson 16, 'Does it have a Trigger?', discusses the types of survey questions suitable for sensors and data collection. Unit 3 Lesson 17, 'Creating Our Own Participatory Sensing Campaign', guides students through the process of designing a campaign. Unit 3 Lesson 18, 'Evaluating Our Own Participatory Sensing Campaign', focuses on formulating statistical questions and evaluating the effectiveness of a campaign. Unit 3 Lesson 19, 'Implementing Our Own Participatory Sensing Campaign', involves a mock implementation of a campaign, emphasizing data collection and campaign creation. This part of the unit encourages students to think about how data can be collected from the environment and communities using technology."
+  },
+  {
+    "title": "Unit 3 Daily Overview: Webpages",
+    "body": "The 'Webpages' segment of Unit 3 covers five days and focuses on collecting and manipulating data found online. Unit 3 Lesson 20, 'Online Data-ing', explores various forms of data available on the internet. Unit 3 Lab 3E, 'Scraping Web Data', provides practical skills in extracting data from websites. Unit 3 Lab 3F, 'Maps', teaches how to visualize and create maps using data obtained from the internet. Unit 3 Lesson 21, 'Learning to Love XML', introduces XML as a data storage format. Unit 3 Lesson 22, 'Changing Format', covers techniques for converting data, specifically focusing on converting XML files. This section equips students with tools for accessing and processing publicly available online data."
+  },
+  {
+    "title": "Unit 3 End of Unit Project",
+    "body": "The Unit 3 End of Unit Project, spanning five days (Day 31-36), provides a comprehensive application of the concepts learned throughout the unit. Under the theme 'Class Campaign', students will engage in analyzing their own collected data. The project involves formulating statistical questions relevant to their campaign and applying the analytical techniques learned in previous lessons to interpret the results. This culminating project allows students to demonstrate their understanding of data collection, experimental design, observational studies, survey methods, and data analysis in a practical, self-directed manner, reinforcing the skills necessary for conducting meaningful data science investigations."
+  },
+  {
+    "title": "Lesson 1: Anecdotes vs. Data",
+    "body": "Unit 3 Lesson 1, titled 'Anecdotes vs. Data', focuses on the critical evaluation of information, distinguishing between personal stories (anecdotes) and evidence-based data. This lesson emphasizes the importance of reading articles critically, understanding the source of information, and recognizing when claims are supported by robust data versus anecdotal evidence. It lays the groundwork for the unit by highlighting the need for reliable data in making informed conclusions, a fundamental skill in data science."
+  },
+  {
+    "title": "Lesson 2: What is an Experiment?",
+    "body": "Unit 3 Lesson 2, 'What is an Experiment?', introduces the fundamental concept of an experiment in the context of data science. This lesson defines what constitutes an experiment and explores the critical idea of causation – establishing whether one variable directly influences another. Understanding the principles of experimental design is crucial for drawing valid conclusions about cause-and-effect relationships, which is a key objective of this lesson."
+  },
+  {
+    "title": "Lesson 3: Let’s Try an Experiment!",
+    "body": "Unit 3 Lesson 3, 'Let’s Try an Experiment!', moves from theory to practice by guiding students through the process of conducting an experiment. Key elements covered include the importance of random assignments to different groups (e.g., treatment vs. control) and the identification of confounding factors – variables that could influence the outcome and potentially distort the results. This lesson provides practical steps for designing and executing simple experiments."
+  },
+  {
+    "title": "Lesson 4: Predictions, Predictions",
+    "body": "In Unit 3 Lesson 4, 'Predictions, Predictions', the focus shifts to using data to forecast future outcomes. This lesson explores the role of visualizations in understanding data patterns and making informed predictions. By examining how data can be represented graphically, students learn to identify trends and relationships that can be extrapolated to make predictions, a vital skill in applied data science."
+  },
+  {
+    "title": "Lesson 5: Time Perception Experiment",
+    "body": "Unit 3 Lesson 5, 'Time Perception Experiment', provides a concrete example of experimental design. This lesson details the essential elements that constitute a well-designed experiment, likely using time perception as a case study. By dissecting a real or hypothetical experiment, students can better grasp the practical application of concepts like control groups, variables, and measurement techniques discussed in earlier lessons."
+  },
+  {
+    "title": "Lab 3A: The results are in!",
+    "body": "Unit 3 Lab 3A, 'The results are in!', is dedicated to the analysis of data collected from experiments. Following the practical examples and design principles covered in the preceding lessons, this lab provides students with hands-on experience in interpreting experimental outcomes. The focus is on drawing meaningful conclusions from the collected data, understanding statistical significance, and reporting findings accurately."
+  },
+  {
+    "title": "Practicum: TB or Not TB",
+    "body": "The 'TB or Not TB' practicum in Unit 3 serves as an application of experimental data analysis, specifically involving simulations. This activity likely utilizes data generated from or related to experiments, potentially exploring diagnostic testing scenarios. By engaging in simulations, students can explore the implications of different experimental parameters and data characteristics, reinforcing their understanding of how experimental results can be used in practical decision-making contexts."
+  },
+  {
+    "title": "Lesson 6: Observational Studies",
+    "body": "Unit 3 Lesson 6, 'Observational Studies', introduces a different approach to data collection and analysis. Unlike experiments, observational studies involve observing subjects and measuring variables of interest without assigning treatments or interventions. This lesson defines what an observational study is and provides examples, setting the stage for understanding its strengths and limitations compared to experimental methods."
+  },
+  {
+    "title": "Lesson 7: Observational Studies vs. Experiments",
+    "body": "Unit 3 Lesson 7, 'Observational Studies vs. Experiments', directly compares these two fundamental research methodologies. This lesson clarifies the distinct characteristics, advantages, and disadvantages of each approach. Understanding when to use an observational study versus an experiment is crucial for researchers to choose the most appropriate method for their research question and to avoid drawing incorrect conclusions, particularly regarding causation."
+  },
+  {
+    "title": "Lesson 8: Monsters that Hide in Observational Studies",
+    "body": "Unit 3 Lesson 8, 'Monsters that Hide in Observational Studies', delves into the potential pitfalls of observational research, with a primary focus on confounding factors. Confounding variables are those that are related to both the exposure and the outcome, potentially creating a spurious association or masking a true one. This lesson teaches students how to identify these 'monsters' and understand their impact on the validity of findings from observational studies."
+  },
+  {
+    "title": "Lab 3B: Confound It All!",
+    "body": "Unit 3 Lab 3B, 'Confound It All!', provides a practical, hands-on experience in dealing with confounding factors, which are a major challenge in observational studies. Students likely work with datasets where confounding variables are present and learn techniques to identify, measure, and potentially control for their effects. This lab aims to equip students with strategies to mitigate the impact of confounders and improve the reliability of conclusions drawn from observational data."
+  },
+  {
+    "title": "Lesson 9: Survey Says…",
+    "body": "Unit 3 Lesson 9, 'Survey Says…', introduces the widely used data collection method of surveys. This lesson explains the purpose and basic principles of conducting surveys to gather information from a target population. It covers the foundational aspects of survey design and administration, setting the stage for more detailed discussions on sampling and potential biases in subsequent lessons."
+  },
+  {
+    "title": "Lesson 10: We’re So Random",
+    "body": "Unit 3 Lesson 10, 'We’re So Random', focuses on the critical concept of random sampling in data collection. This lesson explains why random sampling is essential for obtaining a representative sample of a population and how it helps to minimize selection bias. Students learn about different methods of random sampling and their implications for the generalizability of survey results."
+  },
+  {
+    "title": "Lesson 11: The Gettysburg Address",
+    "body": "Unit 3 Lesson 11, 'The Gettysburg Address', uses this historical speech as a case study to illustrate the concept of sampling bias. By analyzing how samples are selected (or not selected properly), students learn how biases can be introduced into data collection processes. This lesson highlights the importance of careful consideration in sampling to ensure that the collected data accurately reflects the population of interest."
+  },
+  {
+    "title": "Lab 3C: Random Sampling",
+    "body": "Unit 3 Lab 3C, 'Random Sampling', provides students with practical experience in implementing random sampling techniques. This lab likely involves hands-on exercises where students learn to draw random samples from a given dataset or population using various methods. The goal is to solidify their understanding of how to apply random sampling principles in practice and its effect on data representativeness."
+  },
+  {
+    "title": "Lesson 12: Bias in Survey Sampling",
+    "body": "Unit 3 Lesson 12, 'Bias in Survey Sampling', delves deeper into the various forms of bias that can occur during the survey sampling process. This lesson expands on the concept of sampling bias introduced earlier, covering potential issues like non-response bias, convenience sampling, and undercoverage. Understanding these biases is crucial for designing effective surveys and interpreting their results accurately."
+  },
+  {
+    "title": "Lesson 13: The Confidence Game",
+    "body": "Unit 3 Lesson 13, 'The Confidence Game', introduces the statistical concept of confidence intervals. This lesson explains what a confidence interval represents – a range of values that is likely to contain an unknown population parameter. It helps students understand how to interpret the uncertainty associated with sample statistics and provides a foundation for quantifying the reliability of estimates derived from sample data."
+  },
+  {
+    "title": "Lesson 14: How Confident Are You?",
+    "body": "Unit 3 Lesson 14, 'How Confident Are You?', builds upon the concept of confidence intervals by exploring related ideas such as the margin of error. This lesson likely involves calculations and interpretations related to confidence intervals, helping students understand how factors like sample size and variability affect the precision of their estimates. It reinforces the idea that statistical conclusions are often expressed with a degree of confidence."
+  },
+  {
+    "title": "Lab 3D: Are You Sure about That?",
+    "body": "Unit 3 Lab 3D, 'Are You Sure about That?', introduces bootstrapping as a resampling method used to estimate confidence intervals. Bootstrapping involves repeatedly drawing samples with replacement from the observed data to build a distribution of a statistic. This lab provides practical experience in applying this technique, allowing students to estimate the variability and confidence intervals for various statistics without relying on traditional parametric assumptions."
+  },
+  {
+    "title": "Practicum: Let’s Build a Survey!",
+    "body": "The 'Let’s Build a Survey!' practicum in Unit 3 is a capstone activity focused on practical survey design. Students are tasked with creating their own surveys, with a strong emphasis on formulating non-leading questions that elicit unbiased responses. This hands-on experience integrates the concepts of sampling, question design, and bias awareness learned throughout the survey-focused lessons, preparing students to conduct their own effective surveys."
+  },
+  {
+    "title": "Lesson 15: Ready, Sense, Go!",
+    "body": "Unit 3 Lesson 15, 'Ready, Sense, Go!', introduces the concept of sensors and their role in data collection, particularly in the context of participatory sensing. This lesson explores how various sensors can capture real-world information and the types of data they generate. It serves as an introduction to using technology to gather data from the environment and human activities."
+  },
+  {
+    "title": "Lesson 16: Does it have a Trigger?",
+    "body": "Unit 3 Lesson 16, 'Does it have a Trigger?', examines the relationship between survey questions and sensor data collection. This lesson likely discusses how to design questions that can either capture sensor readings directly or prompt users to provide relevant information based on sensor triggers. It bridges the gap between traditional survey methods and the data collected through sensing technologies."
+  },
+  {
+    "title": "Lesson 17: Creating Our Own Participatory Sensing Campaign",
+    "body": "Unit 3 Lesson 17, 'Creating Our Own Participatory Sensing Campaign', guides students through the process of designing and planning a participatory sensing campaign. This lesson covers the essential steps involved in defining the goals of a campaign, identifying target data, choosing appropriate sensing methods, and outlining the data collection strategy. Students learn to think systematically about building a community-driven data collection effort."
+  },
+  {
+    "title": "Lesson 18: Evaluating Our Own Participatory Sensing Campaign",
+    "body": "Unit 3 Lesson 18, 'Evaluating Our Own Participatory Sensing Campaign', focuses on the critical assessment of participatory sensing initiatives. This lesson emphasizes the formulation of relevant statistical questions to guide the evaluation and the methods used to analyze the collected data. Students learn how to determine the success and limitations of a campaign based on its data and objectives."
+  },
+  {
+    "title": "Lesson 19: Implementing Our Own Participatory Sensing Campaign",
+    "body": "Unit 3 Lesson 19, 'Implementing Our Own Participatory Sensing Campaign', involves a practical, albeit often simulated, implementation of a participatory sensing campaign. This lesson, which includes the 'Class Campaign—data' context, focuses on the actual process of data collection and campaign execution. Students gain experience in managing a campaign, troubleshooting issues, and gathering data in a real-world or simulated setting."
+  },
+  {
+    "title": "Lesson 20: Online Data-ing",
+    "body": "Unit 3 Lesson 20, 'Online Data-ing', explores the vast landscape of data available on the internet. This lesson introduces students to the concept of 'data on the internet' and discusses various sources and types of online data. It highlights the potential for data scientists to leverage this readily accessible information for analysis and insights, setting the stage for subsequent lessons on web scraping and data formats."
+  },
+  {
+    "title": "Lab 3E: Scraping Web Data",
+    "body": "Unit 3 Lab 3E, 'Scraping Web Data', provides hands-on experience in extracting data directly from websites. This lab teaches students the techniques and tools used for web scraping, enabling them to gather information from online sources programmatically. Working within the 'Class Campaign—data' context, this skill is crucial for collecting relevant data for analysis and project work."
+  },
+  {
+    "title": "Lab 3F: Maps",
+    "body": "Unit 3 Lab 3F, 'Maps', focuses on the visualization of data, specifically by creating maps. Using data collected from the internet (often through web scraping), students learn how to represent geographical information visually. This lab connects data analysis with spatial understanding, demonstrating how maps can reveal patterns and insights that might not be apparent from tabular data alone."
+  },
+  {
+    "title": "Lesson 21: Learning to Love XML",
+    "body": "Unit 3 Lesson 21, 'Learning to Love XML', introduces students to XML (Extensible Markup Language) as a structured format for storing and transporting data. This lesson explains the syntax and hierarchical nature of XML, demonstrating how it organizes information in a way that is both human-readable and machine-parseable. Understanding XML is valuable for working with various data sources, especially those encountered in web services and data exchange."
+  },
+  {
+    "title": "Lesson 22: Changing Format",
+    "body": "Unit 3 Lesson 22, 'Changing Format', addresses the practical challenge of converting data between different formats. This lesson specifically focuses on converting XML files, a common task when data needs to be integrated into different systems or prepared for analysis using specific tools. Students learn techniques for transforming data structures, ensuring compatibility and usability across various applications."
+  }
+]

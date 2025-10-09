@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Lesson 12 Abstract: Don't Take My Stress Away!",
+    "body": "Unit 2 Lesson 12 introduces students to the concept of Participatory Sensing through the 'Stress/Chill Campaign'. Students will read the Huffington Post article 'Don’t Take My Stress Away' to reflect on their own time usage and stress levels. The lesson emphasizes critical reading to identify data-based claims and prepares students to generate statistical questions. They will then participate in the 'Stress/Chill Campaign' by collecting data on their stress or relaxation levels at randomly assigned times over six days using the IDS ThinkData Ed App or a web portal. This hands-on data collection experience aims to help students understand how to investigate real-world phenomena through data."
+  },
+  {
+    "title": "Unit 2 Lesson 12 Objective",
+    "body": "The primary objective of Unit 2 Lesson 12 is for students to engage critically with the Huffington Post article titled 'Don’t Take My Stress Away'. This reading is designed to stimulate interest in how individuals spend their time and to encourage a critical approach to evaluating claims within reports, specifically assessing whether these claims are supported by data. This lesson sets the stage for understanding data collection and analysis in a real-world context."
+  },
+  {
+    "title": "Materials for Unit 2 Lesson 12",
+    "body": "The required materials for Unit 2 Lesson 12 include the article 'Huffington Post’s Don’t Take My Stress Away', accessible via a provided URL. Students will also need data collection devices, such as smartphones or computers, to participate in the campaign. Additionally, access to the 'Stress/Chill Campaign' guidelines is necessary. These guidelines, along with instructions for accessing the IDS ThinkData Ed App or web portal, are crucial for the practical application of the lesson's concepts."
+  },
+  {
+    "title": "Essential Concepts for Participatory Sensing Campaigns",
+    "body": "Unit 2 Lesson 12 highlights key concepts essential for initiating and conducting Participatory Sensing campaigns. The foundational step is generating relevant statistical questions that the campaign aims to answer. These questions should be informed by thorough research and observations of the phenomenon being studied. This process ensures that the campaign is focused, applicable, and likely to yield meaningful data for analysis, aligning with the goals of scientific inquiry and data-driven investigation."
+  },
+  {
+    "title": "Lesson Procedure: Introduction and Article Engagement",
+    "body": "Unit 2 Lesson 12 begins by familiarizing students with the 'Stress/Chill Campaign Guidelines' to prepare them for data collection. Teachers pose questions about students' perceptions of stressed or chilled individuals and related observations, facilitating a class discussion. Students are then introduced to the Huffington Post article 'Don’t Take My Stress Away'. They read the article, noting their agreement or disagreement and recording reactions in their journals, followed by a paired discussion and class share-out to explore diverse perspectives on the article's content."
+  },
+  {
+    "title": "Lesson Procedure: Stress/Chill Campaign Initiation",
+    "body": "Following the article discussion in Unit 2 Lesson 12, the focus shifts to the 'Stress/Chill' Participatory Sensing campaign. Students are informed that they will investigate their own stress and chill levels. They will add the campaign to their available campaigns via the [IDS ThinkData Ed App](../download/app.md) or the web portal ([https://portal.thinkdataed.org](https://portal.thinkdataed.org)). The lesson includes completing an initial survey and setting up reminders for data collection over the next six days using randomly generated times to ensure varied data points throughout the day."
+  },
+  {
+    "title": "Randomized Data Collection in Unit 2 Lesson 12",
+    "body": "To ensure varied and representative data for the 'Stress/Chill Campaign' in Unit 2 Lesson 12, students will collect data at randomly determined times. The teacher will use a random number generator, such as RStudio, to select two random times per day for six consecutive days. An example RStudio command is provided: `sample(7:23, size = 2, replace = FALSE)` for times between 7:00 am and 11:00 pm. Teachers have discretion regarding times that fall within the school day. Students will set reminders for these randomly assigned collection times."
+  },
+  {
+    "title": "Generating Statistical Questions and Predictions",
+    "body": "As part of Unit 2 Lesson 12, students are prompted to think critically about the data they will collect for the 'Stress/Chill Campaign'. Focusing on the survey questions, they are asked to formulate three statistical questions that can be answered using the collected data. Subsequently, students are to record predictions in their journals about the patterns or trends they anticipate observing in their data once it has been collected, encouraging hypothesis generation before analysis."
+  },
+  {
+    "title": "Class Scribes and Homework for Unit 2 Lesson 12",
+    "body": "In Unit 2 Lesson 12, a designated team of students will serve as 'Class Scribes'. Their role is to present a brief summary discussing what they identify as the three most important topics or insights from the day's lesson. The homework assignment reinforces the ongoing data collection for the 'Stress/Chill Campaign'. Students are required to continue collecting data for the campaign over the next six days, utilizing either the [IDS ThinkData Ed App](../download/app.md) or the web portal at [https://portal.thinkdataed.org](https://portal.thinkdataed.org)."
+  },
+  {
+    "title": "Huffington Post Article: Don't Take My Stress Away",
+    "body": "Unit 2 Lesson 12 utilizes the Huffington Post article 'Don’t Take My Stress Away' as a central piece of reading material. This article serves to pique student interest in the topic of stress and time management. The objective is for students to read the article critically, considering their own experiences and identifying claims within the text. They are encouraged to note whether they agree or disagree with the author's points and to record their personal reactions and comments in their journals."
+  },
+  {
+    "title": "Stress/Chill Campaign Guidelines",
+    "body": "The 'Stress/Chill Campaign' guidelines are a critical component of Unit 2 Lesson 12, providing the framework for student data collection. These guidelines help steer students towards formulating relevant statistical questions and understanding the campaign's objectives. Familiarity with these guidelines, particularly the specific questions that will be asked during data collection, is emphasized early in the lesson. These guidelines are referenced as a resource for students to consult throughout the campaign and can be found in resources such as campaign1.md within the Teacher Resources."
+  },
+  {
+    "title": "Data Collection Devices and Platforms",
+    "body": "For Unit 2 Lesson 12's 'Stress/Chill Campaign', students will require data collection devices. The campaign can be accessed and participated in through two primary platforms: the [IDS ThinkData Ed App](../download/app.md) or a web browser interface at [https://portal.thinkdataed.org](https://portal.thinkdataed.org). This dual accessibility ensures that students can engage with the campaign using the technology most available to them, facilitating widespread participation in collecting data on stress and chill levels."
+  }
+]

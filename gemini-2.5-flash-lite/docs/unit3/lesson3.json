@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Unit 3 Lesson 3",
+    "body": "Unit 3 Lesson 3, titled 'Let's Try an Experiment!', focuses on the critical role of randomized assignment in experimental design. The lesson objective is for students to understand why randomization is necessary to establish cause-and-effect relationships and to identify potential confounding variables. Through a simulated experiment where students are deliberately placed into treatment and control groups based on height, the lesson demonstrates how non-random assignment can pre-determine outcomes. The abstract covers the essential concepts, the steps of the lesson including a teacher-led demonstration and student discussion, and the design of a new class experiment investigating the perception of time when exposed to a stimulus. It also touches upon practical aspects like materials, defining research questions, subject identification, random assignment methods (including an RStudio example), and the outcome variable."
+  },
+  {
+    "title": "Objective of Unit 3 Lesson 3",
+    "body": "The primary objective of Unit 3 Lesson 3 is for students to actively explore and understand the fundamental importance of randomized assignment within the context of designing and conducting experiments. By the end of this lesson, students should grasp that randomized assignment is a prerequisite for determining cause-and-effect relationships. Furthermore, they will learn to recognize situations where confounding variables might arise due to the absence of random assignment and will be equipped to suggest potential confounding variables in given scenarios."
+  },
+  {
+    "title": "Materials for Unit 3 Lesson 3",
+    "body": "The only material explicitly required for Unit 3 Lesson 3, 'Let's Try an Experiment!', is a measuring tape. This simple tool is essential for the practical demonstration and potential measurement activities planned within the lesson to illustrate the concepts of experimental groups and outcomes."
+  },
+  {
+    "title": "Essential Concept: Randomized Assignment",
+    "body": "A core essential concept emphasized in Unit 3 Lesson 3 is that randomized assignment is a necessary requirement for establishing cause-and-effect relationships in experiments. This means that to confidently conclude that a treatment or intervention caused a specific outcome, the participants must be assigned to different groups (like treatment and control) purely by chance. Without this randomness, other factors could be responsible for the observed results."
+  },
+  {
+    "title": "Demonstration: The Flawed Experiment Setup",
+    "body": "In Unit 3 Lesson 3, the teacher initiates the lesson by proposing an experiment to explore the question 'Why do we need randomized assignment?'. The class is told there's a treatment to make people taller. The core of the demonstration involves dividing the class into two groups: a treatment group and a control group. Crucially, the teacher deliberately places taller students in the treatment group and shorter students in the control group. This non-random assignment is designed to highlight the problem of confounding variables. The lesson explains that in experiments, a treatment group receives the intervention, while a control group does not. The comparison between these groups, often through before-and-after measurements or by ensuring initial similarity, helps determine the treatment's effect. In this specific setup, the comparison would be based on measuring heights after the 'treatment'."
+  },
+  {
+    "title": "Expected Outcomes of the Flawed Experiment",
+    "body": "Unit 3 Lesson 3 describes two potential outcomes when the teacher deliberately assigns taller students to the treatment group and shorter students to the control group. Ideally, students will protest this method, initiating a discussion about why it's an invalid way to divide the class for an experiment. Alternatively, if students do not protest, the teacher proceeds with a mock treatment (like waving a ruler or chanting). Following this, heights are measured, and students are asked if the results provide good evidence that the treatment worked. Regardless of whether students protest or not, the lesson aims to lead them to recognize that pre-determining group outcomes based on existing characteristics (like height) makes the results unreliable."
+  },
+  {
+    "title": "Confounding Factors in Experiments",
+    "body": "Unit 3 Lesson 3 introduces the concept of confounding factors. A confounding factor is defined as a variable that offers an alternative explanation for the observed effect of a treatment on an outcome variable. In the lesson's initial demonstration, where taller students were placed in the treatment group, their initial height was a confounding factor. This pre-existing difference meant that any observed height increase after the 'treatment' could be attributed to their initial taller stature rather than the treatment itself, thus providing an alternative explanation for the outcome."
+  },
+  {
+    "title": "Discussion: Proper Group Assignment Methods",
+    "body": "Following the flawed experiment demonstration in Unit 3 Lesson 3, students are prompted to discuss how students *should* be put into groups for a valid experiment. The discussion moves beyond simply recognizing that characteristics like height shouldn't be used. Students are encouraged to consider various grouping methods, such as flipping a coin. The lesson guides the discussion towards understanding why similarity between groups is important: to ensure that any observed changes in the outcome variable are likely due to the treatment and not some other pre-existing difference between the groups. The goal is to achieve a height balance in the groups that reflects the overall class distribution, though not necessarily exact replication."
+  },
+  {
+    "title": "Designing a New Experiment: Perception of Time",
+    "body": "Unit 3 Lesson 3 transitions to the design phase for a new class experiment. The research question the students will investigate is: 'How does our perception of time change when exposed to a stimulus?'. The experiment will involve determining the length of one minute without using any time-aids. Some students will be exposed to a stimulus, while others will serve as a control group (no stimulus). The collected data will then be analyzed to determine if the stimulus impacts the perceived duration of a minute. This experiment aims to apply the principles of experimental design discussed earlier in the lesson."
+  },
+  {
+    "title": "Elements of the New Experiment Design (Part 1)",
+    "body": "As part of designing their experiment in Unit 3 Lesson 3, students are asked to address several key elements in their journals. First, they must clearly state the research question: 'How does our perception of time change when exposed to a stimulus?'. Second, they need to identify the subjects who will participate in the experiment (likely the students in the class). Third, a critical step involves determining how subjects should be randomly assigned into treatment and control groups. This section emphasizes the need for a chance-based method to ensure unbiased group allocation. The actual treatment to be applied will be decided later."
+  },
+  {
+    "title": "Elements of the New Experiment Design (Part 2)",
+    "body": "Continuing the design process in Unit 3 Lesson 3, students must define the outcome variable for their experiment on time perception. This involves identifying what will be measured to assess the effect of the stimulus. Additionally, they need to specify the unit of measurement for this outcome variable. Following the journal entries, the class will collectively discuss and finalize the answers to these design questions (research question, subjects, random assignment method, and outcome variable/unit). These agreed-upon answers will form the definitive design for the class experiment."
+  },
+  {
+    "title": "Random Assignment Method: RStudio Example",
+    "body": "Unit 3 Lesson 3 provides a practical method for random assignment using RStudio, should the class decide on such a technical approach. The example given is: `sample(1:30, size = 15, replace = FALSE)`. This command demonstrates how to randomly select 15 students (out of a hypothetical 30) for the treatment group without replacement. This process typically involves assigning each student a number corresponding to their position on a class roster (e.g., alphabetical order). RStudio can then be used to randomly pick half of these numbers to assign students to either the treatment or control group, ensuring an unbiased distribution."
+  },
+  {
+    "title": "Conducting the Experiment and Class Scribes",
+    "body": "The conclusion of Unit 3 Lesson 3 sets the stage for the next steps. Students will formally be assigned to their treatment or control groups based on the randomization method they collectively decided upon earlier in the lesson. The actual execution of the experiment, where they determine the length of a minute with and without a stimulus, is scheduled for the following lesson (Unit 3 Lesson 4). Additionally, a 'Class Scribes' activity is included, where one team of students will present a brief talk summarizing what they consider the three most important topics covered during the lesson."
+  },
+  {
+    "title": "Vocabulary: Randomized Assignment",
+    "body": "In the context of Unit 3 Lesson 3, 'Randomized Assignment' refers to the process of assigning participants in an experiment to different groups (such as treatment and control groups) using a method based purely on chance. This technique is crucial for ensuring that the groups are as similar as possible at the start of the experiment, thereby minimizing the influence of confounding variables. By using randomized assignment, researchers increase the likelihood that any observed differences in the outcome variable between the groups can be attributed to the treatment being tested, thus supporting claims of cause-and-effect."
+  },
+  {
+    "title": "Vocabulary: Confounding Factor",
+    "body": "A 'Confounding Factor', as explained in Unit 3 Lesson 3, is a variable that provides an alternative explanation for the relationship between an independent variable (like a treatment) and a dependent variable (the outcome). It is related to both the independent variable and the dependent variable, but it is not on the causal pathway. In the lesson's initial flawed experiment, the pre-existing height difference between students assigned to the treatment and control groups served as a confounding factor. Because the groups were not similar from the start due to this factor, the experiment could not reliably demonstrate if a treatment caused a change in height."
+  },
+  {
+    "title": "Vocabulary: Treatment Group",
+    "body": "In experimental design, as discussed in Unit 3 Lesson 3, the 'Treatment Group' is the group of participants that receives the specific intervention, manipulation, or condition being tested by the researchers. This group is compared against a control group to determine the effect of the treatment. For instance, in the lesson's demonstration, the group receiving the hypothetical 'taller' treatment would be the treatment group. In the planned time perception experiment, the students exposed to a stimulus would constitute the treatment group."
+  },
+  {
+    "title": "Vocabulary: Control Group",
+    "body": "The 'Control Group', as defined in Unit 3 Lesson 3, is a group of participants in an experiment who do not receive the treatment or intervention being tested. This group serves as a baseline or point of comparison against the treatment group. By comparing the outcomes of the treatment group to the control group, researchers can better isolate the effect of the treatment itself. In the lesson's example, the group not receiving the 'taller' treatment was the control group. For the time perception experiment, the students not exposed to any stimulus would be the control group."
+  }
+]

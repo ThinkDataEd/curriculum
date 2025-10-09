@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract: Lab 1G - What's the FREQ?",
+    "body": "This lab introduces frequency tables as a method for summarizing and analyzing categorical variables in data science. It builds upon previous data cleaning exercises by focusing on the ATU (American Time Use) dataset. The lab guides users through creating and interpreting one-way and two-way frequency tables using the `tally()` function in R. Key concepts include counting occurrences of categories, comparing distributions between two categorical variables, and understanding conditional relative frequencies. Users will learn to detect relationships between variables, such as the association between sex and physical challenges, and will practice writing R code to generate these tables and interpret the results, including the use of options like `format = \"percent\"` and `margins = TRUE`."
+  },
+  {
+    "title": "Lab 1G Introduction and Data Loading",
+    "body": "This section of Lab 1G, \"What's the FREQ?\", focuses on preparing to analyze categorical variables using frequency tables. It follows up on Lab 1F where data cleaning was introduced. While data cleaning is a crucial step in data science, this lab will use a pre-loaded dataset called `atu_clean` for consistency. To begin the lab, users need to load this dataset into their R environment using the `data()` function. The primary goal of this lab is to learn how to create frequency tables to identify relationships between categorical variables."
+  },
+  {
+    "title": "Summarizing Categorical Variables: Frequency Tables",
+    "body": "Categorical variables cannot be summarized using averages like numerical variables. Instead, frequency tables are used. A frequency table involves counting or tallying how often each category appears within a dataset. This provides a numerical summary of the distribution of a single categorical variable. For example, one might count the number of males and females in a dataset. The lab prompts users to perform such a count for the `sex` variable in the `atu_clean` dataset to determine the difference in the number of females and males."
+  },
+  {
+    "title": "One-way Frequency Table: Counting Sexes",
+    "body": "To summarize categorical data, we use frequency tables. For a single categorical variable, this involves counting the occurrences of each category. In Unit 1 Lab 1G, users are instructed to use the `tally()` function to create a one-way frequency table for the `sex` variable in the `atu_clean` dataset. The specific R code involves filling in the blanks: `tally(~ ____, data = ____)`. The task is to determine the difference between the number of females and males present in the dataset by completing this command and running it. This process highlights how to get basic counts for categories."
+  },
+  {
+    "title": "Two-way Frequency Tables: Comparing Categorical Variables",
+    "body": "While one-way frequency tables summarize a single categorical variable, two-way frequency tables allow for the comparison of two categorical variables simultaneously. This is useful for exploring potential relationships or associations between them. For instance, the lab suggests investigating if there's a difference in the occurrence of physical challenges between males and females. A `bargraph()` with faceting (`bargraph(~phys_challenge | sex, data = atu_clean)`) can provide a visual clue, but precise numerical comparisons require a two-way frequency table generated using the `tally()` function."
+  },
+  {
+    "title": "Creating and Interpreting Two-way Frequency Tables",
+    "body": "To create a two-way frequency table for comparing `phys_challenge` by `sex` in the `atu_clean` dataset, users are asked to write R code similar to how plots are faceted. The `tally()` function is used for this purpose. After generating the raw counts, the lab guides users to interpret the table and then introduces the `format = \"percent\"` option. This option allows for the display of percentages instead of raw counts, which can be more insightful for comparisons, especially when group sizes differ. The `margins = TRUE` option can be added to display row and column totals."
+  },
+  {
+    "title": "Interpreting Percentages in Two-way Frequency Tables",
+    "body": "When interpreting two-way frequency tables, especially with the `format = \"percent\"` option, it's crucial to understand how the percentages are calculated. The `tally()` function, by default when comparing two variables, calculates conditional relative frequencies based on columns. This means percentages are calculated within each category of the second variable listed in the formula (e.g., within each `sex`). The lab asks users to apply `format = \"percent\"` to a specific `tally()` command and then interpret the resulting percentages to determine if one sex has a higher occurrence of physical challenges than the other."
+  },
+  {
+    "title": "Conditional Relative Frequencies: Sex vs. Physical Challenge",
+    "body": "This section delves into the concept of conditional relative frequencies using two-way frequency tables. The order of variables in the `tally()` function matters. `tally(~phys_challenge | sex, data = atu_clean, margin = TRUE)` shows the distribution of `phys_challenge` within each `sex`. Conversely, `tally(~sex | phys_challenge, data = atu_clean, margin = TRUE)` shows the distribution of `sex` within each `phys_challenge` category. When `format = \"percent\"` is used, R calculates percentages column-wise. For `tally(~phys_challenge | sex, ...)`, the percentages are relative to each sex; for `tally(~sex | phys_challenge, ...)`, the percentages are relative to each physical challenge group."
+  },
+  {
+    "title": "Conditional Relative Frequencies Explained",
+    "body": "The distinction between `tally(~phys_challenge | sex, ...)` and `tally(~sex | phys_challenge, ...)` is fundamental for understanding conditional relative frequencies. The former table helps answer: \"Given a person's sex, what is the probability they have a physical challenge?\" The latter answers: \"Given a person has a physical challenge, what is the probability they are male or female?\" When `format = \"percent\"` is applied, the percentages are calculated based on the totals of the columns (the variable listed after the `|`). For example, in `tally(~phys_challenge | sex, data = atu_clean, format = \"percent\")`, the percentages for 'No difficulty' and 'Has difficulty' will sum to 100% within the 'Male' column and separately within the 'Female' column."
+  },
+  {
+    "title": "Lab 1G Exercise: Numerical and Categorical Variables",
+    "body": "As part of Unit 1 Lab 1G, users are prompted to explore the behavior of the `tally()` function when one variable is numerical and the other is categorical. The exercise asks users to describe what happens when a two-way frequency table is created using these different variable types. This implies investigating how R handles summarizing a numerical variable in conjunction with categories, which may involve different summary statistics (like mean or median) being calculated for the numerical variable within each category of the categorical variable."
+  },
+  {
+    "title": "Comparing 1-way and 2-way Frequency Table Questions",
+    "body": "Unit 1 Lab 1G requires users to differentiate the types of statistical investigative questions answerable by one-way versus two-way frequency tables. One-way tables, focusing on a single categorical variable, help describe the overall distribution of categories (e.g., how many males vs. females). Two-way tables, however, allow for the examination of relationships *between* two categorical variables. They can reveal associations, such as whether the proportion of individuals in certain categories differs based on the category of another variable (e.g., does the rate of physical challenges differ between sexes?)."
+  },
+  {
+    "title": "Investigating Employment Status and Sex",
+    "body": "This exercise from Unit 1 Lab 1G challenges users to apply the concepts of two-way frequency tables to a new research question. Specifically, users are asked to determine which `sex` has a higher rate of part-time employment. This requires identifying the relevant variables in the `atu_clean` dataset (likely `sex` and a variable indicating employment status, possibly `part_time`), creating an appropriate two-way frequency table (potentially using `tally()` with `format = \"percent\"` and considering the correct variable order for conditional frequencies), and interpreting the results to answer the question."
+  }
+]

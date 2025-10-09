@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract of Lab 2C",
+    "body": "This lab, Unit 2 Lab 2C, focuses on estimating probabilities through simulations in R. Unlike previous labs that summarized data numerically, this lab explores the concept of probability by simulating the random selection of songs from a playlist containing both rap and rock songs. The core task involves using R to create a playlist, then repeatedly sampling from it to estimate the probability of selecting a rap song. The lab introduces key statistical concepts like probability, proportion, and the importance of 'with replacement' sampling. It also demonstrates how to use R functions such as rep(), c(), sample(), and do() for simulations, and introduces set.seed() for reproducible results. Finally, the lab applies these simulation techniques to a new scenario involving student activities to estimate a probability."
+  },
+  {
+    "title": "Introduction to Probability Estimation",
+    "body": "Unit 2 Lab 2C shifts from numerical data summarization (center, shape, spread) to estimating probabilities. The lab's primary goal is to estimate the probability that a rap song is chosen from a playlist containing 39 rap and 61 rock songs, assuming random selection. This is achieved through a simulation process where songs are randomly selected, their genre noted, and then replaced back into the playlist. This process is repeated many times (e.g., 500 times) to gather data for estimating the probability. The central statistical investigative question is: 'On average, what proportion of our selections will be rap?' This approach provides a practical way to understand and estimate probabilities, especially when direct calculation might be complex."
+  },
+  {
+    "title": "The Importance of 'With Replacement'",
+    "body": "In Unit 2 Lab 2C, a crucial step in the simulation process is putting the selected song back into the playlist after noting its genre. This is known as sampling 'with replacement'. The lab asks two critical questions regarding this: (1) Why do we put a song back each time we make a selection? (2) What would happen in our experiment if we did not do this? Sampling with replacement ensures that the probability of selecting any given song remains constant for each draw. If songs were not replaced, the composition of the playlist would change with each selection, altering the probabilities and thus skewing the results of the experiment, making it an estimate of a different process (sampling without replacement)."
+  },
+  {
+    "title": "Calculating and Estimating Probabilities",
+    "body": "Unit 2 Lab 2C clarifies the distinction between calculating and estimating probabilities. A probability is defined as the long-run proportion of times an event occurs. For a playlist with 39 rap and 61 rock songs, the exact probability of drawing a rap song is easily calculated as 39/100, or 0.39. However, the lab emphasizes that not all probabilities are easily calculated. In such cases, simulations are used to estimate probabilities. By repeatedly simulating the random selection process (e.g., 500 times), we gather empirical data. The proportion of 'rap' songs in these simulated draws serves as an estimate of the true probability. The lab highlights that these simulation-based estimates, even for simple cases, are expected to be close to the actual probability, and become more accurate with a larger number of simulations."
+  },
+  {
+    "title": "Simulating the Playlist in R",
+    "body": "To begin estimating probabilities in Unit 2 Lab 2C, the first step is to simulate the song playlist in R. This involves creating R vectors to represent the songs. The lab instructs users to simulate the 39 'rap' songs using the rep() function: `rap <- rep(\"rap\", times = 39)`. This function replicates the string \"rap\" 39 times, creating a vector named 'rap'. Users are then asked to write and run similar code to simulate the 61 'rock' songs. Following this, the combine function `c()` is used to merge these individual song vectors into a single playlist vector named 'songs'. Users can then view the 'songs' vector in the R environment to confirm its contents."
+  },
+  {
+    "title": "Sampling from the Playlist",
+    "body": "In Unit 2 Lab 2C, the process of choosing items randomly from a set is called 'sampling'. After creating the 'songs' playlist in R, users learn to sample from it using the `sample()` function. The code `sample(songs, size = 1, replace = TRUE)` randomly selects one song from the 'songs' vector. The `replace = TRUE` argument is crucial, ensuring that the song is put back into the playlist after selection, maintaining the original probabilities. Users are instructed to run this code 10 times and calculate the proportion of 'rap' songs drawn. A proportion is defined as a fraction of the whole, often expressed as a decimal or percentage. This hands-on exercise helps illustrate the concept of random sampling and proportion calculation."
+  },
+  {
+    "title": "Using do() for Multiple Samples",
+    "body": "Unit 2 Lab 2C introduces the `do()` function in R as an efficient way to perform repetitive tasks, specifically multiple sampling instances. Instead of manually running the `sample()` code multiple times, `do()` automates this. Users are guided to fill in the blanks to execute the `sample()` command 50 times. The syntax typically involves `do(50) * sample(songs, size = 1, replace = TRUE)`. The results of these 50 draws are then to be stored in a variable named `draws`. The lab also prompts users to examine the `draws` data and use the `tally()` function to count the occurrences of each genre selected. This process allows for the calculation of the proportion of 'rap' songs in 50 draws and comparison with previous results."
+  },
+  {
+    "title": "Proportions vs. Theoretical Probability",
+    "body": "This section of Unit 2 Lab 2C reinforces the relationship between simulated proportions and theoretical probability. The lab recaps the steps taken: simulating a playlist, repeatedly sampling songs with replacement, and calculating the proportion of 'rap' songs drawn. These calculated proportions are presented as *estimates* of the true theoretical probability (which is 0.39 for rap songs in this playlist). A key takeaway is that as the number of simulations (draws) increases, the range of proportions should shrink, leading to estimates that are closer to the actual probability. The lab emphasizes that using a large number of repeats in simulations is beneficial as it reduces variability and increases confidence in the accuracy of the estimated probability."
+  },
+  {
+    "title": "Reproducible Randomness with set.seed()",
+    "body": "Unit 2 Lab 2C addresses the variability in simulation outcomes, where different runs can produce slightly different estimated probabilities. To ensure that random simulations are reproducible, R provides the `set.seed()` function. By setting a seed (an arbitrary number) before running a random sampling process, the sequence of random numbers generated will be the same every time the code is executed with that specific seed. This is demonstrated with an example: `set.seed(123)` followed by `sample(songs, size = 1, replace = TRUE)` will always yield the same result. The lab then involves an exercise where partners use the same seed to perform simulations and compare their results, followed by using different seeds to observe the impact on outcomes."
+  },
+  {
+    "title": "Exploring set.seed() Effects",
+    "body": "As part of Unit 2 Lab 2C, students explore the functionality of `set.seed()` for reproducible randomness. In pairs, they choose a number to use with `set.seed()` and re-run the simulation of 50 songs. They then compare the proportion of 'rap' songs obtained. The expectation is that if both partners use the *exact same* number in `set.seed()`, their simulation results (and thus their proportion of 'rap' songs) will be identical. Following this, they re-do the 50 simulations, each time choosing a *different* number for `set.seed()`. This part of the lab aims to confirm that different seed values lead to different random sequences and potentially different proportions, and to investigate if they can find distinct seed values that produce different results."
+  },
+  {
+    "title": "Application: Probability of Student Activity",
+    "body": "Unit 2 Lab 2C concludes with an 'On your own' section that applies the simulation concepts to a new problem. The scenario involves a school with 1,200 students, where 400 went to the movies, 600 went to the park, and the remainder read at home. The core question is to estimate the probability that a randomly selected student went to the movies last Friday. To address this, students are required to write and run R code that simulates this scenario using 500 repetitions. They need to include `set.seed(123)` before performing the simulations to ensure reproducibility of their results. The lab asks for both the code used and the resulting output that estimates this probability."
+  },
+  {
+    "title": "R Code Snippets and Functions",
+    "body": "This chunk provides a compilation of R code snippets and functions used in Unit 2 Lab 2C. Key functions include: `rep(\"rap\", times = 39)` for repeating elements to create vectors. `c(rap, rock)` for combining vectors into a single playlist. `sample(songs, size = 1, replace = TRUE)` for random sampling with replacement. `do(50) * sample(...)` for performing multiple replications of a sampling process. `tally(~genre, data = draws)` for counting occurrences of categories within a dataset. `set.seed(number)` for ensuring reproducible random number generation. The lab also implicitly uses functions for data viewing and assignment, such as `View()` and assignment operators (`<-`). These functions are fundamental tools for conducting simulations in R."
+  },
+  {
+    "title": "Vocabulary: Probability and Proportion",
+    "body": "Unit 2 Lab 2C introduces and reinforces key statistical vocabulary. **Probability** is defined as the long-run proportion of times an event occurs. For instance, the probability of drawing a rap song is the proportion of times a rap song would be drawn if the selection process were repeated indefinitely. A **proportion** is a fraction of the whole, representing a part of a group or a set. In the context of the lab, after performing a set of draws (e.g., 10 or 50), the proportion of rap songs is calculated by dividing the number of rap songs drawn by the total number of draws. Proportions can be expressed as fractions, decimals, or percentages. The lab uses proportions from simulations as estimates of theoretical probabilities."
+  }
+]

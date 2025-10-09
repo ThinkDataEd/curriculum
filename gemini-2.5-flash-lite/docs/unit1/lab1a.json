@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Abstract of Lab 1A - Data, Code & RStudio",
+    "body": "This document outlines Lab 1A, focused on introducing data science through the R programming language and RStudio. It guides users through initial steps in RStudio, including loading and viewing the 'cdc' dataset, understanding its structure (variables and observations), and using basic R commands like 'data()', 'View()', '?'. The lab emphasizes the importance of syntax in R, demonstrating how capitalization, spelling, and punctuation affect command execution. It introduces fundamental R functions for exploring data dimensions ('dim()', 'nrow()', 'ncol()', 'names()') and explains the syntax for creating plots using functions like 'histogram()', 'bargraph()', and 'xyplot()'. Users are prompted to analyze the 'cdc' dataset to answer specific questions about student height, weight, and fruit consumption, encouraging independent exploration and application of learned concepts."
+  },
+  {
+    "title": "Introduction to Lab 1A and R Programming",
+    "body": "Lab 1A, titled 'Data, Code & RStudio', serves as an introduction to practical data science skills using the R programming language. Throughout the year, students will complete labs to apply these skills. R is the language used by professional data scientists, and RStudio provides a user-friendly interface for coding in R. The initial labs utilize data from the Centers for Disease Control (CDC), a federal institution focused on public health. Students are instructed to follow along with slides, completing questions in blue on their computers and red in their journals. The primary goal is to begin programming by sending instructions to the computer using R."
+  },
+  {
+    "title": "Loading and Viewing the CDC Dataset",
+    "body": "To begin working with data in R, students are instructed to use specific commands in the R console. First, the command `data(cdc)` loads the 'cdc' dataset into R's memory. Subsequently, the command `View(cdc)` opens the dataset in a spreadsheet-like format within RStudio. This allows users to visually inspect the data. A key activity involves describing the data that appears after running `View(cdc)`, specifically identifying *who* the information is about and *what sorts* of information was collected. To understand the dataset's metadata, users are instructed to type `?cdc` into the console, which provides more detailed information about the data structure and variables. The 'Viewer' tab in RStudio is used to return to the slides."
+  },
+  {
+    "title": "Data Structure: Variables and Observations",
+    "body": "In data science, data is fundamentally composed of two parts: observations and variables. Observations represent the individual 'who' or 'what' from which data is collected. In the context of the 'cdc' dataset, each observation refers to a person. Variables, on the other hand, are the measurements or characteristics recorded about these observations. For instance, height and weight are variables. To further understand this, students are asked to re-view the 'cdc' data and describe characteristics of the first observation (first row) and identify what the first column signifies about the observations. This reinforces that each row corresponds to an observation and each column to a variable."
+  },
+  {
+    "title": "RStudio Interface Overview",
+    "body": "RStudio's main interface is divided into four distinct panes, designed to organize the coding environment. One crucial pane contains tabs, including one labeled 'Environment'. By clicking on the 'Environment' tab, users can see a list of all objects (like datasets or variables) that R currently has loaded and available for use. This pane confirms that the 'cdc' dataset has been successfully loaded. Students are asked to identify the number of students (observations) and the number of variables measured for each student within the 'cdc' dataset using information from this pane, preparing them for the next steps in data exploration."
+  },
+  {
+    "title": "Exploring Data Dimensions with R Functions",
+    "body": "To programmatically determine the size and structure of a dataset in R, several functions are introduced. Students are instructed to type `dim(cdc)`, `nrow(cdc)`, `ncol(cdc)`, and `names(cdc)` into the console. The `dim()` function returns a vector indicating the number of rows and columns. `nrow()` specifically returns the number of rows (observations), while `ncol()` returns the number of columns (variables). The `names()` function lists the names of all the variables in the dataset. Students are tasked with identifying which of these functions directly report the number of observations and the number of variables, solidifying their understanding of how to query data structure."
+  },
+  {
+    "title": "Understanding Programming and R Syntax",
+    "body": "Typing commands into the R console is the initial step into programming, also known as coding. Coding involves instructing a computer using a specific language. The rules of how we communicate with the computer are called *syntax*. R is one such coding language, and like any language, it has its own syntax. It is critical to understand that *capitalization*, *spelling*, and *punctuation* are extremely important in R. Even minor errors in these aspects can lead to the R interpreter not understanding the command, resulting in an error message. This section emphasizes the strictness of R's syntax."
+  },
+  {
+    "title": "Syntax Sensitivity in R Commands",
+    "body": "To illustrate R's sensitivity to syntax, students are instructed to run several variations of the `names(cdc)` command: `Names(cdc)`, `NAMES(cdc)`, `names(cdc)`, and `names(CDC)`. By observing the output or error messages generated by R for each command, students can see the direct impact of capitalization. They will discover that only commands with the correct capitalization and spelling, like `names(cdc)`, are understood by R. Commands with incorrect capitalization, such as `Names(cdc)` or `names(CDC)`, will result in errors, reinforcing the importance of precise syntax in R programming."
+  },
+  {
+    "title": "R Function Syntax for Data Analysis and Visualization",
+    "body": "Many R commands, especially those used for analysis and creating visualizations, follow a common syntax pattern: `function(y ~ x, data = ____)`. To create graphs or plots, R needs the name of the function (e.g., the plot type), the variable(s) containing the information to be used, and the dataset where these variables reside. For analyzing a single variable, the 'y' part of the formula is often left blank, as shown in the example `bargraph(~grade, data = cdc)`. This syntax structure provides a standardized way to communicate analytical tasks to R, making it easier to learn and apply."
+  },
+  {
+    "title": "Visualizing Data Distributions in RStudio",
+    "body": "RStudio includes a 'Plots' pane where generated visualizations are displayed. Users can navigate between the 'Viewer' and 'Plots' tabs to switch between viewing the slides and examining graphical outputs. The lab prompts students to consider which type of plot – histogram, bargraph, or scatterplot – would be most suitable for answering the question: 'Is it unusual for students in the CDC dataset to be taller than 1.8 meters?'. This requires understanding that histograms are good for single numerical variable distributions, bargraphs for categorical data, and scatterplots for relationships between two numerical variables."
+  },
+  {
+    "title": "Analyzing Student Height Distribution",
+    "body": "To investigate the question about student height, students are instructed to run three commands: `histogram(~height, data = cdc)`, `bargraph(~height, data = cdc)`, and `xyplot(weight~height, data = cdc)`. After generating these plots, they are asked to determine if it's unusual for students in the 'cdc' dataset to be taller than 1.8 meters, providing a reason for their conclusion. The hint suggests using the arrow keys in the 'Plots' tab to cycle through the generated plots. The histogram of height is the most relevant plot for assessing unusual heights."
+  },
+  {
+    "title": "Understanding Public Health Data Collection and Use",
+    "body": "The lab concludes with 'On your own' questions that encourage critical thinking about public health and data. Question (13) asks for a definition of *public health* and whether data is collected about it, linking the 'cdc' dataset to this broader field. Question (14) prompts reflection on the data collection process and whether the dataset includes every high school student in the US, introducing concepts of sampling and representativeness. Question (15) explores how the CDC might use this data and who else could benefit, emphasizing the practical applications of data analysis. These questions extend the lab's scope beyond basic R commands to the societal relevance of data."
+  },
+  {
+    "title": "Visualizing Weight Distribution with Histogram",
+    "body": "As part of the 'On your own' section, students are asked to apply their R skills independently. They need to write and run R code to visualize the distribution of student weights from the 'cdc' dataset using a `histogram`. The specific command would be `histogram(~weight, data = cdc)`. After generating the histogram, they are to identify the *typical* weight of the students based on the visualization. This exercise reinforces the use of histograms for understanding the central tendency and spread of a single numerical variable."
+  },
+  {
+    "title": "Visualizing Fruit Consumption with Bargraph",
+    "body": "Another 'On your own' task involves using R to visualize categorical data. Students are instructed to write and run code to create a `bargraph` that displays the distribution of how often students ate fruit over the previous 7 days. The command would be `bargraph(~fruit, data = cdc)`. After creating the bargraph, they need to estimate how many students in the dataset did *not* eat fruit during that period. This task assesses their ability to interpret bargraphs and extract specific information about categorical variable frequencies."
+  }
+]

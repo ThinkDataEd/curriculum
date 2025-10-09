@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract of Practicum: TB or Not TB",
+    "body": "This document outlines Practicum 1 for Unit 3, titled \"TB or Not TB.\" The objective is for students to apply their knowledge of experiments and shuffling. Students will use a dataset from Sir Austin Bradford Hill's 1948 study on the antibiotic Streptomycin's effect on tuberculosis patients. The practicum involves scraping data, calculating percentages of deaths and recoveries, performing a chance model simulation in RStudio to assess the treatment's effectiveness, and answering specific research questions about the experiment's design and outcomes. Students will then present their findings and submit a summary report. The core task is to determine if Streptomycin is an effective treatment for tuberculosis by comparing actual results to a simulation where the treatment has no effect."
+  },
+  {
+    "title": "Unit 3 Practicum 1: Objective and Materials",
+    "body": "The objective of Unit 3 Practicum 1, \"TB or Not TB,\" is for students to apply their understanding of experimental design and data shuffling techniques. The practicum requires students to use computers and a specific dataset provided in a PDF document (LMR_U3_TB_or_Not_TB). This hands-on activity focuses on analyzing real-world experimental data to draw conclusions about the effectiveness of a medical treatment."
+  },
+  {
+    "title": "Introduction to the TB or Not TB Practicum",
+    "body": "The \"TB or Not TB\" practicum within Unit 3 introduces students to clinical trials, which are medical experiments testing new treatments. Students will work with a dataset from Sir Austin Bradford Hill's 1948 randomized study investigating the antibiotic Streptomycin for tuberculosis treatment. The study involved 107 tuberculosis patients. Students, working in pairs, will analyze this data to determine if Streptomycin is an effective treatment. Additional resources, including a fact sheet on tuberculosis from the CDC and the dataset itself, are provided."
+  },
+  {
+    "title": "Research Questions for the TB Experiment",
+    "body": "As part of the \"TB or Not TB\" practicum (Unit 3), students are tasked with answering fundamental questions about the experimental design. These questions include identifying the core research question, defining the subjects involved, specifying the treatment administered, and distinguishing between the treatment group and the control group. Furthermore, students must describe how subjects were assigned to groups, determine the population the experiment represents, identify the variable being measured, and articulate the overall outcome of the experiment. Some of these answers may require external research."
+  },
+  {
+    "title": "Data Scraping for TB Experiment",
+    "body": "The first step in analyzing the data for the \"TB or Not TB\" practicum (Unit 3) is to scrape the relevant information. Students are directed to access Sir Austin Bradford Hill's data via a specific URL: [https://labs.thinkdataed.org/extras/webdata/tb.html](https://labs.thinkdataed.org/extras/webdata/tb.html). If students need a refresher on web scraping techniques, they can refer to the web scraping lab previously covered in the curriculum."
+  },
+  {
+    "title": "Data Analysis: Percentages of Outcomes",
+    "body": "Following data scraping in the \"TB or Not TB\" practicum (Unit 3), students must calculate key outcome percentages. Specifically, they need to determine the percentage of subjects who died and the percentage of subjects who recovered within each group (treatment and control). This analysis provides a clear quantitative summary of the results observed in the dataset."
+  },
+  {
+    "title": "Chance Model: Expected Deaths",
+    "body": "In the \"TB or Not TB\" practicum (Unit 3), students are required to build a chance model to simulate the experiment under the assumption that Streptomycin has no effect on tuberculosis. This involves two main calculations: first, determining the overall percentage of tuberculosis patients expected to die if the treatment were ineffective. Second, using this expected death percentage, calculating the specific number of patients in the *treatment group* that would be expected to die under this null hypothesis. This step is crucial for comparison with the actual observed data."
+  },
+  {
+    "title": "Comparing Observed vs. Expected Outcomes",
+    "body": "Part of the \"TB or Not TB\" practicum (Unit 3) involves a direct comparison between the observed results and the simulated expectations. After calculating the number of deaths expected in the treatment group based on the chance model (where treatment has no effect), students must compare this expected number to the *actual* number of deaths recorded in the treatment group from the scraped data. This comparison helps in evaluating the significance of the observed difference."
+  },
+  {
+    "title": "Simulation Design and Execution in RStudio",
+    "body": "For the \"TB or Not TB\" practicum (Unit 3), students must design and execute a simulation in RStudio using a chance model. This simulation assumes that the outcome of tuberculosis is independent of the Streptomycin treatment. The process involves shuffling the treatment and control labels for the subjects a significant number of times (e.g., 300 times). For each shuffle, the percentage of patients in the simulated treatment group who 'died' is calculated. The distribution of these simulated percentages will be plotted to visualize the range of outcomes possible due to random chance alone."
+  },
+  {
+    "title": "Interpreting Simulation Results",
+    "body": "After running the simulation in the \"TB or Not TB\" practicum (Unit 3), students must interpret the results to draw conclusions about the effectiveness of Streptomycin. They will compare the distribution of outcomes from the chance model (shuffling) with the actual observed data. Based on this comparison, students need to decide whether the observed results are likely due to the treatment's effectiveness (i.e., Streptomycin is a better treatment) or if the difference could reasonably be attributed to random chance (i.e., treatment and outcome are independent). This interpretation directly addresses whether Streptomycin is likely effective."
+  },
+  {
+    "title": "Causation and Conclusion for TB Experiment",
+    "body": "A critical question in the \"TB or Not TB\" practicum (Unit 3) is whether the observed results allow students to claim that Streptomycin *causes* the recovery of tuberculosis patients. Students must explain their reasoning, considering the principles of experimental design and statistical inference. This involves discussing whether the study design, particularly the randomization and the comparison to a chance model, provides sufficient evidence to establish a causal link between Streptomycin and patient recovery, or if other explanations are still possible."
+  },
+  {
+    "title": "Presentation and Summary Requirements",
+    "body": "The culmination of the \"TB or Not TB\" practicum (Unit 3) involves presenting and summarizing the findings. Students are required to create a 4-5 slide presentation, lasting approximately 5 minutes, detailing their results and methodology. This presentation must include a thorough explanation of how they designed and conducted their simulation in RStudio. Each student must participate in the presentation. Additionally, a 2-4 page, double-spaced written summary of their analysis must be submitted, further elaborating on their conclusions and the experimental process."
+  },
+  {
+    "title": "Tuberculosis Fact Sheet Resource",
+    "body": "As part of the background information for the \"TB or Not TB\" practicum in Unit 3, students are provided with a link to a tuberculosis fact sheet. This resource, available at [https://www.cdc.gov/tb/communication-resources/tuberculosis-fact-sheet.html](https://www.cdc.gov/tb/communication-resources/tuberculosis-fact-sheet.html), offers factual information about tuberculosis. Students may need to consult this or similar resources to answer specific research questions posed within the practicum, particularly those related to the disease itself and its context."
+  },
+  {
+    "title": "Randomized Study and Clinical Trials",
+    "body": "The \"TB or Not TB\" practicum (Unit 3) is centered around a real-world example of a randomized study, which is a type of clinical trial used in medical research. Clinical trials are experiments designed to test the efficacy and safety of new medical treatments. Sir Austin Bradford Hill's 1948 study on Streptomycin for tuberculosis is presented as a historical example. The practicum guides students through the process of analyzing such data, emphasizing the importance of randomization and control groups in establishing treatment effectiveness."
+  },
+  {
+    "title": "Chance Model vs. Treatment Effect",
+    "body": "A core component of the \"TB or Not TB\" practicum (Unit 3) is the statistical comparison between a chance model and the actual observed treatment effect. The chance model represents a scenario where the antibiotic Streptomycin has no real impact on tuberculosis outcomes. By simulating this null hypothesis repeatedly (e.g., through shuffling), students generate a distribution of potential outcomes. They then compare the actual observed difference in outcomes between the treatment and control groups to this distribution. If the actual outcome falls far outside the range expected by chance, it provides evidence that the treatment likely has a real effect."
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Abstract of Unit 1 Lesson 5: So Many Questions",
+    "body": "This lesson focuses on understanding the characteristics of a good statistical question. Students will learn that statistical questions are those that address variability and can be answered with data, often requiring an iterative process to refine from a general idea to a precise inquiry. Key features of a good statistical question include clear variables and population, answerability with data, focus on the whole group rather than an individual, clear intention (summary, comparison, association, time series), and significance or purpose. The lesson includes activities where students analyze existing questions, generate their own based on collected data (e.g., stick figure survey), and refine them using specific criteria. It distinguishes between survey questions (data collection) and statistical questions (data analysis). The lesson also introduces types of statistical questions: summary, comparison, and association, and prepares students for the next lesson by having them collect nutrition labels for data analysis."
+  },
+  {
+    "title": "Objective and Materials for Unit 1 Lesson 5",
+    "body": "The primary objective of Unit 1 Lesson 5 is for students to learn and identify the features of a good statistical question. The materials required for this lesson include Post-its for student responses and a handout titled 'Statistical Questions Scenarios' (LMR_U1_L5). This handout serves as a resource for additional practice in identifying and rewriting statistical questions."
+  },
+  {
+    "title": "Vocabulary: Statistical Questions",
+    "body": "Statistical questions are defined as questions that address variability and can be answered with data. They are inquiries posed to data. The lesson introduces three main types of statistical questions: summary, comparison, and association. These terms are linked to the purpose of the statistical investigation, whether it is to summarize data, compare different groups, or find relationships between variables. Students learn to identify and create questions that fit these categories."
+  },
+  {
+    "title": "Essential Concepts of Good Statistical Questions",
+    "body": "A good statistical question is characterized by several key features. According to Dr. Pip Arnold's research, these include: (1) clear variables of interest, (2) a clearly defined group or population, (3) the question must be answerable with available data, (4) it must inquire about the entire group, not just an individual, (5) the intention of the question must be clear (e.g., summary, comparison, association, time series), and (6) the question should be worth investigating, interesting, and purposeful. The development of such questions is often an iterative process, starting with a general idea and becoming more precise over time. Statistical questions may also be referred to as statistical investigative questions."
+  },
+  {
+    "title": "Lesson Activity: Entrance Slip and Defining Statistical Questions",
+    "body": "Unit 1 Lesson 5 begins with an entrance slip activity where students submit tickets displaying the four components of the Data Cycle. Following this, students are prompted to recall the definition of a statistical question: 'questions that address variability and can be answered with data.' A key method for determining if a question is statistical is to ask, 'Do we need to see the data to answer the question?' This initial phase sets the stage for understanding the core concepts of statistical inquiry."
+  },
+  {
+    "title": "Lesson Activity: Analyzing and Differentiating Statistical Questions",
+    "body": "Students in Unit 1 Lesson 5 analyze two questions: 'How old are you?' and 'How old are the students in my school?' In pairs, they use the definition of a statistical question to determine which one is statistical. The discussion highlights that 'How old are you?' is not a statistical question because there is only one possible answer for an individual, hence no variability. Conversely, 'How old are the students in my school?' is a statistical question because the ages of students vary, demonstrating variability within the data. This activity uses an Agree/Disagree instructional strategy."
+  },
+  {
+    "title": "Lesson Activity: Survey Questions vs. Statistical Questions",
+    "body": "Unit 1 Lesson 5 clarifies the distinction between survey questions and statistical questions. Survey questions are used to collect data, while statistical questions are posed to analyze that data. Students are reminded of the data collected about stick figures (name, GPA, friends, sport, height, shoe) and the survey questions used: 'What is your name?', 'What is your GPA?', 'How many friends do you have?', 'What sport do you play?', 'How tall are you in inches?', and 'What type of shoe do you mostly wear?'. It's emphasized that understanding the exact survey questions is crucial before formulating statistical questions, as the context of collected data (e.g., the meaning of a ball icon) might be ambiguous."
+  },
+  {
+    "title": "Lesson Activity: Generating Statistical Questions",
+    "body": "In Unit 1 Lesson 5, students work in teams to create statistical questions that can be answered using the previously collected data about stick figures. The sentence stem 'I wonder...' is introduced to facilitate the generation of questions. The Recorder/Reporter in each team documents these questions on post-its. Subsequently, students identify the variables each question investigates by circling the variable names within their questions. This activity helps students practice formulating data-driven inquiries."
+  },
+  {
+    "title": "Lesson Activity: Categorizing Statistical Questions",
+    "body": "Following the generation of statistical questions in Unit 1 Lesson 5, the Task Manager in each team organizes the questions on the board. Questions involving a single variable are placed on the left, while those involving two or more variables are placed on the right. This sorting activity helps students differentiate between types of statistical questions: summary (single variable), comparison (numerical variable across groups), and association (relationship between paired variables). This step prepares them for refining these questions to meet the criteria of a 'good' statistical question."
+  },
+  {
+    "title": "Lesson Activity: Refining Statistical Questions - Summary Example",
+    "body": "Unit 1 Lesson 5 involves a class-wide process of transforming initial statistical questions into 'good' statistical questions using a provided set of criteria. An example demonstrates this refinement for a summary question: 'I wonder... Who has the most friends?' This question is analyzed against features like clarity of variables, population, answerability, focus on the group, intention, and purpose. The original question is identified as focusing on an individual and lacking a clear population. It is reworded to 'How many friends does this group of stick figures have?' to address these shortcomings."
+  },
+  {
+    "title": "Lesson Activity: Refining Statistical Questions - Comparison Example",
+    "body": "Continuing the refinement process in Unit 1 Lesson 5, a comparison statistical question is analyzed and improved. The initial question, 'I wonder... Does someone who plays a specific sport have more friends?', is evaluated against the criteria for a good statistical question. Issues identified include vagueness about the population and the focus on 'someone' rather than the group. The question is then reworded to better address the group and the comparison of variables. Examples of refined questions include: 'Is there a difference in the typical number of friends the stick figures have based on the sport they play?' and 'Do the stick figures who play soccer tend to have more friends than the stick figures who play tennis?'"
+  },
+  {
+    "title": "Lesson Activity: Team Revision and Peer Feedback",
+    "body": "In Unit 1 Lesson 5, student teams revisit their generated statistical questions and modify them using the criteria for good statistical questions. Facilitators guide this process, ensuring all criteria are considered for each question. Task Managers encourage participation, and Resource Managers ensure materials are accessible. Recorders document the revisions. Subsequently, Reporters from selected teams share their revised questions, and the audience provides constructive feedback. Disagreements are discussed before moving on, fostering critical evaluation of statistical question formulation."
+  },
+  {
+    "title": "Additional Practice and Homework Preparation",
+    "body": "Unit 1 Lesson 5 offers additional practice through the 'Statistical Questions Scenarios' handout, allowing students to further hone their skills in identifying and rewriting statistical questions. This can be completed individually or in groups, either during class or as homework. To prepare for the upcoming lesson on food habits and the Data Cycle, students are assigned homework: to collect at least two 'Nutrition Facts' labels from foods or snacks they commonly consume. Printouts from online sources are also acceptable alternatives."
+  },
+  {
+    "title": "Class Scribes and Homework Assignment",
+    "body": "As part of Unit 1 Lesson 5, one team is designated as 'Class Scribes' to present a brief summary of what they consider the three most important topics covered during the lesson. The homework assignment reinforces the practical application of data collection for future analysis. Students are instructed to bring at least two cutouts of 'Nutrition Facts' labels from typical snacks (e.g., chips, yogurt, blended drinks). This task serves as preparation for the next lesson, which will involve using the Data Cycle to analyze food habits based on this collected data."
+  },
+  {
+    "title": "Definition and Purpose of Statistical Questions",
+    "body": "Statistical questions are inquiries designed to address variability and are answerable using data. They are fundamentally different from questions that have a single, deterministic answer. The core idea is that to answer a statistical question, one must examine a dataset because the outcomes are not the same for every individual or case. A helpful test is to ask: 'Do we need to see the data to answer the question?' If the answer is yes, it is likely a statistical question. The purpose of these questions is to understand patterns, trends, and relationships within a group or population."
+  },
+  {
+    "title": "Types of Statistical Questions: Summary, Comparison, Association",
+    "body": "Statistical questions can be broadly categorized based on their investigative intent. Summary statistical questions focus on describing a single variable within a dataset (e.g., 'What is the average height of students in this class?'). Comparison statistical questions aim to compare a numerical variable across different groups (e.g., 'Is there a difference in test scores between students who studied for one hour versus those who studied for three hours?'). Association statistical questions seek to determine if there is a relationship or correlation between two variables (e.g., 'Is there an association between hours of sleep and GPA?'). Understanding these types helps in formulating precise and meaningful research questions."
+  },
+  {
+    "title": "Iterative Process of Developing Statistical Questions",
+    "body": "Developing a 'good' statistical question is often an iterative process that requires time, thought, and refinement. It typically begins with a broad, general curiosity or a vague idea that needs to be made specific and measurable. This involves identifying the key variables, defining the population of interest, and ensuring the question can actually be answered with the data that can be collected or is available. The process involves drafting, evaluating against criteria, and revising until the question is precise, relevant, and investigates a phenomenon with variability."
+  },
+  {
+    "title": "Criteria for a Good Statistical Question (Part 1)",
+    "body": "A good statistical question possesses several specific characteristics that make it effective for data analysis. Firstly, the variable(s) of interest must be clearly defined. Secondly, the group or population the question is about must be clearly specified. For instance, asking about 'students' is less clear than asking about 'students in Grade 7 at Central High School'. Thirdly, the question must be answerable with the data that is available or can be collected. A question that cannot be answered by data is not a statistical question in practice."
+  },
+  {
+    "title": "Criteria for a Good Statistical Question (Part 2)",
+    "body": "Continuing the criteria for a good statistical question, it is essential that the question asks about the whole group or population of interest, rather than focusing on a single individual's data point. For example, asking 'What is the age of the oldest student?' is less of a statistical question than 'What is the age distribution of students in the school?'. Furthermore, the intention behind the question must be clear, indicating whether it aims for summary, comparison, association, or time series analysis. Finally, a good statistical question is one that is worth investigating—it should be interesting, relevant, and serve a clear purpose."
+  },
+  {
+    "title": "Role of Survey Questions in Data Collection",
+    "body": "Survey questions are the tools used to gather raw data from individuals or a population. They are distinct from statistical questions, which are used to analyze the collected data. For example, if researchers want to understand students' study habits, they might use survey questions like 'How many hours did you study for the last exam?' or 'What is your current GPA?'. It is crucial to understand the exact wording and intent of survey questions because ambiguous survey questions can lead to data that is difficult to interpret or analyze statistically. The data collected through surveys forms the basis for answering statistical questions."
+  },
+  {
+    "title": "Distinguishing Individual Questions from Group Questions",
+    "body": "A fundamental aspect of a good statistical question is its focus on a group or population, rather than an individual. Questions like 'How old are you?' pertain only to the individual asking or being asked, and there's no variability to explore within that single response. In contrast, a question like 'How old are the students in my school?' requires examining the ages of many students to understand the range, average, and distribution of ages. This variability across individuals within a group is what statistical questions aim to investigate and understand."
+  },
+  {
+    "title": "Homework: Nutrition Facts Labels for Data Analysis",
+    "body": "For the upcoming lesson, students are assigned homework to collect 'Nutrition Facts' labels from food items they regularly consume. This task involves bringing at least two cutouts of these labels to class. Examples of suitable items include chips, yogurt, or blended drinks. The purpose of this collection is to gather real-world data that will be used in subsequent lessons for analysis, likely involving the Data Cycle. An alternative is to print these labels from online sources if physical cutouts are not feasible."
+  }
+]

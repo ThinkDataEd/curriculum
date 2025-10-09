@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Lab 1E - What's the Relationship?",
+    "body": "This lab, Unit 1 Lab 1E, focuses on finding patterns and relationships within data using visualizations. It emphasizes that raw data is often difficult to interpret, and visual tools like plots are essential for identifying interesting observations. The lab introduces multiple variable plots, which allow for the inclusion of more than one variable to create more informative visualizations. Specific plot types covered include scatterplots for examining relationships between two numerical variables. The lab guides users through creating scatterplots to explore relationships between variables like sodium and sugar, protein and calories, and how these relationships might change when considering other variables or facets like salty/sweet. It also introduces multi-facet plots, using techniques like faceting by two categorical variables (e.g., healthy_level and salty_sweet) to gain deeper insights. The lab concludes with independent practice questions requiring users to create appropriate graphs to investigate relationships between variables like 'healthy_level' and 'ingredients', and to identify other variables related to the number of ingredients."
+  },
+  {
+    "title": "Unit 1 Lab 1E: Introduction to Finding Patterns",
+    "body": "Unit 1 Lab 1E, titled \"What's the Relationship?\", is designed to teach participants how to discover meaningful patterns and relationships within data. The core idea is that raw data itself is often too complex to yield insights easily. Therefore, visual representations, specifically plots, are introduced as the primary tool to aid human perception in identifying these hidden patterns. The lab stresses the importance of actively searching for these relationships, noting that \"finding them!\" is key to discovery. It aims to enhance plotting skills by showing how to incorporate multiple variables into single plots, making them richer and more informative. Participants are instructed to import a dataset named 'food' from a 'Food Habits' campaign to use throughout the lab activities."
+  },
+  {
+    "title": "Identifying Variables in Plots",
+    "body": "A crucial step in understanding data visualizations is identifying the variables used and how they are represented. In Unit 1 Lab 1E, participants are shown an example plot and asked to determine the number of variables involved, identify each variable, and describe its role in creating the plot. This exercise, marked with a red question (1), emphasizes the importance of dissecting a visualization to understand its underlying data structure. Recognizing which variables are plotted and how they are mapped (e.g., to axes, color, or facets) is fundamental to correctly interpreting the information conveyed by the graph."
+  },
+  {
+    "title": "Multiple Variable Plots for Relationship Discovery",
+    "body": "Unit 1 Lab 1E introduces the concept of 'multiple variable plots'. These plots are essential for uncovering relationships between different data points, going beyond simple univariate or bivariate analyses. By incorporating more than one variable, these plots offer a richer context for data exploration. The lab specifically highlights how variables like 'height' and 'sex' can be used in conjunction to create more informative visualizations. The primary goal of using multiple variable plots is to facilitate the discovery of connections and dependencies within the dataset, enabling deeper insights than single-variable plots could provide."
+  },
+  {
+    "title": "Scatterplots for Numerical Variable Relationships",
+    "body": "Scatterplots are a key visualization tool introduced in Unit 1 Lab 1E for understanding the relationship between two *numerical* variables. They are particularly useful when exploring how one numerical quantity changes in response to another. The lab provides an example image of a scatterplot and includes an exercise (red question 2) where participants must fill in blanks to correctly construct a scatterplot. This involves specifying the variables for the y-axis (e.g., 'sodium') and the x-axis (e.g., 'sugar'), along with the dataset ('food'), using the syntax `xyplot(____ ~ ____, data = food)`."
+  },
+  {
+    "title": "Applying Scatterplots: Protein and Calories",
+    "body": "Unit 1 Lab 1E guides participants to use scatterplots to analyze real-world data. Specifically, they are asked to create a scatterplot to investigate the relationship between 'protein' and 'calories' in snacks (red question 3). This involves interpreting the resulting plot to determine if snacks with more protein also tend to have more calories and to hypothesize reasons for the observed relationship. Further exploration includes examining how swapping the axes variables ('protein' and 'calories') affects the interpretation of the relationship (red question 4) and how this relationship changes when considering the 'salty_sweet' characteristic of the snack (red question 5), requiring participants to document the code used."
+  },
+  {
+    "title": "Advanced Scatterplots: Incorporating Four Variables",
+    "body": "Unit 1 Lab 1E demonstrates how scatterplots can be extended to visualize relationships involving up to four variables. This is achieved by mapping variables to different visual elements: one numerical variable on the x-axis, another on the y-axis, a categorical variable to create facets (sub-plots), and a second categorical variable to control the color of the points. The lab instructs participants to use the `groups` argument, similar to its use in bargraphs, to assign colors based on a categorical variable. A specific task (red question 6) requires creating a scatterplot using 'sodium', 'sugar', 'cost', and 'salty_sweet', demonstrating this multi-layered visualization technique."
+  },
+  {
+    "title": "Multi-Facet Plots for Deeper Insights",
+    "body": "Unit 1 Lab 1E explores the power of 'multiple facets' in data visualization. Faceting involves splitting a plot into smaller sub-plots based on the values of one or more categorical variables. This technique allows for the examination of relationships within specific subsets of the data, potentially revealing insights that might be obscured in a single, combined plot. The lab instructs participants to create a 'dotPlot' or 'histogram' of the 'calories' variable, faceted by both 'healthy_level' and 'salty_sweet' (red question 7). This approach helps to understand how different combinations of these factors influence calorie counts."
+  },
+  {
+    "title": "Analyzing Faceted Data: Healthy Level and Calories",
+    "body": "Following the creation of multi-facet plots in Unit 1 Lab 1E, participants are prompted to analyze the results. Specifically, they are asked to describe how the 'healthy_level' of a snack impacts its 'calories', considering whether the snack is categorized as 'Salty' or 'Sweet' (red question 8). This involves interpreting the distributions shown in the faceted histograms or dot plots. The lab also highlights that while 'healthy_level' is treated as categorical for faceting, R may initially recognize it as numerical, suggesting the use of the `str` function to verify its structure and noting that labels might appear as tick marks. The eventual conversion of 'healthy_level' to a factor is mentioned for future practice."
+  },
+  {
+    "title": "Understanding Variable Types: Numerical vs. Categorical",
+    "body": "Unit 1 Lab 1E touches upon the distinction between numerical and categorical variables in data analysis, particularly in the context of plotting. It is noted that faceting by a numerical variable is generally not recommended because the high number of unique values can overwhelm the plot, making it difficult to interpret. This is contrasted with the use of categorical variables for faceting, which creates distinct, manageable sub-plots. The lab also points out that R might initially interpret a variable like 'healthy_level' as numerical even when it's conceptually categorical, and suggests using the `str` function to check the data type. Participants are informed that they will learn to convert such variables into factors later."
+  },
+  {
+    "title": "Independent Practice: Ingredients and Healthiness",
+    "body": "Unit 1 Lab 1E concludes with an 'On your own' section for independent practice, encouraging participants to apply the learned visualization techniques. The first task (red question 9) requires creating an appropriate graph to determine if healthier snacks tend to have more or fewer ingredients than less healthy snacks. This necessitates choosing a suitable plot type that can compare the 'ingredients' variable across different levels of 'healthy_level'. Participants are expected to select a visualization method that clearly illustrates any potential relationship or difference."
+  },
+  {
+    "title": "Independent Practice: Exploring Ingredients Relationships",
+    "body": "As part of the independent practice in Unit 1 Lab 1E, participants are asked to further investigate the 'ingredients' variable. After exploring its relationship with 'healthy_level', they must identify any other variables in the dataset that appear to be related to the number of ingredients a snack has (red question 10). For each identified relationship, they need to describe the nature of that relationship. This task encourages broad data exploration using various appropriate graphs, reinforcing the skills developed throughout the lab for uncovering multi-variable connections."
+  },
+  {
+    "title": "Vocabulary: Multiple Variable Plot",
+    "body": "In Unit 1 Lab 1E, a 'multiple variable plot' is defined as a visualization that incorporates more than a single variable. These plots are distinguished from simpler graphs by their ability to display complex relationships and patterns involving two or more variables simultaneously. Examples provided in the lab include using 'height' and 'sex' together. The core purpose of multiple variable plots is to enhance data analysis by making visualizations more informative and facilitating the discovery of inter-variable relationships."
+  },
+  {
+    "title": "Vocabulary: Scatterplot",
+    "body": "A 'scatterplot' is a type of plot introduced in Unit 1 Lab 1E. It is specifically designed to visualize the relationship between two *numerical* variables. In a scatterplot, each data point represents an observation, with its position determined by the values of the two variables plotted on the x-axis and y-axis, respectively. Scatterplots are effective tools for identifying trends, correlations, and patterns between continuous data."
+  },
+  {
+    "title": "Code Snippet: Creating a Scatterplot",
+    "body": "Unit 1 Lab 1E provides a template for creating scatterplots using the `xyplot` function. The general syntax demonstrated is `xyplot(____ ~ ____, data = food)`. Participants are tasked with filling in the blanks to specify which numerical variables should be plotted on the y-axis and x-axis, respectively, using the imported `food` dataset. For instance, to plot 'sugar' on the x-axis and 'sodium' on the y-axis, the code would be `xyplot(sodium ~ sugar, data = food)`."
+  },
+  {
+    "title": "Code Snippet: Faceting Plots",
+    "body": "Unit 1 Lab 1E introduces faceting as a method to create multiple sub-plots based on categorical variables. The syntax for faceting involves using a plus sign (+) to combine facetting variables. For example, to facet a plot by both 'healthy_level' and 'salty_sweet', the formula would include `healthy_level + salty_sweet`. This is applied within plotting functions like `histogram()` or `dotPlot()` to generate comparisons across different data segments, such as `histogram(~ calories, data = food, ~ healthy_level + salty_sweet)`."
+  },
+  {
+    "title": "Code Snippet: Checking Variable Structure",
+    "body": "In Unit 1 Lab 1E, the `str` function is recommended for verifying the data type of variables within a dataset. This is particularly relevant when dealing with variables that might be treated differently by R depending on their perceived type, such as 'healthy_level'. Typing `str(food)` in the R console would display the internal structure of the `food` data frame, including the data type (e.g., numerical, character, factor) assigned to each variable. This helps in understanding how R interprets the data, which is crucial for correct plotting and analysis."
+  }
+]

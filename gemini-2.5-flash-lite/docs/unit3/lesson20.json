@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Unit 3 Lesson 20: Online Data-ing",
+    "body": "This lesson, Unit 3 Lesson 20: Online Data-ing, aims to demonstrate that data exists on the internet in various forms, formats, and for numerous purposes. Students will explore the concept of data farms and how data is stored and distributed online. The lesson covers the structure of HTML, the use of tags for data representation, and the conversion of data into CSV format for easier analysis in R. Through activities involving Wikipedia data tables and hands-on exercises, students will understand the challenges and methods of accessing and processing online data, preparing them for future data collection and analysis tasks, including Participatory Sensing campaigns and web scraping."
+  },
+  {
+    "title": "Objective of Unit 3 Lesson 20: Online Data-ing",
+    "body": "The primary objective of Unit 3 Lesson 20: Online Data-ing is for students to discover that data is present on the Internet in a wide array of areas, formats, and for diverse purposes. This lesson expands students' understanding of data beyond structured formats like spreadsheets and R data frames, introducing them to data embedded within web pages and the different ways it can be accessed and utilized."
+  },
+  {
+    "title": "Materials for Unit 3 Lesson 20: Online Data-ing",
+    "body": "The materials required for Unit 3 Lesson 20: Online Data-ing include: a video titled 'Explore a Google Data Center with Street View' accessible online, a 'Wikipedia – Video Games' handout (LMR_U3_L20_A), a 'Wikipedia – Video Games – CSV Format' handout (LMR_U3_L20_B), and an 'Online Data-ing' handout (LMR_U3_L20_C). These resources are designed to facilitate the exploration of online data formats and concepts."
+  },
+  {
+    "title": "Vocabulary: Data Farm",
+    "body": "A data farm is a physical location where high-capacity servers are situated to store and manage large volumes of data. This concept is crucial in understanding the infrastructure behind online data storage and accessibility. Unit 3 Lesson 20 introduces this term to help students visualize the physical space where the vast amounts of data found on the internet are housed."
+  },
+  {
+    "title": "Vocabulary: Tags in HTML",
+    "body": "In the context of HTML (Hypertext Markup Language), tags are used to mark up text and define its structure and presentation on a web page. Specifically, for data representation, tags like `<th>` (table header) and `<td>` (table data) are used. The variable names, or headers, are stored between `<th>` and `</th>` tags. These tags instruct web browsers on how to display information, such as identifying column titles in a table."
+  },
+  {
+    "title": "Vocabulary: HTML",
+    "body": "HTML stands for Hypertext Markup Language. It is a standardized system used for creating web pages. HTML uses a system of tags to define the structure, content, and appearance of web pages, including font styles, colors, graphics, and hyperlinks. In Unit 3 Lesson 20, students learn how HTML is used to present data on the internet and how its structure can be analyzed to extract information."
+  },
+  {
+    "title": "Essential Concepts: Online Data-ing",
+    "body": "The essential concept of Unit 3 Lesson 20: Online Data-ing is to broaden students' understanding of what constitutes data. It emphasizes that many web pages contain information which, with the right approach, can be extracted and transformed into a usable data format. This concept challenges the traditional view of data residing solely in spreadsheets or databases, highlighting the vast potential of the internet as a source of data."
+  },
+  {
+    "title": "Lesson Activity: Introducing Data Farms",
+    "body": "Unit 3 Lesson 20 begins by introducing the concept of a 'data farm'. The instructor asks students if they have heard of the term and, if so, to share their understanding. A data farm is then defined as a physical space housing high-capacity servers for storing large amounts of data. This sets the stage for understanding the physical infrastructure behind internet data."
+  },
+  {
+    "title": "Lesson Activity: Google Data Center Video",
+    "body": "Following the introduction of data farms, students in Unit 3 Lesson 20 watch the video 'Explore a Google Data Center with Street View'. This video visually demonstrates the scale and nature of a modern data farm, illustrating how vast amounts of data are stored and managed. A class discussion ensues, prompting students to reflect on their understanding of 'data' and how data has been stored previously."
+  },
+  {
+    "title": "Lesson Activity: Data on the Internet and HTML",
+    "body": "Unit 3 Lesson 20 explains that a primary method of data distribution is via the Internet, which requires different formats than traditional spreadsheets. Students examine the 'Wikipedia – Video Games' handout (LMR_U3_L20_A), which presents data in a table. The lesson then delves into the HTML source code of this table, introducing HTML tags like `<th>` (table header) and `<td>` (table data), and relating `<th>` tags to 'variable names' or 'headers' in data analysis contexts."
+  },
+  {
+    "title": "Lesson Activity: Analyzing HTML Source Code",
+    "body": "As part of Unit 3 Lesson 20, students, working in teams, analyze the HTML source code corresponding to a video game entry from the Wikipedia data table. They identify where variable names are stored (within `<th>` tags) and how different values are stored (within `<td>` tags). This activity prompts discussions on why data is stored in complex formats like HTML and the challenges of converting it for analysis in R."
+  },
+  {
+    "title": "Lesson Activity: CSV Format for Data",
+    "body": "Unit 3 Lesson 20 introduces the Comma-Separated Values (CSV) format as another way to represent data, using the 'Wikipedia – Video Games – CSV Format' handout (LMR_U3_L20_B). Students learn that CSV files are easily readable by R. They identify that variable names are in the first row and values are separated by commas. The lesson also highlights the challenge of obtaining online data, emphasizing that it's not always a simple export/upload/import process."
+  },
+  {
+    "title": "Lesson Activity: Online Data-ing Hands-on Exercise",
+    "body": "In Unit 3 Lesson 20, students are divided into teams and given the 'Online Data-ing' handout (LMR_U3_L20_C). Each team is assigned a different website from the handout and tasked with using that site to complete the questions provided. This hands-on activity allows students to actively explore different websites, identify data, and consider methods for obtaining and processing it, reinforcing the lesson's objective about the variety of online data."
+  },
+  {
+    "title": "Lesson Activity: Sharing Findings",
+    "body": "Following the hands-on exercise in Unit 3 Lesson 20, each student team shares their findings with another team. During this sharing session, teams display the website they worked with while discussing their results. This collaborative activity promotes peer learning and allows students to see the diverse applications and challenges of online data exploration across different web sources."
+  },
+  {
+    "title": "Class Scribes and Homework: Unit 3 Lesson 20",
+    "body": "In Unit 3 Lesson 20, one team of students acts as 'Class Scribes,' preparing a brief presentation on what they consider the three most important topics covered during the lesson. For homework and the following two days, students are assigned to complete Lab 3E: Scraping web data and Lab 3F: Maps, in preparation for Lesson 21. This transitional activity bridges the concepts of online data exploration with practical data collection methods."
+  },
+  {
+    "title": "Data Storage Formats: HTML vs. CSV",
+    "body": "Unit 3 Lesson 20 contrasts two methods of representing data found online: HTML and CSV. HTML, using tags like `<th>` for headers and `<td>` for data, structures information for web display, making it visually appealing but complex for direct analysis. CSV (Comma-Separated Values) offers a simpler, more structured format where variable names are in the first row and values are separated by commas, making it readily importable into data analysis tools like R. The lesson highlights that while HTML is ubiquitous, CSV is often preferred for data analysis."
+  },
+  {
+    "title": "Retrieving Online Data",
+    "body": "A key challenge addressed in Unit 3 Lesson 20 is how to obtain data that exists online. The lesson intentionally leaves students to ponder this question, illustrating that it is not as simple as a direct 'export, upload, import' process. Students are prompted to consider the complexities of accessing data embedded within web pages, setting the stage for future lessons on web scraping and data acquisition techniques, such as those covered in Lab 3E."
+  }
+]

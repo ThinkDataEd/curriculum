@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Abstract: End of Unit 1 Project - Evaluating Media Claims",
+    "body": "This document outlines the final project for Unit 1, focusing on evaluating claims made in media articles related to nutrition or time use. Students will apply statistical concepts and RStudio skills learned in the unit to analyze a chosen media article. The project involves identifying claims, examining the data cited (if any), and using either the class's 'Food Habits' or 'Time Use' campaign data to support, refute, or determine inconclusiveness regarding the article's claims. The deliverable includes a written report (max 4 pages) with supporting graphics and a 2-minute presentation. The objective is to reinforce the practical application of data analysis in interpreting media information."
+  },
+  {
+    "title": "Unit 1 End Project Objective and Materials",
+    "body": "The objective of the End of Unit 1 Project is for students to apply their learning from the unit's statistics concepts and RStudio skills by evaluating claims presented in media. The primary material required is the project guide itself, titled 'End of Unit 1 Project: Evaluating Claims from the Media'. This guide is available as a PDF document. Students will use this to understand the project requirements, which involve selecting a media article, analyzing its claims, and comparing those claims against data gathered during the 'Food Habits' or 'Time Use' campaigns."
+  },
+  {
+    "title": "Project Task 1: Select and Understand Media Article",
+    "body": "The first task in the End of Unit 1 Project is to select a media article, report, blog post, or similar publication that makes a claim related to nutrition or time use. The chosen article must not have been previously used in class. A list of suggested articles is provided for convenience, covering topics like child nutrition, ultra-processed foods, snacking habits, screen time statistics, and social media usage among teens. Alternatively, students can find their own relevant article. Students must read and understand the main claim(s) presented in the selected media."
+  },
+  {
+    "title": "Suggested Media Articles for Unit 1 Project",
+    "body": "For the End of Unit 1 Project, students can choose from several provided media articles or find their own related to nutrition or time use. Suggested articles include: 'Child Nutrition in America Today: A New Look at a Crisis of Our Own Making', 'Americans Are Eating More Ultra-Processed Foods', '2022 Food and Health Survey Spotlight: Snacking', 'Screen Time Statistics: Average Screen Time by Country', and 'Gallup: Teens Spend More Time On Social Media Than On Homework'. Links to these articles are provided for easy access."
+  },
+  {
+    "title": "Project Task 2: Analyze Media Article Claims and Data",
+    "body": "After selecting a media article, students must analyze it by addressing several key questions. These include identifying the specific claim(s) made by the article, determining the statistical questions the article aimed to answer, and evaluating the data cited. If data is cited, students need to detail who was observed, what variables were measured, who collected the data, how it was collected, and what statistics were used. If no data is cited, students must explain how the article justified its claims without empirical evidence."
+  },
+  {
+    "title": "Project Task 3: Compare Media Claims with Campaign Data",
+    "body": "A crucial step in the End of Unit 1 Project is to determine how the class's previously collected data relates to the claims made in the chosen media article. Students will use either the 'Food Habits' campaign data or the 'Time Use' campaign data to assess whether it supports the article's claim, refutes it, or is inconclusive. This task bridges the gap between external media information and the data analysis skills developed within the unit."
+  },
+  {
+    "title": "Project Task 4: RStudio Analysis and Visualization",
+    "body": "Students are required to use RStudio for their analysis in the End of Unit 1 Project. Utilizing either the 'Food Habits' or 'Time Use' campaign data, they will perform analyses to investigate the media article's claims. This task also involves creating relevant graphics and plots within RStudio that visually support the reasoning and conclusions drawn from the data analysis. These visualizations will be integral to the final report and presentation."
+  },
+  {
+    "title": "Project Task 5: Generate Further Statistical Questions",
+    "body": "As part of the End of Unit 1 Project, after reaching a conclusion regarding the media article's claims based on the campaign data, students must identify and formulate additional statistical questions. These questions should stem from the analysis performed and represent areas for further investigation that were prompted by the project. This encourages deeper critical thinking about the data and the initial claims."
+  },
+  {
+    "title": "Project Task 6: Written Report Requirements",
+    "body": "The culmination of the End of Unit 1 Project is a written report, limited to a maximum of four pages. This report must summarize the student's analysis, including clear evidence to support their reasoning. It must incorporate graphics, plots, and tables generated in RStudio. Importantly, the report needs to address all aspects covered in project tasks 1 through 5, ensuring a comprehensive evaluation of the media claim in relation to the campaign data."
+  },
+  {
+    "title": "Project Task 7: Presentation of Findings",
+    "body": "The final task for the End of Unit 1 Project is to prepare and deliver a brief 2-minute presentation summarizing the findings of the written report. During this presentation, students are expected to actively refer to the graphics, plots, and tables they created to illustrate their analysis and conclusions. This presentation component assesses the ability to communicate data-driven insights concisely and effectively."
+  },
+  {
+    "title": "Vocabulary: Data Scientist",
+    "body": "A Data Scientist is a professional who uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. This unit project, 'Evaluating Claims from the Media', is designed to introduce students to the foundational skills required to become a Data Scientist. By learning basic statistics concepts and RStudio skills, students begin to analyze and interpret data, which are core competencies for this field."
+  },
+  {
+    "title": "Key Concept: Statistical Claims in Media",
+    "body": "Media articles often make claims based on data, which may or may not be accurately represented or statistically sound. This End of Unit 1 Project focuses on 'Evaluating Claims from the Media' to teach students how to critically assess these claims. By applying statistical knowledge and analyzing data from campaigns like 'Food Habits' and 'Time Use', students learn to discern whether media reports are supported by evidence, are misleading, or require further investigation."
+  },
+  {
+    "title": "Key Concept: Applying Unit Learning",
+    "body": "The End of Unit 1 Project serves as a capstone activity where students directly apply the basic statistics concepts and RStudio skills acquired throughout the unit. The objective is to move beyond theoretical learning and engage in a practical task: analyzing real-world media claims using data. This reinforces the value and applicability of the learned material in contexts relevant to everyday information consumption."
+  },
+  {
+    "title": "Campaign Data: Food Habits",
+    "body": "The 'Food Habits' campaign data is one of the datasets available for students to use in the End of Unit 1 Project. Students will leverage this data, collected previously in the unit, to analyze and compare against claims made in media articles related to nutrition. The goal is to determine if the collected 'Food Habits' data supports, refutes, or is inconclusive regarding the media's assertions, thereby applying learned statistical methods."
+  },
+  {
+    "title": "Campaign Data: Time Use",
+    "body": "The 'Time Use' campaign data is the second dataset available for students to utilize in the End of Unit 1 Project. Similar to the 'Food Habits' data, students will employ this dataset to critically evaluate media claims concerning time allocation, screen time, or related topics. By analyzing the 'Time Use' data with RStudio, students will assess its consistency with or contradiction of the media's claims, reinforcing their data analysis skills."
+  },
+  {
+    "title": "RStudio: Tool for Data Analysis",
+    "body": "RStudio is the integrated development environment (IDE) that students will use for the End of Unit 1 Project. The unit has equipped students with the necessary RStudio skills to perform data analysis and create visualizations. In this project, RStudio will be instrumental in manipulating the 'Food Habits' or 'Time Use' campaign data, generating statistical analyses, and producing plots and tables that serve as evidence for the written report and presentation."
+  }
+]

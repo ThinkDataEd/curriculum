@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract for Unit 4 Lesson 5: Refine and Create the Campaign",
+    "body": "Unit 4 Lesson 5 focuses on refining community-focused Participatory Sensing campaigns based on mock implementation findings and then creating these campaigns using a dedicated authoring tool. The lesson emphasizes the importance of statistical questions in guiding campaigns and the necessity of testing and refinement. Students will collaborate in teams to discuss mock implementation results, identify necessary revisions, and then utilize the Campaign Authoring tool and handout to build their campaigns. They will verify the creation of their campaigns and use remaining time to plan for the End of Unit 4 Modeling Activity Project. Homework involves starting data collection for their campaigns."
+  },
+  {
+    "title": "Objective of Unit 4 Lesson 5",
+    "body": "The primary objective of Unit 4 Lesson 5 is for students to revise their community-focused Participatory Sensing campaigns after evaluating findings from a mock implementation. Following the refinement process, students will then use a campaign authoring tool to create their finalized campaigns."
+  },
+  {
+    "title": "Materials for Unit 4 Lesson 5",
+    "body": "The essential material for Unit 4 Lesson 5 is the 'Campaign Authoring' handout. This handout, referenced as [LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf), provides the necessary instructions for students to create their campaigns using the authoring tool."
+  },
+  {
+    "title": "Essential Concepts: Statistical Questions and Campaign Refinement",
+    "body": "Statistical questions are fundamental to guiding Participatory Sensing campaigns, enabling meaningful learning about a community or oneself. It is crucial to conduct mock implementations of these campaigns before full deployment. This testing phase allows for the collection of data to ensure the campaign effectively gathers the intended information, providing insights for necessary refinements."
+  },
+  {
+    "title": "Lesson Activity 1: Discussing Mock Implementation Findings",
+    "body": "In Unit 4 Lesson 5, the first activity involves student teams convening to discuss the outcomes and findings from their recent mock implementation of their Participatory Sensing campaign. This collaborative discussion within teams allows members to share their observations and insights gained during the testing phase."
+  },
+  {
+    "title": "Lesson Activity 2: Planning Campaign Revisions",
+    "body": "Following the discussion of mock implementation findings in Unit 4 Lesson 5, student teams proceed to the next step: discussing and planning the specific revisions required for their campaigns. Based on the data and observations from the mock run, teams identify areas for improvement and changes needed to enhance their campaign's effectiveness."
+  },
+  {
+    "title": "Lesson Activity 3: Creating Campaigns with the Authoring Tool",
+    "body": "Unit 4 Lesson 5 guides students to utilize the Campaign Authoring tool to create their participatory sensing campaigns. This step mirrors the process of creating campaigns seen on smart devices or computers. Teams will select a member to input the required information, following the instructions provided."
+  },
+  {
+    "title": "Lesson Activity 4: Using the Campaign Authoring Handout",
+    "body": "To facilitate the creation of their campaigns in Unit 4 Lesson 5, student teams are provided with the Campaign Authoring handout ([LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf)). This handout contains detailed instructions that guide the selected team member in inputting the necessary information to build the campaign within the authoring tool."
+  },
+  {
+    "title": "Campaign Naming Convention Suggestion",
+    "body": "During Unit 4 Lesson 5, a naming convention is suggested for new campaigns to avoid duplicates. It is recommended that teams include their team name or number in the campaign title. This practice ensures that each campaign is uniquely identifiable, preventing confusion among multiple campaigns with similar names."
+  },
+  {
+    "title": "Lesson Activity 5: Verifying Campaign Creation",
+    "body": "After creating their campaigns using the authoring tool in Unit 4 Lesson 5, students are instructed to refresh their smartphones or web browsers. This action is to verify that their newly created campaign appears correctly in the list of available campaigns, confirming the successful implementation of the authoring process."
+  },
+  {
+    "title": "Lesson Activity 6: Planning for End of Unit 4 Project",
+    "body": "Once campaigns are finalized in Unit 4 Lesson 5, student teams will dedicate the remaining time to planning the expectations for their End of Unit 4 Modeling Activity Project. This proactive planning ensures that students are prepared for the upcoming project, leveraging the skills and understanding gained throughout the unit."
+  },
+  {
+    "title": "Class Scribes Role in Unit 4 Lesson 5",
+    "body": "In Unit 4 Lesson 5, a designated team of students will serve as 'Class Scribes'. Their role is to prepare and deliver a brief presentation summarizing what they believe were the three most important topics discussed or activities completed during the lesson."
+  },
+  {
+    "title": "Homework for Unit 4 Lesson 5: Data Collection",
+    "body": "The homework assignment for Unit 4 Lesson 5 encourages students to begin collecting data by implementing their Team Participatory Sensing campaign. They are given until the end of Unit 4 to gather sufficient data. Since only team members are involved in this data collection, it allows for a controlled and manageable process to ensure adequate data is obtained."
+  },
+  {
+    "title": "Participatory Sensing Campaign Refinement Process",
+    "body": "Refining a Participatory Sensing campaign involves a systematic approach. Initially, statistical questions are formulated to guide the campaign's objectives. A mock implementation is then conducted to test data collection methods and campaign flow. Findings from this mock run are discussed by student teams to identify any issues or areas for improvement. Based on these findings, teams revise their campaign design before proceeding to the final creation and deployment stages. This iterative process, as detailed in Unit 4 Lesson 5, ensures the campaign effectively gathers the intended data."
+  },
+  {
+    "title": "Campaign Authoring Tool Usage",
+    "body": "The Campaign Authoring tool, as used in Unit 4 Lesson 5, is a platform that allows students to create and build their own Participatory Sensing campaigns. Teams use a provided handout ([LMR_U4_L5](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L5.pdf)) to input campaign details. A designated team member enters the required information, following the handout's instructions. After creation, campaigns can be verified on smart devices or web browsers to ensure they appear correctly. A naming convention is suggested to prevent duplicate campaign names."
+  }
+]

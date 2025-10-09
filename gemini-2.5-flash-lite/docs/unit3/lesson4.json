@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract for Unit 3 Lesson 4: Predictions, Predictions",
+    "body": "Unit 3 Lesson 4 focuses on enhancing students' critical reading skills, specifically in anticipating data visualizations and making predictions about experimental outcomes. Students will engage with an article on time perception, analyze its research methods and findings, and then apply these concepts to a class experiment. The lesson involves deciding on experimental treatments, formulating a research question, and predicting the statistical results. Students will use the 'Experiment Predictions' handout to document their hypotheses about how different stimuli might affect time perception. The core idea is to connect theoretical knowledge with practical experimental design and prediction, emphasizing that designing experiments involves crucial decisions about measurement and methodology. The lesson culminates in sharing and discussing predictions, preparing students to conduct the experiment in the following lesson."
+  },
+  {
+    "title": "Objective of Unit 3 Lesson 4",
+    "body": "The primary objective of Unit 3 Lesson 4 is for students to further develop their ability to read articles critically. This involves anticipating the types of data that might be collected from a class experiment and making informed predictions about the likely outcomes of that experiment based on their reading and understanding. The lesson aims to bridge the gap between reading scientific articles and designing/predicting outcomes for their own experiments."
+  },
+  {
+    "title": "Materials for Unit 3 Lesson 4",
+    "body": "The essential materials for Unit 3 Lesson 4 include the article \"Time Perception: How Your Brain Experiences Time\" from PsyBlog, accessible via a provided URL. Additionally, students will need the 'Experiment Predictions' handout, which is referenced by its file path. These resources will guide students in analyzing scientific content and formulating predictions for the class experiment."
+  },
+  {
+    "title": "Vocabulary: Theory (Unit 3 Lesson 4)",
+    "body": "The vocabulary term introduced in Unit 3 Lesson 4 is 'theory'. A theory is defined as an idea or a set of ideas used to explain a situation or a phenomenon. In the context of this lesson, theories are crucial as students will be testing their own theories about time perception through the class experiment and by making predictions about its outcomes."
+  },
+  {
+    "title": "Essential Concepts for Unit 3 Lesson 4",
+    "body": "The key concept highlighted in Unit 3 Lesson 4 is that designing an experiment involves making numerous critical decisions. These decisions encompass what variables should be measured and, importantly, how those measurements will be taken. This underscores the practical and methodological considerations that go into setting up a scientific investigation."
+  },
+  {
+    "title": "Lesson Procedure: Reading and Analyzing the Article (Unit 3 Lesson 4)",
+    "body": "Unit 3 Lesson 4 begins with students reading the article \"Time Perception: How Your Brain Experiences Time.\" They are instructed to read critically, answering specific questions about the study's participants, variables, statistical questions, data collection methods, claims made, and potential statistics that could be derived. Students then discuss their answers in teams, followed by a whole-class 'Whip Around' to share and agree upon responses. This structured analysis prepares them for the subsequent steps of the lesson."
+  },
+  {
+    "title": "Class Experiment Setup: Selecting a Treatment (Unit 3 Lesson 4)",
+    "body": "Following the article analysis, Unit 3 Lesson 4 guides students to finalize their class experiment, which was initiated in the previous lesson. The class collectively decides on a specific treatment to be applied. Inspiration for treatments can come from the article or be novel ideas. Examples of stimuli include music, lights off, or physical activity. The chosen treatment must be feasible within a single 50-60 minute class period, avoiding complex or time-consuming preparations. This step is crucial for defining the experimental conditions."
+  },
+  {
+    "title": "Making Predictions: Testing Theories (Unit 3 Lesson 4)",
+    "body": "Before conducting the experiment in Unit 3 Lesson 4, students engage in predicting its outcomes to test their theories. A 'theory' is defined as an idea used to explain a situation. The class first establishes the research question: \"How does our perception of time change when exposed to a stimulus?\" Students then participate in a poll to gauge belief in differences between treatment and control groups' time estimates. Those who believe in differences are asked to estimate the magnitude of that difference."
+  },
+  {
+    "title": "Unit 3 Lesson 4: Experiment Predictions Handout",
+    "body": "Students in Unit 3 Lesson 4 are distributed the 'Experiment Predictions' handout. Working in pairs, they discuss and complete the handout, which focuses on documenting their predictions about the class experiment's data and outcomes. A key prompt within the handout concerns the expected distribution of time perceptions, with the provided answer suggesting a distribution centered around 60 seconds but including shorter and longer estimates, suitable for visualization with histograms, dotplots, or boxplots."
+  },
+  {
+    "title": "Sharing and Discussing Predictions (Unit 3 Lesson 4)",
+    "body": "In Unit 3 Lesson 4, after students complete the 'Experiment Predictions' handout, their work is shared with the class using an 'Anonymous Author' method. Teams are given a limited time (approximately 2 minutes) to discuss each presented piece of work. They provide feedback or ask questions using a 'Two Cents' strategy, where each team must contribute a comment or question for each 'cent' (token) they receive, ensuring broad participation and critical engagement with the predictions."
+  },
+  {
+    "title": "Looking Ahead: Conducting the Experiment (Unit 3 Lesson 4)",
+    "body": "Unit 3 Lesson 4 concludes by informing students about the next steps. They are told that they will conduct the class experiment, which involves estimating the duration of one minute, during the subsequent lesson (Unit 3 Lesson 5). This lesson serves as the preparatory phase, focusing on critical reading, hypothesis formation, and prediction, laying the groundwork for the practical execution of the experiment."
+  },
+  {
+    "title": "Class Scribes: Summarizing Key Topics (Unit 3 Lesson 4)",
+    "body": "As part of Unit 3 Lesson 4, one designated team of students takes on the role of 'Class Scribes.' Their responsibility is to prepare and deliver a brief presentation to the class summarizing what they believe were the three most important topics covered during the lesson. This activity reinforces learning and encourages synthesis of the material presented."
+  },
+  {
+    "title": "Article Analysis Questions: Time Perception Study (Unit 3 Lesson 4)",
+    "body": "During Unit 3 Lesson 4, students critically analyze the article \"Time Perception: How Your Brain Experiences Time\" by answering specific questions. These include identifying who was observed and what variables were measured (people and their perception of time); the statistical questions researchers aimed to answer (how stimuli affect time perception); who collected the data (researchers); how data were collected (case studies, behavioral experiments, imaging technologies); the article's claims (multiple factors influence time perception: psychological, physiological, environmental); and potential statistics derivable from the ideas presented (e.g., the percentage of people reporting age-related changes in time perception)."
+  }
+]

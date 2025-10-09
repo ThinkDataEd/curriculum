@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract: Practicum 3 - Analyzing Campaign Data",
+    "body": "This practicum focuses on analyzing data collected from a participatory sensing campaign. Students will revisit statistical investigative questions formulated during campaign creation lessons (Unit 3, Lesson 16-18). Using RStudio, they will select one question, identify relevant variables, and perform data analysis. This analysis must include graphical representations and numerical summaries, accompanied by explanations of the chosen methods, their ability to answer the question, and the R code used. Students will also consider the need for additional data to improve their analysis and explore new investigative questions arising from their findings. The practicum culminates in a one-page report and a peer presentation, emphasizing data interpretation and communication. Potential data cleaning needs identified during analysis should also be documented."
+  },
+  {
+    "title": "Practicum 3 Objective",
+    "body": "The primary objective of this practicum is for students to answer a specific statistical investigative question they previously generated. This will be achieved by utilizing RStudio to create graphical representations and numerical summaries of their collected campaign data. The focus is on interpreting the data to provide a concrete answer to their chosen question."
+  },
+  {
+    "title": "Materials for Practicum 3",
+    "body": "The essential material for this practicum is the \"Our Own Campaign\" document. This resource, linked as [LMR_U3_Practicum_Our_Own_Campaign](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Our_Own_Campaign.pdf), contains the data and context necessary for students to conduct their analysis of the participatory sensing campaign data."
+  },
+  {
+    "title": "Practicum 3: Analyzing Our Own Campaign Data",
+    "body": "This practicum involves analyzing data from a participatory sensing campaign created by the class. Students will refer back to the statistical investigative questions developed in Unit 3, Lesson 16 to Lesson 18. The core task is to analyze and interpret the class campaign data to answer one of these questions. This analysis should utilize graphs and numerical summaries. Students will also consider if more data is needed to better answer their chosen question."
+  },
+  {
+    "title": "Step 1 & 2: Selecting a Statistical Investigative Question and Variables",
+    "body": "As part of Practicum 3, students must first revisit the statistical investigative questions formulated for their class campaign during Unit 3, Lesson 16 to Lesson 18. From these, they need to select one specific question that addresses the broader research question. Subsequently, students must identify the specific variables within their campaign data that are most suitable for answering the chosen statistical investigative question."
+  },
+  {
+    "title": "Step 3: Data Analysis for Chosen Question",
+    "body": "For the selected statistical investigative question in Practicum 3, students must conduct a thorough data analysis. This analysis must include both graphical representations (plots) and numerical summaries of the data. The student needs to provide the actual plot and numerical summary, describe what the plot illustrates, explain the rationale behind choosing that specific plot, and demonstrate how the plot and summary directly answer the statistical investigative question. Crucially, the RStudio code used to generate the plot must also be included."
+  },
+  {
+    "title": "Step 4: Evaluating Data Sufficiency",
+    "body": "Following the initial data analysis in Practicum 3, students are required to assess whether the current dataset is sufficient to adequately answer their chosen statistical investigative question. If they determine that additional data would be beneficial, they must propose what kind of data would be most helpful. This could involve suggesting different variables, a modified data collection approach, collecting data over a longer period, or recruiting more participants."
+  },
+  {
+    "title": "Step 5 & 6: Exploring Additional Questions and Analysis",
+    "body": "In Practicum 3, after analyzing their primary question, students must identify two additional statistical investigative questions that are relevant to the overall research question. They will then proceed to analyze and interpret their campaign data to answer these two new questions, following a similar process of data exploration and summary as with their initial question."
+  },
+  {
+    "title": "Step 7: Identifying Data Cleaning Needs and New Questions",
+    "body": "Practicum 3 requires students to reflect on their data analysis process. They need to explain if, during their analysis of any of the statistical investigative questions, they encountered the need for data cleaning (e.g., handling errors, inconsistencies). Additionally, students should describe if their analysis process led them to conceive of new statistical investigative questions that they hadn't initially considered."
+  },
+  {
+    "title": "Step 8: Reporting and Presentation",
+    "body": "The final step of Practicum 3 involves synthesizing the findings from the data analysis. Students are required to compile their results, explanations, and reflections into a one-page report. This report will then be presented to a classmate who was not part of their team, facilitating peer learning and communication of their data analysis insights."
+  },
+  {
+    "title": "RStudio for Data Visualization and Summarization",
+    "body": "Practicum 3 mandates the use of RStudio for analyzing participatory sensing campaign data. Students will leverage RStudio to generate graphical representations (plots) and numerical summaries. This hands-on experience with RStudio is crucial for illustrating data patterns, deriving insights, and providing quantitative evidence to answer their statistical investigative questions. The practicum requires submitting the R code used for these analyses."
+  },
+  {
+    "title": "Statistical Investigative Questions in Participatory Sensing",
+    "body": "Statistical investigative questions are central to Practicum 3. These questions, developed by students in Unit 3, Lesson 16 to Lesson 18 during the creation of their participatory sensing campaign, guide the data analysis. Students select one or more of these questions to answer using their collected data, employing graphical and numerical methods to find evidence-based answers and interpret their findings."
+  },
+  {
+    "title": "Data Analysis Components: Plots and Summaries",
+    "body": "A key requirement in Practicum 3 is the use of both graphical representations (plots) and numerical summaries to analyze campaign data. Students must provide these outputs for their chosen statistical investigative questions. The selection of plots and summaries should be deliberate, with students explaining why they are appropriate for answering their specific questions. This component emphasizes the quantitative aspect of data interpretation."
+  },
+  {
+    "title": "Code Submission in RStudio",
+    "body": "As part of Practicum 3, students are required to include the RStudio code they utilized to generate their plots and numerical summaries. This documentation of the code serves multiple purposes: it allows for reproducibility of the analysis, demonstrates the student's technical skills in R, and provides transparency into the methodology used to derive the presented results."
+  },
+  {
+    "title": "Evaluating Additional Data Needs",
+    "body": "In Practicum 3, students go beyond immediate analysis to critically evaluate their data. They must consider if the collected data is sufficient to fully answer their statistical investigative question. If not, they need to propose specific improvements, such as collecting data with different variables, employing a different collection method, extending the collection duration, or increasing the number of participants. This encourages a deeper understanding of data limitations and research design."
+  }
+]

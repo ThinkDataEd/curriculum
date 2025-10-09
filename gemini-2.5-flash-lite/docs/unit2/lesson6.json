@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract for Unit 2 Lesson 6: Face Off",
+    "body": "Unit 2 Lesson 6, \"Face Off,\" focuses on comparing two or more data distributions. Students will informally assess distributions based on shape, center, and spread to answer statistical questions. The lesson involves calculating the difference between two means and two medians using dotplots and histograms. Key activities include team-based problem-solving with handouts, an \"Active Debate\" format to argue for different data interpretations, and class discussions to summarize findings. Students will learn to make precise statistical comparisons, understanding when to use the mean/MAD for symmetric data and the median/IQR for skewed data or data with outliers. The lesson utilizes \"Comparing Commute Times with Dotplots,\" \"Comparing Exam Scores with Histograms,\" and \"Comparing Fuel Efficiency with Boxplots\" handouts. A vocabulary term, \"rebuttal,\" is introduced in the context of argumentation."
+  },
+  {
+    "title": "Objective: Comparing Distributions",
+    "body": "The primary objective of Unit 2 Lesson 6, \"Face Off,\" is for students to informally compare two or more distributions. This comparison will be based on their understanding of the shape, center, and spread of the data. Students will apply this knowledge to answer statistical questions. A key skill taught is how to calculate the difference between two means and two medians by analyzing histograms or dotplots. This lesson aims to equip students with the ability to draw conclusions and make decisions based on the comparison of statistical data."
+  },
+  {
+    "title": "Materials for Unit 2 Lesson 6",
+    "body": "To effectively conduct Unit 2 Lesson 6, \"Face Off,\" the following materials are required: 1. The \"Comparing Commute Times with Dotplots\" handout (LMR_U2_L6_A). 2. The \"Comparing Exam Scores with Histograms\" handout (LMR_U2_L6_B). 3. A timer for timed activities like debates. 4. The \"Comparing Fuel Efficiency with Boxplots\" handout (LMR_U2_L6_C), which is assigned for homework. These handouts provide the datasets and scenarios for students to analyze and compare distributions."
+  },
+  {
+    "title": "Vocabulary: Rebuttal",
+    "body": "In Unit 2 Lesson 6, the term \"rebuttal\" is introduced. A rebuttal refers to an opposing argument or debate. In the context of this lesson, students will use their data analysis to prepare and present rebuttals to counter arguments made by their peers. This activity encourages critical thinking and the defense of statistical interpretations based on evidence from the data presented in dotplots, histograms, and boxplots. It is a key component of the \"Active Debate\" activity."
+  },
+  {
+    "title": "Essential Concepts: Precise Data Comparisons",
+    "body": "Unit 2 Lesson 6 emphasizes the importance of writing and stating precise comparisons between groups of data, especially when variability is present. These comparisons should be based on four key features: (a) center, (b) spread, (c) shape, and (d) unusual outcomes. When making these comparison statements, students should use comparative terms like \"less than,\" \"greater than,\" or \"about the same as,\" and always relate their statements back to the context of the data being analyzed. This ensures that conclusions drawn from data are clear, accurate, and well-supported."
+  },
+  {
+    "title": "Lesson Activity: Commute Time Comparison",
+    "body": "Unit 2 Lesson 6 begins with a class poll on transportation methods and estimated commute times to school. Students then work in teams to complete the \"Comparing Commute Times with Dotplots\" handout (LMR_U2_L6_A). This activity requires them to analyze dotplots to answer statistical questions and make a recommendation regarding transportation. Following the handout, students engage in an \"Active Debate\" where they argue for different travel methods (street vs. freeway) based on their data analysis. This involves preparing rebuttals and defending their conclusions, enhancing their understanding of comparing distributions using measures of center and spread."
+  },
+  {
+    "title": "Lesson Activity: Exam Score Comparison and Debate",
+    "body": "Following the commute time activity, students in Unit 2 Lesson 6 move on to analyze exam scores using the \"Comparing Exam Scores with Histograms\" handout (LMR_U2_L6_B). They read the background information, discuss statistical questions, and interpret histograms to compare the distributions of exam scores. After completing the handout in teams, the \"Active Debate\" format is revisited. Half of the class participates in the debate, arguing different interpretations of the exam score data, preparing rebuttals, and presenting their arguments. This reinforces the concepts of comparing shape, center, and spread in a new context."
+  },
+  {
+    "title": "Lesson Activity: Summarizing Comparisons",
+    "body": "At the conclusion of Unit 2 Lesson 6, a class discussion is held to summarize the key takeaways from comparing distributions. Students are encouraged to be precise when estimating values for measures of center (mean, median) and measures of spread (MAD, IQR). A critical aspect discussed is the appropriateness of using different measures based on the data's characteristics. The lesson highlights that for symmetric distributions, the mean and MAD are preferred, while for skewed distributions or those with outliers, the median and IQR are more suitable. This discussion synthesizes the learning from the dotplot and histogram activities."
+  },
+  {
+    "title": "Homework: Fuel Efficiency Comparison",
+    "body": "The homework assignment for Unit 2 Lesson 6 involves students completing the \"Comparing Fuel Efficiency with Boxplots\" handout (LMR_U2_L6_C). This activity extends the lesson's focus on comparing distributions to include the use of boxplots. Students will apply the principles learned about analyzing shape, center, and spread to a new dataset, further solidifying their ability to make statistical comparisons. As with the in-class handouts, a teacher-only answer key is provided for reference."
+  },
+  {
+    "title": "Key Concept: Choosing Measures of Center and Spread",
+    "body": "Unit 2 Lesson 6 emphasizes the appropriate use of statistical measures based on data distribution. When a distribution is symmetric, the mean is the preferred measure of center, and the Mean Absolute Deviation (MAD) is the preferred measure of spread. However, if a distribution is skewed or contains outliers, the median is a more robust measure of center, and the Interquartile Range (IQR) is a more suitable measure of spread. This principle helps students make more accurate and informative comparisons between datasets."
+  },
+  {
+    "title": "Lesson Activity: Active Debate and Rebuttal",
+    "body": "A central activity in Unit 2 Lesson 6 is the \"Active Debate.\" Students are divided into two groups, with half participating in a debate while the other half observes (fishbowl style). Roles are later reversed. Students debate recommendations based on data interpretations, with one minute allocated for each side to present their initial argument. Following this, debaters have two minutes to prepare a rebuttal to the opposing argument. Each debater then gets two minutes to present their rebuttal. This process, applied to both commute times and exam scores, encourages students to critically analyze data, anticipate counterarguments, and defend their statistical conclusions effectively."
+  },
+  {
+    "title": "Class Scribes: Key Topic Summary",
+    "body": "As part of Unit 2 Lesson 6, a designated team of students serves as \"Class Scribes.\" Their role is to identify and present the three most important topics covered during the lesson. This activity reinforces the main learning objectives and encourages students to reflect on the core concepts of comparing distributions, understanding measures of center and spread, and applying these concepts to real-world data scenarios presented in the handouts and activities."
+  }
+]

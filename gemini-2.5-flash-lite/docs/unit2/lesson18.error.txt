@@ -1,0 +1,68 @@
+--- ERROR FOR FILE: .\docs\unit2\lesson18.md ---
+
+[
+  {
+    "title": "Abstract: Z-Scores and Normal Distributions",
+    "body": "This lesson introduces the concept of z-scores as a measure of how many standard deviations an observation is from the mean, typically ranging between -3 and +3. Z-scores help determine if an outcome is due to chance or if it's statistically significant. The lesson revisits normal distributions, the Empirical Rule (68-95-99.7 rule), and uses RStudio with the 'Gestation' dataset to explore birth weights. Students learn to calculate mean and standard deviation, visualize distributions with histograms, and manually plot normal curves. The lesson culminates in understanding z-scores as standardized scores and their application in calculating percentiles, illustrating how a baby's weight can be compared to the general population. This knowledge prepares students for upcoming labs focusing on normal distribution models in R."
+  },
+  {
+    "title": "Lesson 18: What's Your Z-Score? - Objective and Materials",
+    "body": "The objective of Lesson 18 is for students to understand that a z-score quantifies how many standard deviations an observation is away from the mean. Typically, z-scores fall between -3 and +3. High absolute z-scores suggest an outcome is unlikely due to chance, while z-scores close to zero suggest it is likely due to chance. Materials for this lesson include a projector for RStudio, an RScript with lesson functions, and a ruler with centimeter marks."
+  },
+  {
+    "title": "Vocabulary: Z-score, Standardized Score, Empirical Rule",
+    "body": "Key vocabulary for Lesson 18 includes: \n\n- **z-score**: This term defines how many standard deviations an observation is located away from the mean of a dataset. \n- **standardized score**: This is an alternative name for a z-score. \n- **Empirical Rule**: Also known as the 68-95-99.7 rule, this principle states that for a normal distribution, approximately 68% of data falls within one standard deviation of the mean, 95% within two standard deviations, and 99.7% within three standard deviations."
+  },
+  {
+    "title": "Essential Concepts: Measuring Extremity with Z-scores",
+    "body": "Z-scores provide a universal method for measuring how extreme a data point is, irrespective of the original units of measurement. Generally, z-scores are expected to fall within the range of -3 to +3. Values at or beyond these limits (-3 or +3 standard deviations from the mean) are considered exceptionally rare or unusual within a distribution."
+  },
+  {
+    "title": "Understanding Normal Distributions and the Empirical Rule",
+    "body": "Students begin by recalling that normal distributions are unimodal, symmetric, and bell-shaped, often seen in real-world data like human heights or test scores. A key concept introduced is that while all normal distributions are bell-shaped, not all bell-shaped distributions are strictly normal. The **Empirical Rule** is presented: in a normal distribution, approximately 68% of observations lie within one standard deviation of the mean, 95% within two standard deviations, and 99.7% within three standard deviations. This rule is visually represented."
+  },
+  {
+    "title": "Exploring the Gestation Dataset in RStudio",
+    "body": "The lesson utilizes RStudio and the 'Gestation' dataset. Students are guided to load the data using `data(Gestation)` and view it with `View(Gestation)`. They can also access its documentation via `?Gestation`. Students are prompted to predict which variables might be normally distributed. The dataset contains numerical variables such as birth weight ('wt'), gestation period ('gestation'), mother's age ('age'), and father's dimensions ('dage', 'dht', 'dwt')."
+  },
+  {
+    "title": "Histogram Analysis of Baby Birth Weights",
+    "body": "Following student predictions, histograms are created in RStudio, for example, `histogram(~wt, data = Gestation)`. The distribution of babies' birth weights ('wt') is examined. Students assess if it appears approximately normal (unimodal, symmetric, bell-shaped) and estimate the mean and standard deviation visually. The lesson then proceeds to calculate the actual mean and standard deviation for birth weight using R."
+  },
+  {
+    "title": "Calculating Mean and Standard Deviation for Birth Weights",
+    "body": "RStudio is used to compute the precise mean and standard deviation for the baby birth weights ('wt') from the 'Gestation' dataset. The commands are: \n\n```R\nmean_wt <- mean(~wt, data = Gestation)\nsd_wt <- sd(~wt, data = Gestation)\n```\n\nThese calculated values serve as the basis for further analysis and visualization on a student-created number line."
+  },
+  {
+    "title": "Visualizing Standard Deviations on a Number Line",
+    "body": "Students draw a number line representing baby birth weights in ounces, marking intervals for the mean and values one, two, and three standard deviations away from the mean. The mean weight is approximately 119.6 ounces, and the standard deviation is approximately 18.2 ounces. Students calculate and label weights corresponding to these standard deviation intervals, e.g., one standard deviation above the mean is 119.6 + 18.2 = 137.8 ounces, and below is 119.6 - 18.2 = 101.4 ounces."
+  },
+  {
+    "title": "Applying the Empirical Rule to Birth Weights",
+    "body": "Based on the number line created, students apply the Empirical Rule. They predict the percentage of babies whose weights fall within one standard deviation of the mean (101.4 to 137.8 ounces). RStudio is then used to verify this by filtering the data (`filter(Gestation, wt > 101.4, wt < 137.8)`) and calculating the actual percentage. This step confirms if the birth weight distribution closely follows a normal model, with approximately 68% expected within one standard deviation."
+  },
+  {
+    "title": "Drawing and Interpreting a Normal Curve Model",
+    "body": "After confirming the birth weight distribution is approximately normal, students draw a normal curve above their number line using guided steps for height estimation at different standard deviation points. This curve serves as a model for the distribution. Students use this model to estimate percentages of babies weighing less than the mean (approx. 50%), between the mean and one standard deviation above (approx. 34%), and more than one standard deviation above the mean (approx. 16%)."
+  },
+  {
+    "title": "Introduction to Z-Scores",
+    "body": "The lesson formally introduces the **z-score**, defined as a measure indicating how many standard deviations an observation is from the mean. It is also known as a **standardized score**. The formula for calculating a z-score is presented: $z=\frac{x-\bar{x}}{s}$, where $x$ is the individual observation, $\bar{x}$ is the mean of the distribution, and $s$ is the standard deviation. Z-scores help answer the question: 'How typical is this value?' A z-score of 0 means the value is exactly the mean; values far from 0 (positive or negative) indicate unusual observations."
+  },
+  {
+    "title": "Calculating and Interpreting Z-scores for Birth Weight",
+    "body": "Students practice calculating z-scores. For a baby weighing 100 ounces, the z-score is calculated as $z = (100 - 119.6) / 18.2 \approx -1.08$. They interpret this negative z-score as the weight being below the mean (below average). Positive z-scores indicate values above the mean. The lesson notes that z-scores rarely fall outside -3 or +3 in typical distributions derived from chance."
+  },
+  {
+    "title": "Z-scores, Percentiles, and R Calculations",
+    "body": "Students visualize where a z-score of -1.08 falls on the normal curve and learn that the area under the curve to the left represents a percentile. A percentile indicates the proportion of observations below a specific value. Using RStudio's `pnorm(100, mean = 119.6, sd = 18.2)`, they find the percentile for 100 ounces is approximately 0.140, or the 14th percentile. This signifies the baby weighs more than 14% of all babies. The concept of using a standardized z-score (mean=0, sd=1) to calculate percentiles is also shown: `pnorm(-1.08, mean = 0, sd = 1) = 0.140`."
+  },
+  {
+    "title": "Application of Percentiles in Medical Contexts",
+    "body": "The lesson highlights the practical use of percentiles, as doctors use them to describe a child's development relative to peers. A baby at the 14th percentile for weight means they are heavier than 14% of babies their age. A z-score of -1.08, falling between -1 and -2 standard deviations, is considered within a typical range, causing no concern. The lesson concludes by stating students will use RStudio to practice normal models in upcoming sessions."
+  },
+  {
+    "title": "Class Scribes and Next Steps: Labs 2H and 2I",
+    "body": "One student team will act as 'Class Scribes,' summarizing the three most important topics from the lesson. The lesson directs students to complete Lab 2H: 'Eyeballing Normal' and Lab 2I: 'R’s Normal Distribution Alphabet' within the next two days. These labs should be finished before commencing the End of Unit Project."
+  }
+]

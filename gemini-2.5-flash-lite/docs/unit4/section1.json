@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract of Unit 4, Section 1: Campaigns and Community",
+    "body": "This document outlines Unit 4, Section 1, focusing on \"Campaigns and Community\" over 5 instructional days. It emphasizes that modeling activities are open-ended problems designed to challenge students to build models for solving complex, real-world issues. These activities can engage students in statistical reasoning and reveal their thinking processes. The section includes an engagement activity involving a video about pollution and data, learning objectives covering statistical reasoning, mathematical practices (reasoning, modeling, structure), data science applications, participatory sensing campaign creation using RStudio, and real-world connections to engineering and data science. Language objectives focus on using complex sentences for data-related summaries, engaging in discussions about data science, and evaluating claims based on data. Data for this section includes a 'trash' dataset and a team-generated participatory sensing campaign. A legend for activity icons is also referenced."
+  },
+  {
+    "title": "Enduring Understandings: Modeling Activities in Education",
+    "body": "Modeling activities are central to this unit, framed as open-ended problems. Their primary purpose is to challenge students to construct models that address complex, real-world problems. These activities serve a dual role: they can actively engage students in the process of statistical reasoning, and they provide a valuable means for educators to understand and assess students' conceptual thinking and problem-solving approaches. The focus is on the application of modeling as a pedagogical tool."
+  },
+  {
+    "title": "Engagement Activity: Fighting Pollution Through Data Video",
+    "body": "The engagement component for this unit involves students watching a video titled 'Fighting Pollution Through Data'. This video is designed to establish the real-world context of the problem of trash, which affects numerous cities globally. It provides essential background information and introduces a baseline topic that will stimulate ideas for the subsequent modeling process. The video can be accessed at the provided URL: https://www.youtube.com/watch?v=xOYAIXjHveA."
+  },
+  {
+    "title": "Learning Objectives: Statistical and Mathematical Focus",
+    "body": "This section details the statistical and mathematical learning objectives, referencing the California Common Core State Standards-Mathematics (CCSS-M) Framework. Modeling is defined as the process of selecting and applying appropriate mathematical and statistical tools to analyze empirical situations, thereby enhancing understanding and improving decision-making. It highlights that relationships in various real-world contexts (physical, economic, public policy, social, everyday life) can be represented using mathematical and statistical models. Technology is recognized as a valuable aid in this process, facilitating the variation of assumptions, exploration of consequences, and comparison of predictions with actual data."
+  },
+  {
+    "title": "Focus Standards for Mathematical Practice (Unit 4)",
+    "body": "Throughout Unit 4, students will focus on developing and applying specific Standards for Mathematical Practice (SMP). The key SMPs emphasized are: SMP-2: Reason abstractly and quantitatively, which involves students making sense of quantities and their relationships. SMP-4: Model with mathematics, where students translate real-world problems into mathematical representations. SMP-7: Look for and make use of structure, encouraging students to recognize patterns and underlying mathematical structures."
+  },
+  {
+    "title": "Learning Objectives: Data Science and Computational Thinking",
+    "body": "In addition to statistical and mathematical skills, this unit also focuses on Data Science and Applied Computational Thinking using RStudio. Students are expected to apply the conceptual understandings of data science developed earlier in the curriculum. A key objective is to 'Create a Participatory Sensing campaign using a campaign Authoring Tool,' integrating practical application of data collection and organization skills within a computational environment."
+  },
+  {
+    "title": "Learning Objectives: Real-World Connections in Modeling",
+    "body": "This unit emphasizes the practical relevance of modeling by highlighting its connection to real-world professions. It states that engineers, data scientists, and statisticians, among others, routinely employ modeling in their daily work. Examples include creating scale models for architectural projects like bridges or developing mathematical models to analyze the impact of forces. Modeling is presented as an integral and essential component of these professional practices."
+  },
+  {
+    "title": "Language Objectives for Data Comprehension and Communication",
+    "body": "The language objectives for this unit aim to enhance students' ability to communicate their understanding of data. 1. Students will utilize complex sentence structures to articulate summaries regarding their comprehension of data, including its collection, usage, and manipulation. 2. Students will actively participate in partner and whole-group discussions to effectively express their grasp of data science concepts. 3. Students will engage with informative texts to critically evaluate claims that are substantiated by data."
+  },
+  {
+    "title": "Data Resources: Trash Dataset and Participatory Sensing",
+    "body": "The data resources for this section include both pre-existing datasets and methods for active data collection. A specific dataset available is related to 'Trash', which can be accessed in R using the command `data(trash)`. Furthermore, students will engage in data collection through a 'Team-generated Participatory Sensing Campaign'. In this activity, student teams will select their own topic and collect data related to it, providing hands-on experience in the data lifecycle."
+  },
+  {
+    "title": "Data Collection Method: Team-Generated Participatory Sensing Campaign",
+    "body": "A core data collection method for this unit is the 'Team-generated Participatory Sensing Campaign'. This hands-on activity requires students to collaborate in teams to select a topic of interest. They will then proceed to collect data relevant to their chosen subject. This approach allows students to apply data science concepts in a self-directed manner, choosing a focus area and designing their own data gathering process, likely utilizing tools and methods discussed in the curriculum."
+  },
+  {
+    "title": "Data File: The 'trash' Dataset",
+    "body": "A specific dataset provided for use in this unit is named 'trash'. This dataset is accessible within the R programming environment. Students can load and explore this data by executing the command ```data(trash)```. This dataset likely contains information relevant to the unit's theme of campaigns and community, potentially related to waste management or pollution, and serves as a concrete example for analysis and modeling activities."
+  },
+  {
+    "title": "Legend for Activity Icons",
+    "body": "This unit references a legend for activity icons, which is visually represented in an image file. The legend, found at '../img/legend.png', serves to help students interpret and understand the different types of activities or components within the instructional material. Each icon likely corresponds to a specific type of task, resource, or engagement method used throughout the unit, aiding in navigation and comprehension of the lesson structure."
+  }
+]

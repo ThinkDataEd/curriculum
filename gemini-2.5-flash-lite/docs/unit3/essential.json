@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Abstract: IDS Unit 3 - Essential Concepts",
+    "body": "Unit 3 of the IDS curriculum covers essential concepts in data collection and analysis. It contrasts anecdotal evidence with data-driven conclusions, emphasizing the importance of scientific rigor. The unit delves into the design and execution of controlled experiments, highlighting key features like treatment and response variables, control groups, randomized assignment, blinding, and double-blinding. It also explores observational studies, differentiating them from experiments and discussing challenges like confounding variables. Data collection methods are extensively covered, including surveys, random sampling, and the use of sensors in participatory sensing campaigns. Concepts of bias in sampling, statistical inference, margin of error, and confidence intervals are introduced. Finally, the unit touches upon practical aspects of data handling, such as working with XML and converting data formats for analysis."
+  },
+  {
+    "title": "Unit 3 Lesson 1: Anecdotes vs. Data",
+    "body": "Unit 3 Lesson 1 emphasizes that data is superior to anecdotes for making sound scientific conclusions. Anecdotes, which are personal stories or isolated examples, can be unreliable due to personal bias, selective presentation of information to support a specific viewpoint, and often do not represent the general trend or population. Scientific inquiry requires rigorous examination of evidence quality, favoring empirical data over subjective accounts to avoid drawing incorrect conclusions."
+  },
+  {
+    "title": "Unit 3 Lesson 2: What is an Experiment?",
+    "body": "Unit 3 Lesson 2 defines a controlled experiment as a scientific method to determine cause-and-effect relationships. Key features include: 1. Identifying a treatment variable (what is manipulated) and a response variable (what is measured to see if it changes). 2. Including a comparison or control group that does not receive the treatment. 3. Randomly assigning subjects to either the treatment or control group (randomized assignment). 4. Ensuring subjects are unaware of their group assignment ('blind'), potentially using a placebo for the control group. 5. Ensuring those measuring the response are also unaware of group assignments ('double blind' if both 4 and 5 are met). These elements help isolate the effect of the treatment variable."
+  },
+  {
+    "title": "Unit 3 Lesson 3: Randomized Assignment",
+    "body": "Unit 3 Lesson 3 highlights that randomized assignment is a crucial component required for establishing a cause-and-effect relationship between variables in scientific studies. By randomly allocating subjects to different groups (e.g., treatment vs. control), researchers can minimize the influence of pre-existing differences between subjects, thereby increasing confidence that any observed differences in outcomes are due to the intervention being tested."
+  },
+  {
+    "title": "Unit 3 Lesson 4: Experimental Design Decisions",
+    "body": "Unit 3 Lesson 4 discusses the critical decision-making process involved in designing an experiment. This includes determining precisely what variables need to be measured (response variables) and establishing the methods and tools to measure them accurately and reliably. Careful planning in this stage is essential for the experiment to yield meaningful and valid results."
+  },
+  {
+    "title": "Unit 3 Lesson 5: Time Perception Experiment",
+    "body": "Unit 3 Lesson 5 focuses on the practical application of experimental design. By designing and conducting an experiment, such as one investigating time perception, students learn to address specific statistical questions of interest. This hands-on experience reinforces the principles of experimental methodology and data analysis."
+  },
+  {
+    "title": "Unit 3 Lesson 6: Observational Studies",
+    "body": "Unit 3 Lesson 6 introduces observational studies as a type of research where researchers observe and collect data without actively intervening or manipulating any variables. In these studies, data is gathered on subjects as they naturally exist or behave, allowing researchers to identify patterns and associations but not typically to establish causality."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Observational Studies vs. Experiments",
+    "body": "Unit 3 Lesson 7 compares observational studies with controlled experiments, noting that experiments are not always feasible. Reasons for this limitation include ethical considerations (e.g., it might be unethical to assign certain treatments), cost constraints, and practical feasibility issues. In situations where experiments are not possible, observational studies become a necessary alternative for gathering information."
+  },
+  {
+    "title": "Unit 3 Lesson 8: Confounding Factors in Observational Studies",
+    "body": "Unit 3 Lesson 8 addresses the challenges posed by confounding factors (or variables) in observational studies. These are extraneous variables that are related to both the potential cause (independent variable) and the effect (dependent variable) being studied. Confounding factors make it difficult to determine a true cause-and-effect relationship because they can create spurious associations, leading to potentially misleading conclusions."
+  },
+  {
+    "title": "Unit 3 Lesson 9: Survey Design",
+    "body": "Unit 3 Lesson 9 focuses on surveys as a method for collecting data. The lesson emphasizes that surveys involve asking simple, straightforward questions to gather information that can be used to answer statistical questions. It highlights the art and challenge of writing effective survey questions that elicit clear and useful data, noting that while difficult, it can also be an engaging process."
+  },
+  {
+    "title": "Unit 3 Lesson 10: Random Sampling",
+    "body": "Unit 3 Lesson 10 introduces random sampling as a popular data collection technique. This method involves selecting a sample of individuals or objects from a larger population in a way that every member has an equal chance of being chosen. The lesson notes that percentages derived from random samples tend to 'center' around the true population parameter, suggesting their reliability."
+  },
+  {
+    "title": "Unit 3 Lesson 11: Statistical Bias and Unbiased Estimates",
+    "body": "Unit 3 Lesson 11 explains that statistics, derived from samples, naturally vary from sample to sample. An 'unbiased' statistic is one whose typical value across many samples equals the true population parameter. Bias occurs when a sampling method or measurement process consistently misses the mark, leading to systematically inaccurate estimates. Failing to use random sampling is a common way to introduce bias."
+  },
+  {
+    "title": "Unit 3 Lesson 12: Bias in Survey Sampling",
+    "body": "Unit 3 Lesson 12 delves into the specifics of bias within survey sampling. It covers identifying sampling methods prone to producing biased results, recognizing how certain groups might be over- or under-represented in a sample, and developing the skills needed to select more dependable sampling techniques. The goal is to minimize systematic errors that distort the findings."
+  },
+  {
+    "title": "Unit 3 Lesson 13: Confidence Intervals",
+    "body": "Unit 3 Lesson 13 addresses the inherent uncertainty present when estimating population parameters from sample data. It proposes that instead of providing a single point estimate, it is more informative and accurate to provide a range of plausible values. This range, known as a confidence interval, better reflects the uncertainty associated with the estimation process."
+  },
+  {
+    "title": "Unit 3 Lesson 14: Margin of Error",
+    "body": "Unit 3 Lesson 14 explains the concept of the margin of error. The margin of error quantifies the uncertainty associated with a sample statistic used to estimate a population parameter. By adding and subtracting the margin of error from the sample estimate, we obtain an interval. We can be highly confident (e.g., 95% confident) that the true population parameter lies within this calculated interval."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Sensors in Data Collection",
+    "body": "Unit 3 Lesson 15 introduces sensors as a method for data collection. Unlike traditional methods like surveys, sensors collect data automatically based on predefined algorithms and often do not directly involve human input during the data capture process itself. This allows for continuous or event-driven data gathering."
+  },
+  {
+    "title": "Unit 3 Lesson 16: Participatory Sensing Triggers",
+    "body": "Unit 3 Lesson 16 discusses a key characteristic of how sensors collect data: the concept of a 'trigger' event. In participatory sensing, this trigger is a pre-defined event that humans agree upon. When this specific event occurs, the sensor system is activated to collect data. This allows for targeted data collection based on specific occurrences."
+  },
+  {
+    "title": "Unit 3 Lesson 17: Creating Participatory Sensing Campaigns",
+    "body": "Unit 3 Lesson 17 focuses on the creation of a Participatory Sensing Campaign. This involves defining survey questions that are prompted by specific 'trigger' events. The overall direction and purpose of the campaign are guided by research questions, ensuring that the data collected is relevant and addresses the intended goals."
+  },
+  {
+    "title": "Unit 3 Lesson 18: Evaluating Participatory Sensing Campaigns",
+    "body": "Unit 3 Lesson 18 stresses the importance of evaluating Participatory Sensing Campaigns before implementation. Statistical questions are used to guide these campaigns, aiming to provide insights into a community or individual behavior. Thorough evaluation ensures the campaign is reasonable in its design, ethically sound, and likely to yield meaningful results."
+  },
+  {
+    "title": "Unit 3 Lesson 19: Implementing Participatory Sensing Campaigns",
+    "body": "Unit 3 Lesson 19 emphasizes the value of practicing data collection prior to the full implementation of a Participatory Sensing Campaign. This preparatory phase allows for the optimization of the campaign's design and procedures, identifying and resolving potential issues in data collection methods to ensure efficiency and effectiveness."
+  },
+  {
+    "title": "Unit 3 Lesson 20: Online Data Sources",
+    "body": "Unit 3 Lesson 20 expands students' understanding of what constitutes data by exploring online resources. It teaches them to recognize that many web pages contain information that can be extracted and transformed into usable data for analysis. This lesson encourages viewing the internet as a rich source of raw data."
+  },
+  {
+    "title": "Unit 3 Lesson 21: XML for Data Storage",
+    "body": "Unit 3 Lesson 21 introduces XML (eXtensible Markup Language) as a tool used in data campaigns. XML is a programming language that allows data to be structured and stored in a format that is both human-readable and machine-readable. Students learn to create basic XML 'tags' to organize and label data effectively within their projects."
+  },
+  {
+    "title": "Unit 3 Lesson 22: Data Format Conversion",
+    "body": "Unit 3 Lesson 22 covers the process of changing data formats, specifically converting XML data into a spreadsheet format. This conversion is useful because spreadsheets are widely used and provide an accessible way to view, manipulate, and analyze data more easily. This step helps in better understanding and utilizing the collected data."
+  }
+]

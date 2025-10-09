@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Lab 4E Abstract: Modeling with Curves",
+    "body": "This lab, 'Some models have curves' (Unit 4 Lab 4E), introduces the concept of using nonlinear models, specifically curves, for prediction when the relationship in the data is not linear. It builds upon previous labs that focused on linear models ('line of best fit'). The lab guides users through fitting a linear model as a baseline, then explores fitting quadratic and cubic curves using the `poly()` function in R. Users will split data into training and testing sets, train different models, visualize the fits using scatterplots and `add_curve()`, and compare their performance using Mean Squared Error (MSE) on the test data. The goal is to understand how increasing model flexibility (by adding polynomial terms) can improve predictions for nonlinear relationships, and to identify the best model based on test MSE."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Data Preparation",
+    "body": "In Unit 4 Lab 4E, the first step is to prepare the data for modeling. This involves loading the `movie` dataset and splitting it into two subsets: a training set and a test set. The `training` set should contain 75% of the data, and the `test` set should contain the remaining 25%. It is crucial to use `set.seed()` before splitting the data to ensure reproducibility of the results. This data splitting is essential for training the models on one portion of the data and evaluating their performance on unseen data in the `test` set."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Linear Model Baseline",
+    "body": "As a baseline for comparison in Unit 4 Lab 4E, a linear model is trained. This model predicts `audience_rating` based on `critics_rating` using the `training` data. The linear model assumes a straight-line relationship between the predictor and the response. After training, the model is assigned to the variable `movie_linear`. This step is followed by visualizing the `test` data with a scatterplot of `audience_rating` versus `critics_rating` and overlaying the `line of best fit` from the `movie_linear` model using the `add_curve()` function. Users are asked to describe how well the line fits the data, noting potential issues with extreme predictor values."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Linear Model Evaluation",
+    "body": "To evaluate the performance of the linear model in Unit 4 Lab 4E, the Mean Squared Error (MSE) is calculated on the `test` data. This metric quantifies the average squared difference between the actual `audience_rating` values and the predictions made by the `movie_linear` model for the data it was not trained on. A lower MSE indicates a better fit. The lab prompts users to record this MSE for later comparison with nonlinear models. The scatterplot created earlier, with the `line of best fit` overlaid, serves as a visual aid in assessing the linear model's fit, particularly highlighting areas where the linear assumption might be inadequate, such as at very low or very high `critics_rating` values."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Introduction to Nonlinear Models",
+    "body": "Unit 4 Lab 4E introduces the concept of fitting curves to data when a linear relationship is insufficient. Unlike linear models represented by `y = a + bx`, nonlinear models can capture more complex relationships. The lab specifically discusses fitting a quadratic curve (`y = a + bx + cx^2`) and a cubic curve (`y = a + bx + cx^2 + dx^3`). The principle is that models with more coefficients (like `c` and `d`) offer greater flexibility in their predictions. This increased flexibility allows them to better approximate data that exhibits curvature, which a simple straight line cannot adequately represent."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Fitting a Quadratic Model",
+    "body": "To model a curved relationship in Unit 4 Lab 4E, a quadratic model is introduced. This is achieved in R using the `lm()` function in conjunction with the `poly()` function. Specifically, to train a quadratic model predicting `audience_rating` from `critics_rating` using the `training` data, the formula `y ~ poly(x, 2)` is used. The number `2` within the `poly()` function indicates that a polynomial of degree 2 (a quadratic term, `critics_rating^2`) should be included in the model, in addition to the linear term (`critics_rating`). This model is then assigned to the variable `movie_quad`."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Comparing Linear and Quadratic Fits",
+    "body": "In Unit 4 Lab 4E, after training the quadratic model (`movie_quad`), its fit is compared visually and quantitatively against the linear model (`movie_linear`). A scatterplot of the `test` data is created, displaying `audience_rating` versus `critics_rating`. Both the `line of best fit` (from the linear model) and the `best fitting quadratic curve` (from the `movie_quad` model) are added to the plot using `add_curve()`, distinguished by color. Users are asked to describe the visual differences in fit and hypothesize which model might have a lower test MSE. This visual comparison helps in understanding the added benefit of the quadratic term in capturing the data's curvature."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Quadratic Model Evaluation",
+    "body": "Following the visual comparison in Unit 4 Lab 4E, the performance of the quadratic model is quantitatively assessed by calculating its Mean Squared Error (MSE) on the `test` data. This MSE for the `movie_quad` model is recorded and compared against the previously calculated MSE for the `movie_linear` model. The lab emphasizes using the test MSE to explain why one model fits the data better than the other. A significantly lower MSE for the quadratic model would indicate that it captures the underlying relationship in the data more effectively than the linear model, especially if the data exhibits a clear curve."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Fitting a Cubic Model",
+    "body": "Expanding on modeling flexibility in Unit 4 Lab 4E, users are tasked with creating a cubic model. This involves training a model to predict `audience_rating` using `critics_rating` with a polynomial of degree 3. Similar to the quadratic model, the `lm()` and `poly()` functions are used, but this time with `poly(critics_rating, 3)` to include terms up to `critics_rating^3`. This model is assigned to the variable `movie_cubic`. This step further increases the model's potential to capture complex patterns in the data beyond simple linear or quadratic trends."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Comparing Three Models",
+    "body": "In the final part of Unit 4 Lab 4E, all three trained models – linear (`movie_linear`), quadratic (`movie_quad`), and cubic (`movie_cubic`) – are compared. A scatterplot of the `test` data is generated, and the `line of best fit`, `best fitting quadratic curve`, and `best fitting cubic curve` are all added to the same plot. This allows for a direct visual assessment of how each model captures the data's trend. Based on this visual inspection, users are asked to predict which model would perform best on the `test` data. This visual comparison is a key step before the final quantitative evaluation."
+  },
+  {
+    "title": "Unit 4 Lab 4E: Final Model Selection",
+    "body": "The culmination of Unit 4 Lab 4E involves using the Mean Squared Error (MSE) calculated on the `test` data to definitively determine the best predictive model among the linear, quadratic, and cubic options. After computing the test MSE for the `movie_cubic` model, users compare it with the MSE values obtained for `movie_linear` and `movie_quad`. The model with the lowest test MSE is identified as the best predictor for unseen data. This quantitative approach validates or refutes the visual assessments made from the plot, reinforcing the principle that a model's true performance is best measured on data it has not been trained on."
+  },
+  {
+    "title": "Vocabulary: Line of Best Fit",
+    "body": "In the context of Unit 4 Lab 4E, the 'line of best fit' refers to the output of a linear regression model. It is the straight line that most closely approximates the relationship between two variables in a dataset. This line is determined by minimizing the sum of the squared vertical distances between the data points and the line itself. For a dataset with predictor `x` and response `y`, the line of best fit is typically represented by the equation `y = a + bx`, where `a` is the intercept and `b` is the slope. The `add_line()` function (or `add_curve()` with a linear model) can be used to plot this line."
+  },
+  {
+    "title": "Vocabulary: Best Fitting Curve",
+    "body": "A 'best fitting curve', as discussed in Unit 4 Lab 4E, represents a nonlinear model that attempts to capture the relationship between variables when a straight line is inadequate. Instead of a single straight line, the 'best fitting curve' can be a parabola (quadratic), a cubic curve, or another polynomial function. These curves are determined by fitting a model (e.g., using `lm()` with `poly()`) that minimizes prediction errors, similar to how a line of best fit is found. The `add_curve()` function is used to plot these nonlinear model fits onto a scatterplot."
+  },
+  {
+    "title": "Vocabulary: Mean Squared Error (MSE)",
+    "body": "Mean Squared Error (MSE) is a key metric for evaluating the performance of predictive models, as used in Unit 4 Lab 4E. It quantifies the average of the squared differences between the observed actual values and the values predicted by the model. The formula for MSE is: MSE = (1/n) * Σ(y_i - ŷ_i)^2, where `n` is the number of data points, `y_i` is the actual value for observation `i`, and `ŷ_i` is the predicted value for observation `i`. A lower MSE indicates that the model's predictions are closer to the actual values, signifying a better fit. In this lab, MSE is calculated on the `test` data to provide an unbiased estimate of the model's generalization ability."
+  },
+  {
+    "title": "R Function: lm()",
+    "body": "The `lm()` function in R stands for 'linear model'. It is a fundamental function used for fitting statistical models. In Unit 4 Lab 4E, `lm()` is used not only for fitting simple linear regression but also for fitting polynomial regression models when combined with the `poly()` function. The basic syntax is `lm(formula, data)`, where `formula` specifies the relationship to be modeled (e.g., `y ~ x`) and `data` is the data frame containing the variables. It returns an object containing information about the fitted model, such as coefficients and fitted values."
+  },
+  {
+    "title": "R Function: poly()",
+    "body": "The `poly()` function in R is used to create orthogonal polynomial terms for regression models. In Unit 4 Lab 4E, it is employed within the `lm()` function to fit nonlinear models. When used as `poly(variable, degree)`, it generates a set of predictor variables that represent the polynomial terms of `variable` up to the specified `degree`. For instance, `poly(critics_rating, 2)` generates terms equivalent to `critics_rating` and `critics_rating^2` (though typically scaled to be orthogonal, which aids numerical stability). This allows `lm()` to fit quadratic, cubic, or higher-degree polynomial curves to the data."
+  },
+  {
+    "title": "R Function: xyplot()",
+    "body": "The `xyplot()` function, likely from the `lattice` package and used in Unit 4 Lab 4E, is a powerful tool for creating scatterplots in R. It allows for easy visualization of the relationship between two variables. The basic usage involves specifying the formula `y ~ x, data = dataset_name`. In the context of this lab, `xyplot()` is used to display the `audience_rating` against `critics_rating` from the `test` dataset. This forms the basis for visually comparing the fits of different models by overlaying the predicted lines or curves onto the plot."
+  },
+  {
+    "title": "R Function: add_curve()",
+    "body": "The `add_curve()` function, specific to the tools used in Unit 4 Lab 4E, is utilized to add the fitted line or curve from a regression model onto an existing plot, typically a scatterplot created by `xyplot()`. It takes the fitted model object (e.g., `movie_linear`, `movie_quad`) as its primary argument. Unlike a function that might specifically add a 'line', `add_curve()` is versatile enough to plot both linear model fits and the curves generated by polynomial models. Optional arguments like `col` can be used to change the color of the added curve for better differentiation when multiple models are plotted."
+  },
+  {
+    "title": "R Function: set.seed()",
+    "body": "The `set.seed()` function in R is crucial for ensuring the reproducibility of random processes. In Unit 4 Lab 4E, it is used before splitting the `movie` data into training and testing sets. Data splitting often involves random sampling. By calling `set.seed()` with a specific integer value (e.g., `set.seed(123)`), the sequence of random numbers generated afterwards is fixed. This means that anyone running the code with the same seed value will obtain the exact same random split of the data, leading to identical model training and evaluation results. This is essential for debugging, collaboration, and verifying findings."
+  }
+]

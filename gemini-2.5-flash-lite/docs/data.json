@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Abstract of Extra Datasets",
+    "body": "This document outlines various extra datasets available for use, likely in a data analysis or machine learning context. It details several specific datasets including 'atus_2020', 'cdc_2019', 'colors_ids', 'food_ids', 'hiring', 'retail', 'stresschill_ids', 'time_exp', and 'timeuse_ids'. Each dataset is presented with a brief description indicating its likely purpose or origin, and a function call 'extra_data()' is associated with each, suggesting a method for loading or accessing these datasets."
+  },
+  {
+    "title": "ATUS 2020 Dataset",
+    "body": "The 'atus_2020' dataset provides data related to the American Time Use Survey for the year 2020. This dataset is likely used for analyzing how individuals spend their time across various activities. It can be accessed or loaded using the `extra_data('atus_2020')` function."
+  },
+  {
+    "title": "CDC 2019 Dataset",
+    "body": "The 'cdc_2019' dataset contains information from the Centers for Disease Control and Prevention for the year 2019. This dataset could be utilized for public health research, epidemiological studies, or health-related data analysis. It is accessible via the `extra_data('cdc_2019')` function call."
+  },
+  {
+    "title": "Colors IDs Dataset",
+    "body": "The 'colors_ids' dataset appears to be a collection of identifiers or mappings related to colors. This type of dataset is often used in data visualization, image processing, or any application where color attributes need to be managed or referenced. The function to access it is `extra_data('colors_ids')`."
+  },
+  {
+    "title": "Food IDs Dataset",
+    "body": "The 'food_ids' dataset is likely a catalog or set of identifiers for various food items. This is useful for nutritional analysis, food consumption studies, or inventory management systems. The data can be retrieved using `extra_data('food_ids')`."
+  },
+  {
+    "title": "Hiring Dataset",
+    "body": "The 'hiring' dataset pertains to information related to the hiring or recruitment process. It might contain data on job applicants, hiring metrics, or recruitment stages. This dataset can be loaded using the `extra_data('hiring')` function."
+  },
+  {
+    "title": "Retail Dataset",
+    "body": "The 'retail' dataset is focused on the retail industry. It could include sales data, customer information, inventory levels, or other metrics relevant to retail operations. This dataset is accessible through the `extra_data('retail')` function."
+  },
+  {
+    "title": "Stress Chill IDs Dataset",
+    "body": "The 'stresschill_ids' dataset likely contains identifiers or categorizations related to stress and relaxation states or activities. This could be used in studies related to mental health, well-being, or user experience. The data is retrieved using `extra_data('stresschill_ids')`."
+  },
+  {
+    "title": "Time Experience Dataset",
+    "body": "The 'time_exp' dataset is possibly related to the experience of time, subjective time perception, or time-related events. It might be used in psychological or behavioral research. Access this dataset with `extra_data('time_exp')`."
+  },
+  {
+    "title": "Time Use IDs Dataset",
+    "body": "The 'timeuse_ids' dataset likely provides identifiers or categories for different types of time usage. This is complementary to time-use surveys and helps in classifying activities. The function to load this dataset is `extra_data('timeuse_ids')`."
+  },
+  {
+    "title": "Data Loading Function",
+    "body": "The `extra_data()` function is used throughout this documentation to load or access various datasets. Each dataset is specified as an argument to this function, such as `extra_data('atus_2020')`. This function is the primary mechanism for making these external data sources available for analysis."
+  }
+]

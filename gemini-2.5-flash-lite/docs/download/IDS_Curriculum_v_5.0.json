@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Abstract of IDS Curriculum v5.0",
+    "body": "This document outlines the Intrusion Detection System (IDS) Curriculum, version 5.0. It provides access to the curriculum files via a ZIP download and a preview link. The curriculum is designed to be embedded within an iframe for viewing, with JavaScript ensuring proper scrolling upon iframe load. This curriculum likely covers various aspects of IDS, including detection techniques, system implementation, and practical exercises, suitable for educational or training purposes."
+  },
+  {
+    "title": "IDS Curriculum v5.0 Download",
+    "body": "The IDS Curriculum v5.0 is available for download as a compressed ZIP file. This file, named 'IDS_Curriculum_v5.0.zip', contains all the necessary materials for the curriculum. Users can access this download directly through the provided link, allowing for offline access and local installation of the curriculum content. This is a primary method for obtaining the full curriculum package."
+  },
+  {
+    "title": "IDS Curriculum v5.0 Preview",
+    "body": "A preview of the IDS Curriculum v5.0 can be accessed through a provided link. This link directs users to an online platform (Box) where they can view the curriculum content without downloading the entire ZIP file. This option is useful for a quick overview or when immediate access to the content is required. The preview functionality enhances accessibility and allows users to evaluate the curriculum before committing to a download."
+  },
+  {
+    "title": "Interactive Curriculum Viewer",
+    "body": "The IDS Curriculum v5.0 is presented within an embedded iframe for interactive viewing. The iframe source points to a Box embed link, providing a rich viewing experience. This method allows for a more dynamic presentation of the curriculum content, potentially including interactive elements and multimedia. The iframe is configured to occupy the full width and height of its container, ensuring an immersive experience for the user."
+  },
+  {
+    "title": "Iframe Load Script",
+    "body": "A JavaScript snippet is included to enhance the user experience when viewing the IDS Curriculum v5.0 within an iframe. Specifically, the script targets the iframe with the ID 'request_iframe' and sets up an 'onload' event handler. When the iframe content has finished loading, this handler ensures that both the document's body and the documentElement's scroll position are reset to the top (0). This prevents any potential display issues or awkward scrolling states immediately after the curriculum content becomes visible."
+  },
+  {
+    "title": "Intrusion Detection System (IDS) Curriculum",
+    "body": "The IDS Curriculum v5.0 focuses on Intrusion Detection Systems (IDS). An IDS is a security tool that monitors network or system activities for malicious activities or policy violations. This curriculum likely covers fundamental concepts, different types of IDS (e.g., signature-based, anomaly-based), deployment strategies, rule writing, and analysis of alerts. The goal is to equip learners with the knowledge and skills to understand, implement, and manage IDS effectively."
+  }
+]

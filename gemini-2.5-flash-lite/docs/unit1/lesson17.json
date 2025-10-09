@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Abstract of Unit 1 Lesson 17",
+    "body": "This lesson focuses on interpreting two-way tables by calculating and understanding conditional, marginal, and joint frequencies. Students will apply these concepts to real-world data collected through a campaign monitoring tool and through their own survey questions. The lesson introduces key vocabulary such as marginal (relative) frequency, joint (relative) frequency, and conditional relative frequency. Students will practice identifying these frequencies within tables and using them to answer statistical questions. Activities include data collection, team discussions, and the use of provided handouts and cards for analysis. The lesson concludes with a homework assignment requiring students to create questions answered by marginal and conditional relative frequencies, and a reference to Lab 1G for further practice."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Objective and Materials",
+    "body": "The primary objective of Unit 1 Lesson 17 is for students to calculate and explain the meaning of conditional, marginal, and joint frequencies within the context of given data. To achieve this, the lesson requires specific materials: poster paper, markers, and two handouts: 'Analyzing Categorical Variables' (LMR_U1_L17_A) and 'Interpreting Categorical Variables' (LMR_U1_L17_B). The 'Analyzing Categorical Variables' handout needs to be cut into sets for group work, as detailed in the lesson steps. This sets the stage for hands-on data interpretation and analysis."
+  },
+  {
+    "title": "Vocabulary: Marginal (Relative) Frequency",
+    "body": "Marginal frequency refers to the total counts found in the margins of a two-way table, representing the sums of rows or columns. Marginal relative frequency is the proportion of these marginal totals to the overall total number of observations. It helps in understanding the distribution of a single variable across the entire dataset, irrespective of the other variable. For example, in a table about cat ownership and playing instruments, the marginal relative frequency for 'Owns a cat' would show the proportion of all students who own a cat."
+  },
+  {
+    "title": "Vocabulary: Joint (Relative) Frequency",
+    "body": "Joint frequency represents the count of observations that fall into a specific cell within the body of a two-way table, indicating the intersection of two categories. Joint relative frequency is calculated by dividing this joint frequency by the total number of observations. It tells us the proportion of the total sample that possesses both characteristics simultaneously. For instance, the joint relative frequency of students who 'Own a cat' AND 'Play an instrument' is the count of such students divided by the total number of students surveyed."
+  },
+  {
+    "title": "Vocabulary: Conditional Relative Frequency",
+    "body": "Conditional relative frequency is a measure that describes the distribution of one variable given a specific condition or subset of the other variable. It is calculated by taking a joint relative frequency and dividing it by its corresponding marginal relative frequency. This type of frequency helps in understanding how one variable behaves within a specific subgroup defined by the other variable. For example, the conditional relative frequency of owning a cat 'given that the student plays an instrument' would be the joint frequency of owning a cat and playing an instrument divided by the marginal frequency of playing an instrument."
+  },
+  {
+    "title": "Essential Concepts: Frequencies in Two-Way Tables",
+    "body": "In the analysis of two-way tables, marginal (relative) frequencies provide insights into the distribution of a single categorical variable. They summarize the data along the rows or columns, giving the overall proportion of individuals falling into each category of that variable. Conversely, conditional relative frequencies allow for a deeper understanding by examining the distribution of one variable when the data is 'subsetted' by the categories of the other variable. This helps in identifying relationships or dependencies between the two variables by looking at proportions within specific groups."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Data Collection Monitoring and Preparation",
+    "body": "The lesson begins with a review of data collection progress using the IDS Campaign Monitoring Tool. Students are reminded that it's the last day for data collection and are prompted to consider strategies for increasing their participation. Following this, student teams retrieve their previously created two-way tables and survey questions. They strategize on how to efficiently collect and record data from their peers, who will respond by raising their hands. This hands-on data collection and recording process prepares them to use their frequency tables later in the lesson."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Identifying Joint Frequencies",
+    "body": "The lesson uses the 'Cat Ownership and Instruments' two-way table as an example. Students are guided to identify joint frequencies, which represent the counts within the cells of the table where categories intersect (e.g., students who both own a cat and play an instrument). They are then introduced to joint relative frequencies by calculating the proportion of students within each cell relative to the total number of observations (e.g., 7/35 for owning a cat and playing an instrument). This step clarifies how to find and interpret the frequency of two characteristics occurring together."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Identifying Marginal Frequencies",
+    "body": "Building on joint frequencies, the lesson introduces marginal frequencies and marginal relative frequencies using the 'Cat Ownership and Instruments' table. Marginal frequencies are the totals in the rows and columns (e.g., total students owning a cat, total students playing an instrument). Marginal relative frequencies are these totals divided by the overall total (e.g., the proportion of students who own a cat is 16/35). This helps students understand the overall distribution of each individual variable (cat ownership status and instrument playing status) across the entire group."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Calculating Conditional Relative Frequencies (Column Example)",
+    "body": "The lesson demonstrates calculating conditional relative frequencies by focusing on a specific condition. For the question 'Of the students who play an instrument, what proportion own a cat?', students learn to use the total for the 'Plays an instrument' column (17) as the denominator. The numerator is the joint frequency of students who 'Own a cat' AND 'Play an instrument' (7). This results in a conditional relative frequency of 7/17. This process highlights how to analyze a subset of the data based on a given condition, specifically conditioning by column in this example."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Conditional Relative Frequencies and Scenario Analysis",
+    "body": "The lesson further explores conditional relative frequencies by comparing proportions within different subsets. Using the 'Cat Ownership and Instruments' table, students compare the proportion of cat owners among those who 'Do not play an instrument' (9/18) versus those who 'Play an instrument' (7/17). This comparison allows them to address a specific scenario, like Rosa's theory about musicians owning cats. The analysis shows that a higher proportion of students who do not play an instrument own a cat, thus not supporting the initial theory. This reinforces the power of conditional frequencies in uncovering relationships."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Activity with Categorical Variables Cards",
+    "body": "Students engage in a hands-on activity using cards from the 'Analyzing Categorical Variables' file (LMR_U1_L17_A). Each team receives a set of cards, comprising visual representations and numerical summaries of data. They also work with the 'Interpreting Categorical Variables' handout (LMR_U1_L17_B). The task is to match the appropriate visualizations and numerical summaries to specific statistical questions, and then answer those questions using the provided evidence. This activity solidifies their understanding of how different frequencies and representations relate to data interpretation."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Poster Presentation and Peer Review",
+    "body": "As a culminating activity, each student team creates a poster displaying their self-generated two-way frequency table. They must then formulate five questions about their data that require answers based on marginal frequency, marginal relative frequency, joint frequency, joint relative frequency, and conditional relative frequency (either by row or column). If time permits, teams present their posters and findings to each other, fostering peer learning and reinforcing the concepts covered throughout the lesson."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Class Scribes and Homework Assignment",
+    "body": "One team is designated as 'Class Scribes' to summarize the three most important topics discussed during the lesson. For homework, students are provided with a new two-way table ('Work Preference and the Color Red') and tasked with creating two questions: one that must be answered using a marginal relative frequency and another using a conditional relative frequency. This assignment reinforces the lesson's core concepts and prepares them for subsequent activities."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Homework Data - Work Preference and the Color Red",
+    "body": "The homework assignment for Unit 1 Lesson 17 utilizes a provided two-way table titled 'Work Preference and the Color Red.' This table displays the relationship between work shift (Morning vs. Evening) and emotions associated with the color red (Love, Anger, Fear). The totals are: Morning shift (23), Evening shift (37), Love (19), Anger (26), Fear (15), and a Grand Total of 60. Students must use this data to formulate one question answerable by a marginal relative frequency and another answerable by a conditional relative frequency."
+  },
+  {
+    "title": "Unit 1 Lesson 17: Lab 1G and Preparation for Practicum",
+    "body": "The lesson concludes by referencing 'Lab 1G: What’s the FREQ?' as a follow-up activity for further practice with frequency calculations and interpretations. Students are instructed to complete this lab prior to engaging in the 'Practicum' assessment. This indicates that the skills learned in Unit 1 Lesson 17 are foundational for evaluating their understanding in a more comprehensive practical setting."
+  }
+]

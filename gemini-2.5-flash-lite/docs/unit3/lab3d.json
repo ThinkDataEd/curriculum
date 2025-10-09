@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Abstract for Lab 3D",
+    "body": "This lab, titled 'Are you sure about that?', focuses on understanding and calculating confidence intervals for population means using the bootstrap method. It introduces the concept of using sample means to estimate population means and the role of a margin of error. The lab guides users through loading the 'atus' dataset, understanding the importance of random sampling, and calculating an initial estimate for the mean age of people older than 15 in the U.S. A core component is learning to create bootstrapped samples with replacement and using them to generate a distribution of sample means. Finally, the lab demonstrates how to construct confidence intervals (90% and 95%) from these bootstrapped means and interpret their meaning."
+  },
+  {
+    "title": "Introduction to Confidence Intervals and the Bootstrap Method",
+    "body": "In statistical analysis, we often use sample means to estimate unknown population means because surveying an entire population is usually impractical. To increase confidence in our estimate, we incorporate a margin of error, creating an interval that likely contains the true population mean. This lab, Unit 3 Lab 3D, introduces a method called the bootstrap to calculate these margins of error. The term 'bootstrap' originates from the idiom 'Picking yourself up by your own bootstraps,' signifying a process of self-reliance or creating something from existing resources. This method allows us to simulate the process of drawing multiple samples from our data to understand the variability of our estimates."
+  },
+  {
+    "title": "Lab 3D: Dataset Loading and Initial Questions",
+    "body": "This section of Lab 3D involves preparing the dataset and addressing initial conceptual questions. First, the built-in 'atus' (American Time Use Survey) dataset is loaded. This dataset contains information on how a sample of Americans spent their day. Following dataset loading, users are prompted with specific questions. One question asks for the total number of people surveyed in the dataset, given the estimated U.S. population. Another crucial question is to explain why the ATUS being a random sample is important for the validity of statistical inferences. Finally, users are asked to calculate an initial estimate for the average age of people older than 15 living in the U.S. using the 'atus' data."
+  },
+  {
+    "title": "Understanding Bootstrapped Samples",
+    "body": "A bootstrapped sample is created by taking a random sample from the original dataset *with* replacement. The size of this bootstrapped sample must be the same as the size of the original dataset. The process of creating a single bootstrapped sample for calculating a mean involves three key steps: 1. Randomly selecting the indices (row numbers) of the original data to be included in the bootstrap sample. 2. Using these selected indices to 'slice' the corresponding rows from the original dataset to form the bootstrapped dataset. 3. Calculating the mean of the variable of interest (e.g., age) from this newly created bootstrapped dataset. This process is repeated multiple times to gather a distribution of sample means."
+  },
+  {
+    "title": "Performing a Single Bootstrap Sample",
+    "body": "To perform a single bootstrap sample for Unit 3 Lab 3D, we first need to generate random row numbers from our original data. The code `bs_rows <- sample(1:nrow(atus), size = nrow(atus), replace = TRUE)` accomplishes this, where `1:nrow(atus)` specifies the range of row numbers, `size = nrow(atus)` ensures the bootstrap sample is the same size as the original dataset, and `replace = TRUE` indicates sampling with replacement. It's important to set a seed, like `set.seed(123)`, before sampling to ensure reproducibility. Next, the `slice()` function is used to create the bootstrapped dataset: `bs_atus <- slice(atus, bs_rows)`. This function extracts the rows specified by `bs_rows` from the `atus` dataset. The values in `bs_rows` are the indices of the rows randomly selected from the original `atus` dataset, and these selected rows form the `bs_atus` dataset. This process allows us to generate a new dataset that mimics drawing from the population."
+  },
+  {
+    "title": "Calculating and Comparing Bootstrap Means",
+    "body": "After creating a bootstrapped dataset, the next step is to calculate its mean. For Unit 3 Lab 3D, specifically calculating the mean of the 'age' variable in the bootstrapped data (`bs_atus`), you would use the `mean(bs_atus$age)` function. To explore the variability of these means, it's recommended to create a second bootstrapped sample using a different `set.seed()` value and calculate its mean. Comparing this second bootstrapped mean with the first, and with those of classmates, helps illustrate how sample means can differ even when drawn from the same underlying population. A sentence summarizing the similarity or difference of these means highlights the inherent randomness in sampling."
+  },
+  {
+    "title": "Generating Multiple Bootstrap Samples",
+    "body": "To build a confidence interval using the bootstrap method, we need to generate a large number of bootstrapped samples. In this lab (Unit 3 Lab 3D), the goal is to perform 500 bootstrapped samples. To manage this process efficiently, the three-step procedure for creating a single bootstrapped mean (sampling rows, slicing data, calculating mean) is encapsulated into a reusable function. This function, once defined, can be repeatedly executed. The `do()` command is then used in conjunction with the function to automate the creation of numerous bootstrapped sample means. For instance, `bs_means <- do(500) * bs_func()` executes the `bs_func()` 500 times, collecting the resulting mean from each execution into the `bs_means` object."
+  },
+  {
+    "title": "Bootstrap Function for Mean Calculation",
+    "body": "A crucial part of automating the bootstrap process in Unit 3 Lab 3D is defining a function that encapsulates the steps to generate a single bootstrapped sample mean. This function, named `bs_func` in the lab, needs to contain the logic for: 1. Sampling row numbers with replacement from the original dataset (`atus`). 2. Slicing the `atus` data based on these sampled row numbers to create a bootstrapped dataset. 3. Calculating the mean of the 'age' variable from this bootstrapped dataset. The structure would look like: `bs_func <- function() { # Step 1: Sample rows bs_rows <- sample(1:nrow(atus), size = nrow(atus), replace = TRUE) # Step 2: Slice data bs_atus <- slice(atus, bs_rows) # Step 3: Calculate and return the mean return(mean(bs_atus$age)) }`. Running this function definition makes it available for subsequent use."
+  },
+  {
+    "title": "Visualizing Bootstrap Distribution and Describing its Properties",
+    "body": "After generating 500 bootstrapped sample means using the `do()` command and the bootstrap function (as in Unit 3 Lab 3D), the next step is to visualize this distribution. A histogram is created using `histogram(bs_means)`. This histogram represents the distribution of estimates for the mean age. It's important to note that these bootstrapped means no longer directly estimate the average age of people in the U.S.; instead, they estimate the variability of that estimate. When describing the histogram, one should analyze its center (e.g., the average of the `bs_means`), shape (e.g., symmetric, skewed), and spread (e.g., the range or standard deviation of the `bs_means`). This analysis provides insight into the precision of our original sample mean estimate."
+  },
+  {
+    "title": "Constructing a 90% Confidence Interval",
+    "body": "A confidence interval provides a range of plausible values for a population parameter. For Unit 3 Lab 3D, we use the distribution of 500 bootstrapped sample means to construct a 90% confidence interval for the mean age of people over 15 in the U.S. To achieve this, we identify the values that would exclude the lowest 5% and the highest 5% of our bootstrapped means, thus capturing the middle 90%. Visually, this involves looking at the histogram of `bs_means`. Quantitatively, the `quantile()` function is used. For example, `quantile(bs_means, probs = c(0.05, 0.95))` will return the 5th and 95th percentiles. The statement regarding the confidence interval would indicate that the lowest 5% of estimates fall below the 5th percentile value, and the highest 5% fall above the 95th percentile value. These percentiles form the boundaries of the 90% confidence interval."
+  },
+  {
+    "title": "Calculating and Interpreting Confidence Intervals",
+    "body": "In Unit 3 Lab 3D, after visualizing the distribution of 500 bootstrapped sample means, we proceed to calculate specific confidence intervals. To find the 90% confidence interval, we use the `quantile()` function with probabilities `c(0.05, 0.95)` to find the lower and upper bounds that contain the central 90% of the bootstrapped means. The resulting interval, [lower_bound, upper_bound], represents a range within which we are 90% confident the true population mean age lies. The lab also prompts for a 95% confidence interval using `quantile(bs_means, probs = c(0.025, 0.975))`. Comparing the 90% and 95% intervals reveals that the 95% interval is wider. This is because a higher confidence level requires a broader range to capture the true population mean with greater certainty. Explaining a confidence interval to a non-data science student involves stating that if we were to repeat this sampling and interval-creating process many times, 90% (or 95%) of those intervals would contain the true population mean."
+  },
+  {
+    "title": "Vocabulary: ATUS Dataset",
+    "body": "The 'atus' dataset refers to the American Time Use Survey dataset. This is a real-world dataset used in Unit 3 Lab 3D that surveys a sample of Americans regarding how they spend their day. It is employed in the lab to estimate population parameters, such as the mean age of people over 15. The fact that it's a survey implies it captures data from a subset of the population, making it suitable for practicing statistical inference techniques like bootstrapping and confidence interval construction. Understanding the source and nature of the data is fundamental to interpreting the results."
+  },
+  {
+    "title": "Vocabulary: Bootstrap",
+    "body": "In statistics, a 'bootstrap' (or bootstrapping) is a resampling technique used to estimate statistics or to derive estimates of confidence intervals for parameters. In the context of Unit 3 Lab 3D, bootstrapping involves repeatedly drawing random samples *with replacement* from an original sample dataset. Each resampled dataset ('bootstrapped sample') is the same size as the original. By calculating a statistic of interest (like the mean) for each bootstrapped sample, we obtain a distribution of these statistics. This distribution approximates the sampling distribution of the statistic, allowing us to estimate its variability and construct confidence intervals without relying on theoretical distributions or assumptions about the population."
+  },
+  {
+    "title": "Vocabulary: Confidence Interval",
+    "body": "A 'confidence interval' is a range of values, derived from sample statistics, that is likely to contain the value of an unknown population parameter. In Unit 3 Lab 3D, we focus on confidence intervals for a population mean. The interval is associated with a confidence level (e.g., 90% or 95%), which represents the long-run proportion of such intervals that would contain the true parameter if the sampling process were repeated many times. A 95% confidence interval, for example, means that we are 95% confident that the interval captures the true population mean. Wider intervals indicate higher confidence but less precision, while narrower intervals suggest greater precision but potentially lower confidence."
+  },
+  {
+    "title": "R Function: `sample()`",
+    "body": "The `sample()` function in R is used to randomly select elements from a vector or a data set. In Unit 3 Lab 3D, it's primarily used for bootstrapping. Key arguments include the `x` (the set of items to choose from, e.g., row numbers `1:nrow(atus)`), `size` (the number of items to choose, typically the same as `length(x)` for bootstrapping), and `replace` (a logical value indicating whether sampling is done with replacement; `TRUE` is essential for bootstrapping)."
+  },
+  {
+    "title": "R Function: `slice()`",
+    "body": "The `slice()` function in R, often used with packages like `dplyr`, is employed to select rows from a data frame based on their integer position. In Unit 3 Lab 3D, after generating a set of random row indices using `sample()` (stored in `bs_rows`), `slice(atus, bs_rows)` is used to extract the actual rows from the original `atus` data frame. This creates the 'bootstrapped dataset' (`bs_atus`) by picking out the rows corresponding to the randomly selected indices, forming the basis for calculating a bootstrapped statistic."
+  },
+  {
+    "title": "R Function: `mean()`",
+    "body": "The `mean()` function in R calculates the arithmetic average of the numbers in a vector. In Unit 3 Lab 3D, this function is fundamental for calculating the average age. After creating a bootstrapped dataset (e.g., `bs_atus`), `mean(bs_atus$age)` is used to compute the mean of the 'age' variable within that specific bootstrapped sample. This calculation is performed repeatedly during the bootstrapping process to generate the distribution of sample means used for confidence intervals."
+  },
+  {
+    "title": "R Function: `do()`",
+    "body": "The `do()` function, often associated with packages like `mosaic` in R, is a powerful tool for repeating an operation multiple times and collecting the results. In Unit 3 Lab 3D, it is used to automate the generation of many bootstrapped samples. For example, `do(500) * bs_func()` executes the function `bs_func()` 500 times. Each execution of `bs_func()` generates one bootstrapped sample mean, and `do(500)` collects all 500 of these means into a single object (e.g., `bs_means`), facilitating the creation of histograms and confidence intervals."
+  },
+  {
+    "title": "R Function: `histogram()`",
+    "body": "The `histogram()` function in R is used to create a histogram, a graphical representation of the distribution of numerical data. In Unit 3 Lab 3D, after generating a collection of bootstrapped sample means (`bs_means`), `histogram(bs_means)` is called to visualize the distribution of these estimates. Examining the histogram helps in understanding the shape, center, and spread of the sampling distribution, which is essential for interpreting the confidence interval and assessing the variability of the sample mean estimate."
+  },
+  {
+    "title": "R Function: `quantile()`",
+    "body": "The `quantile()` function in R calculates sample quantiles (or empirical percentiles) for a given dataset. In Unit 3 Lab 3D, it's essential for constructing confidence intervals from the distribution of bootstrapped means. By specifying the probabilities (e.g., `probs = c(0.05, 0.95)` for a 90% interval or `probs = c(0.025, 0.975)` for a 95% interval), `quantile(bs_means, probs = ...)` returns the values below which the specified proportion of the data falls. These values serve as the lower and upper bounds of the confidence interval."
+  }
+]

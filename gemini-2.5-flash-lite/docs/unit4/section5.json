@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Abstract for Unit 4 Section 5: Ties that Bind",
+    "body": "This section introduces two methods for classifying data into groups: clustering and networks. Clustering, specifically using the k-means algorithm, groups observations based on numerical similarities by iteratively determining cluster means. Networks classify people into groups based on relationships, forming nodes where connections exist. The section includes learning objectives covering statistical concepts (S-IC 2), data science principles (understanding RStudio's k-means and network functions), and applied computational thinking using RStudio (using k-means, plotting cluster assignments). Language objectives focus on explaining k-means, comparing personal data, and justifying community recommendations. Data sources include the 'futbol' dataset and student-generated 'TimeUse' campaign data, collected through participatory sensing. Real-world applications of network analysis (NSA) and k-means (country grouping) are highlighted."
+  },
+  {
+    "title": "Enduring Understandings: Clustering and Networks",
+    "body": "This section introduces two key methods for data classification: clustering and networks. Clustering is presented as a way to group data based on numerical characteristics and their similarities. The k-means algorithm is specifically mentioned as a technique to determine the mean value for each of k clusters. This process involves randomly assigning initial mean values and then adjusting them based on their proximity to the data points. Networks are introduced as a method for classifying people into groups based on their relationships, where a 'node' is formed when a relationship between two individuals exists."
+  },
+  {
+    "title": "Engagement: Grouping Football Players and Swimmers",
+    "body": "The engagement activity for this section involves students applying the concept of clustering to a practical scenario. Students will be presented with a plot of data points. Their task is to determine which points should be grouped together as 'football players' and which should be grouped as 'swimmers.' This grouping will be based on identifying clusters within the characteristics represented by the data points on the plot, visually demonstrating the principle of clustering."
+  },
+  {
+    "title": "Learning Objective: Statistical - S-IC 2",
+    "body": "A key statistical learning objective for this section is S-IC 2. This standard requires students to decide if a specified model is consistent with results from a given data-generating process. This often involves using simulation to evaluate the model's performance against expected outcomes, understanding the relationship between theoretical models and empirical data."
+  },
+  {
+    "title": "Learning Objective: Data Science - RStudio Functions",
+    "body": "From a data science perspective, students will focus on understanding the underlying processes of RStudio when utilizing specific functions. This includes gaining insight into what the k-means function does when it identifies clusters within a dataset. Additionally, students will learn about the functions used for creating networks, which are essential for classifying data into meaningful groups."
+  },
+  {
+    "title": "Learning Objective: Applied Computational Thinking - K-means in RStudio",
+    "body": "In terms of applied computational thinking using RStudio, students will develop practical skills. They will learn to use the k-means function to identify and define clusters within a given dataset. Furthermore, students will be able to plot the data, visually representing the cluster assignments that result from the application of the k-means algorithm."
+  },
+  {
+    "title": "Learning Objective: Real-World Connections - Network Analysis and K-means",
+    "body": "This section emphasizes the real-world applicability of the concepts learned. Network analysis is highlighted as a tool used by various public and private organizations, such as the National Security Agency (NSA), for purposes like identifying terrorist networks to maximize impact on communications. The k-means algorithm is also presented as a practical technique for grouping entities based on attribute similarity, with an example of dividing countries into similar groups for fair comparisons."
+  },
+  {
+    "title": "Language Objective 1: Explaining K-means Clustering",
+    "body": "The first language objective focuses on students' ability to articulate their understanding of k-means clustering. Students will be required to write an explanation of what k-means clustering is, using their own words. This encourages them to process the information and express it in a clear and comprehensible manner, demonstrating a grasp of the core concept."
+  },
+  {
+    "title": "Language Objective 2: Describing Data Differences",
+    "body": "The second language objective challenges students to analyze and describe differences between two specific data sets collected from their own class. They will focus on comparing the 'time spent on videogames' and 'time spent on homework.' This involves interpreting their collected data and articulating the variations observed between these two activities."
+  },
+  {
+    "title": "Language Objective 3: Justifying Community Recommendations",
+    "body": "The third language objective requires students to synthesize their learning and apply it to a community context. They will create visualizations and numerical summaries to support their findings. Using these outputs, students will orally and in writing, justify a recommendation aimed at improving their community, demonstrating the practical application of data analysis and communication skills."
+  },
+  {
+    "title": "Data File: USMNT and NFL Dataset",
+    "body": "One of the data files provided for use in this section is related to the US Men's National Soccer Team (USMNT) and the National Football League (NFL). The dataset can be accessed in RStudio using the command `data(futbol)`. This dataset likely contains information that can be used to explore relationships or characteristics related to these sports entities, potentially for clustering or network analysis."
+  },
+  {
+    "title": "Data File: Student TimeUse Campaign Data",
+    "body": "Another crucial data source for this section is the 'TimeUse' campaign data collected by the students themselves. This data is generated through a team-generated participatory sensing campaign, where students collect information on a topic selected by their team. This student-generated data will likely be used in conjunction with the concepts of clustering and networks, and for fulfilling language objectives related to data description and justification."
+  },
+  {
+    "title": "Data Collection Method: Participatory Sensing Campaign",
+    "body": "The data collection method employed in this section is a 'Team-generated Participatory Sensing Campaign.' This involves students working in teams to collect data related to a topic they collaboratively select. This hands-on approach to data collection allows students to actively engage with the process of gathering information, which they will then analyze using the concepts and tools introduced in this section, such as k-means and network analysis."
+  },
+  {
+    "title": "Vocabulary: Clustering",
+    "body": "Clustering is a method used to classify data into groups. Observations are grouped based on their numerical characteristics and how similar these characteristics are. The goal is to partition data points into distinct clusters such that points within the same cluster are more similar to each other than to those in other clusters. K-means is a common algorithm used for this purpose."
+  },
+  {
+    "title": "Vocabulary: K-means Algorithm",
+    "body": "The k-means algorithm is a method used for clustering data. It works by determining the mean value for each of k clusters. The process begins with randomly assigning an initial value for the mean of each cluster. Subsequently, the mean of each cluster is adjusted based on its proximity to the data points assigned to that cluster. This iterative process continues until the cluster assignments stabilize."
+  },
+  {
+    "title": "Vocabulary: Networks (in data classification)",
+    "body": "In the context of data classification, networks are used to group people based on their relationships, specifically 'who knows whom.' A 'node' is formed in a network when a relationship between two individuals is present. This approach allows for the analysis of social structures and connections within a dataset."
+  },
+  {
+    "title": "Vocabulary: Node (in networks)",
+    "body": "In the context of network analysis for data classification, a 'node' represents an individual or entity within the network. Nodes are formed when a relationship exists between two people. These nodes are the fundamental building blocks of a network, and the connections between them represent the relationships being studied."
+  },
+  {
+    "title": "Code Snippet: Accessing 'futbol' Dataset",
+    "body": "This section utilizes a dataset named 'futbol' which likely contains data related to soccer (football) and possibly American football (NFL). To access this dataset within the RStudio environment for analysis, the following R command is used: \n\n```R\ndata(futbol)\n```\n\nThis command loads the 'futbol' dataset into the R environment, making its variables and observations available for manipulation and analysis, potentially for clustering or network exploration."
+  },
+  {
+    "title": "Real-World Application: Network Analysis by NSA",
+    "body": "Network analysis, a concept explored in this section, has significant real-world applications. One prominent example is its use by the National Security Agency (NSA). The NSA employs network analysis techniques to identify and understand various networks, such as terrorist networks. The objective is often to understand these networks to effectively disrupt or neutralize their operations, thereby maximizing impact on their communications and activities."
+  },
+  {
+    "title": "Real-World Application: K-means for Grouping Countries",
+    "body": "The k-means algorithm, a core topic in this section, is a versatile technique with practical applications beyond simple data grouping. It can be used for comparing entities based on their attributes. For instance, k-means can be applied to divide countries into similar groups based on various economic, social, or political indicators. This grouping allows for more equitable and meaningful comparisons between countries that share common characteristics."
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Abstract of Unit 2 Labs",
+    "body": "This document outlines the objectives and key functions for the labs in Unit 2. The labs cover a range of statistical concepts and R functions. Unit 2 Lab 2A focuses on calculating basic statistics like mean, median, and MAD. Unit 2 Lab 2B expands on descriptive statistics, including minimum, maximum, range, quartiles, and IQR, and introduces custom function creation. Unit 2 Lab 2C teaches simulation of playlists and random song selection using R functions like rep(), sample(), do(), and set.seed(). Unit 2 Lab 2D covers calculating probabilities of complex events using mutate() and rowSums(). Unit 2 Labs 2E and 2F introduce permutation tests to assess the significance of observed events or numerical summaries in datasets related to slasher film survival and Titanic fares, respectively. Unit 2 Lab 2G focuses on combining datasets using the merge() function to investigate relationships between personality colors, sports participation, and stress levels. Finally, Unit 2 Lab 2H and Unit 2 Lab 2I explore normal distributions, including understanding the impact of mean and standard deviation on the normal curve, recognizing when a normal model is appropriate for real data, and using functions like plotDist(), histogram(), pnorm(), rnorm(), and qnorm() for probability calculations, simulations, and quantile determination."
+  },
+  {
+    "title": "Unit 2 Lab 2A: Basic Statistical Summaries",
+    "body": "Unit 2 Lab 2A introduces students to fundamental statistical calculations in R. The primary objective is to equip students with the ability to answer statistical questions by computing the mean, median, and Mean Absolute Deviation (MAD) of a dataset. Key R functions covered in this lab include: `mean(~x, data)` for calculating the average, `median(~x, data)` for finding the middle value, and `MAD(~x, data)` for computing the Mean Absolute Deviation, which is a measure of variability. The function `add_line(vline)` is also mentioned for potentially adding visual aids like lines to plots, likely representing these calculated statistics."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Advanced Distribution Summaries and Custom Functions",
+    "body": "Unit 2 Lab 2B builds upon basic statistical measures by introducing the calculation and interpretation of additional summary statistics for distributions. Students will learn to find the minimum, maximum, and range of a dataset. They will also delve into quartiles and the Interquartile Range (IQR), which provide insights into the spread of the middle 50% of the data. This lab also includes the creation of custom R functions. The functions covered are: `min(~x, data)`, `max(~x, data)`, `range(~x, data)`, `quantile(~x, data, p)` for calculating specific percentiles, and `iqr(~x, data)` for the interquartile range. Additionally, `bwplot(y ~ x, data)` is used for box-and-whisker plots, `favstats(~x, data)` for comprehensive statistics, `diff(x)` for differences between elements, and `abs(x)` for absolute values."
+  },
+  {
+    "title": "Unit 2 Lab 2C: Simulating Playlists and Random Sampling",
+    "body": "In Unit 2 Lab 2C, students will learn to simulate a music playlist in R and perform random song selections. This lab focuses on understanding and utilizing functions that introduce randomness and repetition. The core functions taught are `rep(x, times)` for repeating elements to create a playlist, `sample(x, size, replace)` for randomly selecting items from a list (with or without replacement), and `do(x)` for creating multiple repetitions of an event or process. Crucially, `set.seed(x)` will be introduced to ensure that random events can be reproduced consistently, which is vital for reproducible research and debugging."
+  },
+  {
+    "title": "Unit 2 Lab 2D: Probability of Complex Events",
+    "body": "Unit 2 Lab 2D focuses on calculating the probabilities of more complex events within a dataset using R. Students will learn to combine multiple conditions or outcomes to determine likelihood. The primary R functions utilized in this lab are `mutate()`, which allows for the creation of new variables or columns based on existing data, and `rowSums(x)`, which calculates the sum of values across rows in a matrix or data frame. The division operator `/` will also be used, likely in conjunction with `rowSums()` and `mutate()`, to compute probabilities by dividing the count of favorable outcomes by the total number of possibilities."
+  },
+  {
+    "title": "Unit 2 Lab 2E: Permutation Test for Survival Analysis",
+    "body": "Unit 2 Lab 2E introduces the concept of permutation testing to assess the likelihood of an observed event occurring purely by chance. The specific investigative question for this lab is: \"Are women in slasher films more likely to survive until the end of the film than men?\" Students will use permuted data to generate a null distribution and determine if the observed difference in survival rates between genders is statistically significant. This lab does not introduce new R functions but focuses on the application of permutation testing methodology using previously learned R capabilities."
+  },
+  {
+    "title": "Unit 2 Lab 2F: Permutation Test for Titanic Fare Analysis",
+    "body": "In Unit 2 Lab 2F, the technique of permutation testing is applied to evaluate the significance of a numerical summary. The lab investigates the question: \"Is there any evidence to suggest that those who survived paid a higher fare than those who died on the Titanic?\" Students will use permuted data to simulate a scenario where survival and fare are unrelated, thereby creating a null distribution. By comparing the observed difference in average fares between survivors and non-survivors to this null distribution, they can determine if the observed difference is statistically significant or likely due to random chance. No new R functions are introduced in this lab."
+  },
+  {
+    "title": "Unit 2 Lab 2G: Merging Datasets for Stress Level Investigation",
+    "body": "Unit 2 Lab 2G focuses on data integration using the `merge()` function in R. The objective is to combine data from multiple datasets to explore complex relationships. The specific research question addressed is: \"How do people’s personality colors and/or sports participation affect their stress levels?\" Students will learn to use `merge(x, y, by)` to join two data frames (`x` and `y`) based on common column(s) specified by `by`. This allows for the analysis of how different attributes (personality color, sports participation) might influence stress levels when analyzed together."
+  },
+  {
+    "title": "Unit 2 Lab 2H: Normal Curves and Model Appropriateness",
+    "body": "Unit 2 Lab 2H delves into the properties of normal distributions and their visual representation in R. Students will learn how the mean and standard deviation influence the shape and position of a normal curve. The lab aims to develop students' ability to recognize when a normal model is a suitable fit for real-world data. Key R functions for this lab include `plotDist('norm', mean, sd)`, which plots a normal distribution with specified mean and standard deviation, and `histogram(x, fit = \"normal\")`, which generates a histogram of data and overlays a normal distribution curve to assess goodness-of-fit."
+  },
+  {
+    "title": "Unit 2 Lab 2I: Working with Normal Distributions in R",
+    "body": "Unit 2 Lab 2I provides practical experience with normal distributions in R by introducing three core functions: `pnorm(q, mean, sd)`, `rnorm(n, mean, sd)`, and `qnorm(p, mean, sd)`. `pnorm()` is used to calculate the cumulative probability (area to the left) up to a certain quantile (`q`) for a normal distribution defined by `mean` and `sd`. `rnorm()` generates `n` random numbers that follow a specified normal distribution. `qnorm()` performs the inverse operation of `pnorm()`, calculating the quantile (`q`) corresponding to a given cumulative probability (`p`) for a normal distribution. These functions are essential for working with continuous probability distributions."
+  },
+  {
+    "title": "R Function: mean()",
+    "body": "The `mean(~x, data)` function in R is used to calculate the arithmetic average of a variable. In the context of the labs, `~x` typically represents the formula indicating the variable of interest, and `data` specifies the data frame or environment where the variable `x` resides. This function is fundamental for descriptive statistics, providing a measure of central tendency."
+  },
+  {
+    "title": "R Function: median()",
+    "body": "The `median(~x, data)` function in R calculates the median of a numeric variable. The median is the middle value of a dataset when it is ordered. If the dataset has an even number of observations, the median is the average of the two middle values. This function, like `mean()`, is used for descriptive statistics and provides another measure of central tendency, which is less sensitive to outliers than the mean."
+  },
+  {
+    "title": "R Function: add_line()",
+    "body": "The `add_line(vline)` function, mentioned in Unit 2 Lab 2A, is likely used for adding a vertical line to a plot. The argument `vline` would typically represent the x-coordinate position where the line should be drawn. This function is useful for visually highlighting specific points on a graph, such as the mean or median, providing a visual reference for statistical summaries."
+  },
+  {
+    "title": "R Function: MAD()",
+    "body": "The `MAD(~x, data)` function calculates the Mean Absolute Deviation (MAD) for a variable `x` within a given `data` set. The MAD measures the average absolute difference between each data point and the mean of the dataset. It serves as a measure of statistical dispersion, indicating the variability of the data points around the mean. It is generally considered more robust to outliers than the standard deviation."
+  },
+  {
+    "title": "R Function: min()",
+    "body": "The `min(~x, data)` function returns the minimum (smallest) value of a numeric variable `x` found within the specified `data`. This is a basic but essential descriptive statistic that identifies the lower bound of the data range. It is used in Unit 2 Lab 2B to summarize the distribution of data."
+  },
+  {
+    "title": "R Function: max()",
+    "body": "The `max(~x, data)` function returns the maximum (largest) value of a numeric variable `x` within the specified `data`. This function, along with `min()`, helps define the range of the data. It is a fundamental descriptive statistic used in Unit 2 Lab 2B for understanding the spread of a distribution."
+  },
+  {
+    "title": "R Function: range()",
+    "body": "The `range(~x, data)` function calculates the range of a numeric variable `x` in the `data`. The range is the difference between the maximum and minimum values in a dataset. This function in R typically returns a vector containing both the minimum and maximum values, thus providing a simple measure of the data's spread. It is covered in Unit 2 Lab 2B."
+  },
+  {
+    "title": "R Function: quantile()",
+    "body": "The `quantile(~x, data, p)` function calculates quantiles of a numeric variable `x` from the `data`. Quantiles divide the probability distribution of a variable into continuous intervals with equal probabilities. The argument `p` specifies the quantile(s) to compute (e.g., 0.5 for the median, 0.25 and 0.75 for quartiles). This is a key function for understanding the distribution and is used in Unit 2 Lab 2B."
+  },
+  {
+    "title": "R Function: iqr()",
+    "body": "The `iqr(~x, data)` function computes the Interquartile Range (IQR) for a numeric variable `x` within the `data`. The IQR is the difference between the third quartile (75th percentile) and the first quartile (25th percentile) of the data. It measures the spread of the middle 50% of the data and is a robust measure of variability, less affected by extreme values than the range. This function is part of Unit 2 Lab 2B."
+  },
+  {
+    "title": "R Function: bwplot()",
+    "body": "The `bwplot(y ~ x, data)` function generates a box-and-whisker plot (also known as a box plot). This type of plot is used to graphically display the distribution of numeric data through their quartiles. The formula `y ~ x` typically indicates that `y` is the variable whose distribution is being visualized, and `x` is a grouping variable, allowing for side-by-side comparisons of distributions. It is used in Unit 2 Lab 2B."
+  },
+  {
+    "title": "R Function: favstats()",
+    "body": "The `favstats(~x, data)` function is a convenient R function that calculates and displays a comprehensive set of summary statistics for a numeric variable `x` in the `data`. It typically includes statistics like n (count), min, median, mean, max, and IQR, providing a quick overview of the data's central tendency and spread. This function is covered in Unit 2 Lab 2B."
+  },
+  {
+    "title": "R Function: diff()",
+    "body": "The `diff(x)` function in R computes the differences between consecutive elements of a vector or time series `x`. For a vector `x = [x1, x2, x3, ...]`, `diff(x)` would return `[x2-x1, x3-x2, ...]`. This function is useful for analyzing changes over time or between ordered data points and is included in the toolkit for Unit 2 Lab 2B."
+  },
+  {
+    "title": "R Function: abs()",
+    "body": "The `abs(x)` function in R returns the absolute value of each element in its argument `x`. For any number, the absolute value is its distance from zero, effectively removing the sign. This function is fundamental in mathematics and statistics, particularly when dealing with deviations or magnitudes, and is covered in Unit 2 Lab 2B."
+  },
+  {
+    "title": "R Function: rep()",
+    "body": "The `rep(x, times)` function in R is used to repeat elements. It replicates the elements of `x` a specified number of `times`. For example, `rep(1:3, times=2)` would produce `1 1 2 2 3 3`. This function is crucial for creating vectors or lists with repeated values, such as generating a playlist of songs in Unit 2 Lab 2C."
+  },
+  {
+    "title": "R Function: sample()",
+    "body": "The `sample(x, size, replace)` function in R randomly selects elements from a given set `x`. The `size` argument specifies how many elements to choose, and `replace = TRUE` allows elements to be selected more than once (sampling with replacement), while `replace = FALSE` (the default) samples without replacement. This function is essential for simulations and random selection processes, like choosing a song from a playlist in Unit 2 Lab 2C."
+  },
+  {
+    "title": "R Function: do()",
+    "body": "The `do(x)` function, as presented in Unit 2 Lab 2C, is likely used in conjunction with other functions (possibly from a package like `mosaic`) to perform a specified operation `x` multiple times. This is commonly used in simulation studies to generate repeated outcomes or to apply a function iteratively. It aids in tasks requiring multiple repetitions of a random event or calculation."
+  },
+  {
+    "title": "R Function: set.seed()",
+    "body": "The `set.seed(x)` function in R initializes the random number generator. By setting a specific integer value `x` as the seed, it ensures that the sequence of random numbers generated subsequently will be identical across different runs of the R session. This is critical for reproducibility, allowing others (or yourself later) to obtain the exact same random results, as used in Unit 2 Lab 2C for replicating random events."
+  },
+  {
+    "title": "R Function: rowSums()",
+    "body": "The `rowSums(x)` function calculates the sum of values across each row in a matrix or data frame `x`. For example, if `x` has multiple columns, `rowSums(x)` will return a vector where each element is the sum of the corresponding row's values. This function is useful in probability calculations, especially when summing up the outcomes of multiple trials or conditions within each observation, as seen in Unit 2 Lab 2D."
+  },
+  {
+    "title": "R Operator: Division (/)",
+    "body": "The division operator `/` in R performs division of one number by another. In the context of Unit 2 Lab 2D, it is used likely in combination with functions like `rowSums()` to calculate probabilities. For instance, dividing the sum of favorable outcomes (perhaps calculated using `rowSums()`) by the total number of possible outcomes (the total number of rows or trials) yields a probability."
+  },
+  {
+    "title": "R Function: merge()",
+    "body": "The `merge(x, y, by)` function in R is used to combine two data frames, `x` and `y`, based on common columns specified in the `by` argument. This function is essential for data integration, allowing analysts to join related information from different sources into a single dataset for more comprehensive analysis. It is a key function in Unit 2 Lab 2G for investigating relationships between variables from separate datasets."
+  },
+  {
+    "title": "R Function: plotDist()",
+    "body": "The `plotDist('norm', mean, sd)` function, likely from a statistics package, is used to plot a probability distribution. In this case, it plots a normal distribution ('norm') characterized by its `mean` and standard deviation (`sd`). This function is valuable for visualizing the shape of theoretical distributions and understanding how parameters like mean and sd affect them, as utilized in Unit 2 Lab 2H."
+  },
+  {
+    "title": "R Function: histogram()",
+    "body": "The `histogram(x, fit = \"normal\")` function in R generates a histogram for a numeric variable `x`. A histogram visually represents the distribution of data by dividing it into bins and showing the frequency of data points in each bin. The argument `fit = \"normal\"` instructs the function to overlay a theoretical normal distribution curve onto the histogram, allowing for a visual assessment of how well the data conforms to a normal model. This is used in Unit 2 Lab 2H."
+  },
+  {
+    "title": "R Function: pnorm()",
+    "body": "The `pnorm(q, mean, sd)` function calculates the cumulative probability of a normal distribution. It returns the probability that a random variable from a normal distribution with a given `mean` and `sd` will be less than or equal to a specific quantile `q`. This is essentially the area under the normal curve to the left of `q`. It is a core function for probability calculations in Unit 2 Lab 2I."
+  },
+  {
+    "title": "R Function: rnorm()",
+    "body": "The `rnorm(n, mean, sd)` function generates `n` random numbers that are drawn from a normal distribution specified by its `mean` and `sd`. This function is crucial for simulating data that follows a normal pattern, allowing for Monte Carlo simulations and hypothesis testing. It is a key component of Unit 2 Lab 2I for creating normally distributed random samples."
+  },
+  {
+    "title": "R Function: qnorm()",
+    "body": "The `qnorm(p, mean, sd)` function is the inverse of `pnorm()`. It calculates the quantile (value) `q` from a normal distribution (defined by `mean` and `sd`) such that the cumulative probability up to that quantile is `p`. In simpler terms, given a probability `p`, it finds the corresponding value on the x-axis of the normal distribution curve. This function is used for determining thresholds or critical values and is covered in Unit 2 Lab 2I."
+  }
+]

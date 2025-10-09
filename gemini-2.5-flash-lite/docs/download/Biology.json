@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Abstract of Biology Document",
+    "body": "This document provides access to a biology-related resource, likely a video or interactive content, embedded via an iframe. It includes a link to enable preview and uses JavaScript to ensure the iframe loads correctly, setting the scroll position to the top of the page. The file is located at 'docs\\download\\Biology.md'."
+  },
+  {
+    "title": "Embedded Biology Content",
+    "body": "The core of this document is an embedded iframe displaying content from Box.com. The iframe, with the ID 'request_iframe', is set to occupy 100% width and a height of 1000 pixels. It facilitates access to a biology resource. The source URL for the embedded content is 'https://ucla.box.com/embed/s/4yjxzxqp7d43wyq1fs8qd39op2lkygct'."
+  },
+  {
+    "title": "Iframe Loading Script",
+    "body": "A JavaScript snippet is included to enhance the user experience of the embedded iframe. Specifically, the script targets the iframe with the ID 'request_iframe' and attaches an 'onload' event listener. When the iframe finishes loading, this function will execute, setting both 'document.body.scrollTop' and 'document.documentElement.scrollTop' to 0. This action ensures that the user's view is automatically scrolled to the top of the page upon content loading within the iframe."
+  },
+  {
+    "title": "Preview Enablement Link",
+    "body": "The document provides a direct link for enabling a preview of the embedded content. This link, labeled 'here', is presented in a user-friendly manner. The URL for enabling the preview is 'https://app.box.com/s/4yjxzxqp7d43wyq1fs8qd39op2lkygct'. This feature is useful for users who might encounter issues with the direct iframe embed or wish to view the content in a different interface."
+  },
+  {
+    "title": "File Location Information",
+    "body": "The document's physical location within the file system is specified as 'docs\\download\\Biology.md'. This information is crucial for understanding the context of the file and its relationship to other project assets, though it is not directly displayed to the end-user viewing the content itself."
+  }
+]

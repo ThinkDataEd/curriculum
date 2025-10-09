@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Lesson 17: A Normal Measure of Spread Abstract",
+    "body": "This lesson introduces standard deviation (SD) as a measure of variability, a concept explored further through the *How Far Apart?* handout. Students will compare SD to Mean Absolute Deviation (MAD), noting similarities in measuring spread and differences in their calculation methods (squaring deviations vs. absolute deviations). The lesson includes practical application using RStudio with the 'atus' dataset to estimate and calculate SD for various variables like sleep, household activities, and socializing time, reinforcing the understanding that SD represents the typical deviation from the mean. Students will also be prompted to create a two-column table in their journals for measures of center and spread, recalling previously learned methods and adding standard deviation to the spread column."
+  },
+  {
+    "title": "Introduction to Standard Deviation (SD)",
+    "body": "Unit 2 Lesson 17 focuses on understanding Standard Deviation (SD) as a measure of spread or variability in a dataset. This concept is introduced by comparing it to other measures of spread students have already learned, such as Mean Absolute Deviation (MAD) and Interquartile Range (IQR), and measures of center like the mean and median. Students are asked to create a two-column table in their journals to categorize these measures. The lesson emphasizes that SD, like MAD, is based on the deviations of data points from the mean. A key objective is to help students grasp that SD quantifies how spread out the data is around the average value."
+  },
+  {
+    "title": "Calculating Standard Deviation (SD) Formula",
+    "body": "The formula for calculating the standard deviation (s) of a dataset is presented as: s = sqrt(sum((xi - x_bar)^2) / n). This formula involves several steps: 1. Calculate the mean (x_bar) of the dataset. 2. Find the deviation of each data point (xi) from the mean (xi - x_bar). 3. Square each of these deviations ((xi - x_bar)^2). 4. Calculate the average of these squared deviations (sum((xi - x_bar)^2) / n). 5. Take the square root of this average to obtain the standard deviation (s). This process is demonstrated using the *How Far Apart? (with standard deviation – SD)* handout ([LMR_U2_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L17.pdf))."
+  },
+  {
+    "title": "Comparing Standard Deviation (SD) and Mean Absolute Deviation (MAD)",
+    "body": "Standard Deviation (SD) and Mean Absolute Deviation (MAD) are both measures of variability and are based on the deviations from the mean. However, they differ in their calculation. MAD uses the absolute value of each deviation and averages these absolute deviations. SD, on the other hand, squares each deviation, averages these squared deviations, and then takes the square root of the result. This difference in calculation (squaring vs. absolute value) leads to different interpretations and applications. The lesson uses the *How Far Apart?* handout ([LMR_U2_L4](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L4.pdf)) and *How Far Apart? (with standard deviation – SD)* handout ([LMR_U2_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L17.pdf)) to illustrate these similarities and differences. A key advantage of taking the square root in the SD calculation is that it returns the measure of spread to the original units of the data."
+  },
+  {
+    "title": "Practical Application of Standard Deviation (SD) with RStudio",
+    "body": "Unit 2 Lesson 17 utilizes RStudio to reinforce the concept of standard deviation. Students are guided to load the 'atus' dataset and use functions to visualize distributions (e.g., histograms) and calculate the mean. They then practice estimating the standard deviation for variables like 'sleep', 'hh_activities', and 'socialize' by observing the distribution and its spread around the mean. The actual standard deviation is then calculated using the `sd()` function in RStudio. This hands-on approach allows students to connect the abstract concept of SD to real-world data and develop an intuition for what a typical deviation from the mean looks like. For instance, they estimate the typical variation in time spent sleeping (in minutes) from the mean."
+  },
+  {
+    "title": "Vocabulary: Standard Deviation (SD)",
+    "body": "Standard Deviation (SD) is a key concept introduced in Unit 2 Lesson 17. It is defined as a measure of how spread out numbers are in a dataset. More specifically, it represents the typical or average distance of each data point from the mean of the dataset. The SD is calculated as the square root of the variance. It provides a single value that quantifies the variability within a distribution, indicating whether the data points tend to be clustered closely around the mean or spread out over a wider range."
+  },
+  {
+    "title": "Essential Concepts: Standard Deviation and Normal Model",
+    "body": "The standard deviation (SD) is presented as a fundamental measure of spread, closely related to the Normal Model. Its importance in statistics stems from its integral role in various statistical models and distributions, most notably the Normal Model. This connection makes SD a valuable tool for understanding the shape and dispersion of data, especially when data approximates a normal distribution. The lesson highlights that SD, alongside measures of center, helps describe the characteristics of a data distribution."
+  },
+  {
+    "title": "Journal Activity: Measures of Center and Spread",
+    "body": "As part of Unit 2 Lesson 17, students are instructed to create a two-column table in their data science journals. The left column is to be labeled 'Measures of Center (Central Tendency)' and the right column 'Measures of Spread (Dispersion)'. In pairs, students recall and list the methods they have learned so far for measuring center (mean, median) and spread (Mean Absolute Deviation - MAD, Interquartile Range - IQR). Standard Deviation (SD) is then added to the 'Measures of Spread' column, establishing it as another important way to quantify variability. This activity helps students organize their understanding of different statistical descriptors."
+  },
+  {
+    "title": "Understanding the Meaning of Spread Measures",
+    "body": "Unit 2 Lesson 17 prompts students to consider the meaning behind measures of center and spread. In pairs, they discuss what the value of each measure tells them about the data in a distribution. The consensus is that a measure of center (like the mean or median) indicates the typical or central value of the data, while a measure of spread (like MAD, IQR, or SD) quantifies how variable or spread apart the data points are. This understanding is crucial for interpreting statistical summaries and drawing meaningful conclusions from data."
+  },
+  {
+    "title": "Handout: How Far Apart? (with standard deviation - SD)",
+    "body": "The handout *How Far Apart? (with standard deviation – SD)* ([LMR_U2_L17](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L17.pdf)) is a core component of Unit 2 Lesson 17. This handout guides students through calculating the standard deviation for datasets previously analyzed for Mean Absolute Deviation (MAD) in Unit 2 Lesson 4. By completing this handout, students apply the standard deviation formula, compare SD values with MAD values for the same datasets, and gain practical experience in measuring spread using this statistical tool. The handout includes example calculations and space for students to record their results."
+  },
+  {
+    "title": "RScript Functions for Standard Deviation",
+    "body": "Unit 2 Lesson 17 provides specific RScript functions to facilitate the calculation and visualization of standard deviation. These include: 1. `histogram(~variable, data = atus, ...)`: To visualize the distribution of data. 2. `mean(~variable, data = atus)`: To calculate the mean of the variable. 3. `add_line(vline = mean_value)`: To add a line representing the mean on the histogram. 4. `sd(~variable, data = atus)`: To directly calculate the standard deviation of the variable. These functions are used with the 'atus' dataset to explore variables like 'sleep', 'hh_activities', and 'socialize', allowing students to estimate and then compute the SD in a practical setting."
+  },
+  {
+    "title": "Teacher Note on Standard Deviation Formulas",
+    "body": "During Unit 2 Lesson 17, a note to the teacher clarifies the specific formula for standard deviation being used (dividing by 'n'). It acknowledges that in more advanced statistics (like AP Statistics), a different formula dividing by 'n-1' is used when estimating the population standard deviation from a sample. This 'n-1' version is a better estimator but requires more scaffolding. The lesson prioritizes conceptual understanding with the simpler 'n' version, sometimes referred to as the 'population value of the standard deviation', distinguishing it from the 'sample estimate of the standard deviation'."
+  }
+]

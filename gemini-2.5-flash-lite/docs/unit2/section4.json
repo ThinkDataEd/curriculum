@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract for Unit 2, Section 4: What's Normal?",
+    "body": "This section introduces the concept of the Normal curve as a statistical model applicable to many real-world phenomena. Students will learn to visually assess if a data distribution resembles a Normal distribution by overlaying a Normal curve on histograms. The core idea is that values closer to the average (center of the curve) are more probable than extreme values. The section outlines learning objectives covering statistical understanding (using mean and standard deviation to fit data to a normal distribution, estimating population percentages, and evaluating data-based reports), data science skills (eyeballing Normal distributions, simulating draws, estimating probabilities using models and RStudio), and computational thinking with RStudio (finding area under the Normal curve, comparing distributions, and drawing random samples). It also details language objectives focused on vocabulary, comparing standard deviation with MAD, and writing data science reports. Data files like 'cdc' and 'titanic' will be used, and a legend for activity icons is provided. The section spans 5 instructional days."
+  },
+  {
+    "title": "Enduring Understandings of the Normal Curve",
+    "body": "The Normal curve serves as a valuable model for understanding and describing numerous real-world phenomena. By visually comparing histograms of data with a Normal curve, data scientists can determine the degree to which a dataset's distribution approximates a Normal distribution. This model highlights that data points closer to the average (the center of the curve) are more likely to occur, while extreme values, those farther from the average, are less likely. This understanding is fundamental to probability estimation and statistical inference."
+  },
+  {
+    "title": "Engagement with the Normal World Video",
+    "body": "To introduce the concept of the Normal curve, students will engage with the New York Times video titled 'Bunnies, Dragons, and the Normal World.' Specifically, they will watch the first 35 seconds of this video, accessible via the provided link: http://www.nytimes.com/video/science/100000002452709/bunnies-dragons-and-the-normal-world.html. This visual and narrative introduction aims to spark curiosity and provide an intuitive grasp of what 'normal' distributions look like in various contexts."
+  },
+  {
+    "title": "Statistical/Mathematical Learning Objectives (S-ID 4)",
+    "body": "Students will learn to utilize the mean and standard deviation of a dataset to fit it to a Normal distribution model. This will enable them to estimate population percentages based on this model. A crucial aspect of this objective is understanding that the Normal distribution is not universally applicable and recognizing data sets for which this procedure is inappropriate. Students will also use tools like calculators and RStudio to estimate areas under the Normal curve, which directly relates to calculating probabilities."
+  },
+  {
+    "title": "Statistical/Mathematical Learning Objectives (S-IC 6)",
+    "body": "In the context of data science and statistics, students will develop the ability to evaluate reports that are based on data. This involves critically assessing how data is presented, analyzed, and used to draw conclusions, ensuring that the interpretations are statistically sound and that potential biases or limitations are identified. This objective aligns with understanding the practical application and potential pitfalls of statistical reporting."
+  },
+  {
+    "title": "Data Science Learning Objectives",
+    "body": "Students will acquire several key data science skills related to the Normal distribution. They will learn to 'eyeball' or visually assess if a distribution appears Normal by examining its histogram. A practical technique taught will be overlaying a Normal curve onto a histogram for visual comparison. Furthermore, students will learn to simulate random draws from a Normal distribution to understand the impact of sample size on distribution characteristics. They will also grasp the concept that using a statistical model like the Normal curve leads to stable estimates of probabilities. Finally, they will learn to estimate probabilities by calculating the area under the Normal curve, utilizing RStudio for these computations."
+  },
+  {
+    "title": "Applied Computational Thinking Using RStudio - Area Under Curve",
+    "body": "A core objective within applied computational thinking is the proficient use of software, specifically RStudio, to perform statistical calculations. Students will learn how to use RStudio to accurately find the area under a Normal curve. This skill is directly applicable to estimating probabilities associated with different ranges of values in a Normally distributed dataset."
+  },
+  {
+    "title": "Applied Computational Thinking Using RStudio - Distribution Comparison",
+    "body": "Through the use of RStudio, students will learn to compare sample distributions against the theoretical Normal distribution. This involves generating histograms of sample data and visually comparing them to a superimposed Normal curve. Based on this visual comparison and potentially other statistical measures, students will make informed decisions about whether a given distribution appears to be Normally distributed. This skill is crucial for selecting appropriate statistical models."
+  },
+  {
+    "title": "Applied Computational Thinking Using RStudio - Random Sampling",
+    "body": "Students will utilize RStudio to draw random samples from a Normal distribution. This practical exercise allows them to explore the properties of Normal distributions firsthand. By generating samples of varying sizes, they can observe how the distribution of sample means or other statistics behaves, and how it relates to the underlying population distribution. This reinforces the understanding of sampling variability and the characteristics of data generated from a Normal model."
+  },
+  {
+    "title": "Real-World Connections of the Normal Curve",
+    "body": "The Normal curve is a fundamental tool in statistics for making inferences about populations based on sample data. Its primary utility lies in its ability to estimate the probability of observing any particular value for a variable that follows a Normal distribution. A common real-world example is human height, which is known to be approximately Normally distributed. Using the Normal curve model, we can estimate the probability that a randomly selected person would have a specific height, such as 6' 2\"."
+  },
+  {
+    "title": "Language Objective 1: Vocabulary for Normal Distributions",
+    "body": "Students will actively use and articulate mathematical vocabulary pertinent to Normal distributions and their characteristics. This includes terms such as 'mean,' 'standard deviation,' 'median,' 'mode,' 'bell curve,' 'symmetrical,' 'asymmetrical,' 'probability density function,' 'outlier,' 'central tendency,' and 'variability.' The goal is for students to confidently explain the properties and applications of Normal distributions using precise statistical language."
+  },
+  {
+    "title": "Language Objective 2: Standard Deviation vs. Mean Absolute Deviation (MAD)",
+    "body": "A key language objective is for students to compare and contrast the concepts of standard deviation and Mean Absolute Deviation (MAD). They will need to articulate the similarities and differences between these two measures of dispersion, understanding how each is calculated and what aspects of data spread they represent. This comparative analysis will deepen their understanding of variability in data sets."
+  },
+  {
+    "title": "Language Objective 3: Writing Data Science Reports",
+    "body": "Students will develop their writing skills by producing short, informative reports that integrate concepts and skills learned in data science. These reports will require students to clearly communicate findings, interpretations, and conclusions drawn from data analysis, potentially involving the use of the Normal curve model or other statistical tools. The focus will be on clarity, accuracy, and the effective use of data science terminology."
+  },
+  {
+    "title": "Data Files for Analysis",
+    "body": "This section utilizes specific datasets for practical application of the concepts learned. The primary data files available for analysis are: 1. The 'cdc' dataset, which can be loaded into RStudio using the command ```data(cdc)```. 2. The 'titanic' dataset, also accessible in RStudio via the command ```data(titanic)```. These datasets provide real-world data for students to explore distributions, calculate statistics, and apply Normal curve concepts."
+  },
+  {
+    "title": "Legend for Activity Icons",
+    "body": "A legend is provided to help students understand the meaning of various icons used throughout the instructional materials. This legend, represented by an image file located at '../img/legend.png', clarifies the purpose of different symbols or graphics associated with activities, discussions, or exercises. Familiarity with this legend ensures that students can correctly interpret the different types of tasks and information presented."
+  }
+]

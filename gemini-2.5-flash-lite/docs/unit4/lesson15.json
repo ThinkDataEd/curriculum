@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Abstract for Unit 4 Lesson 15",
+    "body": "Unit 4 Lesson 15, \"Combination of Variables,\" focuses on improving predictive models by incorporating multiple variables. The lesson challenges the common misconception that adding more variables always worsens predictions. Through hands-on activities and data analysis using RStudio, students explore how combining predictors like advertising spending (TV, Radio, Newspaper) can lead to more accurate sales predictions, as measured by Mean Squared Error (MSE). The lesson highlights that while some combinations may not improve predictions, others significantly reduce error, demonstrating the value of using more information. Students analyze scatterplots, interpret regression equations, and compare MSE values for single and combined variable models, culminating in a discussion about the trade-offs and benefits of multi-variable modeling and its limitations in visualization."
+  },
+  {
+    "title": "Unit 4 Lesson 15 Objective",
+    "body": "The primary objective of Unit 4 Lesson 15 is for students to understand that predictions can be enhanced by including a greater number of variables in a model. Furthermore, students will engage in activities to determine how information from these multiple variables should be effectively combined to achieve the best predictive outcomes."
+  },
+  {
+    "title": "Materials for Unit 4 Lesson 15",
+    "body": "The necessary materials for Unit 4 Lesson 15 include the 'Advertising Plots Part 2' handout, which is the same handout used in the previous lesson (Unit 4 Lesson 14). This handout is essential for referring back to the data and plots used to build upon the concepts of prediction and variable combination."
+  },
+  {
+    "title": "Essential Concepts in Unit 4 Lesson 15",
+    "body": "The core concept reinforced in Unit 4 Lesson 15 is that a predictive model achieves better accuracy, as indicated by a lower mean squared error (MSE), when multiple predictor variables that are associated with the response variable are included. This contrasts with the intuition that more variables might 'contaminate' a model. The lesson aims to demonstrate that judiciously combining relevant predictors leads to improved predictive performance."
+  },
+  {
+    "title": "Introduction to Combining Variables in Unit 4 Lesson 15",
+    "body": "Unit 4 Lesson 15 begins by displaying plots and statements from the previous lesson. Students are prompted to consider whether combining multiple advertising variables (like TV, Newspaper, and Radio spending) into a single model improves or degrades prediction accuracy. Initially, students engage in an 'Agree/Disagree' activity to voice their opinions on this concept, setting the stage for data-driven exploration."
+  },
+  {
+    "title": "Activity: Generating Variable Combinations in Unit 4 Lesson 15",
+    "body": "Following the initial discussion, teams in Unit 4 Lesson 15 are given a time limit (2 minutes) to brainstorm and list as many combinations of advertising variables as possible. Examples include 'TV + Newspaper ads' or 'TV + Radio + Newspaper ads'. A 'Whip Around' activity is used to collect all generated combinations from the teams. Students then vote by a show of hands on which combination they believe would be the best predictor of sales."
+  },
+  {
+    "title": "Predictive Equation and Example Calculation in Unit 4 Lesson 15",
+    "body": "Unit 4 Lesson 15 introduces a multi-variable predictive model for sales: \\(\\widehat{sales}=0.044889(tv) + 0.194199(radio) - 0.007392(newspaper) + 3.154843\\). This equation, generated using RStudio with the command \\(lm(Sales ~ TV + Radio + Newspaper, data=retail)\\), is used to predict sales for a specific market circled in the previous lesson. Students substitute the raw values from the plots (e.g., 10 for newspaper ads) into the equation. The predicted sales value (10.81224) is then assessed for plausibility, noting that it represents approximately 108,122 units, which seems too high compared to actual sales of around 16,000 units, especially for a market that didn't fit the overall pattern."
+  },
+  {
+    "title": "Mean Squared Error (MSE) Analysis in Unit 4 Lesson 15",
+    "body": "Unit 4 Lesson 15 reveals Mean Squared Error (MSE) values calculated by RStudio for various single and combined variable models. The MSE represents the average squared difference between predicted and actual values. The square root of the MSE provides an estimate of the typical error in the original units (e.g., number of units sold). For instance, a TV model has an MSE of 11.38103, with a Square Root MSE of 3.373579, meaning predictions are typically off by about 33,736 units."
+  },
+  {
+    "title": "MSE Table and Interpretation in Unit 4 Lesson 15",
+    "body": "The MSE table in Unit 4 Lesson 15 displays the following error metrics:\n\n| Model | Mean Squared Error (MSE) | Square Root MSE |\n|---|---|---|\n| TV | 11.38103 | 3.373579 |\n| Radio | 25.35521 | 5.035396 |\n| Newspaper | 31.44164 | 5.607285 |\n| TV-Radio | 4.456745 | 2.1111 |\n| TV-Newspaper | 9.246567 | 3.040817 |\n| Radio-Newspaper | 27.26889 | 5.221963 |\n| TV-Radio-Newspaper | 4.70338 | 2.168728 |\n\nStudents analyze this table to identify the best predictor (TV-Radio, with the lowest error of ~21,111 units) and the least reliable predictor (Newspaper, with the highest error of ~56,073 units). They also observe that combining variables generally leads to better predictions than single-variable models."
+  },
+  {
+    "title": "Revisiting Initial Statements in Unit 4 Lesson 15",
+    "body": "After analyzing the MSE data in Unit 4 Lesson 15, students revisit the initial statements about whether combining variables leads to worse or better predictions. They discuss whether their opinions have changed and what evidence supports their current stance. The data shows that while the TV-Radio model is best, the TV-Radio-Newspaper model is also quite good, supporting the idea that more variables can improve predictions. However, the existence of models like Radio-Newspaper suggests that not all combinations are beneficial, leading to nuanced discussions."
+  },
+  {
+    "title": "Transition to Next Lab in Unit 4 Lesson 15",
+    "body": "Unit 4 Lesson 15 concludes by informing students that the next activity will be a lab ([Lab 4F](lab4f.md)) where they will learn how to construct the line of best fit for models involving multiple variables. This prepares them for practical application of the concepts learned in the lesson."
+  },
+  {
+    "title": "Class Scribes and Homework in Unit 4 Lesson 15",
+    "body": "As part of Unit 4 Lesson 15, one team is assigned the role of 'Class Scribes' to present the three most important topics discussed during the lesson. The homework assignment asks students to consider why creating scatterplots for models with more than three predictor variables might be problematic. The primary reason is the limitation of human perception to visualize beyond three dimensions, making a four-dimensional model (like one with four variables) difficult to represent graphically."
+  },
+  {
+    "title": "Vocabulary: Mean Squared Error (MSE)",
+    "body": "Mean Squared Error (MSE) is a key concept in Unit 4 Lesson 15. It is a measure used to quantify the average of the squares of the errors—that is, the average squared difference between the estimated values and the actual value. In the context of this lesson, MSE is used to evaluate the performance of different predictive models (single variable vs. combined variables) for estimating sales. A lower MSE indicates a better-performing model, meaning its predictions are, on average, closer to the actual outcomes. The MSE is always in 'squared units' relative to the response variable."
+  },
+  {
+    "title": "Concept: Multi-variable Predictive Models",
+    "body": "Unit 4 Lesson 15 introduces the concept of multi-variable predictive models. Unlike simple linear regression which uses a single predictor variable, these models incorporate two or more predictor variables to estimate a response variable. For example, predicting sales can be improved by considering not just TV advertising spending, but also radio and newspaper advertising expenditures simultaneously. The lesson demonstrates that including relevant variables can lead to a reduction in prediction error, as measured by metrics like Mean Squared Error (MSE), making the model more accurate and informative. The RStudio command \\(lm(Sales ~ TV + Radio + Newspaper, data=retail)\\) is an example of fitting such a model."
+  },
+  {
+    "title": "RStudio Code Snippet: Linear Model",
+    "body": "In Unit 4 Lesson 15, the following RStudio code snippet is presented to demonstrate how a multi-variable linear model is generated: \\(lm(Sales \\sim TV + Radio + Newspaper, data = retail)\\). This command fits a linear model where 'Sales' is the response variable, and 'TV', 'Radio', and 'Newspaper' advertising expenditures are the predictor variables. The data used is stored in a data frame named 'retail'. This code is used behind the scenes to calculate the coefficients for the predictive equation and the Mean Squared Error (MSE) values that students analyze in the lesson."
+  },
+  {
+    "title": "Calculation: Predicting Sales with Multi-variable Model",
+    "body": "Unit 4 Lesson 15 involves using a multi-variable regression equation to predict sales. The equation derived is \\(\\widehat{sales} = 0.044889(tv) + 0.194199(radio) - 0.007392(newspaper) + 3.154843\\). To use this equation, students must substitute the specific advertising values (TV, Radio, Newspaper) for a chosen market. It is crucial to use the raw values as they appear on the plot's axes, not converted to thousands. For instance, if a market spent $10,000 on newspaper ads, the value '10' is used. The calculation for a specific market yielded a predicted sales value of 10.81224, which represents approximately 108,122 units, prompting a discussion about its plausibility."
+  },
+  {
+    "title": "Comparing Model Performance: MSE and Square Root MSE",
+    "body": "Unit 4 Lesson 15 emphasizes comparing the performance of different predictive models using Mean Squared Error (MSE) and its square root. The MSE quantifies the average squared prediction error. Taking the square root of the MSE provides an error estimate in the original units of the response variable, making it more interpretable. For example, a Square Root MSE of 3.373579 for the 'TV' model in Unit 4 Lesson 15 implies that predictions typically deviate from actual sales by about 33,736 units. By comparing these values across various models (e.g., 'TV', 'Radio', 'TV-Radio'), students can objectively determine which model offers the best predictive accuracy, identified as the one with the lowest Square Root MSE."
+  },
+  {
+    "title": "Interpreting Model Reliability in Unit 4 Lesson 15",
+    "body": "In Unit 4 Lesson 15, students learn to interpret model reliability based on the Mean Squared Error (MSE) and its square root. The model with the lowest Square Root MSE is considered the most reliable predictor. For instance, the 'TV-Radio' model has a Square Root MSE of 2.1111, indicating predictions are typically off by approximately 21,111 units, making it the best predictor among those analyzed. Conversely, the 'Newspaper' model, with a Square Root MSE of 5.607285, is the least reliable, with typical errors around 56,073 units. This comparative analysis helps students understand the practical implications of different model choices."
+  },
+  {
+    "title": "Homework: Visualizing High-Dimensional Models",
+    "body": "The homework for Unit 4 Lesson 15 challenges students to think about the limitations of visualizing models with many predictor variables. Specifically, they are asked to consider why it might be difficult to create a scatterplot for models that include more than three predictor variables. The core issue is that humans are limited to perceiving and plotting in three spatial dimensions. A model with four or more predictor variables exists in a higher-dimensional space, which cannot be directly visualized using standard 2D or 3D scatterplots, posing a challenge for graphical representation and intuitive understanding."
+  },
+  {
+    "title": "Lab 4F Preview: Multi-variable Line of Best Fit",
+    "body": "Unit 4 Lesson 15 sets the stage for [Lab 4F](lab4f.md), titled 'This model is big enough for all of us.' This lab will build directly on the concepts introduced in the lesson, focusing on the practical skills needed to create and interpret the line of best fit for models that incorporate multiple predictor variables. Students will apply the methods learned to further analyze datasets and build more complex predictive models."
+  }
+]

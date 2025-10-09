@@ -1,0 +1,110 @@
+[
+  {
+    "title": "Abstract: Lab 4G - Growing Trees",
+    "body": "This lab introduces the concept of decision trees for prediction, contrasting them with linear models. It guides users through creating, visualizing, and interpreting classification trees using the 'titanic' dataset. Key functions like 'tree()' and 'treeplot()' are introduced. The lab explores how to improve tree performance by adjusting complexity parameters ('cp' and 'minsplit') and demonstrates how to measure performance using the misclassification rate on test data. It also touches upon regression trees for numerical predictions and the trade-off between model complexity and predictive accuracy."
+  },
+  {
+    "title": "Introduction to Tree-Based Predictions",
+    "body": "Unit 4 Lesson 11, Lab 4G, 'Growing Trees,' introduces a new method for making predictions: decision trees. Unlike linear models which fit a line to data, decision trees work by recursively splitting the data into branches based on a series of yes/no questions. These branches lead to 'leaves' which are then used to make predictions. This approach contrasts with the linear modeling techniques learned previously. The lab begins by asking users to load the 'titanic' dataset to start building their first tree model."
+  },
+  {
+    "title": "Classification Trees vs. Linear Models",
+    "body": "In Unit 4 Lesson 11, Lab 4G, 'Growing Trees,' we move from linear models to tree-based models for prediction. While linear models fit a continuous line, classification trees predict a categorical outcome. The lab asks why a linear model cannot be used to predict a binary outcome like survival (yes/no) based on a categorical predictor like sex. This is because linear models assume a linear relationship and output continuous values, which are not suitable for discrete categorical predictions. The lab instructs the creation of a classification tree using the `tree()` function, similar to `lm()`, to predict survival based on sex, assigning the model to `tree1`."
+  },
+  {
+    "title": "Creating and Visualizing 'tree1'",
+    "body": "Unit 4 Lesson 11, Lab 4G, focuses on building a first classification tree named `tree1`. This tree predicts whether a passenger `survived` based on their `sex`. The `tree()` function is used for this purpose, with the syntax mirroring `lm()`. After creating `tree1`, users are instructed to visualize it using the `treeplot()` function. This visualization allows for interpretation, prompting users to identify the labels of the two branches and two leaves of the tree. The lab then asks users to interpret the plot to determine which sex the model predicts will survive, where to find the number of people sorted into each leaf, and where to find information on incorrectly sorted individuals."
+  },
+  {
+    "title": "Interpreting 'tree1' Predictions",
+    "body": "Following the creation of `tree1` in Unit 4 Lesson 11, Lab 4G, interpretation is key. The `treeplot(tree1)` function reveals the decision-making process. Users examine the plot to identify the labels of the two main branches and the two final leaves. Critically, they determine which `sex` category the model predicts has a higher survival rate. The plot also visually indicates the number of observations falling into each leaf, allowing for an understanding of the data distribution within the tree's segments. Furthermore, the plot highlights instances where passengers were sorted incorrectly into leaves, providing insight into the model's initial performance."
+  },
+  {
+    "title": "Building 'tree2' with Multiple Predictors",
+    "body": "Unit 4 Lesson 11, Lab 4G, progresses to creating more complex decision trees. Following the initial `tree1` model, users are tasked with building a second classification tree, named `tree2`. This tree aims to predict `survived` using a more comprehensive set of predictors: `sex`, `age`, `class`, and `embarked`. This step mirrors the process of including multiple variables in linear models. The `tree()` function is again utilized, with the formula specifying `survived` as the outcome and the other variables as predictors. Assigning the model to `tree2` prepares it for further analysis and visualization."
+  },
+  {
+    "title": "Analyzing 'tree2' and Passenger Predictions",
+    "body": "After constructing `tree2` in Unit 4 Lesson 11, Lab 4G, users analyze its structure and make specific predictions. Visualizing `tree2` using `treeplot()` allows for interpretation. The lab poses a scenario involving a specific passenger, Mrs. Baxter (50-year-old female, 1st class, from Cherbourg), asking whether the model predicts she survived. This requires tracing her path through the tree based on her attributes. Additionally, users identify which of the input variables (`sex`, `age`, `class`, `embarked`) was ultimately not used by `tree2` in its decision-making process, indicating variables that did not contribute to splitting the data effectively."
+  },
+  {
+    "title": "Controlling Tree Complexity: 'cp' and 'minsplit'",
+    "body": "Unit 4 Lesson 11, Lab 4G, introduces parameters for controlling the complexity of decision trees. By default, the `tree()` function aims to create trees that balance prediction accuracy and simplicity. However, users can explicitly manage complexity. The 'complexity parameter' (`cp`) determines the minimum improvement in the tree's objective function required for a split to be considered useful; the default is `0.01`. The 'minsplit' parameter sets the minimum number of observations required in a node for it to be split; the default is `20`. Lab 4G instructs users to create `tree3` using the same variables as `tree2`, but with `cp = 0.005` and `minsplit = 10`, to observe the impact of reduced complexity thresholds."
+  },
+  {
+    "title": "Comparing 'tree2' and 'tree3'",
+    "body": "In Unit 4 Lesson 11, Lab 4G, after creating `tree3` with modified complexity parameters (`cp = 0.005`, `minsplit = 10`), users compare it to `tree2`. The question posed is: 'How is `tree3` different from `tree2`?'. By observing the `treeplot()` for `tree3` (implicitly or explicitly), users can see if the reduced `cp` and `minsplit` values led to a larger, more detailed tree with more splits and leaves compared to `tree2`. This comparison highlights how adjusting these parameters directly influences the structure and potential depth of the decision tree."
+  },
+  {
+    "title": "Predicting on Test Data with 'tree1'",
+    "body": "Unit 4 Lesson 11, Lab 4G, moves to evaluating model performance on unseen data using cross-validation principles. The first step is to load the `titanic_test` dataset. Then, using the `predict()` function, users generate predictions for the `survived` variable based on the `tree1` model. The `newdata` argument specifies the test data, and importantly, `type = 'class'` is used because the outcome `survived` is a categorical variable. The code snippet `titanic_test <- mutate(____, prediction = predict(____, newdata = ____, type = 'class'))` requires users to fill in the blanks with the appropriate data and model references to add a 'prediction' column to the `titanic_test` data frame."
+  },
+  {
+    "title": "Measuring Performance: Misclassification Rate (MCR)",
+    "body": "Unit 4 Lesson 11, Lab 4G, introduces the misclassification rate (MCR) as a metric for evaluating classification trees, analogous to Mean Squared Error (MSE) for regression. The MCR quantifies the proportion of instances where the model's predicted category differs from the actual category. Before calculating the MCR, users are instructed to view a side-by-side comparison of the actual `survived` values and the `prediction` column generated by `tree1` on the `titanic_test` data using `View(select(titanic_test, survived, prediction))`. This visual inspection helps in identifying where misclassifications occur, with the lab specifically asking where the *first* misclassification is observed."
+  },
+  {
+    "title": "Implementing the Misclassification Rate Calculation",
+    "body": "To quantify the performance of `tree1` on the `titanic_test` data in Unit 4 Lesson 11, Lab 4G, a function `calc_mcr` is needed to compute the misclassification rate (MCR). This function takes the actual and predicted outcomes as inputs. The core logic relies on the 'not equal to' operator (`!=`) to identify disagreements between actual and predicted values. The lab prompts users to fill in the blanks in the function definition: `calc_mcr <- function(actual, predicted) { sum(____ != ____) / length(actual) }`. The correct completion involves using `actual` and `predicted` within the `sum()` function to count mismatches, then dividing by the total number of observations (`length(actual)`)."
+  },
+  {
+    "title": "Calculating MCR for 'tree1' and Conceptual Understanding",
+    "body": "After defining the `calc_mcr` function in Unit 4 Lesson 11, Lab 4G, users execute it to find the misclassification rate for `tree1` on the `titanic_test` data. The command `summarize(titanic_test, mcr = calc_mcr(survived, prediction))` calculates this rate and presents it. Following this, the lab asks for a conceptual explanation: 'In your own words, explain what the misclassification rate is.' This requires articulating that MCR represents the proportion of incorrect predictions made by the model on a given dataset, serving as a measure of its accuracy for categorical outcomes."
+  },
+  {
+    "title": "Comparing Models and Overfitting",
+    "body": "Unit 4 Lesson 11, Lab 4G, involves comparing the predictive performance of different tree models. Users are asked: 'Which model (`tree1`, `tree2`, or `tree3`) had the lowest misclassification rate for the `titanic_test` data?'. This necessitates running the prediction and MCR calculation process for `tree2` and `tree3` as well, although the specific steps for these are implied rather than explicitly detailed in the provided text for comparison. The subsequent question delves into the concept of overfitting: 'Does creating a more complex classification tree always lead to better predictions? Why not?'. This prompts reflection on the trade-off between model complexity and generalization ability, introducing the idea that overly complex models might perform poorly on new data."
+  },
+  {
+    "title": "Exploring Tree Complexity and Overfitting Further",
+    "body": "In Unit 4 Lesson 11, Lab 4G, users further investigate the relationship between tree complexity and prediction accuracy. They are asked to create a fourth model (`tree4`) using the same variables as `tree2` but with a much smaller complexity parameter (`cp = 0.0001`). This value suggests allowing for many more splits and a potentially much more complex tree. The subsequent question, 'Does creating a more complex classification tree always lead to better predictions? Why not?', directly addresses the issue of overfitting. A more complex tree might capture noise in the training data, leading to a higher misclassification rate on the unseen `titanic_test` data, illustrating that increased complexity does not guarantee improved generalization."
+  },
+  {
+    "title": "Introduction to Regression Trees",
+    "body": "Unit 4 Lesson 11, Lab 4G, concludes by introducing regression trees, which are distinct from the classification trees discussed earlier. While classification trees predict categorical outcomes (like `survived`), regression trees are used to predict numerical variables. The lab defines a regression tree as 'a tree model that predicts a numerical variable.' It notes that plots of regression trees are often too complex to be easily visualized. As a practical exercise, users are instructed to write and run code to create a regression tree model to predict passengers' `age` (a numerical variable) and calculate the Mean Squared Error (MSE) for this model, analogous to how MCR was used for classification."
+  },
+  {
+    "title": "Vocabulary: Classification Tree",
+    "body": "In the context of Unit 4 Lesson 11, Lab 4G, a *classification tree* is a type of decision tree model used for prediction. Its primary purpose is to predict the category into which a categorical variable would belong. This is achieved by recursively splitting the data into branches based on a series of yes/no questions derived from the predictor variables. The process continues until the data is sorted into 'leaves', each representing a prediction for the categorical outcome. The lab uses the `tree()` function with `type = 'class'` in prediction to build and analyze classification trees."
+  },
+  {
+    "title": "Vocabulary: Regression Tree",
+    "body": "A *regression tree* is a type of decision tree model used for prediction, as introduced in Unit 4 Lesson 11, Lab 4G. Unlike classification trees that predict categorical variables, regression trees are designed to predict numerical (continuous) variables. The tree structure is built by splitting the data based on predictor variables, but the prediction at each leaf node is a numerical value, typically the average of the target variable for the observations in that leaf. The lab mentions calculating the Mean Squared Error (MSE) as a performance metric for regression trees."
+  },
+  {
+    "title": "Vocabulary: Misclassification Rate (MCR)",
+    "body": "The *misclassification rate* (MCR) is a performance metric used for classification models, including decision trees, as discussed in Unit 4 Lesson 11, Lab 4G. It represents the proportion of instances in a dataset for which the model's prediction does not match the actual outcome. Calculated as the total number of incorrect predictions divided by the total number of observations, a lower MCR indicates a better-performing classification model. The lab guides users through calculating MCR using the `calc_mcr` function and applying it to evaluate models on test data."
+  },
+  {
+    "title": "Vocabulary: Complexity Parameter (cp)",
+    "body": "The *complexity parameter* (`cp`) is an argument used in the `tree()` function, as detailed in Unit 4 Lesson 11, Lab 4G. It controls the granularity of the decision tree by defining the minimum improvement in the tree's overall error (or other objective function) required for a potential split to be considered significant enough to be included in the tree. A smaller `cp` value allows for more splits, potentially leading to a more complex and deeper tree, while a larger `cp` value results in a simpler tree. The default value is typically `0.01`."
+  },
+  {
+    "title": "Vocabulary: Minsplit",
+    "body": "The `minsplit` parameter, mentioned in Unit 4 Lesson 11, Lab 4G, is an argument for the `tree()` function that controls the minimum number of observations required in a node before a split can be attempted. If a node contains fewer observations than the `minsplit` value, no further splits will occur in that branch, regardless of other conditions. The default value is typically `20`. Adjusting `minsplit` influences the depth and detail of the decision tree; a lower value allows for splitting smaller groups of data, potentially creating more specific branches."
+  },
+  {
+    "title": "Code Snippet: Loading Data",
+    "body": "In Unit 4 Lesson 11, Lab 4G, the process of building and evaluating decision trees begins with loading datasets. The lab explicitly instructs users to load the `titanic` data at the start using the command ```titanic``` (implying loading a package or dataset named 'titanic'). Later, for prediction and evaluation on unseen data, the `titanic_test` data is loaded using the `data()` function: ```data(titanic_test)```. These datasets serve as the foundation for creating and testing the tree models throughout the lab exercises."
+  },
+  {
+    "title": "Code Snippet: Creating a Classification Tree",
+    "body": "Unit 4 Lesson 11, Lab 4G, utilizes the `tree()` function to construct classification trees. The syntax is similar to `lm()`. For instance, to predict `survived` based on `sex`, the code would be: `tree1 <- tree(survived ~ sex, data = titanic)`. The formula `survived ~ sex` specifies `survived` as the dependent variable and `sex` as the predictor. The `data = titanic` argument indicates the dataset to be used. Subsequent models like `tree2` and `tree3` involve including more predictors in the formula (e.g., `survived ~ sex + age + class + embarked`) and adjusting parameters like `cp` and `minsplit`."
+  },
+  {
+    "title": "Code Snippet: Visualizing a Tree",
+    "body": "To interpret the structure of a decision tree created in Unit 4 Lesson 11, Lab 4G, the `treeplot()` function is used. After a tree model (e.g., `tree1`) is built using the `tree()` function, it can be visualized by calling `treeplot(tree1)`. This function generates a graphical representation of the tree, showing the splitting nodes, branches, and leaf nodes. This visualization is crucial for understanding how the model makes predictions and for answering questions about the data distribution within the tree, such as the number of observations in each leaf and the variables used for splitting."
+  },
+  {
+    "title": "Code Snippet: Making Predictions with Trees",
+    "body": "In Unit 4 Lesson 11, Lab 4G, predictions are made using the `predict()` function, similar to linear models. For classification trees, when predicting a categorical outcome, the `type = 'class'` argument is essential. An example from the lab is predicting survival on the `titanic_test` data using `tree1`: `titanic_test <- mutate(titanic_test, prediction = predict(tree1, newdata = titanic_test, type = 'class'))`. This code adds a new column named `prediction` to the `titanic_test` dataframe, containing the predicted survival category for each passenger based on the `tree1` model."
+  },
+  {
+    "title": "Code Snippet: Calculating Misclassification Rate",
+    "body": "Unit 4 Lesson 11, Lab 4G, requires calculating the misclassification rate (MCR) for classification trees. A function `calc_mcr` is defined: `calc_mcr <- function(actual, predicted) { sum(actual != predicted) / length(actual) }`. This function takes the true values (`actual`) and the model's predictions (`predicted`), counts the number of instances where they differ using `sum(actual != predicted)`, and divides by the total number of observations (`length(actual)`). The resulting MCR value is then summarized for a given dataset, e.g., `summarize(titanic_test, mcr = calc_mcr(survived, prediction))`."
+  },
+  {
+    "title": "Code Snippet: Creating a Regression Tree",
+    "body": "In Unit 4 Lesson 11, Lab 4G, the creation of a *regression tree* is introduced for predicting numerical variables. The `tree()` function is used, but without the `type = 'class'` argument during prediction (though the function itself may not require a specific 'type' for fitting). To predict `age`, a numerical variable, the formula would be structured like `age ~ .` (predict age using all other variables) or specify specific predictors. For example: `tree_age <- tree(age ~ . , data = titanic)`. The lab requires calculating the Mean Squared Error (MSE) for such a model, indicating a performance evaluation step similar to MCR for classification trees."
+  }
+]

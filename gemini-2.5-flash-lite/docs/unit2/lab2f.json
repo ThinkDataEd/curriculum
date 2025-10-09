@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Abstract: Lab 2F - The Titanic Shuffle",
+    "body": "This lab, Unit 2 Lab 2F, investigates whether passengers who paid a higher fare on the Titanic were more likely to survive. It builds upon previous concepts of using do-loops and the shuffle function to simulate random data shuffling. The lab guides users through loading the titanic dataset, visualizing fare distributions using boxplots faceted by survival status, and calculating numerical summaries like the median fare for survivors and non-survivors. A core component involves performing 500 random shuffles of survival status, recalculating the difference in median fares for each shuffle, and then analyzing the distribution of these differences to determine if the observed difference in the original data is statistically significant. The lab also explores the impact of using the mean fare instead of the median fare in the same simulation process, prompting users to compare the results and draw conclusions about the relationship between fare paid and survival on the Titanic."
+  },
+  {
+    "title": "Introduction to Unit 2 Lab 2F: The Titanic Shuffle",
+    "body": "This lab, titled 'The Titanic Shuffle' as part of Unit 2 Lab 2F, extends the concepts learned in previous labs regarding the use of do-loops and the shuffle function. Previously, these tools were used to simulate random shuffling of data multiple times to assess the likelihood that a difference between groups is due to chance. In this lab, we will apply these ideas to numerical variables. The central question guiding this investigation is: Is there any evidence to suggest that those who survived paid a higher fare than those who died? This lab will involve loading the titanic dataset, performing statistical analyses, and utilizing simulations to answer this question."
+  },
+  {
+    "title": "The Titanic Dataset and Initial Visualization",
+    "body": "The Titanic was a British passenger liner that sank in the North Atlantic Ocean in 1912 after striking an iceberg during its maiden voyage. This lab, Unit 2 Lab 2F, begins by instructing users to load the 'titanic' passenger and survival data using the data function. Following data loading, users are prompted to create a boxplot visualizing the distribution of fares paid by passengers. This plot should be faceted based on the survival status of the passenger (survived or died). The subsequent step involves a qualitative assessment of this plot: Based on the visualization, do you believe that passengers who paid a higher fare were more likely to survive? Users need to explain their reasoning and express their certainty regarding this initial assessment."
+  },
+  {
+    "title": "Exploring Fare Distributions and Typical Values",
+    "body": "In Unit 2 Lab 2F, after visualizing the fare data, the next step involves further exploration of the fare distributions. Users are asked to write and run code to visualize the distribution of fares paid. This visualization will help in understanding the spread and central tendency of the fares. Subsequently, the lab prompts users to consider which numerical summary is most appropriate for describing the 'typical' fare paid. They are then asked to calculate and state the typical fare paid by survivors and non-survivors, and determine the difference between these typical survivor and non-survivor fares. This step focuses on understanding the basic numerical differences in fares between the two groups before introducing simulation."
+  },
+  {
+    "title": "Simulating Survival Status Differences with Median Fares",
+    "body": "This section of Unit 2 Lab 2F focuses on using simulations to test the hypothesis that survivors paid higher fares. Users are instructed to write and run code employing the do and shuffle functions to randomly shuffle the survival status of passengers 500 times. For each of these 500 shuffles, the median fare paid by survivors and non-survivors is to be computed. The shuffled data, containing these calculated medians, should be assigned the name 'shuffled_survival'. Following the shuffling process, users will use the mutate function to create a new variable named 'diff'. This 'diff' variable will represent the difference between the median fare of survivors and the median fare of non-survivors for each shuffle. The 'shuffled_survival' data will be updated to include this 'diff' variable."
+  },
+  {
+    "title": "Statistical Analysis with Median Fare Differences",
+    "body": "In Unit 2 Lab 2F, after generating the simulated differences in median fares, users must put these simulations to use. The primary research question, 'Is there any evidence to suggest that those who survived paid a higher fare than those who died?', is to be answered using the generated shuffled data. This involves a statistical analysis where a plot is created to visualize the distribution of the calculated 'diff' values (median survivor fare - median non-survivor fare). The explanation of how this plot supports the conclusion is crucial. Furthermore, users must articulate the importance of the shuffling process itself in the context of their statistical analysis, explaining why random permutation is necessary for hypothesis testing in this scenario."
+  },
+  {
+    "title": "Exploring Differences Using Mean Fares",
+    "body": "This part of Unit 2 Lab 2F introduces an alternative approach to analyzing the Titanic fare data by focusing on mean fares instead of medians. The lab poses a hypothetical scenario: what if, instead of calculating the median fare for each group after a shuffle, we calculated the mean fare price and took the difference (mean_survivor – mean_victim)? Users are asked to predict what the distribution of these differences would look like if this process were repeated 500 times. This section sets the stage for performing the simulation using means, similar to the previous median-based simulation."
+  },
+  {
+    "title": "Simulating Survival Status Differences with Mean Fares",
+    "body": "Continuing with Unit 2 Lab 2F, this section involves performing the simulation using mean fares. Users will write and run code utilizing the do and shuffle functions to shuffle the passenger survival status 500 times. For each shuffle, the mean fare paid by survivors and non-survivors will be computed. After completing the 500 shuffles, the mutate function will be used to create a variable named 'diff'. This 'diff' variable will represent the difference between the mean fare of survivors and the mean fare of non-survivors for each shuffle. The resulting dataset, containing these differences, will be used for further analysis."
+  },
+  {
+    "title": "Interpreting Simulation Results: Mean vs. Median Fares",
+    "body": "The final part of Unit 2 Lab 2F requires users to interpret the results from the mean fare simulation. They need to analyze what the shuffled data reveals regarding the research question: 'Is there any evidence to suggest that those who survived paid a higher fare than those who died?'. A key aspect of this analysis is to compare the findings obtained using mean fares with those obtained using median fares in the previous simulation. Users must determine whether the answer to the research question changes when employing mean fares instead of median fares, and explain the implications of this comparison for their conclusions about fare and survival on the Titanic."
+  },
+  {
+    "title": "Vocabulary: do-loop",
+    "body": "A 'do-loop' is a programming construct that allows a block of code to be executed repeatedly. In the context of Unit 2 Lab 2F and statistical simulations, 'do-loops' are essential for performing an action (like shuffling data and calculating a statistic) a specified number of times. This enables the generation of a distribution of possible outcomes under the null hypothesis, which is crucial for hypothesis testing. The 'do' function in R, often used with 'shuffle', automates this repetitive process for simulations."
+  },
+  {
+    "title": "Vocabulary: shuffle function",
+    "body": "The 'shuffle' function, as used in Unit 2 Lab 2F, is a tool for randomly reordering the elements within a dataset or a specific variable. In simulations, it's used to break the association between the variable of interest (e.g., survival status) and the outcome variable (e.g., fare). By shuffling survival status and re-calculating differences in fares, we can simulate what we'd expect to see if there were truly no relationship between fare and survival, allowing us to assess the significance of the observed difference in the real data."
+  },
+  {
+    "title": "Vocabulary: data function",
+    "body": "The 'data' function, mentioned in Unit 2 Lab 2F, is a command used in statistical software (like R) to load datasets into the current working environment. In this lab, it's used specifically to access the 'titanic' dataset, which contains information about passengers and their survival status. Loading the data is the first essential step before any analysis or visualization can be performed on it."
+  },
+  {
+    "title": "Vocabulary: boxplot",
+    "body": "A 'boxplot' (or box-and-whisker plot) is a standardized way of displaying the distribution of data based on a five-number summary: minimum, first quartile (Q1), median, third quartile (Q3), and maximum. In Unit 2 Lab 2F, boxplots are used to visually compare the distribution of passenger fares for survivors versus non-survivors. The 'facet' option allows for separate boxplots for each group, making visual comparisons of central tendency and spread easier."
+  },
+  {
+    "title": "Vocabulary: facet",
+    "body": "In data visualization, 'facet' refers to the creation of multiple subplots (or panels) that display the same type of plot but for different subsets of the data. In Unit 2 Lab 2F, the boxplot of fares is 'faceted' by survival status. This means separate boxplots are generated for passengers who survived and for those who did not, allowing for a direct visual comparison of fare distributions between these two groups."
+  },
+  {
+    "title": "Vocabulary: median",
+    "body": "The 'median' is a measure of central tendency representing the middle value in a dataset that has been ordered from least to greatest. If there is an even number of observations, the median is the average of the two middle values. In Unit 2 Lab 2F, the median fare is used as a measure of the 'typical' fare paid by passengers within a group (survivors or non-survivors). It is often preferred over the mean when the data may have outliers, as it is less sensitive to extreme values."
+  },
+  {
+    "title": "Vocabulary: mean",
+    "body": "The 'mean', commonly referred to as the average, is another measure of central tendency. It is calculated by summing all the values in a dataset and then dividing by the number of values. In Unit 2 Lab 2F, the lab explores using the 'mean' fare paid by survivors and non-survivors as an alternative to the median. The mean can be sensitive to outliers, meaning extreme fare values can significantly influence the calculated mean."
+  },
+  {
+    "title": "Vocabulary: mutate function",
+    "body": "The 'mutate' function, commonly found in data manipulation packages like dplyr in R, is used to add new variables to a dataset or modify existing ones. In Unit 2 Lab 2F, it's used after shuffling the data to create a new variable called 'diff'. This 'diff' variable stores the calculated difference (e.g., median survivor fare - median non-survivor fare) for each simulated shuffle, making it easier to analyze the distribution of these differences."
+  },
+  {
+    "title": "Code Example: Loading Titanic Data",
+    "body": "```R\ndata(\"titanic\")\n```\nThis R code snippet, relevant to Unit 2 Lab 2F, demonstrates how to load the 'titanic' dataset. The `data()` function is a standard R command used to access built-in or loaded datasets. Once executed, the 'titanic' data frame, containing passenger information including fare and survival status, becomes available for analysis."
+  },
+  {
+    "title": "Code Example: Boxplot of Fares by Survival",
+    "body": "```R\ntitanic %>%\nggplot(aes(x = survived, y = fare)) + \n geom_boxplot() + \n facet_wrap(~survived)\n```\nThis R code, part of Unit 2 Lab 2F, generates a boxplot to visualize the distribution of fares (`fare`) based on survival status (`survived`). The `ggplot` function initializes the plot, `aes` maps variables to aesthetics, `geom_boxplot` creates the boxplots, and `facet_wrap(~survived)` creates separate plots for each survival category. This allows for a visual comparison of fare distributions between those who survived and those who did not."
+  },
+  {
+    "title": "Code Example: Simulating Median Fare Differences",
+    "body": "```R\nshuffled_survival <- do(500) * {\n shuffled_data <- titanic %>%\n mutate(survived_shuffled = shuffle(survived))\n\n summarize(shuffled_data, \n median_fare_survived = median(fare[survived_shuffled == \"Yes\"]),\n median_fare_died = median(fare[survived_shuffled == \"No\"]))\n}\n\nshuffled_survival <- shuffled_survival %>%\n mutate(diff = median_fare_survived - median_fare_died)\n```\nThis R code, used in Unit 2 Lab 2F, performs 500 simulations. The `do(500)` command repeats the enclosed operations. Inside, `shuffle(survived)` randomly reorders survival status. `summarize` calculates the median fare for survivors ('Yes') and non-survivors ('No') in each shuffled dataset. Finally, `mutate(diff = ...)` calculates the difference between these medians for each simulation, storing the results in `shuffled_survival`."
+  },
+  {
+    "title": "Code Example: Simulating Mean Fare Differences",
+    "body": "```R\nshuffled_mean_diff <- do(500) * {\n shuffled_data <- titanic %>%\n mutate(survived_shuffled = shuffle(survived))\n\n summarize(shuffled_data, \n mean_fare_survived = mean(fare[survived_shuffled == \"Yes\"]),\n mean_fare_died = mean(fare[survived_shuffled == \"No\"]))\n}\n\nshuffled_mean_diff <- shuffled_mean_diff %>%\n mutate(diff = mean_fare_survived - mean_fare_died)\n```\nThis R code, central to Unit 2 Lab 2F, executes 500 simulations to analyze mean fare differences. `do(500)` ensures repetition. Within each iteration, `shuffle(survived)` randomizes survival status. `summarize` computes the mean fare for survivors and non-survivors based on the shuffled data. Subsequently, `mutate(diff = ...)` calculates the difference between the mean survivor fare and the mean non-survivor fare for each simulation, storing these differences in `shuffled_mean_diff`."
+  }
+]

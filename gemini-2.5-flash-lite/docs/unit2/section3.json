@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Abstract for Unit 2, Section 3",
+    "body": "Unit 2, Section 3, spanning 8 instructional days, explores the concept of chance in data analysis. It introduces the idea that permutations of data can model real-world behavior driven by chance. If observed data significantly deviates from these chance permutations, it suggests that factors beyond chance are at play, indicating a potential dependent relationship between variables. The section uses a Huffington Post article, 'Don’t Take My Stress Away,' to engage students with the 'Stress/Chill Campaign.' Learning objectives cover statistical decision-making using simulations (S-IC 2, S-IC 6), understanding chance models in data science, and practical RStudio skills like data merging and permutation creation. Real-world connections highlight how understanding chance is crucial for interpreting media reports on scientific findings. Language objectives focus on discussing probabilities, writing informative reports using data science concepts, and utilizing graphical and numerical summaries. Data sources include student surveys (Personality Color, Stress/Chill campaign), and public datasets like Titanic and Horror Movie. The Stress/Chill campaign involves students self-monitoring their stress or chill states and associated factors."
+  },
+  {
+    "title": "Enduring Understandings: Chance as an Explanatory Model",
+    "body": "Permutations of data serve as a statistical model to understand how the world might behave if chance were the sole reason for observed differences between groups or associations between variables. If an actual observation is found to be a rare outcome within these permutations, it suggests that chance alone is not a sufficient explanation for the observed difference or association. Conversely, if the actual observation is a common outcome in the permuted data, it indicates that chance might be a valid explanation. When differences between the actual data and the permuted data are significant, it provides evidence to reject the chance model, implying a dependent relationship exists between the variables under consideration."
+  },
+  {
+    "title": "Engagement: 'Don’t Take My Stress Away' Article",
+    "body": "The engagement activity for Unit 2, Section 3 involves students reading the Huffington Post article titled 'Don’t Take My Stress Away.' This article, written by high school students who intentionally sought to feel stressed by school, sets the context for the 'Stress/Chill Campaign.' The article can be accessed at: http://www.huffingtonpost.com/jack-cahn/dont-take-my-stress-away_b_2090203.html. This reading aims to spark discussion about student perceptions of stress and its relationship to their daily lives, bridging the gap between personal experience and statistical inquiry."
+  },
+  {
+    "title": "Learning Objective: Statistical Decision Making (S-IC 2)",
+    "body": "Objective S-IC 2 focuses on the statistical skill of deciding whether a specified statistical model is consistent with the results obtained from a given data-generating process. This is often achieved through the use of simulation, where multiple datasets are generated based on the model's assumptions and compared to the actual observed data. This allows students to assess the plausibility of the model in explaining the observed data, particularly when considering the role of chance."
+  },
+  {
+    "title": "Learning Objective: Evaluating Data Reports (S-IC 6)",
+    "body": "Objective S-IC 6 pertains to the statistical skill of evaluating reports that are based on data. This involves critically assessing the methodologies, conclusions, and potential biases presented in data-driven claims found in various media or research. Students learn to question the validity of conclusions by considering the data collection methods, analysis techniques, and the potential influence of chance or confounding factors, aligning with the broader themes of the unit."
+  },
+  {
+    "title": "Data Science Objective: Understanding Chance Models and Simulation",
+    "body": "A key data science objective in Unit 2, Section 3 is to understand that a chance model serves as a critical indicator for determining whether observed associations in actual data are attributable to random variation. Students will learn why a dataset might appear to show a trend or relationship, yet the pattern could actually be a result of randomness. Simulations are introduced as a powerful tool for comparing expected chance outcomes with real-world outcomes. This comparison helps students ascertain if a proposed model is consistent with the actual data, reinforcing the concept of statistical significance."
+  },
+  {
+    "title": "Data Science Objective: Merging Datasets",
+    "body": "Within Unit 2, Section 3, a data science objective is to learn about the process of merging datasets. This involves understanding the structure of two or more distinct datasets and grasping the logical framework required to combine them. Merging is essential when analyzing relationships between variables that are stored in separate data sources. Students will learn the principles behind identifying common variables and aligning records to create a unified dataset for more comprehensive analysis."
+  },
+  {
+    "title": "Applied Computational Thinking: Permutations and Merging",
+    "body": "In Unit 2, Section 3, students will apply computational thinking skills using RStudio. A primary focus is on understanding and creating permutations of data. This involves determining whether the actual observed data is statistically similar to these permuted datasets, which helps in assessing the role of chance. Additionally, students will practice merging multiple datasets together. This merging process is typically based on a common variable shared across the datasets, enabling the analysis of combined information. Creating permutations specifically using these merged datasets is also a key skill developed."
+  },
+  {
+    "title": "Real-World Connections: Interpreting Media and Chance",
+    "body": "Unit 2, Section 3 emphasizes the real-world relevance of understanding chance. In media, citizens frequently encounter reports about scientific studies and the results of applied treatments. A fundamental question that arises is whether these observed outcomes occurred by chance. Grasping the concept of chance empowers individuals to better interpret these media reports. By understanding statistical principles related to chance, students can critically evaluate scientific and medical findings presented to the public, distinguishing between genuine effects and random variation."
+  },
+  {
+    "title": "Language Objective: Discussing Chance and Probability",
+    "body": "The first language objective for Unit 2, Section 3 is for students to actively engage in both partner and whole group discussions. The goal is to effectively express their understanding of chance occurrences and their associated probabilities. Through these discussions, students will articulate their interpretations of random events and learn to use precise language when describing statistical concepts related to likelihood and uncertainty."
+  },
+  {
+    "title": "Language Objective: Writing Informative Reports with Data Science Concepts",
+    "body": "The second language objective in Unit 2, Section 3 focuses on students' ability to write informative short reports. These reports are expected to utilize data science concepts and skills learned throughout the unit. Students will practice constructing clear and concise written explanations of their findings, integrating statistical terminology and analytical reasoning to convey information effectively about data patterns and relationships."
+  },
+  {
+    "title": "Language Objective: Reports with Graphical and Numerical Summaries",
+    "body": "The third language objective for Unit 2, Section 3 encourages students to write informative reports that effectively incorporate both graphical representations and numerical summaries derived from data. This involves translating quantitative information into understandable written narratives, showcasing their ability to use visualizations like plots and charts, alongside statistical measures like means, medians, or probabilities, to support their conclusions and communicate insights."
+  },
+  {
+    "title": "Data Files for Unit 2, Section 3",
+    "body": "Unit 2, Section 3 utilizes several data files to support its learning objectives. These include: 1. Students’ 'Personality Color' survey data, accessible via the R command `data(colors)`. 2. Data collected specifically for the 'Stress/Chill' campaign, which involves student self-monitoring. 3. The 'Titanic' dataset, available through R as `data(titanic)`. 4. The 'Horror Movie' dataset, also known as 'slasher,' accessible via `data(slasher)` in R. These datasets provide diverse contexts for practicing statistical analysis, simulation, and data merging."
+  },
+  {
+    "title": "Data Collection Method: Stress/Chill Campaign",
+    "body": "The 'Stress/Chill Participatory Sensing Campaign' is a primary data collection method for Unit 2, Section 3. In this campaign, students actively monitor their own feelings throughout the day, categorizing their state as either 'stressing' or 'chilling.' Alongside their emotional state, students will record observations about contextual factors. These factors include whether they are alone or with others, the specific activity they are engaged in at that moment, and the reason or purpose behind that activity. This method generates personalized data for students to analyze."
+  },
+  {
+    "title": "Legend for Activity Icons",
+    "body": "The documentation for Unit 2, Section 3 includes a legend for activity icons, which is visually represented by an image file named 'legend.png' located in the '../img/' directory. This legend serves to explain the meaning of various icons used throughout the instructional materials. These icons likely represent different types of activities, learning components, or resources available within the unit, helping students navigate and understand the structure of the course content more easily."
+  },
+  {
+    "title": "Enduring Understandings: Rejecting Chance Models",
+    "body": "A core enduring understanding in Unit 2, Section 3 is that permutations of data can model the behavior of the world when chance is the only factor influencing differences or associations. If an actual observed result is infrequent among these simulated permutations, it provides strong evidence to reject the hypothesis that chance alone explains the observation. This suggests that there are underlying, non-random factors at play, potentially indicating a dependent relationship between the variables being studied."
+  },
+  {
+    "title": "Data Science Objective: Chance Models and Real Outcomes",
+    "body": "Unit 2, Section 3 emphasizes the data science understanding that simulations are crucial for comparing expected chance outcomes against real outcomes. This comparison allows students to determine if a statistical model aligns with the actual data collected. Specifically, students learn to recognize when a potential trend or association observed in data might actually be a product of random chance, rather than a genuine effect, by contrasting it with a null hypothesis simulated through permutations."
+  },
+  {
+    "title": "Applied Computational Thinking: Creating Permutations with Merged Data",
+    "body": "In Unit 2, Section 3, a specific computational skill is the creation of permutations using a merged dataset. This builds upon the previously learned skill of merging multiple datasets based on a common variable. By applying permutation techniques to this combined data, students can generate a distribution of outcomes expected under a null hypothesis (i.e., assuming no real effect or association). They then compare their actual observed results from the merged dataset against this distribution to assess statistical significance."
+  }
+]

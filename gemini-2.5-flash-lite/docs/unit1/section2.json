@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Abstract of Unit 1, Section 2: Visualizing Data",
+    "body": "Unit 1, Section 2 focuses on visualizing data over 14 instructional days. It covers enduring understandings related to data collection's impact, the power of visual representations, describing variability through distributions, and using technology for complex data analysis. The section includes an engagement activity with a video on data visualization, learning objectives in statistical, data science, computational thinking (RStudio), and real-world contexts, along with language objectives for describing data distributions and visualizations. Data sources include student-collected 'Food Habits Campaign' data and the 'cdc' dataset from RStudio. Key concepts include different types of plots (dotplots, histograms, bar plots, boxplots, scatterplots), interpreting shape, center, and spread, identifying outliers, and differentiating between quantitative and categorical variables. Computational thinking skills involve using RStudio for data handling and visualization."
+  },
+  {
+    "title": "Enduring Understandings: Visualizing Data",
+    "body": "The way data is collected significantly influences what can be learned about the real world. Visual representations are powerful tools that enable data to tell stories effectively. Understanding the distributions of numerical and categorical variables is crucial for describing the variability present within data sets. Furthermore, technology and computers provide advanced capabilities for visualizing intricate relationships within complex data."
+  },
+  {
+    "title": "Engagement: The Value of Data Visualization",
+    "body": "To kickstart the learning process, students will watch a video titled 'The Value of Data Visualization.' This video aims to highlight the importance of using graphical representations to understand data. Following the video, discussion questions will prompt students to consider how they would prefer to visualize a given data set, encouraging early engagement with the concepts of data representation. The video can be accessed at: https://www.youtube.com/watch?v=xekEXM0Vonc."
+  },
+  {
+    "title": "Learning Objective: Represent Data (S-ID 1)",
+    "body": "Students will learn to represent data using various plots on the real number line. This includes understanding and creating dotplots, histograms, bar plots, and boxplots. These graphical tools are fundamental for visualizing the distribution and characteristics of numerical data."
+  },
+  {
+    "title": "Learning Objective: Interpret Data Distributions (S-ID 3)",
+    "body": "Students will develop the ability to interpret differences in the shape, center, and spread of data sets. This interpretation must consider the context of the data and account for the potential impact of extreme data points, also known as outliers, on the overall distribution and analysis."
+  },
+  {
+    "title": "Learning Objective: Scatterplots and Bivariate Data (S-ID 6)",
+    "body": "This objective focuses on representing data involving two quantitative variables. Students will learn to create scatterplots to visualize these relationships and describe the nature of the association between the two variables, such as whether they are positively related, negatively related, or show no clear relationship."
+  },
+  {
+    "title": "Data Science Learning Objectives: Visualization and Interpretation",
+    "body": "In data science, students will learn to create visualizations using data. A key aspect is understanding the distinction between plots suitable for categorical variables and those appropriate for numerical variables. Students will also gain the ability to interpret and comprehend graphs that display the distributions of both numerical and categorical data."
+  },
+  {
+    "title": "Applied Computational Thinking Using RStudio: Data Handling",
+    "body": "This objective covers essential RStudio skills for data science. Students will learn how to download, load, and upload data into RStudio. They will also learn the fundamental RStudio syntax and structure for working with data, including understanding the concepts of objects, functions, and assignments, which are core to manipulating data within the environment."
+  },
+  {
+    "title": "Applied Computational Thinking Using RStudio: Creating Displays",
+    "body": "Within the RStudio environment, students will learn to create appropriate graphical displays of data. This involves selecting the correct type of plot based on the data and the research question. Additionally, students will learn to differentiate between observations (rows) and variables (columns) in a dataset, a critical step in data organization and analysis."
+  },
+  {
+    "title": "Real-World Connections: Data Interpretation",
+    "body": "Students will deepen their understanding that raw data, by itself, is merely collected information. The true value emerges when this data is interpreted, leading to potential discoveries, insights, and a more profound understanding of real-world phenomena. This section emphasizes the transformative power of data analysis."
+  },
+  {
+    "title": "Language Objective 1: Describing Distributions",
+    "body": "Students will be able to orally and in writing describe the key features of data distributions. Specifically, they will articulate the center (e.g., mean, median), shape (e.g., symmetric, skewed), and spread (e.g., range, standard deviation) of data sets, using appropriate statistical vocabulary."
+  },
+  {
+    "title": "Language Objective 2: Discussing Plot Appropriateness",
+    "body": "Students will engage in discussions about the suitability of different graphical representations for various data analysis tasks. They will compare and contrast dotplots, bargraphs, histograms, and scatterplots, articulating the advantages and disadvantages of each type of plot in different scenarios."
+  },
+  {
+    "title": "Language Objective 3: Comparing Visualization Methods",
+    "body": "Students will compare and contrast the data visualizations they create by hand with those generated using RStudio/Posit Cloud. This involves discussing the similarities, differences, potential benefits, and drawbacks of each method, fostering an understanding of both manual and computational approaches to data visualization."
+  },
+  {
+    "title": "Data Files: Food Habits Campaign and CDC Dataset",
+    "body": "Two primary data sources will be utilized in this section. The first is the data collected by students during the 'Food Habits Campaign.' The second is a widely used dataset available in RStudio, the Centers for Disease Control and Prevention (CDC) dataset, which can be accessed using the command ```data(cdc)```. This provides opportunities to analyze both student-generated and established real-world data."
+  },
+  {
+    "title": "RStudio/Posit Cloud: Working with Data and Objects",
+    "body": "This section introduces students to the RStudio/Posit Cloud environment for data analysis. Key skills include learning to download, load, and upload data files. Students will become familiar with RStudio's syntax and structure, focusing on the fundamental concepts of objects (variables, data frames), functions (operations performed), and assignments (storing results), which are essential for any data manipulation task."
+  },
+  {
+    "title": "RStudio/Posit Cloud: Creating Graphical Displays",
+    "body": "Students will learn to leverage RStudio/Posit Cloud to generate appropriate graphical displays for their data. This involves understanding which plot types are best suited for different kinds of data (e.g., numerical vs. categorical) and analytical goals. The process includes differentiating between observations (individual data points) and variables (characteristics measured), a crucial distinction for organizing and visualizing data effectively."
+  },
+  {
+    "title": "Vocabulary: Data Visualization",
+    "body": "Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. It plays a crucial role in making data understandable and actionable."
+  },
+  {
+    "title": "Vocabulary: Distribution",
+    "body": "In statistics, a distribution describes how data points are spread out. It shows the values a variable can take and the frequency of those values. Understanding the distribution helps in analyzing the central tendency, variability, and shape of the data. For numerical data, this can be visualized with histograms or dotplots; for categorical data, with bar plots."
+  },
+  {
+    "title": "Vocabulary: Outlier",
+    "body": "An outlier is a data point that differs significantly from other observations in a dataset. Outliers can occur due to variability in the measurement or experimental error. Identifying and understanding outliers is important because they can affect statistical analyses, such as the mean, and can sometimes reveal important information about the data or the process generating it."
+  },
+  {
+    "title": "Vocabulary: Scatterplot",
+    "body": "A scatterplot is a type of data visualization that uses Cartesian coordinates to display values for typically two variables for a set of data. Each variable in the data set is plotted along one of the axes. A scatterplot reveals the relationship (correlation) between two quantitative variables. It can show linear, non-linear, or no relationship."
+  },
+  {
+    "title": "Vocabulary: Quantitative Variable",
+    "body": "A quantitative variable is a variable that can take on numerical values, where the arithmetic operations of addition, subtraction, multiplication, and division are meaningful. Examples include height, weight, age, temperature, or price. These variables are often visualized using histograms, boxplots, or scatterplots."
+  },
+  {
+    "title": "Vocabulary: Categorical Variable",
+    "body": "A categorical variable, also known as a qualitative variable, is a variable that can take on one of a limited, and typically fixed, number of possible values, assigning each person or a given thing to a particular group płace or category. Examples include gender, color, or type of food. Bar plots and pie charts are common visualizations for categorical data."
+  },
+  {
+    "title": "RStudio/Posit Cloud: Objects, Functions, and Assignments",
+    "body": "Working in RStudio/Posit Cloud involves understanding core programming concepts. Objects are containers for data (like variables or data frames). Functions are pre-defined commands that perform specific actions (like plotting data). Assignments use the '<-' operator to store the result of a function or a value into an object. For example, `my_data <- read.csv('data.csv')` reads a CSV file into an object named `my_data`."
+  }
+]

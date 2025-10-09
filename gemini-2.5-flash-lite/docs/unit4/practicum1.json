@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract of Practicum: Predictions",
+    "body": "This document outlines Practicum: Predictions for Unit 4, focusing on creating a linear model to predict the sugar content in cereals based on other nutritional components. Students will use provided training and testing datasets (cereal and cereal_test) to explore relationships, fit linear regression models, and evaluate their accuracy using mean squared error. The practicum involves selecting the best predictor variable, describing the chosen model's plot and rationale, computing mean squared error on both training and test data, making predictions, and presenting the findings to the class. The goal is to determine which nutritional component is most closely associated with sugar content and to compare the predictive accuracy of different teams' models."
+  },
+  {
+    "title": "Unit 4 Practicum: Predictions Objective",
+    "body": "The primary objective of the Unit 4 Practicum: Predictions is for students to develop and utilize a linear model. This model will be used to predict the amount of sugar present in cereal based on identifying which other nutritional component exhibits the strongest association with sugar content. Students will engage with data, model fitting, and evaluation to achieve this predictive goal."
+  },
+  {
+    "title": "Unit 4 Practicum: Predictions Materials",
+    "body": "The necessary material for the Unit 4 Practicum: Predictions is the 'Predictions Practicum' document. This document is available as a PDF, and its file name is LMR_U4_Practicum_Predictions. The link provided is [LMR_U4_Practicum_Predictions](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_Practicum_Predictions.pdf)."
+  },
+  {
+    "title": "Practicum: Predictions - Data Loading and Exploration",
+    "body": "In the Practicum: Predictions, students are provided with two datasets: a training dataset named 'cereal' and a test dataset named 'cereal_test'. The initial step involves loading both of these datasets. Students are required to document the specific code used for loading the data. Following data loading, the next crucial step is to explore the training data ('cereal'). This exploration involves identifying which nutritional variable appears to be the best predictor of sugar content. To aid in this selection, students must choose at least three potential predictor variables, create a scatter plot for each variable against sugar, and fit a linear regression line to each plot. Based on these visualizations and fits, the team must select the model they believe will provide the most accurate predictions."
+  },
+  {
+    "title": "Practicum: Predictions - Model Selection and Evaluation",
+    "body": "After selecting a linear model in the Practicum: Predictions, teams must provide a detailed analysis. This includes describing what the plot of their chosen model visually represents (the relationship between the predictor and sugar). They must also explain the rationale behind selecting that specific model over others. A key quantitative evaluation involves computing the mean squared error (MSE) of their model using the 'cereal_test' dataset. Following this, students will generate predictions for the sugar content using the test data. They will then calculate the MSE for these predictions on the test data and compare it to the MSE calculated on the training data, noting whether the test MSE is better, worse, or about the same as the training MSE."
+  },
+  {
+    "title": "Practicum: Predictions - Class Presentation",
+    "body": "The culmination of the Practicum: Predictions involves presenting the team's chosen linear model to the entire class. This presentation should clearly articulate the reasons for selecting their specific model, highlighting why they believe it is the best predictor of cereal sugar content. Additionally, the presentation must explain the typical amount of error associated with their model's predictions, providing context on its accuracy. This sharing allows for comparison of different approaches and models used by classmates."
+  },
+  {
+    "title": "Practicum: Predictions - Example Prediction and Error Analysis",
+    "body": "As part of the Practicum: Predictions, teams are required to provide a concrete example of a prediction. This involves selecting a single value for the predictor variable (x), stating that value, and then providing the corresponding predicted sugar content based on their linear model. Crucially, students must then describe how far off their prediction might actually be, referencing the test data. This part of the practicum emphasizes understanding the potential error margin and real-world applicability of the model's predictions, likely by looking at residuals or confidence intervals related to the test data."
+  },
+  {
+    "title": "Vocabulary: Linear Model",
+    "body": "A linear model is a statistical method used to describe the relationship between a dependent variable (in this practicum, sugar content) and one or more independent variables (other nutritional components) by fitting a linear equation to the observed data. The model assumes that the relationship can be represented by a straight line (or a hyperplane in higher dimensions). In the context of this practicum, a linear model will be used to predict the amount of sugar in a cereal based on the values of other nutritional components. The general form is y = mx + b, where y is the dependent variable, x is the independent variable, m is the slope, and b is the y-intercept."
+  },
+  {
+    "title": "Vocabulary: Mean Squared Error (MSE)",
+    "body": "Mean Squared Error (MSE) is a common metric used to evaluate the performance of regression models, including linear models. It measures the average of the squares of the errors, where the error is the difference between the actual observed value and the value predicted by the model. Mathematically, MSE = (1/n) * Σ(y_i - ŷ_i)^2, where y_i is the actual value, ŷ_i is the predicted value, and n is the number of data points. A lower MSE indicates a better fit of the model to the data, signifying that the predictions are closer to the actual values. In this practicum, MSE is used to quantify the accuracy of the linear models on both training and test datasets."
+  },
+  {
+    "title": "Vocabulary: Training Data",
+    "body": "Training data is the dataset used to 'train' or 'fit' a statistical model. In the context of this practicum, the 'cereal' dataset serves as the training data. The linear model is developed and its parameters (like slope and intercept) are estimated using the observations within this training set. The model learns the relationship between the predictor variables and the target variable (sugar) from this data. It's essential that the training data is representative of the problem space for the model to generalize well."
+  },
+  {
+    "title": "Vocabulary: Test Data",
+    "body": "Test data is a separate dataset that is used to evaluate the performance of a trained statistical model. In this practicum, the 'cereal_test' dataset is used for this purpose. After a linear model has been developed using the training data ('cereal'), its ability to make accurate predictions on unseen data is assessed using the test data. This helps in estimating how well the model will perform in real-world scenarios and prevents overfitting, where a model performs exceptionally well on training data but poorly on new data. Calculating the Mean Squared Error on the test data provides an unbiased estimate of the model's generalization accuracy."
+  },
+  {
+    "title": "Unit 4 Practicum: Predictions - Code Snippet for Data Loading",
+    "body": "The first step in the Unit 4 Practicum: Predictions involves loading the provided datasets. While the specific programming language and libraries are not detailed in the prompt, a common approach in data analysis using Python with the pandas library would involve code similar to this: \n\n```python\nimport pandas as pd\n\ncereal_train = pd.read_csv('cereal.csv') # Assuming 'cereal.csv' is the training data file\ncereal_test = pd.read_csv('cereal_test.csv') # Assuming 'cereal_test.csv' is the test data file\n\nprint(\"Training data loaded:\")\nprint(cereal_train.head())\nprint(\"\\nTest data loaded:\")\nprint(cereal_test.head())\n```\n\nStudents are required to write down the actual code they use for this step."
+  },
+  {
+    "title": "Unit 4 Practicum: Predictions - Plotting and Fitting Linear Models",
+    "body": "As part of exploring the training data in Unit 4 Practicum: Predictions, students must select at least three nutritional variables to test as predictors for sugar content. For each selected variable, they need to create a scatter plot visualizing the relationship between that variable and 'sugar'. Overlaying this plot, they must fit a linear regression line. This process allows for a visual assessment of linearity and the strength of the association. The selection of the 'best' model will be based on which of these plots and fitted lines suggests the most promising predictive relationship. For example, if 'fat' is a potential predictor, the code might look like:\n\n```python\nimport seaborn as sns\nimport matplotlib.pyplot as plt\n\nsns.regplot(x='fat', y='sugar', data=cereal_train, ci=None) # ci=None to not show confidence interval\nplt.title('Sugar vs. Fat Content')\nplt.xlabel('Fat (g)')\nplt.ylabel('Sugar (g)')\nplt.show()\n```\n\nThis visualization helps in choosing the model that best represents the data trend."
+  },
+  {
+    "title": "Unit 4 Practicum: Predictions - Calculating Mean Squared Error (MSE)",
+    "body": "In Unit 4 Practicum: Predictions, after selecting a linear model, calculating the Mean Squared Error (MSE) is a critical step for evaluating its performance. This calculation is performed on both the training data and the test data to understand how well the model generalizes. For the test data, the process involves using the fitted model to predict sugar values for each data point in `cereal_test`. Then, the MSE is computed by averaging the squared differences between the actual sugar values in `cereal_test` and the predicted sugar values. If `model` is the fitted linear model object and `X_test` and `y_test` are the features and actual sugar values from the test set respectively, the process might look like:\n\n```python\nfrom sklearn.metrics import mean_squared_error\n\n# Assuming y_train_pred and y_test_pred are predictions\ny_train_pred = model.predict(X_train) # Predictions on training data\ny_test_pred = model.predict(X_test)   # Predictions on test data\n\n# Calculate MSE on training data\n# mse_train = mean_squared_error(y_train, y_train_pred)\n\n# Calculate MSE on test data\nmse_test = mean_squared_error(y_test, y_test_pred)\n\n# The prompt asks to compare mse_test to mse_train or its equivalent on training data.\n```\n\nThe comparison of MSE values helps determine if the model is overfitting."
+  },
+  {
+    "title": "Unit 4 Practicum: Predictions - Making Predictions on Test Data",
+    "body": "A key task in the Unit 4 Practicum: Predictions is to make predictions using the selected linear model on the `cereal_test` dataset. Once the model has been trained on the `cereal` dataset, it can be used to estimate the sugar content for the cereals described in `cereal_test`. This involves feeding the independent variables (nutritional components) from `cereal_test` into the trained model. The model then outputs predicted values for sugar. These predictions are crucial for calculating the Mean Squared Error (MSE) on the test data, which serves as a measure of the model's predictive accuracy on unseen examples. If `model` represents the trained linear regression object and `X_test` contains the predictor variables from the test set, the prediction step would be:\n\n```python\npredicted_sugar = model.predict(X_test)\n```\n\nThese `predicted_sugar` values are then used alongside the actual sugar values in `cereal_test` to compute the `mse_test`."
+  }
+]

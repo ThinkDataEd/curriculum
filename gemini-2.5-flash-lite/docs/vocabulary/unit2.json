@@ -1,0 +1,186 @@
+[
+  {
+    "title": "Abstract of Unit 2 Vocabulary",
+    "body": "This document provides a comprehensive glossary of statistical terms relevant to Unit 2. It covers concepts related to measures of central tendency (mean, median, typical), measures of variability (range, IQR, MAD, standard deviation), data representation (boxplot, normal curve, distribution), probability (chance, probability, compound probabilities, independence, replacement), and data analysis techniques (five-number summary, quartiles, quantiles, z-score, simulation, model). Each entry defines a term and its significance in statistical analysis, offering a foundational understanding for the unit's lessons and labs. Key terms are explained with simple definitions and sometimes with analogies or clarifications to aid comprehension."
+  },
+  {
+    "title": "Vocabulary: Average",
+    "body": "Average is a synonym for the 'mean'. It represents a calculated central value of a set of numbers. To find the average, you sum all the numbers in the set and then divide by the count of numbers in that set. This measure helps in understanding the typical value within a dataset. For example, in Unit 2 Lesson 1, calculating the average score on a quiz would involve summing all individual scores and dividing by the total number of students. This provides a single number that represents the central performance of the class."
+  },
+  {
+    "title": "Vocabulary: Balancing Point",
+    "body": "The balancing point of a data distribution refers to the specific location on a number line where the data is evenly distributed, much like a seesaw with equal weights on both sides. This concept is closely related to the 'mean', as the mean often serves as the balancing point for a dataset, especially in symmetrical distributions. Understanding the balancing point helps in visualizing the center of the data and how the data points are distributed around it. In Unit 2 Lab 3, identifying the balancing point could be crucial for interpreting the results of a simulation."
+  },
+  {
+    "title": "Vocabulary: Bell-Shaped Distribution",
+    "body": "A bell-shaped distribution, also known as a normal distribution, is a common graphical representation of data where the majority of data points cluster around the center (the mean), and the frequencies gradually decrease as you move further away from the center in either direction. This creates a symmetrical, bell-like curve. The 'Empirical Rule' and 'standard deviations' are particularly relevant to understanding the characteristics of a bell-shaped distribution. Unit 2 Campaign 1 likely explores scenarios where data naturally follows this pattern, such as heights or test scores."
+  },
+  {
+    "title": "Vocabulary: Bias",
+    "body": "Bias is the act of favoring one particular outcome or perspective over others. In statistics, bias can be introduced through various means, such as a flawed sampling method or a prejudiced experimental design. It leads to results that systematically deviate from the true value. Recognizing and mitigating bias is essential for conducting valid research and interpreting data accurately. Unit 2 Lesson 5 might address how bias can affect survey results or experimental outcomes."
+  },
+  {
+    "title": "Vocabulary: Boxplot",
+    "body": "A boxplot, also known as a box-and-whisker plot, is a specialized diagram used to visually represent the distribution of numerical data through its quartiles. It displays the five-number summary: minimum, first quartile (Q1), median (Q2), third quartile (Q3), and maximum. The 'box' represents the interquartile range (IQR), spanning from Q1 to Q3, with a line inside indicating the median. 'Whiskers' extend from the box to the minimum and maximum values, illustrating the data's spread. Boxplots are useful for comparing distributions of different datasets. Unit 2 Lab 2 could involve creating and interpreting boxplots."
+  },
+  {
+    "title": "Vocabulary: Chance",
+    "body": "Chance refers to the possibility or likelihood that a specific event will occur. It is a fundamental concept in probability and statistics, underpinning the study of randomness and uncertainty. The degree of chance can range from impossible (0%) to certain (100%). Understanding chance is crucial for making predictions and analyzing the outcomes of experiments or real-world phenomena. Unit 2 Lesson 2 will likely delve into the basics of probability and how chance influences outcomes."
+  },
+  {
+    "title": "Vocabulary: Compound Probabilities",
+    "body": "Compound probabilities involve calculating the likelihood of two or more independent events occurring together, using 'AND' or 'OR' logic. For instance, the probability of flipping a coin and getting heads AND then rolling a die and getting a 6 is a compound probability. Conversely, the probability of drawing a red card OR an ace from a deck of cards is another type. These calculations often involve multiplying probabilities for 'AND' events (if independent) or adding probabilities for 'OR' events (with adjustments for overlap). Unit 2 Lesson 4 focuses on understanding and calculating these combined probabilities."
+  },
+  {
+    "title": "Vocabulary: Deviation",
+    "body": "Deviation refers to the act of departing from an established course, norm, or accepted standard. In statistics, 'deviation' commonly refers to how far a data point is from the mean or median. Measures like 'standard deviation' and 'mean of absolute deviations (MAD)' quantify this spread or departure. A large deviation suggests that data points are far from the center, while a small deviation indicates they are clustered closely. Understanding deviation is key to analyzing the variability within a dataset. Unit 2 Lesson 6 might explore different types of deviations."
+  },
+  {
+    "title": "Vocabulary: Empirical Rule",
+    "body": "The Empirical Rule, also known as the 68-95-99.7 rule, is a statistical principle that applies specifically to data sets exhibiting a normal distribution (bell-shaped curve). It states that for such data: approximately 68% of the data falls within one 'standard deviation' of the mean, approximately 95% falls within two standard deviations, and approximately 99.7% falls within three standard deviations. This rule provides a quick way to estimate the spread and distribution of data. Unit 2 Campaign 2 might utilize the Empirical Rule for analysis."
+  },
+  {
+    "title": "Vocabulary: Event",
+    "body": "An 'event' in probability is a specific set of possible outcomes that can result from a particular experiment or trial. For example, when rolling a six-sided die, the event of rolling an even number includes the outcomes {2, 4, 6}. The event of rolling a number greater than 4 includes the outcome {5, 6}. Identifying and defining events is the first step in calculating probabilities. Unit 2 Lesson 2 introduces the concept of events and their associated outcomes."
+  },
+  {
+    "title": "Vocabulary: First Quartile (Q1)",
+    "body": "The first quartile (Q1) is a value that marks the boundary below which 25% of the data in a sorted dataset falls. It is the median of the lower half of the data. Q1 is a key component of the 'five-number summary' and is used in constructing 'boxplots' to understand data spread. For example, if Q1 of student test scores is 70, it means 25% of students scored 70 or below. Unit 2 Lab 2 utilizes Q1 for data analysis."
+  },
+  {
+    "title": "Vocabulary: Five-Number Summary",
+    "body": "The five-number summary is a concise set of statistics that provides key information about the distribution of a dataset. It consists of five values: the 'minimum' (smallest value), 'first quartile' (Q1), 'median' (middle value), 'third quartile' (Q3), and 'maximum' (largest value). This summary is instrumental in understanding the central tendency, spread, and potential outliers of the data, and is often visualized using a 'boxplot'. Unit 2 Lab 2 involves calculating and interpreting the five-number summary."
+  },
+  {
+    "title": "Vocabulary: Independence",
+    "body": "Independence in probability means that the occurrence or outcome of one event has absolutely no effect on the probability of another event occurring. For example, flipping a coin twice: the result of the first flip does not influence the result of the second flip. This concept is crucial when calculating 'compound probabilities' using multiplication rules for 'AND' events. Unit 2 Lesson 4 explores the implications of independence in probability calculations."
+  },
+  {
+    "title": "Vocabulary: Interquartile Range (IQR)",
+    "body": "The Interquartile Range (IQR) is a measure of statistical dispersion, representing the range of the middle 50% of the data. It is calculated by subtracting the 'first quartile' (Q1) from the 'third quartile' (Q3): IQR = Q3 - Q1. The IQR is a robust measure of spread as it is less affected by outliers compared to the 'range'. It is a key component of a 'boxplot' and provides insight into the variability of the central portion of the dataset. Unit 2 Lesson 7 might use IQR for data comparison."
+  },
+  {
+    "title": "Vocabulary: Maximum",
+    "body": "The maximum is the largest value within a given dataset. It represents the upper extreme of the data range. Along with the 'minimum', the maximum is a crucial component of the 'five-number summary' and is used in calculating the overall 'range' of the data (Maximum - Minimum). Identifying the maximum value helps in understanding the full scope of the data distribution. Unit 2 Lab 1 might ask students to find the maximum value in a set of measurements."
+  },
+  {
+    "title": "Vocabulary: Mean",
+    "body": "The mean is a calculated 'central' value of a set of numbers, often referred to as the 'average'. It is computed by summing all the values in the dataset and then dividing by the total count of values. The mean is a primary measure of 'central tendency', providing a typical value for the data. However, it can be sensitive to outliers. For example, the mean score in Unit 2 Lesson 1 is calculated by adding all scores and dividing by the number of students."
+  },
+  {
+    "title": "Vocabulary: Mean of Absolute Deviations (MAD)",
+    "body": "The Mean of Absolute Deviations (MAD) is a measure of statistical dispersion that quantifies the average distance between each data value and the mean of the dataset. It is calculated by finding the absolute difference between each data point and the mean, summing these absolute differences, and then dividing by the total number of data points. MAD provides a measure of the typical 'deviation' from the center, offering an alternative to 'standard deviation'. Unit 2 Lesson 6 could compare MAD with standard deviation."
+  },
+  {
+    "title": "Vocabulary: Measures of Central Tendency",
+    "body": "Measures of central tendency, also known as measures of center, are statistical values that represent a central or typical data point within a dataset. The most common measures include the 'mean' (average), 'median' (middle value), and 'mode' (most frequent value). These measures help to summarize a dataset by providing a single value that best describes its center. Unit 2 Lesson 1 introduces these fundamental concepts for understanding data."
+  },
+  {
+    "title": "Vocabulary: Measures of Variability",
+    "body": "Measures of variability, also known as measures of spread, describe how dispersed or spread out the data points are in a dataset. They quantify the distance that data points tend to fall from the center. Common measures include the 'range', 'interquartile range' (IQR), 'standard deviation' (SD), and 'mean of absolute deviations' (MAD). Understanding variability is crucial for assessing the consistency and reliability of data. Unit 2 Lesson 7 focuses on these measures."
+  },
+  {
+    "title": "Vocabulary: Median",
+    "body": "The median is the middle value in a dataset that has been ordered from least to greatest. If there is an even number of data points, the median is the average of the two middle values. The median is a measure of 'central tendency' that is less affected by extreme outliers than the 'mean'. It represents the point where 50% of the data falls below and 50% falls above. Unit 2 Lesson 3 discusses finding the median."
+  },
+  {
+    "title": "Vocabulary: Merge",
+    "body": "To 'merge' means to come together or combine into a single entity. In a statistical context, this might refer to combining two or more datasets into a larger one for analysis, or perhaps merging different categories or groups. This operation can be important when consolidating data from various sources or preparing data for a specific type of analysis. For instance, Unit 2 Campaign 3 might involve merging simulation results from different trials."
+  },
+  {
+    "title": "Vocabulary: Minimum",
+    "body": "The minimum is the smallest value within a given dataset. It represents the lower extreme of the data range. Alongside the 'maximum', the minimum is essential for calculating the overall 'range' of the data (Maximum - Minimum). It is also one of the five key values in the 'five-number summary', providing insight into the lowest data point. Unit 2 Lab 1 might require finding the minimum value in a dataset."
+  },
+  {
+    "title": "Vocabulary: Model",
+    "body": "A 'model' is a simplified representation of a real-world situation, system, or process. In statistics and mathematics, models are used to understand complex phenomena, make predictions, and test hypotheses. Models can take various forms, including mathematical equations, graphs, or 'simulations'. The goal is to create a tool that captures the essential features of the reality being studied. Unit 2 Lesson 8 introduces the concept of using models for prediction."
+  },
+  {
+    "title": "Vocabulary: Normal Curve",
+    "body": "A normal curve is the graphical representation of a normal distribution. It is a symmetrical, bell-shaped curve where the highest point is at the mean, and the curve tapers off equally on both sides. The area under the curve represents the total probability (or 100%) of all possible outcomes. This curve is fundamental in statistics for understanding data spread and probabilities. Unit 2 Lesson 5 likely uses the normal curve extensively."
+  },
+  {
+    "title": "Vocabulary: Normal Distribution",
+    "body": "A normal distribution is a type of probability distribution where data points are distributed symmetrically around the mean, with most values clustering near the mean and fewer values at the extremes. This distribution is characterized by its 'bell-shaped' curve. Many natural phenomena, such as heights, weights, and measurement errors, tend to follow a normal distribution. The 'Empirical Rule' and 'standard deviations' are key concepts associated with normal distributions. Unit 2 Campaign 1 might focus on datasets that exhibit this distribution."
+  },
+  {
+    "title": "Vocabulary: Percentage",
+    "body": "A percentage represents a part out of 100. It is a way of expressing a fraction or proportion where the denominator is 100 (e.g., 50% means 50 out of 100). Percentages are commonly used to convey rates, proportions, and changes in a clear and understandable format. For example, a 'sample proportion' can be easily converted into a percentage. Unit 2 Lesson 2 likely covers percentage calculations in relation to probability."
+  },
+  {
+    "title": "Vocabulary: Probability",
+    "body": "Probability is the measure of how likely it is that a specific 'event' will occur. It is expressed as a number between 0 (impossible) and 1 (certain), or as a 'percentage'. Probability is calculated by dividing the number of favorable outcomes by the total number of possible outcomes. Concepts like 'chance', 'compound probabilities', and 'independence' are integral to understanding probability. Unit 2 Lesson 2 introduces the fundamental principles of probability."
+  },
+  {
+    "title": "Vocabulary: Proportion",
+    "body": "A proportion is a statement that two ratios (or fractions) are equal. In statistics, it often refers to the ratio of the number of occurrences of a specific event to the total number of possible outcomes, essentially representing a 'probability' or a 'percentage'. For instance, a 'sample proportion' is the ratio of successful samples to the total number of samples. Proportions are used to compare quantities or to represent parts of a whole. Unit 2 Lesson 3 may involve working with proportions."
+  },
+  {
+    "title": "Vocabulary: Quantiles",
+    "body": "Quantiles are values that divide a probability distribution or a sorted dataset into equal-sized, continuous subgroups. They are a generalization of 'quartiles' and 'percentiles'. For example, tertiles divide data into three parts, quintiles into five, and deciles into ten. The term 'quantile' is often used interchangeably with 'percentile' because both represent a *quantity* of data below a certain value. Understanding quantiles helps in describing the distribution of data. Unit 2 Lesson 7 might explore different types of quantiles."
+  },
+  {
+    "title": "Vocabulary: Quartiles",
+    "body": "Quartiles are specific values that divide a sorted dataset into four equal parts or quarters. The first quartile (Q1) is the value below which 25% of the data falls. The second quartile (Q2) is the 'median', below which 50% of the data falls. The third quartile (Q3) is the value below which 75% of the data falls. Quartiles are essential for calculating the 'interquartile range' (IQR) and creating 'boxplots', providing insights into the spread and distribution of the data. Unit 2 Lab 2 heavily relies on quartiles."
+  },
+  {
+    "title": "Vocabulary: Randomness",
+    "body": "Randomness refers to the occurrence of events or outcomes by chance, without any discernible pattern or predictability. In statistics, randomness is crucial for ensuring that samples are representative of the population and that experimental results are not due to external influences or systematic errors. Processes like 'shuffling' and 'simulations' rely on randomness. Unit 2 Lesson 2 emphasizes the importance of randomness in probability."
+  },
+  {
+    "title": "Vocabulary: Range",
+    "body": "The range of a dataset is the simplest measure of 'variability' or spread. It is calculated by subtracting the 'minimum' value from the 'maximum' value in the dataset: Range = Maximum - Minimum. The range provides a quick indication of the total spread of the data but is highly sensitive to outliers. For example, the range of temperatures in a week might be calculated by finding the difference between the highest and lowest temperatures recorded. Unit 2 Lesson 7 defines and calculates range."
+  },
+  {
+    "title": "Vocabulary: Rebuttal",
+    "body": "A rebuttal is an argument or set of arguments that opposes or counters a previous statement, claim, or theory. In the context of statistics and data analysis, a rebuttal might involve presenting evidence or alternative interpretations to challenge the conclusions drawn from a particular study or dataset. Developing the ability to formulate and understand rebuttals is part of critical thinking about data. Unit 2 Campaign 4 might involve analyzing different perspectives on a statistical finding."
+  },
+  {
+    "title": "Vocabulary: Representation",
+    "body": "Representation refers to the way data is stored, processed, and transmitted. This can involve various formats, such as tables, graphs ('boxplots', 'normal curves'), equations, or numerical summaries ('five-number summary'). Effective data representation is crucial for making data understandable, accessible, and useful for analysis and decision-making. The choice of representation can significantly impact how data is perceived and interpreted. Unit 2 Lesson 8 discusses different data representations."
+  },
+  {
+    "title": "Vocabulary: Sample Proportion",
+    "body": "A sample proportion is the fraction or ratio of a specific characteristic or success within a sample taken from a larger population. It is calculated by dividing the number of occurrences of the characteristic in the sample by the total size of the sample. For example, if a sample of 100 voters shows 45 supporting a particular candidate, the sample proportion is 45/100 or 0.45. This statistic is often used to estimate the 'proportion' in the entire population. Unit 2 Lesson 5 uses sample proportions."
+  },
+  {
+    "title": "Vocabulary: Shuffle",
+    "body": "To 'shuffle' means to rearrange items into a random order, ensuring that each possible arrangement has an equal chance of occurring. This process is fundamental to ensuring 'randomness' in experiments and simulations. For example, shuffling a deck of cards before dealing ensures that the order is unpredictable. In data analysis, shuffling can be used to randomize the order of data points before splitting into training and testing sets in machine learning, or to reset conditions in a simulation. Unit 2 Lab 4 might involve shuffling elements."
+  },
+  {
+    "title": "Vocabulary: Simulation",
+    "body": "A simulation is a method used to create artificial representations of real-world situations or phenomena, often involving 'randomness', to study their behavior or outcomes without actually performing the experiment. Simulations are valuable for analyzing complex systems, testing hypotheses, and making predictions when direct experimentation is impractical or impossible. Examples include simulating coin flips to understand probability or simulating weather patterns. Unit 2 Lesson 8 focuses on using simulations for prediction."
+  },
+  {
+    "title": "Vocabulary: Standard Deviation (SD)",
+    "body": "Standard deviation (SD) is a key measure of 'variability' that quantifies how spread out the numbers are in a dataset relative to their 'mean'. It is calculated as the square root of the variance. A low standard deviation indicates that data points tend to be close to the mean, while a high standard deviation suggests that data points are scattered over a wider range. The 'Empirical Rule' uses standard deviations to describe data in a normal distribution. Unit 2 Lesson 6 details the calculation and interpretation of SD."
+  },
+  {
+    "title": "Vocabulary: Standardized Score",
+    "body": "A standardized score, more commonly known as a 'z-score', is a statistical measure that indicates how many 'standard deviations' away from the 'mean' a particular data point is. A positive z-score means the data point is above the mean, while a negative z-score means it is below the mean. Standardized scores are useful for comparing data points from different distributions or for identifying outliers. Unit 2 Lesson 6 introduces z-scores."
+  },
+  {
+    "title": "Vocabulary: Subset",
+    "body": "A subset is a set containing some or all of the elements of another, larger set. In statistics, a subset can refer to a sample drawn from a population, or a portion of a dataset used for specific analysis (e.g., training data in machine learning). Understanding subsets is important for sampling techniques and for partitioning data for analysis and comparison. For instance, selecting a subset of students to survey creates a sample. Unit 2 Lesson 3 might use the concept of subsets when discussing data sampling."
+  },
+  {
+    "title": "Vocabulary: Third Quartile (Q3)",
+    "body": "The third quartile (Q3) is a value that marks the boundary below which 75% of the data in a sorted dataset falls. It is the median of the upper half of the data. Q3, along with Q1 and the median, forms the basis of the 'five-number summary' and is crucial for calculating the 'interquartile range' (IQR). For example, if Q3 of exam scores is 85, it means 75% of students scored 85 or lower. Unit 2 Lab 2 uses Q3 in data analysis."
+  },
+  {
+    "title": "Vocabulary: Typical",
+    "body": "The term 'typical' is often used as a synonym for 'mean' or 'average' when describing a central or expected value within a dataset. It represents a value that is representative of the dataset as a whole. When discussing measures of 'central tendency', 'typical' helps to convey the idea of a central point around which data is distributed. For instance, the typical response time might refer to the average time taken. Unit 2 Lesson 1 uses 'typical' to explain the mean."
+  },
+  {
+    "title": "Vocabulary: With Replacement",
+    "body": "Selecting data 'with replacement' means that after an element from a population is selected for a sample, it is returned to the population before the next selection is made. This allows the same element to be chosen multiple times. This method ensures that the probability of selecting any given element remains constant for each draw, preserving the original population distribution. It is a key concept in probability, particularly for 'compound probabilities' involving independent events. Unit 2 Lesson 4 discusses sampling with replacement."
+  },
+  {
+    "title": "Vocabulary: Without Replacement",
+    "body": "Selecting data 'without replacement' means that once an element from a population is chosen for a sample, it is not returned to the population. This ensures that each element can be selected only once. Consequently, the probabilities of selecting subsequent elements change with each draw, making the events dependent. This method is common in many real-world sampling scenarios. Unit 2 Lesson 4 contrasts this with sampling 'with replacement'."
+  },
+  {
+    "title": "Vocabulary: Z-score",
+    "body": "A z-score, also known as a 'standardized score', quantifies the exact position of a data point relative to the 'mean' of its dataset. It is measured in units of 'standard deviation'. A z-score of +1 indicates the data point is one standard deviation above the mean, while a z-score of -2 indicates it is two standard deviations below the mean. Z-scores are invaluable for comparing values from different distributions and for statistical inference. Unit 2 Lesson 6 provides detailed examples of calculating and interpreting z-scores."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract of Lesson 19: Implementing Our Own Participatory Sensing Campaign",
+    "body": "This lesson, Unit 3 Lesson 19, focuses on the practical implementation of a Participatory Sensing campaign. Students will create, mock-implement, and then actually build their own campaign using the Campaign Authoring Tool. The objective is for students to design a survey on a topic of their interest and begin data collection. Key concepts include the importance of practicing data collection before full implementation to optimize the campaign. The lesson details the step-by-step process of using the online tool to create campaign information, survey windows, and prompts, including the generation of XML code. Students will also mock-implement their surveys by having team members answer the questions to ensure clarity and relevance. Finally, students will be assigned to collect data using their created campaigns for the next five days."
+  },
+  {
+    "title": "Objective and Materials for Unit 3 Lesson 19",
+    "body": "The primary objective of Unit 3 Lesson 19 is for students to mock-implement and create their own Participatory Sensing campaign. This involves designing a survey on a topic of their interest and initiating data collection. To achieve this, students will need two key materials: the 'Campaign Creation' handout from the previous lesson (LMR_U3_L17_B.pdf) and access to the Campaign Authoring Tool, which can be found at https://portal.thinkdataed.org. This practical application aims to solidify their understanding of campaign design and data gathering processes."
+  },
+  {
+    "title": "Essential Concepts for Participatory Sensing Campaigns",
+    "body": "The core concept emphasized in Unit 3 Lesson 19 is that practicing data collection prior to the full implementation of a Participatory Sensing Campaign is crucial for its optimization. This means that by simulating the survey process and gathering feedback during the design phase, potential issues can be identified and resolved. This iterative approach helps ensure that the survey questions are clear, relevant, and effectively capture the data needed to address the research and statistical questions. Practicing also allows for refinement of the campaign's structure and flow, leading to more accurate and useful data in the long run."
+  },
+  {
+    "title": "Lesson Procedure: Mock Implementation and Campaign Refinement",
+    "body": "Unit 3 Lesson 19 begins with displaying the class-generated campaign information. Students, working in teams, will then mock-implement their created campaigns. This involves members of each team asking each other the survey questions to verify they are logical and will yield relevant data for their research and statistical questions. They are encouraged to use the evaluative questions from Unit 3 Lesson 18, step 10. Any suggestions for improvement that arise during this mock implementation should be proposed to the class, allowing for final adjustments to be made to the campaign before its digital creation."
+  },
+  {
+    "title": "Introduction to the Campaign Authoring Tool",
+    "body": "Following the mock implementation and refinement phase, Unit 3 Lesson 19 introduces students to the tool used for creating Participatory Sensing campaigns. The instructor will demonstrate how to log in to the IDS Home Page at https://portal.thinkdataed.org. The key area to navigate is the 'Campaigns' tab on the top navigation bar. A video tutorial is also available for further assistance at https://youtu.be/PzwMCHOghnI. This demonstration will guide students through the subsequent steps of building their campaigns digitally."
+  },
+  {
+    "title": "Creating Campaign Information in the Authoring Tool",
+    "body": "Within the Campaign Authoring Tool in Unit 3 Lesson 19, the first step is to define the campaign's core information. This section requires a 'Campaign Name' (related to the topic), selection of the relevant 'class/period', a one-sentence 'Description' of the campaign, setting the 'Campaign Status' to 'Running', and configuring 'Data Sharing' and 'Editable Responses' to 'Disabled'. The latter settings are for monitoring and preventing improper responses. Finally, the '+Add Survey' button is used to initiate the survey creation process within the campaign."
+  },
+  {
+    "title": "Defining the Survey Window in the Authoring Tool",
+    "body": "The 'Survey Window' section of the Campaign Authoring Tool in Unit 3 Lesson 19 involves setting up the parameters for the actual survey. This includes providing a 'Title' for the survey (which users will see), an 'ID' for the survey (which users do not see), an optional 'Description' for display, and a 'Submission Message' that appears after a user completes the survey. It's helpful to include a reminder in the submission message to click the green button to finalize the submission. After configuring these details, the '+Add Prompt' button is clicked to begin adding the individual survey questions."
+  },
+  {
+    "title": "Configuring Prompt Information for Survey Questions",
+    "body": "In Unit 3 Lesson 19's Campaign Authoring Tool, each survey question is configured as a 'Prompt'. Each prompt requires a 'Prompt ID' (a short, unique identifier, often a single or two-word name separated by an underscore) and a 'Prompt Label' (the user-facing name, which can be similar to the ID). The 'Question Text' is where the actual survey question is typed. 'Additional Prompt Information' is specific to the prompt type; for instance, Text prompts require minimum and maximum character limits. The 'Skippable' option should be considered, especially for photo prompts, as some users might access the survey via a browser."
+  },
+  {
+    "title": "Adding Multiple Prompts and Generating XML",
+    "body": "To build a comprehensive survey within the Campaign Authoring Tool during Unit 3 Lesson 19, the '+Add Prompt' button is used repeatedly to add subsequent survey questions. As prompts are added, the tool generates corresponding XML code. Students can optionally select 'Highlight XML' to visualize how their input is structured within the code. Understanding XML syntax will be a focus in a later section of Unit 3. Once all survey questions (prompts) are finalized, the 'Submit Campaign' button, located in the top-right corner, is clicked to send the campaign to the server, making it available for users."
+  },
+  {
+    "title": "Accessing and Testing the Created Campaign",
+    "body": "After submitting the campaign in Unit 3 Lesson 19, students can access it via their smart devices or the IDS Home Page (https://portal.thinkdataed.org). It is essential to 'Refresh Campaigns' to ensure the newly created campaign is visible. Students should then navigate through the entire Participatory Sensing survey to experience how their questions are presented to users. While they do not need to submit the survey during this testing phase, this walkthrough allows them to identify any final issues with the user interface or question flow before actual data collection begins."
+  },
+  {
+    "title": "Class Scribes and Homework Assignment for Unit 3 Lesson 19",
+    "body": "As a concluding activity for Unit 3 Lesson 19, one team of students will act as 'Class Scribes'. They will prepare and deliver a brief presentation summarizing what they consider to be the three most important topics covered during the lesson. For homework, students are assigned a data collection task. For the next five days, they are required to collect data using the Participatory Sensing campaign they have just created and implemented. This practical homework assignment reinforces the skills learned and initiates the data gathering process for their chosen topic."
+  },
+  {
+    "title": "Participatory Sensing Campaign Tool: Key Settings",
+    "body": "The Campaign Authoring Tool, demonstrated in Unit 3 Lesson 19, offers several critical settings for managing a Participatory Sensing campaign. When creating the campaign, key configurations include: 'Campaign Name', 'class/period', 'Description', 'Campaign Status' (set to 'Running'), 'Data Sharing' (set to 'Disabled' for monitoring), and 'Editable Responses' (set to 'Disabled' to control data integrity). These settings are foundational for establishing a controlled and effective data collection environment. The tool allows for the subsequent addition of surveys and prompts within the defined campaign structure."
+  },
+  {
+    "title": "Survey Window Configuration: Titles, IDs, and Messages",
+    "body": "Within the Campaign Authoring Tool used in Unit 3 Lesson 19, the 'Survey Window' configuration is vital for the user experience. It requires a 'Title' that participants see, an 'ID' that is internal and not visible to users, and an optional 'Description'. A crucial element is the 'Submission Message', which appears post-completion and should ideally remind users to finalize their submission by clicking the green button. This section sets the stage for the questions (prompts) that will follow, guiding the user through the data entry process."
+  },
+  {
+    "title": "Prompt Configuration: IDs, Labels, Questions, and Options",
+    "body": "In Unit 3 Lesson 19, each individual question within a Participatory Sensing survey is referred to as a 'Prompt' in the authoring tool. Essential configuration includes a 'Prompt ID' (internal identifier), a 'Prompt Label' (visible to users), and the 'Question Text' itself. Depending on the prompt type (e.g., Text), further details like character limits may be required. The 'Skippable' setting is important, particularly for photo prompts when users might access the survey via a web browser, allowing them flexibility in data submission."
+  },
+  {
+    "title": "XML Code Generation in Campaign Authoring",
+    "body": "As campaigns and surveys are built using the tool in Unit 3 Lesson 19, an underlying XML (Extensible Markup Language) code is generated. This code represents the structure and content of the campaign. The 'Highlight XML' checkbox allows students to visually track how their inputted information (campaign details, survey titles, prompts) corresponds to specific elements within the XML code. This provides an early exposure to XML structure, which will be explored in more detail later in Unit 3, bridging the gap between user interface design and data representation."
+  }
+]

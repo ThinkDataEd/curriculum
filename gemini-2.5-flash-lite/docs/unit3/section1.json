@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Abstract of Unit 3, Section 1",
+    "body": "This section, 'Testing, Testing… 1, 2, 3…', spans 7 instructional days and focuses on understanding experiments as a method for data collection. It emphasizes that experiments measure the effects of different treatments on an outcome of interest by applying a treatment to subjects and observing the results. Randomization is highlighted as a key technique to isolate treatment effects from unexplained variation. The section aims to teach students how data provides a basis for evidence, contrasting it with anecdotal information, and covers statistical objectives related to comparing treatments, making inferences, understanding study types, evaluating data reports, and using simulations. Data science and computational thinking objectives include testing differences between experimental groups, creating graphical representations, and writing code for random assignment. Real-world connections are made to medicine, electronics, materials science, and human behavior. Language objectives focus on comparing anecdotes and data, constructing summary statements about data handling, evaluating claims, and describing causal relationships. Students will use their own 'Time Perception' experiment data, collected through a simple experiment they conduct."
+  },
+  {
+    "title": "Enduring Understandings - Experiments and Treatments",
+    "body": "An experiment is a structured method for collecting data. Its primary purpose is to measure the impact of different treatments on a specific outcome. In an experiment, researchers apply a particular treatment to a group of subjects. Subsequently, they make observations to assess the effects of that treatment. To ensure that the observed effects are truly due to the treatment and not to random chance or other uncontrolled factors, randomization is employed. This means subjects are assigned to different treatment groups by chance. This process helps isolate the effects of the treatment from unexplained variations in the data."
+  },
+  {
+    "title": "Enduring Understandings - Randomization in Experiments",
+    "body": "Experiments are designed to measure the impact of specific interventions, known as treatments, on outcomes of interest. A core principle in designing effective experiments is the use of randomization. By assigning subjects to different treatment groups randomly, researchers can minimize the influence of confounding variables and isolate the true effect of the treatment. This chance assignment is crucial for distinguishing the effects of the treatment from inherent variability within the subject population. Randomization is a fundamental technique for establishing causality and ensuring the validity of experimental results."
+  },
+  {
+    "title": "Engagement - How Not to Be Ignorant About the World Video",
+    "body": "To kick off this section, students will engage with Hans Rosling’s video, 'How Not to Be Ignorant About the World.' Following the video, they will participate in an interactive quiz designed by Rosling. This activity serves to illustrate how personal experiences and anecdotes can shape our understanding of the world, often leading to ignorance. In contrast, the video and quiz will demonstrate the power of data as a foundation for evidence-based knowledge. The video is accessible online at: https://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world"
+  },
+  {
+    "title": "Learning Objective - Statistical/Mathematical: S-IC B-5",
+    "body": "A key statistical objective for this unit is S-IC B-5, which focuses on using data derived from randomized experiments. Specifically, students will learn to compare the effects of two different treatments based on this data. Furthermore, the objective includes utilizing simulations as a tool to determine whether observed differences between parameters are statistically significant, meaning they are unlikely to have occurred by random chance alone."
+  },
+  {
+    "title": "Learning Objective - Statistical/Mathematical: S-IC 1",
+    "body": "In line with standard S-IC 1, students will develop an understanding of statistics as a systematic process. This process is centered around making inferences, or educated guesses, about broader population parameters. These inferences are based on data collected from a random sample drawn from that specific population. The core idea is to generalize findings from a smaller group to a larger one using statistical methods."
+  },
+  {
+    "title": "Learning Objective - Statistical/Mathematical: S-IC 3",
+    "body": "Standard S-IC 3 addresses the critical distinction between different methods of data collection and study design. Students will learn to recognize the specific purposes of sample surveys, experiments, and observational studies. Crucially, they will understand the differences between these approaches and explain how the principle of randomization plays a role in each, particularly in how it relates to the validity and interpretation of their findings."
+  },
+  {
+    "title": "Learning Objective - Statistical/Mathematical: S-IC 6",
+    "body": "Standard S-IC 6 emphasizes the critical evaluation of information. Students will learn to assess and evaluate reports that present data and conclusions. This involves understanding how data is used to support claims and developing the skills to critically judge the reliability and validity of such reports, ensuring they are not misled by potentially biased or misinterpreted data."
+  },
+  {
+    "title": "Learning Objective - Statistical/Mathematical: S-IC B.5 (Repeated)",
+    "body": "This learning objective, S-IC B.5, is a crucial component of the unit. It requires students to effectively use data obtained from randomized experiments to compare the outcomes of two distinct treatments. Additionally, students will gain proficiency in employing simulations. These simulations will be used to rigorously assess whether any observed differences between the parameters of interest are statistically significant, indicating a genuine effect of the treatment rather than random variation."
+  },
+  {
+    "title": "Learning Objectives - Focus Standards for Mathematical Practice",
+    "body": "Throughout Unit 3, students will engage with several key Standards for Mathematical Practice (SMP). Specifically, SMP-1 encourages students to make sense of complex problems and persevere in finding solutions, even when faced with challenges. SMP-4 directs students to model real-world situations using mathematical concepts and tools. Lastly, SMP-8 focuses on the importance of looking for and expressing regularity in repeated reasoning, promoting efficiency and deeper understanding through pattern recognition in mathematical processes."
+  },
+  {
+    "title": "Learning Objectives - Data Science",
+    "body": "In data science, students will focus on understanding the core principles of experimental analysis. A key objective is to comprehend that differences observed in measured outcomes between treatment and control groups within an experiment can be rigorously tested for significance. Furthermore, students will explore and understand the fundamental roles that both randomization (in assignment) and random sampling (in selection) play in the broader process of statistical inference, which allows us to draw conclusions about populations from sample data."
+  },
+  {
+    "title": "Learning Objectives - Applied Computational Thinking",
+    "body": "The applied computational thinking objectives for this unit equip students with practical skills. They will learn to perform tests to identify and quantify differences between experimental groups. A significant part of this involves creating effective graphical representations that clearly compare the data collected from these different groups. Additionally, students will develop programming skills by writing code specifically designed to randomly assign subjects to various treatment groups within an experiment."
+  },
+  {
+    "title": "Learning Objectives - Real-World Connections",
+    "body": "Experiments are a cornerstone of many critical real-world applications. This unit will highlight these connections to demonstrate the practical importance of experimental design and data analysis. Examples include ensuring the safety and efficacy of new medicines, verifying the reliability of electronic components and structural materials used in engineering, and uncovering patterns in human behavior for fields like psychology and sociology. Understanding experiments provides insight into how critical decisions are made across various industries."
+  },
+  {
+    "title": "Language Objectives - Comparing Anecdotes and Data",
+    "body": "Students will develop their ability to articulate the differences between anecdotal evidence and data-driven evidence. This involves comparing and contrasting personal stories or isolated examples (anecdotes) with systematic, quantitative information (data). The goal is to foster a clear understanding of why data is generally a more reliable basis for making claims and drawing conclusions."
+  },
+  {
+    "title": "Language Objectives - Data Understanding and Experimentation",
+    "body": "Students will focus on constructing clear and concise summary statements that encapsulate their understanding of data. This includes how data is collected, how it is utilized in various contexts, and the practical skills required to work with it effectively. A key application of this understanding will be in the creation and execution of experiments, demonstrating a comprehensive grasp of the data lifecycle from collection to analysis."
+  },
+  {
+    "title": "Language Objectives - Evaluating Claims and Visualizations",
+    "body": "This language objective centers on developing critical reading and analytical skills. Students will read informative texts and learn to evaluate the claims being made, particularly those supported by data. They will also anticipate how such data might be visualized, preparing them to interpret charts and graphs effectively and to question the presentation of information."
+  },
+  {
+    "title": "Language Objectives - Describing Causal Relationships",
+    "body": "Students will practice and improve their ability to describe causal relationships. This involves articulating how one event or factor leads to another. In the context of experiments, this objective directly relates to understanding how treatments cause changes in outcomes, moving beyond simple correlation to establish a basis for cause and effect."
+  },
+  {
+    "title": "Data File and Collection Method",
+    "body": "The primary data source for activities within Unit 3, Section 1 will be the data collected by the students themselves. This data will come from an experiment they conduct, specifically related to 'Time Perception.' The data collection method will involve students actively participating in and gathering results from this hands-on experiment, providing them with direct experience in generating and working with experimental data."
+  },
+  {
+    "title": "Legend for Activity Icons",
+    "body": "This section includes a visual legend to help students understand the meaning of various icons used throughout the unit's materials. This legend, typically represented by an image file (e.g., '../img/legend.png'), serves as a reference guide. It clarifies the different types of activities, concepts, or resources that icons represent, ensuring that students can easily navigate and interpret the instructional content presented in various formats."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Lab 4H: Finding Clusters Abstract",
+    "body": "This document outlines Lab 4H, which focuses on the concept of clustering in data analysis. It explains that clustering is similar to classification but differs in that the number of groups is not predetermined. The lab introduces the k-means clustering algorithm as a method for grouping data into a specified number of clusters (k). It highlights that k-means requires numerical variables and has no missing data. The lab uses the `futbol` dataset, containing US Men's National Soccer team players and NFL quarterbacks, to demonstrate clustering based on height and weight. It also guides users through applying k-means to their own `timeuse` data to group students based on homework and video game time, and to analyze the characteristics of these groups."
+  },
+  {
+    "title": "Introduction to Clustering",
+    "body": "Data scientists employ various methods to analyze and understand data. Previously, techniques like regression were used to predict numerical values, and classification was used to predict categorical values. Clustering is another technique, similar to classification, where the goal is to group data points into categories. However, a key difference in clustering is that the number of groups (clusters) is not known beforehand, as it doesn't involve predicting a known variable's value. This lab introduces the k-means clustering algorithm for grouping data when the number of groups is not predetermined."
+  },
+  {
+    "title": "The k-means Algorithm Explained",
+    "body": "The k-means algorithm is a method used to partition a dataset into a pre-defined number of distinct groups, known as clusters. The number of clusters, denoted by 'k', is a parameter chosen by the data scientist. This algorithm has specific requirements: it operates exclusively on numerical variables and cannot handle datasets with missing data. To begin using k-means in this lab, the `data` function is used to load the `futbol` dataset, which comprises data on 24 players from the US Men's National Soccer team (USMNT) and 33 quarterbacks from the National Football League (NFL)."
+  },
+  {
+    "title": "Clustering with the `futbol` Dataset",
+    "body": "In Unit 4 Lab 4H, after loading the `futbol` dataset using the `data` function, the first practical step involves visualizing the relationship between player height (`ht_inches`) and weight (`wt_lbs`). A scatterplot is generated for this purpose, with each data point (representing a player) colored according to the `league` they belong to (USMNT or NFL). This visualization helps in identifying potential clusters within the data based on these two numerical variables. The expectation is that players from different leagues will exhibit different height and weight characteristics, suggesting distinct groupings."
+  },
+  {
+    "title": "Applying k-means to `futbol` Data",
+    "body": "Following the visualization of player heights and weights in the `futbol` dataset, it becomes apparent that there are two discernible clusters. Players in the NFL tend to be taller and heavier, while USMNT players are generally shorter and lighter. To formally group these players using the k-means algorithm, the `kclusters` function is employed. The task involves filling in the blanks in the code `kclusters(____~____, data = futbol, k = ____)` to specify the variables for clustering (height and weight) and set the number of clusters to two (`k = 2`). Subsequently, the output of `kclusters` is added to the `futbol` dataset as a new variable named `clusters` using the `mutate` function."
+  },
+  {
+    "title": "Comparing k-means Clusters to Ground-Truth",
+    "body": "In the context of the `futbol` dataset, the `league` information (USMNT or NFL) serves as the 'ground-truth'. This means we already know the correct category for each player. Comparing the clusters identified by the k-means algorithm to this ground-truth allows us to assess the algorithm's effectiveness. While knowing the ground-truth is useful for understanding how k-means works in this lab, in real-world scenarios, data scientists often apply clustering without prior knowledge of the correct groupings. The final step in this part of the lab is to analyze how successful k-means was in accurately recovering the `league` information based on the height and weight data."
+  },
+  {
+    "title": "Analyzing `timeuse` Data with k-means",
+    "body": "The second part of Unit 4 Lab 4H involves applying clustering techniques to the `timeuse` dataset. Before proceeding, it is crucial to ensure the data is properly formatted by running `timeuse_format`, so that each row represents the average time spent by a student on various activities. The initial step is to create a scatterplot visualizing the relationship between time spent on `homework` and time spent playing `videogames`. This visualization is essential for identifying potential outliers or distinct patterns in student time usage."
+  },
+  {
+    "title": "Outlier Detection and Filtering in `timeuse` Data",
+    "body": "After generating a scatterplot of `homework` and `videogames` time for the `timeuse` dataset, the next step is to identify and address any outliers. Outliers are data points that significantly deviate from the general pattern of the data. The lab instructs users to use the `filter` function to remove these identified outliers. This preprocessing step is important to ensure that the subsequent clustering analysis is not unduly influenced by extreme values, leading to more meaningful and representative clusters."
+  },
+  {
+    "title": "Clustering Student Time Use",
+    "body": "With the `timeuse` data prepared and outliers removed, the lab proceeds to apply the k-means clustering algorithm. The `kclusters` function is used with the `homework` and `videogames` variables, setting `k=2` to divide the students into two distinct groups. After the clustering is performed, the final task is to describe the characteristics of these two groups. This involves analyzing and comparing how the groups differ in terms of the average time spent on `videogames` and `homework`, providing insights into different student time management patterns."
+  }
+]

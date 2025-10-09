@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract of Unit 3 Lesson 11",
+    "body": "Unit 3 Lesson 11, \"The Gettysburg Address,\" focuses on understanding sampling bias and the benefits of random sampling. Students will analyze the Gettysburg Address to explore how different sampling methods affect the estimation of a population parameter, specifically the average word length. The lesson contrasts self-selected samples with random samples, demonstrating how the latter reduces bias and provides a more accurate representation of the population. Key concepts include sampling bias, unbiased statistics, population parameters, and sampling distributions. The lesson involves hands-on activities using handouts and RStudio to collect and analyze sample data, culminating in a discussion on the importance and practicality of random sampling in statistics."
+  },
+  {
+    "title": "Unit 3 Lesson 11: The Gettysburg Address - Objective and Materials",
+    "body": "The primary objective of Unit 3 Lesson 11 is for students to understand the definition of sampling bias and to recognize that random samples help reduce bias when estimating a population parameter. Students will gain practical experience in collecting a random sample from a small population (the Gettysburg Address) and using it to estimate a population parameter. Essential materials for this lesson include: Gettysburg Address handout (LMR_U3_L11_A), Sampling the Gettysburg Address handout (LMR_U3_L11_B), a dotplot for the self-selected sample mean word length, Gettysburg Address – Word Length Histogram file (LMR_U3_L11_C), Gettysburg Word Lengths handout (LMR_U3_L11_D), RStudio, a projector, and a dotplot for the random sample mean word length. The dotplot for the random sample will be revisited in Lesson 13."
+  },
+  {
+    "title": "Vocabulary: Sampling Bias",
+    "body": "Sampling bias is a key concept in Unit 3 Lesson 11. It occurs when the samples collected from a population tend to produce results that are consistently influenced in a particular direction. This means the sample does not accurately reflect the characteristics of the entire population, leading to a skewed or inaccurate estimate of a population parameter. Identifying and understanding sampling bias is crucial for drawing valid conclusions from data."
+  },
+  {
+    "title": "Essential Concepts: Statistics, Bias, and Random Sampling",
+    "body": "Statistics collected from samples can vary from sample to sample. A statistic is considered 'unbiased' if the typical value across many samples is equal to the population parameter. Bias, in statistical terms, means that our estimates tend to 'miss the mark' – they are systematically off from the true population value. A primary cause of bias is the failure to use random sampling methods. When samples are not selected randomly, they can easily become unrepresentative of the population, leading to biased estimates."
+  },
+  {
+    "title": "Introduction to the Gettysburg Address and Word Length",
+    "body": "Unit 3 Lesson 11 begins by engaging students with the question of what makes a speech great and memorable. The lesson highlights technical components like word length, referencing Ann Wylie's explanation that shorter words generally improve readability and clarity. The Gettysburg Address is presented as an example, noting that out of its 272 words, 174 have only one syllable. This sets the stage for analyzing word length as a measurable characteristic within the speech. Students are provided with historical facts about the Gettysburg Address, including its delivery in November 1863 by President Lincoln and its invocation of core American principles."
+  },
+  {
+    "title": "Activity 1: Self-Selected Sample of Gettysburg Address Words",
+    "body": "In Unit 3 Lesson 11, students are introduced to sampling by considering the 272 words of the Gettysburg Address as a population. They are asked to select 10 words they believe are 'representative' within a limited time (30 seconds). This self-selected sample is recorded, along with the length of each word, on the 'Sampling the Gettysburg Address' handout (LMR_U3_L11_B). Students then calculate the mean word length of their sample and contribute this value to a class dotplot titled 'Mean Word Length, Self-Selected Sample, Size = 10.' This activity is designed to be done quickly to encourage reliance on first impressions, without revealing the concept of unbiased random sampling beforehand."
+  },
+  {
+    "title": "Analyzing the Self-Selected Sample Dotplot",
+    "body": "After collecting data for the self-selected sample of word lengths from the Gettysburg Address, students analyze the class dotplot titled 'Mean Word Length, Self-Selected Sample, Size = 10.' Discussion questions focus on interpreting the plot: what each point represents (a student's estimate of the mean word length), identifying the typical value (the center of the distribution), quantifying variability (e.g., using the range), and describing the shape of the distribution. The population mean word length (4.22) is introduced, and students compare their sample means to this value. The typical outcome from this self-selected sampling method is often higher than the population mean, indicating bias."
+  },
+  {
+    "title": "Understanding Sampling Bias in Self-Selected Samples",
+    "body": "Unit 3 Lesson 11 explicitly defines sampling bias as a situation where samples tend to produce results influenced in one particular direction. Following the analysis of the self-selected sample dotplot for the Gettysburg Address, students are led to understand why their initial sampling procedure was biased. The explanation is that when people quickly select 'representative' words, their eyes are often drawn to longer, more unusual words, while shorter, common words (like 'in', 'a', 'we') are overlooked. This tendency leads to an overestimation of the average word length, demonstrating a clear instance of sampling bias."
+  },
+  {
+    "title": "Activity 2: Random Sample of Gettysburg Address Words",
+    "body": "To address the bias identified in the previous activity, Unit 3 Lesson 11 introduces a random sampling procedure. Students use RStudio to generate 10 random numbers between 1 and 272 (representing the word count in the Gettysburg Address) using the command `sample((1:272), size = 10, replace = FALSE)`. They then use the 'Gettysburg Address Word Lengths' handout (LMR_U3_L11_D), which lists each word and its length, to find the words corresponding to their random numbers. Each student calculates the mean word length of their random sample and records it on a new class dotplot titled 'Mean Word Length, Random Sample, Size = 10.'"
+  },
+  {
+    "title": "Analyzing the Random Sample Dotplot and Benefits of Random Sampling",
+    "body": "After collecting data from the random samples of the Gettysburg Address, students analyze the 'Mean Word Length, Random Sample, Size = 10' dotplot. Discussions focus on what each point represents (an estimate of mean word length based on a random sample), the typical value in this distribution, its shape (often symmetric and unimodal), and what this tells us about the benefits of random samples. Students observe that the means from random samples tend to be much closer to the actual population mean (4.22) compared to the self-selected samples, reinforcing the concept that random sampling reduces bias and provides more accurate estimates."
+  },
+  {
+    "title": "The Necessity and Principles of Sampling",
+    "body": "Unit 3 Lesson 11 addresses the fundamental question of why sampling is necessary. Even with a population as manageable as the 272 words in the Gettysburg Address, collecting data from every single element can be time-consuming. For larger populations, it's often impossible or impractical to gather information from everyone or everything. The lesson introduces the concept of the sampling distribution of the sample mean, explaining that if all possible samples of a certain size could be taken, their means would form a distribution centered around the population parameter. The class dotplots serve as approximations to this theoretical distribution, illustrating the power of random sampling in statistical inference."
+  },
+  {
+    "title": "RStudio Code for Random Sampling",
+    "body": "In Unit 3 Lesson 11, RStudio is used to demonstrate and perform random sampling. To generate a random sample of 10 words from the Gettysburg Address (considered a population of 272 words), students use the following R command: `sample((1:272), size = 10, replace = FALSE)`. This command instructs R to randomly select 10 numbers from the sequence 1 through 272, ensuring that each number is chosen only once (`replace = FALSE`). These numbers are then used to identify specific words in the address, forming the basis of the random sample for analysis."
+  },
+  {
+    "title": "Class Scribes and Homework Assignment",
+    "body": "As a concluding activity for Unit 3 Lesson 11, one team of students is designated as 'Class Scribes.' Their role is to prepare and deliver a brief presentation summarizing what they consider the three most important topics covered during the lesson. For homework, students are assigned a reflection on why random sampling is a superior method for reducing bias compared to other sampling procedures they may have encountered. This reinforces the core learning objective of the lesson regarding the importance of random sampling. Additionally, students are directed to complete [Lab 3C: Random Sampling](lab3c.md) before proceeding to [Lesson 12](lesson12.md)."
+  }
+]

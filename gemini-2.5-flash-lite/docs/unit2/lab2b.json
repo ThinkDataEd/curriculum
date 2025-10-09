@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Lab 2B: Oh the Summaries - Abstract",
+    "body": "This lab, Unit 2 Lab 2B, focuses on expanding the understanding of numerical summaries for data distributions. It introduces and guides the calculation of extreme values (minimum, maximum, range), quartiles (Q1, Q3), and the Inter-Quartile Range (IQR). The lab also covers the creation and interpretation of boxplots and introduces the concept of custom functions by having students create their own functions to calculate the range and a custom IQR. The goal is to equip students with tools to describe the spread and key features of their data more comprehensively, using the 'Personality Color' dataset and R for calculations."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Introduction to Numerical Summaries",
+    "body": "Unit 2 Lab 2B begins by reinforcing that concepts like mean, median, and Mean Absolute Deviation (MAD) are types of numerical summaries. The lab aims to introduce additional important summaries: minimums, maximums, ranges, quartiles (Q1 and Q3), and the Inter-Quartile Range (IQR). A key objective is also to teach students how to write their first custom function in R. To start, students are instructed to load their 'Personality Color' data and name it 'colors'."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Extreme Values - Min, Max, and Range",
+    "body": "Beyond typical values, understanding extreme values (smallest and largest) is crucial for data analysis. Unit 2 Lab 2B introduces the R functions `min()`, `max()`, and `range()` for identifying these extremes. The `min()` function returns the smallest value, `max()` returns the largest, and `range()` returns both. Students are asked to find and record the minimum and maximum values for their predominant color. They are also to apply the `range()` function and describe its output. The lab notes that while `range()` identifies the extremes, it doesn't compute the difference; students will later create a custom function for this."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Quartiles (Q1 and Q3)",
+    "body": "Quartiles are key numerical summaries that divide data into four equal parts. The median, already known as the value splitting data in half (50%), serves as a reference. Unit 2 Lab 2B explains that the first quartile (Q1) is the value below which 25% of the data falls, and the third quartile (Q3) is the value below which 75% of the data falls. Students are guided to use the `quantile()` function in R, specifically with `p = 0.25` to find Q1 and `p = 0.75` to find Q3 for their predominant color, filling in the appropriate variable and data arguments."
+  },
+  {
+    "title": "Unit 2 Lab 2B: The Inter-Quartile Range (IQR)",
+    "body": "The Inter-Quartile Range (IQR) is a measure of statistical dispersion, representing the range of the middle 50% of the data. Unit 2 Lab 2B instructs students to first create a `dotPlot()` of their predominant color's scores, using the `nint` option. They are then to visually divide this distribution into four equal parts based on the number of data points. The numerical values marking these divisions are to be recorded. The difference between the second and third dividing values (which mark the boundaries of the middle 50%) is the IQR. Students will calculate this interval length. The lab also introduces the `iqr()` function in R for direct calculation."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Calculating the IQR",
+    "body": "Unit 2 Lab 2B elaborates on the Inter-Quartile Range (IQR) as a measure of data spread, specifically how wide the middle 50% of the data is. Similar to how the range is calculated from the minimum and maximum, the IQR is calculated from the first quartile (Q1) and the third quartile (Q3). Students are tasked with calculating the IQR manually by subtracting their previously found Q1 value from their Q3 value. Subsequently, they will use the dedicated `iqr()` function in R to compute the IQR and compare the results. Finally, they will determine which personality color exhibits the widest and narrowest spread based on their calculated IQRs."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Boxplots",
+    "body": "Unit 2 Lab 2B introduces the box and whisker plot, commonly known as a boxplot. This plot is a visual representation that uses key numerical summaries: minimum, Q1, median, Q3, and maximum. Students are asked to explain, step-by-step, how one would construct a boxplot by visually interpreting a `dotPlot`. Following their explanation, they will sketch a boxplot for their predominant color's scores in their journal. The lab concludes this section by having students use the `bwplot()` function in R to generate an actual boxplot, reinforcing the visual and computational aspects of this important data summary tool."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Favorite Summaries (favstats)",
+    "body": "To streamline the calculation of multiple numerical summaries, Unit 2 Lab 2B introduces the `favstats()` function. This function is designed to compute a set of commonly used and informative summaries for a given variable in a dataset all at once, saving the user from performing individual calculations. Students are instructed to fill in the blanks in the `favstats(~____, data = colors)` command to compute these favorite summaries for their predominant color, demonstrating the efficiency of this function for exploring data characteristics."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Calculating Range Difference",
+    "body": "Unit 2 Lab 2B addresses a limitation of the basic `range()` function in R, which returns the minimum and maximum values but not their difference. To calculate the actual range (the difference between the maximum and minimum), students are guided through a two-step process. First, they use `values <- range(~____, data = colors)` to store the min and max into a variable named `values`. Second, they use the `diff()` function, specifically `diff(values)`, to compute the difference between the two stored values. Students are required to apply these steps to find the range of their predominant color."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Introducing Custom Functions",
+    "body": "Unit 2 Lab 2B introduces the powerful concept of creating custom functions in R. The rationale is that repeatedly performing multi-step calculations, like finding the range, can be tedious. By writing a custom function, these steps can be combined into a single, reusable command. The lab provides an example of a custom function named `mm_diff` which calculates the absolute difference between the mean and median of a variable. Students are shown the structure of the function, including generic arguments (`variable`, `data`) and the steps within the curly braces `{ }`. They are instructed to copy, paste, and run this example function into an R script."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Using the mm_diff() Custom Function",
+    "body": "After successfully creating the `mm_diff` custom function in Unit 2 Lab 2B, students learn to use it like any built-in R function. The `mm_diff` function calculates the absolute difference between the mean and median of a specified variable. Students are prompted to use this function in the console by filling in the blanks for the function call: `____(~____, data = ____)`. They will then use this to find which of the four personality colors has the largest absolute difference between its mean and median. Further analysis involves examining a `dotPlot` for that color to argue whether the mean or median is a better descriptor of the data's center."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Creating the Range() Custom Function",
+    "body": "Building on the concept of custom functions, Unit 2 Lab 2B guides students to create their own `Range()` function (with a capital 'R') to calculate the difference between the maximum and minimum values of a variable. Using the previously demonstrated example function structure as a model, students must fill in the blanks for the function definition. The function should take appropriate arguments, likely the variable and the data source, and internally use the `range()` function to get the min/max values, then use `diff()` to compute the actual range. After creating this function, students will use it to identify the personality color with the largest difference between its maximum and minimum scores."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Creating the myIQR() Custom Function",
+    "body": "As a final exercise in Unit 2 Lab 2B, students are tasked with creating their own custom function named `myIQR()`. This function's objective is to calculate the range of the middle 30% of the data, rather than the typical middle 50% (IQR). To achieve this, students will need to leverage the `quantile()` function, similar to how Q1 and Q3 were calculated. They will need to determine the correct probability (`p` values) for the quantiles that encompass the central 30% of the data and then compute the difference between these two quantile values. This exercise reinforces the flexibility and power of custom functions for analyzing specific aspects of a data distribution."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Vocabulary - Numerical Summaries",
+    "body": "In Unit 2 Lab 2B, 'numerical summaries' refer to quantitative values that describe characteristics of a dataset. Examples introduced and used in this lab include: minimum, maximum, range, mean, median, Mean Absolute Deviation (MAD), quartiles (Q1, Q3), and the Inter-Quartile Range (IQR). These summaries provide concise information about the central tendency, spread, and extremes of the data, allowing for easier interpretation and comparison of different distributions."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Vocabulary - Minimum and Maximum",
+    "body": "In Unit 2 Lab 2B, the 'minimum' is the smallest value observed in a dataset or for a specific variable. The 'maximum' is the largest value observed in the same dataset or variable. These are the extreme boundaries of the data and are found using functions like `min()` and `max()` in R. They are fundamental numerical summaries used to understand the full extent of the data's values."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Vocabulary - Range",
+    "body": "The 'range' of a variable, as discussed in Unit 2 Lab 2B, has two related meanings. Primarily, it refers to the difference between the maximum and minimum values in a dataset (Max - Min). The R function `range()` directly computes and returns the minimum and maximum values themselves. However, students are later tasked with creating a custom `Range()` function to calculate the actual difference, emphasizing the practical application of this measure of spread."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Vocabulary - Quartiles (Q1 and Q3)",
+    "body": "In Unit 2 Lab 2B, 'quartiles' are values that divide a dataset into four equal parts. Specifically, Q1 (the first quartile) is the value below which 25% of the data lies. Q3 (the third quartile) is the value below which 75% of the data lies. They are calculated using the `quantile()` function in R with `p=0.25` for Q1 and `p=0.75` for Q3. Quartiles are important for understanding the distribution and calculating the IQR."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Vocabulary - Inter-Quartile Range (IQR)",
+    "body": "The 'Inter-Quartile Range' (IQR), introduced in Unit 2 Lab 2B, is a measure of statistical dispersion. It is defined as the difference between the third quartile (Q3) and the first quartile (Q1): IQR = Q3 - Q1. The IQR quantifies the spread of the middle 50% of the data. It is less sensitive to outliers than the overall range. The R function `iqr()` can calculate this value directly."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Vocabulary - Boxplot",
+    "body": "A 'boxplot', also known as a box and whisker plot, is a graphical tool introduced in Unit 2 Lab 2B for visually displaying the distribution of a dataset based on its five-number summary: minimum, Q1, median, Q3, and maximum. It provides a clear representation of the data's center, spread, and potential skewness. The R function `bwplot()` is used to generate boxplots."
+  },
+  {
+    "title": "Unit 2 Lab 2B: Vocabulary - Custom Function",
+    "body": "In Unit 2 Lab 2B, a 'custom function' refers to a block of R code that the user defines to perform a specific task. These functions can take arguments, execute a series of commands, and return a result. Creating custom functions, like the `Range()` and `myIQR()` functions in this lab, allows users to automate repetitive calculations, simplify complex processes, and make their analysis more efficient and organized."
+  },
+  {
+    "title": "Unit 2 Lab 2B: R Code - Loading Data",
+    "body": "The first step in Unit 2 Lab 2B is to load the 'Personality Color' data into R. The instruction specifies that the data should be named 'colors'. This is a prerequisite for performing all subsequent analyses and calculations within the lab. A typical command to load data might look like `colors <- read.csv('your_data_file.csv')` or similar, depending on the data format, though the specific loading command is implied to be known or previously covered."
+  },
+  {
+    "title": "Unit 2 Lab 2B: R Code - Min, Max, Range Functions",
+    "body": "Unit 2 Lab 2B utilizes R's built-in functions for finding extreme values. The `min(variable, data = dataset)` function returns the smallest value of 'variable' within the specified 'dataset'. The `max(variable, data = dataset)` function returns the largest value. The `range(variable, data = dataset)` function returns both the minimum and maximum values as a vector. These functions are essential for understanding the boundaries of the data."
+  },
+  {
+    "title": "Unit 2 Lab 2B: R Code - Quantile Function",
+    "body": "The `quantile()` function in R is used in Unit 2 Lab 2B to calculate quartiles. The syntax involves specifying the variable, the dataset, and the desired quantile probability (p). For example, `quantile(~variable, data = dataset, p = 0.25)` calculates the first quartile (Q1), representing the value below which 25% of the data falls. `quantile(~variable, data = dataset, p = 0.75)` calculates the third quartile (Q3), below which 75% of the data lies."
+  },
+  {
+    "title": "Unit 2 Lab 2B: R Code - Dot Plot",
+    "body": "The `dotPlot()` function is used in Unit 2 Lab 2B to create a visual representation of data where each data point is marked by a dot above its value on the number line. The instruction `dotPlot(~variable, data = dataset, nint)` suggests using this function to visualize the distribution of a specific variable from the 'colors' dataset. The `nint` option likely refers to controlling the number of intervals or bins, aiding visual interpretation, especially when preparing to identify quartiles visually."
+  },
+  {
+    "title": "Unit 2 Lab 2B: R Code - IQR Function",
+    "body": "Unit 2 Lab 2B uses the `iqr()` function in R as a direct method to calculate the Inter-Quartile Range (IQR) of a variable. The typical usage would be `iqr(variable, data = dataset)`. This function computes the difference between the third quartile (Q3) and the first quartile (Q1) of the specified variable within the given dataset, providing a standard measure of the spread of the middle 50% of the data."
+  },
+  {
+    "title": "Unit 2 Lab 2B: R Code - Boxplot Function (bwplot)",
+    "body": "The `bwplot()` function from the `lattice` package (or similar) is used in Unit 2 Lab 2B to generate boxplots. The syntax typically involves specifying the variable to be plotted, often in a formula format like `bwplot(~variable, data = dataset)`. This function creates a visual summary of the data's distribution, showing the median, quartiles, and potential outliers, which is a key objective of the lab."
+  },
+  {
+    "title": "Unit 2 Lab 2B: R Code - Favstats Function",
+    "body": "The `favstats()` function is introduced in Unit 2 Lab 2B as a convenient way to compute a set of favorite, or commonly used, statistical summaries for a variable all at once. The function call structure is `favstats(~variable, data = dataset)`. It typically returns values such as the minimum, Q1, median, mean, Q3, maximum, and standard deviation, providing a comprehensive overview of the data's characteristics efficiently."
+  },
+  {
+    "title": "Unit 2 Lab 2B: R Code - Diff Function",
+    "body": "The `diff()` function in R is used in Unit 2 Lab 2B in the context of calculating the range. When applied to a vector containing two numbers (like the output of the `range()` function), `diff(vector)` calculates the difference between the second and the first element. This is used to find the actual spread (max - min) after the `range()` function has returned the minimum and maximum values."
+  },
+  {
+    "title": "Unit 2 Lab 2B: R Code - Custom Function Structure",
+    "body": "Unit 2 Lab 2B introduces the structure for creating custom functions in R. A function is defined using the `function_name <- function(arguments) { ... body ... }` syntax. The `arguments` are placeholders for the inputs the function will receive. The `body` enclosed in curly braces `{}` contains the R commands that the function will execute. The example `mm_diff` function demonstrates how to calculate the absolute difference between the mean and median, taking `variable` and `data` as arguments."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Abstract of the IDS Curriculum",
+    "body": "This document outlines the Introduction to Data Science (IDS) Curriculum, specifically referencing version 7.2. It provides links to various PDF versions of the curriculum, including version 7.2, and embeds interactive iframes for viewing these documents. Older versions like v6.0 and v5.0 are also referenced, with some of their links and embedded viewers commented out. The curriculum is structured into units and lessons, with specific documents available for different units, such as Unit 2 and Unit 3 (v6.0), and Unit 4 (v6.2). The primary focus is on making the curriculum content accessible through direct PDF links and embedded viewers."
+  },
+  {
+    "title": "IDS Curriculum Version 7.2",
+    "body": "The core of the curriculum is the Introduction to Data Science Curriculum version 7.2. A direct PDF link is provided: [../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Curriculum_v7_2.pdf]. Additionally, an embedded iframe allows for interactive viewing of this document directly within the page: [src=\"https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Curriculum_v7_2.pdf\"] with a width of 420px and height of 400px, with no frame border."
+  },
+  {
+    "title": "IDS Curriculum Unit 2 (v6.0)",
+    "body": "Unit 2 of the Introduction to Data Science curriculum, in version 6.0, is accessible via a direct PDF link: [../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Unit2_v 6.0.pdf]. This unit's content can also be viewed interactively through an embedded iframe, using the source: [src=\"https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Unit2_v 6.0.pdf&embedded=true\"]. The iframe is configured with a width of 420px, a height of 400px, and no frame border."
+  },
+  {
+    "title": "IDS Curriculum Unit 3 (v6.0)",
+    "body": "The Introduction to Data Science curriculum's Unit 3, version 6.0, is available through a direct PDF link: [../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Unit3_v 6.0.pdf]. For interactive viewing, an embedded iframe is provided with the source: [src=\"https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Unit3_v 6.0.pdf&embedded=true\"]. This iframe is set to a width of 420px and a height of 400px, with frameborder set to 0."
+  },
+  {
+    "title": "IDS Curriculum Unit 4 (v6.2)",
+    "body": "Unit 4 of the Introduction to Data Science curriculum, specifically version 6.2, can be accessed via the PDF link: [../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Unit4_v_6.2.pdf]. An embedded iframe offers an alternative way to view this unit's content interactively. The iframe's source is: [src=\"https://docs.google.com/viewerng/viewer?url=https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/IDS_Unit4_v_6.2.pdf&embedded=true\"]. The display dimensions are set to 420px width and 400px height, with no frame border."
+  },
+  {
+    "title": "Introduction to Data Science Curriculum (v6.0)",
+    "body": "This entry references the Introduction to Data Science Curriculum in version 6.0, accessible via the PDF link: [../IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_6.0/Introduction to Data Science_Curriculum_v_6.0.pdf]. An embedded iframe is also provided for direct viewing of this document, with the source: [src=\"https://ids-curriculum.idsucla.org/IDS_Curriculum_v_5.0/1_IDS_Curriculum_v_5.0/Introduction%20to%20Data%20Science_Curriculum_v_6.0.pdf\"]. This iframe has a width of 420px, a height of 400px, and no frame border. Some links related to version 6.0, particularly those from Google Docs viewers, are commented out."
+  },
+  {
+    "title": "Older Curriculum Versions (Commented Out)",
+    "body": "This section details older or alternative references to the Introduction to Data Science Curriculum that are currently commented out in the document. These include a reference to IDS_Intro+Unit1_v 6.0_FINAL.pdf and a Google Docs viewer link for it. Additionally, there are commented-out references to Introduction to Data Science Curriculum v5.0, including a Google Drive preview link ([https://drive.google.com/file/d/1hF8V31VcyVCP0VVtCDIBerFYBi6IiHFg/preview]) and an iframe embedding it with a width of 420px and height of 400px. Another commented-out iframe for v5.0 uses a relative path and has a larger height of 420px and 100% width."
+  },
+  {
+    "title": "Interactive Document Viewing",
+    "body": "The curriculum content is made accessible through embedded iframes, allowing for interactive viewing directly within the documentation. These iframes are consistently styled with a width of 420px and a height of 400px, and have their frameborder attribute set to 0 (no border). Examples include viewers for IDS_Curriculum_v7_2.pdf, IDS_Unit2_v 6.0.pdf, IDS_Unit3_v 6.0.pdf, and IDS_Unit4_v_6.2.pdf. Some older or alternative viewer links, such as those from Google Docs or Google Drive for v6.0 and v5.0, are also present but commented out."
+  }
+]

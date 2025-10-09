@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Abstract: Instructional Videos for Using the Tools",
+    "body": "This document provides a comprehensive guide to instructional videos designed to help users effectively utilize various tools and features. It categorizes videos by functional area, including Campaign Management, Survey Taking, Dashboard navigation, PlotApp usage, Campaign Monitoring, Document management, Mobile App instructions, Class Management, RStudio, Dropdown Menu interaction, and Real-time Data Collection App. Each category lists specific video tutorials with links to YouTube embeds, facilitating a hands-on learning approach. The document also includes HTML and JavaScript code snippets for a modal video player interface."
+  },
+  {
+    "title": "Campaign Manager Videos",
+    "body": "The Campaign Manager tool offers several video tutorials to guide users through its functionalities. These videos cover essential aspects of campaign management, including 'Managing Campaign Settings' (https://www.youtube.com/embed/ZTGPbhgqIc0), 'Managing Campaign Responses' (https://www.youtube.com/embed/RLIOoLhakg8), and 'Export, Upload, Import' (https://www.youtube.com/embed/4mChtv5qy1g). Additionally, a tutorial on 'Creating a Campaign' is available at https://www.youtube.com/embed/PzwMCHOghnI. These resources are designed to help users efficiently manage and execute their campaigns."
+  },
+  {
+    "title": "Survey Taking Videos",
+    "body": "This section details instructional videos for survey participation. Users can learn how to take surveys via a web browser by watching 'Survey Taking via Browser' (https://www.youtube.com/embed/hksbF5QWY2E). For those preferring mobile interaction, 'Survey Taking via App' is available at https://www.youtube.com/embed/tGK3Am6-BQo?si=Vkekp_p21MoeJZRX. These videos ensure users can easily engage with surveys through different platforms."
+  },
+  {
+    "title": "Dashboard Navigation Video",
+    "body": "To help users understand the platform's central hub, a video titled 'Navigating the Dashboard' is provided. This tutorial, accessible at https://www.youtube.com/embed/d0BDaHKOqOg, walks users through the various sections and functionalities of the dashboard. Familiarizing oneself with the dashboard is crucial for efficient use of the system's features and data."
+  },
+  {
+    "title": "PlotApp Tutorial",
+    "body": "The PlotApp is a tool for data visualization and analysis. A dedicated video tutorial, 'PlotApp', is available to guide users on how to use this application effectively. The video can be accessed at https://www.youtube.com/embed/Jks39Gxi6dA. This resource is essential for users who need to create and interpret plots from their data."
+  },
+  {
+    "title": "Campaign Monitoring Videos",
+    "body": "Monitoring campaign progress is vital for success. This section offers two distinct videos for campaign monitoring: 'Teacher Campaign Monitoring Tool' (https://www.youtube.com/embed/EV-uEh_0ogM) and 'Student Campaign Monitoring Tool' (https://www.youtube.com/embed/Xg9Fl9arETw). These videos provide insights into tracking campaign performance from both educator and participant perspectives."
+  },
+  {
+    "title": "Documents Section",
+    "body": "The 'Documents' section indicates that there are currently no specific instructional videos available for document management or related features. Users seeking guidance on document-related tasks may need to refer to other resources or documentation."
+  },
+  {
+    "title": "IDS MobileApps Instructions",
+    "body": "Instructions for using the IDS MobileApps are provided through a dedicated video tutorial. The video, titled 'How to Download & Use App', is available at https://www.youtube.com/embed/tGK3Am6-BQo?si=Vkekp_p21MoeJZRX. This resource guides users through the process of obtaining and operating the mobile application."
+  },
+  {
+    "title": "Class Management Videos",
+    "body": "Effective class management is supported by instructional videos. 'Create and Manage a Class' (https://www.youtube.com/embed/M7u0yNRsAtg?si=wS1DH_avjwnezWdG) provides guidance on setting up and administering classes. Additionally, a practical tip for data handling is offered in the video 'Splitting Columns in Excel' (https://www.youtube.com/embed/dtWF291XwzE), useful for preparing data for class activities."
+  },
+  {
+    "title": "RStudio Videos",
+    "body": "A series of videos are available for users of RStudio and Posit Cloud. These include 'Accessing RStudio through Posit Cloud' (https://www.youtube.com/embed/DSf2viLkSCc?si=U5Zt0_PM4c7DatY7), 'Posit Cloud Admin View' (https://www.youtube.com/embed/KwXW4Dfjn50?si=byPGn8KrgM_T5Tic), and 'Rstudio Basics (Unit 1 Lesson 13)' (https://www.youtube.com/embed/WkxCfaol3pE). Further tutorials cover 'Lab 1A' (https://www.youtube.com/embed/v3qPfE4ruQA), 'Export, Upload, Import' (https://www.youtube.com/embed/4mChtv5qy1g), 'Decluttering Environment' (https://www.youtube.com/embed/N5KpS0MFk7Y), and 'Moving Files Between Projects' (https://www.youtube.com/embed/vZpwB6KM0Pg)."
+  },
+  {
+    "title": "Dropdown Menu Navigation Video",
+    "body": "Users can learn how to navigate the dropdown menu through a specific instructional video. Titled 'Navigating the Dropdown Menu', this tutorial is available at https://www.youtube.com/embed/NxQaRIovY3s. Understanding the dropdown menu is key to accessing various options and features within the system."
+  },
+  {
+    "title": "Real-time Data Collection App Video",
+    "body": "A video tutorial is available for the 'Real-time Data Collection App'. This resource, accessible at https://www.youtube.com/embed/N-CkhD33IxE, demonstrates how to use the app for collecting data in real-time. This is particularly useful for field research or interactive surveys."
+  },
+  {
+    "title": "Video Modal Functionality",
+    "body": "The platform incorporates a modal window for displaying instructional videos. The JavaScript function `openVideoModal(src)` is responsible for opening this modal, setting the video source from a provided URL, and adjusting the video player's dimensions based on the screen width. The modal is closed by clicking a close button, which also clears the video source. The associated CSS styles the modal, its container, and the close button for a user-friendly viewing experience."
+  },
+  {
+    "title": "Campaign Manager: Managing Settings and Responses",
+    "body": "Instructional videos are provided for managing campaign settings and responses within the Campaign Manager tool. 'Managing Campaign Settings' (https://www.youtube.com/embed/ZTGPbhgqIc0) guides users on configuring campaign parameters. 'Managing Campaign Responses' (https://www.youtube.com/embed/RLIOoLhakg8) explains how to view and handle responses received from campaigns. These videos are crucial for effective campaign administration."
+  },
+  {
+    "title": "Campaign Manager: Export, Upload, and Import",
+    "body": "Efficient data management is facilitated through videos on export, upload, and import functionalities within the Campaign Manager. The video 'Export, Upload, Import' (https://www.youtube.com/embed/4mChtv5qy1g) provides step-by-step instructions on how to transfer data in and out of the system. This is also relevant for RStudio users, as indicated by its inclusion in the RStudio video list."
+  },
+  {
+    "title": "Survey Taking: Browser vs. App",
+    "body": "Users have two primary methods for taking surveys, each with a dedicated instructional video. 'Survey Taking via Browser' (https://www.youtube.com/embed/hksbF5QWY2E) covers the web-based approach. 'Survey Taking via App' (https://www.youtube.com/embed/tGK3Am6-BQo?si=Vkekp_p21MoeJZRX) details the process for mobile devices. This duality ensures accessibility for all users, regardless of their preferred platform."
+  },
+  {
+    "title": "RStudio: Posit Cloud and Basic Operations",
+    "body": "For users working with RStudio, several videos focus on leveraging Posit Cloud and fundamental operations. 'Accessing RStudio through Posit Cloud' (https://www.youtube.com/embed/DSf2viLkSCc?si=U5Zt0_PM4c7DatY7) and 'Posit Cloud Admin View' (https://www.youtube.com/embed/KwXW4Dfjn50?si=byPGn8KrgM_T5Tic) cater to cloud-based access. 'Rstudio Basics (Unit 1 Lesson 13)' (https://www.youtube.com/embed/WkxCfaol3pE) covers introductory concepts. Additionally, 'Decluttering Environment' (https://www.youtube.com/embed/N5KpS0MFk7Y) and 'Moving Files Between Projects' (https://www.youtube.com/embed/vZpwB6KM0Pg) offer practical tips for efficient workflow management."
+  },
+  {
+    "title": "Class Management: Creating Classes and Data Handling",
+    "body": "The 'Class Management' section provides essential video tutorials for educators. 'Create and Manage a Class' (https://www.youtube.com/embed/M7u0yNRsAtg?si=wS1DH_avjwnezWdG) offers comprehensive guidance on setting up and administering classes. Complementing this, 'Splitting Columns in Excel' (https://www.youtube.com/embed/dtWF291XwzE) provides a practical data manipulation technique valuable for preparing datasets for educational purposes."
+  },
+  {
+    "title": "IDS MobileApps and Data Collection",
+    "body": "Users are directed to specific video resources for mobile application usage and data collection. The 'IDS MobileApps Instructions' category points to 'How to Download & Use App' (https://www.youtube.com/embed/tGK3Am6-BQo?si=Vkekp_p21MoeJZRX), which covers the mobile survey experience. Furthermore, the 'Real-time Data Collection App' has its own tutorial (https://www.youtube.com/embed/N-CkhD33IxE), detailing its functionality for immediate data gathering."
+  },
+  {
+    "title": "Campaign Monitoring Tools",
+    "body": "Two distinct tools are available for monitoring campaign activities, each with a dedicated video tutorial. The 'Teacher Campaign Monitoring Tool' (https://www.youtube.com/embed/EV-uEh_0ogM) allows educators to oversee campaign progress. The 'Student Campaign Monitoring Tool' (https://www.youtube.com/embed/Xg9Fl9arETw) provides students with insights into their campaign participation or performance. These resources ensure transparency and aid in campaign analysis."
+  }
+]

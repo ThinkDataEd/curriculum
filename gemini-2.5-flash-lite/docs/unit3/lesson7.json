@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract for Unit 3 Lesson 7: Observational Studies vs. Experiments",
+    "body": "Unit 3 Lesson 7 focuses on differentiating between observational studies and experiments. It highlights that experiments, while powerful for establishing causation, are not always feasible due to ethical concerns, cost limitations, and practical impossibility of random assignment. The lesson guides students to classify research scenarios and choose the most appropriate data collection method, considering these factors. Students will engage in discussions, analyze case studies, and generate their own research questions, culminating in a class discussion and a summary of key topics."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Objective",
+    "body": "The objective of Unit 3 Lesson 7 is for students to understand the fundamental differences between observational studies and experiments. Students will gain the ability to classify various research scenarios and determine the most suitable data collection method (observational study or experiment) for each. Furthermore, the lesson aims to educate students on the critical roles of ethics, cost limitations, and feasibility in the decision-making process when choosing between observational studies and experiments."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Materials",
+    "body": "The primary material required for Unit 3 Lesson 7 is the 'What Should We Do?' handout. This handout is essential for students to practice identifying and classifying research questions, determining whether an experiment or an observational study is the most appropriate method for data collection. A link to the handout is provided as [LMR_U3_L7](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L7.pdf). Page 2 of this handout contains an answer key intended for teacher reference only."
+  },
+  {
+    "title": "Vocabulary: Ethics",
+    "body": "Ethics refers to a system of moral principles. In the context of Unit 3 Lesson 7, ethics is a crucial factor considered when deciding whether an experiment can be ethically performed. Certain experimental treatments might be harmful or impose unacceptable risks on participants, making them unethical. For instance, intentionally infecting individuals with a disease like HIV for research purposes would be considered unethical due to the severe potential harm and long-term consequences, including death. This ethical constraint often necessitates the use of observational studies instead of experiments."
+  },
+  {
+    "title": "Vocabulary: Cost Limitations",
+    "body": "Cost limitations refer to the constraints imposed by the amount of available funds or money. In Unit 3 Lesson 7, this concept is discussed as a significant reason why experiments may not always be feasible. Conducting experiments can be extremely expensive, especially those involving advanced technology, extensive travel, or long-term data collection. For example, a study requiring participants to travel to Mars would incur astronomical costs for designing and operating a space shuttle, making it prohibitively expensive for most researchers. These financial barriers often make observational studies a more practical choice."
+  },
+  {
+    "title": "Vocabulary: Feasibility",
+    "body": "Feasibility relates to how easy or difficult it is to do something. In Unit 3 Lesson 7, feasibility is presented as a key factor influencing the choice between observational studies and experiments. An experiment might be considered not feasible if it is impossible to randomly assign subjects to different groups. This often occurs when the characteristic being studied cannot be manipulated or assigned by the researcher. For example, one cannot assign a gender to a person, making any study attempting to randomly assign gender groups not feasible as an experiment. This inability to randomize due to inherent characteristics makes observational studies necessary."
+  },
+  {
+    "title": "Essential Concepts: Constraints on Experiments",
+    "body": "A core concept in Unit 3 Lesson 7 is that experiments are not always possible or practical. There are several key factors that can limit the use of experiments for data collection. These include ethical considerations, which prohibit research that could harm participants; cost limitations, where the financial resources required are prohibitive; and feasibility issues, such as when it is impossible to randomly assign subjects to treatment and control groups due to the nature of the variable being studied. These limitations often necessitate the use of observational studies as an alternative."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Random Assignment in Studies",
+    "body": "A fundamental distinction between observational studies and experiments, as discussed in Unit 3 Lesson 7, lies in the assignment of subjects to groups. In observational studies, researchers observe subjects without manipulating any variables or assigning them to treatment and control groups. Random assignment is not performed. Conversely, experiments inherently require random assignment of subjects to treatment and control groups. This random assignment is crucial for establishing a cause-and-effect relationship by ensuring that the groups are similar on average before the treatment is applied, thus minimizing confounding variables."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Scenarios - Ethics in Research",
+    "body": "Unit 3 Lesson 7 explores why experiments are not always the preferred method for research. One primary reason discussed is ethics. For example, the question 'Does smoking cause lung cancer?' cannot be ethically studied through an experiment. Researchers cannot ethically assign participants to a group that requires them to smoke cigarettes over a long period, as this would intentionally expose them to harmful substances and potentially lead to severe health consequences like lung cancer. In such cases, where an experiment would be unethical, observational studies are used to investigate potential correlations."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Scenarios - Cost Limitations in Research",
+    "body": "Cost limitations present a significant barrier to conducting experiments, as highlighted in Unit 3 Lesson 7. An example provided is the research question: 'Does drinking water from Mars keep you healthier than drinking water from Earth?' Conducting an experiment for this would involve designing and operating a space shuttle for people to travel to Mars and live there for an extended period. The immense cost associated with such an endeavor, including transportation and sustained living conditions, makes it financially unfeasible for most researchers. Consequently, observational studies are often the only practical approach when experimental costs are prohibitive."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Scenarios - Feasibility (Impossible Randomization)",
+    "body": "Feasibility, particularly the impossibility of randomization, is another critical reason why experiments cannot always be conducted, as detailed in Unit 3 Lesson 7. Consider the question: 'Do people with higher IQ scores score better on the SAT than people with lower IQ scores?' IQ scores are inherent aptitudes that cannot be assigned to individuals. Researchers cannot randomly assign people to have a high IQ or a low IQ. Since random assignment is a cornerstone of experimental design, studies involving characteristics that cannot be manipulated or assigned are not feasible as experiments and must be approached using observational methods."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Discussion on Non-Experimental Constraints",
+    "body": "During Unit 3 Lesson 7, students discuss why experiments are not always possible. After posing the question, 'Why can’t we just always do experiments?', students in teams brainstorm potential reasons. The lesson then elaborates on these reasons using specific scenarios. Key constraints preventing experiments include ethical dilemmas (e.g., causing harm), cost limitations (e.g., space travel expenses), and feasibility issues where randomization is impossible (e.g., assigning IQ scores or gender). Understanding these limitations helps students appreciate the necessity and application of observational studies in research."
+  },
+  {
+    "title": "Unit 3 Lesson 7: 'What Should We Do?' Handout Activity",
+    "body": "In Unit 3 Lesson 7, students engage with the 'What Should We Do?' handout to apply their understanding of observational studies and experiments. Working in teams, students analyze various research questions presented in the handout. Their task is to determine whether each research question can best be answered using an experiment or an observational study. Following the team activity, selected research questions are reported out to the class, facilitating a whole-class discussion to compare the chosen methods and solidify the reasoning behind each selection. This hands-on activity reinforces the decision-making process involved in choosing appropriate data collection strategies."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Student-Generated Research Questions",
+    "body": "As a follow-up activity in Unit 3 Lesson 7, student teams are tasked with generating three original research questions. For each question, they must identify the most appropriate data collection method (observational study or experiment) and provide a clear explanation for their choice. A key requirement is that at least one of the three generated questions must be designed to be answered using an observational study. This exercise encourages students to creatively apply the concepts learned throughout the lesson to real-world research scenarios, promoting critical thinking about study design."
+  },
+  {
+    "title": "Unit 3 Lesson 7: Class Scribes - Key Takeaways",
+    "body": "At the conclusion of Unit 3 Lesson 7, one team of students takes on the role of 'Class Scribes.' This team is responsible for reflecting on the day's lesson and identifying what they believe to be the three most important topics or concepts discussed. They will then present their findings to the class. This activity serves as a review mechanism, reinforcing the core learning objectives of the lesson and encouraging students to synthesize the information about observational studies, experiments, and the factors influencing the choice between them."
+  }
+]

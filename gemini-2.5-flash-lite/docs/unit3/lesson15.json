@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract for Unit 3 Lesson 15",
+    "body": "This lesson introduces students to sensors as a method of data collection. It defines sensors as devices that measure physical quantities and convert them into signals, often triggered by events. The lesson explores how sensors work, their role in collecting data without direct human involvement based on algorithms, and provides examples through a video and an interactive activity. Students will learn vocabulary such as 'sensor,' 'trigger,' and 'algorithm,' and understand how sensors can collect data continuously or when activated by a trigger. The lesson encourages students to think about the applications of sensors in everyday life and for future data collection challenges."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Ready, Sense, Go! - Objective and Materials",
+    "body": "The objective of Unit 3 Lesson 15 is for students to learn what sensors are and how they are used to collect data. The materials required for this lesson include a video titled 'Play Like Nadal With a Smart Tennis Racket,' computers for research, poster paper, and flags in three different colors. Advance preparation involves setting up groups and the activity described in step 10 of the lesson."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Vocabulary - Sensor, Trigger, Algorithm",
+    "body": "Key vocabulary for Unit 3 Lesson 15 includes: Sensor, Trigger, and Algorithm. A 'sensor' is defined as a converter that measures a physical quantity and converts it into a signal, which can be read by an observer or an instrument. A 'trigger' is something that responds to an event so that an action can occur. An 'algorithm' is a process or set of rules that are followed."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Essential Concepts - Sensors for Data Collection",
+    "body": "Essential concepts for Unit 3 Lesson 15 highlight that sensors are a method of data collection distinct from previous methods because they do not heavily involve humans. Sensors collect data according to an algorithm, meaning they follow a predefined process or set of rules to gather information. This makes them efficient for continuous or automated data gathering."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Introduction to Sensors and Video Analysis",
+    "body": "Unit 3 Lesson 15 begins with an entrance ticket reviewing previous data collection methods (experiments, observational studies, surveys, and URL data). Students are then introduced to sensors as a new data collection method. They discuss their initial ideas about what a sensor is. The lesson incorporates a video, 'Play Like Nadal With a Smart Tennis Racket,' to illustrate sensor technology. After watching the video, students refine their understanding of sensors by adding to their initial definitions."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Sensor List Compilation Activity",
+    "body": "In Unit 3 Lesson 15, students work in teams to compile a list of data-collecting sensors. They use computers for online research, with the goal of generating the longest list possible. The activity involves a share-out round where each team shares one sensor, and a class list is created. A scoring system is implemented to encourage participation and accuracy: 1 point for adding a new sensor, losing a point for repeating an answer, losing a turn for not answering within five seconds, and the option to pass. This activity helps students identify a wide range of sensors and their applications."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Interactive Sensor Activity Setup",
+    "body": "Unit 3 Lesson 15 includes an interactive activity to demonstrate sensors in action. Students are divided into three groups: Triggers, Sensors, and a Collector. 'Triggers' (3 students) are given colored flags (e.g., Pink, Purple, Green) corresponding to different research questions (e.g., 'Who is in our class?'). 'Sensors' (2 students) are assigned to specific colored flags and act as intermediaries, signaling the Collector when their assigned trigger is activated. The Collector (1 student) gathers data from other students by asking survey questions related to the triggered research question."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Sensor Activity Roles and Data Collection",
+    "body": "In Unit 3 Lesson 15's interactive activity, the 'Triggers' represent events (e.g., a specific color flag being raised). The 'Sensors' act as converters, detecting the trigger (flag color) and sending a signal. The 'Collector' then initiates data collection through survey questions, similar to how a sensor might prompt an instrument to record data. For instance, if the 'Pink' flag (representing 'Who is in our class?') is raised and a 'Sensor A' detects it, the Collector asks survey questions like 'How did you get to school today?' to a student. If a flag has no assigned sensor, no data collection occurs for that trigger."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Activity Reflection and Discussion",
+    "body": "Following the interactive sensor activity in Unit 3 Lesson 15, students participate in a reflection and discussion. They analyze what data might have been missed and why, specifically noting that data related to the Green trigger (after-school activities) was missed because no sensor was assigned. Students also discuss real-world examples, such as grocery store loyalty cards, identifying the trigger (checkout) and the data collected (items bought, cost, etc.). This discussion reinforces the concepts of triggers and data collection."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Revisiting Sensor Definitions",
+    "body": "After the interactive activity in Unit 3 Lesson 15, students revisit and revise their definitions of a sensor. They solidify their understanding with formal definitions: A 'sensor' measures a physical quantity and converts it into a signal. Sensors can collect data continuously or when a 'trigger' (an event) is activated. Data collection follows an 'algorithm' (a set of rules). The lesson also emphasizes that sensors can collect data automatically, without direct human input, citing examples like GPS location, time, and date."
+  },
+  {
+    "title": "Unit 3 Lesson 15: Class Scribes and Homework Assignment",
+    "body": "In Unit 3 Lesson 15, a 'Class Scribes' activity involves one team presenting their understanding of the three most important topics covered in the lesson. The homework assignment asks students to consider a sensor that could collect data not easily obtainable through experiments or surveys. They must explain why this data is difficult to collect using traditional methods and how a sensor would facilitate its collection, encouraging critical thinking about sensor applications beyond the classroom examples."
+  },
+  {
+    "title": "Unit 3 Vocabulary: Sensor",
+    "body": "A sensor is a device that functions as a converter. It measures a physical quantity, such as temperature, pressure, light, or motion, and transforms this measurement into a signal. This signal can then be interpreted by a human observer or processed by an instrument or computer. In the context of Unit 3 Lesson 15, sensors are presented as a key technology for automated data collection, distinct from methods requiring direct human interaction."
+  },
+  {
+    "title": "Unit 3 Vocabulary: Trigger",
+    "body": "A trigger is an event or condition that initiates an action or response. In Unit 3 Lesson 15, triggers are crucial components in how sensors operate. When a specific event occurs (the trigger), it activates the sensor or the system connected to it, leading to a predefined action, such as the collection of data. Examples from the lesson include a colored flag being raised or a customer making a purchase with a loyalty card."
+  },
+  {
+    "title": "Unit 3 Vocabulary: Algorithm",
+    "body": "An algorithm is a set of step-by-step instructions or rules designed to perform a specific task or solve a particular problem. In Unit 3 Lesson 15, algorithms are fundamental to how sensors collect data. Sensors follow these predefined rules to measure, process, and record information from their environment. This concept is reinforced through the interactive activity where the roles and actions of Triggers, Sensors, and Collectors follow a specific, rule-based process."
+  },
+  {
+    "title": "Unit 3 Lab 3B: Data Collection Methods",
+    "body": "Within Unit 3, students have explored various data collection methods. These include traditional approaches like experiments and observational studies, as well as interactive methods such as surveys. Additionally, students have learned about acquiring data from online sources, specifically through a URL, as covered in [Lab 3B](lab3b.md). Unit 3 Lesson 15 introduces sensors as another significant method for data collection."
+  }
+]

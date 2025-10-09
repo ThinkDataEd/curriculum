@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Unit 4 Lab Overview",
+    "body": "This document outlines the objectives and new functions for each lab in Unit 4. The labs themselves provide detailed instructions on using these functions. For additional examples and resources, consult the RStudio Lab Codes and Functions file. Unit 4 focuses on various aspects of modeling and data analysis, including linear regression, model evaluation, cross-validation, correlation, polynomial models, tree-based models, and k-means clustering."
+  },
+  {
+    "title": "Unit 4 Lab4A: Line of Best Fit and Plotting",
+    "body": "In Unit 4 Lab4A, students will learn to compute the equation of a line of best fit and how to plot lines using the `add_line()` function. Key R functions introduced include `lm(y ~ x, data)` for fitting a linear model and `add_line(intercept, slope)` for adding a line to a plot based on calculated intercept and slope. This lab provides a foundational understanding of linear relationships within data."
+  },
+  {
+    "title": "Unit 4 Lab4B: Model Predictions and MSE",
+    "body": "Unit 4 Lab4B focuses on evaluating linear models by computing predictions and residuals. Students will learn about the mean squared error (MSE) and understand that the line of best fit is the one that minimizes this error. The primary R functions covered are `summarize()` for calculating statistics and `predict(model)` for generating predictions from a fitted model."
+  },
+  {
+    "title": "Unit 4 Lab4C: Cross-Validation for Overfitting",
+    "body": "In Unit 4 Lab4C, students will explore the concept of cross-validation as a technique to protect against overfitting. They will learn the three essential steps of cross-validation and apply it to predict the heights of individuals not included in the training data. The function `predict(model, newdata)` is central to this lab, allowing predictions on unseen data."
+  },
+  {
+    "title": "Unit 4 Lab4D: Correlation Coefficients",
+    "body": "Unit 4 Lab4D introduces the computation and interpretation of correlation coefficients. Students will use the `cor()` function to determine the strength and direction of linear relationships between variables. This lab aims to answer which variables serve as better predictors for a movie's `audience_rating` when a line of best fit is employed."
+  },
+  {
+    "title": "Unit 4 Lab4E: Multiple Predictor Variables",
+    "body": "In Unit 4 Lab4E, students will extend their modeling skills to include multiple predictor variables in a linear model. They will learn to fit models using the syntax `lm(y ~ x1 + x2, data)`. This lab investigates whether incorporating more variables into a model leads to improved predictive accuracy."
+  },
+  {
+    "title": "Unit 4 Lab4F: Polynomial Models for Nonlinear Data",
+    "body": "Unit 4 Lab4F covers fitting polynomial models to data that exhibits nonlinear patterns. Students will learn that increasing the degree of a polynomial allows for a curvier fit. Key functions include `add_curve(model, col)` for visualizing the fitted curve and `poly(x, degree)` for creating polynomial terms."
+  },
+  {
+    "title": "Unit 4 Lab4G: Tree-Based Models and Classification",
+    "body": "In Unit 4 Lab4G, students will learn to make predictions using decision trees and understand how to evaluate their performance using the misclassification rate for categorical variables. The lab introduces functions like `tree(y ~ x1 + x2, cp, minsplit, data)` for growing trees and `treeplot(model)` for visualizing the resulting tree structure."
+  },
+  {
+    "title": "Unit 4 Lab4H: K-Means Clustering",
+    "body": "Unit 4 Lab4H introduces the k-means clustering algorithm. Students will learn how to use the `kclusters(y ~ x, data, k)` function to group data points into a specified number of clusters (`k`). This lab focuses on the practical application of unsupervised learning for identifying patterns and groupings within datasets."
+  },
+  {
+    "title": "R Function: add_line()",
+    "body": "The `add_line()` function is used in Unit 4 Lab4A to plot a line on a graph, typically representing a line of best fit. It requires the intercept and slope of the line as arguments. This function aids in visualizing the relationship between variables and the model's fit."
+  },
+  {
+    "title": "R Function: lm() - Linear Models",
+    "body": "The `lm()` function is fundamental for fitting linear models in R, introduced in Unit 4 Lab4A and revisited in Lab4E. The basic syntax `lm(y ~ x, data)` fits a model where `y` is the response variable and `x` is the predictor variable. For multiple predictors, the syntax extends to `lm(y ~ x1 + x2, data)` as seen in Unit 4 Lab4E. It calculates coefficients for the intercept and slopes."
+  },
+  {
+    "title": "R Function: summarize()",
+    "body": "The `summarize()` function, used in Unit 4 Lab4B, is a general utility for computing summary statistics of data. In the context of linear models, it can be used to calculate metrics such as mean squared error (MSE) when applied to residuals or predictions, helping to evaluate model performance."
+  },
+  {
+    "title": "R Function: predict() - Model Predictions",
+    "body": "The `predict()` function is crucial for obtaining predictions from a fitted model. In Unit 4 Lab4B, `predict(model)` generates predictions for the data used to train the model. In Unit 4 Lab4C, `predict(model, newdata)` extends this capability to generate predictions for new, unseen data, which is essential for cross-validation and evaluating a model's generalization ability."
+  },
+  {
+    "title": "R Function: cor() - Correlation Coefficient",
+    "body": "The `cor()` function, introduced in Unit 4 Lab4D, computes the correlation coefficient between pairs of variables. This statistical measure indicates the strength and direction of a linear relationship. It is used to assess which variables might be good predictors of a target variable like `audience_rating`."
+  },
+  {
+    "title": "R Function: add_curve()",
+    "body": "The `add_curve()` function, used in Unit 4 Lab4F, is designed to plot a fitted curve, typically from a polynomial model, onto a graph. It takes the model object and optionally a color argument (`col`). This helps visualize nonlinear relationships and the flexibility of higher-degree polynomial fits."
+  },
+  {
+    "title": "R Function: poly() - Polynomial Terms",
+    "body": "The `poly()` function is used in conjunction with `lm()` in Unit 4 Lab4F to create polynomial terms for fitting nonlinear data. `poly(x, degree)` generates orthogonal polynomial terms for predictor `x` up to the specified `degree`. This allows for fitting more complex, curved relationships than simple linear models."
+  },
+  {
+    "title": "R Function: tree() - Decision Trees",
+    "body": "The `tree()` function is used in Unit 4 Lab4G to grow decision trees. The formula `tree(y ~ x1 + x2, cp, minsplit, data)` specifies the response variable `y`, predictor variables `x1` and `x2`, and parameters like `cp` (complexity parameter) and `minsplit` (minimum observations per split) to control the tree's structure. This function is key for classification and regression tasks using tree-based models."
+  },
+  {
+    "title": "R Function: treeplot()",
+    "body": "The `treeplot()` function, introduced in Unit 4 Lab4G, is used to visualize a decision tree model that has been fitted using the `tree()` function. This graphical representation helps in understanding the splits and decision rules learned by the model."
+  },
+  {
+    "title": "R Function: kclusters() - K-Means Clustering",
+    "body": "The `kclusters()` function is central to Unit 4 Lab4H for performing k-means clustering. The syntax `kclusters(y ~ x, data, k)` indicates that `y` and `x` are variables within the `data` to be clustered, and `k` is the desired number of clusters. This function partitions the data into `k` distinct groups based on similarity."
+  },
+  {
+    "title": "Concept: Line of Best Fit",
+    "body": "The line of best fit, often determined using linear regression (e.g., `lm(y ~ x, data)`), represents the linear trend in a dataset. It is the line that minimizes the sum of the squared vertical distances (residuals) between the data points and the line itself. Unit 4 Lab4A introduces its computation and plotting with `add_line()`, and Lab4B explains its relation to minimizing mean squared error."
+  },
+  {
+    "title": "Concept: Mean Squared Error (MSE)",
+    "body": "Mean Squared Error (MSE) is a metric used to evaluate the performance of regression models, as discussed in Unit 4 Lab4B. It is calculated as the average of the squared differences between the actual values and the predicted values (residuals). The line of best fit is defined as the line that minimizes this MSE."
+  },
+  {
+    "title": "Concept: Cross-Validation",
+    "body": "Cross-validation is a resampling technique used to evaluate how a model will generalize to an independent dataset, crucial for preventing overfitting. As taught in Unit 4 Lab4C, it involves splitting the data into multiple folds, training the model on a subset of folds, and testing on the remaining fold. This process is repeated, and the results are averaged. The function `predict(model, newdata)` is key to this evaluation."
+  },
+  {
+    "title": "Concept: Overfitting",
+    "body": "Overfitting occurs when a model learns the training data too well, including its noise and outliers, leading to poor performance on new, unseen data. Unit 4 Lab4C introduces cross-validation as a method to detect and mitigate overfitting. Models that overfit often have very low error on training data but high error on test data."
+  },
+  {
+    "title": "Concept: Correlation Coefficient",
+    "body": "The correlation coefficient, computed using `cor()` in Unit 4 Lab4D, measures the strength and direction of the linear association between two quantitative variables. Values range from -1 (perfect negative linear correlation) to +1 (perfect positive linear correlation), with 0 indicating no linear correlation. It helps identify potential predictor variables."
+  },
+  {
+    "title": "Concept: Polynomial Model",
+    "body": "A polynomial model extends linear regression by including polynomial terms (e.g., x², x³) of the predictor variables. As explored in Unit 4 Lab4F, this allows the model to capture nonlinear, curved relationships in the data. The degree of the polynomial determines how complex and curvy the fitted line can be, visualized using `add_curve()`."
+  },
+  {
+    "title": "Concept: Decision Trees",
+    "body": "Decision trees are a type of supervised learning algorithm used for both classification and regression. In Unit 4 Lab4G, students learn to grow trees using `tree()` and visualize them with `treeplot()`. Trees partition the feature space into rectangular regions, making predictions based on the majority class (classification) or average value (regression) within each region."
+  },
+  {
+    "title": "Concept: Misclassification Rate",
+    "body": "The misclassification rate is a common metric for evaluating classification models, including decision trees discussed in Unit 4 Lab4G. It represents the proportion of instances that are incorrectly classified by the model. A lower misclassification rate indicates better predictive performance for categorical variables."
+  },
+  {
+    "title": "Concept: K-Means Clustering",
+    "body": "K-means clustering is an unsupervised machine learning algorithm used to partition a dataset into `k` distinct, non-overlapping clusters. As demonstrated in Unit 4 Lab4H using `kclusters()`, the algorithm iteratively assigns data points to the nearest cluster centroid and then recalculates the centroid's position. It is useful for identifying natural groupings within data."
+  }
+]

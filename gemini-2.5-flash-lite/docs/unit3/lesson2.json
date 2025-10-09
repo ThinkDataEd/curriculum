@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Unit 3 Lesson 2",
+    "body": "This lesson introduces the concept of an experiment as a method for data collection, focusing on identifying its key elements and understanding the difference between causation and association. Students will analyze headlines to distinguish between claims of cause-and-effect and mere correlation. The MythBusters video \"Are Hands-Free Calls Really Safer While Driving?\" will be used to illustrate these concepts. Key vocabulary such as experiment, subjects, treatment, treatment group, control group, random assignment, outcome, research question, and statistic will be defined and applied. The lesson emphasizes the importance of controlled experiments, including the roles of treatment and response variables, comparison/control groups, random assignment, and blinding (including placebos and double-blinding) to establish causation. Students will deconstruct an experiment by identifying its components within the context of the video. The lesson also addresses the concept of confounding variables and the critical role of random assignment in establishing causal relationships."
+  },
+  {
+    "title": "Unit 3 Lesson 2: What is an Experiment?",
+    "body": "Unit 3 Lesson 2 focuses on understanding the fundamental principles of experimental design. The primary objective is for students to learn the essential elements that constitute a scientific experiment and to grasp the meaning of 'causation.' A key skill developed is the ability to differentiate between claims that suggest a cause-and-effect relationship (causation) and those that merely indicate a connection or tendency between variables (association or correlation). The lesson materials include a video from MythBusters and various headlines designed to prompt discussion and critical thinking about these concepts. Vocabulary introduced includes experiment, subjects, treatment, treatment group, control group, random assignment, outcome, research question, and statistic."
+  },
+  {
+    "title": "Essential Concepts of Controlled Experiments",
+    "body": "Science often seeks to answer the question of 'what causes things to happen?' To address this, controlled experiments are crucial. These experiments possess several key features: 1. A treatment variable and a response variable are identified, with the goal of determining if the treatment causes a measurable change in the response variable. 2. A comparison or control group is established to provide a baseline for comparison. 3. Subjects are randomly assigned to either the treatment or control group (randomized assignment). 4. Subjects are unaware of which group they belong to (a 'blind' study), which may involve using a placebo for the control group. 5. Those measuring the response variable are also unaware of the group assignments (a 'double-blind' study if both subjects and measurers are unaware). These elements help ensure that observed effects are due to the treatment and not other factors."
+  },
+  {
+    "title": "Vocabulary: Experiment",
+    "body": "An experiment is a method of data collection that can be repeated and has a set of possible results. It is a systematic procedure carried out to support, refute, or validate a hypothesis. Experiments provide insight into cause-and-effect by demonstrating that a change in one variable causes an observable change in another variable. This contrasts with observational studies, where relationships are observed without intervention. In the context of Unit 3 Lesson 2, experiments are presented as a primary tool for establishing causation."
+  },
+  {
+    "title": "Vocabulary: Subjects",
+    "body": "In the context of an experiment, subjects are the individuals or objects that are participating in the study. These can be people, animals, cells, or even inanimate objects, depending on the nature of the research. The selection and characteristics of subjects are critical for the validity and generalizability of the experimental results. In Unit 3 Lesson 2, the subjects are the 30 adults participating in the MythBusters driving simulation."
+  },
+  {
+    "title": "Vocabulary: Treatment",
+    "body": "The treatment in an experiment is the variable that is deliberately manipulated or changed by the researchers to investigate its potential influence on an outcome. It is the factor being tested to see if it causes a specific effect. The treatment is also referred to as the explanatory variable or the independent variable because its variation is thought to explain changes observed in the outcome. In Unit 3 Lesson 2, the treatment is related to using a hands-free phone while driving."
+  },
+  {
+    "title": "Vocabulary: Treatment Group",
+    "body": "The treatment group is a subset of the subjects in an experiment that receives the specific treatment or intervention being studied. This group is exposed to the condition or variable that the researchers are testing for its effects. By comparing the outcomes of the treatment group to those of a control group (or another treatment group), researchers can assess the impact of the treatment. In Unit 3 Lesson 2, the treatment group consists of the 15 people who used a hands-free phone while driving."
+  },
+  {
+    "title": "Vocabulary: Control Group",
+    "body": "The control group in an experiment is a group of subjects that does not receive the experimental treatment. Instead, they might receive no treatment, a standard treatment, or a placebo. The purpose of the control group is to serve as a baseline or point of comparison against which the effects of the treatment on the treatment group can be measured. This helps researchers isolate the effect of the treatment itself, distinguishing it from other factors that might influence the outcome. In Unit 3 Lesson 2, the control group comprised the 15 people who used a hands-on phone while driving."
+  },
+  {
+    "title": "Vocabulary: Random Assignment",
+    "body": "Random assignment is a crucial procedure in experimental design where subjects are allocated to either the treatment group or the control group by chance. This means that each subject has an equal probability of being placed in any given group. The primary goal of random assignment is to create groups that are as similar as possible in all respects, except for the treatment itself. This minimizes the risk of confounding variables, which are extraneous factors that could influence the outcome and lead to incorrect conclusions about causation. In Unit 3 Lesson 2, random assignment is highlighted as essential for establishing causation."
+  },
+  {
+    "title": "Vocabulary: Outcome",
+    "body": "The outcome, also known as the response variable or dependent variable, is the variable that the treatment in an experiment is intended to influence. Researchers measure the outcome to see if the treatment has had an effect. The outcome is 'dependent' because its value is hypothesized to depend on the independent (treatment) variable. In Unit 3 Lesson 2, the outcome measured in the MythBusters experiment was whether a driver was considered 'safe' (i.e., passed the driving test correctly without accidents)."
+  },
+  {
+    "title": "Vocabulary: Research Question",
+    "body": "The research question is the central inquiry that an experiment is designed to answer. It guides the entire experimental process, from the formulation of hypotheses to the design of the study and the interpretation of results. A well-defined research question clearly states the relationship between variables that the experiment aims to investigate. In Unit 3 Lesson 2, the research question addressed by the MythBusters video is: 'Are Hands-Free Calls Really Safer While Driving?'"
+  },
+  {
+    "title": "Vocabulary: Statistic",
+    "body": "A statistic is a numerical value that summarizes characteristics of a sample drawn from a larger population. In the context of experiments, statistics are used to describe the data collected from the treatment and control groups and to make inferences about the effects of the treatment. Examples include means, proportions, and measures of variability. These summary numbers help researchers understand the findings and determine if the observed differences between groups are statistically significant. In Unit 3 Lesson 2, an example of a statistic would be the percentage of participants in each group who passed the driving test."
+  },
+  {
+    "title": "Causation vs. Association Discussion",
+    "body": "Unit 3 Lesson 2 begins by presenting students with several headlines to discuss their implications. The core of this discussion is differentiating between causation and association. Causation implies a direct cause-and-effect relationship (e.g., heat causes water to boil). Association, or correlation, means that two variables tend to occur together, but one does not necessarily cause the other (e.g., blanket sales in Canada are associated with brush fires in Australia due to a common underlying cause – seasons). Students analyze headlines, identify which type of claim is being made, and pinpoint keywords that suggest causation (e.g., 'cause,' 'reduce,' 'impact') versus association (e.g., 'linked,' 'more/less,' 'connected'). The lesson aims to equip students with the ability to critically evaluate claims and understand the distinction between correlation and causation."
+  },
+  {
+    "title": "MythBusters Video Analysis: Hands-Free Calls",
+    "body": "The MythBusters video 'Are Hands-Free Calls Really Safer While Driving?' serves as a practical case study for understanding experimental design. Before viewing, students are prompted to consider the research question implied by the headline: 'Are Hands-Free Calls Really Safer While Driving?' They discuss whether this implies causation or correlation, and how one might design an investigation to find out. After watching the video, students analyze how the MythBusters designed their investigation, including the steps taken, the subjects involved, and the criteria for determining 'safety' (passing the driving course). This analysis directly leads into identifying the specific components of the experiment conducted by the MythBusters."
+  },
+  {
+    "title": "Elements of the MythBusters Experiment",
+    "body": "Following the MythBusters video, students identify the key elements of the experiment conducted: Research Question ('Are Hands-Free Calls Really Safer While Driving?'), Subjects (30 adults), Treatment (using a hands-free phone while driving), Treatment Group (15 people using hands-free phones), Control Group (15 people using hands-on phones), Outcome (successful completion of the driving test, indicating safe driving), and Statistic (e.g., percentage of each group passing the test). The lesson notes that while a control group is common, it's not always necessary. The discussion also touches upon whether random assignment was used, highlighting its importance."
+  },
+  {
+    "title": "Importance of Random Assignment and Confounding Variables",
+    "body": "Unit 3 Lesson 2 emphasizes the critical role of random assignment in establishing causation. Students are asked why the MythBusters followed specific steps in their experiment and consider what might happen if less-experienced drivers were intentionally placed in one group and more-experienced drivers in another. This scenario introduces the concept of confounding variables – extraneous factors (like driving experience) that can provide an alternative explanation for the observed results, making it impossible to conclude that the treatment alone caused the effect. Random assignment is presented as the standard method to ensure that groups are comparable, thereby mitigating the influence of confounding variables and strengthening the validity of causal claims."
+  },
+  {
+    "title": "Defining Causation: The Need for Controlled Experiments",
+    "body": "To scientifically determine causation, controlled experiments are essential. Unit 3 Lesson 2 explains that science is often driven by the question 'What causes things to happen?' Controlled experiments provide a structured approach to answer this. Key features include a manipulated treatment variable and a measured response variable, a comparison (often a control group), and crucially, random assignment of subjects to groups. The inclusion of blinding (where subjects and/or researchers are unaware of group assignments) further reduces bias. Without these elements, particularly random assignment, observed associations cannot be confidently attributed as causal relationships, as confounding factors may be responsible for the observed effects. This lesson stresses that without random assignment, causation cannot be reliably determined."
+  }
+]

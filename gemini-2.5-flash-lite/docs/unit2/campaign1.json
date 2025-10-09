@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Abstract of Campaign Guidelines – Stress/Chill",
+    "body": "This document outlines Campaign 1, focusing on understanding stress and chill levels. It addresses the increasing stress reported by people of all ages and poses key questions about factors influencing stress, personality differences, social preferences, and environmental impacts. The campaign's objectives include comparing groups, understanding variability, using permutations for modeling, performing informal inference, and conducting simulations for predictions. It details survey questions related to location, reason for being there, social company, and stress levels, collected over approximately two weeks at randomly selected times. The campaign emphasizes continuous data collection, using RStudio for analysis, and culminates in a practicum where students analyze their stress/chill data."
+  },
+  {
+    "title": "Unit 2 Campaign 1: The Issue of Stress",
+    "body": "Campaign 1, \"Stress/Chill,\" addresses the growing concern of increased stress levels reported by individuals across all age groups, including children and teenagers. The campaign aims to explore the contributing factors to this stress by posing fundamental questions. These questions delve into identifying personal stress/chill level determinants, exploring how personality types influence happiness or sadness, understanding individual preferences for solitude versus social interaction, and examining the role of environment in affecting stress/chill levels. By investigating these aspects, the campaign seeks to provide a framework for understanding the multifaceted nature of stress in modern life."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Campaign Objectives",
+    "body": "The primary objectives of Unit 2 Campaign 1 are to equip students with the skills to compare different groups and comprehend the variability present both within and between these groups. Students will gain proficiency in using permutations as a tool to model this variability, enabling them to conduct informal inference. Furthermore, the campaign aims to teach students how to utilize simulations to make predictions about stress and chill levels. Successfully completing this campaign will allow students to analyze and interpret data related to personal well-being and environmental factors."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Survey Data Collection Methodology",
+    "body": "This campaign involves collecting data through surveys administered at randomly selected times over approximately two weeks, including at least one weekend day. Random times are generated for each of the six days to ensure varied sampling. If a selected time falls within school hours, teachers have discretion on whether to proceed. The survey collects categorical and text data on location (school, work, home, etc.), the reason for being there (in one word), the number of people present, the type of company (alone, friends/family, colleagues, etc.), and self-reported stress levels on a scale of 0 (not stressed) to 3 (very stressed). Automatic data collection includes location (latitude, longitude), time, and date."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Survey Question Variables",
+    "body": "The survey for Unit 2 Campaign 1 collects data on several variables. 'where' is a categorical variable indicating the respondent's location (e.g., school, work, home, public place, others' house, commuting). 'why' is a text variable capturing the primary reason for being in that location in one word. 'howmanypeople' is an integer variable recording the number of people present, excluding the respondent. 'who' is a categorical variable describing the company (alone, friends and/or family, teachers and classmates, strangers, coworkers). 'stress' is an integer variable from 0 (not stressed at all) to 3 (very stressed) measuring the current stress level. Additionally, automatic variables include 'location' (lat, long), 'time', and 'date'."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Data Collection Duration and Timing",
+    "body": "The data collection phase for Unit 2 Campaign 1 is designed to span about two weeks. Surveys are to be taken two to three times per day. These times are determined by generating random numbers to ensure a diverse sampling of the day and week. It is recommended that the data collection period includes at least two weekend days to capture variations in stress/chill levels during non-working/school days. The specific timing ensures data is gathered across different parts of the day and week."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Motivation for Data Collection",
+    "body": "Continuous data collection is crucial for the success of Unit 2 Campaign 1. Students are motivated to maintain data gathering by using the Plot App to visualize their data after the initial day. This visual feedback allows for immediate discussion about preliminary findings, such as why most people might be reporting stress. Teachers are encouraged to guide these discussions and prompt students to make predictions about their stress/chill levels based on time of day (morning vs. evening), day of the week (weekday vs. weekend), and group differences. Monitoring data collection progress via the Campaign Monitoring tool also serves as a motivational tool."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Technical Analysis Environment",
+    "body": "For Unit 2 Campaign 1, the primary technical environment for data analysis will be RStudio. Students will utilize this platform to process, analyze, and visualize the data collected throughout the campaign. RStudio provides a comprehensive set of tools for statistical computing and graphics, enabling students to perform the complex analyses required to meet the campaign's objectives, including understanding variability, conducting informal inference, and making predictions through simulations."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Guiding Questions for Analysis",
+    "body": "The guiding questions for Unit 2 Campaign 1 are designed to help students engage deeply with their collected data and develop analytical skills. These include generating and testing predictions about stress/chill levels, calculating the typical class stress/chill level, and comparing individual levels to the class average. Further questions probe variations based on weekdays versus weekends, the type of company kept, and specific conditions affecting stress levels. Students are also encouraged to formulate their own research questions, fostering independent inquiry and critical thinking throughout the analysis process."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Campaign Report and Practicum",
+    "body": "The culmination of Unit 2 Campaign 1 is the completion of the 'Stress/Chill Practicum.' In this practicum, students are required to analyze the data they have collected throughout the campaign. This involves applying the data analysis skills and RStudio techniques learned during the unit to interpret their findings. The report will serve as a demonstration of their ability to understand variability, perform informal inference, and draw conclusions about the factors influencing stress and chill levels based on empirical evidence."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Understanding Variability (Objective)",
+    "body": "A key objective of Unit 2 Campaign 1 is for students to gain a comprehensive understanding of variability. This includes learning to compare different groups based on the collected stress/chill data and recognizing the inherent variations within individual groups. Students will explore how factors like location, company, and time of day contribute to these variations. The campaign uses permutations and simulations to model and understand this variability, providing a foundation for statistical inference."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Permutations and Informal Inference (Objective)",
+    "body": "Unit 2 Campaign 1 introduces students to the concepts of permutations and informal inference. Permutations are used as a method to model the variability observed in the stress/chill data, helping students understand how random chance might influence observed differences between groups. Informal inference allows students to make reasoned conclusions about the population based on their sample data, even without formal hypothesis testing. This hands-on approach builds intuition for statistical reasoning."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Simulations for Prediction (Objective)",
+    "body": "As part of Unit 2 Campaign 1, students will learn to conduct simulations to make predictions. By using the permutation methods and RStudio, they can simulate potential outcomes under different assumptions. This allows them to predict how stress/chill levels might change under various conditions or to assess the likelihood of observing certain patterns in the data. Simulations are a powerful tool for exploring complex relationships and building predictive models based on the collected data."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Categorical Variable - 'where'",
+    "body": "The 'where' variable in Unit 2 Campaign 1 is a categorical data type used to record the respondent's location at the time of the survey. The possible responses are predefined categories: 'school', 'work', 'home', 'public place', 'others' house', and 'commuting'. This variable helps to analyze how different environments influence stress and chill levels, contributing to the campaign's goal of understanding the impact of location on well-being."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Text Variable - 'why'",
+    "body": "The 'why' variable in Unit 2 Campaign 1 is a text-based data type. It prompts respondents to describe, in a single word, their reason for being in their current location. This qualitative data can provide nuanced insights into the context of people's activities and how these activities might be associated with their reported stress levels. Analyzing this variable can reveal underlying motivations or tasks contributing to a person's state."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Integer Variable - 'howmanypeople'",
+    "body": "The 'howmanypeople' variable in Unit 2 Campaign 1 is an integer data type. It measures the number of individuals present with the respondent at the time of the survey, not including the respondent themselves. This variable helps to investigate the relationship between social context (being alone versus with a group of a certain size) and reported stress levels, contributing to the understanding of social factors influencing well-being."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Categorical Variable - 'who'",
+    "body": "The 'who' variable in Unit 2 Campaign 1 is categorical, indicating the type of people the respondent is with. The categories include 'alone', 'friends and/or family', 'teachers and classmates', and 'coworkers'. This variable is crucial for examining how social dynamics and the specific composition of one's company affect stress and chill levels, adding another dimension to the analysis of well-being factors."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Integer Variable - 'stress'",
+    "body": "The 'stress' variable in Unit 2 Campaign 1 is an integer measured on a scale from 0 to 3. A score of 0 indicates 'not stressed at all,' while a score of 3 signifies 'very stressed.' This is the primary dependent variable of the campaign, allowing for quantitative analysis of self-reported stress levels. Students will analyze how this variable correlates with other collected data points to understand the causes and patterns of stress."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Automatic Variables - Location, Time, Date",
+    "body": "Unit 2 Campaign 1 utilizes automatic data collection for 'location', 'time', and 'date'. The 'location' variable records the geographical coordinates (latitude and longitude) of the respondent. 'time' captures the specific time of day the survey was completed, and 'date' records the day it was submitted. These variables are essential for analyzing the impact of geographical context, time of day, and day of the week on stress and chill levels, providing objective contextual data for the campaign."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Plot App Usage",
+    "body": "The Plot App is an important tool introduced in Unit 2 Campaign 1 for visualizing collected data. After the first day of data collection, students are encouraged to use this app to examine their results. This immediate visual feedback facilitates discussion and helps students identify initial trends or patterns in stress/chill levels. It serves as a motivational tool and an initial step in the data analysis process, prompting students to ask questions and form hypotheses."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Campaign Monitoring Tool",
+    "body": "The Campaign Monitoring tool is utilized in Unit 2 Campaign 1 to track data collection progress. After the initial day, students and teachers can use this tool to see who has contributed the most data. This serves as a motivational element, encouraging consistent participation and ensuring a sufficient dataset is gathered for analysis. It helps maintain momentum and engagement throughout the data collection period."
+  },
+  {
+    "title": "Unit 2 Campaign 1: Stress/Chill Practicum",
+    "body": "The Stress/Chill Practicum is the capstone activity for Unit 2 Campaign 1. Students are tasked with analyzing the stress/chill data they have collected over the campaign period. This practicum requires them to apply the data analysis and RStudio skills acquired during the unit to interpret their findings. The goal is to produce a comprehensive analysis that addresses the campaign's guiding questions and potentially explores student-generated research questions, demonstrating their understanding of variability and inference."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract of Unit 1, Section 1: Data Are All Around",
+    "body": "This section, 'Data Are All Around,' is the first in Unit 1 and spans 7 instructional days. It introduces students to the pervasive nature of data in everyday life and the importance of organizing it. Key concepts include understanding that data collected from surveys exhibit variability, and that tools like distributions, graphs, and plots are essential for organizing data to comprehend this variability. Statistical questions are framed around phenomena with variability, which can be simplified using basic statistics. The section emphasizes the role of computers in transforming data handling and analysis. Learning objectives cover summarizing and representing data, comparing data sets using statistics, representing relationships between quantitative variables, constructing arguments, using tools strategically, handling data in computational formats, understanding data representations, and participating in data collection campaigns. Language objectives focus on using complex sentences and mathematical vocabulary to discuss data concepts. Data collection methods include maintaining a data diary, using 'Stick Figures' data, organizing class data, and a 'Food Habits Participatory Sensing Campaign'. The section also includes a legend for activity icons."
+  },
+  {
+    "title": "Enduring Understandings of Data",
+    "body": "Data are fundamental to our daily existence and play a significant role in understanding real-life events and people. Organizing data provides concrete evidence. A key aspect of data collection, particularly through surveys, is the inherent variability in the responses. This variability can be effectively managed and understood using tools such as distributions, graphs, and plots. Statistical questions are designed to address phenomena (people, processes, or events) that naturally exhibit variability. While variability can be complex, basic statistical methods can help simplify and interpret these situations. This foundational understanding sets the stage for data analysis and interpretation throughout the unit."
+  },
+  {
+    "title": "Engagement: Target Story Video",
+    "body": "The 'Target Story' is designed to engage students by illustrating the ubiquitous nature of data in our world. The video highlights how the advancement of computer technology has revolutionized the collection, utilization, and analysis of data. Students are encouraged to view this video to grasp the broad impact of data in modern society. It is recommended to pre-load the video before class to prevent any potential technical issues. The video can be accessed via a provided YouTube link and embed code."
+  },
+  {
+    "title": "Learning Objectives: Statistical/Mathematical",
+    "body": "This unit focuses on statistical and mathematical objectives related to data representation and interpretation. Specifically, students will learn to summarize, represent, and interpret data for a single count or measurement variable. This includes representing data using various plots such as dotplots, histograms, bar plots, and boxplots on the real number line (S-ID 1). Students will also learn to use appropriate statistics, like the median and mean, to compare the center of two or more different data sets, considering the shape of their distributions (S-ID 2). Furthermore, they will represent data involving two quantitative variables on a scatterplot and describe the relationship between these variables (S-ID 6). These objectives build a foundation for understanding data distributions and comparisons."
+  },
+  {
+    "title": "Learning Objectives: Standards for Mathematical Practice",
+    "body": "In Unit 1, students will focus on developing key Standards for Mathematical Practice (SMP). Specifically, SMP-3, 'Construct viable arguments and critique the reasoning of others,' will be emphasized, encouraging students to articulate their mathematical thinking and evaluate the reasoning of their peers. Additionally, SMP-5, 'Use appropriate tools strategically,' will be a core focus, guiding students to select and effectively employ the right tools, including software and graphical representations, for data analysis. These practices are crucial for developing robust mathematical and data science skills throughout the unit."
+  },
+  {
+    "title": "Learning Objectives: Data Science",
+    "body": "The data science objectives for this unit aim to provide students with practical experience in handling data. Students will learn to organize data using common structures like rectangular or spreadsheet formats, recognizing these as essential data storage mechanisms. They will also understand that everyday activities can be observed and recorded as data. A key distinction to be made is between plots used for categorical versus numerical variables. Students will interpret and understand graphs representing distributions for both types of variables. This hands-on approach prepares them for more complex data analysis tasks."
+  },
+  {
+    "title": "Learning Objectives: Applied Computational Thinking using RStudio",
+    "body": "This unit incorporates applied computational thinking, specifically utilizing RStudio. Students will learn to work effectively in team settings to solve data-related problems. A fundamental concept they will explore is how data, information, and knowledge are represented in formats suitable for computational processing. A significant activity involves collecting, uploading, and sharing personal data through a 'Participatory Sensing' campaign. Students will also investigate different software-based representations of data distributions and use RStudio to analyze data collected during the campaign."
+  },
+  {
+    "title": "Learning Objectives: Real-World Connections",
+    "body": "A primary goal of this unit is to foster an awareness among students that data permeates their everyday lives. They will learn that information can be systematically collected and organized. The immense power of computers in simplifying the organization, storage, retrieval, and analysis of data for problem-solving and decision-making will be highlighted. Students will begin to recognize the direct relevance of data collection and analysis to their personal experiences. Crucially, they will understand that raw data, once interpreted, can lead to significant discoveries and deeper understandings."
+  },
+  {
+    "title": "Language Objectives for Data Discussion",
+    "body": "Students will enhance their communication skills regarding data through specific language objectives. Firstly, they will utilize complex sentence structures to articulate their comprehension of data, including its collection, usage, and manipulation. Secondly, students are expected to employ precise mathematical vocabulary when describing data and the various methods used for its organization. Finally, they will practice writing informative short reports that integrate data science concepts and skills, further solidifying their understanding and ability to communicate data-related findings."
+  },
+  {
+    "title": "Data Collection Methods Overview",
+    "body": "Unit 1, Section 1 employs several data collection methods to engage students with the concepts of data. Students will maintain a 'Data Diary' for 24 hours to record their personal data output, providing a first-hand experience with data generation. They will also work with data provided in the 'Stick Figures' file, which will serve as a basis for class discussions on data organization. Additionally, students will participate in the 'Food Habits Data Collection' activity using paper and pencil. A key component is the 'Food Habits Participatory Sensing Campaign,' where students collect data on their snacking habits, applying learned data collection and organizational skills."
+  },
+  {
+    "title": "Data Diary: Tracking Daily Data Output",
+    "body": "As a method for data collection in Unit 1, Section 1, students are tasked with keeping a 'Data Diary' for a full 24-hour period. This activity requires them to meticulously track their own daily data output. By engaging in this personal data collection, students gain a practical, hands-on understanding of how data is generated through everyday actions and observations. This diary serves as a primary source of individual data, which can later be analyzed and discussed in the context of variability and organization, reinforcing the idea that 'Data Are All Around'."
+  },
+  {
+    "title": "Stick Figures Data and Organization",
+    "body": "In Unit 1, Section 1, students will engage with a dataset derived from 'Stick Figures.' This dataset will be used to introduce the concepts of data organization and analysis. After gathering the data from the cards provided, the class will collectively discuss and determine the most effective ways to organize this information. This collaborative process aims to help students understand that different organizational structures can be applied to the same data, and that the choice of organization impacts how the data can be interpreted. This activity bridges data collection with initial data structuring."
+  },
+  {
+    "title": "Food Habits Data Collection Activity",
+    "body": "As part of Unit 1, Section 1, students will participate in a structured data collection activity focused on their eating habits, specifically 'Food Habits.' Using a dedicated activity sheet, students will collect data through paper and pencil methods. This hands-on exercise allows them to practice systematic data gathering related to a tangible aspect of their daily lives. The collected data from this activity can then be used for further analysis, such as creating plots and summarizing findings, thereby reinforcing the learning objectives related to data representation and interpretation."
+  },
+  {
+    "title": "Food Habits Participatory Sensing Campaign",
+    "body": "A core data science activity in Unit 1, Section 1 is the 'Food Habits Participatory Sensing Campaign.' In this campaign, students actively collect data concerning their personal snacking habits. This initiative not only provides a real-world context for data collection but also aligns with the computational thinking objective of collecting and sharing personal data. The data generated through this campaign will be utilized for analysis using software, allowing students to explore distributions, create plots, and interpret findings related to a common and relatable topic, reinforcing the relevance of data in their lives."
+  },
+  {
+    "title": "Legend for Activity Icons",
+    "body": "This unit utilizes a legend to help students identify different types of activities or resources through visual icons. The provided image, referenced as '../img/legend.png', contains these icons. Understanding this legend is important for navigating the course materials and correctly interpreting instructions or information presented throughout Unit 1, Section 1. While the specific icons are not detailed here, the existence of a legend signifies a structured approach to presenting diverse elements within the curriculum, ensuring clarity for the students."
+  }
+]

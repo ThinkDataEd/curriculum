@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Abstract for Lab 3B - Confound it all!",
+    "body": "This document outlines Lab 3B, titled 'Confound it all!', which focuses on importing and analyzing observational study data to explore factors associated with lung capacity. The lab guides users through importing data directly from a URL into R, cleaning and preparing the data by renaming variables and changing data types, and then performing data analysis. Key steps include creating scatterplots to visualize relationships between age and lung capacity, and using plots to investigate the association between smoking and lung capacity. The lab also prompts users to consider the limitations of observational studies, identify potential confounding factors, and compare the smoking-lung capacity relationship across different age groups. The ultimate goal is to answer the research question about the effect of childhood smoking on lung health and to support findings with data visualizations and explanations."
+  },
+  {
+    "title": "Introduction to Lab 3B and Data Sources",
+    "body": "Lab 3B, 'Confound it all!', is designed to introduce students to new methods of data acquisition and analysis. Previously, data was primarily sourced from RStudio's built-in datasets or the Campaign Manager. This lab expands these horizons by demonstrating how to import data directly from online sources, specifically an observational study dataset. The primary objective of this lab is to explore factors that might be associated with a person's lung capacity using this newly imported data. This approach highlights the common practice of retrieving data from the web in data science workflows."
+  },
+  {
+    "title": "Importing Data from a URL into R",
+    "body": "In Unit 3 Lab 3B, data is imported directly from a webpage into R, bypassing the need for explicit export, upload, and import steps. The dataset can be accessed via a provided URL: [https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv](https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv). To import this data, users are instructed to click the 'Import Dataset' button in the 'Environment' tab of RStudio, select 'From Text (readr)', paste the URL into the provided box, and click 'Update'. Crucially, before finalizing the import, specific 'Import Options' must be set: the dataset name should be 'lungs', the 'First Row as Names' option should be unchecked, and the 'Delimiter' should be changed to 'Whitespace'."
+  },
+  {
+    "title": "Structure and Variables of the Lung Capacity Dataset",
+    "body": "The dataset imported in Unit 3 Lab 3B, named 'lungs', contains information collected from an observational study. The variables measured for each participant include: Age (in years), Lung Capacity (in liters), Height (in inches), Gender (coded as '1' for males and '0' for females), and Smoker status (coded as '1' for smokers and '0' for non-smokers). This dataset is derived from the Forced Expiratory Volume (FEV) study conducted in the late 1970s, involving 654 youths aged 3 to 19 from the East Boston area. The central research question guiding the analysis is: What is the effect of childhood smoking on lung health?"
+  },
+  {
+    "title": "Cleaning the 'lungs' Dataset: Variable Renaming and Type Conversion",
+    "body": "Following the import of the 'lungs' dataset in Unit 3 Lab 3B, data cleaning is necessary. This involves renaming the variables to 'age', 'lung_cap', 'height', 'gender', and 'smoker', in that specific order. A critical cleaning step is to change the data type for the 'gender' and 'smoker' variables from numeric to character. This type conversion is essential for subsequent data manipulation and analysis, particularly when using functions like 'recode' to assign meaningful labels to the coded values. This process ensures the data is correctly formatted for accurate interpretation and visualization."
+  },
+  {
+    "title": "Data Recoding for Gender and Smoker Variables",
+    "body": "As part of the data cleaning process in Unit 3 Lab 3B, the 'gender' and 'smoker' variables in the 'lungs' dataset require recoding after their type has been changed to character. For the 'gender' variable, code is used to change the numeric representation ('1' and '0') into descriptive labels: '1' is recoded to 'Male', and '0' is recoded to 'Female'. Similarly, for the 'smoker' variable, '1' is recoded to 'Yes' (indicating a smoker), and '0' is recoded to 'No' (indicating a non-smoker). This recoding step makes the data more interpretable and easier to analyze in relation to lung capacity."
+  },
+  {
+    "title": "Limitations of Observational Studies in Lab 3B",
+    "body": "Unit 3 Lab 3B utilizes data from an observational study, which presents inherent limitations, particularly when trying to establish cause-and-effect relationships. The lab prompts students to consider why an experiment could not be ethically or practically conducted to test the effects of smoking on children's lungs. Observational studies, while valuable for identifying associations between variables, cannot definitively prove causation due to the lack of controlled manipulation and the potential presence of confounding factors. This distinction is crucial for understanding the scope and interpretation of the findings derived from such studies."
+  },
+  {
+    "title": "Exploring the Relationship Between Age and Lung Capacity",
+    "body": "In Unit 3 Lab 3B, students are asked to predict and then visualize the relationship between a person's age and their lung capacity. Before generating a scatterplot, they sketch their hypothesized relationship and explain their reasoning. After creating an `xyplot` of 'age' and 'lung_cap' using the 'lungs' data, they are required to interpret the plot. The expected outcome is a positive correlation, where lung capacity generally increases with age during childhood and adolescence, a relationship that makes biological sense as the body grows. This step helps build intuition about data visualization and interpretation."
+  },
+  {
+    "title": "Analyzing the Impact of Smoking on Lung Capacity",
+    "body": "Unit 3 Lab 3B focuses on answering the statistical investigative question: 'Do people who smoke tend to have lower lung capacity than those who do not smoke?' Students are prompted to create a plot to address this question, likely a boxplot or a similar visualization comparing lung capacity distributions for smokers and non-smokers. After generating and interpreting this plot, they must answer whether they were surprised by the results and justify their response. This analysis directly tackles the core research question concerning smoking's effect on lung health."
+  },
+  {
+    "title": "Identifying Confounding Factors in Smoking and Lung Capacity Analysis",
+    "body": "A key aspect of Unit 3 Lab 3B is the identification of potential confounding factors in the relationship between smoking and lung capacity. After analyzing the initial data, students are asked to suggest a variable that might influence both smoking behavior and lung capacity, thus distorting the observed association. Common confounding factors in this context could include socioeconomic status, parental smoking habits, or environmental exposures. Recognizing and addressing confounding variables is crucial for drawing more accurate conclusions from observational studies, as they can explain spurious correlations or mask true effects."
+  },
+  {
+    "title": "Comparative Analysis of Smoking Effects Across Age Subsets",
+    "body": "To further investigate the relationship between smoking and lung capacity in Unit 3 Lab 3B, students are tasked with creating specific data subsets. They must generate three subsets of the 'lungs' data, each containing data for only 13-year-olds, 15-year-olds, and 17-year-olds, respectively. Following this, they create plots that compare the lung capacity of smokers versus non-smokers within each age group. This comparative analysis aims to reveal whether the impact of smoking on lung capacity differs across these distinct adolescent age ranges, providing a more nuanced understanding of the phenomenon."
+  },
+  {
+    "title": "Interpreting Age-Specific Smoking Effects on Lung Capacity",
+    "body": "Following the creation of age-specific subsets and comparative plots in Unit 3 Lab 3B, students must analyze how the relationship between smoking and lung capacity evolves with age. They are asked to describe how this relationship changes as they move from the 13-year-old subset to the 15-year-old and then to the 17-year-old subsets. This step encourages critical thinking about developmental changes and how smoking's impact might manifest differently at various stages of adolescence, contributing to a comprehensive understanding of the research question."
+  },
+  {
+    "title": "Concluding Thoughts: Smoking, Lung Capacity, and Supporting Evidence",
+    "body": "The final part of Unit 3 Lab 3B requires students to synthesize their findings and provide a conclusive answer to the question: 'Does smoking affect lung capacity? If so, how?' This involves supporting their answer with the appropriate plots generated throughout the lab, such as scatterplots of age vs. lung capacity and comparisons between smokers and non-smokers across different age groups. Crucially, students must also explain the rationale behind their choice of variables and visualizations, demonstrating their understanding of the data analysis process and the insights gained from the observational study."
+  },
+  {
+    "title": "Vocabulary: Observational Study",
+    "body": "An observational study, as discussed in Unit 3 Lab 3B, is a type of research where researchers observe subjects and measure variables of interest without assigning treatments or manipulating conditions. Unlike experimental studies, researchers do not control or intervene; they simply observe what is happening naturally. This method is useful for identifying potential associations between variables but is limited in its ability to establish cause-and-effect relationships due to the possibility of confounding factors. The 'lungs' dataset used in this lab originates from an observational study."
+  },
+  {
+    "title": "Vocabulary: Importing Data",
+    "body": "Importing data, a key process in Unit 3 Lab 3B, refers to the action of bringing data from an external source into a statistical software environment like R. Instead of exporting data from a source, saving it locally, and then uploading it, this lab demonstrates importing data directly from a URL. This is achieved using functions or interfaces within R (like RStudio's 'Import Dataset' feature) that can read data files from web addresses. This method streamlines the data acquisition process, especially for publicly available datasets hosted online."
+  },
+  {
+    "title": "Vocabulary: Delimiter",
+    "body": "In data processing, a delimiter is a character or sequence of characters that separates distinct pieces of data. When importing text files, such as CSV or TXT files, the delimiter tells the software how to parse the data into columns. Common delimiters include commas (in CSV files), tabs, or spaces. In Unit 3 Lab 3B, when importing the 'lungs' dataset from a URL, it is specified that the delimiter should be set to 'Whitespace'. This indicates that the data values within the file are separated by one or more spaces, rather than a comma or other symbol."
+  },
+  {
+    "title": "Vocabulary: Recode",
+    "body": "Recoding data, a technique used in Unit 3 Lab 3B, involves changing the values of a variable to a different set of values. This is often done to simplify data, make it more interpretable, or prepare it for specific analyses. In this lab, the numeric codes for 'gender' ('1' for male, '0' for female) and 'smoker' ('1' for smoker, '0' for non-smoker) are recoded into more descriptive text labels ('Male', 'Female', 'Yes', 'No'). This transformation is typically performed using functions like `recode` within data analysis packages."
+  },
+  {
+    "title": "Vocabulary: Confounding Factor",
+    "body": "A confounding factor (or confounder) is a variable that influences both the dependent variable (the outcome) and the independent variable (the exposure or treatment) in a study. It creates a spurious association or masks a true association between the two. In Unit 3 Lab 3B, students are asked to identify a potential confounding factor that might affect the observed relationship between smoking and lung capacity. For example, socioeconomic status could influence both a child's likelihood of smoking and their overall health, including lung development, thus acting as a confounder."
+  },
+  {
+    "title": "Code Snippet: Importing Data with Specific Options",
+    "body": "The process of importing the 'lungs' dataset in Unit 3 Lab 3B involves specifying several options for the data import. While the exact R code is not shown in the instructions, the settings are described: the dataset should be named 'lungs', 'First Row as Names' should be unchecked, and the 'Delimiter' should be set to 'Whitespace'. This is typically done using a function like `read_delim` or `read_csv` from the `readr` package, or through RStudio's import interface, specifying parameters such as `col_names = FALSE` and `delim = ' '` (or equivalent for whitespace)."
+  },
+  {
+    "title": "Code Snippet: Changing Variable Types (e.g., gender, smoker)",
+    "body": "In Unit 3 Lab 3B, a crucial data cleaning step is changing the data type of the 'gender' and 'smoker' variables from numeric to character. This ensures that R treats these variables as categories rather than numbers that can be mathematically manipulated. The code to achieve this typically uses functions like `mutate` from the `dplyr` package combined with `as.character()`. For instance, the code might look like: `lungs <- lungs %>% mutate(gender = as.character(gender), smoker = as.character(smoker))`."
+  },
+  {
+    "title": "Code Snippet: Using the `recode` Function",
+    "body": "The `recode` function is used in Unit 3 Lab 3B to transform categorical data within the 'lungs' dataset. After converting 'gender' and 'smoker' to character types, specific values are recoded into more meaningful labels. For gender, the transformation is from '1' to 'Male' and '0' to 'Female'. For smoker status, it's from '1' to 'Yes' and '0' to 'No'. The R code using `dplyr`'s `mutate` and `recode` would resemble: `lungs <- lungs %>% mutate(gender = recode(gender, '1' = 'Male', '0' = 'Female'), smoker = recode(smoker, '1' = 'Yes', '0' = 'No'))`."
+  },
+  {
+    "title": "Code Snippet: Creating an `xyplot` of Age and Lung Capacity",
+    "body": "Unit 3 Lab 3B involves creating visualizations to explore relationships in the 'lungs' dataset. To examine the relationship between age and lung capacity, an `xyplot` is generated. This function, typically from the `lattice` package, creates scatterplots. The R code to plot 'age' on the x-axis and 'lung_cap' on the y-axis using the 'lungs' data would be: `xyplot(lung_cap ~ age, data = lungs, xlab = 'Age (years)', ylab = 'Lung Capacity (liters)', main = 'Lung Capacity vs. Age')`. Interpretation of this plot is a key part of the lab."
+  },
+  {
+    "title": "Code Snippet: Plotting Smoking Status vs. Lung Capacity",
+    "body": "To address the investigative question about smoking's effect on lung capacity in Unit 3 Lab 3B, a plot is needed to compare lung capacity between smokers and non-smokers. A suitable plot could be a boxplot, which visualizes the distribution of lung capacity for each smoking group. Using the `lattice` package, the code might look like: `xyplot(lung_cap ~ smoker, data = lungs, xlab = 'Smoker', ylab = 'Lung Capacity (liters)', main = 'Lung Capacity by Smoking Status', groups = smoker, type = c('p', 'boxplot'), col = 'darkgrey')`. This plot helps answer whether smokers have lower lung capacity."
+  },
+  {
+    "title": "Code Snippet: Creating Subsets of Data by Age",
+    "body": "In Unit 3 Lab 3B, specific age groups are isolated from the 'lungs' dataset for comparative analysis. This involves creating subsets containing only 13-year-olds, 15-year-olds, and 17-year-olds. Using the `dplyr` package, this can be achieved with the `filter` function. For example, to create the subset for 13-year-olds: `lungs_13 <- lungs %>% filter(age == 13)`. Similar code would be used to create `lungs_15` and `lungs_17` datasets, isolating the data for the specified ages."
+  },
+  {
+    "title": "Code Snippet: Comparing Lung Capacity Across Age Subsets and Smoking Status",
+    "body": "Unit 3 Lab 3B requires comparing lung capacity between smokers and non-smokers within specific age groups (13, 15, and 17 years old). After creating the subsets (e.g., `lungs_13`, `lungs_15`, `lungs_17`), plots are generated for each. A potential visualization method using `lattice` could involve faceting or plotting separately for each subset. For instance, plotting for the 13-year-olds: `xyplot(lung_cap ~ smoker, data = lungs_13, xlab = 'Smoker', ylab = 'Lung Capacity (liters)', main = 'Lung Capacity vs. Smoking (Age 13)', groups = smoker, type = c('p', 'boxplot'), col = 'lightblue')`. This would be repeated for the other age groups."
+  }
+]

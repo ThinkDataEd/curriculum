@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract of Unit 2 Lesson 7: Plot Match",
+    "body": "Unit 2 Lesson 7, titled 'Plot Match,' focuses on teaching students how to create boxplots from existing dotplots. The lesson introduces vocabulary like 'representation' and reinforces essential concepts about boxplots as alternative visualizations for histograms and dotplots. Activities include an entrance slip on the five-number summary, sketching boxplots from dotplots using a handout, and a 'Plot Match' activity where teams match equivalent dotplots, histograms, and boxplots. The lesson emphasizes understanding the strengths and weaknesses of different data representations, such as histograms for large datasets, dotplots for smaller datasets, and boxplots for unimodal, skewed, or data with outliers. Students are encouraged to journal their thoughts on these comparisons. The lesson concludes with a class discussion, a homework assignment on pros and cons of data representations, and a reference to Lab 2B."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Objective and Materials",
+    "body": "The objective of Unit 2 Lesson 7 is for students to learn how to create a boxplot from an already-established dotplot. Materials required for this lesson include the 'From Dotplots to Boxplots' handout (LMR_U2_L7_A) and sets of plots from the 'Plot Match' file (LMR_U2_L7_B). The 'Plot Match' file requires advance preparation, as the plots need to be cut out prior to class, as detailed in step 8 of the lesson procedure. The handout provides practice in sketching boxplots from dotplots, and the 'Plot Match' file facilitates an activity where students match different graphical representations of the same data."
+  },
+  {
+    "title": "Vocabulary: Representation",
+    "body": "In the context of data visualization and analysis, 'representation' refers to the form in which data is stored, processed, and transmitted. Different representations, such as dotplots, histograms, and boxplots, offer various ways to visualize and understand data distributions. Unit 2 Lesson 7 explores how different representations can depict the same dataset and highlights the strengths and limitations of each type of representation."
+  },
+  {
+    "title": "Essential Concepts: Boxplots as Data Representations",
+    "body": "Boxplots serve as an alternative visualization method for data distributions, complementing histograms and dotplots. While they effectively capture key features of a dataset's distribution, it's important to note that boxplots do not preserve all the details visible in dotplots or histograms. Specifically, features like the number of modes (peaks) in a distribution can be obscured when using a boxplot, whereas they are clearly visible in dotplots and histograms. Understanding these differences is crucial for choosing the most appropriate visualization for a given dataset and analytical goal."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Lesson Activity - Entrance Slip and Discussion",
+    "body": "Unit 2 Lesson 7 begins with an 'Entrance Slip' activity where students are prompted to recall the components of the five-number summary, which are essential for constructing a boxplot. The five-number summary includes the minimum value, the first quartile (Q1), the median, the third quartile (Q3), and the maximum value. Following this, students discuss the meaning of each component in the context of a boxplot. The lesson also revisits the creation of a boxplot from student heights, which was covered in Unit 2 Lesson 5, reinforcing prior learning before moving to new activities."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Identifying Data Representations",
+    "body": "During Unit 2 Lesson 7, students are asked to identify various representations of data distributions they have encountered previously. This prompts them to recall and list different graphical methods used to display data. Examples of such representations include dotplots, bar charts, scatterplots, histograms, and tables. This discussion serves as a bridge to understanding that boxplots are just one of several ways to visualize data and that each representation has its own characteristics and applications."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Activity - From Dotplots to Boxplots",
+    "body": "In Unit 2 Lesson 7, students engage in an activity using the 'From Dotplots to Boxplots' handout (LMR_U2_L7_A). Working in teams, students practice sketching boxplots derived from given dotplots. This requires them to first determine the five-number summary (minimum, Q1, median, Q3, maximum) for each dotplot and then accurately label these values on their corresponding boxplots. The handout also includes three questions for teams to answer and discuss, followed by a class-wide share-out of their responses. Page 3 of the handout serves as an answer key for the teacher."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Activity - Plot Match",
+    "body": "The 'Plot Match' activity in Unit 2 Lesson 7 challenges student teams to match different graphical representations of the same dataset. Each team receives a set of 15 plots, comprising 5 dotplots, 5 histograms, and 5 boxplots, cut from the 'Plot Match' file (LMR_U2_L7_B). The task is to identify which dotplot, histogram, and boxplot correspond to the identical underlying data. After teams finalize their matches, a class discussion is held to ensure consensus. This activity reinforces the understanding that diverse visual formats can represent the same statistical information."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Data Types and Plot Suitability",
+    "body": "Unit 2 Lesson 7 includes a discussion on the suitability of different plot types for various data. Histograms are effective for nearly all data types, particularly large datasets, as they clearly show distribution shape, skewness, and multiple peaks. Dotplots are also good for showing distribution shape and are preferred over histograms for smaller datasets. Boxplots are best suited for data with a single mode, or for data that is heavily skewed or contains outliers. This comparison helps students select appropriate visualizations based on data characteristics."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Limitations of Boxplots",
+    "body": "A key discussion point in Unit 2 Lesson 7 concerns the characteristics of data that can be hidden when using a boxplot compared to a dotplot or histogram. While boxplots effectively summarize the five-number summary and identify potential outliers, they obscure details about the distribution's shape, particularly the number of modes. For instance, a bimodal distribution (having two peaks) cannot be discerned from a boxplot alone, whereas it is evident in dotplots and histograms. This highlights that boxplots offer a summarized view, losing some granular detail about the data's structure."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Plot Match Solution Key and Homework",
+    "body": "To conclude Unit 2 Lesson 7, the 'Plot Match' solution key is revealed, showing the correct pairings of dotplots, histograms, and boxplots. The solution key indicates five sets of matching plots. Following this, students are assigned homework to reflect on the class discussion and record the pros and cons of using different graphical representations to display the same data. This encourages critical thinking about the advantages and disadvantages of each visualization method for data analysis and communication."
+  },
+  {
+    "title": "Class Scribes and Homework Assignment",
+    "body": "As part of Unit 2 Lesson 7, one student team is designated as 'Class Scribes' to present a brief talk summarizing what they consider the three most important topics covered during the lesson. The homework assignment requires all students to reflect on the day's class discussion and document their thoughts on the advantages (pros) and disadvantages (cons) associated with using different types of graphical representations for displaying the same data. This reinforces the lesson's focus on understanding the nuances of data visualization."
+  },
+  {
+    "title": "Unit 2 Lesson 7: Further Practice - Lab 2B",
+    "body": "Unit 2 Lesson 7 concludes by directing students to complete [Lab 2B](lab2b.md), titled 'Oh the Summaries…'. This lab serves as a practical application and reinforcement of the concepts learned in the lesson, particularly concerning data summaries and graphical representations. Students are instructed to complete Lab 2B prior to undertaking the [Practicum](practicum1.md), indicating its importance in preparing them for subsequent assessments and activities within the curriculum."
+  }
+]

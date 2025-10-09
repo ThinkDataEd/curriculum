@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract of Unit 1 Lesson 1: Data Trails",
+    "body": "Unit 1 Lesson 1, titled 'Data Trails', aims to introduce students to the concept of data, how it is collected, and the implications of sharing it. Students will explore data through a video, discussion, and a hands-on activity. Key vocabulary includes data, observations, data trails, and privacy. The lesson emphasizes that data are recorded observations gathered by people and sensors, and that patterns in data can reveal hidden insights. Students will begin keeping a 'Data Diary' to track their own data trails and will watch a video on 'Terms and Conditions' to consider data privacy. The lesson prepares students for understanding the role data plays in their lives and potential consequences of its collection and use."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Objective and Prerequisites",
+    "body": "The primary objective of Unit 1 Lesson 1, 'Data Trails', is for students to understand what data are, how data are collected, and the potential effects of sharing data. Before beginning this lesson, students are required to have completed the IDS Survey and the LOCUS Assessment. More information on these prerequisite assessments can be found in the Addendum_IDS_Survey_LOCUS document, available in the Documents tool on the Portal (https://portal.thinkdataed.org)."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Materials Required",
+    "body": "The materials needed for Unit 1 Lesson 1, 'Data Trails', include: a video titled 'The Target Story' (available at https://www.youtube.com/watch?v=XvSA-6BJkx4), a Data Science (DS) journal (a quad-ruled composition book or similar, which must be available for every lesson), and the 'Data Diary' handout (LMR_U1_L1). Additionally, a video titled 'Terms and Conditions' (available at https://www.youtube.com/watch?v=ZcjtEKNP05c) is required for the lesson."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Vocabulary - Data",
+    "body": "Data refers to information or observations that have been gathered and recorded. This is a fundamental concept introduced in Unit 1 Lesson 1: Data Trails. Data are the raw material for data science, representing facts and statistics collected together for reference or analysis. Understanding what constitutes data is crucial for comprehending how information is collected and used in the digital age."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Vocabulary - Observations",
+    "body": "Observations are data that have been gathered and recorded. In the context of Unit 1 Lesson 1: Data Trails, observations are the specific pieces of information or events that are captured and documented. These recorded observations form the basis of 'data', which can then be analyzed to identify patterns and insights."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Vocabulary - Data Trails",
+    "body": "Data trails are the collection of data about individuals that can be used to identify patterns in their personal lives. Unit 1 Lesson 1: Data Trails introduces this concept, explaining that as people interact with technology and the world, they leave behind a trail of data. This trail can include browsing history, purchase records, location information, and more, which can be analyzed to understand behaviors and preferences."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Vocabulary - Privacy",
+    "body": "Privacy is defined as the right of individuals to have control over how their personal information is collected and used. This concept is explored in Unit 1 Lesson 1: Data Trails, particularly after viewing the 'Terms and Conditions' video. Understanding privacy is essential for students to grasp the ethical considerations and personal implications of data collection and sharing."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Essential Concepts - Data Collection and Patterns",
+    "body": "Essential to Unit 1 Lesson 1: Data Trails, data are defined as a collection of recorded observations. These data are gathered by both people and sensors. A key insight is that patterns within collected data can reveal previously unknown patterns in our world. Furthermore, data play a significant, and often invisible, role in our daily lives, influencing decisions and shaping experiences."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Lesson Procedure - Introduction and Discussion",
+    "body": "Unit 1 Lesson 1, 'Data Trails', begins by showing the video 'The Target Story' (https://www.youtube.com/watch?v=XvSA-6BJkx4). Following the video, students, working in pairs, discuss how Target might have known a customer was pregnant before her father did, using the TPS strategy. This leads to a whole-class discussion defining data as recorded observations, exploring data sources (e.g., cell phones, computers, surveys), providing examples of data (e.g., personal attributes), and distinguishing data from non-data (e.g., unrecorded events)."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Lesson Procedure - Data Trails and Data Diary",
+    "body": "Following the initial discussion in Unit 1 Lesson 1: Data Trails, students are introduced to the concept of 'data trails' – the data collected about individuals that reveal personal life patterns. To help students understand their own data trails, they are instructed to keep a 'Data Diary' for the next 24 hours. The 'Data Diary' handout (LMR_U1_L1) is distributed, and instructions are reviewed, including a worked example. Students are informed that these diaries will be collected in the next class to assess their understanding."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Lesson Procedure - Terms and Conditions Video and Discussion",
+    "body": "To further explore the implications of data usage, Unit 1 Lesson 1: Data Trails includes showing the 'Terms and Conditions' video (https://www.youtube.com/watch?v=ZcjtEKNP05c). After viewing, a whole-class discussion focuses on specific terms in privacy statements that students find concerning or worrisome. The discussion also probes whether students typically read these agreements when downloading phone apps, connecting the abstract concept of data to real-world privacy concerns."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Class Scribes and Homework Assignment",
+    "body": "As part of Unit 1 Lesson 1: Data Trails, one student team will act as 'Class Scribes,' presenting a brief talk on what they consider the three most important topics discussed during the lesson. The teacher's role is to facilitate this discussion and ask probing questions to encourage detailed explanations. The homework assignment for this lesson is for students to complete the 'Data Diary' handout. When grading, teachers should evaluate whether the recorded data are plausible and whether students' ideas about data usage are reasonable, distinguishing between actual data collection (e.g., camera recording) and subjective observations (e.g., someone saw me)."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Teamwork and Collaboration Setup",
+    "body": "Before implementing Unit 1 Lesson 1: Data Trails, it is crucial to ensure that specific collaborative structures are in place. Students must be organized into teams, and each student must understand their role within their team. Furthermore, each student should know their assigned partner within their team. Expectations for collaborative teamwork need to be clearly discussed and understood by all students. Guidance on team roles can be found in the 'Team Roles' document within the Teacher Resources section."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Vocabulary - Data Trails and Privacy Connection",
+    "body": "Unit 1 Lesson 1 introduces 'data trails' as the collected data about individuals that can reveal personal life patterns. This concept is directly linked to 'privacy,' which is the individual's right to control how their personal information is collected and used. The lesson uses the 'The Target Story' video to illustrate how data trails can lead to insights about individuals, and the 'Terms and Conditions' video to prompt discussion on the privacy implications of data collection and usage, highlighting the importance of understanding who controls our data and for what purposes."
+  },
+  {
+    "title": "Unit 1 Lesson 1: Data Diary - Purpose and Examples",
+    "body": "The 'Data Diary' activity in Unit 1 Lesson 1: Data Trails serves as a practical exercise for students to track their own data trails. The handout provides a structured way to log instances where data might be collected about them. The lesson emphasizes that valid data entries involve actual recording of actions or information (e.g., a camera recording entry into a store), rather than subjective observations (e.g., someone seeing them enter). This distinction is crucial for understanding the tangible nature of data collection and its potential uses."
+  }
+]

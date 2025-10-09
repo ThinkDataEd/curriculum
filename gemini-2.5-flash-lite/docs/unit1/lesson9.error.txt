@@ -1,0 +1,96 @@
+--- ERROR FOR FILE: .\docs\unit1\lesson9.md ---
+
+[
+  {
+    "title": "Abstract of Lesson 9: What is Typical?",
+    "body": "Lesson 9 focuses on understanding the concept of a 'typical' value within a data distribution. Students will explore how to find the center of a distribution and identify clusters of data points, which helps in determining what constitutes a typical observation. Key vocabulary introduced includes 'typical,' 'center,' 'shape,' and 'spread.' The lesson uses a hands-on approach, starting with discussions about typical characteristics of students, then moving to analyzing a nutrition facts dot plot from a previous lesson. Students also collect and analyze data on their sleep habits to create and interpret dot plots. The goal is to connect the abstract concept of a distribution's center to the intuitive idea of a typical value, considering factors like data clustering and density."
+  },
+  {
+    "title": "Lesson 9: Objective and Materials",
+    "body": "The objective of Lesson 9 is for students to learn about the typical value in a data distribution by identifying its center and recognizing where data points cluster. To achieve this, the lesson requires specific materials: the Nutrition facts dotplot previously created in Lesson 8, poster paper, and tools for marking data points such as dot stickers or sticky notes. These materials will be used to visualize and analyze data distributions to find the typical value."
+  },
+  {
+    "title": "Vocabulary: Typical",
+    "body": "The term 'typical' in the context of data analysis refers to the mean or average value, representing expected values within a dataset. It is a key concept for understanding the central tendency of a distribution. Identifying the typical value helps in summarizing and making sense of a dataset by highlighting the most common or representative observation."
+  },
+  {
+    "title": "Vocabulary: Center",
+    "body": "The 'center' of a distribution is a concept that is particularly useful for numerical variables. It often corresponds with the notion of a 'typical value.' The center can be understood as the perceived balancing point of the distribution or as the value that divides the distribution's area approximately in half. It's a way to locate the central tendency of the data."
+  },
+  {
+    "title": "Vocabulary: Shape",
+    "body": "The 'shape' of a distribution describes the placement of points within that distribution. It refers to how the data is arranged, including patterns like symmetry, skewness, or the presence of multiple peaks. Understanding the shape is crucial for interpreting the characteristics of the data and for determining measures of central tendency like the 'typical' value."
+  },
+  {
+    "title": "Vocabulary: Spread",
+    "body": "The 'spread' of a distribution refers to how dense the distribution is at certain values. It describes the variability or dispersion of the data points. A distribution with a large spread has data points that are far apart, while a distribution with a small spread has data points clustered closely together. The spread, along with the shape, influences how we understand the center and typical values."
+  },
+  {
+    "title": "Essential Concepts: Center of a Distribution",
+    "body": "The 'center' of a distribution is intentionally left as a somewhat vague term, serving as a way to address the subjective question of 'what is a typical value?' It can be interpreted as the perceived balancing point of the distribution, much like balancing a seesaw. Alternatively, it can be seen as the value that approximately divides the total area of the distribution in half. This concept is central to understanding the central tendency of a dataset."
+  },
+  {
+    "title": "Optional Advanced Preparation: Real-time Data Collection Video",
+    "body": "For an optional advanced preparation, educators can watch a video demonstrating how to collect data in real time. This video, available at https://www.youtube.com/embed/N-CkhD33IxE, may be particularly useful for implementing steps 12 and 13 of this lesson, which involve collecting and visualizing student data on sleep habits. Utilizing real-time data collection tools can enhance student engagement and provide immediate feedback."
+  },
+  {
+    "title": "Lesson Activity: Food Habits Campaign Data Monitoring",
+    "body": "Lesson 9 begins with monitoring data collection for the 'Food Habits' campaign using the IDS Campaign Monitoring Tool (https://portal.thinkdataed.org). Students access the tool, sign in, and observe the campaign monitor. The lesson prompts discussions around who has collected the most data, the number of active versus inactive users (by examining a pie chart), and the total number of responses submitted. Students are encouraged to use TPS (Think-Pair-Share) to consider how they can increase their data collection efforts and are shown a video on monitoring their own data collection (https://www.youtube.com/embed/Xg9Fl9arETw)."
+  },
+  {
+    "title": "Introduction to Typical Value",
+    "body": "Following the data monitoring activity, students are introduced to the concept of a distribution's 'typical' value. To engage them, the class brainstorms characteristics of a 'typical' student, prompting discussions about how age groups (e.g., 12th graders vs. 9th graders) might differ yet still have typical traits. This exercise highlights that even with individual differences, we can often identify common or expected characteristics. The goal is to get students thinking about variability while simultaneously considering what might be considered typical."
+  },
+  {
+    "title": "Synonyms for Typical",
+    "body": "Students are asked to spend 3 minutes writing synonyms for the word 'typical' in their journals. Afterward, they share their responses, and a list is compiled on the board. Potential synonyms include: normal, average, usual, standard, representative, regular, ordinary, and natural. This activity helps broaden students' understanding of the term and prepares them to categorize these synonyms based on their applicability to categorical versus numerical variables."
+  },
+  {
+    "title": "Categorizing Synonyms: Numerical vs. Categorical",
+    "body": "After generating synonyms for 'typical,' students discuss which terms best apply to categorical variables and which best apply to numerical variables. Volunteers share their reasoning, and a T-chart is created on the board to visually organize these categories. This exercise helps students differentiate the contexts in which different terms related to 'typical' are most appropriate, laying the groundwork for understanding central tendencies in different data types."
+  },
+  {
+    "title": "Analyzing the Nutrition Facts Dotplot",
+    "body": "The class then examines the dotplot of nutrition facts labels created in the previous lesson (Unit 1 Lesson 8). Students are prompted to identify a 'typical' value for this distribution. Expected answers may include the mode (most frequent value) or a value near the center. The discussion addresses potential misconceptions, such as confusing frequency with value, and encourages students to identify 'clumps' of data as indicators of typical ranges. The teacher guides the discussion, moving towards the center of the distribution if students initially choose extreme values."
+  },
+  {
+    "title": "Discussion Points for Typical Value on Dotplot",
+    "body": "When discussing the nutrition facts dotplot, the teacher facilitates a discussion on identifying the typical value. The definition of 'typical' is kept somewhat vague for this lesson. Key discussion points include: identifying 'clustering' or 'clumps' of data, noting the range where most observations fall ('Most of the observations are between \_\_\_\_\_\_ and \_\_\_\_\_\_.'), and considering the overall range of the data. These points help students focus on the central tendency and spread of the distribution."
+  },
+  {
+    "title": "Revisiting Sugar Grams and Typical Values",
+    "body": "Students are asked to reconsider the number of sugar grams from the nutrition facts dotplot and identify the typical amount. This prompts students to articulate the reasons behind their choices for the typical value, whether it's based on the data being split evenly above and below, being the mode, or having a plurality. The discussion then ties these reasons back to the synonyms for 'typical' provided earlier, reinforcing the connection between everyday language and statistical concepts."
+  },
+  {
+    "title": "Center Concept for Numerical Variables",
+    "body": "In pairs, students discuss the concept of 'center' and which synonyms are associated with it. They determine whether the concept of 'center' is more useful for numerical or categorical variables. The conclusion is that 'center' is highly useful for numerical variables, as the center of a distribution often aligns with our everyday understanding of a 'typical value.' An example provided is the typical height of students in a class being centered around 5'5\"."
+  },
+  {
+    "title": "Defining Center and Typical Value",
+    "body": "Students learn that the value at the center of a distribution frequently matches our intuitive notion of a 'typical' value. However, it's clarified that the middle observation isn't always the typical value, just as the middle person in a group isn't always the 'center' value in a social sense. This distinction emphasizes that statistical 'center' requires careful consideration of the data's characteristics."
+  },
+  {
+    "title": "Factors Influencing Center Definition",
+    "body": "The definition of the 'center' of a distribution is influenced by several factors related to the data's appearance. These include the specific placement of points within the distribution, which defines its 'shape,' and how densely packed the data is at particular values, known as the 'spread.' Both shape and spread are critical elements that inform how we identify and interpret the center and typical values of a dataset."
+  },
+  {
+    "title": "Activity: Predicting Sleep Habits Distribution",
+    "body": "Students are engaged in an activity where they write down the number of hours of sleep they got the previous night. They then predict characteristics of the dotplot that will be created from this data: the typical value, the lowest value, the highest value, and the overall shape of the distribution. These predictions prime students to analyze the actual data and compare their expectations with the observed distribution."
+  },
+  {
+    "title": "Creating and Analyzing Sleep Habits Dotplot",
+    "body": "After predicting the characteristics of the sleep data distribution, students physically create a dotplot by placing a dot above their number of sleep hours on a board or poster paper. Once all data is plotted, a discussion takes place comparing the actual distribution to their initial predictions regarding the typical value and shape. The reasons for any similarities or differences are explored, reinforcing the understanding of data visualization and interpretation."
+  },
+  {
+    "title": "Comparing Sleep Habits: Last Night vs. Saturday Night",
+    "body": "Building on the previous activity, students write down the number of hours of sleep they hope to get on the upcoming Saturday night. They discuss how this new dataset's plot might differ from the plot of sleep from the previous night, focusing on potential changes in shape, center, and spread. This comparative analysis helps students understand how different contexts or intentions (e.g., a weekday vs. a weekend) can affect data distributions."
+  },
+  {
+    "title": "Class Scribes: Key Topics Summary",
+    "body": "As a concluding activity for Lesson 9, one team of students acts as 'Class Scribes.' Their task is to present a brief talk to the class, identifying and discussing what they believe were the three most important topics covered during the lesson. This activity encourages reflection and helps consolidate the key learning points about typical values, center, shape, and spread in data distributions."
+  },
+  {
+    "title": "Homework: Continue Food Habits Campaign",
+    "body": "The homework assignment for Lesson 9 directs students to continue collecting nutritional facts data. They are instructed to use the 'Food Habits' Participatory Sensing campaign, utilizing either their smart devices or a web browser. This ongoing data collection reinforces the concepts learned in the lesson and applies them to a real-world data campaign."
+  }
+]

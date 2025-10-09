@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Unit 4 Lesson 13: Improving Your Model",
+    "body": "Unit 4 Lesson 13, 'Improving Your Model,' focuses on teaching students to describe associations that deviate from linear patterns. It introduces the concepts of non-linear trends and polynomial trends, emphasizing that linear models are inadequate for predicting data with such patterns. The lesson involves analyzing scatterplots, discussing the meaning of trends, and understanding the need for models that better fit the data. Students will work through examples, share descriptions, and take notes on how to describe various associations, including linear, non-linear, and polynomial trends. The homework involves completing 'Cheat Notes' on describing associations, and students are directed to complete Lab 4E: 'Some models have curves' as preparation for the practicum."
+  },
+  {
+    "title": "Unit 4 Lesson 13 Objective",
+    "body": "The primary objective of Unit 4 Lesson 13 is for students to develop the ability to describe associations that are not linear. This involves recognizing and articulating patterns in data that deviate from a straight-line relationship."
+  },
+  {
+    "title": "Materials for Unit 4 Lesson 13",
+    "body": "The essential material for Unit 4 Lesson 13 is the 'Describe the Association' handout. This handout contains scatterplots that students will analyze to identify and describe different types of trends in the data. The handout is available as a PDF document linked within the lesson materials."
+  },
+  {
+    "title": "Vocabulary: Non-linear",
+    "body": "The term 'non-linear' refers to a form of regression analysis where observational data is modeled by a function that is a nonlinear combination of model parameters and depends on one or more independent variables. This method involves fitting data using successive approximations. In Unit 4 Lesson 13, it is crucial for understanding trends in scatterplots that do not follow a straight line."
+  },
+  {
+    "title": "Vocabulary: Polynomial Trends",
+    "body": "Polynomial trends describe patterns in data that are curved or deviate from a straight linear trend. These often appear in large datasets with numerous fluctuations. Recognizing polynomial trends, such as quadratic, cubic, or quartic trends, is a key focus of Unit 4 Lesson 13, as linear models are insufficient for accurately predicting data exhibiting these patterns."
+  },
+  {
+    "title": "Essential Concepts: Limitations of Linear Models",
+    "body": "A core concept in Unit 4 Lesson 13 is that fitting a linear model to a non-linear trend will result in poor predictions. The lesson stresses the importance of identifying non-linear trends by examining scatterplots or ensuring the model accurately matches the observed trend in the data. If the data exhibits a curve, a linear model will not effectively capture the relationship, leading to inaccurate forecasts."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Lesson Procedure - Part 1",
+    "body": "Unit 4 Lesson 13 begins by reminding students about their prior learning on linear associations and introduces the concept of other types of associations, specifically non-linear ones. Students are then given the 'Describe the Association' handout and work in teams to examine scatterplots. Their task is to write descriptions of the trends observed in each plot and interpret what these trends mean. These descriptions are recorded in their journals. The teacher circulates to monitor progress and identify descriptions suitable for whole-class sharing."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Lesson Procedure - Part 2",
+    "body": "Following team work on the 'Describe the Association' handout in Unit 4 Lesson 13, selected teams present their descriptions of the plots. Other teams listen, compare, and discuss their own descriptions, agreeing or disagreeing. The teacher facilitates discussions to guide students toward accurate descriptions, especially for non-linear trends. Summaries are provided, and students take notes or revise their journal entries. This process is repeated for all plots on the handout, reinforcing the understanding of various trend types."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Plot A Description",
+    "body": "Plot A on the 'Describe the Association' handout for Unit 4 Lesson 13 shows no discernible trend, or at most a very weak linear trend, with considerable scatter. This indicates that 'y' does not significantly depend on 'x', meaning there is hardly any association between the variables."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Plot B Description",
+    "body": "Plot B on the 'Describe the Association' handout for Unit 4 Lesson 13 exhibits a linear trend. The association is negative, meaning as 'x' increases, 'y' decreases. The trend appears to be somewhat strong due to a moderate amount of scatter in the data points."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Plot C Description",
+    "body": "Plot C on the 'Describe the Association' handout for Unit 4 Lesson 13 demonstrates a strong positive linear trend. This indicates that as 'x' increases, 'y' increases at a relatively consistent rate, resembling a straight line. The association is very strong with minimal scatter."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Plot D Description",
+    "body": "Plot D on the 'Describe the Association' handout for Unit 4 Lesson 13 displays a non-linear trend, specifically a parabolic shape (quadratic). The association is considered weak due to the significant scatter in the data. The direction of the association varies: 'y' decreases for smaller 'x' values and increases for larger 'x' values."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Plot E Description",
+    "body": "Plot E on the 'Describe the Association' handout for Unit 4 Lesson 13 shows a strong non-linear trend with a parabolic (quadratic) shape. The association is strong because there is very little scatter among the data points, indicating a clear relationship where 'y' changes predictably with 'x' in a curved manner."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Strategy and Application",
+    "body": "In Unit 4 Lesson 13, students engage in the 'Cheat Notes' strategy, where teams summarize key information on how to describe associations. The lesson specifically addresses the inadequacy of linear models for non-linear trends (like those in plots D and E). If a linear model were applied to these curved trends, it would lead to poor predictions, over-predicting in some data regions and under-predicting in others. The answer is to change the model to better fit the data."
+  },
+  {
+    "title": "Unit 4 Lesson 13: Polynomial Trends and Model Selection",
+    "body": "Unit 4 Lesson 13 introduces 'polynomial trends,' which describe curved patterns like quadratic, cubic, or quartic trends observed in plots D and E. The lesson poses a critical question: How can we obtain a model that effectively represents the 'middle' of all data points? The answer is that the model itself needs to be changed. Students are prompted to consider different types of equations (linear, quadratic, cubic) and their corresponding graphs to determine which model best fits the data, emphasizing that the model must align with the observed trends."
+  },
+  {
+    "title": "Class Scribes and Homework for Unit 4 Lesson 13",
+    "body": "As part of Unit 4 Lesson 13's concluding activities, one student team acts as 'Class Scribes,' presenting the three most important topics learned that day. For homework, students are assigned to finish their 'Cheat Notes' on describing associations if they were not completed during class. Additionally, students are instructed to complete [Lab 4E: Some models have curves](lab4e.md) before proceeding to the [Practicum](practicum1.md)."
+  },
+  {
+    "title": "Non-linear vs. Linear Models in Prediction",
+    "body": "Unit 4 Lesson 13 highlights a crucial distinction: linear models are effective for linear trends but perform poorly when data exhibits non-linear patterns. If a linear model is applied to non-linear data (like the parabolic trends in plots D and E), it will not accurately represent the relationship. This leads to flawed predictions, where the model consistently over- or under-estimates the 'y' values in different ranges of 'x'. To achieve accurate predictions for non-linear data, a more appropriate model, such as a polynomial model, must be chosen."
+  }
+]

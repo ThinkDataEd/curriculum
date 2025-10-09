@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Abstract of Lesson 13: The Confidence Game",
+    "body": "This lesson, \"The Confidence Game,\" introduces students to the concept of informal confidence intervals for estimating population parameters. Students learn that providing a range of plausible values is more informative than a single estimate due to inherent uncertainty. The lesson involves a game where students create 90% confident intervals for various numerical answers to questions, without using external resources. They then exchange and grade these intervals, followed by a class discussion comparing their results to the expected 90% success rate. This activity highlights common tendencies to create overly narrow intervals and lack of confidence, leading to a discussion on how wider intervals increase confidence. The lesson formally defines confidence intervals and sets the stage for further exploration in the next lesson."
+  },
+  {
+    "title": "Unit 3 Lesson 13: Objective and Materials",
+    "body": "The primary objective of Unit 3 Lesson 13, \"The Confidence Game,\" is for students to understand and apply the concept of informal confidence intervals. They will learn to make estimates about population parameters using statistics derived from random samples. The materials required for this lesson include a handout titled \"The Confidence Game\" (LMR_U3_L13) and a dotplot displaying the \"Number Correct\" for class activities, which can be shown on a board or poster paper."
+  },
+  {
+    "title": "Vocabulary: Inferences",
+    "body": "Inferences refer to the process of drawing conclusions about an entire population based on data collected from a smaller subset or sample of that population. This is a fundamental concept in statistics, as it allows us to generalize findings from a sample to a larger group without needing to survey every individual. In Unit 3 Lesson 13, inferences are discussed in the context of making estimates about population parameters from sample statistics, emphasizing the importance of unbiased sampling methods."
+  },
+  {
+    "title": "Vocabulary: Interval",
+    "body": "An interval, in a statistical context, represents a range of values. It is a data type measured along a scale where each point is equidistant from adjacent points. In Unit 3 Lesson 13, students are asked to create intervals as estimates for unknown population parameters. This means they provide a lower and upper bound within which they believe the true value lies, rather than a single precise number. The width and accuracy of these intervals are key to understanding confidence."
+  },
+  {
+    "title": "Vocabulary: Confidence Interval",
+    "body": "A confidence interval is an estimated range of values that is likely to contain an unknown population parameter. This range is calculated from sample data. In Unit 3 Lesson 13, students learn to construct informal confidence intervals, aiming for a specific level of confidence (e.g., 90%). The goal is to provide a more realistic estimate than a single point value, acknowledging the uncertainty inherent in statistical estimation. A narrower interval suggests greater certainty, while a wider interval generally increases confidence that the true parameter is captured."
+  },
+  {
+    "title": "Essential Concepts of Estimation and Uncertainty",
+    "body": "A core concept in statistics, particularly relevant to Unit 3 Lesson 13, is that estimating population parameters always involves uncertainty. Consequently, it is more statistically sound and informative to provide a range of plausible values (a confidence interval) rather than a single point estimate. This approach acknowledges the inherent variability in sample data and the potential for that data to not perfectly represent the entire population."
+  },
+  {
+    "title": "Unit 3 Lesson 13: Introduction to Inferences and Estimation",
+    "body": "Unit 3 Lesson 13 begins by reinforcing the idea that sampling enables us to make **inferences** about populations. It's stressed that biased sample statistics from non-random sampling prevent valid generalizations. To obtain unbiased statistics, random sampling is crucial. The lesson then transitions to brainstorming the meaning of 'estimate,' listing synonyms like guess, approximation, and projection. This leads to the statistical definition of an estimate: providing a range of values with a certain level of confidence that includes the true population parameter."
+  },
+  {
+    "title": "Unit 3 Lesson 13: The Confidence Game - Initial Example",
+    "body": "Before playing 'The Confidence Game' in Unit 3 Lesson 13, an example is used to illustrate the concept of creating an **interval** estimate. Students are asked to estimate the height of the Empire State Building (including the spire) in feet. They individually write down a range of values they are 90% confident includes the true height. Selected student intervals are shared and discussed, comparing the precision (width) of different estimates. The actual height (1,454 feet) is then revealed, and the class notes how many intervals contained this value, setting the stage for understanding confidence levels."
+  },
+  {
+    "title": "Unit 3 Lesson 13: Playing 'The Confidence Game'",
+    "body": "In Unit 3 Lesson 13, students actively participate in 'The Confidence Game' using the provided handout (LMR_U3_L13). They are instructed to answer each question with an **interval** and to be '90% confident' that the true answer lies within their range. Crucially, they are prohibited from using any reference tools. A question is deemed 'correct' if the actual answer falls within the student's interval. The game winner is determined by the highest number of correct answers, with narrower intervals serving as a tie-breaker, promoting both accuracy and precision in estimation."
+  },
+  {
+    "title": "Unit 3 Lesson 13: Grading and Initial Results Discussion",
+    "body": "After completing 'The Confidence Game' in Unit 3 Lesson 13, students pair up to grade each other's handouts. A question is marked correct if the actual answer is within the student's estimated **confidence interval**. Each student records the total number of correct responses on their partner's paper. This leads into a critical discussion: students are prompted to consider how many of the 10 questions they *should* have gotten correct if they were truly 90% confident (which is 9 questions). The discussion then explores actual class results, comparing them to the expectation and investigating why the typical score might be lower than 9."
+  },
+  {
+    "title": "Unit 3 Lesson 13: Analyzing Confidence and Interval Width",
+    "body": "The analysis following 'The Confidence Game' in Unit 3 Lesson 13 involves creating a dotplot of the 'Number Correct' responses. Class discussion focuses on interpreting these results: How many students achieved 9 correct answers, indicating 90% confidence? What is the typical score? Why is the typical score often much lower than the expected 9? The explanation provided is that students tend to create intervals that are narrower than they should be, leading to less confidence. The lesson poses the question of how to increase confidence, guiding students towards the answer: using wider intervals."
+  },
+  {
+    "title": "Unit 3 Lesson 13: Defining Confidence Intervals",
+    "body": "Unit 3 Lesson 13 formally defines a **confidence interval** based on the activities of 'The Confidence Game.' It reiterates that in statistics, estimation involves providing a range of values that are confidently believed to contain the population parameter. The intervals created by students during the game serve as practical examples of these confidence intervals. The lesson concludes by stating that further exploration of confidence intervals will occur in the subsequent lesson, Unit 3 Lesson 14."
+  },
+  {
+    "title": "Unit 3 Lesson 13: Class Scribes and Homework Assignment",
+    "body": "As part of Unit 3 Lesson 13, a 'Class Scribes' activity requires one team of students to present a brief talk summarizing what they consider the three most important topics covered during the lesson. The homework assignment for this lesson asks students to write, in their own words, a description of what a **confidence interval** is and explain its purpose and use within the field of statistics. This reinforces the key concepts introduced throughout the lesson."
+  },
+  {
+    "title": "Unit 3 Lesson 13: Confidence Game - Sample Questions and Answers",
+    "body": "Unit 3 Lesson 13 includes 'The Confidence Game' with 10 questions designed to prompt interval estimation. Examples of questions and their corresponding answers are provided for grading purposes: 1. Mickey Mouse film debut year (1928); 2. Lowest temperature in California (-45°F); 3. Number of TV series aired in 2014 (1,715); 4. Earth-moon distance (238,900 miles); 5. Greatest number of children born to one mother (69); 6. Wright brothers' first powered flight year (1903); 7. Rihanna's Number 1 songs on Billboard Dance Club chart as of June 2015 (23); 8. Will Smith and Jada Pinkett-Smith marriage duration as of June 2025 (27 years, married Dec 31, 1997); 9. Google Maps estimated time for LA to NYC road trip (41 hours); 10. Dodger Stadium capacity (56,000 fans). These answers are used to determine if students' estimated intervals were correct."
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Abstract for Unit 3, Section 2: Would You Look at That?",
+    "body": "This section, 'Would You Look at That?', focuses on observational studies, differentiating them from experiments and highlighting their role in identifying associations rather than direct causation. It outlines learning objectives in statistics, data science, and computational thinking using RStudio, emphasizing data collection, cleaning, and analysis. The section includes a hands-on 'Observational Studies Activity' related to social media friends and introduces the 'Lung Capacity of Children' dataset for practical application in RStudio. Language objectives focus on connecting participatory sensing, comparing study types, and understanding causation vs. association. Real-world connections are drawn to fields like economics, psychology, and epidemiology."
+  },
+  {
+    "title": "Enduring Understandings: Observational Studies",
+    "body": "Observational studies are a method of data collection where subjects are observed, and outcomes are recorded without intervention. A key distinction from experiments is the inability to assign subjects to treatment and control groups. This limitation impedes the control of confounding factors. Researchers in observational studies often rely on pre-existing groups. While these studies can reveal associations within the data, they cannot definitively establish cause-and-effect relationships. Such causal conclusions are typically reserved for experimental designs."
+  },
+  {
+    "title": "Engagement: Observational Studies Activity",
+    "body": "Students will engage with the concept of observational studies through an activity called the 'Observational Studies Activity,' detailed in Unit 3 Lesson 5. In this activity, students will collect information solely through observation, using pictures as their data source. The collected data will then be analyzed to explore potential relationships between various variables and the number of friends individuals have on social media platforms. This hands-on experience aims to illustrate how observational data can be used to find associations."
+  },
+  {
+    "title": "Learning Objectives: Statistical/Mathematical",
+    "body": "This unit covers several statistical and mathematical learning objectives. Students will understand statistics as a process for making inferences about population parameters using data from a random sample (S-IC 1). They will learn to recognize the purposes and differences among sample surveys, experiments, and observational studies, and understand how randomization applies to each (S-IC 3). Furthermore, students will develop the skill to evaluate reports that are based on data (S-IC 6)."
+  },
+  {
+    "title": "Learning Objectives: Data Science",
+    "body": "In the realm of data science, students will gain an understanding that data gathered from observational studies can be instrumental in identifying associations between different variables. A crucial concept to be grasped is the explanation of why variables that may not be causally linked in reality might appear to be associated due to the influence of confounding factors. This objective focuses on the critical interpretation of correlational data."
+  },
+  {
+    "title": "Learning Objectives: Applied Computational Thinking using RStudio",
+    "body": "For applied computational thinking using RStudio, students will acquire practical skills. These include downloading data from the internet that was collected through observational studies. They will also learn to clean a dataset by adding appropriate variable names. Finally, students will create scatterplots to visualize the relationship between two variables, enabling them to determine possible associations and identify potential confounding variables within the data."
+  },
+  {
+    "title": "Learning Objectives: Real-World Connections",
+    "body": "The unit highlights the real-world applicability of observational studies across various disciplines. Economists, psychologists, and biologists frequently employ observational studies to investigate human behavior and natural phenomena. A prominent example is in epidemiology, where observational studies are essential for understanding disease outbreaks and patterns in human behavior, demonstrating the significant impact of this research method in practical scientific inquiry."
+  },
+  {
+    "title": "Language Objectives",
+    "body": "The language objectives for this section focus on communication and comprehension related to observational studies. Students will connect data gathered through Participatory Sensing campaigns to the principles of observational studies. They will be able to compare and contrast the methodologies and purposes of observational studies with those of experiments. Additionally, students will articulate the relationship between concepts of causation and mere association as observed in data."
+  },
+  {
+    "title": "Data File: Lung Capacity of Children Dataset",
+    "body": "The 'Lung Capacity of Children' dataset is a key resource for this section. It can be accessed online via a direct link to a CSV file: [https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv](https://raw.githubusercontent.com/thinkdataed/dataset/main/fev.csv). For those interested in the original source, the raw dataset is available at [https://jse.amstat.org/datasets/fev.dat.txt](https://jse.amstat.org/datasets/fev.dat.txt). Further documentation and context for this dataset can be found at [https://jse.amstat.org/v13n2/datasets.kahn.html](https://jse.amstat.org/v13n2/datasets.kahn.html)."
+  },
+  {
+    "title": "Data Collection Method: Observational Data from Pictures",
+    "body": "In addition to using a pre-existing dataset, students will also engage in data collection using observational methods. They will gather information by observing a set of high school students depicted in pictures. This observational approach involves recording specific characteristics presented in the images, providing a practical, hands-on experience with collecting data for analysis in the context of observational studies."
+  },
+  {
+    "title": "Vocabulary: Observational Study",
+    "body": "An observational study is a type of research method where data is collected by observing subjects and recording outcomes without manipulating any variables or assigning subjects to different conditions. Unlike experiments, researchers in observational studies cannot control for all potential confounding factors because they do not assign subjects to treatment or control groups. These studies are valuable for identifying associations and patterns in data but cannot establish causation."
+  },
+  {
+    "title": "Vocabulary: Association vs. Causation",
+    "body": "Association describes a relationship or correlation between two or more variables; when one variable changes, the other tends to change as well. Causation means that a change in one variable directly causes a change in another variable. Observational studies can demonstrate association, but they often struggle to establish causation due to potential confounding variables. Experiments, with their ability to control variables and use randomization, are better suited for demonstrating causation."
+  },
+  {
+    "title": "Vocabulary: Confounding Factor",
+    "body": "A confounding factor, also known as a confounder or confounding variable, is an extraneous variable that affects both the independent and dependent variables in a study. In observational studies, confounding factors can create a spurious association between variables, leading to incorrect conclusions about cause and effect. For example, if studying the association between ice cream sales and crime rates, a confounding factor like warm weather could be responsible for increases in both."
+  },
+  {
+    "title": "RStudio Application: Downloading and Cleaning Data",
+    "body": "As part of the applied computational thinking objectives, students will use RStudio to download data collected via an observational study from the internet. A specific task involves cleaning the downloaded dataset. This cleaning process includes important steps such as adding descriptive variable names to the data, which is crucial for making the dataset understandable and ready for analysis. This practical application mirrors real-world data science workflows."
+  },
+  {
+    "title": "RStudio Application: Scatterplots and Relationship Analysis",
+    "body": "In RStudio, students will create scatterplots to visualize potential relationships between two variables from an observational dataset. Analyzing these scatterplots will help them determine if an association exists and assess the nature of that relationship. A critical component of this analysis is identifying potential confounding variables that might be influencing the observed association, reinforcing the distinction between correlation and causation learned in the data science objectives."
+  },
+  {
+    "title": "Comparing Observational Studies and Experiments",
+    "body": "Observational studies and experiments are distinct research methodologies. In an experiment, researchers actively manipulate one or more variables (independent variables) to observe their effect on another variable (dependent variable), often involving random assignment of subjects to treatment and control groups. In contrast, an observational study involves passively observing subjects and measuring variables of interest without any manipulation or assignment. While experiments aim to establish causation, observational studies primarily reveal associations and are susceptible to confounding factors."
+  },
+  {
+    "title": "Role of Randomization",
+    "body": "Randomization plays a crucial role in statistical studies, particularly in experiments. It involves assigning subjects to different treatment groups by chance. This process helps to ensure that the groups are as similar as possible on average, minimizing the influence of confounding variables. While randomization is a cornerstone of well-designed experiments, it is typically not feasible in observational studies, where researchers observe pre-existing groups or conditions. Sample surveys may use randomization for sampling, but not for assigning treatments."
+  },
+  {
+    "title": "Evaluating Data Reports",
+    "body": "A key statistical learning objective is the ability to evaluate reports based on data. This involves critically assessing how data is presented, interpreted, and used to support conclusions. Students will learn to identify potential biases, limitations of the study design (especially distinguishing between observational studies and experiments), the presence of confounding factors, and whether claims of causation are justified based on the evidence presented. This skill is essential for informed decision-making in a data-driven world."
+  },
+  {
+    "title": "Participatory Sensing and Observational Studies",
+    "body": "Participatory Sensing campaigns, where individuals contribute data often collected through personal devices, can be viewed as a form of large-scale observational study. The data gathered, such as social media interactions or environmental readings, is collected without direct manipulation by the researcher. Students will connect the data they gather from such campaigns to the principles of observational studies, recognizing that the data reflects real-world phenomena as they occur, and can be analyzed for associations and patterns."
+  },
+  {
+    "title": "Epidemiology and Observational Studies",
+    "body": "Epidemiology heavily relies on observational studies to understand health and disease in populations. Researchers in this field observe patterns of illness, risk factors, and behaviors without intervening. For instance, they might observe that people who smoke are more likely to develop lung cancer. While this shows an association, confounding factors (like lifestyle or genetics) must be carefully considered. Observational studies in epidemiology are crucial for generating hypotheses that can later be tested, sometimes through experimental designs or further observational research."
+  }
+]

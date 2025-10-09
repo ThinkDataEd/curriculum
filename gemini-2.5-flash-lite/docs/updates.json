@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Abstract of Updates",
+    "body": "This document summarizes updates made to the Introduction to Data Science (IDS) website, versioned up to July 31, 2025. Key changes across various versions (7.2, 7.1, 7.0, 6.0) include simplifications in statistical question wording, the introduction of pre- and post-implementation assessments like LOCUS, and a new 'IDS Survey' campaign. Lab materials have been updated with numbered questions for better recognition and updated solutions. Naming conventions for LMRs have been standardized. Datasets have been updated for accuracy and recency, with some campaigns now offering anonymized versions accessible via `extra_data()` function calls. Specific units have undergone revisions, such as Unit 3's Practicum and End of Unit Project changes, Unit 2's wording adjustments, and Unit 4's restructuring of its sections on linear regression, multivariable regression, and clustering. Lab instructions have been enhanced with clearer guidance, embedded videos, and interface-specific directions."
+  },
+  {
+    "title": "Version 7.2 Updates: Statistical Questions and Assessments",
+    "body": "Version 7.2 of the Introduction to Data Science (IDS) website introduces simplified wording for statistical questions. Specifically, survey questions are no longer classified as statistical questions, and the term 'investigative' has been removed from 'statistical investigative questions', except in lab contexts. A significant addition is the Pre- and Post-implementation Activities, which utilize the LOCUS (Levels of Conceptual Understanding in Statistics) assessment. This assessment is designed to be administered once before any IDS instruction begins (start/pre-assessment) and again after all IDS instruction for the course has concluded (end/post-assessment). Details for these activities can be found in the 'Addendum_IDS_Survey_LOCUS' file within the Documents Tool on the Portal."
+  },
+  {
+    "title": "Version 7.1 Updates: IDS Survey Campaign and Lab Revisions",
+    "body": "Version 7.1 of the IDS website introduces a new campaign titled 'IDS Survey'. This campaign includes pre-instruction and post-instruction components, to be administered once before instruction of IDS lessons and once after instruction concludes. All labs have been updated to include numbered questions, and some blue questions have been changed to red to aid recognition by LaiLA. Consequently, all LRSs (Lesson Resource Sheets) and lab solutions have been revised to align with this new lab question numbering system. Unit 3 also saw changes: 'TB or Not TB' is now a Practicum in Section 1 (previously an End of Unit Project), the 'Music to my Ears' Practicum was removed, and 'What Does Our Campaign Data Say?' is now the End of Unit Project in Section 5 (previously a Practicum)."
+  },
+  {
+    "title": "Version 7.0 Updates: LMR Naming, Datasets, and Unit-Specific Changes",
+    "body": "Version 7.0 standardized the naming convention for LMRs (Lesson Material Resources) to match the Unit and Lesson structure (e.g., LMR_1.1_Data Diary is now LMR_U1_L1). All preloaded datasets were updated to reflect original variable names (e.g., 'gender' in the 'cdc' dataset is now 'sex'). The 'cdc', 'atus', and 'futbol' datasets have been updated with more recent data. An anonymized dataset for the 'Stress/Chill' campaign is available via `extra_data('stresschill_ids')`, with instructions provided for merging it with class data. Unit 1 saw updates to Lesson 5's 'Oscar winners' data and Lesson 14's use of the 'sex' variable. Unit 2 changed 'biased' to 'unfair' in Lesson 9 and updated 'household size' to 'household activities' (ATUS variable change) in Lesson 17. Unit 3 revised Lesson 8's spurious correlations examples and updated Lessons 21 and 22 to compare HTML and XML code, with corresponding LMR updates."
+  },
+  {
+    "title": "Version 6.0 Updates: Enhanced Labs and Anonymized Datasets",
+    "body": "Version 6.0 introduced clearer instructions for labs, including text directing students to perform tasks within the RStudio/Posit interface using midnightblue font. GPS functionality no longer reports precise locations. Anonymized datasets are now available for the 'Food Habits', 'Personality Colors', and 'Time Use' campaigns, accessible through `extra_data('food_ids')`, `extra_data('color_ids')`, and `extra_data('timeuse_ids')` respectively. Unit 1 campaign guidelines for 'Food Habits' and 'Time Use' were clarified, and LMR_1.1 was updated to reflect 'TikTok' instead of 'Facebook'. LMR_1.16 was updated with new data/color palette, and LMR_118 formatting was improved. Labs 1B, 1C, 1D, and 1F received additional clarifications and guidance, including embedded videos. Unit 2's 'Stress/Chill' campaign questions were clarified, and a picture question was removed. Unit 4 saw a significant overhaul, with Section 1 becoming 'Campaigns and Community', Section 2 improving linear regression flow, Section 3 focusing on multivariable regression, and Section 4 rearranging lessons for better conceptual building. Lesson 18 included instructions for the k-means clustering app. Unit 4 assessments and Lab 4D solutions were also updated."
+  },
+  {
+    "title": "Support and Contact Information",
+    "body": "For any questions or support regarding the Introduction to Data Science (IDS) website and its materials, users are encouraged to contact the support team via email at [support@thinkdataed.org](mailto:support@thinkdataed.org). The website itself, found at [https://www.thinkdataed.org](https://www.thinkdataed.org), was last updated on July 31, 2025."
+  },
+  {
+    "title": "Vocabulary: Statistical Question",
+    "body": "A statistical question is a question that can be answered by data that involves variability. In version 7.2 of the IDS materials, the wording for statistical questions was simplified. It is now clarified that survey questions, in themselves, are not inherently statistical questions unless they are designed to elicit data with variability that can be statistically analyzed. The term 'statistical investigative question' has also been simplified, with 'investigative' being removed except in the context of specific labs."
+  },
+  {
+    "title": "Concept: Pre- and Post-implementation Activities",
+    "body": "Pre- and Post-implementation Activities are a new feature introduced in version 7.2 of the IDS materials, designed to assess student learning before and after instruction. The primary tool for this is the LOCUS (Levels of Conceptual Understanding in Statistics) assessment. The pre-assessment is administered before any IDS instruction begins, providing a baseline understanding. The post-assessment is administered after the completion of IDS instruction, measuring the learning gains. Details and materials for these activities are available in the 'Addendum_IDS_Survey_LOCUS' file, accessible through the Documents Tool on the Portal."
+  },
+  {
+    "title": "Campaign: IDS Survey",
+    "body": "The 'IDS Survey' is a new campaign introduced in version 7.1 of the IDS materials. This campaign is designed to be implemented in two phases: pre-instruction and post-instruction. The pre-survey is to be administered once before any IDS lessons commence, serving as an initial data point. The post-survey is to be administered once more after the conclusion of IDS instruction for the course, allowing for a comparison of data and understanding. This campaign helps in gauging the impact and progression of learning throughout the course."
+  },
+  {
+    "title": "Concept: Lab Question Numbering and Color Coding",
+    "body": "In version 7.1, a significant change was implemented across all labs: the introduction of numbered questions. This change aims to provide a more structured and easily referenceable format for students and instructors. Furthermore, some questions that were previously blue have been changed to red. This color-coding is specifically intended to improve recognition and differentiation for LaiLA, a tool or feature within the IDS environment. All related LRSs and lab solutions have been updated to reflect this new numbering and color scheme for consistency."
+  },
+  {
+    "title": "Unit 3 Revisions: Practicum and Project Changes",
+    "body": "Version 7.1 brought specific revisions to Unit 3 of the IDS materials. The activity 'TB or Not TB' has been transitioned from an End of Unit Project to a Practicum located in Section 1. Conversely, the 'Music to my Ears' Practicum has been entirely removed from the curriculum. Additionally, the activity 'What Does Our Campaign Data Say?' has been moved from being a Practicum to becoming the End of Unit Project, now situated in Section 5. These changes aim to restructure the learning progression and assessment points within Unit 3."
+  },
+  {
+    "title": "Concept: LMR Naming Convention Update",
+    "body": "As of version 7.0, the naming convention for LMRs (Lesson Material Resources) within the IDS website has been updated for better consistency and clarity. The previous naming format has been replaced with a new structure that directly reflects the Unit and Lesson number. For example, an LMR previously named 'LMR_1.1_Data Diary' is now standardized to 'LMR_U1_L1', clearly indicating it belongs to Unit 1, Lesson 1. This change facilitates easier navigation and organization of course materials for both instructors and students."
+  },
+  {
+    "title": "Concept: Dataset Updates and Anonymization (Version 7.0)",
+    "body": "Version 7.0 of the IDS materials includes updates to several preloaded datasets to reflect their original variable names. For instance, the 'gender' variable in the 'cdc' dataset has been changed to 'sex' to align with original documentation. Datasets like 'cdc', 'atus', and 'futbol' have also been updated with more recent data. A notable addition is the availability of an anonymized dataset for the 'Stress/Chill' campaign, accessible via the R command `extra_data('stresschill_ids')`. Instructions are provided on how to merge this anonymized data with existing class data for analysis."
+  },
+  {
+    "title": "Unit 1 Revisions: Data and Variable Updates (Version 7.0)",
+    "body": "In version 7.0, Unit 1 of the IDS materials received several specific updates. Lesson 5's 'Oscar winners' data has been updated. In Lesson 14, both LMR_U1_L14_B and LMR_U1_L14_D now utilize the 'sex' variable instead of 'gender'. Similarly, the third example within the Unit 1 Practicum, titled 'The Summaries', has also been updated to use the 'sex' variable in place of 'gender'. These changes ensure consistency in variable naming and data used across relevant materials."
+  },
+  {
+    "title": "Unit 2 Revisions: Wording and Variable Changes (Version 7.0)",
+    "body": "Version 7.0 includes updates to Unit 2 of the IDS materials. In Lesson 9, the term 'biased' has been replaced with 'unfair' to potentially offer clearer or more accessible language. Lesson 17 has been updated to reflect a change in the 'atus' variable, where 'household size' has been altered to 'household activities'. This modification likely adjusts the focus of data analysis within that lesson."
+  },
+  {
+    "title": "Unit 3 Revisions: Spurious Correlations and Code Comparison (Version 7.0)",
+    "body": "Version 7.0 saw revisions in Unit 3 of the IDS materials. Lesson 8 has been updated with new images and examples related to spurious correlations, reflecting changes on the associated website. Lessons 21 and 22 have undergone significant changes: Lesson 21 now compares HTML code to XML code using a website viewer, and its LMR has been updated accordingly. Lesson 22 focuses on converting XML code into a data table within RStudio, with its corresponding LMR also updated to align with this new practical skill."
+  },
+  {
+    "title": "Concept: Interface-Specific Instructions in Labs (Version 6.0)",
+    "body": "In version 6.0, labs were enhanced with the inclusion of text providing direct instructions for students to complete tasks within the RStudio/Posit interface. These specific instructions are highlighted in a distinct midnightblue font color, making them easily identifiable. This addition aims to guide students more effectively through the practical application of concepts directly within the coding environment, bridging the gap between theoretical knowledge and hands-on experience."
+  },
+  {
+    "title": "Concept: Anonymized Datasets and `extra_data()` Function",
+    "body": "Version 6.0 introduced the availability of anonymized datasets for several campaigns: 'Food Habits', 'Personality Colors', and 'Time Use'. These datasets can be accessed and loaded into the R environment by running specific commands using the `extra_data()` function. The commands are `extra_data('food_ids')`, `extra_data('color_ids')`, and `extra_data('timeuse_ids')`. This feature allows students to practice data analysis on realistic data without compromising individual privacy."
+  },
+  {
+    "title": "Unit 1 Revisions: Campaign Clarity and LMR Updates (Version 6.0)",
+    "body": "Version 6.0 includes several updates for Unit 1. The campaign guidelines for 'Food Habits' and 'Time Use' have been modified for improved clarity. LMR_1.1 was updated to change the reference from 'Facebook' to 'TikTok'. LMR_1.16 received an update with new data and a revised color palette. LMR_118, associated with Lesson 17, has had its plots updated and formatting cleaned up. Additionally, Lab 1B offers more clarification on options and arguments, while Labs 1C and 1F now feature embedded videos for student guidance. Lab 1D provides enhanced explanation regarding filtering techniques and the assignment operator."
+  },
+  {
+    "title": "Unit 2 Revisions: Campaign Clarity (Version 6.0)",
+    "body": "In version 6.0, the 'Stress/Chill' campaign questions within Unit 2 have been modified for improved clarity. This revision aims to make the objectives and tasks of the campaign more understandable for students. Additionally, a specific picture question that was previously part of this campaign has been removed."
+  },
+  {
+    "title": "Unit 4 Revisions: Section Restructuring and Regression Focus (Version 6.0)",
+    "body": "Version 6.0 introduced a significant restructuring of Unit 4. Section 1 is now titled 'Campaigns and Community' and is dedicated to setting the stage for the End of Unit Project. Section 2 has been comprehensively overhauled to enhance the flow of lessons on linear regression. This section now concludes with non-linear models, with Lesson 13 focusing on 'Improving your Model' (previously Lesson 14). Section 3, retitled 'Piecing it Together', now exclusively covers the two lessons on multivariable regression. Furthermore, the lessons in Section 4 have been slightly rearranged, with parts of the original Lesson 17 moved to Lesson 16 to facilitate a better building of concepts."
+  },
+  {
+    "title": "Unit 4 Revisions: K-Means Clustering and End of Unit Project (Version 6.0)",
+    "body": "Further updates in version 6.0 for Unit 4 include Lesson 18, where the LMR was modified for clarity, and instructions for using the k-means clustering app were added. The End of Unit Project is now student-choice based, allowing students to select a community issue to investigate. Unit 4 assessments have also been updated; these can be accessed through the Documents tool on the Portal and include a link to the 'lungs' data and its solutions. The solutions for Lab 4D have been updated, specifically the MSE calculation for the second variable, which now correctly uses the y-variable, 'critics_rating', in the residual calculation/code."
+  },
+  {
+    "title": "Code Snippet: Stress/Chill Anonymized Data Access",
+    "body": "This code snippet demonstrates how to access an anonymized dataset for the 'Stress/Chill' campaign in version 7.0 of the IDS materials. Running `extra_data('stresschill_ids')` will load this dataset. The subsequent commented-out lines provide instructions for merging this anonymized data with a hypothetical class dataset named `p6_stress`. This involves creating a subset of the class data (`stresschill_class`) excluding latitude and longitude, then using `rbind` to combine it with the `stresschill_ids` dataset, resulting in `stresschill_full`."
+  },
+  {
+    "title": "Code Snippet: Anonymized Data Access (Version 6.0)",
+    "body": "This code snippet shows how to access anonymized datasets for campaigns in version 6.0 of the IDS materials. The `extra_data()` function is used to load these datasets. To access the anonymized data for the 'Food Habits' campaign, run `extra_data('food_ids')`. For the 'Personality Colors' campaign, use `extra_data('color_ids')`. For the 'Time Use' campaign, the command is `extra_data('timeuse_ids')`. These commands make the anonymized data available for analysis within the R environment."
+  }
+]

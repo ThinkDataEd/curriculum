@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Abstract of End of Unit 3 Project",
+    "body": "This document outlines the End of Unit 3 Project for analyzing participatory sensing campaign data. Students will revisit statistical questions formulated during campaign creation ([Lesson 16](lesson16.md)) and use RStudio to analyze their class's collected data. The project involves selecting a question, determining relevant variables, performing analysis with graphical and numerical summaries, and interpreting the results. Students will also consider potential additional data needs and explore new statistical questions arising from the analysis. The unit culminates in a one-page report and presentation of findings."
+  },
+  {
+    "title": "End of Unit 3 Project: Analyzing Our Own Campaign Data - Objective",
+    "body": "The primary objective of the End of Unit 3 Project is for students to answer a statistical question they previously generated at the commencement of the Participatory Sensing campaign creation lesson ([Lesson 16](lesson16.md)). This will be achieved by utilizing RStudio to generate graphical representations or numerical summaries of their collected campaign data. The focus is on interpreting the data to answer a specific, self-generated research question."
+  },
+  {
+    "title": "End of Unit 3 Project: Materials",
+    "body": "The essential material for the End of Unit 3 Project is the document 'End of Unit 3 Project: Analyzing Our Own Campaign Data'. This document can be accessed via the provided link: [LMR_U3_End_of_Unit_Project](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_End_of_Unit_Project.pdf). Students will also need access to RStudio and the data collected from their class-created participatory sensing campaign."
+  },
+  {
+    "title": "Project Overview: Analyzing Campaign Data",
+    "body": "This project requires students to analyze and interpret the data collected during their class-created Participatory Sensing campaign. The analysis should directly address a research question that the class developed earlier in the unit, specifically during the campaign creation process outlined in [Lesson 16](lesson16.md). Students will only use data from their own class campaign. A key part of the project involves reflecting on whether additional data would enhance the ability to answer the research question."
+  },
+  {
+    "title": "Steps for Data Analysis in End of Unit 3 Project",
+    "body": "Students must follow a structured approach to analyze their campaign data. First, they need to recall the statistical questions formulated in [Lessons 16](lesson16.md) through [Lesson 18](lesson18.md) that relate to their overarching research question. Second, they must select one specific statistical question and identify the variables essential for answering it. Third, they will perform an analysis using RStudio, which must include generating graphical representations and numerical summaries. This analysis should be accompanied by a description of what the plot illustrates, a justification for the chosen plot type, an explanation of how the plot and summary answer the selected statistical question, and the RStudio code used."
+  },
+  {
+    "title": "Interpreting Analysis and Proposing Further Data",
+    "body": "Following the initial data analysis for the End of Unit 3 Project, students are tasked with considering the sufficiency of the collected data. They must determine if additional data would improve their ability to answer the chosen statistical question. If so, they need to propose specific suggestions, such as acquiring different variables, employing an alternative data collection method, increasing the number of participants, or extending the data collection period."
+  },
+  {
+    "title": "Exploring Additional Statistical Questions",
+    "body": "Beyond the primary statistical question analyzed in the End of Unit 3 Project, students are required to identify and investigate two more statistical questions. These additional questions must also be relevant to the main class research question. For each of these two questions, students will conduct a similar analysis and interpretation of the campaign data. This step encourages a broader exploration of the collected data set."
+  },
+  {
+    "title": "Addressing Data Cleaning and New Questions",
+    "body": "During the process of analyzing data for the End of Unit 3 Project, students may encounter situations where the data requires cleaning before analysis can proceed, or new statistical questions may emerge from their observations. Students must reflect on and explain if either of these scenarios occurred with any of the statistical questions they addressed. This involves critically evaluating the data quality and the evolution of their research inquiries."
+  },
+  {
+    "title": "End of Unit 3 Project: Reporting and Presentation",
+    "body": "The culmination of the End of Unit 3 Project involves synthesizing the findings into a one-page report. This report will detail the analysis performed, the answers to the statistical questions, and reflections on data needs or emerging questions. Subsequently, students will present their report to a classmate who is not a member of their immediate team. This presentation component fosters communication and peer learning regarding data analysis and interpretation."
+  },
+  {
+    "title": "Participatory Sensing Campaign Creation Context",
+    "body": "The End of Unit 3 Project builds directly upon the activities undertaken in [Lesson 16](lesson16.md), which focused on the creation of Participatory Sensing campaigns. During this lesson, the class collaboratively developed a central research question related to a topic of interest. The data analyzed in this end-of-unit project is exclusively derived from the campaign that the class designed and implemented based on that initial research question."
+  },
+  {
+    "title": "RStudio for Data Analysis",
+    "body": "RStudio is the specified tool for conducting the data analysis required in the End of Unit 3 Project. Students will use RStudio to generate both graphical representations (plots) and numerical summaries of their participatory sensing campaign data. A critical requirement is to include the specific RStudio code used for creating these visualizations and summaries within their analysis. This ensures reproducibility and demonstrates the student's technical proficiency in data analysis."
+  },
+  {
+    "title": "Statistical Questions in End of Unit 3 Project",
+    "body": "The End of Unit 3 Project centers on addressing statistical questions generated by students. Initially, in [Lessons 16](lesson16.md) to [Lesson 18](lesson18.md), teams and the class formulated questions related to their campaign's research topic. The project requires selecting one primary question for in-depth analysis, including graphical and numerical summaries, and then exploring two additional statistical questions that also pertain to the main research objective. This iterative process allows for a comprehensive examination of the collected data."
+  },
+  {
+    "title": "Variables for Answering Statistical Questions",
+    "body": "A crucial step in the End of Unit 3 Project is the identification of appropriate variables needed to answer the chosen statistical questions. For the primary statistical question selected for analysis, students must explicitly determine which variables from their participatory sensing campaign data are relevant. Similarly, when analyzing the two additional statistical questions, the selection of pertinent variables is essential for a meaningful interpretation of the results."
+  },
+  {
+    "title": "Components of Data Analysis Submission",
+    "body": "For each statistical question addressed in the End of Unit 3 Project, students must provide several key components. These include the generated plot and any relevant numerical summary. They must also offer a description of what the plot visually represents, an explanation justifying the choice of that specific plot type, and a clear articulation of how both the plot and the numerical summary collectively answer the posed statistical question. Crucially, the RStudio code used to produce these analytical outputs must also be submitted."
+  }
+]

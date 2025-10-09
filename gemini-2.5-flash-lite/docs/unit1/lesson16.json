@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract of Categorical Associations Lesson",
+    "body": "This lesson introduces students to the concept of categorical associations using two-way frequency tables. The primary objective is for students to construct, interpret, and calculate joint relative frequencies. The lesson utilizes a scenario about cat ownership and instrument playing among art students to illustrate these concepts. Key vocabulary includes 'two-way frequency table' and 'joint relative frequency'. Essential concepts explain that two-way tables summarize relationships between two categorical variables and that joint relative frequencies represent the proportion of individuals with specific characteristics across both variables."
+  },
+  {
+    "title": "Unit 1 Lesson 16: Categorical Associations Objective",
+    "body": "The objective of Unit 1 Lesson 16 is for students to gain proficiency in constructing and interpreting two-way frequency tables. A key skill developed in this lesson is the ability to calculate joint relative frequencies, which represent the proportion of data points that fall into specific combinations of categories. This understanding is crucial for analyzing relationships between categorical variables."
+  },
+  {
+    "title": "Vocabulary: Two-Way Frequency Table",
+    "body": "A two-way frequency table is a data structure used to display the frequency distribution of two categorical variables simultaneously. It organizes data into rows and columns, where each cell represents the count of observations that fall into a specific combination of categories from the two variables. This type of table is instrumental in identifying potential associations or relationships between the variables. For instance, it can show how many students own a cat AND play an instrument, or own a cat and DO NOT play an instrument."
+  },
+  {
+    "title": "Vocabulary: Joint Relative Frequency",
+    "body": "A joint relative frequency is a fraction or proportion that indicates how many members of a group possess a specific characteristic AND another specific characteristic. It is calculated by dividing the frequency of a specific cell in a two-way table (representing the intersection of two categories) by the total number of observations in the dataset. For example, if 7 out of 35 students own a cat and play an instrument, the joint relative frequency for that cell is 7/35 or 0.20."
+  },
+  {
+    "title": "Essential Concepts: Two-Way Tables and Joint Relative Frequencies",
+    "body": "A two-way table is a fundamental tool for summarizing and analyzing the association or relationship between two categorical variables. It systematically presents data across two dimensions (rows and columns), allowing for a clear visualization of how different categories of one variable are distributed across the categories of another. Joint relative frequencies, calculated from these tables, answer specific questions about the proportion of individuals or objects that exhibit a particular combination of characteristics. For example, a joint relative frequency can tell us 'what proportion of the students own a cat AND play an instrument?' This is calculated by taking the count in the corresponding cell of the two-way table and dividing it by the total number of students surveyed."
+  },
+  {
+    "title": "Lesson Scenario: Cat Ownership and Musical Instruments",
+    "body": "The lesson begins with a scenario where Rosa investigates a potential association between cat ownership and playing a musical instrument among 35 art students. She surveys students and gathers data such as: 16 students own a cat, and 7 of those play an instrument. Additionally, 9 students own a cat but do not play an instrument, and 9 students neither own a cat nor play an instrument. This scenario provides the raw data to construct a two-way frequency table."
+  },
+  {
+    "title": "Identifying Variables and Data from Scenario",
+    "body": "In Unit 1 Lesson 16, after presenting Rosa's scenario, students are prompted to identify the two questions Rosa likely asked and the variables involved. The questions are identified as 'Do you play an instrument?' and 'Do you own a cat?'. The variables are: Variable 1 (Owns Cat) with values 'yes'/'no', and Variable 2 (Plays Instrument) with values 'yes'/'no'. Students then reconstruct the raw data, noting the counts for each combination: Owns Cat & Plays Instrument (7), Owns Cat & Does Not Play Instrument (9), No Cat & Plays Instrument (10), and No Cat & Does Not Play Instrument (9)."
+  },
+  {
+    "title": "Constructing a Two-Way Frequency Table",
+    "body": "Following the data reconstruction, students in Unit 1 Lesson 16 are guided to organize Rosa's findings into a two-way frequency table. This table uses rows for one variable (e.g., Cat Ownership: Owns a cat, No cats) and columns for the other (e.g., Instrument Playing: Plays an instrument, Does not play instrument). Totals for each row, column, and the overall dataset are included. The completed table for Rosa's data shows: 7 'Owns a cat' & 'Plays instrument', 9 'Owns a cat' & 'Does not play instrument', 10 'No cats' & 'Plays instrument', and 9 'No cats' & 'Does not play instrument', with corresponding row, column, and grand totals, summing to 35 students."
+  },
+  {
+    "title": "Interpreting a Two-Way Frequency Table",
+    "body": "Once the two-way frequency table is constructed (e.g., the 'Cat Ownership and Instruments' table), students in Unit 1 Lesson 16 are tasked with generating questions that can be answered by the data. This exercise reinforces their understanding of how the table represents relationships between categorical variables. For example, one could ask: 'How many students own a cat?', 'How many students play an instrument?', 'How many students do not own a cat and do not play an instrument?', or 'What is the total number of students who play an instrument?'"
+  },
+  {
+    "title": "Calculating Relative Frequencies from a Two-Way Table",
+    "body": "Unit 1 Lesson 16 explains that two-way frequency tables can be used to show relative frequencies. A relative frequency represents the proportion or percentage of occurrences relative to the total. Students are shown how to calculate these by dividing the frequency in each cell (and totals) by the grand total (35 in Rosa's case). For example, the relative frequency of students who own a cat AND play an instrument is 7/35 = 0.20. The lesson provides a completed relative frequency table, showing proportions for each cell and marginal totals, with the grand total equaling 1.00."
+  },
+  {
+    "title": "Activity: Generating and Tabulating Associations",
+    "body": "As part of Unit 1 Lesson 16, students work in teams to generate their own statistical questions involving two categorical variables that they predict might be associated. They then create a corresponding two-way table to represent the data for their chosen variables. This hands-on activity allows students to apply the concepts of constructing and interpreting two-way tables and understanding associations between variables in a context relevant to their interests."
+  },
+  {
+    "title": "Homework: Application of Two-Way Table Concepts",
+    "body": "The homework for Unit 1 Lesson 16 requires students to answer a specific statistical question using the knowledge gained about two-way tables: 'What proportion of students did not play an instrument and did not own a cat?'. Students are expected to use the data from Rosa's scenario and their understanding of two-way tables, likely by referencing the 'No cats' row and 'Does not play instrument' column, and dividing that count by the total number of students. The provided answer is 0.26, corresponding to the joint relative frequency of students falling into neither category."
+  }
+]

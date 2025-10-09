@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Abstract: Lab 1F - Data Cleaning Essentials",
+    "body": "This lab, titled 'A Diamond in the Rough', focuses on essential data cleaning techniques using R. It introduces the concept of messy data, contrasting it with the clean data encountered in previous labs. The lab uses the American Time Use Survey (ATUS) dataset, named 'atu_dirty', to demonstrate common data imperfections such as non-descriptive variable names, misspelled categories, incorrect numerical inputs, and variables being coded as strings instead of numbers. Key R functions covered include 'rename' for fixing variable names, 'as.numeric' for converting strings to numbers, and 'recode' for transforming categorical variable levels into more descriptive strings. Students will practice these techniques by cleaning the 'atu_dirty' dataset and then apply similar principles to clean and recode the 'healthy_level' variable in the 'food' dataset. The lab also emphasizes the importance of saving cleaned data using '.Rda' files to ensure permanent storage of modifications."
+  },
+  {
+    "title": "Introduction to Data Cleaning - Unit 1 Lab 1F",
+    "body": "Unit 1 Lab 1F, 'A Diamond in the Rough', addresses the critical skill of data cleaning. Unlike the 'clean' data previously used, real-world data is often 'messy'. Clean data features understandable variable names, no typos, and correct data types (numerical for numbers, categorical for categories). Messy data, however, can have non-descriptive names (e.g., 'Var01'), misspelled categories (e.g., 'blue', 'Blue', 'blu'), incorrect numerical values (e.g., heights like 64.7, 6.86, 676), or numerical data incorrectly coded as strings (e.g., '64.7' instead of 64.7). This lab provides the tools to identify and rectify these issues. The goal is to transform 'dirty' data into a usable format for analysis, a fundamental step in any data-driven project."
+  },
+  {
+    "title": "The American Time Use Survey (ATU) - Unit 1 Lab 1F",
+    "body": "To illustrate data cleaning, Unit 1 Lab 1F introduces the American Time Use Survey (ATU) dataset, provided as 'atu_dirty' in R. The ATU survey is a government-conducted study, specifically by the Bureau of Labor Statistics, which gathers information from thousands of individuals about their daily activities. By aggregating this data, researchers can understand how the average person in the US spends their time across various activities. This dataset serves as a practical example of 'dirty' data, requiring cleaning before analysis. The lab prompts users to load and view this dataset to identify initial cleaning needs."
+  },
+  {
+    "title": "Loading and Initial Inspection of ATU Data - Unit 1 Lab 1F",
+    "body": "In Unit 1 Lab 1F, the first step in addressing the 'atu_dirty' dataset is to load it into the R environment. This is done using the command `data(atu_dirty)`. Following this, the dataset is opened for visual inspection with `View(atu_dirty)`. This initial viewing is crucial for identifying apparent data quality issues. Users are prompted to observe the data and note down any parts they believe require cleaning. This hands-on approach helps in understanding the nature of messy data directly from the source."
+  },
+  {
+    "title": "Description of ATU Variables - Unit 1 Lab 1F",
+    "body": "Unit 1 Lab 1F provides a description of the variables within the 'atu_dirty' dataset. Initially, these variables have generic names, such as 'V1', 'V2', etc. The descriptions are as follows: 'caseid' is the anonymous ID for each survey taker. 'V1' represents the respondent's age. 'V2' denotes the respondent's sex. 'V3' indicates whether the person is employed full-time or part-time. 'V4' tells us if the person has a physical difficulty. 'V5' records the time spent sleeping in minutes. 'V6' is the time spent on homework in minutes. 'V7' represents the time spent socializing in minutes. Understanding these descriptions is vital for renaming the variables appropriately."
+  },
+  {
+    "title": "Renaming Variables in ATU Data - Unit 1 Lab 1F",
+    "body": "A common issue with messy data is the use of non-descriptive variable names. Unit 1 Lab 1F guides users through renaming these variables in the 'atu_dirty' dataset using R's `rename` function. The process involves assigning new, meaningful names to the existing variables. For example, to rename 'V1' to 'age' and 'V2' to 'sex', the code would be: `atu_cleaner <- rename(atu_dirty, age = V1, sex = V2)`. Users are instructed to use the provided variable descriptions to rename the remaining variables ('V3' through 'V7'). The chosen names should be short, without spaces, and clearly descriptive of the variable's content. This step is essential for improving data readability and interpretability."
+  },
+  {
+    "title": "Understanding Strings in R - Unit 1 Lab 1F",
+    "body": "Unit 1 Lab 1F introduces the concept of 'strings' in R programming. A string is defined as a sequence of characters, essentially representing text or words. Examples of strings include \"string\", \"A1B2c3\", \"Hot Cocoa\", and \"0015\". A key characteristic of strings in R is that they are enclosed in quotation marks (either double or single quotes). This distinction is important because R treats values within quotes differently from numerical values. Understanding strings is fundamental for manipulating text data and for recognizing when numerical data might be incorrectly stored as strings."
+  },
+  {
+    "title": "Identifying Numeric Variables Coded as Strings - Unit 1 Lab 1F",
+    "body": "In Unit 1 Lab 1F, a critical data cleaning challenge addressed is when numerical data is incorrectly stored as strings (characters) in R. This can happen intentionally (e.g., coding 'Yes'/'No' as '1'/'0') or unintentionally. For instance, a variable like 'number of siblings' should be numeric, but might be loaded as a string like '5'. Users are asked to examine the structure (`str`) of the 'atu_cleaner' dataset and compare it with the variable descriptions. They must identify and list variables that should logically be numeric but are currently coded as strings or characters, indicating a need for type conversion."
+  },
+  {
+    "title": "Converting Strings to Numeric Data with `as.numeric` - Unit 1 Lab 1F",
+    "body": "Unit 1 Lab 1F explains how to correct numerical variables that have been mistakenly coded as strings in R. The `as.numeric()` function is introduced for this purpose. This function attempts to convert its input into a numeric data type. For example, `as.numeric(\"3.14\")` will return the number `3.14`. Users are guided to apply this function to the variables they identified as numeric but stored as strings. This is typically done within the `mutate()` function to modify the data frame. The exercise requires selecting one such variable and demonstrating the conversion, then applying it to all identified variables."
+  },
+  {
+    "title": "Using `mutate` and `as.numeric` for Data Cleaning - Unit 1 Lab 1F",
+    "body": "The practical application of converting string-coded numeric variables in Unit 1 Lab 1F involves the `mutate()` function in R. This function allows for the modification or creation of columns within a data frame. For instance, to convert the 'age' variable (which might have been a string) to numeric, the code would be: `atu_cleaner <- mutate(atu_cleaner, age = as.numeric(age))`. The lab prompts users to apply this pattern to one of their identified variables, filling in the blanks: `atu_cleaner <- mutate(atu_cleaner, age = as.numeric(age), ___ = as.numeric(___))`. After testing with one variable, they are instructed to use similar code to convert all identified numeric variables that were improperly coded as strings."
+  },
+  {
+    "title": "Understanding Factors and Levels in R - Unit 1 Lab 1F",
+    "body": "Unit 1 Lab 1F delves into R's handling of categorical data, referred to as 'factors'. A factor is R's data structure for categorical variables. The distinct categories within a factor are called 'levels'. For example, in the ATU data, the 'sex' variable might be coded numerically ('01', '02') but represents categories ('Male', 'Female'). To inspect these levels and their frequencies, the `tally()` function is used, like `tally(~sex, data = atu_cleaner)`. Users are asked to identify the factors in their dataset and list the levels for each, providing insight into how categorical data is represented and enabling subsequent recoding for clarity."
+  },
+  {
+    "title": "Recoding Categorical Variables with `recode` - Unit 1 Lab 1F",
+    "body": "Improving the interpretability of categorical variables often involves making their levels more descriptive. Unit 1 Lab 1F introduces the `recode()` function in R for this purpose. The example provided shows how to change the 'sex' variable's levels from numerical codes ('01', '02') to meaningful strings ('Male', 'Female'). The syntax is: `atu_cleaner <- mutate(atu_cleaner, sex = recode(sex, \"01\" = \"Male\", \"02\" = \"Female\"))`. This command modifies the 'sex' column within the 'atu_cleaner' data frame, replacing old level values with new ones. Users are then tasked with applying this technique to other coded categorical variables in the dataset."
+  },
+  {
+    "title": "Applying `recode` to Physical Difficulty Variable - Unit 1 Lab 1F",
+    "body": "Following the demonstration of `recode` on the 'sex' variable, Unit 1 Lab 1F requires users to apply a similar process to the variable indicating physical difficulty in the ATU data. Currently, this variable uses '01' to mean 'Person surveyed did not have a physical challenge' and '02' to mean 'Person surveyed did have a physical challenge'. Users must write and execute R code using `mutate` and `recode` to change these numerical codes into the descriptive strings 'No Physical Challenge' and 'Has Physical Challenge' (or similar clear labels). This reinforces the practical application of recoding for better data understanding."
+  },
+  {
+    "title": "Creating an R Script for Data Cleaning - Unit 1 Lab 1F",
+    "body": "Unit 1 Lab 1F culminates in creating a complete R script to automate the data cleaning process for the ATU data. The script should include all the steps covered: loading the `atu_dirty` dataset, performing the necessary cleaning operations (renaming variables, converting strings to numeric, recoding categorical variables), and finally, saving the cleaned data. This is a crucial step for reproducibility. The lab also includes a link to a video explaining R Scripts, emphasizing their importance in organizing and saving analysis workflows."
+  },
+  {
+    "title": "Saving Cleaned Data Permanently - Unit 1 Lab 1F",
+    "body": "A critical aspect of data cleaning in Unit 1 Lab 1F is the permanent saving of the cleaned data. After cleaning, users create a final version of the data frame, often named `atu_clean`, using `atu_clean <- atu_cleaner`. It's stressed that this object existing only in the R 'Environment' is temporary. To ensure the cleaned data is not lost upon closing R, it must be saved as an R data file (`.Rda`). The command `save(atu_clean, file = \"atu_clean.Rda\")` achieves this. This creates a file that can be reloaded later, preserving all the cleaning efforts. The saved file will appear in the 'Files' pane."
+  },
+  {
+    "title": "Cleaning the 'food' Dataset - Categorical Variable Conversion - Unit 1 Lab 1F",
+    "body": "In the final part of Unit 1 Lab 1F, users apply data cleaning concepts to a different dataset: 'food'. After importing the 'food' data, they are asked to create a histogram of 'calories' by 'healthy_level' using `histogram(~calories | healthy_level, data = food)`. Initially, 'healthy_level' might be treated as a continuous variable or have basic factor representation. Users are instructed to use the `as.factor()` function to explicitly convert 'healthy_level' into a categorical variable (factor). Re-running the histogram after this conversion allows them to observe the change in how the data is visualized, typically showing distinct categories on the x-axis."
+  },
+  {
+    "title": "Cleaning the 'food' Dataset - Recoding 'healthy_level' - Unit 1 Lab 1F",
+    "body": "Building upon the previous step, Unit 1 Lab 1F guides users to further refine the 'healthy_level' variable in the 'food' dataset by recoding its categories. After converting 'healthy_level' to a factor using `as.factor()`, the categories might still be represented by simple numbers (e.g., '1', '2', '3', '4', '5'). The lab instructs users to use the `recode()` function, similar to how it was used for the ATU data, to replace these numbers with descriptive labels: '1' becomes 'Very Unhealthy', '2' becomes 'Unhealthy', '3' becomes 'Neutral', '4' becomes 'Healthy', and '5' becomes 'Very Healthy'. After recoding, the `histogram()` function is re-run to appreciate the enhanced interpretability of the plot."
+  },
+  {
+    "title": "Saving the Cleaned 'food' Data - Unit 1 Lab 1F",
+    "body": "Similar to the ATU data, the modifications made to the 'food' dataset's 'healthy_level' variable in Unit 1 Lab 1F are not permanent unless explicitly saved. The lab reminds users that if the 'food' data frame is cleared from their R Environment, the changes to 'healthy_level' will be lost. Therefore, the final instruction is to permanently save the modified 'food' data. This is done by saving the data frame as an R data file (`.Rda`), similar to how the `atu_clean` data was saved. This ensures that the cleaned and recoded 'food' data is preserved for future use."
+  }
+]

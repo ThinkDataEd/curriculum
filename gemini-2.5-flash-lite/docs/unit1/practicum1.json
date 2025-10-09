@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract: Practicum - The Data Cycle & My Food Habits",
+    "body": "This practicum, \"The Data Cycle & My Food Habits,\" is an application-based activity for students to utilize the Data Cycle with data collected from the \"Food Habits\" campaign. The objective is for students to apply their understanding of the Data Cycle to analyze their food consumption patterns and present their findings. Key tasks include creating a Data Cycle poster, generating at least one statistical graphic using RStudio, and presenting their findings with data-backed evidence. The practicum also outlines award categories for outstanding posters and provides a detailed scoring guide to evaluate student work based on their illustration of the Data Cycle, statistical graphic creation, and the quality of their answer and justification to a research question about snacking habits. This hands-on experience reinforces the connection between data collection, analysis, and interpretation in understanding personal behaviors."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Objective",
+    "body": "The primary objective of this practicum is for students to actively apply the concepts of the Data Cycle to the data they gathered during the \"Food Habits\" campaign. This practical exercise aims to solidify their understanding of the entire data analysis process, from initial questions to drawing conclusions. Students are expected to synthesize their learning by presenting their findings and insights derived from their personal food habit data to the entire class, demonstrating their grasp of data interpretation and communication."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Materials",
+    "body": "To successfully complete the \"The Data Cycle & My Food Habits\" practicum, students will require specific materials. These include \"The Data Cycle Practicum\" document, which serves as a guide ([LMR_U1_Practicum_Data_Cycle](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Practicum_Data_Cycle.pdf)). Additionally, students will need physical poster paper and markers to visually represent their work and findings. These materials are essential for illustrating the Data Cycle and presenting the results of their data analysis."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Research Topic",
+    "body": "The central research topic for this practicum is: \"What do our snacking habits reveal about us?\". Students, working in pairs, will use the Data Cycle framework to explore this question. The practicum requires them to delve into the data they collected during the \"Food Habits\" campaign to find answers and insights related to their snacking patterns. This topic encourages personal reflection and the application of data analysis skills to understand individual behaviors within a group context."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Tasks",
+    "body": "This practicum involves several key tasks designed to guide students through the Data Cycle and the analysis of their \"Food Habits\" campaign data. Firstly, students must create a Data Cycle poster that visually explains how the Data Cycle was employed to investigate the research topic. Secondly, they are required to use RStudio to generate at least one statistical graphic, which must be incorporated into their poster. Finally, students, in pairs, will present their findings, using the created graphic and other data evidence to support their conclusions regarding snacking habits."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Awards",
+    "body": "To recognize excellence in the \"The Data Cycle & My Food Habits\" practicum, teachers will select outstanding posters based on specific categories. These awards celebrate different aspects of the students' work: \"Best Statistical Question\" acknowledges the clarity and relevance of the question posed. \"Most Interesting Statistical Graphic\" highlights creativity and effectiveness in data visualization. \"Best Illustration of the Data Cycle\" recognizes a clear and accurate representation of the data analysis process. These awards serve to motivate students and draw attention to high-quality work."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Scoring Guide (4-point)",
+    "body": "A 4-point response for the \"The Data Cycle & My Food Habits\" practicum demonstrates a comprehensive understanding and application of the Data Cycle. This includes a correct illustration of the Data Cycle's use in addressing the research question. A correctly created statistical graphic (e.g., histogram, bar chart, scatterplot) is mandatory. The response must present a clear answer to the statistical question along with a justification. Crucially, the justification needs to incorporate both statistical concepts learned (e.g., identifying variables) AND acknowledgment of variability in the data (e.g., providing a range of values)."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Scoring Guide (3-point)",
+    "body": "A 3-point response for the \"The Data Cycle & My Food Habits\" practicum shows a strong grasp of the practicum's requirements but with a slight deficiency. The poster correctly illustrates the Data Cycle's application to the research question, and a statistical graphic has been correctly created. An answer and justification for the statistical question are presented. However, the justification includes either mention of statistical concepts (e.g., \"The variables are...\") OR acknowledgment of variability (e.g., \"There are between... and...\"), but not both, differentiating it from a 4-point response."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Scoring Guide (2-point)",
+    "body": "A 2-point response for the \"The Data Cycle & My Food Habits\" practicum indicates partial success in meeting the practicum's goals. The poster offers a partial illustration of how the Data Cycle addresses the research question. A statistical graphic has been created, though it might not be perfectly executed. An answer to the statistical question is provided, accompanied by a justification. However, the depth or completeness of either the Data Cycle illustration or the justification may be lacking compared to higher-scoring responses."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Scoring Guide (1-point)",
+    "body": "A 1-point response for the \"The Data Cycle & My Food Habits\" practicum signifies minimal achievement of the practicum's objectives. The poster incorrectly illustrates the Data Cycle's role in addressing the research question. While an answer to the statistical question is presented, the justification is missing. A statistical graphic (e.g., histogram, bar chart, scatterplot) may have been correctly created, but the overall representation of the Data Cycle and the explanation of findings are significantly deficient."
+  },
+  {
+    "title": "Unit 1 Practicum: The Data Cycle & My Food Habits - Scoring Guide (0-point)",
+    "body": "A 0-point response for the \"The Data Cycle & My Food Habits\" practicum indicates a failure to meet the basic requirements of the activity. This includes the complete absence of the Data Cycle representation or a depiction that does not address the research question. Furthermore, a statistical graphic is either incorrectly created or entirely missing. Critically, no answer is provided for the statistical question, and/or no justification is offered to support any potential findings, signifying a lack of engagement with the core tasks of the practicum."
+  },
+  {
+    "title": "Concept: The Data Cycle",
+    "body": "The Data Cycle is a framework used in data analysis to guide the process from initial inquiry to conclusion. It typically involves stages such as asking questions, collecting data, analyzing data, and interpreting results. In the context of \"The Data Cycle & My Food Habits\" practicum, students apply this cycle to understand their snacking habits. The practicum emphasizes illustrating how the Data Cycle is used to address a specific research topic, highlighting its iterative and systematic nature in deriving insights from data."
+  },
+  {
+    "title": "Concept: Statistical Graphic",
+    "body": "A statistical graphic is a visual representation of data used to aid understanding and analysis. For the \"The Data Cycle & My Food Habits\" practicum, students are required to create at least one statistical graphic using RStudio, such as a histogram, bar chart, or scatterplot. This graphic must be included on their poster and used as evidence to support their findings related to the research topic on snacking habits. The quality and appropriateness of the graphic are key components evaluated in the scoring guide."
+  },
+  {
+    "title": "Concept: Variability in Data",
+    "body": "Variability in data refers to the fact that data values in a set are not all the same. Acknowledging and describing variability is a crucial aspect of statistical understanding. In the \"The Data Cycle & My Food Habits\" practicum, a 4-point response requires students to include a justification that acknowledges variability, for example, by stating the range of values observed (e.g., \"There are between __ and __.\"). This demonstrates an understanding that data sets have spread and differ, which is fundamental to drawing accurate conclusions."
+  },
+  {
+    "title": "RStudio Use in Practicum",
+    "body": "RStudio is a required tool for the \"The Data Cycle & My Food Habits\" practicum. Students must utilize RStudio to create at least one statistical graphic. This could include generating visualizations like histograms, bar charts, or scatterplots based on the data collected during the \"Food Habits\" campaign. The ability to effectively use RStudio for data visualization is a key skill being assessed, and the resulting graphic must be integrated into the student's Data Cycle poster as evidence for their findings."
+  }
+]

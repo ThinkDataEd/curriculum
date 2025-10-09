@@ -1,0 +1,138 @@
+[
+  {
+    "title": "Abstract for Lab 4D - Interpreting Correlations",
+    "body": "This document outlines Lab 4D, focused on interpreting correlation coefficients to understand the strength and direction of linear relationships between variables. The lab uses the 'movie' dataset to explore which variables best predict a movie's 'critics_rating' using a line of best fit. It covers the definition and interpretation of correlation coefficients, including their values near 1, -1, and 0. Practical exercises involve calculating correlation coefficients using the 'cor()' function, fitting linear models using 'lm()', and computing Mean Squared Error (MSE) to compare predictive power. The lab also prompts students to analyze scatterplots, assess the appropriateness of correlation for different variable types, and work collaboratively to identify strongly correlated variables within the dataset."
+  },
+  {
+    "title": "Lab 4D Introduction and Objectives",
+    "body": "Lab 4D, titled 'Interpreting correlations', guides students through understanding the predictive power of variables using correlation coefficients. The primary objective is to determine which variables in the 'movie' dataset are the best predictors of a movie's 'critics_rating' when using a line of best fit. Students will follow along with slides, completing questions in blue on their computers and answering questions in red in their journals. This lab builds upon previous lessons about measuring model success by evaluating how close predictions are to actual observations. The correlation coefficient is introduced as a tool to assess prediction outcomes without needing to predict on future data."
+  },
+  {
+    "title": "Correlation Coefficient Definition and Properties",
+    "body": "The correlation coefficient is a statistical measure that quantifies the strength and direction of a linear trend between two variables. It is most useful when the relationship between the variables is linear and both variables are numerical. A correlation coefficient close to 1 indicates a strong positive linear relationship, meaning as one variable increases, the other tends to increase. Conversely, a value close to -1 signifies a strong negative linear relationship, where an increase in one variable corresponds to a decrease in the other. If the correlation coefficient is close to 0, it suggests there is no significant linear relationship between the two variables. The provided image (img/4xd0a.png) visually represents data points and their potential linear trends."
+  },
+  {
+    "title": "Interpreting Scatterplots and Correlation (1-3)",
+    "body": "Before calculating, students are asked to visually inspect a scatterplot (img/4xd0a.png) to determine if the variables are linearly related and to guess the correlation coefficient. Question (1) asks: 'Are these variables linearly related? Why or why not?' This encourages an analysis of the scatterplot's pattern. Question (2) asks: 'Does this plot have a positive or negative correlation?', prompting an assessment of the general trend direction. Question (3) asks: 'What do you guess the correlation coefficient will be for these two variables?', requiring an estimation based on the visual evidence of the scatterplot's tightness and direction. These questions emphasize the visual interpretation of data before applying numerical calculations."
+  },
+  {
+    "title": "The 'movie' Dataset and Variables",
+    "body": "The lab utilizes the 'movie' dataset, sourced from platforms like IMDB and Rotten Tomatoes. Students are instructed to load this data using the 'data()' command (Question 4). Key variables within this dataset include: 'critics_rating' (0-100, 100 is best), 'audience_rating' (0-10, 10 is best), 'n_critics' (number of critic reviews), 'n_audience' (number of audience reviews), 'gross' (movie's revenue), and 'budget' (film production cost). Understanding these variables is crucial for the subsequent analysis of correlations and predictive modeling."
+  },
+  {
+    "title": "Calculating Correlation Coefficients with 'cor()'",
+    "body": "To quantify the linear relationship between variables, the 'cor()' function is used. For the 'movie' dataset, students will calculate the correlation coefficient between 'audience_rating' and 'critics_rating' (Question 5). It is important to note that the 'cor()' function automatically excludes any observations with missing ('NA') values in either of the variables being analyzed. The syntax for 'cor()' is similar to that of 'xyplot()', requiring the dataset and the names of the two variables as arguments. This calculation provides a numerical value for the strength and direction of the linear association."
+  },
+  {
+    "title": "Interpreting Calculated Correlation Coefficients (6-10)",
+    "body": "After calculating the correlation coefficient for 'audience_rating' and 'critics_rating' (Question 6), students must interpret the result. Question (7) asks how the actual value compares to their earlier estimate (from Question 3). Question (8) requires classifying the association as strong, weak, or moderate and providing a justification based on the calculated value. Questions (9) and (10) explore how changes in the scatterplot's appearance would affect the correlation's strength: 'How would the scatterplot need to change in order for the correlation to be stronger?' and 'How would it need to change in order for the correlation to be weaker?' This section solidifies the understanding of correlation values."
+  },
+  {
+    "title": "Identifying Strongest Predictors of 'critics_rating'",
+    "body": "The lab progresses to identifying the best predictors for 'critics_rating' within the 'movie' dataset. Students are tasked with finding the two variables that exhibit the strongest correlation with 'critics_rating' (Question 11). They will then compute the specific correlation coefficients for 'critics_rating' against each of these two identified variables (Question 12). Using these computed coefficients, they will determine which of the two variables has a stronger linear relationship with 'critics_rating' (Question 13), applying the principles of correlation interpretation."
+  },
+  {
+    "title": "Comparing Predictive Models with Linear Regression and MSE",
+    "body": "Following the identification of potential predictors, students will build and evaluate linear models. They will use the 'lm()' function to fit two models: one predicting 'critics_rating' using the first identified strong predictor, and another using the second strong predictor (Question 14). For each model, the Mean Squared Error (MSE) will be computed. MSE is a metric that quantifies the average squared difference between the predicted values and the actual values. By comparing the MSE values, students will determine which variable serves as a better predictor of 'critics_rating' (Question 15). Finally, Question (16) asks students to analyze the relationship between the correlation coefficient and the MSE."
+  },
+  {
+    "title": "Independent Exploration with 'movie' Dataset Variables (17-19)",
+    "body": "In the 'On your own' section, students engage in independent analysis. They must select two different numerical variables from the 'movie' dataset and create a scatterplot using the 'xyplot()' function (Question 17). Following this, they must justify whether calculating a correlation coefficient for these chosen variables is appropriate (Question 18), likely considering the linearity of the relationship observed in the plot. They will then predict the correlation coefficient's value, compute the actual coefficient, and interpret its meaning in the context of the selected variables (Question 19)."
+  },
+  {
+    "title": "Collaborative Discovery and Correlation Appropriateness (20-22)",
+    "body": "The final part of the lab involves collaboration and deeper reflection. Students will work together to identify the pair of variables within the 'movie' dataset that exhibits the strongest correlation coefficient (Question 20). They will then discuss potential reasons why these variables might be so strongly related (Question 21), encouraging critical thinking about the underlying context of the data. Lastly, they will evaluate whether using the correlation coefficient is an appropriate way to describe the relationship between these identified variables and provide their reasoning (Question 22), reinforcing the conditions under which correlation is a valid measure."
+  },
+  {
+    "title": "Vocabulary: Correlation Coefficient",
+    "body": "The *correlation coefficient* is a statistical measure used to describe the strength and direction of the linear relationship between two numerical variables. Its value ranges from -1 to +1. A value close to +1 indicates a strong positive linear correlation (as one variable increases, the other tends to increase). A value close to -1 indicates a strong negative linear correlation (as one variable increases, the other tends to decrease). A value close to 0 suggests a weak or non-existent linear correlation. It is important that the relationship is linear and both variables are numeric for the correlation coefficient to be a meaningful descriptor."
+  },
+  {
+    "title": "Vocabulary: Linear Trend",
+    "body": "A *linear trend* describes a pattern in a dataset where the relationship between two variables can be reasonably represented by a straight line. In a scatterplot, data points exhibiting a linear trend will generally cluster around an upward-sloping line (positive trend) or a downward-sloping line (negative trend). The *correlation coefficient* is specifically designed to measure the strength and direction of this type of linear association. If the relationship between variables is curved or shows a more complex pattern, a linear trend is not present, and the correlation coefficient may not be an appropriate measure of association."
+  },
+  {
+    "title": "Vocabulary: Line of Best Fit",
+    "body": "A *line of best fit*, often determined using methods like least squares regression, is a straight line drawn through the center of a scatterplot that best represents the relationship between the variables. It minimizes the overall distance between the line and the data points. In the context of Lab 4D, the line of best fit is used to visualize and quantify the linear trend. The strength of the correlation coefficient helps indicate how closely the data points adhere to this line. A strong correlation means the data points are close to the line of best fit, suggesting the line is a good predictor."
+  },
+  {
+    "title": "Vocabulary: Mean Squared Error (MSE)",
+    "body": "Mean Squared Error (MSE) is a common metric used to evaluate the performance of a regression model, including linear models. It measures the average of the squares of the errors—that is, the average squared difference between the actual observed values and the values predicted by the model. A lower MSE indicates a better fit of the model to the data, meaning the model's predictions are, on average, closer to the actual outcomes. In Lab 4D, MSE is used alongside correlation coefficients to compare the predictive accuracy of different variables for 'critics_rating'."
+  },
+  {
+    "title": "Code Snippet: Loading Data with 'data()'",
+    "body": "The `data()` command in R is used to load datasets into the current working environment. In Lab 4D, students are instructed to use this command to load the 'movie' dataset. The syntax is typically `data('dataset_name')`. For example, to load the 'movie' dataset, the code would be `data(movie)`. This makes the variables within the 'movie' dataset accessible for analysis, such as plotting and calculating correlations. This is a fundamental step for data exploration and analysis in R."
+  },
+  {
+    "title": "Code Snippet: Calculating Correlation with 'cor()'",
+    "body": "The `cor()` function in R is used to compute correlation coefficients between variables. To find the correlation between two specific variables, say `var1` and `var2`, from a dataset `my_data`, the syntax is `cor(my_data$var1, my_data$var2)`. This function calculates the Pearson correlation coefficient, which measures the linear relationship. Importantly, `cor()` automatically handles missing values (NA) by excluding any pair of observations where either value is missing. Question (5) prompts students to use this function for 'audience_rating' and 'critics_rating'."
+  },
+  {
+    "title": "Code Snippet: Creating Scatterplots with 'xyplot()'",
+    "body": "The `xyplot()` function, typically from the `lattice` package in R, is used to create scatterplots. Scatterplots are essential for visualizing the relationship between two numerical variables. The basic syntax to plot `y_variable` against `x_variable` from a dataset `my_data` is `xyplot(y_variable ~ x_variable, data = my_data)`. This function helps in visually assessing whether a linear trend exists, which is a prerequisite for interpreting the correlation coefficient meaningfully. Students use `xyplot()` in Question (17) for independent exploration."
+  },
+  {
+    "title": "Code Snippet: Fitting Linear Models with 'lm()'",
+    "body": "The `lm()` function in R is used to fit linear models. It is fundamental for regression analysis. To fit a model where `response_variable` is predicted by `predictor_variable` using data from `my_data`, the syntax is `lm(response_variable ~ predictor_variable, data = my_data)`. This function returns an object containing details about the fitted model, including coefficients, residuals, etc. In Lab 4D, students use `lm()` to build models predicting 'critics_rating' and subsequently calculate MSE to evaluate model performance, as seen in Question (14)."
+  },
+  {
+    "title": "Question 1 & 2: Assessing Linearity and Correlation Direction",
+    "body": "Question (1) asks students to examine a scatterplot (img/4xd0a.png) and determine if the variables displayed exhibit a linear relationship, providing a justification. This involves observing if the data points roughly form a straight line. Question (2) requires identifying whether the apparent correlation in the same scatterplot is positive or negative. A positive correlation is indicated by an upward trend (as X increases, Y tends to increase), while a negative correlation is shown by a downward trend (as X increases, Y tends to decrease). These questions focus on the initial visual interpretation of data relationships."
+  },
+  {
+    "title": "Question 3: Estimating Correlation Coefficient",
+    "body": "Following the visual assessment of a scatterplot in Question (1) and (2), Question (3) prompts students to make a numerical estimation: 'What do you guess the correlation coefficient will be for these two variables?' This requires translating the perceived strength and direction of the linear trend from the scatterplot into an approximate numerical value between -1 and 1. This serves as a prediction to be compared against the actual calculated value later in the lab, reinforcing the connection between visual patterns and quantitative measures."
+  },
+  {
+    "title": "Question 4: Loading the 'movie' Dataset",
+    "body": "Question (4) requires students to load the 'movie' dataset into their R environment. The instruction is to 'Write and run code loading the movie data using the data command.' The expected command is `data(movie)`. This action makes the dataset's variables accessible for analysis throughout the lab. The question also provides context about the dataset's origins (IMDB, Rotten Tomatoes) and defines key variables like 'critics_rating', 'audience_rating', 'n_critics', 'n_audience', 'gross', and 'budget', which are crucial for understanding the subsequent tasks."
+  },
+  {
+    "title": "Question 5: Calculating Correlation between 'audience_rating' and 'critics_rating'",
+    "body": "This question directs students to calculate the specific correlation coefficient between the 'audience_rating' and 'critics_rating' variables within the 'movie' dataset. They are instructed to use the `cor()` function for this purpose. The prompt notes that the function's inputs work similarly to the `xyplot()` function, implying that the arguments will likely be the dataset and the two variable names or accessed via the '$' operator (e.g., `cor(movie$audience_rating, movie$critics_rating)`). This is a hands-on application of the `cor()` function learned earlier."
+  },
+  {
+    "title": "Question 6-8: Interpreting the Calculated Correlation",
+    "body": "These questions focus on interpreting the numerical correlation coefficient calculated in Question (5). Question (6) asks for the specific value obtained. Question (7) requires comparing this actual value to the student's earlier estimate from Question (3), prompting reflection on the accuracy of their initial visual assessment. Question (8) asks students to classify the strength of the association (strong, weak, or moderate) based on the calculated coefficient and justify their reasoning, reinforcing the meaning of different correlation values."
+  },
+  {
+    "title": "Question 9 & 10: Modifying Scatterplots for Correlation Strength",
+    "body": "Questions (9) and (10) challenge students to think about the visual representation of correlation. Question (9) asks: 'How would the scatterplot need to change in order for the correlation to be stronger?' This implies that a stronger correlation would be represented by data points clustering more tightly around the line of best fit. Conversely, Question (10) asks: 'How would it need to change in order for the correlation to be weaker?' This suggests that data points would become more scattered or deviate further from a linear pattern, leading to a correlation coefficient closer to zero."
+  },
+  {
+    "title": "Question 11-13: Identifying and Comparing Strongest Predictors",
+    "body": "This section shifts focus to predictive modeling. Question (11) requires students to identify the two variables in the 'movie' dataset that appear to have the strongest correlation with 'critics_rating', likely by examining scatterplots or calculating several coefficients. For these two identified variables, Question (12) asks to compute their respective correlation coefficients with 'critics_rating'. Finally, Question (13) uses these calculated coefficients to definitively determine which of the two variables possesses a stronger linear relationship with 'critics_rating'."
+  },
+  {
+    "title": "Question 14 & 15: Evaluating Predictors using Linear Models and MSE",
+    "body": "Building on the previous questions, students are tasked with fitting linear models. Question (14) instructs them to use the `lm()` function to create two separate models: one predicting 'critics_rating' using the first strong predictor identified, and another using the second predictor. For each model, they must also compute the Mean Squared Error (MSE). Question (15) then requires them to use these MSE values to determine which of the two variables is the better predictor of 'critics_rating', demonstrating a comparison based on model performance."
+  },
+  {
+    "title": "Question 16: Relationship between Correlation and MSE",
+    "body": "Question (16) asks students to synthesize their findings from the previous steps by explaining 'How are the correlation coefficient and the MSE related?' This question encourages students to connect the two different metrics used to assess relationships and predictive power. They should recognize that a stronger positive or negative correlation (closer to 1 or -1) generally corresponds to a lower MSE, indicating that a variable with a strong linear association is likely to be a better predictor, resulting in smaller prediction errors."
+  },
+  {
+    "title": "Question 17: Independent Scatterplot Creation",
+    "body": "In the 'On your own' section, Question (17) directs students to select any two *different* numerical variables from the 'movie' dataset. They must then create a scatterplot of these two variables using the `xyplot()` function. This exercise allows students to practice data visualization independently and explore potential relationships beyond those explicitly guided in the earlier parts of the lab, fostering self-directed learning and discovery."
+  },
+  {
+    "title": "Question 18: Appropriateness of Correlation Coefficient",
+    "body": "After creating a scatterplot of their chosen variables in Question (17), students must address the appropriateness of calculating a correlation coefficient for them. Question (18) asks: 'Would calculating a correlation coefficient for the two variables be appropriate? Justify your answer.' The justification should be based on the visual characteristics of the scatterplot created, primarily assessing whether the relationship appears linear. If the relationship is non-linear (e.g., curved), calculating a correlation coefficient would be misleading."
+  },
+  {
+    "title": "Question 19: Independent Correlation Calculation and Interpretation",
+    "body": "Continuing the independent exploration from Question (17), Question (19) involves several steps. First, students must predict what value they think the correlation coefficient will be for their chosen variables. Second, they need to calculate the actual correlation coefficient. Finally, they must interpret what this actual correlation coefficient means in the context of the two variables they selected, linking the numerical value back to the nature of their relationship."
+  },
+  {
+    "title": "Question 20: Collaborative Identification of Strongest Correlation",
+    "body": "Question (20) shifts the lab activity to a collaborative effort among classmates. The goal is for the group to work together to determine which *two variables* within the entire 'movie' dataset have the *strongest correlation coefficient*. This involves potentially calculating multiple correlation coefficients or sharing findings to identify the pair with the highest absolute correlation value (closest to 1 or -1)."
+  },
+  {
+    "title": "Question 21: Explaining Strong Variable Relationships",
+    "body": "Following the collaborative identification of the pair of variables with the strongest correlation in Question (20), Question (21) asks students to delve into the 'why'. They must consider and discuss potential reasons for this strong relationship. This encourages critical thinking about the real-world context represented by the 'movie' dataset, prompting hypotheses about what underlying factors might cause these specific variables to be so closely linked linearly."
+  },
+  {
+    "title": "Question 22: Evaluating Appropriateness of Correlation Coefficient",
+    "body": "The final question, (22), asks students to evaluate whether using the correlation coefficient is an appropriate method to describe the relationship identified in Question (20) and (21). They need to provide a 'why/why not' justification. This requires them to recall the conditions under which correlation is a valid measure (linearity, numeric variables) and consider if those conditions are met, and if correlation fully captures the nature of the relationship, even if it is strong."
+  }
+]

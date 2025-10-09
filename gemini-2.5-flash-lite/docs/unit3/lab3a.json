@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Abstract of Lab 3A",
+    "body": "Lab 3A, titled 'The results are in!', focuses on analyzing data from a previous experiment that investigated how a stimulus affects people's perception of time. Students are guided through the process of formulating statistical investigative questions, importing and analyzing their experimental data using RStudio, and interpreting the results. The lab emphasizes creating appropriate plots and numerical summaries, and using repeated shuffling to assess the likelihood of observed differences occurring by chance. Finally, students will write a report to answer the research question based on their data analysis."
+  },
+  {
+    "title": "Unit 3 Lab 3A: Introduction to Data Analysis",
+    "body": "This lab, Unit 3 Lab 3A, 'The results are in!', guides students through the analysis of data collected from a previous experiment. The core research question is: 'Does the stimulus your class chose change people's perception of time?' Students will follow along with slides to complete questions marked in blue on their computer and in red in their journal. The process begins with formulating statistical investigative questions to address the main research question. Subsequently, students will export, upload, and import their experiment data into RStudio. If questions arise, looking at the data variables and considering how they can be used to answer the research question is recommended."
+  },
+  {
+    "title": "Formulating Statistical Investigative Questions",
+    "body": "In Unit 3 Lab 3A, a key step is to develop statistical investigative questions that help answer the primary research question: 'Does the stimulus your class chose change people's perception of time?' Students are prompted to write down two such questions, which will guide their data analysis. The instructions suggest that if students struggle to formulate these questions, they should load their experimental data into RStudio and examine the available variables. By understanding the variables, they can better formulate questions about how these variables relate to the research question and how they can be used to find an answer."
+  },
+  {
+    "title": "Data Preparation and Import into RStudio",
+    "body": "As part of Unit 3 Lab 3A, after formulating statistical investigative questions, students are instructed to prepare their experimental data for analysis. This involves a sequence of actions: first, to *export* the data from wherever it is stored. Second, to *upload* this exported data to a suitable location or platform if necessary. Finally, to *import* the data into RStudio, the statistical software environment. This step is crucial for enabling the subsequent data visualization and numerical summarization that will be performed to answer the research question about stimulus and time perception."
+  },
+  {
+    "title": "Analyzing Data with Plots and Summaries",
+    "body": "In Unit 3 Lab 3A, the core data analysis phase involves using RStudio to answer the statistical investigative questions. Students are instructed to *create appropriate plots* that visually represent the data and help in understanding trends or differences related to the stimulus. Concurrently, they must *calculate appropriate numerical summaries* (such as means, medians, or measures of spread) to quantify these observations. Following this, students will interpret these plots and summaries in writing, explaining what the visualizations and calculations reveal about the impact of the stimulus on time perception and how they address the statistical investigative questions."
+  },
+  {
+    "title": "Interpreting Plots and Summaries",
+    "body": "Following the creation of plots and calculation of numerical summaries in Unit 3 Lab 3A, students are required to interpret their findings. They need to write a few sentences that explain what the generated plots and calculated summaries indicate. This interpretation should directly relate to the statistical investigative questions they formulated earlier and, by extension, to the main research question: 'Does the stimulus your class chose change people's perception of time?' This step bridges the gap between raw data analysis and drawing meaningful conclusions about the experiment's results."
+  },
+  {
+    "title": "Assessing Likelihood of Results by Chance",
+    "body": "Unit 3 Lab 3A addresses the critical question of whether the observed experimental results could have occurred purely by chance. To investigate this, students are instructed to write and execute code that performs *repeated shuffling*. This simulation technique helps determine the probability of obtaining the observed typical difference between the two groups (treatment vs. control) if the stimulus had no real effect. This process is fundamental to statistical inference and hypothesis testing, providing a quantitative measure of the evidence against the null hypothesis (that the stimulus has no effect)."
+  },
+  {
+    "title": "Visualizing and Justifying Chance Analysis",
+    "body": "As part of Unit 3 Lab 3A's investigation into whether results occurred by chance, students must create a plot to visually represent the outcomes of the repeated shuffling analysis. This plot serves as a graphical justification for their conclusions. By visualizing the distribution of differences obtained through random shuffling, students can assess where their observed difference falls within this distribution. This visual evidence is used to support their determination of how likely the typical difference between groups was to occur by chance alone."
+  },
+  {
+    "title": "Concluding and Reporting on the Research Question",
+    "body": "The final stage of Unit 3 Lab 3A involves synthesizing all the analysis and drawing a conclusion regarding the main research question: 'Does the stimulus your class chose change people's perception of time?' Students are required to write a comprehensive report. This report must utilize the plots and statistical analyses performed throughout the lab, including the results from the shuffling analysis. Crucially, the report needs to describe the experimental procedure used and clearly state the conclusion drawn about the research question, supported by the evidence gathered."
+  },
+  {
+    "title": "RStudio Data Import and Analysis",
+    "body": "In Unit 3 Lab 3A, students utilize RStudio for data analysis. The process involves importing experimental data, which could be related to how a stimulus affects time perception. The lab specifies creating appropriate plots and calculating numerical summaries to answer statistical investigative questions. For instance, if comparing a treatment group to a control group, plots might show distributions or central tendencies, and summaries could include means or medians. These analyses are essential steps in determining if the stimulus significantly impacts time perception."
+  },
+  {
+    "title": "Repeated Shuffling for Statistical Significance",
+    "body": "Unit 3 Lab 3A introduces the concept of assessing statistical significance using repeated shuffling. This technique is employed to understand the likelihood that observed differences between groups in an experiment (e.g., a treatment group and a control group) occurred simply due to random chance. By repeatedly shuffling the data and recalculating the difference, students generate a distribution of possible outcomes under the assumption of no real effect. This helps them statistically validate their findings regarding the stimulus's impact on time perception."
+  }
+]

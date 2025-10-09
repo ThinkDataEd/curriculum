@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Abstract of Vocabulary Definitions (Unit 3)",
+    "body": "This document provides definitions for key vocabulary terms relevant to data analysis, research, and experimentation, particularly within Unit 3. It covers fundamental concepts such as 'algorithm,' 'data,' and 'experiment,' as well as specific research methodologies like 'observational study' and 'survey.' Definitions are also provided for statistical terms including 'parameter,' 'statistic,' 'confidence interval,' and 'margin of error.' Concepts related to study design and potential biases, such as 'confounding factors,' 'sampling bias,' and 'control group,' are explained. Additionally, definitions for technical terms like 'HTML,' 'XML,' and 'sensor' are included, along with concepts related to data collection like 'Participatory Sensing' and 'self-reported' data."
+  },
+  {
+    "title": "Algorithm Definition",
+    "body": "An algorithm is a process or a set of rules that are followed. It outlines a step-by-step procedure to solve a problem or perform a computation. In the context of data analysis and computing, algorithms are fundamental to processing information and achieving desired outcomes."
+  },
+  {
+    "title": "Anecdote Definition",
+    "body": "An anecdote is a story that someone tells about their own experience or the experience of someone they know. Anecdotes can be used in research or presentations to illustrate a point or provide a real-world example, although they are not typically considered formal data."
+  },
+  {
+    "title": "Associated Definition",
+    "body": "The term 'associated' means joined together, often in a working relationship. In statistics and data analysis, variables or concepts are considered associated if they tend to occur or change together, suggesting a potential link or relationship between them."
+  },
+  {
+    "title": "Bootstrapping Definition",
+    "body": "Bootstrapping is a statistical technique where random samples are taken from a really large sample. This resampling method is used to estimate the sampling distribution of a statistic and to derive confidence intervals, especially when the underlying distribution is unknown or complex."
+  },
+  {
+    "title": "Cause Definition",
+    "body": "A cause is a reason for an action or condition. In research, identifying cause-and-effect relationships is a primary goal, distinguishing it from mere association. Establishing causality requires careful experimental design to rule out alternative explanations."
+  },
+  {
+    "title": "Closed-Ended Questions Definition",
+    "body": "Closed-ended questions are survey questions that give respondents a fixed set of choices to select from. This format facilitates quantitative analysis and makes it easier to compare responses across different individuals. Examples include multiple-choice or yes/no questions."
+  },
+  {
+    "title": "Confidence Interval Definition",
+    "body": "A confidence interval is an estimated range of values that is likely to include an unknown population parameter. This range is calculated from a given set of sample data. It provides a measure of the uncertainty associated with a sample statistic as an estimate of a population parameter."
+  },
+  {
+    "title": "Confounding Factors Definition",
+    "body": "Confounding factors, also known as confounders, are extra variables that were not accounted for in a study. These variables can distort the relationship between the independent and dependent variables, leading to incorrect conclusions about causality or association. Identifying and controlling for confounding factors is crucial for valid research."
+  },
+  {
+    "title": "Control Group Definition",
+    "body": "A control group is the group in an experiment that does not receive the treatment or intervention being studied. This group serves as a baseline for comparison, helping researchers determine the actual effect of the treatment by showing what happens in its absence."
+  },
+  {
+    "title": "Cost Limitations Definition",
+    "body": "Cost limitations refer to the constraints imposed by the available funds or money for a project or study. These limitations can influence the scope, methodology, and duration of research, dictating feasible approaches to data collection and analysis."
+  },
+  {
+    "title": "Data Definition",
+    "body": "Data refers to information, or observations, that have been gathered and recorded. It can be in various forms, such as numbers, text, images, or sounds, and serves as the raw material for analysis and interpretation in research and decision-making."
+  },
+  {
+    "title": "Data Farm Definition",
+    "body": "A data farm is a physical space where high-capacity servers are placed to store large amounts of data. These facilities are designed to manage and provide access to vast datasets, often supporting big data analytics and research projects."
+  },
+  {
+    "title": "Ethics Definition",
+    "body": "Ethics is a system of moral principles that govern behavior. In research, ethical considerations ensure that studies are conducted responsibly, respecting the rights, dignity, and well-being of participants. This includes obtaining informed consent and protecting confidentiality."
+  },
+  {
+    "title": "Experiment Definition",
+    "body": "An experiment is a method of data collection that can be repeated and has a set of possible results. In an experiment, researchers deliberately manipulate one or more variables to observe their effect on another variable, typically aiming to establish cause-and-effect relationships."
+  },
+  {
+    "title": "Feasibility Definition",
+    "body": "Feasibility refers to how easy or difficult it is to do something. In the context of research, feasibility considers practical aspects like time, resources, and technical capabilities required to conduct a study, ensuring that the proposed methods are achievable."
+  },
+  {
+    "title": "HTML Definition",
+    "body": "HTML (Hyper Text Markup Language) is a standardized system for tagging text files to achieve font, color, graphic, and hyperlink effects on web pages. It is the foundational language for creating web content, defining the structure and presentation of information online."
+  },
+  {
+    "title": "Inferences Definition",
+    "body": "Inferences are the process of drawing conclusions about an underlying population based on a sample or subset of the data. Statistical inference uses sample data to make generalizations, estimate population characteristics, and test hypotheses about the larger group."
+  },
+  {
+    "title": "Interval Data Type Definition",
+    "body": "An interval is a data type measured along a scale where each point is placed at equal distance from one another. While intervals have equal spacing, they lack a true zero point, meaning ratios are not meaningful (e.g., temperature in Celsius or Fahrenheit). This property influences the types of statistical analyses that can be performed."
+  },
+  {
+    "title": "Margin of Error Definition",
+    "body": "The margin of error tells you how many percentage points your results might differ from the real population value. It quantifies the uncertainty in survey or experimental results due to random sampling variability, providing a range within which the true population parameter is likely to lie."
+  },
+  {
+    "title": "Observational Study Definition",
+    "body": "An observational study is a data collection method in which subjects are observed, and outcomes are recorded without the researcher intervening or manipulating variables. This method allows for the study of phenomena as they naturally occur but may have limitations in establishing causality."
+  },
+  {
+    "title": "Open-Ended Questions Definition",
+    "body": "Open-ended questions offer a free-response or text-based approach, allowing respondents to answer in their own words. This method can provide rich, detailed insights but requires more complex analysis compared to closed-ended questions."
+  },
+  {
+    "title": "Outcome Variable Definition",
+    "body": "The outcome variable, also known as the response or dependent variable, is the variable that a treatment or intervention is intended to influence. Researchers measure changes in the outcome variable to assess the effect of the independent variable."
+  },
+  {
+    "title": "Over-represented Definition",
+    "body": "Being over-represented means being represented excessively, especially having representatives in a proportion higher than the average or expected. In sampling, this can lead to biased results if a particular group or characteristic constitutes a larger part of the sample than it does in the population."
+  },
+  {
+    "title": "Parameter Definition",
+    "body": "A parameter is any number that summarizes a population. Parameters are typically unknown and are estimated using statistics calculated from samples. Examples include the population mean (μ) and population standard deviation (σ)."
+  },
+  {
+    "title": "Participatory Sensing Definition",
+    "body": "Participatory Sensing is an approach to data collection and interpretation where individuals, alone or in groups, use their personal mobile devices and web services to systematically explore interesting aspects of their worlds. This can range from tracking personal health metrics to documenting cultural phenomena."
+  },
+  {
+    "title": "Population Definition",
+    "body": "A population consists of all of the people or objects that researchers want to learn something about. Defining the population clearly is the first step in designing a study, as it determines the scope and the target group for inferences."
+  },
+  {
+    "title": "Random Assignment Definition",
+    "body": "Random assignment is the process where subjects in an experiment are randomly allocated to either the treatment group or the control group. This helps ensure that the groups are comparable at the start of the experiment, minimizing the influence of confounding factors."
+  },
+  {
+    "title": "Random Sample Definition",
+    "body": "A random sample is a sample that is chosen randomly from a population. Every member of the population has an equal and known chance of being selected, which helps to ensure that the sample is representative of the population."
+  },
+  {
+    "title": "Random Sampling Definition",
+    "body": "Random sampling is the process of selecting a sample from a population in such a way that every member of the population has an equal and independent chance of being chosen. This method is crucial for obtaining representative samples and minimizing sampling bias."
+  },
+  {
+    "title": "Representative Sample Definition",
+    "body": "A representative sample is a subset of a population that accurately reflects the characteristics of the larger group. The goal of sampling is to obtain a representative sample so that findings from the sample can be generalized to the population with a certain degree of confidence."
+  },
+  {
+    "title": "Research Question Definition",
+    "body": "A research question is the specific question that an experiment or study aims to answer. A well-defined research question guides the study design, data collection, and analysis, ensuring that the investigation is focused and addresses a clear objective."
+  },
+  {
+    "title": "Sample Definition",
+    "body": "A sample consists of people or objects that are selected from a larger population for study. Samples are used because it is often impractical or impossible to collect data from an entire population. The quality of the sample significantly impacts the validity of research findings."
+  },
+  {
+    "title": "Sampling Bias Definition",
+    "body": "Sampling bias occurs when the resulting samples tend to produce results that are influenced in one particular direction, deviating from the true population values. This can happen due to non-random sampling methods or systematic errors in the sampling process."
+  },
+  {
+    "title": "Self-Reported Data Definition",
+    "body": "Self-reported data is data collected when participants answer questions themselves, typically through surveys or interviews. While convenient, self-reported data can be subject to biases such as social desirability, recall issues, or misinterpretation of questions."
+  },
+  {
+    "title": "Sensor Definition",
+    "body": "A sensor is a device that measures a physical quantity and converts it into a signal, which can be read by an observer or an instrument. Sensors are integral to many data collection methods, including Participatory Sensing and automated data logging."
+  },
+  {
+    "title": "Statistic Definition",
+    "body": "A statistic is a number that summarizes a sample. Statistics are calculated from sample data and are used to make inferences about population parameters. Common examples include the sample mean, sample median, and sample standard deviation."
+  },
+  {
+    "title": "Subjects Definition",
+    "body": "Subjects are the people or objects that are participating in an experiment or study. Ensuring the ethical treatment and appropriate selection of subjects is fundamental to sound research practices."
+  },
+  {
+    "title": "Survey Definition",
+    "body": "A survey is an investigation about the characteristics of a given population by collecting data from a sample of that population. It estimates the population's characteristics through the systematic use of statistical methodology, often involving questionnaires."
+  },
+  {
+    "title": "Survey Sample Definition",
+    "body": "A survey sample refers to the specific group of people who are asked to participate in a survey. This group is selected from the target population and is intended to be representative of that population."
+  },
+  {
+    "title": "Tags Definition",
+    "body": "In some data contexts, tags are variable names stored at the beginning of the code, often enclosed within specific markup, such as between ```<th>``` and ```</th>```. They serve to identify and label different pieces of data or columns in a dataset."
+  },
+  {
+    "title": "Theory Definition",
+    "body": "A theory is an idea used to explain a situation or a phenomenon. In science, theories are well-substantiated explanations of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment."
+  },
+  {
+    "title": "Treatment Variable Definition",
+    "body": "The treatment variable, also known as the explanatory or independent variable, is the variable that is deliberately manipulated by researchers in an experiment to investigate its influence on the outcome. It is the factor being tested."
+  },
+  {
+    "title": "Treatment Group Definition",
+    "body": "The treatment group is the group of subjects in an experiment that receives the actual treatment or intervention being studied. This group is compared to the control group to determine the effect of the treatment."
+  },
+  {
+    "title": "Trigger Definition",
+    "body": "A trigger is something that responds to an event so that an action can occur. In computing and systems, triggers are often used to automate processes or initiate responses based on specific conditions or occurrences."
+  },
+  {
+    "title": "Under-represented Definition",
+    "body": "Being under-represented means a subset of a population holds a smaller percentage within a significant subgroup than it holds in the general population. This can lead to skewed results if the under-represented group is important to the research question."
+  },
+  {
+    "title": "XML Definition",
+    "body": "XML (Extensible Markup Language) is a popular format for storing data on the internet. It is valued because it creates readable web pages and allows programmers to easily update values in data tables if those values change. XML defines a set of rules for encoding documents in a format that is both human-readable and machine-readable."
+  }
+]

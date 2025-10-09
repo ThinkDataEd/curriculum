@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract of The Summaries Practicum",
+    "body": "This document outlines The Summaries Practicum, an introductory statistical investigation exercise for students. It focuses on applying the Data Cycle to pose and answer a statistical question using provided datasets from the 'Food Habits' campaign or 'Personality Color' survey. The practicum guides students through developing a question, describing and justifying their data, analyzing it with plots and numerical summaries (mean, median, MAD, IQR), and interpreting the results to answer the question. A final one-page report is required. This activity is the first statistical investigation for students and reinforces concepts from Unit 1."
+  },
+  {
+    "title": "The Summaries Practicum Objective",
+    "body": "The primary objective of The Summaries Practicum is to enable students to conduct their first statistical investigation. This involves utilizing the Data Cycle framework to formulate a statistical question based on a dataset from either the 'Food Habits' campaign or the 'Personality Color' survey. Students will then analyze and interpret the data to answer their posed question."
+  },
+  {
+    "title": "Materials for The Summaries Practicum",
+    "body": "The essential material for The Summaries Practicum is the document titled 'The Summaries Practicum'. This practicum is available as a PDF, linked as [LMR_U2_Practicum_The_Summaries](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_Practicum_The_Summaries.pdf). Teachers are advised to discuss sample statistical questions with the class before assigning the practicum. This discussion should highlight the comparison of groups and the variables being measured, reinforcing the Data Cycle concept introduced in Unit 1."
+  },
+  {
+    "title": "Practicum Task: Developing a Statistical Question",
+    "body": "In The Summaries Practicum, students are tasked with developing a new statistical question that compares two or more groups. This question should be based on data from either the 'Food Habits' campaign or the 'Personality Color' survey. The process involves identifying a 'Grouping variable' and a 'Variable' for comparison. Examples of statistical questions for other datasets are provided to illustrate the concept, such as comparing the range of ages between male and female Oscar winners, or comparing the money spent on candy by children, teenagers, and adults."
+  },
+  {
+    "title": "Characteristics of a Statistical Question",
+    "body": "A key concept reinforced in The Summaries Practicum is the definition of a statistical question. A statistical question is one that anticipates variability within the data it addresses. The answer to such a question is not a single number but rather a description of that variability, often involving summaries and comparisons across different groups within the dataset. This anticipates variability and requires data analysis to answer."
+  },
+  {
+    "title": "Steps for Data Analysis in The Summaries Practicum",
+    "body": "The Summaries Practicum requires students to follow a structured approach to answer their statistical question. The steps include: 1. Writing down the question and planning how to answer it using RStudio. 2. Describing the chosen data and justifying its appropriateness for the question. 3. Analyzing the data to find evidence for the answer, including generating relevant plots and calculating numerical summaries like mean, median, MAD, and IQR. 4. Interpreting the data to provide a conclusive answer to the statistical question."
+  },
+  {
+    "title": "Data Interpretation Requirements in The Summaries Practicum",
+    "body": "As part of The Summaries Practicum, students must interpret their analyzed data to answer their statistical question. This involves: a. Presenting the plots and numerical summaries generated during the analysis. b. Describing what the visual representation (plot) reveals about the data. c. Explaining the rationale behind choosing specific plots and numerical summaries. d. Articulating how the presented evidence (plots and summaries) directly answers the statistical question posed."
+  },
+  {
+    "title": "Final Submission for The Summaries Practicum",
+    "body": "The culmination of The Summaries Practicum is the submission of a one-page report. This report should synthesize all the work done during the practicum, including the statistical question, data description, analysis (plots and numerical summaries), and interpretation. Students are encouraged to refer to the scoring guide from Unit 1 for guidance on how to structure and evaluate their practicum work."
+  },
+  {
+    "title": "Data Cycle and The Summaries Practicum",
+    "body": "The Summaries Practicum is designed to be the students' first statistical investigation, deeply integrating the Data Cycle methodology. Students are expected to recall and apply the Data Cycle, first introduced in Unit 1. The practicum requires them to move through the stages of the cycle: posing a question, collecting/describing data, analyzing data using statistical tools (plots and summaries), and interpreting the findings to answer the question. This hands-on experience solidifies their understanding of the statistical process."
+  },
+  {
+    "title": "Example Statistical Questions for Practice",
+    "body": "To prepare students for The Summaries Practicum, sample statistical questions are provided. These examples, though based on different datasets, illustrate the structure of a good statistical question. They involve comparing specific variables across distinct groups. Examples include comparing ages of male vs. female Oscar winners, comparing candy spending across age groups (child, teenager, adult), comparing median heights of teenage males vs. females, and comparing average temperatures across different cities (Los Angeles, Las Vegas, San Francisco). These help students understand 'grouping variable' and 'variable'."
+  },
+  {
+    "title": "RStudio in The Summaries Practicum",
+    "body": "The Summaries Practicum explicitly mentions the use of RStudio as the tool for data analysis. Students are instructed to think about the ways they could answer their statistical question using RStudio. This implies that the practicum expects students to be familiar with or learn basic data manipulation, visualization (plotting), and numerical summarization techniques within the RStudio environment to complete the analysis and interpretation steps."
+  },
+  {
+    "title": "Numerical Summaries in The Summaries Practicum",
+    "body": "As part of the analysis in The Summaries Practicum, students are required to use numerical summaries to support their findings. Key numerical summaries mentioned include mean, median, Median Absolute Deviation (MAD), and Interquartile Range (IQR). These statistical measures are to be selected based on the nature of the data and the question being asked, and should be related to the plots generated to provide a comprehensive understanding of the data's variability and central tendencies."
+  }
+]

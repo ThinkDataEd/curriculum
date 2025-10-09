@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract of Unit 1 Labs",
+    "body": "Unit 1 Labs introduce fundamental data analysis techniques using R. The labs cover importing and viewing datasets, creating various types of plots (bar graphs, histograms, scatterplots, dotplots), manipulating data frames through filtering and subsetting, and transforming variable types. Specific functions for data visualization and manipulation are introduced in each lab, progressing from basic plotting to more complex analyses like faceting, grouping, and recoding variables. The labs culminate in creating frequency tables and formatting data for time-use analysis, enabling students to explore relationships within datasets and answer specific research questions. The overall goal is to equip students with the syntax and conceptual understanding to perform initial exploratory data analysis."
+  },
+  {
+    "title": "Unit 1 Lab 1A: Introduction to Data Import and Basic Plotting",
+    "body": "Unit 1 Lesson 1A focuses on the foundational steps of data analysis in R. Students will learn how to import a pre-loaded dataset into their R environment and view it as a spreadsheet using the `View(_)` function. Understanding the importance of precise syntax is emphasized. Key functions introduced for data inspection include `data(_)` to list available datasets, `?(_)` to access help documentation, `dim(_)` to determine dimensions, `nrow(_)` and `ncol(_)` to count rows and columns respectively, and `names(_)` to view variable names. For basic plotting, students will learn the syntax for creating a bar graph (`bargraph(~x, data)`), a histogram (`histogram(~x, data)`), and a scatterplot (`xyplot(y~x, data)`)."
+  },
+  {
+    "title": "Unit 1 Lab 1B: Visualizing Categorical vs. Numerical Data",
+    "body": "Unit 1 Lesson 1B explores appropriate visualizations for comparing a categorical variable against a numerical variable. The primary objective is to enable students to create plots that facilitate group comparisons. Key functions introduced include `str(_)` to examine the structure of data. For plotting, students will learn to create histograms for numerical data, potentially with a specified number of intervals (`histogram(~x, data, nint)`), and bar graphs that incorporate grouping for comparisons (`bargraph(~x, data, groups)`). Additionally, conditional plotting is introduced with the ability to create histograms faceted by a categorical variable (`histogram(~x | y, data)`)."
+  },
+  {
+    "title": "Unit 1 Lab 1C: Importing Participatory Sensing Data",
+    "body": "Unit 1 Lesson 1C addresses the distinct process required for loading data originating from participatory sensing campaigns. Unlike pre-loaded datasets, this type of data involves a multi-step procedure. Students will learn the specific workflow, which includes exporting the data from its source, uploading it to the R environment, and then importing it. This lab highlights the practical differences in data acquisition based on the data's origin."
+  },
+  {
+    "title": "Unit 1 Lab 1D: Dotplots, Graph Stacking, and Data Subsetting",
+    "body": "Unit 1 Lesson 1D introduces the dotplot command for analyzing numerical variables, including the ability to stack graphs based on a categorical variable for comparison (`dotPlot( ~x | y, data, nint, cex, layout, main)`). Students will learn to compare the center, shape, and spread of distributions visually. Essential logical operators (`<`, `>`, `==`) and the assignment operator (`<-`) are reinforced. Data manipulation is a key focus, with students learning to filter data to create a new data frame containing a subset of observations (`filter(data, …)`). Functions `head(x)` and `tail(x)` are also covered to inspect the beginning and end of datasets, respectively."
+  },
+  {
+    "title": "Unit 1 Lab 1E: Advanced Plotting with Faceting and Groups",
+    "body": "Unit 1 Lesson 1E delves into more advanced visualization techniques by combining faceting and grouping. Students will learn to create scatterplots that utilize both faceting by one variable and grouping by another (`xyplot( y ~ x | u, groups, data)`). Furthermore, they will extend these concepts to other plot types, learning how to facet histograms (`histogram(~x | u + v, data)`) and dotplots (`dotPlot(~x | u + v, data)`) on more than one variable, allowing for complex multi-dimensional comparisons."
+  },
+  {
+    "title": "Unit 1 Lab 1F: Data Cleaning and Transformation",
+    "body": "Unit 1 Lesson 1F focuses on essential data cleaning and transformation tasks. Students will learn how to modify variable names using the `rename(data, …)` function. Crucial data type conversions are covered, including converting variables to numeric format using `as.numeric(x)` and to factor format using `as.factor(x)`. The lab also introduces the `mutate(data, …)` function for creating or modifying variables, `tally(~x, data)` for counting occurrences of variable values, and `recode(x, …)` for changing categorical variable values (e.g., from numbers to descriptive categories). Finally, students learn to save their processed data using the `save(data, file)` function."
+  },
+  {
+    "title": "Unit 1 Lab 1G: Two-Way Frequency Tables",
+    "body": "Unit 1 Lesson 1G introduces the creation and interpretation of two-way frequency tables, a powerful tool for detecting relationships between two categorical variables. The core function used is `tally(~y | x, data, format, margin)`, which allows students to specify the variables for the table, the dataset, the desired output format, and whether to include marginal totals. This lab builds on previous concepts of data manipulation and visualization to explore bivariate associations."
+  },
+  {
+    "title": "Unit 1 Lab 1H: Time Use Data Formatting and Analysis",
+    "body": "Unit 1 Lesson 1H focuses on preparing and analyzing time-use data. The primary objective is to format the `timeuse` dataset so that each row represents a typical day for an individual, aggregating daily activities. Students will combine all previously learned concepts and functions from Unit 1 to analyze how their class spends their time. This involves data restructuring using `timeuse_format(_)` and applying various visualization and data manipulation techniques to derive insights from the time-use data."
+  },
+  {
+    "title": "Key Functions in Unit 1 Labs (Part 1)",
+    "body": "This chunk details essential R functions covered in Unit 1 Labs, focusing on data inspection and basic visualization. `data(_)`: Lists available datasets. `View(_)`: Opens a dataset in a spreadsheet-like viewer. `?(_)`: Displays help documentation for a function or dataset. `dim(_)`: Returns the dimensions (rows, columns) of a dataset. `nrow(_)`: Returns the number of rows. `ncol(_)`: Returns the number of columns. `names(_)`: Returns the names of the variables (columns). `bargraph(~x, data)`: Creates a bar graph for a variable `x` in the specified `data`. `histogram(~x, data)`: Creates a histogram for a numerical variable `x`. `xyplot(y~x, data)`: Creates a scatterplot with `y` on the vertical axis and `x` on the horizontal axis."
+  },
+  {
+    "title": "Key Functions in Unit 1 Labs (Part 2)",
+    "body": "This chunk covers R functions introduced in Unit 1 Labs, focusing on data structure, advanced plotting, and data manipulation. `str(_)`: Displays the internal structure of an R object, including data types of variables. `histogram(~x, data, nint)`: Creates a histogram with a specified number of intervals (`nint`). `bargraph(~x, data, groups)`: Creates a bar graph where bars are colored or stacked based on a grouping variable. `histogram(~x | y, data)`: Creates conditional histograms (faceted) for variable `x` broken down by categories of variable `y`. `dotPlot( ~x | y, data, nint, cex, layout, main)`: Creates a dotplot for variable `x`, optionally faceted by `y`, with options for number of intervals (`nint`), character expansion (`cex`), plot layout, and main title. Logical operators (`<-`, `==`, `<`, `>`) are used for assignment and comparison. `filter(data, …)`: Selects a subset of rows from `data` based on specified conditions. `head(x)`: Displays the first few elements of `x`. `tail(x)`: Displays the last few elements of `x`."
+  },
+  {
+    "title": "Key Functions in Unit 1 Labs (Part 3)",
+    "body": "This chunk details R functions for advanced plotting, data transformation, and table creation covered in Unit 1 Labs. `xyplot( y ~ x | u, groups, data)`: Creates a scatterplot of `y` vs `x`, faceted by variable `u`, and uses `groups` to distinguish points by color or shape. `histogram(~x | u + v, data)`: Creates histograms for `x` faceted by combinations of variables `u` and `v`. `dotPlot(~x | u + v, data)`: Creates dotplots for `x` faceted by combinations of variables `u` and `v`. `rename(data, …)`: Renames variables within a dataset. `as.numeric(x)`: Converts `x` to a numeric data type. `mutate(data, …)`: Adds new variables or modifies existing ones in `data`. `tally(~x, data)`: Counts the frequency of each value of `x`. `recode(x, …)`: Changes values within a variable `x` according to specified rules. `save(data, file)`: Saves an R object (`data`) to a file. `as.factor(x)`: Converts `x` to a factor (categorical) data type. `tally(~y | x, data, format, margin)`: Creates a two-way frequency table of `y` by `x`, with options for format and margins. `timeuse_format(_)`: A specific function for formatting time-use data."
+  }
+]

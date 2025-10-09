@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Abstract of Lesson 8: How Likely Is It?",
+    "body": "This lesson, \"How Likely Is It?\", focuses on understanding the basic rules of probability and the concept of independent events. Students will explore probability through discussions, video analysis, and RStudio simulations. Key vocabulary includes probability, simulation, model, sample proportion, chance, and independence. The lesson emphasizes that probability is a measure of long-run proportion and that prior outcomes do not influence future outcomes in independent events. Students will use RStudio functions like \"rflip()\" to simulate coin tosses and analyze the resulting data, including proportions of heads and tails, to build intuition about randomness and likelihood. The lesson culminates in a discussion about determining if a coin is fair based on simulation results and understanding the independence of events."
+  },
+  {
+    "title": "Lesson 8 Objective: Understanding Probability and Independence",
+    "body": "The primary objective of Unit 2 Lesson 8, \"How Likely Is It?\", is for students to grasp the fundamental principles of probability. A core concept students will learn is that past results do not influence the outcomes of future events, provided these events are independent. This understanding will be developed through various activities, including analyzing a video clip, engaging in class discussions, and utilizing RStudio for simulations. The lesson aims to build an intuitive understanding of chance and probability, moving beyond simple guesswork to a more data-driven approach."
+  },
+  {
+    "title": "Materials for Lesson 8: Probability Exploration",
+    "body": "To facilitate the exploration of probability in Unit 2 Lesson 8, \"How Likely Is It?\", the following materials are required. A video titled \"Heads\" from the movie *Rosencrantz and Guildenstern are Dead* is provided via a YouTube link for analysis. A projector is also necessary for demonstrating RStudio functions to the class. These resources will aid in illustrating concepts like chance, simulation, and the interpretation of probabilistic outcomes."
+  },
+  {
+    "title": "Vocabulary: Key Terms in Probability",
+    "body": "This section defines key terms crucial for understanding Unit 2 Lesson 8. **Probability** refers to the likelihood of an event occurring. A **simulation** is a method used to recreate random events representative of real-world scenarios without performing the actual events. A **model** is a representation of real-world situations used to make predictions. The **sample proportion** is the fraction of observed successes within a set of samples. **Chance** describes the possibility of something happening. **Independence** signifies a situation where one event does not influence the outcome of another."
+  },
+  {
+    "title": "Essential Concepts: Intuition vs. Long-Run Proportion",
+    "body": "An essential concept in Unit 2 Lesson 8 is that human intuition about probability is often inaccurate. Probability is best understood as a measure of long-run proportion. This means an event with a 50% chance is expected to occur 50% of the time only if the event is repeated indefinitely. In practice, with a finite number of repetitions, observed variability is common and expected, even when events are fair. This distinction between short-term variability and long-term tendency is central to understanding probability."
+  },
+  {
+    "title": "Introduction to Chance and Probability",
+    "body": "Unit 2 Lesson 8 begins by exploring the concept of 'chance'. Students are asked to brainstorm synonyms for 'chance' and discuss its meaning, leading to the definition: 'a possibility of something happening.' They then compare games like chess and 'Sorry' to determine which relies more on chance, with 'Sorry' being cited as more chance-based due to dice rolls, unlike the strategic nature of chess. Students are prompted to identify real-world situations dominated by chance, such as card games, lotteries, and coin flips. This initial discussion serves as a bridge to the formal introduction of probability, defining it as a measurement of how often an event occurs in the long run, differentiating it from mere possibility."
+  },
+  {
+    "title": "Video Analysis: The \"Heads\" Clip and Initial Reactions",
+    "body": "As part of Unit 2 Lesson 8, students watch the \"Heads\" video from *Rosencrantz and Guildenstern are Dead*. This video depicts a scenario where a coin is repeatedly tossed. Following the video, students reflect in their journals on key questions: Is it possible to get 78 heads in a row? (Yes, because each toss is independent). Is it likely? (No). How many heads should be expected in 78 tosses? (Approximately 39). How many times should heads have occurred on average? (Roughly 39). These questions prompt students to consider the difference between possibility and likelihood and to start thinking about expected outcomes versus actual occurrences in random events. Teams then discuss their responses, sharing findings and revising their initial thoughts."
+  },
+  {
+    "title": "Simulation as a Tool for Understanding Probability",
+    "body": "Unit 2 Lesson 8 introduces **simulation** as a method to understand probability without conducting lengthy real-world experiments. A simulation creates random events that mimic real-life situations, serving as a **model** for prediction. Instead of flipping a coin 78 times, RStudio can simulate this process. This approach helps students grasp probability as a long-run proportion, acknowledging that variability exists in shorter sequences of events. The lesson transitions from conceptual discussions to practical application using computational tools."
+  },
+  {
+    "title": "RStudio Simulation: The `rflip()` Function",
+    "body": "In Unit 2 Lesson 8, students learn to use the `rflip()` function in RStudio to simulate coin flips. The function assumes a fair coin with an equal probability of heads (H) and tails (T). Initially, a single flip is demonstrated: `rflip(1)`. The function is then used for multiple flips, such as `rflip(10)`. Students observe the output, which includes the total number of heads and the **sample proportion** of heads (Number of Heads / Total Tosses). For example, `rflip(10)` might show \"Number of Heads: 3 [Proportion Heads: 0.3]\", illustrating that out of 10 flips, 3 were heads, resulting in a proportion of 0.3. This output clarifies RStudio's reporting of simulation results and the calculation of sample proportions."
+  },
+  {
+    "title": "Simulating 78 Coin Flips with `rflip()`",
+    "body": "To connect back to the video in Unit 2 Lesson 8, students use RStudio to simulate 78 coin flips using the command `rflip(78)`. They observe the number of heads and tails, and calculate the proportion of heads. While the expected proportion for a fair coin is 0.5 (or 39 heads out of 78), the simulated results will vary. Students are asked if the observed number of heads seems reasonable compared to the expected 39. Running the simulation multiple times (e.g., 3-5 times) further demonstrates this variability. For instance, sample results might show proportions like 0.577, 0.423, and 0.538, highlighting that sample proportions fluctuate around the true probability but are rarely exactly equal to it in small samples."
+  },
+  {
+    "title": "Analyzing Variability in Sample Proportions",
+    "body": "Unit 2 Lesson 8 emphasizes the variability inherent in probability simulations. After running `rflip(78)` multiple times, students compare the resulting proportions of heads. They observe that these proportions differ from each other and from the theoretical probability of 0.5 (50%). The lesson reinforces why there's a 50% chance of heads on any given flip (two equally likely outcomes). Students are prompted to consider what constitutes an 'unfair' coin based on observed results, leading into a discussion about setting cut-off points for unusual outcomes."
+  },
+  {
+    "title": "Determining a Fair Coin Through Simulation",
+    "body": "In Unit 2 Lesson 8, students discuss criteria for an unfair coin. They are asked to propose thresholds for the number of heads in 78 flips that would suggest the coin is unfair. To provide a more robust understanding, 500 simulations (or 1000 using `do(1000)*rflip(78)`) are run, each representing 78 coin flips. A histogram is generated to visualize the distribution of the number of heads across these simulations. This histogram acts as a **model** showing what typically happens with a fair coin. Students then use this visual model to assess scenarios (e.g., 37 heads, 46 heads, 20 heads in 78 flips) and classify them as likely outcomes of a fair coin or indicative of an unfair coin. For example, 20 heads would be flagged as highly unusual for a fair coin."
+  },
+  {
+    "title": "The Concept of Independence in Coin Tosses",
+    "body": "Unit 2 Lesson 8 concludes by solidifying the concept of **independence**. Students are asked if getting a head on the first coin toss affects the outcome of the next toss. The clear answer is no. This reinforces that each coin toss is an independent event; the outcome of one toss has no bearing on the outcome of subsequent tosses. The probability of getting heads or tails remains constant (0.5 for a fair coin) for every flip, regardless of previous results. This understanding is crucial for correctly applying probability rules."
+  },
+  {
+    "title": "RStudio Code for Probability Simulation",
+    "body": "This section provides specific RStudio code used in Unit 2 Lesson 8, \"How Likely Is It?\", for simulating coin flips and analyzing results. The code `set.seed(11)` ensures reproducibility of the random results. `flips <- do(1000)*rflip(78)` performs 1000 simulations, each consisting of 78 coin flips, and stores the number of heads for each simulation. `View(flips)` allows inspection of the data frame containing the results. `histogram(~heads, data = flips)` generates a histogram of the number of heads across the simulations, visually representing the distribution. Finally, `favstats(~heads, data = flips)` calculates summary statistics (like mean, median, standard deviation) for the number of heads, providing quantitative insights into the simulation results."
+  },
+  {
+    "title": "Class Scribes: Summarizing Key Learnings",
+    "body": "In Unit 2 Lesson 8, a 'Class Scribes' activity is designated. One team of students is responsible for preparing and delivering a brief presentation. Their task is to identify and articulate what they consider to be the three most important concepts or topics covered during the lesson. This activity encourages students to synthesize the material on probability, simulation, and independence, and to share their understanding with their peers, reinforcing the key takeaways from the lesson."
+  },
+  {
+    "title": "Homework Assignment: Probability Tweet",
+    "body": "The homework assignment for Unit 2 Lesson 8 requires students to create a Tweet (not necessarily posted online) that explains the meaning of probability. The Tweet must be 280 characters or less, adhering to the constraints of the platform. This creative task encourages students to distill the core concept of probability into a concise and accessible message, demonstrating their comprehension of the lesson's main ideas about likelihood and chance."
+  }
+]

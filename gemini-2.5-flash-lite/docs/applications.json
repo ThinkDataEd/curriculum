@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Applications",
+    "body": "This document lists various interactive applications designed to support educational activities, particularly in data science and statistics. These applications cover a range of topics, from real-time data collection and simulation of statistical concepts to data visualization and exploratory data analysis. Examples include a real-time data collection app, a birth data animation, a balancing points simulator, the Titanic Shuffle, K-means clustering, violin plots for time use data, a Palmer Penguins data explorer, and an M&M sampling simulator. Each application is provided with a brief description, its URL, and its author."
+  },
+  {
+    "title": "Real-time Data Collection App",
+    "body": "The Real-time Data Collection App allows users to collect data on one or two numerical variables from a class. This tool requires no login and is useful for hands-on data gathering activities. It is developed by the IDS Team and can be accessed at https://collection.thinkdataed.org/."
+  },
+  {
+    "title": "Births Data Animation",
+    "body": "This application, titled 'Births Data Animation', visualizes the daily number of births in 1978. It demonstrates how a visualization changes based on the number of days viewed at a time, offering an interactive exploration of time-series data. The author is James Molyneux, and it can be found at https://labs.thinkdataed.org/extras/animations/gotdata/gotdata.html."
+  },
+  {
+    "title": "Balancing Points App",
+    "body": "The Balancing Points App is a digital simulation tool for the 'Pennies on a Ruler' exploration activity. It serves as a digital alternative for Unit 2 Lesson 2, allowing students to explore concepts related to balance and torque. This app is developed by the IDS Team and is available at https://www.thinkdataed.org/balance-app/."
+  },
+  {
+    "title": "Titanic Shuffle",
+    "body": "The Titanic Shuffle application simulates the Titanic Shuffle activity, providing a digital option for Unit 2 Lesson 14. This interactive tool allows users to explore concepts related to probability and simulation. It is developed by the IDS Team and can be accessed at https://idsthinkdataed.shinyapps.io/titanic/."
+  },
+  {
+    "title": "K-means Clustering App",
+    "body": "The K-means Clustering application allows users to explore the K-means clustering algorithm. A key feature is its demonstration of how the choice of initial data points can influence the resulting clusters. This tool is developed by the IDS Team and is available at https://kmeans.thinkdataed.org/."
+  },
+  {
+    "title": "Violin Plots Application",
+    "body": "This application visualizes multiple variables from the American Time Use survey using violin plots. Violin plots are useful for showing the distribution of data across different categories. The developer of this tool is Albert Cao, and it can be found at https://idsthinkdataed.shinyapps.io/shinyapp_atus/."
+  },
+  {
+    "title": "Palmer Penguins Visualization",
+    "body": "The Palmer Penguins application enables users to create histograms and/or scatterplots of various characteristics of Palmer Penguins. This tool facilitates exploratory data analysis on a dataset of penguin species. It was developed by James Molyneux and Heidi Bullock and is accessible at https://idsthinkdataed.shinyapps.io/PalmerPenguin/."
+  },
+  {
+    "title": "M&M Sampling Simulator",
+    "body": "The M&M App simulates the process of drawing samples from Fun Size or 1.69 oz bags of M&Ms, displaying their color compositions. This application is useful for demonstrating concepts related to sampling distributions and statistical inference. It was developed by Gilbert Neuner and can be accessed at https://uobofz-gilbert-neuner.shinyapps.io/MnMs/."
+  },
+  {
+    "title": "Real-time Data Collection App - Functionality",
+    "body": "The Real-time Data Collection App provides a simple interface for collecting numerical data from a classroom setting. It is designed to gather information on one or two numerical variables without requiring any user login. This facilitates quick and easy data acquisition for educational purposes. Developed by the IDS Team, its URL is https://collection.thinkdataed.org/."
+  },
+  {
+    "title": "Births Data Animation - Interactive Exploration",
+    "body": "The Births Data Animation offers an interactive way to explore historical birth data, specifically focusing on the year 1978. Users can manipulate the visualization to see how it changes as they adjust the number of days displayed at once. This application, authored by James Molyneux, is located at https://labs.thinkdataed.org/extras/animations/gotdata/gotdata.html."
+  },
+  {
+    "title": "Balancing Points App - Digital Simulation",
+    "body": "As a digital alternative for Unit 2 Lesson 2, the Balancing Points App simulates the 'Pennies on a Ruler' activity. This tool allows for interactive experimentation with the principles of balance and moments, offering a hands-on digital experience. The IDS Team developed this application, which is available at https://www.thinkdataed.org/balance-app/."
+  },
+  {
+    "title": "Titanic Shuffle - Probability Simulation",
+    "body": "The Titanic Shuffle application is an interactive simulation tool created for Unit 2 Lesson 14. It allows users to engage with the concepts behind the Titanic Shuffle activity, likely involving probability or conditional reasoning. Developed by the IDS Team, it can be found at https://idsthinkdataed.shinyapps.io/titanic/."
+  },
+  {
+    "title": "K-means Clustering - Algorithm Exploration",
+    "body": "This K-means Clustering application, developed by the IDS Team (https://kmeans.thinkdataed.org/), is an educational tool designed to illustrate the K-means clustering algorithm. It specifically highlights how the initial placement of centroids significantly impacts the final cluster formations, making the sensitivity of the algorithm to starting conditions apparent."
+  },
+  {
+    "title": "Violin Plots - Data Visualization Tool",
+    "body": "The Violin Plots application, created by Albert Cao, is a data visualization tool accessible at https://idsthinkdataed.shinyapps.io/shinyapp_atus/. It specializes in visualizing multiple variables from the American Time Use dataset, employing violin plots to effectively display data distributions."
+  },
+  {
+    "title": "Palmer Penguins - Exploratory Data Analysis",
+    "body": "Developed by James Molyneux and Heidi Bullock, the Palmer Penguins application (https://idsthinkdataed.shinyapps.io/PalmerPenguin/) is an interactive tool for exploring the Palmer Penguins dataset. Users can generate histograms and scatterplots to analyze various characteristics of the penguin species, facilitating data exploration and visualization."
+  },
+  {
+    "title": "M&M App - Sampling Simulation",
+    "body": "The M&M App, developed by Gilbert Neuner (https://uobofz-gilbert-neuner.shinyapps.io/MnMs/), provides a simulation of sampling M&Ms from bags. It allows users to observe the color composition of samples drawn from either Fun Size or 1.69 oz bags, serving as a practical tool for teaching statistical sampling concepts."
+  }
+]

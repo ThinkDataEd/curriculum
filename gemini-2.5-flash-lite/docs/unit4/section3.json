@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Abstract of Unit 4, Section 3",
+    "body": "This section, \"Piecing it Together,\" is a 5-day unit focusing on the application of multiple regression models and polynomial transformations to explain and predict complex real-life phenomena. It builds upon simple linear regression by introducing the concept of using multiple explanatory variables. Students will engage with an article about TV show spinoffs to contextualize the need for more sophisticated models. Key learning objectives include understanding scatterplots, fitting various functions to data, and applying multiple linear regression and polynomial functions in RStudio. The unit also emphasizes the practical, real-world applications of these statistical and data science techniques in fields like economics and marketing. Students will develop both statistical and data science skills, including data analysis and model building, alongside language objectives focused on evaluating claims, discussing model improvements, and constructing their own predictive models. Data is available through provided datasets like 'movie' and 'cereal', and students will also participate in a team-generated data collection campaign."
+  },
+  {
+    "title": "Enduring Understandings for Unit 4, Section 3",
+    "body": "Complex real-life phenomena can be effectively explained and predicted using multiple regression models, which simplify these complexities into understandable equations. Data scientists can enhance the flexibility of linear models by incorporating polynomial transformations, allowing for better fits to non-linear data patterns."
+  },
+  {
+    "title": "Engagement Activity: 'How Long Can a Spinoff Like Better Call Saul Last?' Article",
+    "body": "To initiate Unit 4, Section 3, students will engage with the article titled 'How Long Can a Spinoff Like Better Call Saul Last?'. This article serves as a contextual foundation, prompting students to consider the necessity of utilizing more than one explanatory variable for making improved predictions about real-world scenarios. The article can be accessed at: http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"
+  },
+  {
+    "title": "Statistical/Mathematical Learning Objectives",
+    "body": "In Unit 4, Section 3, students will focus on the following statistical and mathematical learning objectives: \n\nA-REI D-10: Understand that the graph of an equation involving two variables represents the set of all its solutions plotted on the coordinate plane, which can form various shapes, including lines and curves.\n\nS-ID 6: Represent data involving two quantitative variables on a scatter plot and describe the relationship between these variables. This includes fitting a function to the data and using these fitted functions to solve problems within the context of the data, with an emphasis on linear models, though other functions may be used if suggested by the data's context."
+  },
+  {
+    "title": "Data Science Learning Objectives",
+    "body": "The data science learning objectives for Unit 4, Section 3 are centered on understanding and applying regression techniques. Students will learn to recognize when multiple regression is a more appropriate and powerful tool for prediction compared to simple linear regression. They will also develop the ability to identify situations where linear models are insufficient due to the non-linear shape of the scatterplot, and understand when it is appropriate to use multiple regression over simple linear regression."
+  },
+  {
+    "title": "Applied Computational Thinking Objectives using RStudio",
+    "body": "Within Unit 4, Section 3, students will develop practical computational skills using RStudio. The objectives include: \n- Implementing multiple linear regression models that incorporate additional predictor variables. \n- Fitting regression lines to datasets and using these models to predict future outcomes.\n- Applying polynomial functions to data to capture non-linear relationships."
+  },
+  {
+    "title": "Real-World Connections in Unit 4, Section 3",
+    "body": "Unit 4, Section 3 highlights the practical relevance of statistical modeling in the real world. Economists and marketing firms widely employ multiple regression techniques to forecast market changes. This allows them to proactively adjust their business strategies in response to evolving market demands and consumer behavior."
+  },
+  {
+    "title": "Language Objectives for Unit 4, Section 3",
+    "body": "The language objectives for Unit 4, Section 3 are designed to enhance students' communication and analytical skills related to data. \n\n1. Students will practice reading and critically evaluating claims made within informative texts, using data as evidence.\n2. Students will participate in partner and whole group discussions to analyze how the inclusion or exclusion of variables impacts the predictive accuracy of a model.\n3. Students will gain hands-on experience by constructing their own linear models that utilize multiple variables, enabling them to compare and contrast the predictive performance of different models."
+  },
+  {
+    "title": "Data Files for Unit 4, Section 3",
+    "body": "Unit 4, Section 3 provides access to two key datasets for analysis: \n\n1.  **Movies Dataset:** This dataset can be loaded in RStudio using the command `data(movie)`. It likely contains variables relevant to understanding movie performance or characteristics.\n2.  **Cereal Brands Dataset:** This dataset is available via the command `data(cereal)` in RStudio and probably includes information about various cereal products."
+  },
+  {
+    "title": "Data Collection Method: Team-generated Participatory Sensing Campaign",
+    "body": "In addition to using pre-existing datasets, Unit 4, Section 3 incorporates a 'Team-generated Participatory Sensing Campaign'. This hands-on activity requires student teams to select a topic of interest and collect their own data related to it. This method allows students to experience the full data science lifecycle, from problem definition and data collection to analysis and modeling, fostering a deeper understanding of data's role in answering real-world questions."
+  },
+  {
+    "title": "Multiple Regression vs. Simple Linear Regression",
+    "body": "In Unit 4, Section 3, a key data science concept is understanding the distinction and application of multiple regression versus simple linear regression. While simple linear regression uses a single explanatory variable to predict a response variable, multiple regression utilizes two or more explanatory variables. This becomes crucial when dealing with complex phenomena where a single factor is insufficient to explain the variation in the outcome. Students will learn to identify when the relationship between variables appears linear and when the scatterplot suggests a need for more predictors, making multiple regression a more appropriate and effective tool for prediction and explanation."
+  },
+  {
+    "title": "Polynomial Transformations for Model Flexibility",
+    "body": "Unit 4, Section 3 introduces polynomial transformations as a method to increase the flexibility of linear models. Sometimes, the relationship between variables is not strictly linear. By including polynomial terms (e.g., squared or cubed terms of predictor variables) in the regression model, data scientists can fit curves to the data, rather than just straight lines. This allows the model to better capture more complex, non-linear patterns observed in the scatterplot, leading to more accurate predictions and a better explanation of the underlying phenomena."
+  },
+  {
+    "title": "RStudio Application: Fitting Multiple Linear Regression",
+    "body": "A core computational skill practiced in Unit 4, Section 3 using RStudio is the application of multiple linear regression models. Students will learn to construct and interpret models that include several predictor variables alongside the response variable. This involves understanding the syntax in RStudio to specify these models and interpret the coefficients associated with each predictor, recognizing how each variable contributes to the overall prediction of the outcome. This practical application directly supports the learning objective of using multiple regression as a tool for prediction."
+  },
+  {
+    "title": "RStudio Application: Fitting Polynomial Functions",
+    "body": "As part of the computational thinking objectives in Unit 4, Section 3, students will utilize RStudio to fit polynomial functions to data. This capability allows them to move beyond simple linear relationships and model curves. By fitting polynomials, students can better represent data that exhibits non-linear trends, as identified through scatterplot analysis. This skill is essential for understanding when and how to apply transformations to predictor variables to achieve a better model fit and improve predictive accuracy, as outlined in the data science learning objectives."
+  },
+  {
+    "title": "Legend for Activity Icons",
+    "body": "Unit 4, Section 3 may utilize a legend to help users understand the meaning of various icons used throughout the instructional materials. This legend, typically found in a separate image file (e.g., '../img/legend.png'), serves as a visual key to decode symbols associated with different types of activities, resources, or concepts presented in the unit, ensuring clarity and accessibility of the content."
+  }
+]

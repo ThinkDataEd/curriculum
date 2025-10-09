@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Algebra Document Access",
+    "body": "This document provides access to an Algebra-related resource. The content can be previewed or accessed directly through an embedded iframe. A link to enable preview is provided. The current unit context is Algebra."
+  },
+  {
+    "title": "Embedded Algebra Content",
+    "body": "The primary content of this Algebra resource is presented within an embedded iframe. This iframe is configured to display at 100% width and a height of 1000 pixels, with no frameborder margins. The iframe loads content from a Box embed link. The purpose of this embedded content is to facilitate direct interaction with the Algebra materials."
+  },
+  {
+    "title": "Interactive Content Loading Script",
+    "body": "A JavaScript snippet is included to manage the loading behavior of the embedded iframe. Specifically, the script listens for the 'onload' event of the iframe with the ID 'request_iframe'. Upon successful loading, it sets the scroll position of both the document body and the document element to the top (0). This ensures that the user views the embedded content from its beginning immediately after it becomes available. This pertains to the Algebra document."
+  },
+  {
+    "title": "Algebra Resource Preview Link",
+    "body": "Users can enable a preview of the Algebra resource by clicking on a provided hyperlink. This link directs to a Box URL. Accessing this link allows users to view the content before potentially engaging with the full embedded version. This feature is designed for quick assessment of the Algebra material's relevance."
+  }
+]

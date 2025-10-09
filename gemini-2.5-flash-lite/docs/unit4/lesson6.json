@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Abstract of Lesson 6: Statistical Predictions Using One Variable",
+    "body": "This lesson, Unit 4 Lesson 6, focuses on developing rules to make statistical predictions and evaluating the success of these predictions. Students will act as judges in a contest where teams predict the heights of students based on a sample dataset. They will devise and apply rules to determine the winning prediction, considering different measures of success and the impact of different datasets on the outcome. Key concepts include the idea that anyone can make a prediction, but statisticians measure prediction success, and the importance of considering various ways to define and calculate this success. Vocabulary includes the term 'rule' as a defined method for calculation or problem-solving."
+  },
+  {
+    "title": "Unit 4 Lesson 6 Objective",
+    "body": "The objective of Unit 4 Lesson 6 is for students to develop a rule for selecting a winner in a prediction contest. Specifically, they will devise a method to determine the predicted typical height of all students in a large high school based on sample data and then measure the success of their prediction. This involves considering and evaluating different criteria for what constitutes a successful prediction."
+  },
+  {
+    "title": "Materials for Unit 4 Lesson 6",
+    "body": "The primary material for Unit 4 Lesson 6 is the 'Heights of Students at a Large High School' handout. This handout contains the data necessary for students to work through the prediction contest scenarios. The handout is referenced by its document name, LMR_U4_L6, and is available as a PDF document."
+  },
+  {
+    "title": "Vocabulary: Rule",
+    "body": "In the context of Unit 4 Lesson 6, a 'rule' is defined as a set way to calculate or solve a problem. This concept is central to the lesson, as students are tasked with devising and applying rules to determine the winner of a prediction contest. The rule dictates how to process the data and compare the predictions made by different teams."
+  },
+  {
+    "title": "Essential Concepts: Measuring Prediction Success",
+    "body": "A core concept in Unit 4 Lesson 6 is that while anyone can make a prediction, statisticians are concerned with measuring the success of those predictions. This lesson emphasizes that there are different ways to define and quantify 'success.' Students will explore these various measures of success as they devise rules for judging a prediction contest."
+  },
+  {
+    "title": "Lesson Introduction: Judging a Prediction Contest",
+    "body": "Unit 4 Lesson 6 begins by informing students that they will be acting as judges for a contest held at a high school. The contest involves predicting student heights. Students at the high school randomly selected students from a classroom and reported their heights. The task for the judging class is to evaluate predictions made by three different teams based on this collected data."
+  },
+  {
+    "title": "Data and Prediction Task in Unit 4 Lesson 6",
+    "body": "The height data for 40 randomly selected students is provided to three teams in Unit 4 Lesson 6. Each team must use this data to predict the heights of a new sample of 10 students. A key constraint is that each team can only provide ONE single number as their prediction for all 10 students. The judging class, composed of the students, must then determine the winning team."
+  },
+  {
+    "title": "Judging Criteria: Devising a Winning Rule",
+    "body": "To determine the winner in Unit 4 Lesson 6, students must develop two key components: 1. A 'rule' for calculating a total score for each team's predictions. 2. The ability to explain how this rule was applied and how it led to the selection of a winner (e.g., whether the highest or lowest score determines the winner). This rule must be clearly supported and applied to the predictions of all teams."
+  },
+  {
+    "title": "Team Predictions for Unit 4 Lesson 6",
+    "body": "In Unit 4 Lesson 6, three teams make their single-number predictions for the typical height of students. Team A predicts 67.9 inches, Team B predicts 68.1 inches, and Team C predicts 70.9 inches. Students will use these predictions, along with actual height data from a sample, to judge which team made the most successful prediction according to the rules they devise."
+  },
+  {
+    "title": "Dataset A and Teacher Guidance in Unit 4 Lesson 6",
+    "body": "Unit 4 Lesson 6 involves displaying Dataset A, which contains actual height measurements for a sample of students, found on page 1 of the 'Heights of Students at a High School' handout. Teachers are advised to remind students about the concept of absolute values when comparing differences, especially negative differences. They should also encourage students to consider the sum of differences as a way to arrive at a single score for each team's predictions."
+  },
+  {
+    "title": "Potential Rules for Measuring Prediction Success",
+    "body": "Unit 4 Lesson 6 introduces several possible rules for measuring prediction success. These include: Rule 1: The number of exactly correct predictions (sum(heights-predicted.value == 0)). Rule 2: The sum of the differences between predicted and actual heights (sum(heights-predicted.value)). Rule 3: The sum of the absolute values of the deviations (sum(abs(heights-estimate))). Rule 4: The sum of the squared deviations (sum((heights-estimate)^2)). Teachers may introduce Rules 3 and 4, even if students don't generate them, as they will be explored in future lessons."
+  },
+  {
+    "title": "Applying Rules to Dataset A in Unit 4 Lesson 6",
+    "body": "After introducing Dataset A and potential rules, students in Unit 4 Lesson 6 work in their teams to discuss and apply a chosen rule to determine the winning team for this dataset. They must calculate a score for each team based on their rule and decide whether a higher or lower score indicates a better prediction. Responses from this initial dataset analysis are not immediately shared."
+  },
+  {
+    "title": "Considering Dataset Variability in Unit 4 Lesson 6",
+    "body": "Following the analysis of Dataset A, Unit 4 Lesson 6 prompts students to consider the impact of different samples. They are asked: 'What if we had a different set of 10 randomly selected students?' and 'Would the same team win?'. This encourages discussion about the stability and reliability of predictions when using different subsets of data, prompting deeper thinking about statistical inference."
+  },
+  {
+    "title": "Unit 4 Lesson 6: Dataset B Analysis",
+    "body": "To further explore prediction variability, Unit 4 Lesson 6 introduces Dataset B, found on page 2 of the 'Heights of Students at a High School' handout. Students are tasked with finding the winner for this new sample using their established rules. A key question is whether the same team wins with Dataset B as they did with Dataset A, highlighting potential inconsistencies in prediction success across different samples."
+  },
+  {
+    "title": "Team Share-Out and Rule Comparison",
+    "body": "During the share-out phase of Unit 4 Lesson 6, teams present their findings. They report which team they selected as the winner for both Dataset A and Dataset B, and crucially, explain the specific 'rule' they used. They also discuss whether the same rule was applied to both datasets and, if not, why the rule changed. Students are encouraged to take notes on the different rules used by other teams in their journals."
+  },
+  {
+    "title": "Understanding the Population Mean in Unit 4 Lesson 6",
+    "body": "A crucial note in Unit 4 Lesson 6 is that the true value of the population mean, or the typical value for the entire high school's student heights, is unknown. This is precisely what the teams are trying to predict. The lesson emphasizes that the goal is to make the best possible prediction based on the available sample data, acknowledging the inherent uncertainty in estimating population parameters from samples."
+  },
+  {
+    "title": "Class Scribes: Summarizing Key Topics",
+    "body": "At the conclusion of Unit 4 Lesson 6, a designated team of students will act as 'Class Scribes.' Their role is to prepare and deliver a brief talk summarizing what they believe were the three most important topics or takeaways from the day's lesson. This activity reinforces learning and helps synthesize the key concepts covered."
+  },
+  {
+    "title": "Rule 1: Counting Exact Predictions",
+    "body": "Rule 1, presented in Unit 4 Lesson 6, is a method for scoring prediction teams based on the exactness of their predictions. The rule is mathematically represented as sum(heights-predicted.value == 0). In words, this translates to 'the number of exactly correct predictions.' A team's score under this rule would be the count of how many of their predictions perfectly matched the actual heights in the dataset. A higher score would indicate better performance."
+  },
+  {
+    "title": "Rule 2: Sum of Differences",
+    "body": "Rule 2, introduced in Unit 4 Lesson 6, calculates a team's score by summing the direct differences between the predicted heights and the actual heights. Mathematically, this is sum(heights-predicted.value). In translated words, this means 'the sum of the differences between the predicted value and the actual heights.' This rule could result in positive or negative scores, and the sum might be close to zero even with significant individual errors."
+  },
+  {
+    "title": "Rule 3: Sum of Absolute Deviations",
+    "body": "Rule 3, presented in Unit 4 Lesson 6, measures prediction success by calculating the sum of the absolute values of the differences (deviations) between the predicted and actual heights. The formula is sum(abs(heights-estimate)). This translates to 'the sum of the absolute values of the deviations.' This rule ensures all differences contribute positively to the score, focusing on the magnitude of error rather than its direction. A lower score generally indicates better predictions."
+  },
+  {
+    "title": "Rule 4: Sum of Squared Deviations",
+    "body": "Rule 4, suggested in Unit 4 Lesson 6, uses the sum of the squared differences (deviations) between predicted and actual heights. The mathematical representation is sum((heights-estimate)^2), translated as 'the sum of the squared deviations.' This method penalizes larger errors more heavily than smaller ones due to the squaring operation. It's a common statistical measure, often associated with variance and standard deviation, and a lower score typically signifies a better prediction."
+  }
+]

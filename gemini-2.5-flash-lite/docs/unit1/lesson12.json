@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract: Unit 1 Lesson 12 - Exploring Food Habits",
+    "body": "This lesson, Unit 1 Lesson 12, focuses on enabling students to engage with the complete Data Cycle using data they have personally collected. The primary objective is for students to utilize the Dashboard and PlotApp tools to ask questions and interpret data visualizations. The teacher will guide the navigation of these tools, allowing students to concentrate on analysis and interpretation. Key materials include computers, a projector, and two handouts: the 'Food Habits Check-In' and 'Exploring Our Food Habits.' The lesson introduces essential concepts related to participatory sensing data analysis, emphasizing the role of the Dashboard and PlotApp in the analysis step of the Data Cycle, with human input required for plot selection. Preparation involves watching videos on navigating the Dashboard and PlotApp. The lesson activities involve students reflecting on their data collection experience, accessing the IDS Homepage, logging into the IDS software suite, and observing the teacher's use of the Campaign Manager, Dashboard, and PlotApp. Students will use the 'Responses' tab in the Campaign Manager to view and interact with their data. The lesson culminates with students completing the 'Exploring Our Food Habits' handout and a homework assignment to continue collecting nutritional facts data."
+  },
+  {
+    "title": "Unit 1 Lesson 12 Objective and Materials",
+    "body": "The objective of Unit 1 Lesson 12 is for students to experience the complete Data Cycle using data they have collected themselves. They will be introduced to the Dashboard and PlotApp, user-friendly tools designed for data analysis. During this initial phase, the teacher will guide the navigation of these tools, allowing students to focus on formulating questions and interpreting the resulting plots. The necessary materials for this lesson include computers, a projector, the 'Food Habits Check-In' handout (LMR_U1_L12_A), and the 'Exploring Our Food Habits' handout (LMR_U1_L12_B)."
+  },
+  {
+    "title": "Essential Concepts: Participatory Sensing Data Analysis",
+    "body": "Once data has been collected through Participatory Sensing campaigns, the Dashboard and PlotApp are instrumental in performing the analysis step of the Data Cycle. These tools automate much of the computational analysis. However, human intervention is crucial as students and teachers must specify which plots they wish to examine to derive meaningful insights from the collected data. This emphasizes that while technology aids analysis, human direction and interpretation remain vital components."
+  },
+  {
+    "title": "Preparation for Unit 1 Lesson 12: Tool Navigation Videos",
+    "body": "To effectively prepare for Unit 1 Lesson 12, it is essential to watch two instructional videos. The first video, '[Navigating the Dashboard](https://www.youtube.com/embed/d0BDaHKOqOg)', provides an overview and guide on how to use the Dashboard tool. The second video, '[Navigating the PlotApp](https://www.youtube.com/embed/Jks39Gxi6dA)', offers similar guidance for the PlotApp tool. Familiarizing oneself with these tools beforehand will greatly enhance the learning experience during the lesson, ensuring students and teachers can efficiently engage with the data analysis process."
+  },
+  {
+    "title": "Unit 1 Lesson 12: Engaging with the Food Habits Campaign",
+    "body": "The lesson begins with students reflecting on their participation in the 'Food Habits' Participatory Sensing campaign by completing the 'Food Habits Check-In' handout (LMR_U1_L12_A). This handout serves as a self-assessment tool for their experience. Following this, students will be guided to the **IDS Homepage** ([https://portal.thinkdataed.org](https://portal.thinkdataed.org)). The teacher will then demonstrate how to access and use the **Campaign Manager**, the **Dashboard**, and the **PlotApp**, explaining that all IDS web tools are accessible from the IDS Homepage. Logging in, using the same credentials as for data collection, is required to access these tools."
+  },
+  {
+    "title": "Unit 1 Lesson 12: Utilizing the Campaign Manager",
+    "body": "The **Campaign Manager** is introduced as a central hub within the IDS software suite. It allows users to access, download, and export campaign data, which will be a focus in subsequent lessons. For Unit 1 Lesson 12, the primary interaction with the Campaign Manager will be through its **Responses** tab. This tab enables students and teachers to view, delete, or share their collected data, as well as to see data contributed by others participating in the same campaign. Accessing any web tool without logging in will prompt the login screen, highlighting the importance of authentication."
+  },
+  {
+    "title": "Unit 1 Lesson 12: Exploring Data with the Dashboard and PlotApp",
+    "body": "Following the introduction to the IDS Homepage and Campaign Manager, students will use the 'Exploring Our Food Habits' handout (LMR_U1_L12_B) as a guide. The teacher will navigate the **Dashboard** and **PlotApp** tools, with students following along on their own handouts. This guided exploration allows students to observe how collected data can be visualized and analyzed. The 'Exploring Our Food Habits' handout is designed to facilitate understanding and prompt critical thinking about the data. Upon completion, students will submit this handout for assessment, concluding the in-class activities for data exploration."
+  },
+  {
+    "title": "Class Scribes and Homework for Unit 1 Lesson 12",
+    "body": "As part of the classroom activities in Unit 1 Lesson 12, a designated team of students will serve as 'Class Scribes.' Their role is to prepare and deliver a brief presentation discussing what they identify as the three most important topics covered during the lesson. For homework, students are instructed to continue collecting nutritional facts data. They should utilize the 'Food Habits' Participatory Sensing campaign, using either their smart devices or the web browser-based version for ongoing data collection."
+  },
+  {
+    "title": "Vocabulary: Data Cycle",
+    "body": "The Data Cycle represents the complete process of working with data, from collection to analysis and interpretation. In the context of Unit 1 Lesson 12, students experience the full Data Cycle using data they have collected themselves. This involves stages such as data collection (from the 'Food Habits' campaign), data access and management (via the Campaign Manager), and data analysis and visualization (using the Dashboard and PlotApp). The cycle emphasizes iterative learning and understanding derived from data."
+  },
+  {
+    "title": "Vocabulary: Participatory Sensing",
+    "body": "Participatory Sensing involves individuals collecting data using accessible technologies, often their own devices, as part of a larger campaign. In Unit 1 Lesson 12, students are engaged in the 'Food Habits' Participatory Sensing campaign, where they collect nutritional facts data. This approach allows for the aggregation of data from multiple participants, enabling the study of trends and patterns on a larger scale than individual observation could provide. The collected data then feeds into the Data Cycle for analysis."
+  },
+  {
+    "title": "Vocabulary: Campaign Manager",
+    "body": "The Campaign Manager is a component of the IDS (Information Data Science) web tools. It serves as a central interface for managing data collection campaigns. In Unit 1 Lesson 12, students learn that the Campaign Manager is used to access, download, and export collected data. It also provides shortcuts to other tools like the Dashboard and PlotApp. Importantly, it allows users to view and manage the responses submitted to a campaign, including viewing, deleting, or sharing data, and observing data from other users. It is also where campaign creation and editing will be handled in later lessons."
+  },
+  {
+    "title": "Vocabulary: Dashboard (IDS)",
+    "body": "The Dashboard is a web-based tool within the IDS suite used for analyzing data collected through Participatory Sensing campaigns. In Unit 1 Lesson 12, students observe the teacher navigating the Dashboard to visualize and interpret the 'Food Habits' data. While the Dashboard automates much of the analysis, users must guide it by selecting specific plots or views they wish to examine. It is a key component in the analysis phase of the Data Cycle, transforming raw collected data into understandable information."
+  },
+  {
+    "title": "Vocabulary: PlotApp (IDS)",
+    "body": "The PlotApp is another web-based tool within the IDS suite, specifically designed for creating and examining plots from collected data. Similar to the Dashboard, it plays a crucial role in the analysis step of the Data Cycle during Unit 1 Lesson 12. Students will observe its use in visualizing the 'Food Habits' data. The teacher's demonstration, guided by the 'Exploring Our Food Habits' handout, will show how the PlotApp allows for detailed exploration and interpretation of data through various graphical representations. Human input is needed to specify the desired visualizations."
+  },
+  {
+    "title": "Code/Tool: IDS Homepage",
+    "body": "The IDS Homepage, accessible at [https://portal.thinkdataed.org](https://portal.thinkdataed.org), serves as the entry point to the Information Data Science (IDS) software suite. All web tools offered by IDS, including the Campaign Manager, Dashboard, and PlotApp, can be accessed through this central portal. Students are directed to this page in Unit 1 Lesson 12 to begin their interaction with the data analysis tools. Logging in through this page grants access to personalized campaign data and functionalities."
+  },
+  {
+    "title": "Code/Tool: Login Prompt (IDS)",
+    "body": "When users attempt to access any of the IDS web tools without being logged in, they are redirected to a login prompt. This is a security measure to ensure that only authorized users can access and manage campaign data. In Unit 1 Lesson 12, students are informed that they will use the same login credentials that they used previously to collect data on their mobile devices or through the browser-based interface. This consistent login process streamlines access to the entire IDS software suite."
+  },
+  {
+    "title": "Handout: Food Habits Check-In (LMR_U1_L12_A)",
+    "body": "The 'Food Habits Check-In' handout (LMR_U1_L12_A) is a resource used at the beginning of Unit 1 Lesson 12. Its purpose is to prompt students to reflect on their experiences with the 'Food Habits' Participatory Sensing campaign up to that point. This reflection helps students to consolidate their understanding of the data collection process and to prepare them for the subsequent data analysis activities. Completing this handout is an initial step in engaging with the full Data Cycle."
+  },
+  {
+    "title": "Handout: Exploring Our Food Habits (LMR_U1_L12_B)",
+    "body": "The 'Exploring Our Food Habits' handout (LMR_U1_L12_B) serves as a guide for students during the data analysis portion of Unit 1 Lesson 12. As the teacher navigates the IDS Dashboard and PlotApp tools, students follow along using this handout. It likely contains specific questions or prompts related to interpreting the visualizations generated from the 'Food Habits' campaign data. The successful completion and submission of this handout are part of the lesson's assessment."
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Lesson 19 Abstract: Our Class Network",
+    "body": "This lesson, \"Our Class Network,\" focuses on understanding and visualizing social networks. Students will participate in an activity to map their own class network based on mutual acquaintances. The lesson introduces the concept of a network, using a friend network graphic as an example. It explains that networks are formed by interconnected entities, and in a social context, these connections represent relationships. Students will create their own network by filling out index cards, noting who they know and who they have in common with another person. This data will then be used to create a class network visualization using provided R code. The lesson also includes vocabulary for 'network' and essential concepts about how interconnected observations form networks, especially in social settings. The activity aims to help students grasp the structure and dynamics of social networks by actively participating in mapping their own."
+  },
+  {
+    "title": "Unit 4 Lesson 19: Our Class Network - Objective and Materials",
+    "body": "The objective of Unit 4 Lesson 19, \"Our Class Network,\" is for students to actively participate in an activity designed to map out their own social network based on mutual acquaintances between individuals. The materials required for this lesson include a \"Friend Network Graphic\" (LMR_U4_L19_A), which is a WolframAlpha visualization of a social network, index cards for student participation, and a \"Network Code\" file (LMR_U4_L19_B) containing R script for data visualization. The \"Friend Network Graphic\" serves as an initial example to introduce the concept of a network and its components, such as nodes (people) and edges (relationships)."
+  },
+  {
+    "title": "Vocabulary: Network",
+    "body": "The term 'network' in the context of this lesson refers to a system designed for transferring data. More broadly, it describes a system where elements are interconnected. In a social setting, a network is a group of people or things that are interconnected in some way. These connections can represent friendships, relationships, or shared acquaintances. Understanding networks is crucial for analyzing how information or influence spreads within a group."
+  },
+  {
+    "title": "Essential Concepts: Networks and Interconnections",
+    "body": "Essential concepts for Unit 4 Lesson 19 emphasize that networks are formed when observations become interconnected. In a social context, we can analyze how different individuals are connected by identifying relationships between them within the network. This involves understanding that each person is a node, and the lines or connections between them represent a form of relationship or acquaintance. The density and structure of these connections provide insights into the social dynamics of the group."
+  },
+  {
+    "title": "Lesson Activity: Visualizing a Social Network",
+    "body": "Unit 4 Lesson 19 begins by displaying a \"Friend Network Graphic\" (LMR_U4_L19_A), illustrating a social network like Facebook friends. This visualization helps define a 'network' as a system of interconnected people or things. Key discussion points revolve around interpreting the graphic: what dots and lines represent (people and friendships), how individuals are connected, why some areas are denser (more mutual friends), and why some individuals are at the edges (fewer common connections). Students are prompted to consider other social networks they use (TikTok, Twitter, etc.) and understand that networks can vary in size. The lesson culminates in a hands-on activity where students map their own class network."
+  },
+  {
+    "title": "Network Activity: Creating the Class Network",
+    "body": "In Unit 4 Lesson 19's network activity, students are given index cards, with each student needing enough cards to connect with every other classmate (e.g., 19 cards for a 20-student class). On each card, students write their full name in the lower left corner. They then find another student and write that student's full name in the top right corner of the card. In the center of the card, they write the name of a third person whom both individuals on the card know. These completed cards are collected by the teacher to construct a class network visualization. This process visually represents the interconnectedness within the classroom social structure."
+  },
+  {
+    "title": "Data Input and Visualization with Network Code",
+    "body": "After the \"Network Activity\" in Unit 4 Lesson 19, the teacher manually inputs the data from the index cards into a spreadsheet, preferably saved as a .csv file. Each index card requires two rows in the spreadsheet to represent the connections. For instance, a card with person A's name on the left and person B's name on the right, and a mutual acquaintance C in the center, would populate specific cells in two rows. The collected data is then processed using the provided \"Network Code\" file (LMR_U4_L19_B), which is an R script. This script generates graphs visualizing the class's social network. Specific edits are needed in the R script, such as changing the .csv file name in Line 7 and potentially adjusting Lines 91-96 and 97, 108 to identify the most popular individuals."
+  },
+  {
+    "title": "Unit 4 Lesson 19: Next Steps and Data Analysis",
+    "body": "Following the completion of the \"Our Class Network\" activity in Unit 4 Lesson 19, students will conclude their Team Participatory Sensing campaign data collection. The subsequent day marks the transition from data collection to data analysis. Students will begin analyzing the collected network data as part of the larger \"End of Unit 4 Project.\" This signifies a shift from mapping and visualizing the network to interpreting the insights derived from its structure and connections, preparing them for deeper understanding of data analysis principles."
+  },
+  {
+    "title": "Class Scribes: Reflecting on Network Concepts",
+    "body": "In Unit 4 Lesson 19, a designated team of students will act as 'Class Scribes.' Their role is to prepare and deliver a brief presentation summarizing what they perceive as the three most important topics or concepts covered during the lesson. This serves as a review and reinforcement activity, encouraging students to synthesize the key takeaways regarding networks, interconnections, and the process of mapping social relationships within their own class."
+  }
+]

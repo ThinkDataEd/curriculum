@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Abstract of Lab 4C: Cross-Validation",
+    "body": "Lab 4C introduces the concept and practice of cross-validation, a crucial technique in machine learning for assessing a model's performance on unseen data. It details a three-step process: 1. Splitting the dataset into training and testing sets. 2. Training a model using only the training set. 3. Evaluating the trained model's predictions on the test set by calculating the test Mean Squared Error (MSE). The lab emphasizes the importance of `set.seed()` for reproducible results and discusses the 'training-test ratio'. It also illustrates the problem of overfitting, where a model performs exceptionally well on training data but poorly on new data, and how cross-validation helps mitigate this by providing a more realistic estimate of a model's predictive ability on future observations. The lab uses the `arm_span` dataset and R code examples to guide the learner through these concepts."
+  },
+  {
+    "title": "Introduction to Cross-Validation (Lab 4C)",
+    "body": "Lab 4C focuses on evaluating a model's predictive performance on data it has not seen before, a process known as cross-validation. This follows from previous labs where a linear model predicting `height` from `arm_span` was created (Lab 4A) and its performance on the same data was measured using Mean Squared Error (MSE) (Lab 4B). Cross-validation employs a three-step strategy: First, the available data is divided into a training set and a test set. Second, a model is constructed using only the data in the training set. Third, this model is used to make predictions on the data in the test set, allowing for an assessment of how well the model generalizes. This lab guides users through implementing these steps using R, specifically with the `arm_span` dataset."
+  },
+  {
+    "title": "Step 1: Train-Test Split in Lab 4C",
+    "body": "The first critical step in cross-validation is splitting the dataset into two distinct subsets: a training set and a test set. This is necessary because waiting for entirely new observations can be impractical. Data scientists simulate this by partitioning their existing data. For the `arm_span` dataset in Lab 4C, users are instructed to randomly select rows for the training set using the `sample()` function after setting a seed for reproducibility (`set.seed(123)`). The remaining rows form the test set. The `slice()` function is then used to create two separate dataframes, `training` and `test`, based on the selected rows and the remaining ones. This split ensures that the model is built on one portion of the data and evaluated on a completely separate portion."
+  },
+  {
+    "title": "R Code: Implementing Train-Test Split (Lab 4C)",
+    "body": "In Lab 4C, implementing the train-test split requires specific R code. First, `set.seed(123)` is used to ensure that the random splitting process is reproducible. To select which rows go into the training set, the `sample()` function is used: `training_rows <- sample(1:____, size = 68)`. This line randomly picks 68 row indices from the total number of rows in the `arm_span` dataset. Subsequently, the `slice()` function is employed to create the actual dataframes: `training <- slice(arm_span, training_rows)` extracts the rows designated for training, while `test <- slice(arm_span, -training_rows)` creates the test set by selecting all rows *except* those in `training_rows`. This process results in two independent datasets for model training and evaluation."
+  },
+  {
+    "title": "Aside: The Importance of set.seed()",
+    "body": "When performing random operations like splitting data into training and test sets, reproducibility is key. The `set.seed()` function in R is used to control the randomness of the random number generator. By calling `set.seed()` with a specific integer value (e.g., 123) before a random sampling or splitting operation, the exact same sequence of random numbers will be generated each time the code is run. This ensures that if multiple people run the same analysis or if the analysis is repeated later, the data splits will be identical. This is crucial for debugging, collaboration, and ensuring that results are consistent and comparable across different runs or individuals, as emphasized in Lab 4C."
+  },
+  {
+    "title": "Aside: Training-Test Ratio Considerations",
+    "body": "The ratio at which data is split into training and test sets is an important consideration in cross-validation. Lab 4C highlights that the training set must contain a sufficient number of observations to allow for the effective building of a robust model. In this lab, 68 observations were kept for training the `arm_span` model. The size of the test set influences how reliably the test MSE estimates the model's performance on unseen data. As datasets become larger, it becomes feasible and often beneficial to allocate a larger proportion of the data to the test set, providing a more rigorous evaluation of the model's generalization capabilities."
+  },
+  {
+    "title": "Step 2: Training the Model in Lab 4C",
+    "body": "Following the data split, the second step in cross-validation is to train a predictive model using exclusively the training data. In Lab 4C, this involves fitting a linear model that relates `height` to `arm_span` using the `training` dataframe. The R code for this step should be written and executed to create the model. This model, which minimizes the Mean Squared Error (MSE) calculated on the training data itself, is then assigned a name, such as `best_training`. The MSE calculated during this training phase is referred to as the 'training MSE', and it represents how well the model fits the data it was trained on."
+  },
+  {
+    "title": "R Code: Fitting the Training Model (Lab 4C)",
+    "body": "To execute Step 2 of cross-validation in Lab 4C, which involves training the model, the user needs to fit a line of best fit to the `training` data. This is achieved using a standard linear modeling function in R, likely `lm()`. The instruction is to write and run code that fits this model and assigns it the variable name `best_training`. For instance, the code would look something like: `best_training <- lm(height ~ arm_span, data = training)`. This command fits a linear model where `height` is the dependent variable and `arm_span` is the independent variable, using only the observations contained within the `training` dataframe. The resulting `best_training` object stores the learned parameters (slope and intercept) that minimize the training MSE."
+  },
+  {
+    "title": "Step 3: Testing the Model Predictions (Lab 4C)",
+    "body": "The third step in cross-validation, as detailed in Lab 4C, is to use the model trained on the training set to make predictions on the unseen test set. Crucially, the slope and intercept calculated in Step 2 are used without modification; the model is not re-fitted to the test data. The `predict()` function in R is utilized for this purpose. By providing the `test` dataframe to the `newdata` argument of `predict()`, the function generates height predictions for each observation in the test set based on their `arm_span` values and the `best_training` model. These predictions are then added as a new column to the `test` dataframe."
+  },
+  {
+    "title": "R Code: Predicting on Test Data and Calculating Test MSE (Lab 4C)",
+    "body": "To complete Step 3 of cross-validation in Lab 4C, specific R code is required. First, predictions are generated on the `test` data using the trained model: `test <- mutate(test, predicted_height = predict(best_training, newdata = test))`. This line uses `dplyr::mutate` to add a new column `predicted_height` to the `test` dataframe, containing the model's predictions. Following this, the 'test MSE' is calculated. This involves computing the MSE between the actual `height` values in the `test` set and the `predicted_height` values generated by the model. The process mirrors the MSE calculation from Lab 4B but uses the predictions made on the hold-out test data, providing an estimate of generalization error."
+  },
+  {
+    "title": "Recap of Cross-Validation Steps (Lab 4C)",
+    "body": "Lab 4C recaps the three fundamental steps of cross-validation: 1. **Data Splitting:** The dataset is divided into a `training` set and a `test` set. 2. **Model Training:** A model (e.g., a linear model) is constructed using only the `training` data. The parameters of this model are chosen to minimize the MSE calculated on the `training` data (training MSE). 3. **Model Testing:** The *same* model (with the *same* parameters determined in Step 2) is used to generate predictions for the observations in the `test` set. The MSE is then calculated using these predictions and the actual values in the `test` set. This resulting value is known as the 'test MSE', which serves as a more reliable indicator of how the model will perform on new, unseen data."
+  },
+  {
+    "title": "The Purpose of Cross-Validation (Lab 4C)",
+    "body": "The core reason for performing cross-validation, as explained in Lab 4C, is to obtain a realistic estimate of a model's performance on future, unseen data. Calculating MSE on the original, entire dataset measures how well the model fits the data it was trained on, but this can be misleading. Models that perform exceptionally well on the training data might be 'overfitting' – becoming too specialized to the specific quirks of that dataset. Overfitting leads to poor generalization. By evaluating the model on a separate `test` set (data it has never seen during training), the test MSE provides a better approximation of how the model would perform in a real-world scenario with new observations. This process helps detect and mitigate overfitting."
+  },
+  {
+    "title": "Understanding Overfitting with Lab 4C Example",
+    "body": "Lab 4C uses an example to illustrate the problem of overfitting and the utility of cross-validation. Overfitting occurs when a model learns the training data too well, including its noise and specific patterns, leading to poor performance on new data. The lab describes fitting two models – a linear model and a polynomial model – to a small subset (7 points) of the `arm_span` training data. Initially, both models might appear to fit the training points. However, when these models are used to predict on the remaining data (the 'test' data), one model (typically the more complex polynomial one in such scenarios) might show a significant drop in performance compared to the simpler linear model. This divergence highlights how a model that fits the training data perfectly might fail to generalize."
+  },
+  {
+    "title": "Visualizing Overfitting: Training vs. Test Performance (Lab 4C)",
+    "body": "In Lab 4C, visual aids (plots generated from `../../img/4xc0b.png` and `../../img/4xc0c.png`) are used to demonstrate overfitting. The first plot shows 7 training points and the predictions of a linear and a polynomial model. A user is asked to determine which model better predicts these 7 points, likely the polynomial model due to its flexibility. The second plot, however, shows the same models' predictions applied to the rest of the `arm_span` data (the test set). By comparing the models' performance on this larger, unseen dataset, it becomes evident which model generalizes better. The question posed guides the user to identify the model that, despite potentially not fitting the initial 7 points as perfectly, provides a more accurate representation of the overall data trend, thereby illustrating the value of testing on unseen data."
+  },
+  {
+    "title": "Key Vocabulary: Cross-Validation",
+    "body": "Cross-validation is a resampling technique used to evaluate machine learning models on a limited data sample. The core idea is to split the dataset into multiple subsets. One subset is used for training the model, and the remaining subsets are used for testing. This process is repeated multiple times, with different subsets used for training and testing each time. The results from all the tests are then averaged to provide a more robust estimate of the model's performance. In Lab 4C, a simplified version is used with a single train-test split, but the fundamental principle of evaluating on unseen data remains the same. It is a key method for assessing how well a model will generalize to an independent dataset."
+  },
+  {
+    "title": "Key Vocabulary: Training Set",
+    "body": "The training set is a subset of the dataset used to train a machine learning model. During the training phase, the model learns patterns, relationships, and parameters (like coefficients in a linear regression) from the data in the training set. In Lab 4C, the `training` dataframe, created by randomly sampling rows from the `arm_span` dataset, serves as the training set. The linear model (`best_training`) is fitted using only these observations. The quality of the training set is crucial, as a model's ability to generalize to new data is fundamentally influenced by the data it learns from. A representative training set helps build a more accurate and reliable model."
+  },
+  {
+    "title": "Key Vocabulary: Test Set",
+    "body": "The test set is a subset of the dataset that is held out during the model training process and is used to evaluate the performance of the trained model. It represents unseen data, simulating how the model would perform in a real-world scenario. In Lab 4C, the `test` dataframe, containing the rows of `arm_span` not included in the `training` set, acts as the test set. The trained model (`best_training`) makes predictions on this `test` data, and the 'test MSE' is calculated using these predictions. Evaluating on the test set helps assess the model's generalization ability and detect overfitting. It provides an unbiased estimate of the model's predictive accuracy on new data."
+  },
+  {
+    "title": "Key Vocabulary: Mean Squared Error (MSE)",
+    "body": "Mean Squared Error (MSE) is a common metric used to measure the average of the squares of the errors—that is, the average squared difference between the estimated values and the actual value. In the context of regression models like the linear model in Lab 4C, MSE quantifies the difference between the predicted values and the true values. It is calculated by summing the squared differences between predictions and actual values and then dividing by the number of observations. A lower MSE indicates a better fit. In Lab 4C, both 'training MSE' (calculated on the data used to train the model) and 'test MSE' (calculated on unseen data) are discussed and computed to evaluate model performance and generalization."
+  },
+  {
+    "title": "Key Vocabulary: Overfitting",
+    "body": "Overfitting is a critical concept in machine learning that occurs when a model learns the training data too well, to the point that it captures noise and specific outliers, rather than the underlying general pattern. An overfitted model performs exceptionally well on the training data but poorly on new, unseen data. This happens when a model is too complex relative to the amount and nature of the data. In Lab 4C, an example illustrates how a highly flexible model (like a polynomial model) can overfit the training points, leading to poor predictions on the test set. Cross-validation is a primary technique used to detect and mitigate overfitting by providing an estimate of performance on unseen data."
+  },
+  {
+    "title": "R Function: `sample()`",
+    "body": "The `sample()` function in R is used to take a random sample from a specified set of elements. In Lab 4C, it's employed in Step 1 to select which rows of the `arm_span` dataset will be allocated to the training set. The syntax `sample(1:N, size = k)` randomly selects `k` unique integers from the sequence 1 to `N`, where `N` is the total number of rows in the dataset and `k` is the desired number of training observations (e.g., 68). When used after `set.seed()`, the selection becomes reproducible, ensuring consistent data splitting across different runs. This function is fundamental for creating random subsets of data, a key part of cross-validation."
+  },
+  {
+    "title": "R Function: `slice()`",
+    "body": "The `slice()` function, typically from the `dplyr` package, is used in R to select rows of a data frame by their integer position. In Lab 4C, it plays a crucial role in Step 1 of cross-validation after the random row indices have been generated using `sample()`. The code `training <- slice(arm_span, training_rows)` creates the `training` dataframe by selecting the rows specified by the `training_rows` vector. Conversely, `test <- slice(arm_span, -training_rows)` creates the `test` dataframe by selecting all rows *except* those indicated by `training_rows`. This function allows for precise manipulation of data frames based on row numbers, facilitating the creation of distinct training and testing datasets."
+  },
+  {
+    "title": "R Function: `lm()`",
+    "body": "The `lm()` function in R is the primary function for fitting linear models. It is used to estimate the parameters (coefficients, including slope and intercept) of a linear regression model. In Lab 4C, Step 2 involves fitting a linear model to predict `height` from `arm_span` using the `training` data. The code `best_training <- lm(height ~ arm_span, data = training)` uses `lm()` to find the line of best fit that minimizes the sum of squared residuals (which is directly related to MSE) for the `training` dataset. The resulting object `best_training` contains the model's coefficients and other information needed for making predictions."
+  },
+  {
+    "title": "R Function: `predict()`",
+    "body": "The `predict()` function in R is used to generate predictions from a fitted model object. In Lab 4C, Step 3 utilizes `predict()` to apply the `best_training` model (fitted on the training data) to the `test` data. When the `newdata` argument is specified (e.g., `newdata = test`), `predict()` calculates the model's output (predicted height in this case) for each observation in the provided `newdata` dataframe, using the parameters learned during training. If `newdata` is omitted, `predict()` typically returns predictions on the original data used to fit the model. This function is essential for evaluating a model's performance on unseen data during cross-validation."
+  },
+  {
+    "title": "R Function: `mutate()`",
+    "body": "The `mutate()` function, commonly found in the `dplyr` package, is used in R to add new columns to a data frame or to modify existing ones. In Lab 4C, Step 3 employs `mutate()` to incorporate the predictions generated by the `predict()` function into the `test` dataframe. The line `test <- mutate(test, predicted_height = predict(best_training, newdata = test))` creates a new column named `predicted_height` within the `test` dataframe. This column stores the predicted height values for each observation in the test set, based on the `best_training` model. Having predictions directly in the dataframe alongside actual values facilitates subsequent calculations, such as the test MSE."
+  }
+]

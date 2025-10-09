@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Abstract for Lab 2E - The Horror Movie Shuffle",
+    "body": "This lab, titled \"The Horror Movie Shuffle\" (Unit 2 Lab 2E), investigates the statistical question: Are women in slasher films more likely to survive than men? It introduces the concept of using permuted data to assess the likelihood of an event occurring by chance. The lab guides users through loading the 'slasher' dataset, exploring its variables and observations, and performing initial analyses of survival rates by gender. Key statistical techniques covered include using the 'tally' function to create contingency tables with percentages, understanding the difference between shuffling variables, and employing the 'do()' function for multiple simulations. The process involves comparing the actual observed difference in survival percentages to differences obtained from randomly shuffling the data. This comparison helps determine if observed differences are statistically significant or likely due to random chance. The lab concludes by having participants analyze histograms of simulated differences and interpret the results to make conclusions about gender's role in slasher film survival, including an exercise where the 'gender' variable is shuffled instead of 'survival'."
+  },
+  {
+    "title": "Lab 2E Introduction and Objective",
+    "body": "Unit 2 Lab 2E, \"The Horror Movie Shuffle,\" focuses on a common belief about slasher films: that women are more likely to survive than men. The primary statistical investigative question this lab addresses is: Are women in slasher films more likely to survive until the end of the film than men? To answer this, the lab will teach the technique of using permuted data to gauge how likely an observed event is to occur purely by chance. Participants are instructed to follow along with slides, answer questions in blue on their computer, and respond to questions in red in their journal. The initial step involves loading the 'slasher' data file using the `data()` function."
+  },
+  {
+    "title": "Loading and Exploring the Slasher Data",
+    "body": "The first practical step in Unit 2 Lab 2E is to load the 'slasher' dataset. This is done using the `data()` function in R. The dataset contains information on 485 characters from a random sample of 50 slasher horror films. After loading the data, participants are asked to familiarize themselves with it by determining the number of variables and observations. They also need to identify the possible values for each variable. This initial exploration is crucial for understanding the scope and nature of the data before proceeding with statistical analysis. The lab prompts users to specifically answer how many variables and observations are present and what the possible values of these variables are, recorded in their journal."
+  },
+  {
+    "title": "Initial Survival Analysis in Slasher Films",
+    "body": "As part of Unit 2 Lab 2E, after loading the 'slasher' data, participants must conduct an initial analysis of survival rates by gender. This involves answering specific questions in their journal. They need to determine which gender had more survivors and provide a written explanation of how they reached their conclusion. Importantly, this conclusion should be based on examining both the raw counts and the percentages of survivors within each gender group. Furthermore, they are asked to calculate the difference between the percentage of females who survived and the percentage of males who survived, and to consider whether this observed difference is substantial enough to conclude that women generally survive more often than men based on this initial data."
+  },
+  {
+    "title": "Understanding Contingency Tables with 'tally()'",
+    "body": "Unit 2 Lab 2E introduces the 'tally()' function for creating contingency tables. A key point is that the order of variables in the 'tally()' function matters. For example, `tally(~gender | survival, data = slasher, margin = TRUE)` groups by survival status and then breaks down by gender, showing the distribution of genders within survivors. Conversely, `tally(~survival | gender, data = slasher, margin = TRUE)` groups by gender and then breaks down by survival status, showing the survival rates within each gender. The lab emphasizes that the latter is useful for understanding survival rates per gender. Participants are prompted to use `tally(~survival | gender, format = \"percent\", data = slasher, margin = TRUE)` to generate a two-way table with percentages, which directly aids in answering previous analysis questions."
+  },
+  {
+    "title": "The Concept of Permutation and Shuffling",
+    "body": "In Unit 2 Lab 2E, the core statistical concept introduced to assess if an observed difference is due to chance is 'repeated random shuffling' or permutation. When comparing two quantities, like survival rates, it's challenging to know if a difference is significant or just random variation. Shuffling the data helps estimate the probability of observing the actual difference (or a more extreme one) if there were truly no association between the variables. By randomly reassigning outcomes (like survival status or gender), we create a null distribution representing what we'd expect if the null hypothesis (no effect) were true. This process is fundamental to understanding hypothesis testing in a simulation-based approach."
+  },
+  {
+    "title": "Performing a Single Shuffle",
+    "body": "As part of Unit 2 Lab 2E, participants are guided to perform a single shuffle of the 'survival' variable to understand the mechanics of permutation. First, they run `tally(~survival | gender, data = slasher)` to record the original counts. Then, they execute `tally(~shuffle(survival) | gender, data = slasher)`. This second command randomly reassigns each character's survival status while keeping their gender the same. By comparing the table generated after shuffling to the original table, participants can observe how a single random permutation alters the distribution of survival across genders. This hands-on step helps visualize the effect of random chance on the observed data."
+  },
+  {
+    "title": "Comparing Survival Before and After Shuffling",
+    "body": "Following the single shuffle in Unit 2 Lab 2E, participants are asked to compare the survival statistics before and after the random permutation. Specifically, they need to report the total number of people who survived in the original, un-shuffled data and the total number who survived after the shuffle. They must also analyze how the shuffling affected the percentage of women who survived compared to men who survived. Further interpretation is required regarding whether the difference in percentages from the shuffled data is larger or smaller than the original difference, and what this implies. Finally, they must explain why performing just one shuffle is insufficient to make a reliable decision about whether the observed difference in the actual data occurred by chance."
+  },
+  {
+    "title": "Multiple Shuffles with 'do()' Function",
+    "body": "Unit 2 Lab 2E introduces the `do()` function for performing multiple simulations, which is essential for robust statistical inference. To assess how often the *actual* difference in survival percentages between genders occurs by chance, the lab instructs users to shuffle the data many times. They begin by running code with `set.seed(7)` and using `do(10)` to perform 10 shuffles of the `survival` variable, storing the results (formatted as percentages) in `shuffled_outcomes`. They are then asked to view these results. The next step involves repeating this process but performing 500 shuffles using `set.seed(1)` and reassigning the results to `shuffled_outcomes`, allowing for a more reliable analysis of chance variation."
+  },
+  {
+    "title": "Analyzing Initial Simulation Results (10 Shuffles)",
+    "body": "After running 10 simulations in Unit 2 Lab 2E using `set.seed(7)` and the `do(10)` function, participants analyze the output `shuffled_outcomes`. They are specifically asked: 1. In how many of these 10 simulations did a higher percentage of males survive than females? 2. What was the largest observed difference in percentages of survival between males and females across these 10 simulations? 3. What preliminary patterns are emerging from these simulations regarding the relationship between gender and survival when survival is randomly assigned? These questions help participants start to grasp the distribution of differences under the assumption of no real effect."
+  },
+  {
+    "title": "Calculating Differences in Shuffled Outcomes",
+    "body": "In Unit 2 Lab 2E, after performing 500 shuffles of the 'survival' variable and storing the results (with percentages) in `shuffled_outcomes` using `set.seed(1)`, the next step is to calculate the difference in survival percentages for each simulation. Participants are prompted to use the `mutate()` function to add a new column named 'diff' to the `shuffled_outcomes` data frame. This column should contain the difference between the percentage of females who survived and the percentage of males who survived in each simulated outcome. The specific R code required is `shuffled_outcomes <- mutate(shuffled_outcomes, diff = ____ - ____)`, and the user needs to fill in the correct column names representing female and male survival percentages."
+  },
+  {
+    "title": "Visualizing Differences with a Histogram",
+    "body": "Unit 2 Lab 2E involves creating a histogram to visualize the distribution of differences in survival percentages obtained from 500 shuffled datasets. Participants are instructed to write and run code to generate this histogram using the 'diff' column from the `shuffled_outcomes` data frame. After plotting, they need to answer: 1. What was the typical difference in percentages between male and female survivors based on the histogram? They are then asked to add a vertical line to the histogram representing the *actual* observed difference from the original data (calculated as 22.52252 - 13.30798). This visual aid helps in comparing the observed reality to the distribution of chance outcomes."
+  },
+  {
+    "title": "Interpreting Simulation Results and Drawing Conclusions",
+    "body": "Based on the histogram generated in Unit 2 Lab 2E, participants interpret the results to draw conclusions about the role of gender in slasher film survival. They must assess whether the *actual* observed difference in survival percentages (marked by the vertical line on the histogram) occurs very often by chance alone, judging this by its position relative to the distribution of shuffled differences. Subsequently, they need to explain whether 'gender' plays a significant role in survival in slasher films, providing reasoning based on the simulation results. Finally, they are asked to make a practical recommendation: If one wanted to survive in a slasher film, would they prefer to play a female or a male character, and why?"
+  },
+  {
+    "title": "Summary of Shuffling and Significance",
+    "body": "The summary of Unit 2 Lab 2E reinforces the concept that shuffling the 'survival' label randomly assigns survival outcomes to males and females. If survival were purely due to chance, the differences in survival proportions between genders in the shuffled data would typically cluster around zero. The histogram visualizes this; most simulated differences are close to zero. The lab highlights that if the *actual* observed difference is rarely found in the distribution of shuffled differences (i.e., it falls in the tails of the distribution), it suggests that the observed difference is unlikely to be due to chance alone, and therefore, gender might genuinely influence survival in slasher films."
+  },
+  {
+    "title": "Shuffling the Gender Variable",
+    "body": "In the \"On your own\" section of Unit 2 Lab 2E, participants are tasked with conducting an additional set of simulations, this time shuffling the 'gender' variable instead of the 'survival' variable. They are instructed to perform 500 simulations, use `set.seed(1)` for reproducibility, and store the results. This exercise explores the relationship from the opposite perspective: if gender is randomly assigned, does survival rate vary significantly? This contrasts with the main lab's approach of randomly assigning survival to see if it aligns with the original gender distribution."
+  },
+  {
+    "title": "Comparing Shuffling Strategies",
+    "body": "After completing the exercise of shuffling the 'gender' variable in Unit 2 Lab 2E, participants must compare the results to their earlier analysis where the 'survival' variable was shuffled. They are asked: 1. Does shuffling the 'gender' variable instead of the 'survival' variable change their answer to the main research question (whether women are more likely to survive)? 2. Does 'survival' play a role in a character's 'gender'? They need to explain their reasoning. This final comparison helps solidify the understanding of how simulation and permutation testing work and how the choice of which variable to shuffle impacts the interpretation of the results and the conclusion about the relationship between gender and survival."
+  },
+  {
+    "title": "Vocabulary: Slasher Films",
+    "body": "In the context of Unit 2 Lab 2E, 'slasher films' refer to a subgenre of horror movies characterized by a killer who stalks and murders a group of people, often teenagers, in a violent manner. These films frequently involve suspense, gore, and a high body count. The lab uses slasher films as the subject matter to investigate a common perception about character survival rates based on gender within this specific film genre."
+  },
+  {
+    "title": "Vocabulary: Permutation / Shuffling",
+    "body": "In Unit 2 Lab 2E, 'permutation' or 'shuffling' refers to a statistical technique used in hypothesis testing. It involves randomly rearranging the values of one variable in a dataset while keeping the other variable(s) fixed. This process is repeated many times to generate a distribution of outcomes under the assumption that there is no real relationship between the variables being studied (the null hypothesis). By comparing the observed statistic (e.g., difference in survival rates) from the original data to this distribution of shuffled statistics, one can determine the probability (p-value) of observing such a result by chance alone."
+  },
+  {
+    "title": "Code: data() function",
+    "body": "The `data()` function is a fundamental command in R used to load datasets into the current R environment. In Unit 2 Lab 2E, it is used specifically to load the 'slasher' dataset (`data(\"slasher\")`) so that its contents can be accessed and analyzed. This function makes the data frame containing information about characters in slasher films available for subsequent operations like `tally()` and `do()`."
+  },
+  {
+    "title": "Code: tally() function",
+    "body": "The `tally()` function, often used in statistical software like R (especially with packages like `mosaic`), is employed in Unit 2 Lab 2E to create frequency tables or contingency tables. It can summarize the counts of observations within categories. Using formulas like `tally(~ variable1 | variable2, data = dataset)` allows for cross-tabulation, showing the distribution of `variable1` within each category of `variable2`. Options like `margin = TRUE` add row and column totals, and `format = \"percent\"` displays the cell counts as percentages, which is crucial for comparing proportions across different groups in the lab."
+  },
+  {
+    "title": "Code: shuffle() function",
+    "body": "The `shuffle()` function, as used in Unit 2 Lab 2E (often within the `mosaic` package in R), is a key component of permutation testing. When applied within a command like `tally(~shuffle(survival) | gender, data = slasher)`, it randomly reassigns the 'survival' status to each observation independently of the original 'gender' assignment. This effectively breaks any real association between survival and gender, creating a randomized dataset that represents what we might expect if chance alone determined survival. The results from shuffled data are compared to the original data to assess statistical significance."
+  },
+  {
+    "title": "Code: do() function",
+    "body": "The `do()` function, typically used with packages like `mosaic` in R, is central to performing simulation-based inference in Unit 2 Lab 2E. It allows users to repeat a specified operation (like generating a shuffled contingency table) a certain number of times. For example, `shuffled_outcomes <- do(10) * tally(...)` executes the `tally(...)` command 10 times, each time on a newly shuffled version of the data, and collects the results (e.g., percentages) into a data frame named `shuffled_outcomes`. This automates the process of generating a distribution of statistics under the null hypothesis."
+  },
+  {
+    "title": "Code: View() function",
+    "body": "The `View()` function in R is a simple utility used in Unit 2 Lab 2E to display the contents of a data frame or other data object in a spreadsheet-like format. After running simulations using the `do()` function and storing the results in `shuffled_outcomes`, `View(shuffled_outcomes)` allows the user to easily inspect the generated tables, examine the percentages, and understand the structure of the simulation results before performing further calculations or visualizations."
+  },
+  {
+    "title": "Code: set.seed() function",
+    "body": "The `set.seed()` function in R is used to initialize the random number generator. In Unit 2 Lab 2E, it is used before performing simulations (`do()`). By setting a specific seed (e.g., `set.seed(7)` or `set.seed(1)`), the sequence of random numbers generated during the shuffling process becomes reproducible. This means that anyone running the same code with the same seed will obtain the exact same 'random' results, which is essential for verifying analyses and ensuring that findings can be replicated."
+  },
+  {
+    "title": "Code: mutate() function",
+    "body": "The `mutate()` function, commonly used in the `dplyr` package in R and applied in Unit 2 Lab 2E, is used to add new columns to a data frame or modify existing ones. In the context of the lab, after generating shuffled outcomes containing survival percentages for females and males, `mutate()` is used to calculate the difference between these percentages for each simulation. The command `shuffled_outcomes <- mutate(shuffled_outcomes, diff = Survives.Female - Survives.Male)` adds a new column named 'diff' that stores the calculated difference, which is then used for creating the histogram."
+  },
+  {
+    "title": "Code: histogram() function",
+    "body": "The `histogram()` function in R is used to create a visual representation of the distribution of a numerical variable. In Unit 2 Lab 2E, participants use this function to plot the 'diff' column from their `shuffled_outcomes` data frame. This histogram shows the frequency of different difference values (the difference between female and male survival percentages) that occurred across the 500 simulations. Visualizing this distribution is key to understanding how often certain differences arise by chance."
+  },
+  {
+    "title": "Code: add_line() with vline",
+    "body": "The `add_line()` function, likely a custom function or part of a specific package used in Unit 2 Lab 2E (like `mosaic`), is demonstrated for adding a vertical line to a plot. In this case, `add_line(vline = 22.52252 - 13.30798)` is used after creating a histogram. The `vline` argument specifies the x-coordinate at which the vertical line should be drawn. This line represents the *actual* observed difference in survival percentages between females and males from the original dataset. Its addition allows for a direct visual comparison between the real-world data and the distribution of differences expected by chance."
+  },
+  {
+    "title": "Vocabulary: Variables",
+    "body": "In statistics and data analysis, 'variables' are characteristics or attributes that can be measured or recorded. They can take on different values for different individuals or observations. In Unit 2 Lab 2E, the dataset 'slasher' contains variables such as 'gender' (e.g., Male, Female) and 'survival' (e.g., Dies, Survives), which describe the characters in the horror films. Understanding the variables in a dataset is the first step in any data analysis."
+  },
+  {
+    "title": "Vocabulary: Observations",
+    "body": "In Unit 2 Lab 2E, 'observations' refer to the individual data points or records within a dataset. Each observation typically represents a single instance or entity being studied. In the 'slasher' dataset, each observation corresponds to one character from a slasher film, containing information about that character's gender, survival status, and potentially other attributes. The lab asks participants to determine the total number of observations in the dataset."
+  },
+  {
+    "title": "Vocabulary: Percentage",
+    "body": "'Percentage' is a way of expressing a proportion or fraction out of 100. In Unit 2 Lab 2E, percentages are used extensively to compare survival rates between genders. For instance, calculating the percentage of females who survived involves taking the number of female survivors, dividing it by the total number of females, and multiplying by 100. Using percentages helps standardize comparisons, especially when the total number of individuals in different groups (like males and females) might vary."
+  },
+  {
+    "title": "Vocabulary: Difference",
+    "body": "In Unit 2 Lab 2E, the term 'difference' refers to the result of subtracting one numerical value from another. In the context of the lab, it most commonly refers to the difference between the percentage of females who survived and the percentage of males who survived. Calculating this difference helps quantify the extent of the disparity in survival rates between the two genders. The lab uses this difference, both the actual observed one and those generated through simulations, to assess statistical significance."
+  },
+  {
+    "title": "Vocabulary: Simulation",
+    "body": "A 'simulation' in statistics, as applied in Unit 2 Lab 2E, is a computational process used to model the behavior of a system or to estimate probabilities. In this lab, simulations are performed by repeatedly shuffling the data (e.g., randomly reassigning survival status) and calculating a statistic of interest (e.g., the difference in survival percentages). By running many simulations, we can build a distribution of possible outcomes that could occur if only chance were involved, allowing us to evaluate the likelihood of our observed results."
+  },
+  {
+    "title": "Statistical Investigative Question",
+    "body": "A 'statistical investigative question' (SIQ) is a question that can be answered using data and statistical methods. It guides the entire research process. In Unit 2 Lab 2E, the central SIQ is: 'Are women in slasher films more likely to survive until the end of the film than men?' This question is specific, measurable, and sets the stage for the data collection, analysis, and interpretation performed throughout the lab."
+  }
+]

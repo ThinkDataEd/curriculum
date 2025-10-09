@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Lesson 14 Abstract: Confidence Intervals and Margin of Error",
+    "body": "Lesson 14 introduces the concept of informal confidence intervals and the margin of error. Students will revisit a dotplot of sample means from a previous lesson to understand how sample statistics vary. The lesson defines the margin of error as a measure of uncertainty in an estimate and explains how adding and subtracting it from a sample statistic creates an interval. Students will calculate their own margins of error and intervals. The distinction between a sample statistic and a population parameter is reinforced. The lesson clarifies the meaning of a confidence interval, emphasizing that 90% confidence means that 90% of such intervals constructed would contain the true population parameter. An example from a Pew Poll illustrates the practical application of the margin of error. The lesson concludes by introducing bootstrapping as a method to understand population characteristics from existing samples, preparing students for the upcoming lab."
+  },
+  {
+    "title": "Vocabulary: Margin of Error",
+    "body": "The term 'margin of error' is defined as the value that tells you how many percentage points your results will differ from the real population value. In Lesson 14, it is introduced as the AMOUNT that is added to and subtracted from a sample statistic to create a confidence interval. This margin of error quantifies the uncertainty associated with using a sample statistic to estimate a population parameter. A smaller margin of error indicates a more precise estimate. The margin of error is crucial for constructing confidence intervals, which provide a range of plausible values for the population parameter. For example, a Pew Poll reported a margin of error of plus or minus 3.7 percentage points, meaning the true population value is likely within 3.7 percentage points of the reported sample statistic."
+  },
+  {
+    "title": "Vocabulary: Bootstrapping",
+    "body": "Bootstrapping is a statistical method introduced in Lesson 14 to understand a population of interest by studying an existing sample. Instead of collecting new data, bootstrapping involves creating numerous new samples by repeatedly sampling with replacement from the original collected data. This resampling process allows statisticians to estimate the sampling distribution of a statistic and gain insights into the variability and uncertainty of estimates for population parameters. It is a powerful technique for learning more about a population when direct data collection is difficult or impossible, and it serves as a preparation for upcoming labs. A video demonstrating bootstrapping is provided for students."
+  },
+  {
+    "title": "Essential Concepts: Confidence Intervals and Margin of Error",
+    "body": "The core concepts in Lesson 14 revolve around understanding uncertainty in estimates derived from samples. The margin of error is presented as a measure of this uncertainty. When a sample statistic (like a sample mean) is combined with the margin of error, it forms a confidence interval. This interval, calculated as 'sample statistic plus or minus margin of error,' is a range of values within which we are highly confident the true population parameter lies. The lesson emphasizes that estimates from random samples naturally vary, and this variation can be measured. The margin of error quantifies this variation, allowing us to construct a range of plausible values for the population parameter."
+  },
+  {
+    "title": "Lesson 14: Introduction to Confidence Intervals",
+    "body": "Lesson 14 begins by displaying a dotplot from Lesson 11, showing sample means of word length from random samples of the Gettysburg Address. Students are reminded that each dot represents a sample statistic and that the population parameter (true mean word length) was 4.22. They recall that obtaining the exact population parameter from a single sample is unlikely. To address this uncertainty, the lesson introduces the idea of providing an interval: 'Your sample statistic plus or minus AMOUNT.' Students are guided to calculate an 'AMOUNT' for their own sample statistic so that their interval includes the population parameter. This 'AMOUNT' is then identified as the margin of error."
+  },
+  {
+    "title": "Calculating the Margin of Error in Lesson 14",
+    "body": "In Lesson 14, students physically calculate their own margin of error. After determining their sample statistic (sample mean word length), they are asked to find an 'AMOUNT' to add and subtract from this statistic. The goal is for the resulting interval ([sample statistic - AMOUNT, sample statistic + AMOUNT]) to contain the known population parameter (4.22). One student's calculation is used as an example: a sample mean of 3.5 with an AMOUNT of 0.8 creates an interval of [2.7, 4.3], which successfully includes the parameter. This 'AMOUNT' is then formally defined as the margin of error, highlighting that in this lesson's context, students are determining a margin of error specific to their own sample mean, unlike in real-world scenarios."
+  },
+  {
+    "title": "Understanding Confidence Intervals: Lesson 14",
+    "body": "Lesson 14 explains that the interval created by a sample statistic plus or minus the margin of error is called a confidence interval. The confidence level (e.g., 90%) indicates the long-run proportion of such intervals that would capture the true population parameter if the sampling process were repeated many times. Students learn the correct interpretation: 'We are 90% confident that the population parameter value is between [lower bound] and [upper bound].' This contrasts with the misconception that there is a 90% chance the parameter falls within a specific calculated interval. The lesson uses the example of sample statistics plus or minus a chosen margin of error (around 1.3 for 90% confidence) to illustrate how 90% of intervals would likely contain the true parameter."
+  },
+  {
+    "title": "Real-World Application: Pew Poll Example",
+    "body": "Lesson 14 connects the concept of the margin of error to a real-world example by referencing a Pew Poll report. The report stated that '57% of teens have met new friends online' with a margin of error of 'plus or minus 3.7 percentage points.' This means the actual percentage of teens who have met new friends online is likely between 53.3% (57% - 3.7%) and 60.7% (57% + 3.7%). The data was collected from 1,060 teenagers aged 13-17. Students are prompted to write an 'Exit Slip' explaining the meaning of this margin of error in the context of the Pew Poll findings, reinforcing the practical significance of quantifying uncertainty in survey results."
+  },
+  {
+    "title": "Key Takeaways from Lesson 14",
+    "body": "Lesson 14 summarizes several key statistical concepts. Firstly, it emphasizes that estimates derived from random samples inherently vary. Secondly, this variation is quantifiable. The margin of error is introduced as a tool to measure this variation, providing insight into the potential difference between a sample statistic and the population parameter. Finally, the lesson reinforces that by combining a sample estimate with its margin of error, we can construct a confidence interval – a range of plausible values for the population parameter. This interval represents our best estimate of the true population value when using sample data."
+  },
+  {
+    "title": "Preparation for Lab 3D: Bootstrapping Introduction",
+    "body": "Lesson 14 concludes by introducing bootstrapping as a method for understanding population characteristics from a single existing sample. This technique involves repeatedly resampling from the original sample (with replacement) to create many new, simulated samples. By analyzing statistics calculated from these bootstrap samples, students can learn about the variability of their original sample statistic and estimate the margin of error without needing additional data collection. This concept is crucial for the upcoming Lab 3D, titled 'Are you sure about that?', and a YouTube video is provided to illustrate the bootstrapping process visually."
+  },
+  {
+    "title": "Lesson 14 Activity: Sample Statistics and Intervals",
+    "body": "Students in Lesson 14 use a dotplot displaying sample means of word length from a random sample of 10 words from the Gettysburg Address. Each dot represents a sample statistic calculated by a student. They are reminded of the population parameter (4.22). The lesson guides them to consider their own sample mean and determine an 'AMOUNT' (margin of error) such that the interval formed by [sample mean - AMOUNT, sample mean + AMOUNT] includes the population parameter. This hands-on calculation helps them visualize how intervals can capture the true value and understand the concept of a margin of error tailored to their specific sample statistic."
+  },
+  {
+    "title": "Vocabulary: Sample Statistic vs. Population Parameter",
+    "body": "Lesson 14 reinforces the distinction between a sample statistic and a population parameter. A sample statistic is a numerical value calculated from a sample (e.g., the sample mean word length derived from a random sample of 10 words). Each dot on the dotplot represents a different sample statistic. A population parameter is a numerical value describing the entire population (e.g., the true mean word length of all words in the Gettysburg Address, which is 4.22). The goal of statistical inference is to use sample statistics to estimate population parameters, acknowledging that sample statistics will vary from sample to sample."
+  }
+]

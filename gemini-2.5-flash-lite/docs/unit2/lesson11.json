@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Lesson 11: Compound Probabilities - Abstract",
+    "body": "This lesson introduces students to compound probabilities, specifically AND/OR probabilities. Students will learn to define and compute these probabilities using frequency tables and through hands-on activities. The lesson begins by reviewing basic probability concepts and then moves to exploring scenarios involving multiple events. An interactive activity using student preferences for pickles and mayonnaise helps illustrate the concepts of 'AND' (both events occurring) and 'OR' (either event occurring). Students will create a two-way frequency table to organize data and calculate probabilities. The lesson also includes a group activity with sticky notes to explore compound probabilities related to sports participation and ice cream preferences, culminating in practice problems on a handout. The objective is for students to understand and apply the calculation of compound probabilities."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Objective",
+    "body": "The primary objective of Unit 2 Lesson 11 is for students to gain a clear understanding of how AND/OR probabilities are defined. Furthermore, students will develop the skill to effectively utilize frequency tables as a tool to compute these compound probabilities. This lesson bridges the gap from single event probabilities to scenarios involving multiple events occurring simultaneously or alternatively."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Materials",
+    "body": "To facilitate Unit 2 Lesson 11, the following materials are required: The 'Compound Probabilities' handout (LMR_U2_L11), blue sticky notes, gold sticky notes, and four signs for the board labeled 'Pickles', 'Mayonnaise', 'Both', and 'None' in that specific order and equally spaced."
+  },
+  {
+    "title": "Vocabulary: Compound Probabilities",
+    "body": "Compound probabilities, also referred to as AND/OR probabilities, represent the likelihood of two or more independent events occurring. This concept is central to Unit 2 Lesson 11, where students learn to calculate the probability of combined events rather than single, isolated occurrences."
+  },
+  {
+    "title": "Essential Concepts: AND/OR Probabilities",
+    "body": "The essential concept of Unit 2 Lesson 11 revolves around understanding the distinction and calculation of compound events, specifically 'A or B' versus 'A and B'. Two-way tables are introduced as a crucial tool for calculating probabilities when multiple events are involved, enabling students to visualize and quantify these combined outcomes."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Introduction to Compound Events",
+    "body": "Unit 2 Lesson 11 begins by reminding students of their prior learning on estimating single event probabilities using sample proportions. The lesson then transitions to calculating probabilities when multiple events occur. The fundamental concept of probability (number of desired outcomes divided by total possible outcomes) is reviewed. This sets the stage for exploring more complex scenarios involving combined events."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Posing AND/OR Questions",
+    "body": "As part of Unit 2 Lesson 11, students are posed with two key questions to stimulate thinking about compound probabilities: 1. 'How would we compute the probability of two outcomes occurring at the same time? For example, what is the probability that a randomly chosen student likes both pickles AND mayonnaise?' 2. 'How would we compute the probability of either of two outcomes occurring? For example, what is the probability that a randomly chosen student likes either pickles OR mayonnaise?' These questions serve as a springboard for the subsequent activity and discussion."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Activity Setup - Food Preferences",
+    "body": "In Unit 2 Lesson 11, an activity is conducted to help define AND/OR probabilities. Students are divided and grouped based on their food preferences. Four areas on the board are designated with signs: 'Pickles', 'Mayonnaise', 'Both', and 'None'. Ten volunteers are asked to stand by the sign that best represents their preference (e.g., 'Both' for liking both pickles and mayonnaise). If needed, additional students are selected to ensure at least one student is in each of the four preference groups."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Two-Way Frequency Table Creation",
+    "body": "Following the 'food preference' activity in Unit 2 Lesson 11, a two-way frequency table is created to organize the collected data. This table categorizes students based on their preferences for pickles and mayonnaise. For instance, the cell for 'Yes/Like Mayonnaise' and 'Yes/Like Pickles' records the count of students who like both. Similarly, counts for those who like none, only mayonnaise, or only pickles are placed in their respective cells. A Venn diagram can also be used as an alternative visual aid."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Calculating 'AND' Probability",
+    "body": "To calculate the probability of a student liking both pickles AND mayonnaise in Unit 2 Lesson 11, the number of students who stood under the 'Both' sign is identified from the frequency table. This count is then divided by the total number of students who participated in the activity (those standing at the board). This demonstrates the formula: P(A and B) = (Number of students liking Both) / (Total number of students)."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Calculating 'Pickles' Probability",
+    "body": "In Unit 2 Lesson 11, the probability of a randomly selected student liking pickles is calculated. This involves counting students who like pickles, which includes those who like *only* pickles and those who like *both* pickles and mayonnaise. The total count of students liking pickles is then divided by the total number of students at the board. The formula used is: P(Pickles) = (Number of students under 'Pickles' + Number of students under 'Both') / (Total number of students)."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Calculating 'OR' Probability",
+    "body": "For Unit 2 Lesson 11, the probability that a randomly selected student likes pickles OR mayonnaise is determined. This is found by summing the number of students who like pickles, the number who like mayonnaise, and the number who like both. This total is then divided by the total number of students at the board. The calculation reflects the formula: P(Pickles or Mayonnaise) = (Number under 'Pickles' + Number under 'Mayonnaise' + Number under 'Both') / (Total number of students)."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Defining Compound Probabilities",
+    "body": "Unit 2 Lesson 11 concludes the initial activity by informing students that 'AND/OR' probabilities are formally known as compound probabilities. Students are then tasked, in teams, to formulate their own definitions based on the activity. The expected definition is that a compound probability is the probability of some combination of events occurring, encompassing scenarios where events happen together or alternatively."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Compound Probabilities Handout and Activity",
+    "body": "Following the introductory activities in Unit 2 Lesson 11, students are given the 'Compound Probabilities' handout (LMR_U2_L11). This handout is intended for pair work and reinforces the concepts of AND/OR probabilities through practice problems. The handout requires students to apply the methods learned, including the use of frequency tables, to solve probability problems involving multiple events."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Sticky Note Activity - Sports and Ice Cream",
+    "body": "In Unit 2 Lesson 11, a secondary activity uses sticky notes to explore compound probabilities. Students receive blue notes if they play a sport and gold notes if they do not. A two-way table is drawn on the board to record counts based on sport participation and ice cream flavor preference (Vanilla, Chocolate, Rocky Road). Students write their ice cream preference on their sticky note. The table is filled by counting students in each category, ensuring totals align with the overall number of participants."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Class Scribes and Homework",
+    "body": "As part of the wrap-up for Unit 2 Lesson 11, one student team acts as 'Class Scribes' to present the three most important topics learned during the lesson. Homework for this lesson consists of completing the 'Compound Probabilities' handout (LMR_U2_L11) if it was not finished in class. The lesson also directs students to prepare for Lab 2D: Queue It Up! and the upcoming Practicum."
+  },
+  {
+    "title": "Vocabulary: AND/OR Probabilities",
+    "body": "AND/OR probabilities, as defined in Unit 2 Lesson 11, are synonymous with compound probabilities. They refer to the likelihood of two or more independent events occurring together (AND) or at least one of them occurring (OR). Understanding this distinction is key to calculating combined outcomes in probability."
+  },
+  {
+    "title": "Activity: Calculating AND Probability with Food Preferences",
+    "body": "Unit 2 Lesson 11 uses a hands-on activity to calculate the probability of liking both pickles AND mayonnaise. Students participating in the activity stand according to their preferences. The number of students who like 'Both' is counted. This number is then divided by the total number of students standing at the board to find the probability of a randomly selected student liking both items. This directly applies the definition of AND probability to a real-world scenario."
+  },
+  {
+    "title": "Activity: Calculating OR Probability with Food Preferences",
+    "body": "Unit 2 Lesson 11 illustrates the calculation of 'OR' probability using the same food preference activity. To find the probability that a student likes pickles OR mayonnaise, the counts of students who like 'Pickles', 'Mayonnaise', and 'Both' are summed. This combined total is then divided by the total number of students at the board. This method ensures all students who satisfy at least one of the conditions (liking pickles or liking mayonnaise) are included in the numerator."
+  },
+  {
+    "title": "Frequency Tables and Compound Probabilities",
+    "body": "A central tool in Unit 2 Lesson 11 for understanding compound probabilities is the frequency table. These tables, often two-way tables, help organize data from multiple categories (like liking pickles vs. not liking pickles, and liking mayonnaise vs. not liking mayonnaise). By tallying the occurrences within each combination of categories, students can easily identify the counts needed to calculate AND/OR probabilities, making the process of finding probabilities for multiple events more systematic."
+  },
+  {
+    "title": "Unit 2 Lesson 11: Two-Way Table Application",
+    "body": "In Unit 2 Lesson 11, two-way tables are applied in two distinct activities. First, to categorize student preferences for pickles and mayonnaise. Second, to organize data collected via sticky notes regarding sports participation and ice cream flavor preferences. In both instances, the table serves to structure the raw counts of individuals falling into specific intersecting categories, which is essential for calculating compound probabilities accurately."
+  },
+  {
+    "title": "Lab 2D: Queue It Up!",
+    "body": "Unit 2 Lesson 11 directs students to prepare for 'Lab 2D: Queue It Up!'. This lab is a practical application of the concepts learned in the unit, likely involving probability and/or data analysis in a queuing scenario. The lesson explicitly states that this lab should be completed prior to the 'Practicum', indicating its importance in reinforcing and assessing the understanding of unit-related skills and knowledge."
+  }
+]

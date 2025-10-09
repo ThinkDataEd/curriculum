@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Abstract of Evaluating Participatory Sensing Campaigns",
+    "body": "This lesson, Unit 3 Lesson 18, focuses on evaluating Participatory Sensing (PS) campaigns. Students will create statistical questions and critically assess their own campaign, ensuring it is reasonable and ethically sound. Key aspects include reviewing homework classifications, discussing campaign feasibility and potential for social change, refining survey questions for data collection, and formulating statistical questions answerable by that data. The lesson emphasizes the importance of statistical questions guiding PS campaigns to learn about communities or individuals. It also stresses the need for pre-implementation evaluation to ensure campaigns are practical and ethical, covering aspects like data variation, class-wide feasibility, trigger frequency, privacy concerns, and the ability to gather sufficient relevant data. The lesson concludes with students collaboratively creating their first PS campaign and an introduction to a tool for campaign creation."
+  },
+  {
+    "title": "Unit 3 Lesson 18: Evaluating Our Own Participatory Sensing Campaign - Objective and Materials",
+    "body": "The primary objective of Unit 3 Lesson 18 is for students to create statistical questions and evaluate their Participatory Sensing (PS) Campaign. To achieve this, students will need the 'Campaign Creation' handout (LMR_U3_L17_B), which was introduced in the previous lesson (Unit 3 Lesson 17). Additionally, they will require the Class Campaign Information that was generated in Unit 3 Lesson 16. This lesson builds directly upon the foundational work of creating a campaign, shifting the focus to critical evaluation and refinement."
+  },
+  {
+    "title": "Essential Concepts for Participatory Sensing Campaigns",
+    "body": "Statistical questions are fundamental to guiding a Participatory Sensing (PS) Campaign, enabling the collection of meaningful data to understand a community or individuals. Before launching any campaign, it is crucial to evaluate its feasibility and ethical implications. This evaluation ensures that the campaign is well-designed, practical to implement, and respects the privacy and well-being of participants. These essential concepts underpin the entire process of designing and executing a successful and responsible PS campaign, as detailed in Unit 3 Lesson 18."
+  },
+  {
+    "title": "Lesson Activity: Reviewing Classifications and Feasibility",
+    "body": "Unit 3 Lesson 18 begins with a review of homework where students, in teams, discuss and decide on the most fitting classification for their campaign. This is followed by a whole-class discussion to justify their choices. A critical point of discussion is whether the campaign, as currently defined, can be carried out by the entire class. If a campaign is classified as 'Individual,' it must be revised to fit into 'People' or 'Community' categories to ensure broader participation. Feasibility is also assessed, considering potential issues like triggers being too rare or questions being overly intrusive, ensuring the campaign is practical and ethically sound."
+  },
+  {
+    "title": "Campaigns for Social and Civic Change",
+    "body": "A key promise of Participatory Sensing (PS) is its potential to facilitate social and civic change. In Unit 3 Lesson 18, students are prompted to consider if their campaign aims to achieve such change. They are asked to reflect on whether their current campaign contributes to social or civic improvement and, if not, how it could be modified or changed to do so. This encourages students to think beyond data collection and consider the broader impact and application of their PS initiatives, aligning with the goal of making a positive difference in their communities."
+  },
+  {
+    "title": "Round 4: Developing Survey Questions for Data Collection",
+    "body": "In Unit 3 Lesson 18, Round 4 involves teams using the Campaign Creation handout to develop survey questions. Based on the previously decided trigger and type of data needed, students brainstorm creative questions to ask when the trigger event occurs. The goal is to generate a comprehensive list, considering all possible data that could be collected. Examples provided include questions about practice duration, content, rating, and comments for a cello practice campaign. After teams create their initial questions, the class collaboratively selects a maximum of 10 survey questions for the final campaign."
+  },
+  {
+    "title": "Evaluating Survey Questions for Clarity and Relevance",
+    "body": "Following the generation of survey questions in Unit 3 Lesson 18, each question is meticulously evaluated. Students consider: 1. The type of data the question will collect (e.g., numerical, text, categories, photos, location). 2. How the question contributes to answering the main research question. 3. Whether the question needs rewording for clarity and ease of understanding, ensuring participants know exactly what is being asked and how to respond. Teams may be assigned to rewrite unclear questions, with final decisions made by the class. The focus is on creating unbiased and effective questions."
+  },
+  {
+    "title": "Round 5: Generating Statistical Questions from Collected Data",
+    "body": "Unit 3 Lesson 18, Round 5, focuses on generating statistical questions that can be answered using the data collected from the finalized survey questions. In their teams, students create two to three interesting and relevant statistical questions pertaining to the class's topic of interest. They record these in their DS Journals. It's a reminder that data on date, time, and place of collection will also be available. Examples for a cello practice campaign include 'How frequently do I practice?' or 'When I practice more frequently, do I rate my sessions higher?'. The class confirms that these questions are indeed statistical and answerable by the proposed data collection."
+  },
+  {
+    "title": "Final Campaign Evaluation: Reasonableness and Ethical Soundness",
+    "body": "Before concluding Unit 3 Lesson 18, the collaboratively created Participatory Sensing campaign undergoes a final evaluation for reasonableness and ethical soundness. The class engages in a group discussion addressing key questions: Will responses vary when the trigger occurs? Can the entire class implement the campaign? Is the trigger frequency appropriate (not too rare, not too frequent)? Are there ethical concerns regarding privacy or potential embarrassment? Can triggers or survey questions be modified to improve the evaluation? Crucially, will enough relevant data be gathered to answer the statistical questions? This comprehensive review ensures a robust and responsible campaign."
+  },
+  {
+    "title": "Campaign Creation Tool Introduction",
+    "body": "As Unit 3 Lesson 18 concludes, students have successfully collaborated to create their first Participatory Sensing (PS) campaign. To bridge the gap between their conceptual understanding and practical application, the instructor will demonstrate a tool commonly used to build these campaigns on smart devices or computers. Students are instructed to take detailed notes in their DS journals, as they will be expected to utilize this tool in future activities. This segment prepares them for the hands-on implementation of PS campaigns."
+  },
+  {
+    "title": "Class Scribes: Summarizing Key Learnings",
+    "body": "In Unit 3 Lesson 18, a designated team will serve as 'Class Scribes.' Their responsibility is to prepare and deliver a brief presentation summarizing what they consider to be the three most important topics or takeaways from the day's lesson. This activity encourages active listening, synthesis of information, and clear communication, reinforcing the core concepts of evaluating Participatory Sensing campaigns, including question formulation, feasibility, and ethical considerations."
+  },
+  {
+    "title": "Participatory Sensing (PS) and Statistical Questions",
+    "body": "Unit 3 Lesson 18 emphasizes that Participatory Sensing (PS) campaigns are guided by statistical questions. These questions are essential for learning about a community or individuals. The lesson requires students to formulate their own statistical questions as part of the campaign creation process. This involves understanding what constitutes a statistical question – one that anticipates variability in the answers and can be answered by collecting and analyzing data. The goal is to ensure the data collected directly addresses the research objectives of the campaign."
+  },
+  {
+    "title": "Campaign Feasibility and Classification",
+    "body": "Evaluating the feasibility of a Participatory Sensing (PS) campaign is a critical step in Unit 3 Lesson 18. Campaigns must be assessed to ensure they are practical to implement. This includes considering if the chosen trigger occurs too rarely or too frequently, which could lead to insufficient data or participant frustration. Furthermore, campaigns are classified into categories such as 'Individual,' 'People,' or 'Community.' Campaigns classified as 'Individual' must be revised to fall under the 'People' or 'Community' categories, ensuring broader participation and relevance, and enabling the class to carry out the campaign collectively."
+  },
+  {
+    "title": "Ethical Considerations in Participatory Sensing",
+    "body": "Ethical considerations are paramount in Unit 3 Lesson 18's evaluation of Participatory Sensing (PS) campaigns. Students are prompted to discuss whether sharing the collected data would cause embarrassment or violate someone's privacy. This encourages a thoughtful approach to data collection and usage, ensuring that the campaign respects the dignity and rights of all participants. The lesson stresses that campaigns must be ethically sound, meaning they should not harm or intrude upon individuals or communities, and that potential ethical issues should be identified and addressed, possibly by modifying triggers or survey questions."
+  }
+]

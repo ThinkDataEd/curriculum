@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Abstract: Campaign Guidelines - Food Habits",
+    "body": "This document outlines Campaign 1: Food Habits, part of Unit 1. The campaign focuses on understanding personal and class-wide eating habits by collecting and analyzing snack data. It highlights the historical context of the Nutrition Facts label, emphasizing its role in consumer choice. The campaign's objectives are to teach students how to interpret graphs, understand relationships between variables (independent 'x' and dependent 'y'), and apply these concepts to real-world data. Students will participate in a survey to record details about their snacks, including time of consumption, healthiness level, nutritional content, cost, and reasons for eating. The campaign spans approximately nine days, encouraging consistent data collection and utilizing tools like the Campaign Monitoring tool and Dashboard and Plot App for analysis. Guiding questions prompt students to analyze trends in snack timing, healthiness, and characteristics of snacks. The campaign culminates in a report where students answer a statistical question using the collected Food Habits data."
+  },
+  {
+    "title": "Unit 1 Campaign 1: The Issue - Nutrition Labeling",
+    "body": "The Nutrition Facts label, a common sight today, was not always mandatory on food packaging. It was only in 1990, with the Nutrition Labeling Education Act, that food companies were required to provide nutritional information. This act aimed to empower consumers to make more informed decisions about their food choices. This historical context leads to key questions for the campaign: 1) Does awareness of nutritional information influence snack choices and habits? 2) What are the individual patterns of snacking? 3) How does an individual's snacking health compare to their classmates and the national average?"
+  },
+  {
+    "title": "Unit 1 Campaign 1: Objectives - Data Interpretation and Variable Relationships",
+    "body": "Upon completion of this campaign, students will gain a lasting understanding that interpreting graphs provides valuable insights into real-world phenomena as represented by data. A core objective is to explore the relationship between two variables. Specifically, students will learn that if a relationship exists, it is driven by the change in the independent variable, denoted as 'x', which consequently causes a change in the dependent variable, 'y'. This campaign provides practical application of these statistical concepts through the analysis of food habit data."
+  },
+  {
+    "title": "Unit 1 Campaign 1: Survey - Data Considerations and Definitions",
+    "body": "Before students submit their first snack survey, a class consensus on the meaning of specific variables is crucial for accurate analysis. For example, defining 'when' a snack is eaten (morning, afternoon, evening, night) requires a class agreement to ensure comparable data. Similarly, decisions must be made regarding the 'cost' variable; specifically, whether to record the total cost of a snack item like a box of cereal or to calculate the unit cost per serving. Establishing these clear definitions ensures consistency and facilitates meaningful data interpretation across the class."
+  },
+  {
+    "title": "Unit 1 Campaign 1: Survey Questions - Snack Data Variables",
+    "body": "Students will collect data on snacks they consume using a survey with various prompts. The survey includes variables such as 'name' (text) for the snack's name, 'when' (categorical: morning, afternoon, evening, night) for the time of consumption, and 'salty_sweet' (categorical: Salty, Sweet) to classify the snack's flavor profile. 'healthy_level' (numerical: 1-5) assesses perceived healthiness. Nutritional data includes 'calories' (numerical), 'protein' (numerical), 'sugar' (numerical), and 'sodium' (numerical) per serving. 'ingredients' (numerical) counts the number of ingredients. The 'why' variable (categorical) captures the reason for eating (e.g., craving, energy). 'cost' (categorical: $0 to < $1, $1 to < $3, $3 to < $7, $7 or more) records the snack's price range. Optional 'snack_image' (photo) and automatic variables like 'location', 'time', 'date', and 'user' are also included."
+  },
+  {
+    "title": "Unit 1 Campaign 1: Survey Implementation and Duration",
+    "body": "Students are instructed to take the snack survey each time they eat a snack or at the end of each day. Setting reminders is recommended to ensure consistent survey completion. The campaign is designed to last approximately nine days, with the ideal inclusion of two weekend days to capture a broader range of snacking behaviors. This structured approach to data collection aims to gather a comprehensive dataset for subsequent analysis."
+  },
+  {
+    "title": "Unit 1 Campaign 1: Motivation - Data Collection Monitoring and Discussion",
+    "body": "Students are motivated to collect data through class-wide goals and monitoring tools. The class must agree on a target number of surveys per student, with a minimum of four submissions per student. The Campaign Monitoring tool is used after the first day to track individual data collection progress. After two to three days, the 'Total Responses by Day' plot is examined to identify and discuss data collection patterns. For instance, a plot showing increased collection from Wednesday to Friday, a dip over the weekend, and a peak on Monday prompts discussions about factors influencing data collection and the quality of the data gathered, including which types of snacks might be underreported."
+  },
+  {
+    "title": "Unit 1 Campaign 1: Technical Tools for Analysis",
+    "body": "Students will utilize specific digital tools for the technical analysis of the data collected during the Food Habits campaign. These tools include the 'Dashboard and Plot App', which provides visual representations of the data, and 'RStudio', a more advanced environment for statistical computing and data analysis. Familiarity and proficiency with these platforms are essential for students to effectively interpret their findings and answer the guiding questions."
+  },
+  {
+    "title": "Unit 1 Campaign 1: Guiding Questions for Analysis",
+    "body": "To facilitate deeper understanding and analysis of the collected food habit data, students will address a series of guiding questions. These questions encourage critical thinking about their snacking patterns in relation to the class as a whole. Key questions include: 1) At what time of day are the healthiest snacks consumed? 2) How do individual snacking times compare to the class average? 3) How does an individual's typical snack healthiness compare to the class's overall healthiness? 4) What characteristics are associated with healthy snacks versus unhealthy snacks?"
+  },
+  {
+    "title": "Unit 1 Campaign 1: Report - Statistical Analysis Practicum",
+    "body": "The culmination of Unit 1 Campaign 1: Food Habits is a practicum report. In this report, students are tasked with answering a specific statistical question. This question will be based on the comprehensive Food Habits data that they have collected and analyzed throughout the campaign. This final assignment allows students to demonstrate their ability to apply the statistical concepts and analysis techniques learned during the campaign to address a real-world research question."
+  },
+  {
+    "title": "Unit 1 Campaign 1: Vocabulary - Independent and Dependent Variables",
+    "body": "In the context of Unit 1 Campaign 1, understanding the relationship between variables is key. An independent variable is the variable that is changed or controlled in an experiment or analysis to test its effects on the dependent variable. In this campaign, 'x' typically represents the independent variable. A dependent variable is the variable being tested and measured in an experiment or analysis; its value is expected to depend on the changes in the independent variable. In this campaign, 'y' typically represents the dependent variable. For example, if we investigate if the time of day ('x', independent) affects snack healthiness ('y', dependent), 'x' causes a change in 'y'."
+  },
+  {
+    "title": "Unit 1 Campaign 1: Vocabulary - Categorical and Numerical Data",
+    "body": "Data collected in Unit 1 Campaign 1 can be classified into two main types: categorical and numerical. Categorical data represents characteristics or qualities that can be divided into groups or categories, such as 'when' (morning, afternoon, evening, night) or 'salty_sweet' (Salty, Sweet). Numerical data represents quantities that can be measured and expressed as numbers, such as 'calories', 'protein', 'sugar', 'sodium', and 'ingredients'. Understanding these data types is fundamental for choosing appropriate analysis methods and creating meaningful visualizations."
+  },
+  {
+    "title": "Unit 1 Campaign 1: Code Snippet - Data Variable Definitions",
+    "body": "The following table defines the variables collected in Unit 1 Campaign 1. Understanding these definitions ensures consistent data entry and interpretation. Variables include 'name' (text), 'when' (categorical: morning, afternoon, evening, night), 'salty_sweet' (categorical: Salty, Sweet), 'healthy_level' (numerical: 1-5), 'calories' (numerical), 'protein' (numerical), 'sugar' (numerical), 'sodium' (numerical), 'ingredients' (numerical), 'why' (categorical: availability, craving, emotional, energy, hungry/thirsty, social, other), and 'cost' (categorical: $0 to < $1, $1 to < $3, $3 to < $7, $7 or more). Automatic variables capture 'location', 'time', 'date', and 'user'."
+  }
+]

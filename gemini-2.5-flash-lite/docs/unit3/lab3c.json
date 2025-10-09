@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Abstract of Lab 3C - Random Sampling",
+    "body": "This document outlines Lab 3C, focusing on random sampling techniques. It begins by explaining the necessity of sampling when studying a large population, using the Department of Water & Power's water usage survey in Los Angeles as an example. The lab then guides the user through loading the 'cdc' dataset into R and performing a convenience sample. Users are instructed to create bar graphs to visualize the distribution of 'grade' in their convenience sample and compare it to the entire 'cdc' dataset, identifying potential over/under-representation. The core of the lab involves implementing random sampling without replacement, creating a new sample 's2', and comparing its 'grade' distribution to the population. Further exercises explore the impact of increasing sample size on the accuracy of random samples and involve tallying proportions. The lab concludes by summarizing key lessons learned about the reliability of random versus convenience samples as sample size increases."
+  },
+  {
+    "title": "Introduction to Sampling - Lab 3C",
+    "body": "In Unit 3, Lab 3C, titled 'Random Sampling', we explore the practical challenges of data collection from large populations. It's often infeasible to gather information from every individual in a group. For instance, the Department of Water & Power (DWP) in Los Angeles needs to understand water usage for showering. They've designed a survey, but surveying every resident is impractical. The lab will delve into how different sampling methods influence the representativeness of a sample compared to the entire population. Understanding these methods is crucial for drawing accurate conclusions from data when a complete census is not possible."
+  },
+  {
+    "title": "Challenges of Population Surveys",
+    "body": "When aiming to collect data from an entire population, significant logistical hurdles can arise. For example, the Department of Water & Power (DWP) in Los Angeles faces the challenge of surveying all residents about their shower water usage. It's difficult to reach everyone, and many might not respond. To address this, the DWP might consider using a sample of households instead of attempting to survey the entire population. This lab, Unit 3 Lab 3C, will investigate how different sampling strategies, particularly random sampling, can yield more representative results than other methods."
+  },
+  {
+    "title": "Loading Data and Convenience Sampling in R - Lab 3C",
+    "body": "In Unit 3, Lab 3C, we begin by loading the 'cdc' dataset, which previously served as a sample of young people in the United States. For this lab, we will treat this 'cdc' data as our population. The first sampling method we will explore is 'convenience sampling'. This involves selecting individuals who are easiest to access. Specifically, you will load the 'cdc' data into R and then take a convenience sample of the first 50 individuals using the `slice()` function. The code required is `s1 <- slice(____, 1:____)`. Understanding why this is called a 'convenience' sample is a key part of this exercise, relating to the ease of access of the selected subjects."
+  },
+  {
+    "title": "Convenience Sample Visualization - Lab 3C",
+    "body": "Following the creation of a convenience sample (named `s1`) in Unit 3, Lab 3C, the next step is to visualize the data. You are asked to write and run R code to create a bar graph showing the distribution of 'grade' for the individuals in your convenience sample. After generating this graph, you need to consider if this distribution accurately reflects the 'grade' distribution in the entire 'cdc' dataset. You should also identify which groups of people might be over-represented or under-represented in your convenience sample and explain why this might be the case, considering the nature of convenience sampling."
+  },
+  {
+    "title": "Comparing Convenience Sample to Population Distribution - Lab 3C",
+    "body": "In Unit 3, Lab 3C, after creating a bar graph for the 'grade' distribution of your convenience sample (`s1`), you are to compare it to the distribution of the entire 'cdc' dataset. This involves writing and running R code to generate a bar graph for 'grade' using the complete 'cdc' data. By visually comparing these two distributions, you will be able to observe and document the differences. This comparison highlights the potential biases introduced by convenience sampling and underscores the importance of representative sampling for accurate population analysis."
+  },
+  {
+    "title": "Random Sampling without Replacement - Lab 3C",
+    "body": "Unit 3, Lab 3C, introduces random sampling as a method to obtain a more representative sample. You will create a new sample, named `s2`, by randomly selecting 50 people from the 'cdc' data without replacement. The R code requires you to fill in the blanks: `___ <- sample(___, size = ___, replace = ___)`. Random sampling, unlike convenience sampling, aims to give every member of the population an equal chance of being selected. You will then predict whether the distribution of 'grade' in this random sample (`s2`) will be more similar to the distribution in the whole 'cdc' data compared to your convenience sample. This prediction is a key step before visualizing the random sample's distribution."
+  },
+  {
+    "title": "Visualizing and Explaining Random Sample Distribution - Lab 3C",
+    "body": "After generating a random sample (`s2`) of 50 individuals from the 'cdc' dataset in Unit 3, Lab 3C, the next step is to visualize its 'grade' distribution. You will write and execute R code to create a bar graph for 'grade' based on this random sample. Following this visualization, you need to explain why you anticipate this random sample's 'grade' distribution will likely resemble the distribution of the entire 'cdc' population more closely than the convenience sample did. This step reinforces the principles of random sampling and its ability to produce more representative subsets of data."
+  },
+  {
+    "title": "Impact of Sample Size on Random Sampling - Lab 3C",
+    "body": "Unit 3, Lab 3C, investigates the effect of sample size on the representativeness of random samples. You are instructed to generate and visualize bar graphs for the 'grade' distribution using random samples of varying sizes: 10, 100, 1,000, and 10,000 individuals from the 'cdc' dataset. For each sample size, you must compare the resulting distribution to the distribution of the entire population. This exercise aims to demonstrate how the accuracy of a random sample's representation of the population generally improves as the sample size increases, leading to distributions that more closely mirror the overall population."
+  },
+  {
+    "title": "Proportional Comparison and Sample Representativeness - Lab 3C",
+    "body": "In Unit 3, Lab 3C, after analyzing various sample sizes, you will compare the proportions of 'grade' across different samples. This involves writing and running R code to use the `tally()` function to calculate the proportion of each 'grade' for your initial convenience sample and for all the random samples you created (with sizes 10, 100, 1,000, and 10,000). The final question asks you to identify which set of proportions most closely matches the proportions found in the entire 'cdc' population. This quantitative comparison provides further evidence for the effectiveness of random sampling and the influence of sample size on estimation accuracy."
+  },
+  {
+    "title": "Key Lessons from Random Sampling - Lab 3C",
+    "body": "Unit 3, Lab 3C, concludes with key takeaways regarding sampling methods. It's important to note that while a random sample's proportion or mean might not *always* be closer to the population's true value than a convenience sample's, this is generally not the case as sample sizes grow. As sample sizes increase, random samples consistently tend to provide better estimates of the population parameters. Conversely, convenience samples may not show this improvement in accuracy, even with larger sample sizes. This reinforces the statistical preference for random sampling in research."
+  },
+  {
+    "title": "Limitations of Convenience Samples with Increasing Size - Lab 3C",
+    "body": "A critical lesson from Unit 3, Lab 3C, concerns the limitations of convenience samples, even when their size is increased. While larger sample sizes generally improve the accuracy of random samples in representing a population, this improvement is not guaranteed for convenience samples. There might be inherent biases in how convenience samples are collected (e.g., selecting easily accessible individuals) that persist regardless of how many individuals are included. Therefore, estimates based on convenience samples might not become more accurate or reliable, even as the sample size grows significantly, highlighting a fundamental difference compared to random sampling methods."
+  },
+  {
+    "title": "Vocabulary: Population - Lab 3C",
+    "body": "In Unit 3, Lab 3C, the term 'population' refers to the entire group of individuals or items that a study is interested in understanding. For example, in the context of the Department of Water & Power (DWP) in Los Angeles, the population would be *all* the households or residents in Los Angeles. In this lab, the 'cdc' dataset, which contains survey responses, is treated as the population for the purpose of demonstrating sampling techniques. Understanding the population is the first step in determining how to select a representative sample from it."
+  },
+  {
+    "title": "Vocabulary: Sample - Lab 3C",
+    "body": "Within Unit 3, Lab 3C, a 'sample' is defined as a subset of individuals or items selected from a larger population. The goal of sampling is to gather information from this smaller group (the sample) and use it to make inferences or draw conclusions about the entire population. For instance, instead of surveying everyone in Los Angeles about water usage, the DWP might survey a sample of households. In this lab, we create both 'convenience samples' (like `s1`) and 'random samples' (like `s2`) from the 'cdc' dataset, which serves as our population."
+  },
+  {
+    "title": "Vocabulary: Sampling Methods - Lab 3C",
+    "body": "In Unit 3, Lab 3C, 'sampling methods' refer to the specific techniques used to select a sample from a larger population. These methods determine how individuals are chosen for the sample and significantly impact how well the sample represents the population. The lab contrasts two main types: 'convenience sampling', where individuals are chosen based on ease of access, and 'random sampling', where each member of the population has an equal chance of being selected. The effectiveness and potential biases of different sampling methods are central themes of this lab."
+  },
+  {
+    "title": "Vocabulary: Representative Sample - Lab 3C",
+    "body": "A 'representative sample', as discussed in Unit 3, Lab 3C, is a sample whose characteristics (like age, gender, or in this lab, 'grade') closely mirror those of the overall population from which it was drawn. The goal of using good sampling methods, particularly random sampling, is to obtain a representative sample. A convenience sample, for example, might not be representative because the individuals selected are chosen for convenience rather than by a process that ensures broad coverage of the population's diversity."
+  },
+  {
+    "title": "Vocabulary: Convenience Sample - Lab 3C",
+    "body": "Unit 3, Lab 3C, defines a 'convenience sample' as a type of sample where data is collected from individuals who are readily available or easy to access. For example, taking the first 50 respondents from the 'cdc' dataset constitutes a convenience sample because they are the easiest to select using the `slice()` function. The lab emphasizes that while convenient, this method often leads to samples that are not representative of the broader population, potentially introducing biases in the results. The code snippet `s1 <- slice(____, 1:____)` is used to create such a sample."
+  },
+  {
+    "title": "Vocabulary: Random Sample - Lab 3C",
+    "body": "In Unit 3, Lab 3C, a 'random sample' is a sample selected from a population where every individual has an equal and independent chance of being chosen. This process helps to minimize bias and increases the likelihood that the sample will be representative of the population. The lab instructs participants to create a random sample by using the `sample()` function in R, specifying the population, the desired size, and setting `replace = FALSE` for sampling without replacement. The code `___ <- sample(___, size = ___, replace = ___)` is provided for this purpose."
+  },
+  {
+    "title": "R Code: `slice()` function - Lab 3C",
+    "body": "The `slice()` function in R, utilized in Unit 3, Lab 3C, is used for selecting rows from a data frame based on their position or index. In this lab, it's employed to create a 'convenience sample' by selecting the first 50 rows from the 'cdc' dataset. The specific code used is `s1 <- slice(____, 1:____)`. The blanks need to be filled with the data frame name ('cdc') and the desired row range (1:50). This function is straightforward for selecting contiguous subsets but does not involve any randomness, making the resulting sample potentially biased."
+  },
+  {
+    "title": "R Code: `sample()` function - Lab 3C",
+    "body": "The `sample()` function in R, as used in Unit 3, Lab 3C, is a crucial tool for random sampling. It allows users to randomly select elements from a vector or data frame. In this lab, it's used to draw a 'random sample' of 50 individuals from the 'cdc' dataset without replacement (`replace = FALSE`). The syntax requires specifying the data source, the number of items to sample (`size`), and whether sampling should be done with or without replacement. The provided code structure `___ <- sample(___, size = ___, replace = ___)` guides the user in implementing this function correctly for generating a statistically sound sample."
+  },
+  {
+    "title": "R Code: `bargraph()` function - Lab 3C",
+    "body": "The `bargraph()` function, used in Unit 3, Lab 3C, is employed for visualizing the distribution of categorical data. In this lab, it's specifically used to create bar graphs representing the counts or proportions of individuals within each 'grade' category. Participants are instructed to use this function on both their convenience samples (`s1`) and their random samples (`s2`, and samples of varying sizes), as well as the entire 'cdc' population. This visualization helps in comparing the 'grade' distributions across different samples and the population, allowing for an assessment of sample representativeness."
+  },
+  {
+    "title": "R Code: `tally()` function - Lab 3C",
+    "body": "The `tally()` function in R, applied in Unit 3, Lab 3C, is used to count the occurrences of each category within a variable or to calculate proportions. In this lab, participants are instructed to use `tally()` to determine the proportion of individuals in each 'grade' category for their convenience sample and various random samples. This quantitative analysis complements the visual comparisons made using bar graphs. By calculating and comparing these proportions against the population's proportions, the lab assesses the accuracy and representativeness of the different sampling methods and sample sizes employed."
+  }
+]

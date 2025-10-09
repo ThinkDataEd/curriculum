@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Abstract for Unit 3, Section 5: Webpages",
+    "body": "This section focuses on understanding how data is represented and accessed online, specifically through webpages. Students will explore different data formats like CSV, HTML, and XML, learning to compare their appropriateness for various data needs. The learning objectives include statistical concepts such as recognizing survey and experiment types and evaluating data reports, alongside computational thinking skills like reading data from HTML and XML into R data frames and using geographical coordinates for mapping. Real-world applications such as predicting flu outbreaks using web data are highlighted. The section also emphasizes language objectives related to comparing data formats and discussing internet research in data science. Data collection methods involve scraping online HTML sources and using participatory sensing campaign data. This unit aims to equip students with the skills to effectively access and interpret data from the web."
+  },
+  {
+    "title": "Enduring Understandings: Data Representation Online",
+    "body": "Data online exists in various forms and necessitates distinct representation styles to be understood and utilized effectively. This section explores how the digital nature of information influences its structure and how we interact with it."
+  },
+  {
+    "title": "Engagement: Google Street View Data Center Video",
+    "body": "To initiate discussions on data formats and online data access, students will watch a video clip about Google's Street View Data Center. This video provides a glimpse into the infrastructure required to manage and process vast amounts of data, prompting initial thoughts on how data is stored and accessed in real-world applications."
+  },
+  {
+    "title": "Learning Objective: Statistical - Sample Surveys, Experiments, and Observational Studies",
+    "body": "Recognize the purposes of and differences among sample surveys, experiments, and observational studies; explain how randomization relates to each. This objective connects to understanding how data is collected and can be influenced by methodology, which is relevant when evaluating data found online."
+  },
+  {
+    "title": "Learning Objective: Statistical - Evaluating Data Reports",
+    "body": "Evaluate reports based on data. This objective emphasizes critical thinking skills needed to assess the validity and reliability of information presented through data, particularly when sourced from online platforms."
+  },
+  {
+    "title": "Learning Objective: Data Science - Accessing and Representing Web Data",
+    "body": "Use different techniques to access data from the web and understand why different data representations are useful for different software platforms. This objective focuses on the practical skills of retrieving data from online sources and appreciating the context-specific utility of various data formats."
+  },
+  {
+    "title": "Learning Objective: Applied Computational Thinking - Reading Data into R",
+    "body": "Read data from xml and html table and convert to R data frames. This computational objective provides hands-on experience in data manipulation, enabling students to process structured data found on the web within the R environment."
+  },
+  {
+    "title": "Learning Objective: Applied Computational Thinking - Geospatial Data Mapping",
+    "body": "Use latitude and longitude coordinates of mountain data and overlay it on a map. This objective demonstrates a practical application of accessed data, involving the visualization of geographical information by mapping coordinates, likely sourced from online datasets."
+  },
+  {
+    "title": "Real-World Connection: Web Data for Prediction",
+    "body": "Data from the web has been used to predict outbreaks of the flu and is a source of extremely rich data sets. This highlights the significant impact and utility of web-scraped and online data in addressing real-world problems and making informed predictions."
+  },
+  {
+    "title": "Language Objective 1: Comparing Data Formats (CSV, HTML, XML)",
+    "body": "Students will compare and contrast the appropriateness of CSV, HTML, or XML for different data needs. This objective focuses on developing precise language to articulate the strengths and weaknesses of various data storage and transfer formats used on the internet."
+  },
+  {
+    "title": "Language Objective 2: Discussing Online Data Storage and Viewing",
+    "body": "Students will engage in partner and whole group discussions and presentations to express their understanding of how data is stored and viewed online. This objective promotes collaborative learning and the articulation of concepts related to web data representation and access."
+  },
+  {
+    "title": "Language Objective 3: Internet Research and Data Science",
+    "body": "Students will engage in discussions regarding internet research as it applies to data science. This objective encourages students to connect the skills learned in this section to the broader field of data science and the role of the internet as a data source."
+  },
+  {
+    "title": "Data File: Participatory Sensing Campaign Data",
+    "body": "Students' own Participatory Sensing campaign data will be utilized. This provides a direct and relevant dataset that students have collected themselves, allowing them to apply the concepts of data access and representation to their own work."
+  },
+  {
+    "title": "Data Collection Method: Scraping Online HTML Sources",
+    "body": "Students will scrape data from online HTML sources. This method involves extracting data directly from the structure of webpages, a fundamental technique for gathering information available on the internet for analysis."
+  },
+  {
+    "title": "Data Collection Method: Participatory Sensing Campaign Data Gathering",
+    "body": "Students will gather data generated through a class-generated Participatory Sensing campaign. This method focuses on collecting data through active participation, often involving mobile devices or sensors, which can then be processed and analyzed."
+  },
+  {
+    "title": "Vocabulary: HTML Table",
+    "body": "An HTML table is a structured way to present tabular data on a webpage using HTML tags like `<table>`, `<tr>` (table row), and `<td>` (table data). These tables can be directly read and parsed by programming languages like R to extract data for analysis. Understanding HTML table structure is key to accessing tabular information embedded within web documents."
+  },
+  {
+    "title": "Vocabulary: XML",
+    "body": "XML (eXtensible Markup Language) is a markup language designed for storing and transporting data. It uses tags to define elements and their attributes, creating a hierarchical structure that is both human-readable and machine-readable. XML is often used for data exchange between different systems and can be parsed to extract specific data points."
+  },
+  {
+    "title": "Vocabulary: R Data Frame",
+    "body": "An R data frame is a two-dimensional, tabular data structure in the R programming language. It is similar to a table in a database or a spreadsheet, where columns can contain different data types (numeric, character, logical, etc.). Data frames are a fundamental object for data analysis and manipulation in R, and data scraped from HTML or XML is often converted into this format."
+  },
+  {
+    "title": "Vocabulary: Latitude and Longitude",
+    "body": "Latitude and longitude are geographic coordinates that specify a location on the Earth's surface. Latitude measures the north-south position, while longitude measures the east-west position. These coordinates are essential for mapping data, including overlaying mountain data onto a map as described in the learning objectives."
+  },
+  {
+    "title": "Concept: Participatory Sensing",
+    "body": "Participatory sensing is a method of data collection where individuals or communities actively participate in gathering data, often using mobile devices and sensors. This approach allows for the collection of rich, real-world data that can be used for various analytical purposes, such as understanding local environments or community behaviors."
+  },
+  {
+    "title": "Concept: Data Scraping",
+    "body": "Data scraping is the process of automatically extracting information from websites. Web pages are typically written in HTML, and data scraping tools or scripts can parse this HTML to collect specific data points, such as text, numbers, or links, which can then be saved or processed further."
+  },
+  {
+    "title": "Concept: Data Representation on the Web",
+    "body": "Data representation on the web refers to how information is formatted and structured for display and access through web technologies. This includes formats like HTML tables, XML files, and even data embedded within JavaScript. Understanding these representations is crucial for accessing and utilizing web-based data effectively."
+  }
+]

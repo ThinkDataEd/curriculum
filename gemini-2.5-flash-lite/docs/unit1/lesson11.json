@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Abstract of Unit 1 Lesson 11",
+    "body": "Unit 1 Lesson 11, titled 'What Shape Are You In?', focuses on teaching students how to classify the shapes of data distributions as represented by histograms. Students will learn to identify symmetric, left-skewed, and right-skewed distributions, as well as unimodal and bimodal distributions. The lesson involves an activity using a 'Sorting Histograms' handout where students work in groups to categorize various histograms based on their shapes. Following the activity, class discussions will introduce and reinforce the statistical terminology for these shapes. Students will also apply this knowledge by predicting histogram shapes for given scenarios and explaining their reasoning. The lesson emphasizes that identifying distribution shape is a key part of the 'interpret' step in the Data Cycle."
+  },
+  {
+    "title": "Unit 1 Lesson 11 Objective and Materials",
+    "body": "The objective of Unit 1 Lesson 11 is for students to learn how to classify distributions based on their shapes and to propose theories explaining why a distribution might exhibit a particular shape. Key materials for this lesson include the 'Sorting Histograms' handout, with one copy needed per group of four students. This handout, sourced from the AIMS project at the University of Minnesota, requires advance preparation, specifically cutting the handout into individual sets of histograms for each group. The lesson activities are designed to engage students in hands-on classification and discussion of histogram shapes."
+  },
+  {
+    "title": "Vocabulary for Distribution Shapes",
+    "body": "This lesson introduces several key vocabulary terms related to the shapes of data distributions: **symmetric** describes a distribution where the left and right sides mirror each other. **Left-skewed** indicates that the mean is typically less than the median, with the distribution's tail extending longer to the left. **Right-skewed** means the mean is usually greater than the median, and the tail is longer on the right side. **Unimodal** refers to a distribution with a single peak, while **bimodal** describes a distribution with two distinct peaks. Understanding these terms is crucial for interpreting histograms."
+  },
+  {
+    "title": "Essential Concepts: Shape as part of the Data Cycle",
+    "body": "In statistics, identifying the shape of a histogram is a fundamental part of the **interpret** step within the broader Data Cycle. This means that after collecting and organizing data, and potentially visualizing it with a histogram, the next crucial step is to analyze and understand the characteristics of that data's distribution. The shape of the distribution (e.g., symmetric, skewed, unimodal, bimodal) provides valuable insights into the underlying patterns and tendencies of the data. This interpretation is essential for drawing meaningful conclusions and making informed decisions based on the data."
+  },
+  {
+    "title": "Lesson Activity: Sorting Histograms",
+    "body": "Unit 1 Lesson 11 begins with students, working in teams, distributing and sorting cutouts from the 'Sorting Histograms' handout. Each team receives a set of 24 histograms, which can be organized using paper clips or small zippered bags. Before the activity, the handout must be printed and each histogram cut into a separate piece. Students are informed that the horizontal axis represents the type of data and the vertical axis represents the frequency of observations. The primary task is to sort these histograms into piles based on their visual shapes, grouping those with similar characteristics together."
+  },
+  {
+    "title": "Group Discussion and Naming Histogram Shapes",
+    "body": "After sorting the histograms, student teams in Unit 1 Lesson 11 are prompted to discuss and record observations in their journals. They must describe the similarities within each sorted group, select a representative histogram for each group, and assign a descriptive name to each shape. Additionally, they are asked to identify any histograms that don't fit into a group and explain why. These discussions prepare them for a larger class discussion where they will share their groupings and naming conventions. This process encourages critical thinking about data visualization and classification."
+  },
+  {
+    "title": "Class Discussion and Statistical Terminology",
+    "body": "Following the group activity in Unit 1 Lesson 11, a class discussion synthesizes the students' findings from sorting the histograms. The teacher facilitates a conversation to gauge agreement on the general shapes identified by the groups. The discussion then formally introduces or reinforces specific statistical terms for distribution shapes, such as **symmetric**, **right-skewed**, **left-skewed**, **unimodal**, and **bimodal**. Students are encouraged to apply these terms to the histograms they classified, connecting their informal observations with formal statistical language."
+  },
+  {
+    "title": "Applying Distribution Shape Concepts to Scenarios",
+    "body": "In Unit 1 Lesson 11, students are challenged to apply their understanding of distribution shapes by predicting the appearance of histograms for various real-world scenarios. For instance, they consider scenarios like grades on an easy versus a difficult test, study habits of students, ages of used cars, time spent on tests, heights of band members, and salaries in a large school district. For each scenario, students must describe the likely shape (e.g., left-skewed, right-skewed, symmetric) and modality (unimodal, bimodal) of the corresponding histogram, using the statistical terms learned. This exercise solidifies their comprehension and ability to relate theoretical concepts to practical data situations."
+  },
+  {
+    "title": "Class Scribes and Homework Assignment",
+    "body": "As part of Unit 1 Lesson 11, one student team is assigned the role of 'Class Scribes.' Their task is to present a brief summary to the class, highlighting what they consider to be the three most important topics covered during the lesson. This reinforces key takeaways and communication skills. The homework assignment encourages students to continue collecting nutritional facts data using the 'Food Habits' Participatory Sensing campaign, utilizing their smart devices or web browsers. This ongoing data collection reinforces practical application of data gathering skills learned in the unit."
+  },
+  {
+    "title": "Vocabulary: Symmetric Distribution",
+    "body": "A **symmetric** distribution is a type of data distribution where the left side of the histogram is a mirror image of the right side. This means that if you were to fold the histogram in the middle, the two halves would align almost perfectly. In a perfectly symmetric distribution, the mean, median, and mode are all equal. Examples often include bell curves or other perfectly balanced shapes. Understanding symmetry helps in identifying potential biases or lack thereof in the data's spread."
+  },
+  {
+    "title": "Vocabulary: Left-Skewed Distribution",
+    "body": "A **left-skewed** distribution, also known as negatively skewed, is characterized by a tail that extends longer on the left-hand side of the histogram than on the right. In such distributions, the bulk of the data points are concentrated on the right side, with fewer data points stretching out towards the lower values. Typically, the mean is less than the median in a left-skewed distribution, and the mode is the highest point. Examples include datasets where most values are high, but a few exceptionally low values pull the mean down."
+  },
+  {
+    "title": "Vocabulary: Right-Skewed Distribution",
+    "body": "A **right-skewed** distribution, also known as positively skewed, is characterized by a tail that extends longer on the right-hand side of the histogram than on the left. In these distributions, the majority of the data points are clustered on the left side (lower values), with a few significantly high values stretching out the tail to the right. Generally, the mean is greater than the median in a right-skewed distribution. Examples include income data, where most people earn a moderate amount, but a few individuals earn very high incomes."
+  },
+  {
+    "title": "Vocabulary: Unimodal Distribution",
+    "body": "A **unimodal** distribution is a distribution that has a single, distinct peak. This peak represents the most frequent value or range of values in the dataset. Many common distributions, such as the normal distribution (bell curve), are unimodal. Identifying a single peak helps in understanding the central tendency and the most common outcome or characteristic within the data. For example, the heights of adult males in a population are often unimodal."
+  },
+  {
+    "title": "Vocabulary: Bimodal Distribution",
+    "body": "A **bimodal** distribution is a distribution that exhibits two distinct peaks. These peaks suggest that the data might be comprised of two different groups or populations. The values at each peak represent the most common outcomes for each respective group. For example, the heights of students in a high school band might be bimodal if it includes both shorter students (e.g., flute players) and taller students (e.g., brass players). Recognizing bimodal distributions prompts further investigation into the underlying reasons for the two modes."
+  },
+  {
+    "title": "Unit 1 Lesson 11: Data Cycle Interpretation",
+    "body": "Within the framework of the Data Cycle, Unit 1 Lesson 11 emphasizes the 'interpret' phase. After data has been collected, organized, and visualized, understanding its distribution's shape is crucial. Histograms provide a visual representation of this distribution. By analyzing the shape—whether it's symmetric, skewed, or has multiple peaks—students gain insights into the data's characteristics. This interpretive step is vital for drawing valid conclusions and making informed decisions based on the data analysis process."
+  },
+  {
+    "title": "Unit 1 Lesson 11: Sorting Histograms Activity Details",
+    "body": "The core activity in Unit 1 Lesson 11 involves students using a 'Sorting Histograms' handout. Each group of four students receives a set of 24 pre-cut histograms. The initial instruction is to identify the type of data on the horizontal axis and the frequency on the vertical axis. Students then sort these histograms into piles based on their visual shapes. The goal is to group histograms that exhibit similar distributional patterns. This hands-on sorting task allows students to develop an intuitive understanding of different data shapes before formal terminology is introduced."
+  },
+  {
+    "title": "Unit 1 Lesson 11: Discussion Prompts for Histogram Groups",
+    "body": "Following the sorting activity in Unit 1 Lesson 11, student teams engage in a guided discussion. They are asked to: 1. Describe similarities within each group of histograms. 2. Select a 'best example' histogram from each group. 3. Propose a descriptive name for the shape of each group. 4. Identify and explain any histograms that were difficult to categorize. These prompts encourage collaborative analysis and articulation of observations about data distribution shapes, laying the groundwork for understanding formal statistical terms."
+  },
+  {
+    "title": "Unit 1 Lesson 11: Introducing Statistical Shape Terminology",
+    "body": "After groups have sorted histograms and discussed their findings in Unit 1 Lesson 11, the class engages in a discussion about statistical terminology. The teacher introduces or reviews terms like **symmetric**, **left-skewed**, **right-skewed**, **unimodal**, and **bimodal**. Students are prompted to connect these formal terms to the shapes they identified in their sorted groups. This step bridges the gap between informal visual interpretation and precise statistical language used to describe data distributions."
+  },
+  {
+    "title": "Unit 1 Lesson 11: Predicting Histogram Shapes - Examples",
+    "body": "Unit 1 Lesson 11 includes an exercise where students predict histogram shapes for given scenarios. For example: 'The grades on an easy test' might result in a **left-skewed**, **unimodal** histogram (most scores high, few low). 'The grades on a difficult test' might be **right-skewed**, **unimodal** (most scores low, few high). 'The heights of students in your high school band' could be **symmetric** and **bimodal** (potentially representing different sections). These predictions require students to think critically about how real-world data distributions manifest visually."
+  },
+  {
+    "title": "Unit 1 Lesson 11: Homework - Food Habits Campaign",
+    "body": "The homework assignment for Unit 1 Lesson 11 directs students to continue their engagement with the 'Food Habits' Participatory Sensing campaign. They are expected to keep collecting nutritional facts data using either their smart devices or a web browser. This ongoing data collection reinforces the practical application of data gathering techniques and allows students to build a dataset that they can potentially analyze further in subsequent lessons, applying concepts like distribution shapes to real-world data they have collected themselves."
+  }
+]

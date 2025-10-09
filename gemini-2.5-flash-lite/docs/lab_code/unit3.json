@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Abstract for Unit 3 Labs",
+    "body": "Unit 3 Labs cover a range of data analysis and visualization techniques. Lab 3A focuses on investigating a research question about time perception using plots, numerical summaries, and shuffling. Lab 3B distinguishes between experiments and observational studies while exploring the impact of childhood smoking on lung health. Lab 3C emphasizes the distinction between population and sample data, and the importance of sampling methods in ensuring sample representativeness. Lab 3D introduces calculating margins of error via bootstrapping and addressing a research question about the mean age of US adults over 15. Lab 3E teaches data scraping and cleaning techniques. Finally, Lab 3F covers creating interactive maps using scraped data, specifically for mountain information."
+  },
+  {
+    "title": "Unit 3 Lab 3A: Time Perception Investigation",
+    "body": "Unit 3 Lesson 1: Lab 3A's objective is for students to investigate the research question: 'Does the stimulus your class chose change people’s perception of time?'. This involves analyzing experimental data through various methods including plots, numerical summaries, and shuffling techniques. No new functions are introduced in this lab, as it focuses on applying previously learned statistical concepts to a new experimental context. Students will use existing tools to explore and interpret their findings regarding time perception."
+  },
+  {
+    "title": "Unit 3 Lab 3B: Observational Studies vs. Experiments",
+    "body": "Unit 3 Lesson 2: Lab 3B aims to deepen students' understanding of the fundamental differences between experiments and observational studies. The lab guides students to investigate the research question: 'What is the effect of childhood smoking on lung health?'. This practical application helps solidify the concepts of experimental design and observational data analysis. Similar to Lab 3A, no new functions are introduced in Lab 3B, focusing instead on the conceptual understanding of study designs and their application."
+  },
+  {
+    "title": "Unit 3 Lab 3C: Sampling Methods and Representativeness",
+    "body": "Unit 3 Lesson 3: Lab 3C focuses on the critical concepts of population data versus sample data. Students will learn how different sampling methods influence how representative a sample is of the overall population. A new function, `slice(x, from:to)`, is introduced, which is useful for extracting specific subsets of data based on defined start and end points. This function will aid in exploring how different sample selections might lead to varied conclusions. Understanding these principles is crucial for drawing valid inferences from data."
+  },
+  {
+    "title": "Unit 3 Lab 3D: Bootstrapping and Margins of Error",
+    "body": "Unit 3 Lesson 4: In Lab 3D, students will learn the technique of bootstrapping to calculate margins of error. This statistical method allows for the estimation of uncertainty in sample statistics. The lab will guide students to investigate the question: 'What is the mean age of people older than 15 living in the United States?'. This practical application of bootstrapping will help students understand how to quantify the reliability of their estimates. No new functions are introduced in this lab, emphasizing the application of bootstrapping."
+  },
+  {
+    "title": "Unit 3 Lab 3E: Web Scraping and Data Cleaning",
+    "body": "Unit 3 Lesson 5: Lab 3E introduces students to the powerful technique of web scraping for gathering information from the internet. This lab will cover the essential steps of extracting data from web pages and then cleaning it to make it suitable for analysis. Two new functions are introduced: `readHTMLTable(url, which)` for reading HTML tables from a specified URL, and `length(x)` for determining the number of elements in a dataset or variable. These functions are fundamental for acquiring and preparing web-based data."
+  },
+  {
+    "title": "Unit 3 Lab 3F: Interactive Map Creation",
+    "body": "Unit 3 Lesson 6: Lab 3F builds upon the data acquired in Lab 3E by teaching students how to create interactive maps. Specifically, students will learn to visualize mountain data that was scraped from the web. A suite of new functions is introduced for this purpose: `load(file)` to load data, `leaflet()` to initialize a map, `addTiles()` to add base map layers, `addMarkers(map, lng, lat, popup)` to add specific points with pop-up information, `colorize()` for coloring map elements, `addCircleMarkers()` to add circular markers, and `addLegend(x, colors, labels)` to create a map legend. This lab focuses on spatial data visualization."
+  },
+  {
+    "title": "R Function: slice()",
+    "body": "The `slice(x, from:to)` function is introduced in Unit 3 Lab 3C. This function is used to select a contiguous range of rows or elements from a data object `x`. The `from` argument specifies the starting index, and the `to` argument specifies the ending index of the range to be extracted. This is particularly useful when working with samples and wanting to examine specific subsets of data to understand how sampling methods affect representativeness, or to isolate portions of a dataset for analysis. For example, `slice(my_data, from = 5, to = 10)` would extract rows 5 through 10 from `my_data`."
+  },
+  {
+    "title": "R Functions: Web Scraping (readHTMLTable, length)",
+    "body": "Unit 3 Lab 3E introduces functions for web scraping and data manipulation. `readHTMLTable(url, which)` is used to extract tables from an HTML web page located at the specified `url`. The `which` argument can be used to select a specific table if multiple tables are present on the page. The `length(x)` function returns the number of elements in a vector or list `x`. Both are crucial for acquiring and preparing data from the web for analysis. `readHTMLTable` allows direct import of structured data, while `length` provides basic information about the size of the retrieved data."
+  },
+  {
+    "title": "R Functions: Interactive Mapping (leaflet, addTiles, addMarkers, colorize, addCircleMarkers, addLegend)",
+    "body": "Unit 3 Lab 3F introduces several R functions for creating interactive maps. `leaflet()` initializes a new Leaflet map object. `addTiles()` adds a base map layer (e.g., street maps, satellite imagery). `addMarkers(map, lng, lat, popup)` adds individual markers to the `map` at specified longitude (`lng`) and latitude (`lat`), with optional `popup` text that appears on click. `colorize()` is a utility function used in conjunction with other mapping functions for applying color schemes. `addCircleMarkers()` adds circular markers, often used for representing data points with varying sizes or colors. Finally, `addLegend(x, colors, labels)` creates a legend for the map, associating `colors` with specific `labels` based on the data `x`. These functions enable dynamic and informative spatial visualizations."
+  },
+  {
+    "title": "R Function: load()",
+    "body": "The `load(file)` function is introduced in Unit 3 Lab 3F. This function is used to load an R data object from a file. Typically, this file would be an `.RData` or `.rda` file that has been previously saved using the `save()` function. Loading a data object allows you to access variables and data structures that were stored in that file, making them available for further analysis or visualization within your current R session. In the context of Lab 3F, it's used to load the mountain data prepared in previous labs."
+  }
+]

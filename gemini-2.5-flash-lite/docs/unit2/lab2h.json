@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Abstract of Lab 2H - Eyeballing Normal",
+    "body": "This document, Lab 2H, focuses on understanding and identifying the normal distribution, a common pattern in real-world data. It explains the characteristics of a normal distribution, such as symmetry around the mean and the importance of mean and standard deviation (sd) in defining the curve. The lab guides users through visualizing a normal distribution using a provided R function and then prompts them to analyze datasets (cdc, slasher film, Titanic) to determine if variables within them exhibit normal distributions. This involves creating histograms and applying the 'normal' fit option. The core objective is to equip data scientists in training with the ability to assess when a normal model is appropriate for analyzing data, emphasizing that while useful, it's not universally applicable and requires justification."
+  },
+  {
+    "title": "Introduction to the Normal Distribution",
+    "body": "The normal distribution is a frequently observed curve in various real-world datasets, such as human blood pressures and measurement errors. When data approximates a normal distribution, the normal model becomes a valuable tool for several purposes. It allows for the simulation of normally distributed data and simplifies the computation of probabilities. This lab, Unit 2 Lab 2H, specifically involves examining pre-existing datasets to ascertain if their distributions are roughly normal."
+  },
+  {
+    "title": "Characteristics of the Normal Distribution",
+    "body": "A key characteristic of the normal distribution is its symmetry around the mean. The mean is located precisely at the center of the distribution. The shape of the curve to the left of the mean is a mirror image of the shape to the right. To visually represent a normal distribution, the R command `plotDist('norm', mean = 0, sd = 1)` can be used. This function helps in visualizing the bell-shaped curve."
+  },
+  {
+    "title": "Defining the Normal Curve: Mean and Standard Deviation",
+    "body": "To accurately draw or define a normal distribution curve, two specific parameters are essential: the mean and the standard deviation (sd). The mean dictates the center of the distribution, while the sd measures the spread or dispersion of the data points around the mean. The standard deviation serves a similar purpose to the Mean Absolute Deviation (MAD) in quantifying variability. Changing the value of the mean shifts the entire curve horizontally along the x-axis, while altering the sd stretches or compresses the curve vertically and horizontally."
+  },
+  {
+    "title": "Visualizing Normal Distributions with R",
+    "body": "The R programming language provides tools to visualize and analyze distributions. For drawing a standard normal distribution (mean=0, sd=1), the `plotDist('norm', mean = 0, sd = 1)` function is utilized. When analyzing datasets, the `hist()` function can be employed to create histograms. To assess if a dataset's distribution aligns with a normal distribution, the `fit = \"normal\"` option can be added to the `hist()` function, overlaying a normal curve on the histogram. Additionally, faceting by a categorical variable like `sex` using `facet_wrap(~ sex)` can reveal if the distribution differs between groups."
+  },
+  {
+    "title": "Analyzing Height and Weight Distributions in CDC Data",
+    "body": "In Unit 2 Lab 2H, users are instructed to load the `cdc` dataset and examine the `height` and `weight` variables. Based on general knowledge of human physiology, one might hypothesize which of these variables is more likely to follow a normal distribution. To test this hypothesis, histograms of `height` and `weight` should be generated. The `fit = \"normal\"` option in the histogram function is recommended to visually compare the data's distribution against a theoretical normal curve. Further analysis may involve faceting by `sex` to observe potential differences in distribution between males and females for these variables."
+  },
+  {
+    "title": "Justifying the Use of Normal Models",
+    "body": "Data scientists find normal models beneficial because real-world data frequently approximates this distribution. However, it is crucial to recognize that not all data is normally distributed. A key skill for data scientists in training, as emphasized in Unit 2 Lab 2H, is the ability to critically evaluate datasets and determine when a normal model is an appropriate choice for analysis. While no statistical model is perfect, the selection of a model should always be supported by clear reasoning and justification based on the characteristics of the data."
+  },
+  {
+    "title": "Vocabulary: Normal Distribution",
+    "body": "The **normal distribution** is a type of probability distribution that is symmetric about its mean, forming a bell-shaped curve. It is also known as the Gaussian distribution. Many natural phenomena and statistical concepts can be approximated by a normal distribution. In Unit 2 Lab 2H, understanding this concept is fundamental for identifying and analyzing data that conforms to this pattern."
+  },
+  {
+    "title": "Vocabulary: Mean",
+    "body": "The **mean** is the average of a dataset, calculated by summing all the values and dividing by the number of values. In the context of a normal distribution, the mean is the central point of symmetry. It is also referred to as the expected value. In R, the mean can be calculated using the `mean()` function. In Unit 2 Lab 2H, the mean is a critical parameter for defining and visualizing the normal distribution."
+  },
+  {
+    "title": "Vocabulary: Standard Deviation (sd)",
+    "body": "The **standard deviation (sd)** is a measure of the amount of variation or dispersion in a set of values. A low standard deviation indicates that the values tend to be close to the mean, while a high standard deviation indicates that the values are spread out over a wider range. In Unit 2 Lab 2H, the sd is the second crucial parameter, alongside the mean, required to define the shape and spread of a normal distribution curve. It influences how wide or narrow the bell curve is."
+  },
+  {
+    "title": "Vocabulary: MAD (Mean Absolute Deviation)",
+    "body": "The **Mean Absolute Deviation (MAD)** is a measure of statistical dispersion. It is the average of the absolute differences between each data point and the mean of the data set. While similar in purpose to the standard deviation (sd) in measuring spread, the MAD uses absolute differences, making it less sensitive to outliers. In Unit 2 Lab 2H, the MAD is mentioned as a comparative measure to the standard deviation, highlighting that sd is also a measure of spread."
+  },
+  {
+    "title": "Applying Normal Models: Slasher Film Survival Percentages",
+    "body": "For Unit 2 Lab 2H, one of the \"on your own\" tasks involves analyzing the distribution of the difference in percentages between male and female survivors in a slasher film, calculated over 500 random shuffles. The user must determine if this distribution appears normal and provide reasoning. This likely involves generating a histogram of these differences and visually inspecting its shape, potentially comparing it to a fitted normal curve. Understanding the nature of the random shuffling and the metric (percentage difference) is key to justifying whether a normal model is appropriate."
+  },
+  {
+    "title": "Applying Normal Models: Titanic Survivor Fares (Median)",
+    "body": "In Unit 2 Lab 2H, another task requires assessing if the distribution of the difference in median fares between Titanic survivors and non-survivors, across 500 random shuffles, is normally distributed. Similar to other tasks, this involves visualizing the distribution, likely through a histogram with a normal fit. The focus is on the *difference in median fares* and whether its distribution exhibits symmetry and bell-shape characteristics typical of a normal distribution. This requires referring back to the methods used in Labs 2E and 2F for simulation and analysis."
+  },
+  {
+    "title": "Applying Normal Models: Titanic Survivor Fares (Mean)",
+    "body": "The final \"on your own\" exercise in Unit 2 Lab 2H concerns the difference in *mean* fares between Titanic survivors and non-survivors, simulated over 500 random shuffles. The participant needs to evaluate if this distribution looks normal and explain their reasoning. This task directly compares the behavior of the difference in means versus the difference in medians (from the previous task) under random shuffling. Visual inspection of a histogram, potentially with a normal curve fit, will be the primary method for assessment, drawing upon concepts from earlier labs like 2E and 2F."
+  },
+  {
+    "title": "R Function: plotDist",
+    "body": "The `plotDist()` function in R is used to visualize probability distributions. In the context of Unit 2 Lab 2H, it is specifically used to draw a normal distribution curve. The syntax `plotDist('norm', mean = 0, sd = 1)` generates a plot of the standard normal distribution, which has a mean of 0 and a standard deviation of 1. By changing the `mean` and `sd` arguments, users can visualize how these parameters affect the position and spread of the normal curve, aiding in the understanding of their impact on the distribution's shape."
+  },
+  {
+    "title": "R Function: hist (with fit option)",
+    "body": "The `hist()` function in R is used to create histograms, which are graphical representations of the distribution of numerical data. In Unit 2 Lab 2H, the `hist()` function is employed to visualize the distributions of variables like `height` and `weight` from the `cdc` dataset, and differences in variables from simulated data. A particularly useful option is `fit = \"normal\"`, which overlays a theoretically fitted normal distribution curve onto the histogram. This allows for a direct visual comparison between the observed data distribution and a normal model, helping to determine if the data appears to be normally distributed."
+  }
+]

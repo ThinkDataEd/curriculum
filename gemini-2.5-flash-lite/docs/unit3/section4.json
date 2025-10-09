@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Unit 3, Section 4",
+    "body": "This section, 'What's the Trigger?', spans 5 instructional days and focuses on sensors as data collection devices. It introduces the concept that sensors collect data continuously or when triggered, defining a sensor as a converter of physical quantities into readable signals. Participatory Sensing, a method involving citizens in data collection, is highlighted, emphasizing the role of triggers in initiating data collection sessions. The learning objectives cover statistical concepts like evaluating data reports and understanding different study types, data science principles including continuous data streams and real-time data from willing users, applied computational thinking through creating a Participatory Sensing campaign, and real-world connections to ubiquitous sensors in environmental monitoring and personal tracking, particularly in healthcare. Language objectives involve discussing sensor triggers, deciding between surveys and sensors, and collaboratively creating a class campaign. Data collection will involve student-generated campaign data using a class-selected topic and a Participatory Sensing campaign methodology. The section includes a video engagement activity and a legend for activity icons."
+  },
+  {
+    "title": "Enduring Understandings: Sensors and Triggers",
+    "body": "Sensors are fundamentally data collection devices. They operate in two primary modes: collecting data continuously or responding to a 'trigger' to initiate data collection. A sensor is defined as a converter; it measures a physical quantity and transforms it into a signal that can be interpreted by either a person (observer) or a machine (instrument). Within this context, Participatory Sensing is presented as a specialized method for data collection that leverages sensor technology. A key characteristic of Participatory Sensing is its emphasis on the active participation of individuals and community groups in the process of sensing and documenting their environments. Triggers are crucial components in Participatory Sensing, acting as the signals that initiate a data collection event. It's important to note that the response to these triggers might not always be identical; variability is possible."
+  },
+  {
+    "title": "Engagement: Smart Tennis Racket Video",
+    "body": "The engagement activity for this section involves students watching and discussing a video titled 'Play Like Nadal With a Smart Tennis Racket'. This video serves as an introduction to the concept of sensors as data collection devices. By observing how a smart tennis racket utilizes sensors, students are encouraged to start thinking about the prevalence and function of sensors in various aspects of modern life. The video can be accessed at the following URL: https://youtu.be/lcBnzddQECc."
+  },
+  {
+    "title": "Learning Objectives: Statistical/Mathematical",
+    "body": "This section aims to enhance students' statistical and mathematical understanding related to data. Specifically, students will work towards achieving the following objectives: S-IC 3: Recognize the purposes of and differences among sample surveys, experiments, and observational studies; explain how randomization relates to each. S-IC 6: Evaluate reports based on data. These objectives focus on understanding different data collection methodologies and critically assessing information derived from data."
+  },
+  {
+    "title": "Learning Objectives: Data Science",
+    "body": "From a data science perspective, students will grasp key concepts related to sensor data. They will understand that sensors can provide a continuous stream of data, offering a constant flow of information. Participatory Sensing is highlighted as a method that yields real-time data, contributed willingly by a user. A distinguishing feature of sensors as a data gathering method is the utilization of a 'trigger', which serves to signal the commencement of a data collection session. This trigger mechanism is central to initiating data capture in many sensor applications."
+  },
+  {
+    "title": "Learning Objectives: Applied Computational Thinking",
+    "body": "In terms of applied computational thinking, students will engage in a practical, hands-on activity. The core objective is for students to 'Create a Participatory Sensing campaign using a campaign Authoring Tool.' This objective emphasizes the practical application of computational thinking skills in designing and implementing a data collection strategy using specific tools, aligning with the unit's focus on sensors and data gathering."
+  },
+  {
+    "title": "Learning Objectives: Real-World Connections",
+    "body": "This section emphasizes the pervasive presence of sensors in the contemporary world, aiming to connect learning to real-world applications. Students will recognize that sensors are ubiquitous, collecting data relevant to environmental conditions and even personal habits. The learning objective highlights the increasing use of sensors for personal tracking, particularly in the medical field, where they provide valuable insights into an individual's activities and behaviors. This connection underscores the practical impact and relevance of sensor technology."
+  },
+  {
+    "title": "Language Objectives",
+    "body": "The language objectives for this unit are designed to foster discussion and understanding through communication. 1. Students will engage in a 'Gallery Walk' activity focused on sensors and the mechanisms that trigger them, promoting active learning and dialogue. 2. Students will develop the ability to discern when it is most appropriate to utilize surveys versus sensors for data collection, honing their analytical skills. 3. Students will participate in both partner and whole-group discussions to collaboratively create a class Participatory Sensing Campaign, emphasizing teamwork and communication in a practical data science context."
+  },
+  {
+    "title": "Data File and Collection Method",
+    "body": "The primary data file generated and utilized in this section will be 'Students’ Participatory Sensing campaign data'. This data will be collected through a 'Class-generated Participatory Sensing Campaign'. In this campaign, students will collaboratively select a topic and then proceed to collect data related to that topic using the principles of Participatory Sensing. This method allows students to actively engage in the entire data lifecycle, from conception to collection."
+  },
+  {
+    "title": "Concept: Sensor Functionality",
+    "body": "Sensors are devices designed for data collection. Their operation can be characterized by two main modes: continuous data collection, where they gather information constantly, or triggered data collection, where they activate and record data only when a specific event or condition occurs. Fundamentally, a sensor acts as a converter. It measures a physical quantity, such as temperature, pressure, or motion, and transforms this measurement into a signal. This signal is designed to be interpretable, either by a human observer or by an electronic instrument, allowing the collected data to be processed and understood."
+  },
+  {
+    "title": "Concept: Participatory Sensing",
+    "body": "Participatory Sensing is a specific methodology for collecting data that leverages sensor technology. Its defining characteristic is the active involvement of citizens and community members in the data collection process. This approach emphasizes the contributions of individuals in documenting aspects of their daily lives, workplaces, and recreational activities. In essence, it empowers people to be both the collectors and providers of data about their own environments. This method often relies on mobile devices and their built-in sensors."
+  },
+  {
+    "title": "Concept: Triggers in Data Collection",
+    "body": "Triggers play a pivotal role in the process of Participatory Sensing and other sensor-based data collection methods. A trigger is an event or condition that signals the sensor or system to begin or cease data collection. For instance, a GPS sensor might be triggered by movement, or a light sensor might be triggered when ambient light falls below a certain threshold. The response to a trigger in a data collection session is not always uniform; the data captured or the action taken upon sensing the trigger can vary from one instance to another, introducing an element of dynamic behavior to the data collection process."
+  },
+  {
+    "title": "Activity: Gallery Walk - Sensors and Triggers",
+    "body": "As part of the learning process, students will engage in a 'Gallery Walk' activity. This activity is designed to deepen their understanding of sensors and how they are triggered. During the Gallery Walk, students will move around a space where information, perhaps in the form of posters or displays, is presented about various sensors and their associated trigger mechanisms. This interactive approach encourages direct engagement with the concepts and facilitates discussion among students as they observe and learn about different sensor applications and their activation methods."
+  },
+  {
+    "title": "Decision Making: Surveys vs. Sensors",
+    "body": "A key learning objective involves students developing the critical thinking skill to determine the most appropriate method for data collection in different scenarios. Specifically, they will learn to 'determine when it is appropriate to use surveys or sensors.' This involves understanding the strengths and weaknesses of each method. Surveys are typically used for gathering opinions, attitudes, or self-reported behaviors from a sample of individuals, often at a specific point in time. Sensors, on the other hand, are better suited for collecting objective, continuous, or event-driven data about physical phenomena or user actions in real-time or near real-time."
+  },
+  {
+    "title": "Activity: Collaborative Participatory Sensing Campaign",
+    "body": "Students will collaborate to create a class-wide Participatory Sensing Campaign. This activity will involve partner and whole-group discussions, fostering teamwork and communication skills. The campaign will focus on a topic chosen by the class, applying the principles of Participatory Sensing learned throughout the unit. This hands-on project allows students to design, implement, and collect data using sensors, culminating in a tangible data set that reflects their collective effort and understanding of the concepts. This activity directly supports the applied computational thinking objective."
+  },
+  {
+    "title": "Real-World Application: Ubiquitous Sensors",
+    "body": "Sensors are an integral part of modern technology and are found in a vast array of devices and environments. This section emphasizes their ubiquitous nature, connecting the classroom learning to real-world applications. Students will learn that sensors are used to gather data on everything from environmental conditions, such as air quality and temperature, to personal habits and activities. The increasing application of sensors in personal tracking, particularly within the medical field, is highlighted as a significant trend. These sensors provide ongoing data that can inform individuals and healthcare professionals about health status and lifestyle choices."
+  },
+  {
+    "title": "Legend for Activity Icons",
+    "body": "The section includes a legend that visually explains the meaning of various activity icons used throughout the documentation. This legend, represented by an image file (../img/legend.png), serves as a reference guide for interpreting different symbols that denote specific types of activities, instructions, or informational elements within the learning materials. Users should refer to this legend to understand the different visual cues provided."
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Abstract of Unit 1 Lesson 6",
+    "body": "Unit 1 Lesson 6, titled 'What Do I Eat?', focuses on the Data Collection component of the Data Cycle. Students will learn about the challenges of organizing, storing, and sharing data by collecting information on their food habits using paper and pencil. The lesson emphasizes the importance of agreeing on variables for data consistency. It includes a video by Jamie Oliver, analysis of Nutrition Facts labels, and data collection activities to understand similarities and differences in collected data. Students will also create one-word identifiers for variables and formulate statistical questions based on their collected food habits data. The lesson prepares students for future data collection using mobile devices and involves a 'Class Scribes' activity where a team discusses the key topics of the day. Homework involves generating statistical questions from the collected food data."
+  },
+  {
+    "title": "Unit 1 Lesson 6 Objective and Materials",
+    "body": "The objective of Unit 1 Lesson 6 is for students to collect data using paper and pencil to understand the challenges of organizing, storing, and sharing data. They will learn the necessity of agreeing on variables for consistent data collection. Materials required for this lesson include a video, 'Jamie Oliver’s Food Revolution' (link provided, with a backup search term and approximate length), Nutrition Facts labels or pictures (previously collected by students, with a handout alternative if needed), and the 'Food Habits Data Collection' handout. The lesson aims to illustrate practical data collection challenges through relatable food consumption data."
+  },
+  {
+    "title": "Vocabulary: Dataset",
+    "body": "Dataset(s): A dataset is a collection of data. In Unit 1 Lesson 6, students encounter datasets when they collect and compare information from Nutrition Facts labels and their own food habits. The lesson highlights how different individuals might collect varying data points, leading to datasets that can be both similar and different. Understanding what constitutes a dataset is crucial for organizing and analyzing information effectively in data science."
+  },
+  {
+    "title": "Essential Concepts: Data Collection and Examination",
+    "body": "The essential concept for Unit 1 Lesson 6 is that after posing statistical questions, we examine and record data to assess the appropriateness of those questions. This lesson specifically addresses the 'Data Collection' component of the Data Cycle. Students actively engage in collecting data related to their food consumption. By doing so, they experience firsthand the practicalities and potential pitfalls of data gathering, which informs their understanding of how data can be used to answer questions and why careful recording is essential."
+  },
+  {
+    "title": "Lesson Activity: Introduction and Video Analysis",
+    "body": "Unit 1 Lesson 6 begins by introducing the Data Collection component of the Data Cycle. Students watch a short video clip from Jamie Oliver’s 'Food Revolution' to motivate the lesson. While watching, they are instructed to take notes on their comments and reactions in their journals and be prepared to share. Following the video, students discuss their reactions and respond to the question, 'Why should I care about what I eat?' in their journals. These responses are then shared with the class through a Silent Discussion activity, prompting initial engagement with the relevance of collected data."
+  },
+  {
+    "title": "Lesson Activity: Personal Food Data Collection",
+    "body": "Following the video discussion, students in Unit 1 Lesson 6 shift to collecting data about themselves. They are asked to use Nutrition Facts labels from foods they have consumed. If students forgot their labels, a handout ('Nutrition Facts Cutouts') is available. For 3-5 minutes, students individually collect and record data from these labels in their journals. This hands-on activity allows them to experience the initial stages of data gathering related to personal habits, setting the stage for further analysis and comparison."
+  },
+  {
+    "title": "Lesson Activity: Comparing and Contrasting Datasets",
+    "body": "After individually collecting data from Nutrition Facts labels in Unit 1 Lesson 6, students are prompted to compare and contrast their findings with their team members. They discuss how their collected 'datasets' are similar and how they are different. This comparison extends to a whole-group discussion where the teacher highlights variations in collected facts, the variables recorded, and the data structures used by different students. This step emphasizes the challenges that arise from unstandardized data collection."
+  },
+  {
+    "title": "Lesson Activity: Quickwrite and Data Organization",
+    "body": "During Unit 1 Lesson 6, after comparing individual datasets, students participate in an individual 'Quickwrite' activity. They are asked to consider how the data they just gathered could be quickly displayed and easily read. Following this reflection, students receive the 'Food Habits Data Collection' handout. They use their own label for the first entry and then fill out the rest of the table with food/snacks consumed during the 'Food Habits campaign,' a planned activity for the lesson."
+  },
+  {
+    "title": "Lesson Activity: Variable Identification and Whip Around",
+    "body": "In Unit 1 Lesson 6, after students have begun filling out the 'Food Habits Data Collection' handout, they work in pairs to identify a one-word identifier for each variable they are recording. For instance, the question 'What’s the name of your snack?' might be given the identifier 'Name'. These one-word variable identifiers are then shared with the entire class through a quick 'Whip Around' activity, fostering a collective understanding of how to name and categorize data points consistently."
+  },
+  {
+    "title": "Unit 1 Lesson 6 Homework and Preparation for Next Class",
+    "body": "The homework assignment for Unit 1 Lesson 6 requires students to examine the data they have collected in their 'Food Habits Data Collection' handout. Based on this data, they must generate three statistical questions: one summary, one comparison, and one association question. For the upcoming class, students are informed they may bring mobile devices, suggesting that technology will likely be utilized for further data collection or analysis in the subsequent lesson. This bridges the current lesson's focus on manual data collection to potential digital methods."
+  },
+  {
+    "title": "Class Scribes Activity",
+    "body": "As part of Unit 1 Lesson 6, one team of students is assigned the role of 'Class Scribes.' This team is responsible for preparing and delivering a brief talk to the class. Their presentation should focus on identifying and discussing what they believe were the three most important topics covered during the day's lesson. This activity encourages students to synthesize the key takeaways from the lesson and practice presenting information clearly."
+  },
+  {
+    "title": "Vocabulary: Dataset",
+    "body": "A dataset is a collection of data. In the context of Unit 1 Lesson 6, students create datasets by recording information from Nutrition Facts labels and their own food habits. They compare these datasets to identify similarities and differences, highlighting the importance of consistent data collection. The concept of a dataset is fundamental to organizing information for analysis, and this lesson uses personal food consumption as a relatable example for understanding what data comprises."
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract for Unit 1 Lesson 14: Variables, Variables, Variables",
+    "body": "This lesson, Unit 1 Lesson 14, focuses on teaching students how to read and interpret multiple variable plots. Key plot types covered include bivariate scatterplots, multiple variable scatterplots, stacked bar plots, and side-by-side bar plots. Students will analyze these plots to understand relationships between variables and will summarize their learning using a graphic organizer. The lesson introduces concepts like scatterplots, grouping, and side-by-side bar plots, emphasizing that plotting distributions on the same graph can reveal relationships between variables. Practical examples involving heights and weights, and the influence of sex on these measurements, are used to illustrate the concepts. The lesson also touches upon comparing categorical data across different groups using side-by-side bar charts and examining distributions of a numerical variable split by a categorical variable using faceted histograms."
+  },
+  {
+    "title": "Unit 1 Lesson 14 Objective and Materials",
+    "body": "The objective of Unit 1 Lesson 14 is for students to learn how to read and interpret multiple variable plots, specifically bivariate scatterplots, multiple variable scatterplots, stacked bar plots, and side-by-side bar plots. They will also summarize their learning about these plots using a four-fold graphic organizer. Materials required for this lesson include handouts for various plots: 'Scatterplot of Heights & Weights' (LMR_U1_L14_A), 'Scatterplot of Heights & Weights, Split by Sex' (LMR_U1_L14_B), 'Side-by-Side Bar Chart' (LMR_U1_L14_C), 'Faceted Histogram of Height by Sex' (LMR_U1_L14_D), and the 'Summarizing Multi-Variable Plots graphic' organizer (LMR_U1_L14_E)."
+  },
+  {
+    "title": "Vocabulary: Scatterplot",
+    "body": "Scatterplot: A scatterplot is a type of plot that uses dots to represent the values for two different numeric variables. Each dot on the scatterplot corresponds to a single data point. The position of the dot is determined by the values of the two variables being plotted, typically with one variable on the x-axis and the other on the y-axis. Scatterplots are useful for visualizing the relationship or correlation between two quantitative variables."
+  },
+  {
+    "title": "Vocabulary: Grouping",
+    "body": "Grouping is a concept in data analysis where data are split into categories. This allows for the comparison of distributions or trends within these different categories. For example, in Unit 1 Lesson 14, data on heights and weights might be grouped by 'sex' (male/female) to see if relationships differ between genders. Grouping is essential for understanding how a categorical variable influences a numerical variable or relationships between numerical variables."
+  },
+  {
+    "title": "Vocabulary: Side-by-Side Bar Plot",
+    "body": "A side-by-side bar plot is a graphical representation used to compare different categories across groups. In this type of plot, bars representing a specific category are placed next to each other for each group. This allows for easy comparison of the frequencies, counts, or proportions within subgroups. For instance, Unit 1 Lesson 14 uses side-by-side bar plots to compare sunscreen usage habits between Hispanic and non-Hispanic individuals."
+  },
+  {
+    "title": "Essential Concepts: Examining Variable Relationships",
+    "body": "To examine whether two or more variables are related, we can plot their distributions on the same graph. This technique allows for visual inspection of potential associations, trends, or patterns between variables. By overlaying or displaying multiple variable distributions together, data analysts can identify correlations, differences between groups, or other forms of relationships that might not be apparent from looking at individual variables in isolation. Unit 1 Lesson 14 utilizes various plot types like scatterplots and bar charts to demonstrate this concept."
+  },
+  {
+    "title": "Lesson Introduction: Exploring Height and Weight",
+    "body": "Unit 1 Lesson 14 begins by introducing the concept of exploring relationships between multiple variables. Students are prompted to consider the relationship between people's heights and weights, pondering if taller people are always heavier or if it's just a tendency. This sets the stage for analyzing real data. The lesson then presents a scatterplot of heights and weights (LMR_U1_L14_A) to visually demonstrate this relationship."
+  },
+  {
+    "title": "Analyzing Bivariate Scatterplots: Height and Weight",
+    "body": "In Unit 1 Lesson 14, students analyze a bivariate scatterplot (LMR_U1_L14_A) displaying the relationship between height (in meters) and weight (in kilograms). They identify it as a scatterplot, noting that it displays two numerical variables. Students determine that the axes represent height and weight, and observe that while there's a general tendency for taller people to weigh more, it's not a strict rule. This initial analysis helps students grasp the basics of interpreting scatterplots."
+  },
+  {
+    "title": "Introducing Grouping with Scatterplots: Height, Weight, and Sex",
+    "body": "Building on the bivariate scatterplot, Unit 1 Lesson 14 introduces the concept of 'grouping' by displaying a scatterplot that splits the data by sex (LMR_U1_L14_B). This plot shows height, weight, and sex, revealing three variables: two numerical (height, weight) and one categorical (sex). Students analyze how the data points for males and females are distributed relative to each other, addressing questions about potential differences in height and weight between sexes and whether the height-weight association is consistent across genders."
+  },
+  {
+    "title": "Analyzing Side-by-Side Bar Plots: Hispanic Ethnicity and Sunscreen Use",
+    "body": "Unit 1 Lesson 14 introduces the side-by-side bar plot using an example comparing sunscreen usage frequency between Hispanic and non-Hispanic individuals (LMR_U1_L14_C). Students learn to interpret this plot, which displays two variables: ethnicity (categorical) and sunscreen usage frequency (categorical, represented by bar segments). The x-axis shows sunscreen usage categories (e.g., always, sometimes, never), and the y-axis represents the percentage of the total for each usage category, with bars split by Hispanic status. This plot allows for comparisons of sunscreen habits between the two groups."
+  },
+  {
+    "title": "Analyzing Faceted Histograms: Height by Sex",
+    "body": "Further exploring multi-variable data, Unit 1 Lesson 14 examines a faceted histogram (also called a split histogram) that displays the distribution of height (numerical variable) separately for males and females (categorical variable) (LMR_U1_L14_D). Students analyze these histograms to understand the typical height ranges for each sex and to directly compare the height distributions. This visual comparison helps answer questions about whether males and females differ significantly in height."
+  },
+  {
+    "title": "Summarizing Multi-Variable Plots with a Graphic Organizer",
+    "body": "To consolidate learning from Unit 1 Lesson 14, students are tasked with completing a 'Summarizing Multi-Variable Plots' four-fold graphic organizer (LMR_U1_L14_E). This activity requires students to synthesize their understanding of the different types of multi-variable plots encountered (scatterplots, side-by-side bar plots, faceted histograms), their features, the variables they represent, and the types of questions they can answer. This organizer serves as a personal summary and a study tool for interpreting complex data visualizations."
+  },
+  {
+    "title": "Class Scribes and Next Steps in Unit 1",
+    "body": "As part of Unit 1 Lesson 14, a 'Class Scribes' activity is included where a team of students presents the three most important topics covered during the day. This encourages active participation and reinforces key concepts. Following this lesson, students are directed to complete two labs: Lab 1D ('Zooming through Data') and Lab 1E ('What’s the Relationship?'). These labs are essential preparation for an upcoming practicum, providing hands-on experience with data analysis concepts introduced in the unit."
+  },
+  {
+    "title": "Scatterplot Interpretation: Height and Weight (LMR_U1_L14_A)",
+    "body": "This chunk details the analysis of the 'Scatterplot of Heights & Weights' handout (LMR_U1_L14_A) in Unit 1 Lesson 14. Students are asked to identify the plot type (scatterplot) and its features. They determine that two numerical variables, weight (in kg) and height (in meters), are displayed. The axes are identified as representing height and weight. Students observe the general tendency for taller individuals to weigh more, but acknowledge it's not absolute. This exercise helps students understand bivariate numerical relationships visually."
+  },
+  {
+    "title": "Scatterplot with Grouping: Height, Weight, and Sex (LMR_U1_L14_B)",
+    "body": "This chunk focuses on the 'Scatterplot of Heights & Weights, Split by Sex' handout (LMR_U1_L14_B) from Unit 1 Lesson 14. Students analyze a plot with three variables: height (numerical), weight (numerical), and sex (categorical). They identify the axes and discuss questions that can be answered, such as differences in height and weight between sexes and whether the height-weight association varies by sex. The concept of 'grouping' data by a categorical variable is explicitly introduced here."
+  },
+  {
+    "title": "Side-by-Side Bar Chart Analysis: Sunscreen Use by Ethnicity (LMR_U1_L14_C)",
+    "body": "This chunk describes the analysis of the 'Side-by-Side Bar Chart' handout (LMR_U1_L14_C) in Unit 1 Lesson 14. Students identify the plot type and its purpose in comparing categorical data. The two variables are ethnicity (Hispanic/non-Hispanic) and frequency of sunscreen use. The axes show the frequency of sunscreen use on the x-axis and the percentage of the total on the y-axis, with bars segmented by ethnicity. Students formulate statistical questions to compare sunscreen habits between Hispanic and non-Hispanic groups."
+  },
+  {
+    "title": "Faceted Histogram Analysis: Height Distribution by Sex (LMR_U1_L14_D)",
+    "body": "This chunk covers the analysis of the 'Faceted Histogram of Height by Sex' handout (LMR_U1_L14_D) in Unit 1 Lesson 14. Students identify the plot as a split or faceted histogram, which displays the distribution of a numerical variable (height in feet) broken down by a categorical variable (sex). They interpret the axes and formulate statistical questions to compare the height distributions between males and females, understanding how to visualize and compare distributions across groups."
+  }
+]

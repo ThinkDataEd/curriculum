@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Abstract: Unit 3 Lesson 5 - Time Perception Experiment",
+    "body": "This lesson, Unit 3 Lesson 5, focuses on designing and conducting an experiment to investigate how time perception changes when exposed to a stimulus. Students will use RStudio's stopwatch() function for precise time measurements and a survey tool (IDS ThinkData Ed App or browser-based) to collect data. The lesson outlines the steps for setting up the experiment, including defining a research question, differentiating between treatment and control groups, and conducting the data collection. Students will record their estimates in their DS journals and then enter them into a shared survey. The lesson concludes with a discussion on experimental design principles, such as random assignment and the importance of control groups, and prepares students for subsequent data analysis in Lab 3A."
+  },
+  {
+    "title": "Unit 3 Lesson 5: Objective and Materials",
+    "body": "The objective of Unit 3 Lesson 5 is for students to engage in the collective design and execution of an experiment. The primary materials required for this lesson are RStudio's stopwatch() function for accurate time measurement and the IDS ThinkData Ed App or a browser-based survey-taking tool for data collection. These tools will enable students to precisely measure their time estimates and contribute to a larger dataset for analysis."
+  },
+  {
+    "title": "Essential Concepts: Experimental Design",
+    "body": "A key concept in Unit 3 Lesson 5 is that designing and carrying out an experiment is a fundamental method for answering specific statistical questions of interest. This involves carefully planning the procedure, defining variables, and establishing clear protocols to ensure that the results obtained are reliable and can be used to draw meaningful conclusions about the phenomenon being studied."
+  },
+  {
+    "title": "Lesson Procedure: Introduction and RStudio Stopwatch",
+    "body": "Unit 3 Lesson 5 begins by eliciting student knowledge about the elements of an experiment, referencing their DS journals from Lesson 2. Students are then introduced to RStudio's stopwatch() function for precise time measurements. A volunteer student demonstrates its use. The lesson instructs the teacher to type `stopwatch()` in RStudio, have the volunteer estimate one minute without looking at a clock, and press the enter/return key to stop the timer and reveal their estimate. This practical demonstration familiarizes students with the tool they will use for data collection."
+  },
+  {
+    "title": "Unit 3 Lesson 5: Research Question and Experiment Setup",
+    "body": "The core research question for the experiment in Unit 3 Lesson 5 is: 'How does our perception of time change when exposed to a stimulus?' The lesson emphasizes reviewing the experiment design, specifically the treatment administered to the treatment group. If the stimulus involves an action like standing with open arms, students are instructed to begin the `stopwatch()` function simultaneously with engaging in the stimulus and stop it when they believe a minute has passed. This defines the conditions for the treatment group."
+  },
+  {
+    "title": "Experiment Procedure: Control Group and Data Recording",
+    "body": "In Unit 3 Lesson 5, the control group for the time perception experiment will sit at their desks with their eyes closed. Each student in the control group will independently run the `stopwatch()` function in RStudio and stop the timer when they believe a minute has elapsed. This provides a baseline for comparison against the treatment group. The lesson stresses conducting the experiment with effective team roles and ensuring each student records their individual one-minute estimate in their DS journal."
+  },
+  {
+    "title": "Data Collection and Next Steps: Unit 3 Lesson 5",
+    "body": "Following the individual data collection in Unit 3 Lesson 5, students will enter their time estimates into a central survey. This can be done using the 'Time Perception' survey accessible via the Survey Taking Tool at https://portal.thinkdataed.org or through the [IDS ThinkData Ed App](../download/app.md) on iOS or Android devices. The lesson informs students that the analysis of the data collected in this experiment will be conducted in the subsequent activity, [Lab 3A: The results are in!](lab3a.md)."
+  },
+  {
+    "title": "Teacher's Guide: Understanding Experimental Design",
+    "body": "Unit 3 Lesson 5 includes a 'Note to Teacher' section to assess student understanding of experimental design. Key discussion points include: 1) When and why random assignment is used (to determine causality by creating balanced groups where only the treatment differs). 2) Identifying and rewriting causal vs. non-causal headlines (examples provided for 'Straight A's', 'Murder rates', 'Microbe linked to Alzheimer's', 'Luckiest people'). 3) The importance of a control group (to measure treatment effects against an untreated, comparable group, establishing what would happen without intervention)."
+  },
+  {
+    "title": "Class Scribes and Upcoming Lab: Unit 3 Lesson 5",
+    "body": "As a concluding activity for Unit 3 Lesson 5, a team of students will act as 'Class Scribes.' They will present a brief talk summarizing what they consider the three most important topics covered during the lesson. This reinforces key takeaways and communication skills. The lesson also clearly indicates that the 'Next Day' activity will be [Lab 3A: The results are in!](lab3a.md), which should be completed before proceeding to [Practicum 1](practicum1.md), signifying the progression of learning from data collection to analysis."
+  },
+  {
+    "title": "Vocabulary: stopwatch() function",
+    "body": "The `stopwatch()` function is a tool available in RStudio used in Unit 3 Lesson 5 for precise time measurement. During the Time Perception Experiment, students will use this function to record their estimates of a one-minute duration. The function allows for accurate timing, which is crucial for collecting reliable data in experimental settings. Students initiate the timer and stop it by pressing the enter/return key, observing their estimated time elapsed."
+  },
+  {
+    "title": "Vocabulary: Treatment Group",
+    "body": "In the context of Unit 3 Lesson 5's Time Perception Experiment, the 'treatment group' refers to the participants who are exposed to a specific condition or stimulus being tested. For example, if the stimulus is standing with open arms, the treatment group would perform this action while estimating the one-minute duration. This group's data will be compared to the control group to determine the effect of the stimulus on time perception."
+  },
+  {
+    "title": "Vocabulary: Control Group",
+    "body": "The 'control group' in Unit 3 Lesson 5's Time Perception Experiment consists of participants who do not receive the experimental treatment or stimulus. In this lesson, the control group students sit with their eyes closed while estimating one minute using the `stopwatch()` function. This group serves as a baseline, allowing researchers to measure the effect of the treatment by comparing the control group's results to those of the treatment group. It helps isolate the impact of the independent variable."
+  },
+  {
+    "title": "Vocabulary: Random Assignment",
+    "body": "Random assignment is a crucial concept discussed in Unit 3 Lesson 5, particularly in the teacher's guide section. It is the process of assigning participants to either the treatment or control group randomly. This is important for experimental design because it helps ensure that the groups are as similar as possible before the experiment begins. By balancing potential confounding variables on average between the groups, random assignment increases the likelihood that any observed differences in the outcome are due to the treatment itself, thus supporting causal inference."
+  },
+  {
+    "title": "Vocabulary: Causal Inference",
+    "body": "Causal inference, a topic touched upon in the teacher's guide of Unit 3 Lesson 5, is the process of determining whether a specific factor or intervention (the treatment) actually causes a change in an outcome. Experiments with random assignment and a control group are designed to facilitate causal inference. By comparing the outcomes of the treatment group to the control group, researchers can more confidently conclude that the observed differences are a direct result of the treatment, rather than other factors."
+  }
+]

@@ -1,0 +1,80 @@
+--- ERROR FOR FILE: .\docs\unit2\lesson2.md ---
+
+[
+  {
+    "title": "Abstract of Unit 2 Lesson 2: What Does Mean Mean?",
+    "body": "This lesson introduces students to the concept of the mean as a measure of central tendency, representing the typical value in a data distribution. Students will explore the idea that values clustering around the center indicate a typical value. The lesson covers the definition of mean and average, and introduces the concept of the balancing point of a distribution. Activities include hands-on exercises with pennies on a ruler and analyzing class survey data, such as 'Personality Color' scores. Students will learn to calculate the mean manually and using RStudio. The lesson also touches upon measures of variability as a concept for future learning. Homework involves applying the concept of the mean to analyze 'Mr. Jones Mile Run Times' data."
+  },
+  {
+    "title": "Unit 2 Lesson 2 Objective",
+    "body": "The primary objective of Unit 2 Lesson 2 is for students to understand that data values that cluster around the center of a distribution represent the typical value. This typical value is also known as the mean or average. Students will learn to identify and calculate the mean as a measure of central tendency."
+  },
+  {
+    "title": "Materials for Unit 2 Lesson 2",
+    "body": "The materials required for Unit 2 Lesson 2 include the 'Pennies on a Ruler' handout (LMR_U2_L2_A) or the digital 'IDS Balancing Point app' with the 'Balancing Point' handout (LMR_U2_L2_B). Additionally, students will need markers, rulers, pennies (6 per table group), tape, and exported, printed class data from the 'Personality Color' survey. Advance preparation involves the teacher sharing student data on the IDS Home page before it can be exported and printed. The 'Mr. Jones Mile Run Times' handout (LMR_U2_L2_C) is for homework."
+  },
+  {
+    "title": "Vocabulary: Measures of Central Tendency",
+    "body": "Measures of central tendency, also known as measures of center, are statistical values that indicate a central or typical value for a set of quantitative data. They show where the data tends to gather. In Unit 2 Lesson 2, the lesson focuses on the mean as a primary measure of central tendency. Students will also be introduced to the concept of median in a future lesson. Understanding measures of central tendency helps in summarizing and understanding the main characteristics of a dataset."
+  },
+  {
+    "title": "Vocabulary: Typical Value",
+    "body": "In the context of data distributions, a 'typical' value refers to a central or expected value that best represents the dataset. This term is synonymous with 'mean' or 'average'. When data points cluster closely around a specific value, that value is considered typical for the group. Identifying the typical value helps in summarizing the data and making inferences about the population from which the data was drawn."
+  },
+  {
+    "title": "Vocabulary: Measures of Variability",
+    "body": "Measures of variability, also referred to as measures of spread, describe how far apart the data points in a distribution tend to fall from the center. While Unit 2 Lesson 2 focuses on the center of the distribution (the mean), it introduces variability as a concept that needs to be considered alongside central tendency. Measures of variability provide crucial information about the consistency or dispersion of the data. These concepts will be further explored in Lesson 4."
+  },
+  {
+    "title": "Vocabulary: Mean",
+    "body": "The 'mean' is a calculated central value of a set of numbers. It is determined by adding all the numbers in the set and then dividing the sum by the total count of numbers. The mean is a common way to represent the average or typical value of a dataset. It is sensitive to outliers, meaning extreme values can significantly influence the mean. It is often denoted by the symbol $\bar{x}$."
+  },
+  {
+    "title": "Vocabulary: Average",
+    "body": "The term 'average' is used as an alternative word for 'mean'. When discussing a set of data, the average represents the central or typical value. It is calculated by summing all the individual data points and dividing by the number of data points. Understanding 'average' is fundamental to grasping the concept of the mean and its role in data analysis."
+  },
+  {
+    "title": "Vocabulary: Balancing Point",
+    "body": "The 'balancing point' of a data distribution is a conceptual location on a number line where the data is perfectly balanced. If you imagine the data points as weights on a seesaw, the balancing point is the fulcrum. The mean of a distribution is equivalent to its balancing point. This concept is explored through activities like placing pennies on a ruler to find the point where the ruler would balance, visually representing the mean."
+  },
+  {
+    "title": "Essential Concepts: Center and Mean",
+    "body": "The core concept of Unit 2 Lesson 2 is that the center of a data distribution represents the 'typical' value. One key method for measuring this center is the 'mean', which is found by identifying the distribution's balancing point. While the mean provides a good understanding of the typical value, it does not tell the entire story about the data. To fully comprehend the data's characteristics, measures of variability, which describe how spread out the data is, are also necessary. Variability measures help understand how individual observations might differ from the typical value."
+  },
+  {
+    "title": "Introduction to Measures of Central Tendency and Variability",
+    "body": "Unit 2 Lesson 2 begins by engaging students in a discussion about their understanding of 'measures of central tendency' and 'measures of variability'. Measures of central tendency are values that show how quantitative data tends to gather around a central, or typical, value, also known as measures of center. Measures of variability describe how much the quantitative data varies, also known as measures of spread. While this lesson focuses on central tendency (specifically the mean), measures of variability will be addressed in a later lesson (Lesson 4)."
+  },
+  {
+    "title": "Activity: Pennies on a Ruler",
+    "body": "The 'Pennies on a Ruler' activity is a hands-on exercise designed to help students understand the concept of the mean as a balancing point. Students, working in pairs, use a ruler, pennies, tape, and a handout (LMR_U2_L2_A) or a digital app (IDS Balancing Point app). They place pennies at different positions on the ruler and adjust them to find the point where the ruler balances. This physical balancing point visually demonstrates the mean of the penny positions. The activity emphasizes that the mean of a distribution can be identified by finding its balancing point."
+  },
+  {
+    "title": "Activity: Analyzing Personality Color Survey Data",
+    "body": "In Unit 2 Lesson 2, students analyze their class's 'Personality Color' survey data. After creating a dot plot of the 'Blue' scores (representing whether or not blue was their predominant color), students discuss the typical score and the distribution's balancing point. They then calculate the class mean for the 'Blue' score, comparing it to their predicted balancing point. This activity reinforces the concept of the mean as the balancing point of a distribution and allows students to practice calculating it using real-world data. They also compute the mean for other personality colors."
+  },
+  {
+    "title": "Calculating the Mean: Formula and Explanation",
+    "body": "Unit 2 Lesson 2 introduces the mathematical formula for calculating the mean: $\bar{x}=\frac{\sum_{i=1}^{n} x_i}{n}$. Students are guided to identify each symbol within the formula: $x_i$ represents each individual data point, and $n$ represents the total number of observations. The formula visually represents the algorithm of summing all data points and dividing by the count. After calculating the mean for the 'Blue' scores from the 'Personality Color' survey, students mark this value on the dot plot and discuss its proximity to their predicted balancing point."
+  },
+  {
+    "title": "Using RStudio to Calculate the Mean",
+    "body": "To streamline calculations, Unit 2 Lesson 2 introduces the use of RStudio for finding the mean. If the class's 'Personality Color' campaign data has been exported, uploaded, and imported, students can use a simple command to calculate the mean. For the 'Blue' score, the command is `> mean(~blue, data = colors)`. In general, the function is `> mean(~variable, data = datafile)`, where 'variable' is the data column and 'datafile' is the dataset name. This demonstrates a practical application of the mean calculation in a statistical software environment."
+  },
+  {
+    "title": "Think-Pair-Share: Describing Data with the Mean",
+    "body": "As part of Unit 2 Lesson 2, students engage in a 'Think-Pair-Share' activity to discuss how the mean can be used to simplify the description of data. The discussion focuses on the idea that instead of providing a whole dataset (like all the 'Blue' scores from the 'Personality Color' survey), sharing just the mean score gives a general understanding of the data's central tendency. This highlights the mean's utility in summarizing complex information efficiently."
+  },
+  {
+    "title": "Class Scribes: Key Topics Discussion",
+    "body": "In Unit 2 Lesson 2, a designated team of students acts as 'Class Scribes'. Their role is to present a brief summary to the class, highlighting what they consider to be the three most important topics covered during the lesson. This activity encourages students to reflect on the material, synthesize their understanding, and identify the key takeaways regarding measures of central tendency, the concept of the mean, and its calculation."
+  },
+  {
+    "title": "Homework: Mr. Jones Mile Run Times",
+    "body": "The homework assignment for Unit 2 Lesson 2 is the 'Mr. Jones Mile Run Times' handout (LMR_U2_L2_C). This handout requires students to apply the concepts learned in the lesson by analyzing histograms of mile run times for different class periods. Students will identify the plots created, find and label the balancing point (mean) of each distribution, and estimate the mean mile run time for each class period based on these balancing points. The homework reinforces the practical application of finding the mean of distributions."
+  },
+  {
+    "title": "Homework Answers: Mr. Jones Mile Run Times",
+    "body": "The homework for Unit 2 Lesson 2, the 'Mr. Jones Mile Run Times' handout, involves analyzing histograms. The answers are as follows: 1. Mr. Jones created histograms for his classes. 2. Each distribution balances at its mean. Students are expected to find and label this balancing point on the provided distributions. 3. Based on the balancing points, the estimated mean mile run times are: Period 1: approximately 9.91; Period 2: approximately 8.48; Period 3: approximately 8.45; Period 4: approximately 8.17. Note: The mean values in part (3) do not need to be exact, as students are estimating based on the balancing point."
+  }
+]

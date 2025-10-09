@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract for Unit 4 Lesson 10: What's the Best Line?",
+    "body": "This lesson introduces Mean Squared Error (MSE) as a method to evaluate the fit of a linear model. Students revisit the 'Arm Span vs. Height' scatterplot and draw their own lines of best fit. They compare their lines to the actual regression line and learn about observed vs. predicted values. The lesson emphasizes that the regression line minimizes the MSE. Students will calculate MSE manually using a handout to understand its components before using RStudio in future labs. The goal is to understand how MSE quantifies the error of a linear model and helps determine the 'best' line."
+  },
+  {
+    "title": "Objective: Understanding Mean Squared Error (MSE)",
+    "body": "The primary objective of Unit 4 Lesson 10 is for students to understand that Mean Squared Error (MSE) is a metric used to evaluate how well a linear model fits a dataset. MSE is calculated by summing the squared differences between the actual data values and the values predicted by the line of best fit, and then dividing by the total number of observations. This quantifies the overall error of the model."
+  },
+  {
+    "title": "Materials for Unit 4 Lesson 10",
+    "body": "The necessary materials for Unit 4 Lesson 10 include the 'Arm Span vs. Height' scatterplot, which was previously used in Unit 4 Lesson 8. Students will also need the 'Testing Line of Best Fit' handout. These resources will be used to visually assess and quantitatively analyze linear models."
+  },
+  {
+    "title": "Vocabulary: Regression Line",
+    "body": "A regression line is a line that best describes the relationship and trend within a set of data points. It is used to model the association between two variables, typically an independent variable (x) and a dependent variable (y), and can be used to make predictions."
+  },
+  {
+    "title": "Vocabulary: Observed Value",
+    "body": "An observed value refers to the actual data point that was measured or recorded. In the context of a scatterplot, these are the individual points plotted on the graph, representing what actually happened in the dataset. For example, in the 'Arm Span vs. Height' data, each point represents a specific person's measured arm span and height."
+  },
+  {
+    "title": "Vocabulary: Predicted Value",
+    "body": "A predicted value is a value that is estimated or projected by a statistical model, such as a regression line. These values lie on the line of best fit and represent the model's estimate of the dependent variable (y) for a given value of the independent variable (x). Predicted values are often denoted with a hat symbol (e.g., \\(\\widehat{y}\\))."
+  },
+  {
+    "title": "Essential Concepts: Regression Line and Prediction",
+    "body": "The regression line serves as a powerful tool for making predictions about the dependent variable (y) based on the independent variable (x). Similar to how the mean summarizes a single variable, the regression line provides the best possible predictions in the sense that it minimizes the mean squared errors. By using the regression line, we aim to make predictions that result in the smallest possible total squared distances between the observed data points and the line itself."
+  },
+  {
+    "title": "Activity: Drawing Lines of Best Fit",
+    "body": "In Unit 4 Lesson 10, students are instructed to refer to the 'Arm Span vs. Height' scatterplot from Unit 4 Lesson 8. Using their prior knowledge from 'The Spaghetti Line' lesson and Lab 4A, they are tasked with drawing what they believe to be the line of best fit for the data. They can use spaghetti strands or simply draw the line, potentially using their equations from Lab 4A as a guide, though plotting precise decimals might be challenging on the provided scatterplot."
+  },
+  {
+    "title": "Comparing Hand-Drawn Lines to the Regression Line",
+    "body": "After students draw their own lines of best fit for the 'Arm Span vs. Height' data, they are asked to compare them to the lines drawn by other teams in 'The Spaghetti Line' lesson. While they are not explicitly calculating equations at this stage, they might notice similarities in the y-intercepts or the general steepness (slope) of their lines compared to others, providing an intuitive understanding of the concept of a 'best' line."
+  },
+  {
+    "title": "Revealing the Equation of the Line of Best Fit",
+    "body": "Unit 4 Lesson 10 reveals the precise equation for the line of best fit for the 'Arm Span vs. Height' data: \\(\\widehat{height}=0.7328(armspan)+17.4957\\). Students are then prompted to compare this equation to those they derived in Lab 4A, identifying which team's equation was closest. The notation \\(\\widehat{height}\\) is explained as indicating a 'predicted value' for height."
+  },
+  {
+    "title": "Understanding Predicted vs. Observed Values",
+    "body": "Students are informed that the equation of the line of best fit acts as a rule for predicting height based on arm span. They learn to distinguish between 'observed values,' which are the actual data points on the scatterplot, and 'predicted values,' which are the points lying on the regression line. This distinction is crucial for understanding model accuracy."
+  },
+  {
+    "title": "Predicting Height using the Regression Equation",
+    "body": "Students practice using the provided regression equation, \\(\\widehat{height}=0.7328(armspan)+17.4957\\), to predict the height of a student with an arm span of 67 inches. They then compare this prediction (66.5933 inches, rounding to 67 inches) to the actual observed heights for students with a 67-inch arm span in the dataset (which include 66, 67, and 70 inches). This exercise highlights the predictive power and potential accuracy of the regression line."
+  },
+  {
+    "title": "Regression Lines as Predictive Models",
+    "body": "Unit 4 Lesson 10 reinforces that lines of best fit are also known as regression lines and function as statistical models. Their primary utility lies in their ability to make predictions about the dependent variable (height) based on the independent variable (arm span), providing a summarized trend of the data."
+  },
+  {
+    "title": "Introduction to Finding the Best Line: Minimizing MSE",
+    "body": "The lesson introduces the concept that data scientists have systematic methods to find the 'best' line of best fit. This 'best' line is defined as the one that minimizes the Mean Squared Error (MSE). Students are prompted to recall previously used methods for error calculation, such as MSE and Mean Absolute Error (MAE) from Unit 4 Lesson 7, and discuss when each method is most appropriate."
+  },
+  {
+    "title": "Activity: Calculating Mean Squared Error (MSE)",
+    "body": "Students are given the 'Testing Line of Best Fit' handout (LMR_U4_L10) to manually calculate the MSE for two different lines. This hands-on activity helps them understand how the distances between the data points (observed values) and the line (predicted values) contribute to the overall error. By calculating MSE for different lines, they learn to interpret it as a measure of error and identify which line provides a better fit (i.e., has a smaller MSE)."
+  },
+  {
+    "title": "Interpreting MSE and Determining Model Fit",
+    "body": "Following the MSE calculation activity, students discuss how to interpret the results. They learn that the square root of the MSE converts the error metric back into the original units of the data (in this case, inches). Students then compare the MSE values of the two lines they tested to determine which linear model was the better fit, understanding that a lower MSE signifies a smaller error and thus a superior fit to the data. They are informed that RStudio will be used for more efficient MSE calculation in subsequent labs."
+  },
+  {
+    "title": "Class Scribes and Homework: Labs 4B and 4C",
+    "body": "As part of Unit 4 Lesson 10, one team of students will present their understanding of the three most important topics covered during the lesson. The homework assignment involves completing Lab 4B: 'What's the score?' and Lab 4C: 'Cross-Validation' before proceeding to Unit 4 Lesson 11. These labs are essential for further exploration of data analysis techniques."
+  }
+]

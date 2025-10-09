@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Abstract of Unit 4 Lesson 1: Trash",
+    "body": "This lesson, Unit 4 Lesson 1: Trash, focuses on understanding and reducing the burden of trash in landfills. Students will explore this topic through a video, class discussions, and an investigation of a \"Trash Campaign\" participatory sensing dataset. Key activities include using the 5 Ws strategy to analyze a video on plastic pollution, completing a \"Landfill Readiness Questions\" handout, and interacting with the \"Trash Campaign\" data on the IDS public dashboard. The lesson emphasizes how exploring different datasets can provide insights into environmental processes and highlights the limitations of participatory sensing data in generalizing to larger populations. Students will analyze data related to trash generation, materials, and disposal habits to inform potential solutions for reducing landfill waste."
+  },
+  {
+    "title": "Unit 4 Lesson 1: Trash - Objective and Materials",
+    "body": "The primary objective of Unit 4 Lesson 1: Trash is for students to learn about reducing the burden of trash in landfills. To achieve this, students will need specific materials: 1. A video titled \"Fighting Pollution Through Data,\" accessible via a provided YouTube link. 2. A \"Landfill Readiness Questions\" handout (LMR_U4_L1_A). 3. A \"Trash Campaign Exploration\" handout (LMR_U4_L1_B) to guide interaction with data. 4. A \"Trash Campaign Creation\" handout (LMR_U4_L1_C) as an optional resource for deconstructing the campaign. These materials are designed to facilitate an in-depth exploration of trash-related issues and data analysis."
+  },
+  {
+    "title": "Essential Concepts for Unit 4 Lesson 1: Trash",
+    "body": "Unit 4 Lesson 1: Trash introduces crucial concepts regarding data analysis and its application to environmental issues. A key takeaway is that exploring different datasets can offer valuable insights into the same processes. This highlights the importance of diverse data sources. Furthermore, the lesson points out that data collected from Participatory Sensing campaigns, which rely on human sensors, have limitations. Specifically, this type of data may limit the ability to generalize findings to the broader population. Understanding these nuances is essential for interpreting and acting upon the data gathered in the lesson's activities."
+  },
+  {
+    "title": "Lesson Activity: Investigating Trash Issues",
+    "body": "Unit 4 Lesson 1: Trash begins by informing students about the global problem of trash and its impact on landfills. Students are prompted to use the 5 Ws strategy (What, Who, Why, When, Where) in their journals while watching the \"Fighting Plastic Pollution Through Data\" video. This video, approximately 13 minutes long, provides foundational information, with the first 10 minutes being most relevant for the 5 Ws analysis. Following the video, a class discussion will delve into students' insights and reactions, focusing on the types of data collected in the video and their utility in combating plastic pollution. This initial phase sets the stage for a deeper dive into data analysis and problem-solving related to waste."
+  },
+  {
+    "title": "Video Analysis: Fighting Plastic Pollution",
+    "body": "As part of Unit 4 Lesson 1: Trash, students watch the video \"Fighting Plastic Pollution Through Data\" to analyze the problem of trash. After viewing the video, students engage in a class discussion guided by specific questions. They are asked to identify the types of data collected, such as photos, location, brand names, weight, waste categories (plastic bags, straws, etc.), and the number of packaging items. The discussion also covers how this data is useful in fighting plastic pollution, including promoting brand accountability, fostering community involvement, aiding in cleaning polluted areas like rivers and dumping sites, and identifying sources of pollution. This analysis helps students understand the practical applications of data collection in addressing environmental challenges."
+  },
+  {
+    "title": "Landfill Readiness and Trash Campaign Introduction",
+    "body": "In Unit 4 Lesson 1: Trash, students first assess their current understanding of landfills and waste management by completing the \"Landfill Readiness Questions\" handout (LMR_U4_L1_A). This involves private reflection followed by team discussions. Subsequently, students are introduced to the \"Trash Campaign,\" a participatory sensing initiative conducted by high school students in the Los Angeles Unified School District (LAUSD). These students created a campaign to investigate trash issues in their communities and made recommendations to the Los Angeles County Sanitation District (LACSD) to help reduce the strain on regional landfills. This segment bridges prior knowledge with the practical application of data collection in a real-world scenario."
+  },
+  {
+    "title": "Exploring the Trash Campaign Data Dashboard",
+    "body": "Unit 4 Lesson 1: Trash guides students to explore real-world data through the IDS public dashboard ([https://portal.thinkdataed.org](https://portal.thinkdataed.org)). Students access the \"Trash\" campaign data and select \"Dashboard\" from the \"Action\" button. The dashboard, a visual tool for data exploration and analysis, allows students to interact with the information gathered by the LAUSD \"Trash Campaign.\" An example screenshot is provided to illustrate the dashboard's interface. Students are encouraged to \"play\" with the data to understand its characteristics, using the \"Trash Campaign Exploration\" handout (LMR_U4_L1_B) to facilitate their investigation. This hands-on experience with the data is central to the lesson's learning objectives."
+  },
+  {
+    "title": "Analysis of Trash Campaign Data: Key Findings",
+    "body": "During Unit 4 Lesson 1: Trash, students analyze data from the \"Trash Campaign\" using the IDS public dashboard and the \"Trash Campaign Exploration\" handout (LMR_U4_L1_B). Key findings from the dataset (2,631 observations) reveal that the majority of trash was generated at school (1,254 observations), compared to work (59 observations). The most common material thrown away was \"Recyclable\" (1,302), followed by \"Paper\" (477). Trash generation at home peaks between 9 PM and 10 PM (106 observations). The activity \"Eating/cooking\" generates the largest percentage of landfill-destined trash (69.02%). Drinking generates more recyclables (480) than eating (399). When recycling bins were present, 26.6% of recyclables ended up in trash bins, with a higher proportion occurring at school (134/225) than at home (76/225). When littering occurred, it was often when no waste receptacle was nearby (15 out of 58 times)."
+  },
+  {
+    "title": "Unit 4 Lesson 1: Trash - Campaign Deconstruction and Reflection",
+    "body": "The conclusion of Unit 4 Lesson 1: Trash involves a class discussion where students share their findings from exploring the \"Trash Campaign\" data. The \"Trash Campaign Creation\" handout (LMR_U4_L1_C) can be used as a supplementary resource to aid in deconstructing the campaign's components. To consolidate learning, one team of students will act as \"Class Scribes\" and present a brief talk on what they consider the three most important topics covered during the lesson. This final activity encourages synthesis of the information and reinforces the key takeaways regarding waste reduction and data analysis in addressing environmental problems."
+  },
+  {
+    "title": "Vocabulary: Participatory Sensing",
+    "body": "Participatory Sensing is a key concept introduced in Unit 4 Lesson 1: Trash. It involves campaigns where data collection relies on human sensors, meaning individuals actively participate in gathering information. While valuable for investigating local issues and engaging communities, the lesson highlights a limitation: data from these campaigns may not be generalizable to the wider population. This is because the methods and participation might not represent the overall demographic or behavior patterns. Understanding this limitation is crucial for accurately interpreting the insights derived from such data, as noted in the essential concepts for the lesson."
+  },
+  {
+    "title": "Vocabulary: Landfill",
+    "body": "A landfill is a site where waste material is disposed of. In Unit 4 Lesson 1: Trash, understanding the burden on landfills is a central theme. The \"Landfill Readiness Questions\" handout (LMR_U4_L1_A) prompts students to consider their existing knowledge about how trash travels to landfills and the implications of this process. The \"Fighting Plastic Pollution Through Data\" video and the \"Trash Campaign\" data also provide context for the types and quantities of waste that end up in landfills, emphasizing the need for strategies to reduce this burden. Reducing landfill waste is a primary objective of the lesson."
+  },
+  {
+    "title": "Vocabulary: 5 Ws Strategy",
+    "body": "The 5 Ws strategy is a critical analysis tool used in Unit 4 Lesson 1: Trash. Students employ this method, which involves identifying the What, Who, Why, When, and Where of a resource, to analyze the \"Fighting Plastic Pollution Through Data\" video. By summarizing these key aspects, students can gain a comprehensive understanding of the information presented. This strategy is applied early in the lesson to establish a foundational understanding of the plastic pollution problem before delving into more complex data analysis and campaign exploration."
+  },
+  {
+    "title": "Code Snippet: Video URL",
+    "body": "The \"Fighting Pollution Through Data\" video is a key resource in Unit 4 Lesson 1: Trash. The video is accessible at the following URL: `https://www.youtube.com/watch?v=xOYAIXjHveA`. Students are instructed to watch this video, focusing on the first 10 minutes, to gather information for the 5 Ws analysis and class discussion. This video provides context and real-world examples related to plastic pollution and data collection methods used to combat it."
+  },
+  {
+    "title": "Code Snippet: IDS Public Dashboard URL",
+    "body": "The IDS public dashboard is an essential tool for Unit 4 Lesson 1: Trash, allowing students to interact with real-world data from the \"Trash Campaign.\" The dashboard can be accessed at the following URL: `https://portal.thinkdataed.org`. Students navigate to this site, select the \"Trash\" campaign, and choose \"Dashboard\" from the \"Action\" button to explore and analyze the data collected by participating students regarding waste generation and disposal habits."
+  },
+  {
+    "title": "Handout Reference: LMR_U4_L1_A - Landfill Readiness Questions",
+    "body": "LMR_U4_L1_A, titled \"Landfill Readiness Questions,\" is a crucial handout for Unit 4 Lesson 1: Trash. This document is distributed to students to gauge their existing knowledge about landfills and the journey of trash. The activity involves private think-time followed by team discussions, encouraging students to inventory their understanding of waste management. The handout serves as a starting point for the lesson's exploration into reducing the burden on landfills, connecting students' prior knowledge to the day's learning objectives. An embedded viewer and link are provided for access."
+  },
+  {
+    "title": "Handout Reference: LMR_U4_L1_B - Trash Campaign Exploration",
+    "body": "LMR_U4_L1_B, the \"Trash Campaign Exploration\" handout, is a vital resource for Unit 4 Lesson 1: Trash. This handout guides students as they interact with the \"Trash Campaign\" data on the IDS public dashboard. It contains specific questions designed to direct students' analysis of the dataset, helping them uncover insights about trash generation patterns, materials, locations, and disposal habits. The handout aids students in extracting meaningful information from the visual data tools, facilitating a deeper understanding of the issues surrounding waste and landfills. An embedded viewer and link are provided for access."
+  },
+  {
+    "title": "Handout Reference: LMR_U4_L1_C - Trash Campaign Creation",
+    "body": "LMR_U4_L1_C, the \"Trash Campaign Creation\" handout, serves as an additional resource in Unit 4 Lesson 1: Trash. While not mandatory for all activities, it can be utilized during the deconstruction of the \"Trash Campaign\" at the end of the lesson. This handout helps students understand the methodology and considerations involved in creating such a participatory sensing campaign. It supports the class discussion by providing a framework for analyzing how the campaign was designed and executed, further deepening students' comprehension of data collection and its application to environmental problem-solving. An embedded viewer and link are provided for access."
+  }
+]
