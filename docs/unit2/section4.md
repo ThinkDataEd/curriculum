@@ -43,7 +43,7 @@ distributed.
 
 The Normal curve is used to make inferences about a population. The model makes it possible to
 estimate the probability of occurrence of any value of a Normally distributed variable. For example,
-heights are Normally distributed. Using a Normal curve, we can find the probability of that a person would
+heights are Normally distributed. Using a Normal curve, we can find the probability that a person would
 be a height of 6’ 2”.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
