@@ -52,9 +52,9 @@ media is continuously publishing articles that include statistical references. C
 that we understand the information provided in summaries of data.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will conside the appropriateness of using mean or median as the measure of center for different types of distributions.
+1. Students will consider the appropriateness of using mean or median as the measure of center for different types of distributions.
 
-2. Students will determine and explain eappropriate measure of spread.
+2. Students will determine and explain appropriate measures of spread.
 
 3. Students will engage in an "Active Debate" activity to compare shape, center, and spread of distributions.
 
