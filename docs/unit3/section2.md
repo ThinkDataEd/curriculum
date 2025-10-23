@@ -34,7 +34,7 @@ confounding factors.
 
 • Download data from the Internet that was collected via an observational study.
 
-• Clean dataset by adding variable names.
+• Clean datasets by adding variable names.
 
 • Create scatterplots of two variables and determine possible relationships between them, as well
 as identify potential confounding variables.
@@ -46,7 +46,7 @@ example, observational studies are used in epidemiology to study outbreaks of il
 behavioral patterns.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
-1. Students will use connect the data they gather through Participatory Sensing campaigns to observational studies.
+1. Students will connect the data they gather through Participatory Sensing campaigns to observational studies.
 
 2. Students will compare and contrast observational studies with experiments.
 
