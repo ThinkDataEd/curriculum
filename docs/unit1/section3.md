@@ -41,7 +41,7 @@ Make claims that are based on data and begin to evaluate reports that make claim
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 
-1. Students will describe assocations between categorical variables.
+1. Students will describe associations between categorical variables.
 
 2. Students will connect their time use activities with that of Americans.
 
@@ -53,7 +53,7 @@ Make claims that are based on data and begin to evaluate reports that make claim
 
 1. Students’ *Time-Use* campaign data
 
-2. American Time-Use Survey (ATUS): ```data(cdc)```
+2. American Time-Use Survey (ATUS): ```data(atus)```
 
 *<u>Data Collection Method:</u>*
 
