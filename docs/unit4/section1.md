@@ -46,7 +46,7 @@ an integral part of what they do in the real world.
 
 ##<p style="background: black; color: white; text-align: center;">**Language Objectives**</p>
 1. Students will use complex sentences to construct summary statements about their understanding
-of data, how it is collected, how it used, and how to work with it.
+of data, how it is collected, how it is used, and how to work with it.
 
 2. Students will engage in partner and whole group discussions to express their
 understanding of data science concepts.
