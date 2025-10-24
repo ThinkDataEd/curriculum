@@ -8,7 +8,7 @@ variable that is not explained by the independent variable. Although the regress
 predictions when the association is linear, other models are needed for when it is not linear.
 
 ##<p style="background: black; color: white; text-align: center;">**Engagement**</p>
-Students will will explore and make predictions with a dataset consisting of arm span and height values from a group of Los Angeles high school students. The Arm Span vs. Height data allows for a real-world connection while learning about linear models and predictions. They will engage in multiple discussions as they build their understanding of linear models, refine how they make their predictions, and test the accuracy of those predictions.   
+Students will explore and make predictions with a dataset consisting of arm span and height values from a group of Los Angeles high school students. The Arm Span vs. Height data allows for a real-world connection while learning about linear models and predictions. They will engage in multiple discussions as they build their understanding of linear models, refine how they make their predictions, and test the accuracy of those predictions.   
 
 ##<p style="background: black; color: white; text-align: center;">**Learning Objectives**</p>
 <ins>*Statistical/Mathematical:*</ins>
