@@ -7,7 +7,7 @@ value is also referred to as the mean, or average.
 ###**Materials:**
 1. *Pennies on a Ruler* handout ([LMR_U2_L2_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf))
 
-    **Digitial Option:** IDS Balancing Point app
+    **Digital Option:** IDS Balancing Point app
 
     *Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf))
 
@@ -104,7 +104,7 @@ the students:
 12. As a class, compute the mean <span style="color:blue">***Blue***</span> score for the entire class on the board and compare this
 value to the class’s prediction of the balancing point. Students may not remember exactly how to
 compute the mean, so you can remind them of the general algorithm or refer them back to their
-responses from Step 5 above.
+responses from step 5 above.
 
 13. Show the students the formula for calculating the mean:<br> <center><img src="https://latex.codecogs.com/gif.latex?\bar{x}=\frac{&space;\sum_{i=1}^{n}&space;x_i}{n}" title="\bar{x}=\frac{ \sum_{i=1}^{n} x_i}{n}" /></center>
 
@@ -118,7 +118,7 @@ on the x-axis. Ask student pairs to engage in a conversation about how close the
 their predicted balancing point and why their prediction was made that way. Select a pair to share
 their discussion with the whole class.
 
-16. Using the *Personality Color* survey data from Step 9 above, ask student pairs to compute the mean
+16. Using the *Personality Color* survey data from step 9 above, ask student pairs to compute the mean
 score for each of the other three personality colors.
 
 17. Inform the students that, during the [next lesson](lesson3.md), they will learn about another method that can be
