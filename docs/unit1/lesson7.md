@@ -71,7 +71,7 @@ analyze their classmates’ and their own snacking habits.
 could be answered using the snack-only data that would be hard to answer if the data included
 meals as well.
 
-8. Inform students that they will be taking part in a specific data collection method know as
+8. Inform students that they will be taking part in a specific data collection method known as
 **Participatory Sensing** via a mobile application. This application can gather data via **surveys**,
 **images**, and **GPS** tracking. For students who choose to share their location, their precise location will not appear on the shared IDS map. In the interest of protecting student privacy, our GPS is configured to show a generalized location tag, not a specific address.
 
@@ -124,7 +124,7 @@ menu button on the top left-hand side of the screen and selecting **Notification
 
 16. Data collection norms: Ask students how many snacks they think they eat a day. From this,
 come up with an approximate number of surveys they think each student should complete during
-the data collection period (days 7 though 15).
+the data collection period (days 7 through 15).
 
 17. Inform students that you will be monitoring their data collection to make sure that everyone is
 submitting surveys regularly.
