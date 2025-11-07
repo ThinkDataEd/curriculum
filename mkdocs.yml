@@ -364,7 +364,7 @@ nav:
         - 'Unit 4 Lab Code' : lab_code/unit4.md
 
     - PDF: 
-        - 'IDS_Curriculum' : download/curriculum.md
+       #- 'IDS_Curriculum' : download/curriculum.md
         - 'IDS_LMRs' : download/lmrs.md
         - 'IDS_Lab Response Sheets' : download/labs.md
         - 'IDS_Teacher Resources' : download/resources.md
