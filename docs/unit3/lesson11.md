@@ -117,7 +117,8 @@ based on the questions listed below.
 12. Next, display the histogram from the *Gettysburg Address – Word Length Histogram* file
 ([LMR_U3_L11_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf)), which shows the distribution of word lengths for the entire population of words in the
 Gettysburg Address.
-    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdated.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L11_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf)</div>
+
+    <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U3_L11_C](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L11_C.pdf)</div>
 
 13. Remind students that the population is the 272 words from the speech, and inform them that the
 mean word length of the population, or the population parameter, is 4.22. Using *Think-Pair-Share*,
