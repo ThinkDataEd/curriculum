@@ -5,8 +5,8 @@ Students will learn to construct, interpret, and calculate the joint relative fr
 tables.
 
 ###**Vocabulary:**
-[two-way frequency table](../../vocabulary/unit1/#two-way frequency table "a table that displays the data that pertains to two categories from one group"){ .md-button }
-[joint relative frequency](../../vocabulary/unit1/#joint relative frequency "a fraction that tells you how many members of a group have a particular characteristic"){ .md-button }
+[two-way frequency table](../../vocabulary/unit1/#two-way-frequency-table "a table that displays the data that pertains to two categories from one group"){ .md-button }
+[joint relative frequency](../../vocabulary/unit1/#joint-relative-frequency "a fraction that tells you how many members of a group have a particular characteristic"){ .md-button }
 
 ###**Essential Concepts:**
 
