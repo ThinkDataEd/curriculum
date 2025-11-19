@@ -128,7 +128,7 @@ preferences as follows:
     mayonnaise? <span style="color:grey">***Answers will vary by class. The probability should be calculated by
     dividing the number of people who are standing under “Pickles,” “Mayonnaise,”
     and “Both” by the total number of students at the board.***</span><br>
-    <center><img src="https://latex.codecogs.com/gif.latex?\frac{(\&hash;students\&space;under\&space;''&space;Pickles&space;'')&plus;(\&hash;students\&space;under\&space;''&space;Mayonnaise&space;'')&plus;(\&hash;students\&space;under\&space;''&space;Both&space;'')}{\&hash;students\&space;standing\&space;at\&space;the\&space;board}" title="\frac{(\#students\ under\ '' Pickles '')+(\#students\ under\ '' Mayonnaise '')+(\#students\ under\ '' Both '')}{\#students\ standing\ at\ the\ board}" /></center>
+    <center><img src="https://latex.codecogs.com/gif.latex?\frac{(\&hash;students\&space;under\&space;''&space;Pickles&space;'')&plus;(\&hash;students\&space;under\&space;''&space;Mayonnaise&space;'') -(\&hash;students\&space;under\&space;''&space;Both&space;'')}{\&hash;students\&space;standing\&space;at\&space;the\&space;board}" title="\frac{(\#students\ under\ '' Pickles '')+(\#students\ under\ '' Mayonnaise '')-(\#students\ under\ '' Both '')}{\#students\ standing\ at\ the\ board}" /></center>
 
 13. Informs students that AND/OR probabilities are called **compound probabilities**. In teams, have
 students record their own definitions of AND/OR probabilities based on the activity they just
