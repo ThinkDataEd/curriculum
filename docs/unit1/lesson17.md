@@ -151,7 +151,7 @@ citing a numerical summary as evidence.
 
     **<u>Note:</u>** Student teams may tape or glue visuals and numerical summaries onto [LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf), or they
     can simply write the plot letter and table number in the appropriate box. The blank column is for
-    student teams to write a statistical question than can be answered with a visual and a numerical
+    student teams to write a statistical question that can be answered with a visual and a numerical
     summary that was not used.
 
 26. After student teams have been allotted ample time to complete [LMR_U1_L17_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_L17_B.pdf), lead a class
