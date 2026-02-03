@@ -44,8 +44,14 @@ i. What is the outcome of this experiment?
 To answer your research question, you and a partner will compare the outcome of the data with the
 outcomes given by a chance model (in which Streptomycin has no effect on TB).
 
-1. First, scrape the data. Refer to the web scraping lab if you need to recall how to scrape data.
-To access Sir Hill’s data, go to: [https://labs.thinkdataed.org/extras/webdata/tb.html](https://labs.thinkdataed.org/extras/webdata/tb.html "https://labs.thinkdataed.org/extras/webdata/tb.html"){:target="_blank"}
+1. First, scrape the data. Refer to the web scraping lab (Lab 3E) or copy/paste the code below into the console.
+
+        library(XML)
+        tb_url <- "https://labs.thinkdataed.org/extras/webdata/tb.html"
+        tb <- readHTMLTable(tb_url, which = 1)
+        names(tb) <- c("treatment", "outcome")
+        
+    <u>**Note:**</u> Alternatively, you can upload and import the CSV file ([tb.csv](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/tb.csv)) of the data into your RStudio project.
 
 2. Second, determine the percentages of subjects in the study that died and the percentages of
 the subjects that recovered for each group.

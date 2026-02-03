@@ -156,6 +156,8 @@
 
 [LMR_U3_Practicum_TB_or_Not_TB.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_TB_or_Not_TB.pdf)
 
+[tb.csv](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/tb.csv)
+
 [LMR_U3_Practicum_TB_or_Not_TB_SampleSolution.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_TB_or_Not_TB_SampleSolution.pdf)
 
 [LMR_U3_Practicum_Build_a_Survey.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_Practicum_Build_a_Survey.pdf)
