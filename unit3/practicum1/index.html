@@ -5315,8 +5315,13 @@ to some of the questions.</p>
 outcomes given by a chance model (in which Streptomycin has no effect on TB).</p>
 <ol>
 <li>
-<p>First, scrape the data. Refer to the web scraping lab if you need to recall how to scrape data.
-To access Sir Hill’s data, go to: <a href="https://labs.thinkdataed.org/extras/webdata/tb.html" target="_blank" title="https://labs.thinkdataed.org/extras/webdata/tb.html">https://labs.thinkdataed.org/extras/webdata/tb.html</a></p>
+<p>First, scrape the data. Refer to the web scraping lab (Lab 3E) or copy/paste the code below into the console.</p>
+<pre><code>library(XML)
+tb_url &lt;- "https://labs.thinkdataed.org/extras/webdata/tb.html"
+tb &lt;- readHTMLTable(tb_url, which = 1)
+names(tb) &lt;- c("treatment", "outcome")
+</code></pre>
+<p><u><strong>Note:</strong></u> Alternatively, you can upload and import the CSV file (<a href="../../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit%203_v_6.0/tb.csv">tb.csv</a>) of the data into your RStudio project.</p>
 </li>
 <li>
 <p>Second, determine the percentages of subjects in the study that died and the percentages of
