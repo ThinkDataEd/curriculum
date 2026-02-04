@@ -132,6 +132,8 @@
 
 [LMR_U3_L12_A.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L12_A.pdf)
 
+[LMR_U3_L12_B.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L12_B.pdf)
+
 [LMR_U3_L13.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L13.pdf)
 
 [LMR_U3_L16.pdf](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 3_v_6.0/LMR_U3_L16.pdf)
