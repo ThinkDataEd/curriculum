@@ -51,7 +51,7 @@ variable, in this case, arm span. Data points are **observed values** and points
 
     100. How close was our predicted height? <span style="color:grey">***Answer: Our line of best fit predicted that someone with an arm span of 67 inches has a height of 66.5933 inches, which rounded to the nearest whole number is 67 inches. This is pretty close as it matches one of the possible heights for someone with an arm span of 67 inches in our data.***</span>
 
-8. Remind students know that lines of best fit are also known as **regression lines** and they are models that
+8. Remind students that lines of best fit are also known as **regression lines** and they are models that
 can be used to make predictions.
 
 9. Inform students that data scientists have a way of finding the best line. They choose the line so that the mean squared distances between the points and the line is as small as possible. Discuss with students:
