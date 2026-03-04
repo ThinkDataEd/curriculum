@@ -12,7 +12,7 @@ Students will learn what decision trees look like and how they can be used to cl
 
 4. *CART Activity Round 2 Questions* ([LMR_U4_L16_D](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L16_D.pdf))
 
-    **<u>Advanced preparation required:</u>** for LMR_U4_L16_B, C, & D need to be cut (see step 8 in lesson)
+    **<u>Advanced preparation required:</u>** for LMR_U4_L16_B, C, & D need to be cut (see step 12 in lesson)
 
 ###**Vocabulary:**
 [classify](../../vocabulary/unit4/#classify "is the problem of identifying which of a set of categories (sub-populations) an observation (or observations), belongs to"){ .md-button }
