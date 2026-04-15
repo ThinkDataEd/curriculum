@@ -14,7 +14,7 @@
 
 
 
-3. [Balancing Points App](https://www.thinkdataed.org/balance-app/)  
+3. [Balancing Points App](https://idsthinkdataed.shinyapps.io/Balancing_App/)  
     Simulate the "Pennies on a Ruler" exploration activity (digital option for Unit 2 Lesson 2).
 
     Author: IDS Team
