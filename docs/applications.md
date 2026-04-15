@@ -49,7 +49,7 @@
 
 
 
-8. [M&M App](https://uobofz-gilbert-neuner.shinyapps.io/MnMs/)  
+8. [M&M App](https://idsthinkdataed.shinyapps.io/MnMs/)  
     Simulate drawing samples of Fun Size or 1.69 oz bags of M&Ms and their color compositions.
 
     Author: Gilbert Neuner
