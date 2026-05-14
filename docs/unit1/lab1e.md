@@ -36,7 +36,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * Scatterplots are useful for viewing how one *numerical* variable relates to another *numerical* variable.
 
-<img src="../../img/1xe0b.png" />
+<img src="../../img/1xe0b.png" style="display: block; margin-left: auto; margin-right: auto; width:249px;height:198px;/>
 
 ###**Creating scatterplots**
 
