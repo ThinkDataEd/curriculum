@@ -131,3 +131,8 @@ if (window.location == window.top.location) {
   xhr.send(null);
 }
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+  var searchDialog = document.querySelector('.md-search');
+  if (searchDialog) { searchDialog.setAttribute('aria-label', 'Search'); }
+});
