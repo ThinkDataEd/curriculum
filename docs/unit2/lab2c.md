@@ -63,7 +63,7 @@ or very hard and complex calculations.
     – Before we can start simulating picking songs from a playlist, we need to simulate
     that playlist in ```R```.
 
-* <span style="color:midnightblue;">**Simulate our 39 ```rap``` songs using the repeat ```rep()``` function.**</span>
+* <span style="color:midnightblue;">**Simulate our 39 ```rap``` songs using the repeat ```rep()``` function and assign the vector name ```rap```.**</span>
 
         rap <- rep("rap", times = 39)
 
