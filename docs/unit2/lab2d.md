@@ -18,7 +18,7 @@ simple probabilities.
 
     – We'll learn how to estimate their probabilities.
 
-    – We also look at the roll of sampling *with* or *without replacement*.
+    – We also look at the role of sampling *with* or *without replacement*.
 
 ###**Back to songs**
 * <span style="color:firebrick;">**(1) Write and run code simulating a *playlist* of *songs* containing 30 ```"rap"``` songs, 23 ```"country"``` songs and 47 ```"rock"```
