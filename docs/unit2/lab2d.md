@@ -65,7 +65,7 @@ name ```without```.**</span>
 * <span style="color:firebrick;">**(8) Which of these scenarios would you sample *with replacement* and which would you
 sample *without replacement*? Why?**</span>
 
-    – <span style="color:firebrick;">**(9) Write down the line of code you would run to ```sample``` from the candy jar. Assume
+* <span style="color:firebrick;">**(9) Write down the line of code you would run to ```sample``` from the candy jar. Assume
     the simulated jar is named ```candies```.**</span>
 
 ###**Simulations at work**
