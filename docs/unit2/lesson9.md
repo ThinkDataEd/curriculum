@@ -46,7 +46,7 @@ should be if a die (number cube) were tossed into the air and allowed to fall ba
 occur, so the probability of rolling a 1 is 1/6.***</span>
 
 6. Display a piece of poster paper on the board with columns labeled 1, 2, 3, 4, 5, 6. Explain that
-each column represents the numbers on the die (number cube). We will be using poster to tally
+each column represents the numbers on the die (number cube). We will be using the poster to tally
 the results of actual dice (number cube) rolls.
 
 7. Select two students to be dice (number cube) rollers and give each student one die. As noted in
@@ -126,7 +126,7 @@ back to your script and modify the function to roll die A 12 times.
         roll_die(“A”, times = 12)
 
 15. Compare the results of these 12 simulated rolls to the results of the 12 actual rolls completed by
-the two students during Step 9. If there is space available on the tally chart, you can add the
+the two students during step 9 above. If there is space available on the tally chart, you can add the
 computer results to it for an easy comparison.
 
 16. Ask students how we could record data from these simulations if we wanted to roll the die 100
@@ -167,7 +167,7 @@ is fair, each of the bars in the histogram should be roughly the same height.***
 20. Allow the students to access their school computers now to start creating their own simulations in
 an RScript using die B. Students can pair up, if needed. Have them begin by asking RStudio to
 roll the die 100 times. They should note their output from both the ```tally()``` function and the
-histogram. They can then compare the results to those from Step 14. Are they similar? Can they
+histogram. They can then compare the results to those from step 14 above. Are they similar? Can they
 determine which die is unfair yet? <span style="color:grey">***Answers will vary by class. The results will be similar, but
 not exact. With the sample sizes of each simulation being fairly small, we cannot see a
 clear difference between the two dice yet.***</span>
