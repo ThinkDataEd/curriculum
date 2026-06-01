@@ -112,7 +112,7 @@ which simply means the number of times an outcome occurs. Do not put tick-marks 
 The frequency will be measured by the number of labels plotted.
 
 11. Have students come up and place their nutrition fact label above the category that describes their
-snack. Have students stack their nutrition label so that is easy to calculate the frequency. Once all
+snack. Have students stack their nutrition label so that it is easy to calculate the frequency. Once all
 the labels have been placed, create bars with the appropriate height (frequency) for each
 category. Make sure to leave spaces between the bars, and that bars are the same width.
 
