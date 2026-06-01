@@ -96,7 +96,7 @@ want to flip the coin 10 times, we could simply change the function to ```rflip(
 
     100. How many heads (“H”s) were there? <span style="color:grey">***Answers will vary for each sample.***</span>
 
-    100. How many Tails (“T”s) were there? <span style="color:grey">***Answers will vary for each sample.***</span>
+    100. How many tails (“T”s) were there? <span style="color:grey">***Answers will vary for each sample.***</span>
 
     100. In the output, what does **Flipping 10 coins [Prob(Heads) = 0.5]** mean? <span style="color:grey">***Answer: This is
     RStudio telling us that we are tossing the coin 10 times and that the***</span> **probability** <span style="color:grey">***of
@@ -114,7 +114,7 @@ as the number of coin flips ```rflip(78)```. Ask students:
     is fair, does the value seem reasonable? <span style="color:grey">***Answers will vary for each sample. Most
     likely, you will see values near 39.***</span>
 
-    100. How many Tails (“T”s) were there? <span style="color:grey">***Answers will vary for each sample.***</span>
+    100. How many tails (“T”s) were there? <span style="color:grey">***Answers will vary for each sample.***</span>
 
     100. What proportion of the coin flips were heads? <span style="color:grey">***Answers will vary for each sample.***</span>
 
