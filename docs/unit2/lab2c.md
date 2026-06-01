@@ -63,7 +63,7 @@ or very hard and complex calculations.
     – Before we can start simulating picking songs from a playlist, we need to simulate
     that playlist in ```R```.
 
-* <span style="color:midnightblue;">**Simulate our 39 ```rap``` songs using the repeat ```rep()``` function and assign the vector name ```rap```.**</span>
+* <span style="color:midnightblue;">**Create our 39 ```rap``` songs using the repeat ```rep()``` function and assign the vector name ```rap```.**</span>
 
         rap <- rep("rap", times = 39)
 
@@ -131,9 +131,9 @@ your class's proportions is bigger or smaller than when we drew 10 songs.**</spa
 
 * To review, so far in this lab we've:
 
-    – Simulated a "playlist" of songs.
+    – Created a "playlist" of songs.
 
-    – Repeatedly simulated drawing a song from the playlist, noting its genre and placing
+    – Repeatedly selected a song from the playlist, noted its genre and placed
     it back in the playlist.
 
     – Computed the proportion of the draws that were ```"rap"```.
@@ -143,10 +143,10 @@ from a playlist.
 
     – As we increase the number of draws, the *range* of proportions should shrink.
 
-    *When using simulations to estimate probabilities, using a large number of repeats is better because the estimates have less variability and so we can be confident we're closer to the actual value.*
+    *When using repeated sampling to estimate probabilities, using a large number of repeats is better because the estimates have less variability and so we can be confident we're closer to the actual value.*
 
 ###**Non-random Randomness**
-* We've seen that random simulations can produce many different outcomes.
+* We've seen that random sampling can produce many different outcomes.
 
     – Some estimated probabilities in your class were smaller/larger relative to others.
 
@@ -164,16 +164,16 @@ from a playlist.
 
 
 ###**Playing with seeds**
-* <span style="color:midnightblue;">**With a partner, choose a number to include in ```set.seed``` then redo the simulation of 50
+* <span style="color:midnightblue;">**With a partner, choose a number to include in ```set.seed``` then redo the sampling of 50
 songs.**</span>
 
-    – Both partners should run ```set.seed(___)``` just before simulating the 50 draws.
+    – Both partners should run ```set.seed(___)``` just before sampling the 50 draws.
 
     – The blank in ```set.seed(___)``` should be the same number for both partners.
 
     – <span style="color:firebrick;">**(12) What value of ```set.seed``` did you and your partner use and what was the proportion of ```"rap"``` songs you obtained?**</span>
 
-* <span style="color:midnightblue;">**Redo the 50 simulations one last time but have each partner choose a different number for
+* <span style="color:midnightblue;">**Redo the 50 samples one last time but have each partner choose a different number for
 ```set.seed(___)```.**</span>
 
     – <span style="color:firebrick;">**(13) Are the proportions still the same? If so, can you find two different values for
@@ -186,9 +186,9 @@ Friday, 600 went to the park and the rest read at home.
     *If we select a student at random, what is the probability that this student is one of those who went to the movies last Friday?*
 
 * <span style="color:firebrick;">**(14) Write and run code estimating the probability that a randomly chosen student went to the
-movies using 500 simulations.**</span>
+movies using 500 repeated samples.**</span>
 
-    – <span style="color:firebrick;">**(15) Write down both the code and the output that estimates the probability that a randomly chosen student went to the movies using 500 simulations. You might find it helpful to write your answer in an R Script
+    – <span style="color:firebrick;">**(15) Write down both the code and the output that estimates the probability that a randomly chosen student went to the movies using 500 repeated samples. You might find it helpful to write your answer in an R Script
     *(File -> New File -> R Script)* **</span>
 
     – <span style="color:midnightblue;">**Include ```set.seed(123)``` in your code before you ```do``` 500 repeated samples.**</span>
