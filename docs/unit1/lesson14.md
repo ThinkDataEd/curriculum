@@ -154,5 +154,5 @@ of the day were.
 
 ***<center>[<u>LAB 1E: What’s the Relationship?</u>](lab1e.md)</center>***
 
-Complete [Lab 1D](lab1d.md) and [1E](lab1e.md) prior to the Practicum.
+*<center>Complete [Labs 1D](lab1d.md) and [1E](lab1e.md) prior to the Practicum.</center>*
 
