@@ -102,7 +102,7 @@ replacing the marble each time, the probabilities will change. This means each d
 the marble bag is NOT independent from another draw because removing one marble
 impacts the next event.***</span>
 
-13. *Exit Slip*: Based on this lesson, ask students to describe a sample, an event, and replacement.
+13. *Exit Slip*: Based on this lesson, ask students to describe sampling with replacement and sampling without replacement.
 
 ###**Class Scribes:**
 One team of students will give a brief talk to discuss what they think the 3 most important topics of the
