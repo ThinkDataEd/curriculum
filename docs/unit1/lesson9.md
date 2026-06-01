@@ -131,7 +131,7 @@ variability? Why or why not?
 
 13. Next, have the students write down the number of hours of sleep they hope to get this Saturday.
 How do they think this plot will differ from the first plot? Focus discussion on the shape, center,
-and spread of the distributions. Repeat steps 8-9 and discuss how this plot is similar and/or
+and spread of the distributions. Repeat steps 11-12 and discuss how this plot is similar and/or
 different than the first plot.  
 
 ###**Class Scribes:**
