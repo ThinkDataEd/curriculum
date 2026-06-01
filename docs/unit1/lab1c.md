@@ -88,7 +88,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * To compute more quickly and efficiently, ```R``` will only keep a few datasets stored in its memory at a time.
 
-    – By importing data, you are telling ```R``` that this is a dataset that is important to store it in its memory so you can use it.
+    – By importing data, you are telling ```R``` that this is a dataset that is important to store in its memory so you can use it.
 
 ###**Importing**
 
