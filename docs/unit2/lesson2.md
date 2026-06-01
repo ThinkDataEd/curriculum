@@ -75,7 +75,7 @@ the balancing point via the activity in steps 7 and 8 below.
 pennies to each table group. If you prefer to not print the document, you can project it on the
 board instead.
 
-    **<u>Note:</u>** Alternatively, you can substitute the digital version of this activity using the *Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)).
+    **<u>Note:</u>** Alternatively, you can substitute the digital version of this activity using the *Balancing Point* handout ([LMR_U2_L2_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_B.pdf)). The Balancing Point App is located on the [IDS Portal](https://portal.thinkdataed.org "https://portal.thinkdataed.org"{:target="_blank"}) - select the Explore tab dropdown, click on Applications, then select the Balancing Point App.
 
     <div align="right"><iframe src="https://docs.google.com/viewerng/viewer?url=https://curriculum.thinkdataed.org/IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf&embedded=true" style=" width:420px;height:400px;" frameborder="0"></iframe><br>[LMR_U2_L2_A](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 2_v_6.0/LMR_U2_L2_A.pdf)</div>
 
