@@ -6645,7 +6645,7 @@ probability.</p>
 that playlist in <code>R</code>.</p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Simulate our 39 <code>rap</code> songs using the repeat <code>rep()</code> function and assign the vector name <code>rap</code>.</strong></span></p>
+<p><span style="color:midnightblue;"><strong>Create our 39 <code>rap</code> songs using the repeat <code>rep()</code> function and assign the vector name <code>rap</code>.</strong></span></p>
 <pre><code>rap &lt;- rep("rap", times = 39)
 </code></pre>
 </li>
@@ -6734,8 +6734,8 @@ your class's proportions is bigger or smaller than when we drew 10 songs.</stron
 <ul>
 <li>
 <p>To review, so far in this lab we've:</p>
-<p>– Simulated a "playlist" of songs.</p>
-<p>– Repeatedly simulated drawing a song from the playlist, noting its genre and placing
+<p>– Created a "playlist" of songs.</p>
+<p>– Repeatedly selected a song from the playlist, noted its genre and placed
 it back in the playlist.</p>
 <p>– Computed the proportion of the draws that were <code>"rap"</code>.</p>
 </li>
@@ -6743,13 +6743,13 @@ it back in the playlist.</p>
 <p>These proportions are all <em>estimates</em> of the theoretical probability of choosing a rap song
 from a playlist.</p>
 <p>– As we increase the number of draws, the <em>range</em> of proportions should shrink.</p>
-<p><em>When using simulations to estimate probabilities, using a large number of repeats is better because the estimates have less variability and so we can be confident we're closer to the actual value.</em></p>
+<p><em>When using repeated sampling to estimate probabilities, using a large number of repeats is better because the estimates have less variability and so we can be confident we're closer to the actual value.</em></p>
 </li>
 </ul>
 <h3 id="non-random-randomness"><strong>Non-random Randomness</strong></h3>
 <ul>
 <li>
-<p>We've seen that random simulations can produce many different outcomes.</p>
+<p>We've seen that random sampling can produce many different outcomes.</p>
 <p>– Some estimated probabilities in your class were smaller/larger relative to others.</p>
 </li>
 <li>
@@ -6768,14 +6768,14 @@ sample(songs, size = 1, replace = TRUE)
 <h3 id="playing-with-seeds"><strong>Playing with seeds</strong></h3>
 <ul>
 <li>
-<p><span style="color:midnightblue;"><strong>With a partner, choose a number to include in <code>set.seed</code> then redo the simulation of 50
+<p><span style="color:midnightblue;"><strong>With a partner, choose a number to include in <code>set.seed</code> then redo the sampling of 50
 songs.</strong></span></p>
-<p>– Both partners should run <code>set.seed(___)</code> just before simulating the 50 draws.</p>
+<p>– Both partners should run <code>set.seed(___)</code> just before sampling the 50 draws.</p>
 <p>– The blank in <code>set.seed(___)</code> should be the same number for both partners.</p>
 <p>– <span style="color:firebrick;"><strong>(12) What value of <code>set.seed</code> did you and your partner use and what was the proportion of <code>"rap"</code> songs you obtained?</strong></span></p>
 </li>
 <li>
-<p><span style="color:midnightblue;"><strong>Redo the 50 simulations one last time but have each partner choose a different number for
+<p><span style="color:midnightblue;"><strong>Redo the 50 samples one last time but have each partner choose a different number for
 <code>set.seed(___)</code>.</strong></span></p>
 <p>– <span style="color:firebrick;"><strong>(13) Are the proportions still the same? If so, can you find two different values for
 <code>set.seed</code> that give different answers?</strong></span></p>
@@ -6790,8 +6790,8 @@ Friday, 600 went to the park and the rest read at home.</p>
 </li>
 <li>
 <p><span style="color:firebrick;"><strong>(14) Write and run code estimating the probability that a randomly chosen student went to the
-movies using 500 simulations.</strong></span></p>
-<p>– <span style="color:firebrick;"><strong>(15) Write down both the code and the output that estimates the probability that a randomly chosen student went to the movies using 500 simulations. You might find it helpful to write your answer in an R Script
+movies using 500 repeated samples.</strong></span></p>
+<p>– <span style="color:firebrick;"><strong>(15) Write down both the code and the output that estimates the probability that a randomly chosen student went to the movies using 500 repeated samples. You might find it helpful to write your answer in an R Script
 <em>(File -&gt; New File -&gt; R Script)</em> </strong></span></p>
 <p>– <span style="color:midnightblue;"><strong>Include <code>set.seed(123)</code> in your code before you <code>do</code> 500 repeated samples.</strong></span></p>
 </li>
