@@ -60,7 +60,7 @@ or very hard and complex calculations.
 ###**Getting ready**
 * Simulations are meant to mimic what happens in real-life using randomness and computers.
 
-    – Before we can start simulating picking songs from a playlist, we need to simulate
+    – Before we can start simulating picking songs from a playlist, we need to create
     that playlist in ```R```.
 
 * <span style="color:midnightblue;">**Create our 39 ```rap``` songs using the repeat ```rep()``` function and assign the vector name ```rap```.**</span>
@@ -69,7 +69,7 @@ or very hard and complex calculations.
 
 * <span style="color:midnightblue;">**Look in the *Environment* pane for the vector containing your ```rap``` songs.**</span>
 
-* <span style="color:firebrick;">**(3) Write and run a similar line of code to simulate the ```rock``` songs in our playlist of 100.**</span>
+* <span style="color:firebrick;">**(3) Write and run a similar line of code to create the remaining ```rock``` songs in our playlist of 100.**</span>
 
 ###**Put the songs in the playlist**
 
