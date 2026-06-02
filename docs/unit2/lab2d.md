@@ -3,30 +3,30 @@
 Directions: Follow along with the slides, completing the questions in <span style="color:midnightblue;">**blue**</span> on your computer, and answering the questions in <span style="color:firebrick;">**red**</span> in your journal.
 
 ###**Where we left off**
-* In the last lab, we looked at how we can use computer simulations to compute estimates of
+* In the last lab, we looked at how we can use sampling to compute estimates of
 simple probabilities.
 
     – Like the probability of drawing a song genre from a playlist.
 
-* We also saw that performing *more* simulations:
+* We also saw that performing *more* repeated samples:
 
     – Took *longer* to finish.
 
     – Had estimates that *varied less*.
 
-* In this lab, we'll extend our simulation methods to cover situations that are more complex.
+* In this lab, we'll extend our sampling methods to cover situations that are more complex.
 
     – We'll learn how to estimate their probabilities.
 
     – We also look at the role of sampling *with* or *without replacement*.
 
 ###**Back to songs**
-* <span style="color:firebrick;">**(1) Write and run code simulating a *playlist* of *songs* containing 30 ```"rap"``` songs, 23 ```"country"``` songs and 47 ```"rock"```
+* <span style="color:firebrick;">**(1) Write and run code creating a *playlist* of *songs* containing 30 ```"rap"``` songs, 23 ```"country"``` songs and 47 ```"rock"```
 songs.**</span>
 
     – <span style="color:midnightblue;">***Assign* the combined playlist the name ```songs```.**</span>
 
-* <span style="color:firebrick;">**(2) Write and run code simulating choosing a single song 50 times. Then use your simulated draws to estimate the
+* <span style="color:firebrick;">**(2) Write and run code to randomly select a single song 50 times. Then use your 50 sample draws to estimate the
 probability of choosing a *rap* song.**</span>
 
     – The "true" (theoretical) probability of choosing a *rap* song in this case is ```0.30```.
@@ -65,8 +65,7 @@ name ```without```.**</span>
 * <span style="color:firebrick;">**(8) Which of these scenarios would you sample *with replacement* and which would you
 sample *without replacement*? Why?**</span>
 
-* <span style="color:firebrick;">**(9) Write down the line of code you would run to ```sample``` from the candy jar. Assume
-    the simulated jar is named ```candies```.**</span>
+* <span style="color:firebrick;">**(9) Write down the line of code you would run to ```sample``` from the candy jar. Name the candy jar data that you create ```candies```.**</span>
 
 ###**Simulations at work**
 * In reality, songs from a playlist are chosen without replacement.
@@ -76,13 +75,13 @@ sample *without replacement*? Why?**</span>
 * Let's write a more realistic simulation and estimate the probability that if we select two songs at
 random, without replacement, that both are rap songs.
 
-    – <span style="color:firebrick;">**(10) Write and run code using the ```do``` function to perform 10 simulated ```sample```s of ```size``` 2, without replacement and *assign* the simulations the name ```draws``` and then ```View``` your file. Use ```set.seed(1)```.**</span>
+    – <span style="color:firebrick;">**(10) Write and run code using the ```do``` function to perform 10 simulated ```sample```s of ```size``` 2, without replacement and *assign* the output of the simulated samples the name ```draws``` and then ```View``` your file. Use ```set.seed(1)```.**</span>
 
-    – <span style="color:firebrick;">**(11) What are the variable names? What happened in the first simulation? Did any of your 10 simulations contain two rap songs?** </span>   
+    – <span style="color:firebrick;">**(11) What are the variable names? What happened in the first simulated samples? Did any of your 10 simulated samples contain two rap songs?** </span>   
 
 ###**Simulations and probability**
-* To estimate the probability from our simulations, we need to find the proportion of times that the
-event we're interested in occurs in the simulations.
+* To estimate the probability from our simulated samples, we need to find the proportion of times that the
+event we're interested in occurs in the samples.
 
 * In other words, we need to count the number of times the desired events occurred, divided by the
 number of attempts we made (the number of simulations).
@@ -131,7 +130,7 @@ occurred.
 
 
 ###**Estimating probabilities**
-* <span style="color:firebrick;">**(14) Write and run code performing 500 simulations of sampling 2 songs from a playlist of 30 ```"rap"```, 23 ```"country"``` and 47 ```"rock"``` songs. You might consider running ```set.seed``` so that your results can be reproduced:**</span>
+* <span style="color:firebrick;">**(14) Write and run code performing 500 simulated samples of selecting 2 songs from a playlist of 30 ```"rap"```, 23 ```"country"``` and 47 ```"rock"``` songs. You might consider running ```set.seed``` so that your results can be reproduced:**</span>
 
 * <span style="color:firebrick;">**(15) Calculate and write down the estimated probabilities for the following situations:**</span>
 
