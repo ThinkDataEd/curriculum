@@ -92,6 +92,8 @@ function:
 11. Explain that the value of 1 in the argument part of the function tells R to flip the coin 1 time. If we
 want to flip the coin 10 times, we could simply change the function to ```rflip(10)```.
 
+    **<u>Note:</u>** Each flip is an event, and the output of our simulation creates our simulated sample.
+
 12. Run the function again using 10 as the number of times to flip the coin. Ask students:
 
     100. How many heads (“H”s) were there? <span style="color:grey">***Answers will vary for each sample.***</span>
@@ -136,7 +138,7 @@ record the values for the number of heads and the proportion of heads.
     <span style="color:grey">***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;proportion of heads: 0.538***</span>
 
 15. Have students answer the questions below. The important thing to note is that the values
-can and (almost always) WILL change each time you run the simulation to create a new sample.
+can and (almost always) WILL change each time you run the simulation to create a new simulated sample.
 
     100. How do the proportions of heads in the samples compare to each other? <span style="color:grey">***Answers will
     vary.***</span>
@@ -153,7 +155,7 @@ can and (almost always) WILL change each time you run the simulation to create a
 
     100. If a coin was flipped 78 times, I would claim that the coin is unfair if I got less than <b><span style="color:purple">#</span></b> heads or more than <b><span style="color:purple">#</span></b> heads.
 
-17. Inform students that you are going to perform 500 simulations. Each simulation represents a coin being flipped 78 times. For each simulation, the computer will record the number of heads in the 78 flips. A histogram will be created that represents the number of heads in each of the simulations. The histogram is a model that will display what typically happens when a fair coin is flipped 78 times.
+17. Inform students that you are going to run the simulation 500 times. Each run will create a simulated sample of 78 coin flips and the computer will record the number of heads in those 78 coin flips. A histogram will be created taht represents the number of heads in each of the simulated samples. The histogram is a model that will display what typically happens when a fair coin is flipped 78 times.
 
 18. Copy and paste the code below in an RScript and run each line of code, one at a time, for the students:
 
