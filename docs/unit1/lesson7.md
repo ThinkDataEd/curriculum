@@ -15,7 +15,7 @@ distribution prior to the lesson**
 
 4. *Food Habits Campaign* guidelines ([LMR_U1_Campaign_Food_Habits](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit 1_v_6.0/LMR_U1_Campaign_Food_Habits.pdf))
 
-5. **<u>Optional:**</u> You can show [this video](https://www.youtube.com/embed/hksbF5QWY2E) to demonstrate to students how to take a survey using the browser or [this video](https://www.youtube.com/embed/GbR22R32mhU) for the app.
+5. **<u>Optional:**</u> You can show [this video](https://www.youtube.com/embed/hksbF5QWY2E) to demonstrate to students how to take a survey using the browser or [this video](https://www.youtube.com/embed/tGK3Am6-BQo?si=ao-4w6pM6vSzcKkr) for the app.
 
 ###**Vocabulary:**
 [Participatory Sensing](../../vocabulary/unit1/#participatory-sensing "an approach to data collection and interpretation in which individuals, acting alone or in groups, use their personal mobile devices and web services to explore interesting aspects of their worlds ranging from health to culture"){ .md-button }
