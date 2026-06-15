@@ -114,7 +114,7 @@ the following questions and record their responses on the *Predicting Values* ha
     Profit=354.393 or 354,3930400 million dollars.***</span>
 
     100. What was the actual box office gross for the point that lies closest to the line? <span style="color:grey">***Answer: The actual box office gross was
-    352,400,000 million dollars.
+    352,400,000 million dollars.***
 
     100. What if Michael Bay made a movie that had 275 explosions? What would his predicted
     profit be? Show how you arrived at the solution. <span style="color:grey">***Answer: By substituting 275 in the value of x in
