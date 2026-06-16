@@ -52,7 +52,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – To do this, we'll perform a statistical investigation.
 
-* <span style="color:firebrick;">**(5) State and answer two statistical investigative questions based on our *research question*.**</span>
+* <span style="color:firebrick;">**(5) State and answer two statistical questions based on our *research question*.**</span>
 
 * <span style="color:firebrick;">**(6) State one way in which your personal data is *typical* and one way that it *differs* from the rest of the class.**</span>
 

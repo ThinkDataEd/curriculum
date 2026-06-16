@@ -98,6 +98,6 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**On your own**
 * <span style="color:firebrick;">**(7) Describe what happens if you create a 2-way frequency table with a numerical variable and a categorical variable.**</span>
 
-* <span style="color:firebrick;">**(8) How are the types of statistical investigative questions that 2-way frequency tables can answer different than 1-way frequency tables?**</span>
+* <span style="color:firebrick;">**(8) How are the types of statistical questions that 2-way frequency tables can answer different than 1-way frequency tables?**</span>
 
 * <span style="color:firebrick;">**(9) Which ```sex``` has a higher rate of *part time employment*?**</span>
