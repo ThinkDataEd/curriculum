@@ -3,7 +3,33 @@ If you have any questions, please contact us at [support@thinkdataed.org](mailto
 
 Introduction to Data Science, [https://www.thinkdataed.org](https://www.thinkdataed.org){:target="_blank"}
 
-This website was last updated on July 31, 2025.
+This website was last updated on June 16, 2026.
+
+Changes that have been made to version 7.4
+
+**All Labs**
+
+ - Simplified wording for statistical questions
+
+       - "investigative" has been removed from "statistical investigative questions"
+
+**All Units**
+
+ - Clarified wording of "simulations", "random samples", "simulated sample", "sample space", etc.
+
+ **Unit 2**
+
+ - Balancing Point LMR has been updated to new Balancing Point App for more consistency between the original activity that uses a ruler
+
+----------------------------------------------------
+
+Changes that have been made to version 7.3
+
+**All Units**
+
+ - Internal changes (not reflected in lessons or labs)
+
+----------------------------------------------------
 
 Changes that have been made to version 7.2
 
