@@ -27,8 +27,6 @@ Students will learn the features of a good statistical question.
 
     (6) The question is one that is worth investigating, is interesting, and has a purpose
 
-    **<u>Note:</u>** You may see statistical questions referred to as statistical investigative questions, which may be used interchangeably by statisticians and data scientists.
-
 
 ###**Lesson:**
 1. Entrance Slip (see [Instructional Strategies](../IDS_Curriculum_v_5.0/4_IDS_Teacher Resources_v_5.0/TR_Instructional Strategies.pdf) in [Teacher Resources](../download/resources.md)): Each student should submit a
