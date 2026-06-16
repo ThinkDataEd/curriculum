@@ -98,6 +98,29 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
 * <span style="color:midnightblue;">**Click on the name of the file and choose the option "Import Dataset..."**</span>
 
+* If you do not see the data in your Environment pane, see the instructions on the next slide.
+
+###**Importing with Google Drive**
+
+* If you see the data in your Environment pane,  skip this slide.
+
+* If you do not see the data in your Environment pane and you got the following error message, follow the steps below for an alternate method of importing your data.
+
+<img src="../../img/1xc0ef.png" style="width:264px;height:212px;"/>
+
+* <span style="color:midnightblue;">**Your teacher will provide you with an ID to store in an RScript and run.**</span><br>
+Example:<br>
+```id <- "1hMVVxWhSv31jCNuKILRhNRTdUknNIOyb"```
+
+* <span style="color:midnightblue;">**Use the read.csv command below to read in the file.**</span><br>
+Example:<br>
+```new_file_name <- read.csv(sprintf("https://docs.google.com/uc?id=%s&export=download", id), stringsAsFactors=T)```
+
+* You should now see your file in your Environment!
+
+* <span style="color:midnightblue;">**If you'd like to save the data file to your "Files" in your project, run the following code:**</span><br>
+```write_csv(new_file_name, "new_file_name.csv")```
+
 ###**Data Preview**
 
 <img src="../../img/1xc0ee.png" style="width:400px;height:275px;"/>
