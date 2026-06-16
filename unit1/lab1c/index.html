@@ -1198,6 +1198,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#importing-with-google-drive" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Importing with Google Drive
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#data-preview" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -6537,6 +6548,17 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#importing-with-google-drive" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Importing with Google Drive
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#data-preview" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -6726,6 +6748,38 @@ src="https://www.youtube.com/embed/4mChtv5qy1g" allowfullscreen>
 </li>
 <li>
 <p><span style="color:midnightblue;"><strong>Click on the name of the file and choose the option "Import Dataset..."</strong></span></p>
+</li>
+<li>
+<p>If you do not see the data in your Environment pane, see the instructions on the next slide.</p>
+</li>
+</ul>
+<h3 id="importing-with-google-drive"><strong>Importing with Google Drive</strong></h3>
+<ul>
+<li>
+<p>If you see the data in your Environment pane,  skip this slide.</p>
+</li>
+<li>
+<p>If you do not see the data in your Environment pane and you got the following error message, follow the steps below for an alternate method of importing your data.</p>
+</li>
+</ul>
+<p><img src="../../img/1xc0ef.png" style="width:264px;height:212px;"/></p>
+<ul>
+<li>
+<p><span style="color:midnightblue;"><strong>Your teacher will provide you with an ID to store in an RScript and run.</strong></span><br>
+Example:<br>
+<code>id &lt;- "1hMVVxWhSv31jCNuKILRhNRTdUknNIOyb"</code></p>
+</li>
+<li>
+<p><span style="color:midnightblue;"><strong>Use the read.csv command below to read in the file.</strong></span><br>
+Example:<br>
+<code>new_file_name &lt;- read.csv(sprintf("https://docs.google.com/uc?id=%s&amp;export=download", id), stringsAsFactors=T)</code></p>
+</li>
+<li>
+<p>You should now see your file in your Environment!</p>
+</li>
+<li>
+<p><span style="color:midnightblue;"><strong>If you'd like to save the data file to your "Files" in your project, run the following code:</strong></span><br>
+<code>write_csv(new_file_name, "new_file_name.csv")</code></p>
 </li>
 </ul>
 <h3 id="data-preview"><strong>Data Preview</strong></h3>
