@@ -33,7 +33,7 @@
 # Introduction to Data Science Curriculum
 ![IDS-logo](img/IDS-logo.png)
 
-*<span style="color:grey">(version 7.2)</span>*
+*<span style="color:grey">(version 7.4)</span>*
 
 **Robert Gould**
 
@@ -51,7 +51,7 @@ Learning". Lead Principal Investigator: Robert Gould (UCLA, Statistics).
 ![sponsor](img/sponsor.png)
 
 ## Contributing Authors
-**LAUSD:** Monica Casillas and Heidi Estevez
+**LAUSD:** Monica Casillas and Heidi Bullock
 
 **UCLA:** Amelia McNamara and Linda Zanontian
 
