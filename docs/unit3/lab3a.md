@@ -13,12 +13,12 @@ perception of time.
     *Does the stimulus your class chose change people's perception of time?*
 
 ###**Coming up with questions**
-* <span style="color:firebrick;">**(1) Write down two statistical investigative questions that will help you answer the *research question*
+* <span style="color:firebrick;">**(1) Write down two statistical questions that will help you answer the *research question*
 from the previous slide.**</span>
 
 * <span style="color:midnightblue;">**Then, *export*, *upload*, *import* your experiment data into RStudio.**</span>
 
-    – If you're having trouble coming up with good statistical investigative questions, try loading the
+    – If you're having trouble coming up with good statistical questions, try loading the
     data and looking at the variables.
 
     – Ask yourself, *How would I use these variables to answer the research question?*
