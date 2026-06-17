@@ -5,7 +5,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 ###**Playing with permutations**
 * There is a common belief that women in *slasher* films are more likely to survive than men.
 
-* This lab will focus on the statistical investigative question: *Are women in slasher films more likely to
+* This lab will focus on the statistical question: *Are women in slasher films more likely to
 survive until the end of the film than men?*
 
 * To answer this question, we'll learn how to use permuted data to gauge how likely an event
