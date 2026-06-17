@@ -26,7 +26,7 @@ sample of Americans spent their day.**</span>
 
     - Note: If you want to know the US population or world population in real time, click on this link: [https://www.census.gov/popclock/](https://www.census.gov/popclock/ "https://www.census.gov/popclock/")
 
-* The statistical investigative question we wish to answer is:
+* The statistical question we wish to answer is:
 
     *What is the mean age of people older than 15 living in the United States?*
 
