@@ -108,7 +108,7 @@ a. How would you collect data to address this using PS? Include the trigger even
 use, and the data you would like to collect when the trigger happens.
 
 b. How would you collect data to collect this using a survey based on a random sample of
-people in California?
+people in your state?
 
 c. Describe the differences between these two approaches. What can you learn in one
 approach that you can't in the other?
