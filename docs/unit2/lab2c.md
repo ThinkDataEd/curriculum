@@ -18,7 +18,7 @@ playlist with both rap and rock songs, if the choice is made at random.
 down its genre (*rock* or *rap*), put the song back in the playlist, and repeat 499 more times for
 a total of 500 times.
 
-* The statistical investigative question we want to address is: *On average, what proportion of our
+* The statistical question we want to address is: *On average, what proportion of our
 selections will be rap?*
 
 * <span style="color:firebrick;">**(1) Why do we *put a song back* each time we make a selection?**</span>
