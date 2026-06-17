@@ -91,4 +91,4 @@ day were.
 
 ###<p style="background: black; color: white; text-align: center;">**Homework & Next Day**</p>
 Students will continue to collect data using the class’s Participatory Sensing campaign (see [Lessons 17](lesson17.md)-
-[19](lesson19.md)). They will analyze the data the next day during the *What Does Our Campaign Data Say?* Practicum.
+[19](lesson19.md)). They will analyze the data the next day during the [End of Unit 3 Project](end.md).
