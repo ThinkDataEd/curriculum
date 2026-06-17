@@ -92,7 +92,7 @@ smoking on children's lungs.**</span>
 * <span style="color:firebrick;">**(6) Write and run code using the ```lungs``` data to create an ```xyplot``` of ```age``` and ```lung_cap```. Interpret the plot and describe why the relationship between the two variables makes sense.**</span>
 
 ###**Smoking and lung capacity**
-* <span style="color:firebrick;">**(7) Write and run code making a plot that can be used to answer the statistical investigative question:**</span>
+* <span style="color:firebrick;">**(7) Write and run code making a plot that can be used to answer the statistical question:**</span>
 
     *Do people who smoke tend to have lower lung capacity than those who do not smoke?*
 
