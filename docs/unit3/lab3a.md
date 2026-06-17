@@ -24,9 +24,9 @@ from the previous slide.**</span>
     – Ask yourself, *How would I use these variables to answer the research question?*
 
 ###**Analyzing our data**
-* <span style="color:midnightblue;">**Create appropriate plots to answer your statistical investigative questions.**</span>
+* <span style="color:midnightblue;">**Create appropriate plots to answer your statistical questions.**</span>
 
-* <span style="color:midnightblue;">**Calculate appropriate numerical summaries to answer your statistical investigative questions.**</span>
+* <span style="color:midnightblue;">**Calculate appropriate numerical summaries to answer your statistical questions.**</span>
 
 * <span style="color:firebrick;">**(2) Write down a few sentences interpreting your plots and summaries.**</span>
 
