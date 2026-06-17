@@ -9,7 +9,7 @@ Directions: Follow along with the slides, completing the questions in <span styl
 
     – We also learned how to clean data to prepare it for analyzing.
 
-* Starting with this lab, we'll learn to use ```R``` to answer statistical investigative questions that can be
+* Starting with this lab, we'll learn to use ```R``` to answer statistical questions that can be
 answered by calculating the mean, median and MAD.
 
 ###**How to talk about data**
@@ -101,7 +101,7 @@ how closely the rest of the data are to this *typical* value.
 ###**Comparing introverts/extroverts**
 * Do introverts and extroverts differ in their typical scores for your predominant color?
 
-    – Answer this investigative question using a ```dotPlot``` and numerical summaries.
+    – Answer this statistical question using a ```dotPlot``` and numerical summaries.
 
 * <span style="color:firebrick;">**(15) Write and run code making a ```dotPlot``` of your *predominant color* again; but this time, facet the plot by the introvert/extrovert variable. Include the ```layout``` option to stack the plots as well as the ```nint``` and ```cex``` options.**</span>
 
@@ -119,5 +119,5 @@ how closely the rest of the data are to this *typical* value.
 
     – <span style="color:midnightblue;">**Perform an analysis that produces *numerical summaries* and *graphs*.**</span>
 
-    – <span style="color:firebrick;">**(20) Then, write a few sentences that address this statistical investigative question and considers the *shape*, *center* and *spread* of the distributions of
+    – <span style="color:firebrick;">**(20) Then, write a few sentences that address this statistical question and considers the *shape*, *center* and *spread* of the distributions of
     the graphs you create.**</span>
