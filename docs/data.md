@@ -35,6 +35,18 @@ extra datasets
 !!! abstract "stresschill_ids"
       extra_data('stresschill_ids')
 
+      #If you'd like to merge this dataset with your class, follow these steps: <br>
+      #Create a subset stresschill_class of your class data without the variables <br>
+      # of latitude and longitude <br>
+      #This assumes your class set is named p6_stress
+      
+      stresschill_class <- subset(p6_stress, select = -c(latitude, longitude)) <br>
+      #bring in stresschill_ids dataset from IDS archive <br>
+      extra_data('stresschill_ids') <br>
+      
+      #row bind the 2 datasets together <br>
+      stresschill_full <- rbind(stresschill_class, stresschill_ids)
+
 ### time_exp
 
 !!! abstract "time_exp"
