@@ -6502,6 +6502,15 @@
 <div class="admonition abstract">
 <p class="admonition-title">stresschill_ids</p>
 <p>extra_data('stresschill_ids')</p>
+<p>#If you'd like to merge this dataset with your class, follow these steps: <br>
+  #Create a subset stresschill_class of your class data without the variables <br>
+  # of latitude and longitude <br>
+  #This assumes your class set is named p6_stress</p>
+<p>stresschill_class &lt;- subset(p6_stress, select = -c(latitude, longitude)) <br>
+  #bring in stresschill_ids dataset from IDS archive <br>
+  extra_data('stresschill_ids') <br></p>
+<p>#row bind the 2 datasets together <br>
+  stresschill_full &lt;- rbind(stresschill_class, stresschill_ids)</p>
 </div>
 <h3 id="time_exp">time_exp</h3>
 <div class="admonition abstract">
