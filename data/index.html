@@ -6482,11 +6482,24 @@
 <div class="admonition abstract">
 <p class="admonition-title">colors_ids</p>
 <p>extra_data('colors_ids')</p>
+<p>#If you'd like to merge this dataset with your class, follow these steps: <br>
+  #Create a subset colors_class of your class data without the variables <br>
+  # of latitude and longitude <br>
+  #This assumes your class data is named p6_colors</p>
+<p>colors_class &lt;- subset(p6_colors, select = -c(latitude, longitude)) <br>
+  #bring in colors_ids dataset from IDS archive <br>
+  extra_data('colors_ids') <br></p>
+<p>#row bind the 2 datasets together <br>
+  colors_full &lt;- rbind(colors_class, colors_ids)</p>
 </div>
 <h3 id="food_ids">food_ids</h3>
 <div class="admonition abstract">
 <p class="admonition-title">food_ids</p>
 <p>extra_data('food_ids')</p>
+<p>#If you'd like to merge this dataset with your class, follow these steps:</p>
+<p>food_class &lt;- subset(p6_food, select = -c(latitude, longitude)) <br>
+  extra_data('food_ids') <br>
+  food_full &lt;- rbind(food_class, food_ids)</p>
 </div>
 <h3 id="hiring">hiring</h3>
 <div class="admonition abstract">
@@ -6502,25 +6515,28 @@
 <div class="admonition abstract">
 <p class="admonition-title">stresschill_ids</p>
 <p>extra_data('stresschill_ids')</p>
-<p>#If you'd like to merge this dataset with your class, follow these steps: <br>
-  #Create a subset stresschill_class of your class data without the variables <br>
-  # of latitude and longitude <br>
-  #This assumes your class set is named p6_stress</p>
+<p>#If you'd like to merge this dataset with your class, follow these steps: </p>
 <p>stresschill_class &lt;- subset(p6_stress, select = -c(latitude, longitude)) <br>
-  #bring in stresschill_ids dataset from IDS archive <br>
-  extra_data('stresschill_ids') <br></p>
-<p>#row bind the 2 datasets together <br>
+  extra_data('stresschill_ids') <br>
   stresschill_full &lt;- rbind(stresschill_class, stresschill_ids)</p>
 </div>
 <h3 id="time_exp">time_exp</h3>
 <div class="admonition abstract">
 <p class="admonition-title">time_exp</p>
 <p>extra_data('time_exp')</p>
+<p>#If you'd like to merge this dataset with your class, follow these steps: </p>
+<p>time_class &lt;- subset(p6_time, select = -c(latitude, longitude)) <br>
+  extra_data('time_exp') <br>
+  time_full &lt;- rbind(time_class, time_exp)  </p>
 </div>
 <h3 id="timeuse_ids">timeuse_ids</h3>
 <div class="admonition abstract">
 <p class="admonition-title">timeuse_ids</p>
 <p>extra_data('timeuse_ids')</p>
+<p>#If you'd like to merge this dataset with your class, follow these steps: </p>
+<p>timeuse_class &lt;- subset(p6_timeuse, select = -c(latitude, longitude)) <br>
+  extra_data('timeuse_ids') <br>
+  timeuse_full &lt;- rbind(timeuse_class, timeuse_ids)</p>
 </div>
 
 
