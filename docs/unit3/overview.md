@@ -175,7 +175,7 @@
   <tr>
     <td class="tg-uys7" rowspan="5">What’s the<br>Trigger?<br>(5 days)</td>
     <td class="tg-uys7">21</td>
-    <td class="tg-xldj"><a href="../../unit3/lesson15">Lesson 15 Ready, Sense, Go!</a></td>
+    <td class="tg-xldj"><a href="../../unit3/lesson15">Lesson 15: Ready, Sense, Go!</a></td>
     <td class="tg-xldj"></td>
     <td class="tg-xldj">Sensors, data collection</td>
     <td class="tg-uys7"><a href="../../unit3/lesson15">271</a></td>
