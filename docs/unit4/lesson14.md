@@ -9,7 +9,8 @@ Students will see that different variables can be used to make predictions about
 2. *Advertising Plots Part 2* handout ([LMR_U4_L14_B](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_B.pdf))
 
 3. *Article: How Long Can a Spinoff Like ‘Better Call Saul’ Last?*<br>
-    [http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"){:target="_blank"}
+    [http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/](http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/ "http://fivethirtyeight.com/features/how-long-can-a-spinoff-like-better-call-saul-last/"){:target="_blank"} <br>
+    **<u>Note:</u>** If the article does not load, a PDF version is available [[here](../IDS_Curriculum_v_5.0/2_IDS_LMRs_v_6.0/IDS_LMR_Unit4_v_7/LMR_U4_L14_Better_Call_Saul.pdf)].
 
 ###**Vocabulary:**
 [market](../../vocabulary/unit4/#market "refers to the live streaming of trade-related data; it encompasses a range of information such as price, bid/ask quotes and market volume"){ .md-button }
